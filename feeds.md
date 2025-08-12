@@ -1,31 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-12 19:02:14 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-08-12 20:01:43 UTC -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, August 12, 2025 - 19:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, August 12, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -101,6 +102,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/12/the_thinker-500x500.jpg" alt="Why it’s a mistake to ask chatbots about their mistakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/08/why-its-a-mistake-to-ask-chatbots-about-their-mistakes/" target="_blank">Why it’s a mistake to ask chatbots about their mistakes</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-12 19:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/635839/best-foldable-phone" target="_blank">The best foldable phone you can buy</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-12 19:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/12/indian-fintech-paytm-wins-a-major-regulatory-battle-days-after-key-investor-exit/" target="_blank">Indian fintech Paytm wins a major regulatory battle days after key investor exit</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-12 19:08</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -127,38 +155,20 @@
                 <span class="time">2025-08-12 16:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/kpopTOP-500x500.jpg" alt="They’re golden: Fictional band from K-Pop Demon Hunters tops the charts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2025/08/theyre-golden-fictional-band-fromk-pop-demon-hunters-tops-the-charts/" target="_blank">They’re golden: Fictional band from K-Pop Demon Hunters tops the charts</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-12 16:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68911edf5cf36cc42819acb5/master/pass/pol_dhs_getty.jpg" alt="The Trump Administration Is Using Memes to Turn Mass Deportation Into One Big Joke" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/trump-administration-dhs-white-house-deportations-meme/" target="_blank">The Trump Administration Is Using Memes to Turn Mass Deportation Into One Big Joke</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-12 15:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689a48b3669b22c6f5bf4726/master/pass/Cloud%20vs.%20Local-%20What%E2%80%99s%20the%20Best%20for%20Security%20Camera%20Footage_.png" alt="Cloud vs. Local: What’s the Best for Security Camera Footage? (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/security-camera-video-cloud-vs-local-storage/" target="_blank">Cloud vs. Local: What’s the Best for Security Camera Footage? (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-12 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ussdlover/building-robust-form-validation-in-angular-with-custom-validators-2605" target="_blank">Building Robust Form Validation in Angular with Custom Validators</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-12 19:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +214,6 @@
                 <span class="time">2025-08-12 17:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/CrossOver-25.1-Released" target="_blank">CodeWeavers CrossOver 25.1 Improves The Stability Of Microsoft Office On Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-12 16:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,12 +234,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K2FMMZG3SD4HASA0SE2R694X/hero-image.png" alt="The Best Ways to Manage Your MacBook&#x27;s Battery Health" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-to-manage-your-macbooks-battery-health?utm_medium=RSS" target="_blank">The Best Ways to Manage Your MacBook&#x27;s Battery Health</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-12 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/hurricanes-Milton-Kirk-Leslie.jpg" alt="Hurricane Swarms Are a Thing We Have to Worry About Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/hurricane-swarms-are-a-thing-we-have-to-worry-about-now-2000642070" target="_blank">Hurricane Swarms Are a Thing We Have to Worry About Now</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-12 19:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JY25W0KR3SPV4D8JE6BTYYPC/hero-image.png" alt="The Three Fitness Apps I Use Every Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/health/fitness-apps-i-use-every-day?utm_medium=RSS" target="_blank">The Three Fitness Apps I Use Every Day</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-12 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/An-ancient-Kodak-film-camera.-Andy-Meyers-Shutte.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="133 year-old Kodak, crushed by debt, warns it may go out of business" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/12/133-year-old-kodak-crushed-by-debt-warns-it-may-go-out-of-business.html" target="_blank">133 year-old Kodak, crushed by debt, warns it may go out of business</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-12 18:24</span>
             </div>
         </div>
 <div class="story">
@@ -257,33 +285,6 @@
                 <span class="title"><a href="https://gizmodo.com/jesus-christ-the-rise-of-ai-for-talking-to-god-2000641940" target="_blank">Jesus Christ! The Rise of AI for Talking to God</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-12 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/02/Emperor-Trump-1.webp?fit=1500%2C1000&amp;quality=55&amp;ssl=1" alt="If you want to stop a fascist takeover, we must act now: Here&#x27;s how" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/12/if-you-want-to-stop-a-fascist-takeover-we-must-act-now-heres-how.html" target="_blank">If you want to stop a fascist takeover, we must act now: Here&#x27;s how</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-12 15:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/LINK.jpg" alt="Everything You Need To Know About Playing The Legend Of Zelda: Link’s Awakening On Switch 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/switch-2-upgrade-links-awakening-zelda-fps-hdr-2000617165" target="_blank">Everything You Need To Know About Playing The Legend Of Zelda: Link’s Awakening On Switch 2</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-12 14:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Kpop-Demon-Hunters-1.jpg" alt="‘KPop Demon Hunters’ Will Return to Theaters for a Sing-Along Special" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/kpop-demon-hunters-singalong-theater-release-tickets-netflix-2000641138" target="_blank">‘KPop Demon Hunters’ Will Return to Theaters for a Sing-Along Special</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-12 14:45</span>
             </div>
         </div>
 </div>
@@ -323,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
