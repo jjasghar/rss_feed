@@ -1,41 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-08-12 00:05:01 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-12 01:29:15 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Generated 4 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, August 12, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, August 12, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +98,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/11/prontos-10-minute-house-help-pitch-sparked-a-3-6x-valuation-jump-in-just-90-days/" target="_blank">Pronto’s 10-minute house help pitch sparked a 3.6x valuation jump in just 90 days</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-12 00:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/malware-threat-500x500.jpg" alt="High-severity WinRAR 0-day exploited for weeks by 2 groups" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/08/high-severity-winrar-0-day-exploited-for-weeks-by-2-groups/" target="_blank">High-severity WinRAR 0-day exploited for weeks by 2 groups</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-12 00:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/09/openai_tectonic_shift_3-500x500.jpg" alt="The GPT-5 rollout has been a big mess" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -146,24 +151,6 @@
                 <span class="time">2025-08-11 20:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/11/poshmark-ceo-and-founder-to-step-down/" target="_blank">Poshmark CEO and founder to step down</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-11 19:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689a0b2b60dfed561d75f58a/master/pass/chatgpt5-biz-2229191478.jpg" alt="OpenAI Scrambles to Update GPT-5 After Users Revolt" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/openai-gpt-5-backlash-sam-altman/" target="_blank">OpenAI Scrambles to Update GPT-5 After Users Revolt</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-11 19:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,6 +163,15 @@
                 <span class="title"><a href="https://dev.to/ronny_mwenda_8b2e8cfe1fa9/15-major-concepts-of-data-engineering-3aik" target="_blank">15 major concepts of Data Engineering.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-11 23:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.linux.com/news/july25-training-promo/" target="_blank">Get your all-access pass to career greatness—use code: AUG25 to save 35% today!</a></span>
+                <span class="feed">Linux.com</span>
+                <span class="time">2025-08-11 22:12</span>
             </div>
         </div>
 <div class="story">
@@ -214,15 +210,6 @@
                 <span class="time">2025-08-11 19:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18554025&w=600" alt="Deploying a Scalable Golang Application on Kubernetes: A Practical Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/golang-kubernetes-deployment-scalable-guide" target="_blank">Deploying a Scalable Golang Application on Kubernetes: A Practical Guide</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-11 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +229,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/cate-blanchett-netflix.jpg" alt="Cate Blanchett Doesn’t Know If Her ‘Squid Game’ Cameo Will Lead to More (But She’d Like it to)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/cate-blanchett-doesnt-know-if-her-squid-game-cameo-will-lead-to-more-but-shed-like-it-to-2000641517" target="_blank">Cate Blanchett Doesn’t Know If Her ‘Squid Game’ Cameo Will Lead to More (But She’d Like it to)</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-12 00:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/john-davison-.jpg" alt="IGN Boss Leaving After Latest Round Of Layoffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +283,6 @@
                 <span class="time">2025-08-11 21:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/idea.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="An idea that could make reading subscription content affordable" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/11/an-idea-that-could-make-reading-subscription-content-affordable.html" target="_blank">An idea that could make reading subscription content affordable</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-11 21:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,22 +315,13 @@
                 <span class="time">2025-08-11 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5632.png" alt="Sticker Shock" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5632" target="_blank">Sticker Shock</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-08-11 01:03</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 287 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 285 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
