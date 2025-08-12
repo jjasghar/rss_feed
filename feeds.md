@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-12 14:01:49 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-12 15:01:44 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, August 12, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, August 12, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755006918949_now_mnn_cpi_july_250812_1920x1080-dggqho.jpg" alt="Consumer price index for July shows inflation stayed steady" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/consumer-price-index-for-july-shows-inflation-stayed-steady-244773957730" target="_blank">Consumer price index for July shows inflation stayed steady</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-12 13:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27a7/live/f4edaad0-7779-11f0-b15a-09fa5f596b3a.jpg" alt="US woman convicted over failed assassination in UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +103,20 @@
                 <span class="time">2025-08-12 09:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb43/live/7587bfe0-775d-11f0-89ee-73563f6604dd.jpg" alt="Heat health alerts in force amid water shortage fears" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czerrzdewzxo?at_medium=RSS&at_campaign=rss" target="_blank">Heat health alerts in force amid water shortage fears</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-12 09:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/689a48b3669b22c6f5bf4726/master/pass/Cloud%20vs.%20Local-%20What%E2%80%99s%20the%20Best%20for%20Security%20Camera%20Footage_.png" alt="Cloud vs. Local: What’s the Best for Security Camera Footage? (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/security-camera-video-cloud-vs-local-storage/" target="_blank">Cloud vs. Local: What’s the Best for Security Camera Footage? (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-12 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +162,38 @@
                 <span class="time">2025-08-12 09:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" alt="Newegg Promo Code: 10% Off August 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/newegg-promo-code/" target="_blank">Newegg Promo Code: 10% Off August 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-12 05:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F54l2gi8uus5v2cy6k27k.jpg" alt="ForgeMT: GitHub Actions at Scale with Security and Multi-Tenancy on AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/edersonbrilhante/forgemt-github-actions-at-scale-with-security-and-multi-tenancy-on-aws-3no9" target="_blank">ForgeMT: GitHub Actions at Scale with Security and Multi-Tenancy on AWS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-12 14:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/maintainers/why-we-open-sourced-our-mcp-server-and-what-it-means-for-you/" target="_blank">Why we open sourced our MCP server, and what it means for you</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-08-12 13:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/amd-ryzen-ai-max-arrow-lake" target="_blank">AMD Ryzen AI Max+ 395 With Framework Desktop vs. Intel Core Ultra 9 285K Linux Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-12 13:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18555679&w=600" alt="Architecture Lessons from Two Digital Transformations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -188,33 +221,6 @@
                 <span class="time">2025-08-12 12:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/NVIDIA-580.76.05-Linux" target="_blank">NVIDIA 580.76.05 Linux Driver Updates EGL Bits, Adds New MetaMode Attribute</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-12 12:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18554069&w=600" alt="Scoped Values: Revolutionizing Java Context Management" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/scoped-values-revolutionizing-java-context-managem" target="_blank">Scoped Values: Revolutionizing Java Context Management</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-12 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shifa_2/starting-my-backend-journey-dhl" target="_blank">Starting My Backend Journey:</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-12 11:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/LINK.jpg" alt="Everything You Need To Know About Playing The Legend Of Zelda: Link’s Awakening On Switch 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/switch-2-upgrade-links-awakening-zelda-fps-hdr-2000617165" target="_blank">Everything You Need To Know About Playing The Legend Of Zelda: Link’s Awakening On Switch 2</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-12 14:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Kpop-Demon-Hunters-1.jpg" alt="‘KPop Demon Hunters’ Will Return to Theaters for a Sing-Along Special" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/kpop-demon-hunters-singalong-theater-release-tickets-netflix-2000641138" target="_blank">‘KPop Demon Hunters’ Will Return to Theaters for a Sing-Along Special</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-12 14:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/I-Robot-movie.jpg" alt="Alan Tudyk Wasn’t Part of ‘I, Robot’ Publicity for a Very Surprising Reason" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +294,6 @@
                 <span class="time">2025-08-12 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2020/11/nkfymakb0t5icflu8bxx.jpg" alt="Elon Musk Says Apple Is Rigging the App Store for ChatGPT" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/elon-musk-says-apple-is-rigging-the-app-store-for-chatgpt-2000641677" target="_blank">Elon Musk Says Apple Is Rigging the App Store for ChatGPT</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-12 03:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/04/FBI-e1754962308859.jpeg?fit=768%2C550&amp;quality=60&amp;ssl=1" alt="Federal agents in DC assaulted with sandwich, freedom fighter escapes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/11/federal-agents-in-dc-assaulted-with-sandwich-freedom-fighter-escapes.html" target="_blank">Federal agents in DC assaulted with sandwich, freedom fighter escapes</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-12 01:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
