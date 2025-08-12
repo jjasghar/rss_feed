@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-08-12 18:01:52 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-12 19:02:14 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, August 12, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, August 12, 2025 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +103,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/12/match-to-pay-14m-to-the-ftc-due-to-false-advertising-and-other-deceptive-practices/" target="_blank">Match to pay $14M to the FTC due to false advertising and other deceptive practices</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-12 18:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/03/Chrome-Getty-500x500.jpg" alt="Perplexity offers more than twice its total valuation to buy Chrome from Google" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/08/perplexity-offers-more-than-twice-its-total-valuation-to-buy-chrome-from-google/" target="_blank">Perplexity offers more than twice its total valuation to buy Chrome from Google</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-12 18:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/how-to/758206/bring-back-google-photos-classic-search-instead-of-gemini" target="_blank">Quick fixes: bring back Google Photos classic search instead of ‘Ask Photos’ Gemini AI</a></span>
                 <span class="feed">The Verge</span>
@@ -142,29 +154,38 @@
                 <span class="time">2025-08-12 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/regulator-newsletter/757996/trump-screwed-over-nvidias-chinese-sales-then-let-them-happen" target="_blank">Trump screwed over Nvidia’s Chinese sales, then let them happen</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-12 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/12/australian-court-finds-apple-google-abused-app-store-market-power/" target="_blank">Australian court finds Apple, Google abused app store market power</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-12 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lalithaditya_4c9e5eb76c53/machine-learning-12a6" target="_blank">Machine learning</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-12 18:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18557550&w=600" alt="Real-Time Recommendations Powered by Spanner, BigQuery, and Vector Embeddings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/real-time-recommendations-with-spanner-bigquery" target="_blank">Real-Time Recommendations Powered by Spanner, BigQuery, and Vector Embeddings</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-12 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/08/google-jules/en/headerimage/generatedHeaderImage-1755020265880.jpg" alt="Google Launches Jules, an Asynchronous Coding Agent Powered by Gemini 2.5" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/google-jules/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Launches Jules, an Asynchronous Coding Agent Powered by Gemini 2.5</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-12 17:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1%2Ff451a206-11c8-4e3d-8936-143d0a7e65bb.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -192,33 +213,6 @@
                 <span class="time">2025-08-12 16:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.anthropic.com/news/1m-context" target="_blank">Claude Sonnet 4 now supports 1M tokens of context</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-12 16:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-story-of-seasons-grand-bazaar-official-jules-trailer-k5j" target="_blank">IGN: Story of Seasons: Grand Bazaar - Official Jules Trailer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-12 16:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18555741&w=600" alt="Declarative Pipelines in Apache Spark 4.0" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/build-your-first-apache-spark-declarative-pipeline" target="_blank">Declarative Pipelines in Apache Spark 4.0</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-12 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JY25W0KR3SPV4D8JE6BTYYPC/hero-image.png" alt="The Three Fitness Apps I Use Every Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/fitness-apps-i-use-every-day?utm_medium=RSS" target="_blank">The Three Fitness Apps I Use Every Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-12 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K2FG344BASDVP19AM0ADGYFR/hero-image.png" alt="This App Switcher for Mac Is Way Faster Than Command-Tab" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +286,6 @@
                 <span class="time">2025-08-12 14:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/I-Robot-movie.jpg" alt="Alan Tudyk Wasn’t Part of ‘I, Robot’ Publicity for a Very Surprising Reason" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/alan-tudyk-i-robot-will-smith-2000641646" target="_blank">Alan Tudyk Wasn’t Part of ‘I, Robot’ Publicity for a Very Surprising Reason</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-12 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
