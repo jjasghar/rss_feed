@@ -1,23 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-08-12 05:02:14 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-12 06:01:53 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
@@ -25,10 +33,10 @@
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, August 12, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, August 12, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/12/swarm-of-jellyfish-forces-shutdown-at-french-nuclear-power-plant?traffic_source=rss" target="_blank">Swarm of jellyfish forces shutdown at French nuclear power plant</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-12 05:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116a/live/21750250-7690-11f0-a20f-3b86f375586a.png" alt="North Koreans tell BBC they are being sent to work &#x27;like slaves&#x27; in Russia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c2077gwjlvxo?at_medium=RSS&at_campaign=rss" target="_blank">North Koreans tell BBC they are being sent to work &#x27;like slaves&#x27; in Russia</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-12 05:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +104,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124535213" target="_blank">Trump admin live updates: Trump signs 90-day extension for trade truce with China</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-12 00:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e64/live/545d0f70-76f7-11f0-8071-1788c7e8ae0e.jpg" alt="Hot weather to peak amid water shortage fears" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czerrzdewzxo?at_medium=RSS&at_campaign=rss" target="_blank">Hot weather to peak amid water shortage fears</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-12 00:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/11/nx-s1-5499537/trump-bls-ej-antoni" target="_blank">Trump taps conservative economist to lead statistics agency</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-11 23:50</span>
             </div>
         </div>
 </div>
@@ -172,6 +180,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/danishmk1286/why-ui-and-ux-design-matter-for-developers-34on" target="_blank">Why UI and UX Design Matter for Developers?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-12 05:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="It&#x27;s easy to access resources with the help of AI, but getting the right guidance is equally difficult now. Before starting a business journey, be clear with the intention and outcome. Only resources will not be able to save your business." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -201,19 +218,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-LLM-Scaler-1.0" target="_blank">Intel Releases LLM-Scaler 1.0 As Part Of Project Battlematrix</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-12 00:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foyj9mxweuh166eflmu0n.png" alt="15 major concepts of Data Engineering." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ronny_mwenda_8b2e8cfe1fa9/15-major-concepts-of-data-engineering-3aik" target="_blank">15 major concepts of Data Engineering.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-11 23:47</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.arxiv.org/pdf/2508.06471" target="_blank">GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models [pdf]</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-12 01:26</span>
             </div>
         </div>
 </div>
@@ -326,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
