@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-13 17:01:44 UTC -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-08-13 18:02:16 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 12 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, August 13, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, August 13, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/trump-summit-1-rt-gmh-250813_1755092890647_hpMain_4x3t_384.jpg" alt="Trump warns Russia of &#x27;severe consequences&#x27; if Putin doesn&#x27;t agree to stop war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/trump-putin-meet-listening-exercise-white-house-kyiv/story?id=124602682" target="_blank">Trump warns Russia of &#x27;severe consequences&#x27; if Putin doesn&#x27;t agree to stop war</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-13 17:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/13/trump-touts-second-trilateral-meeting-before-putin-summit-zelenskyy-pushes?traffic_source=rss" target="_blank">Trump touts second trilateral meeting before Putin summit; Zelenskyy pushes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-13 17:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/13/nx-s1-5500525/zelenskyy-trump-putin-ceasefire-ukraine-summit" target="_blank">Zelenskyy: Trump supports ceasefire and security guarantees for Ukraine at Putin summit</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-13 17:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/trump-summit-1-rt-gmh-250813_1755092890647_hpMain_4x3t_384.jpg" alt="Zelenskyy says Putin is &#x27;bluffing&#x27; as Trump says he&#x27;ll push for ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,38 +99,29 @@
                 <span class="time">2025-08-13 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/trump-summit-1-rt-gmh-250813_1755092890647_hpMain_4x3t_384.jpg" alt="Zelensky says Putin is &#x27;bluffing&#x27; as Trump says he&#x27;ll push for ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/trump-putin-meet-listening-exercise-white-house-kyiv/story?id=124602682" target="_blank">Zelensky says Putin is &#x27;bluffing&#x27; as Trump says he&#x27;ll push for ceasefire</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-13 15:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/13/serbia-government-supporters-and-opponents-clash-during-protests?traffic_source=rss" target="_blank">Dozens injured in Serbia as clashes erupt at antigovernment protests</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-13 15:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/08/13/g-s1-82265/in-1985-famine-led-to-live-aid-and-a-u-s-alert-plan-trump-froze-it-now-its-back" target="_blank">In 1985, famine led to Live Aid and a U.S. alert plan. Trump froze it. Now it&#x27;s back</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-13 15:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/689caae24b04830d9eb71a3a/master/pass/data-brokers-maggie-hassan-sec-2225266734.jpg" alt="Data Brokers Face New Pressure for Hiding Opt-Out Pages From Google" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/hassan-data-broker-opt-out-letter/" target="_blank">Data Brokers Face New Pressure for Hiding Opt-Out Pages From Google</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-13 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/54718108420_ddb71dd7b2_k-500x500.jpg" alt="After first operational launch, here’s the next big test for ULA’s Vulcan rocket" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/08/after-first-operational-launch-heres-the-next-big-test-for-ulas-vulcan-rocket/" target="_blank">After first operational launch, here’s the next big test for ULA’s Vulcan rocket</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-13 17:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +158,38 @@
                 <span class="time">2025-08-13 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689bd2171585083b1b64223e/master/pass/What%20Is%20Creatine,%20and%20Should%20You%20Be%20Taking%20It_.png" alt="What Is Creatine, and Should You Be Taking Most Studied Supplement (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/what-is-creatine/" target="_blank">What Is Creatine, and Should You Be Taking Most Studied Supplement (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-13 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games-review/758328/drag-x-drive-review" target="_blank">Drag x Drive is more drag than drive</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-13 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-KFuzzTest" target="_blank">Google Develops KFuzzTest For Fuzzing Internal Linux Kernel Functions</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-13 17:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/manasi_patil_/15-python-questions-that-could-make-or-break-your-next-interview-46ck" target="_blank">🐍 15 Python Questions That Could Make or Break Your Next Interview</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-13 17:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/social-impact/from-private-to-public-how-a-united-nations-organization-open-sourced-its-tech-in-four-steps/" target="_blank">From private to public: How a United Nations organization open sourced its tech in four steps</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-08-13 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,33 +215,6 @@
                 <span class="title"><a href="https://dzone.com/articles/autonomous-driver-safety-and-reliability" target="_blank">How to Know an Autonomous Driver Is Safe and Reliable?</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-08-13 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/microsoft-dev-proxy-1-0/en/headerimage/twitter_card+%2856%29-1755027883422.jpg" alt="Dev Proxy Reaches v1.0 with AI Failure Simulation, Token Rate Limiting, and Integration Enhancements" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/microsoft-dev-proxy-1-0/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Dev Proxy Reaches v1.0 with AI Failure Simulation, Token Rate Limiting, and Integration Enhancements</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-13 12:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-IDXD-Not-So-Happy" target="_blank">Intel IDXD Accelerator Driver Cleaned Up For Some &quot;Not So Happy Code Paths&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-13 12:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://nedbatchelder.com/blog/202508/starting_with_pytests_parametrize.html" target="_blank">Starting with pytest’s parametrize</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-08-13 12:26</span>
             </div>
         </div>
 </div>
@@ -253,6 +255,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/EuEFf8DDE4xU9hEPpugrCP.jpg" alt="Well, Bad News For PUBG Players On PS4 And Xbox One" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/well-bad-news-for-pubg-players-on-ps4-and-xbox-one-2000617500" target="_blank">Well, Bad News For PUBG Players On PS4 And Xbox One</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-13 17:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/ICE.jpeg?fit=1080%2C754&amp;quality=60&amp;ssl=1" alt="ICE deported 70 US citizens,  triples budget to $28.7B" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/13/ice-deported-70-us-citizens-triples-budget-to-28-7b.html" target="_blank">ICE deported 70 US citizens,  triples budget to $28.7B</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-13 16:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JYH66NF15ZR4SQPA6XTM1V0F/hero-image.png" alt="Peloton&#x27;s &#x27;Teams&#x27; Feature Is Surprisingly Good at Motivating Me to Work Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -288,24 +308,6 @@
                 <span class="time">2025-08-13 14:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/GyLALOSWYAA_Q7j.jpg?fit=2048%2C1423&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s Labor Statistics pick has painting of Nazi battleship behind his desk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/13/trumps-labor-statistics-pick-has-giant-painting-of-nazi-battleship-in-his-office.html" target="_blank">Trump&#x27;s Labor Statistics pick has painting of Nazi battleship behind his desk</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-13 14:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K2HDSS1N8NXHDENA7FNS0BZ9/hero-image.png" alt="The 512GB Galaxy Fold 7 Is Less Than the Base Model Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/galaxy-z-fold-7-sale?utm_medium=RSS" target="_blank">The 512GB Galaxy Fold 7 Is Less Than the Base Model Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-13 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,6 +332,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/thread_meeting.png" alt="Thread Meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3128/" target="_blank">Thread Meeting</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-08-13 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5634.png" alt="She Has Connections" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -343,8 +354,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
