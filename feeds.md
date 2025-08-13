@@ -1,34 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-08-13 11:01:47 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-13 12:02:09 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 11 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, August 13, 2025 - 11:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, August 13, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +52,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ca/live/639be4d0-783b-11f0-aa29-15a69a839271.jpg" alt="Gaza talks to focus on releasing hostages all in one go, Netanyahu hints" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c9vd734vv0yo?at_medium=RSS&at_campaign=rss" target="_blank">Gaza talks to focus on releasing hostages all in one go, Netanyahu hints</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-13 11:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/13/bangladeshi-graft-case-probes-ex-pm-hasina-former-uk-minister-tulip-siddiq?traffic_source=rss" target="_blank">Bangladesh officials testify against Tulip Siddiq at anticorruption trial</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-13 11:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755084539389_tdy_news_7a_haake_national_guard_250813_1920x1080-kpksa4.jpg" alt="National Guard Deployed to DC Amid Trump&#x27;s Push to Cut Crime" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-s-dc-crackdown-begins-with-national-guard-deployment-244869189577" target="_blank">National Guard Deployed to DC Amid Trump&#x27;s Push to Cut Crime</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-13 11:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Putin-DB-250813_1755076597023_hpMain_4x3t_384.jpg" alt="Zelenskyy says &#x27;no sign&#x27; Putin wants to end war as Alaska summit edges closer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,38 +106,47 @@
                 <span class="time">2025-08-13 08:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8315/live/a839de60-7810-11f0-a975-cb151ca452f4.jpg" alt="Zelensky and European leaders to hold call with Trump ahead of Putin summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0ml4j8erkeo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky and European leaders to hold call with Trump ahead of Putin summit</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-13 07:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7f9/live/e30629e0-77c5-11f0-aa52-bbd810fc4c70.png" alt="Police told they can reveal suspects&#x27; ethnicity in high-profile cases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5ypgg28nvpo?at_medium=RSS&at_campaign=rss" target="_blank">Police told they can reveal suspects&#x27; ethnicity in high-profile cases</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-13 07:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8315/live/a839de60-7810-11f0-a975-cb151ca452f4.jpg" alt="Zelensky and EU leaders to hold call with Trump ahead of Putin summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0ml4j8erkeo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky and EU leaders to hold call with Trump ahead of Putin summit</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-13 06:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/689bd2171585083b1b64223e/master/pass/What%20Is%20Creatine,%20and%20Should%20You%20Be%20Taking%20It_.png" alt="What Is Creatine, and Should You Be Taking Most Studied Supplement (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/what-is-creatine/" target="_blank">What Is Creatine, and Should You Be Taking Most Studied Supplement (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-13 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games-review/758328/drag-x-drive-review" target="_blank">Drag x Drive is more drag than drive</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-13 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/13/why-i-finally-left-spotify/" target="_blank">Why I finally left Spotify</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-13 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2009/04/surprised-eye.jpg" alt="Worm invades man’s eyeball, leading doctors to suck out his eye jelly" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/08/worm-invades-mans-eyeball-leading-doctors-to-suck-out-his-eye-jelly/" target="_blank">Worm invades man’s eyeball, leading doctors to suck out his eye jelly</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-13 11:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -121,47 +165,29 @@
                 <span class="time">2025-08-13 03:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/23037217/best-apple-watch-series-se-ultra" target="_blank">How to choose which Apple Watch to buy</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-13 00:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/757941/elon-musk-xai-apple-lawsuit-app-store" target="_blank">Elon Musk says he’s suing Apple for rigging App Store rankings</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-13 00:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689bc28453d8ba6e1f545f01/master/pass/AOL-Ending-Dial-Up-Gear-AP687183228394.jpg" alt="AOL Will Shut Down Dial-Up Internet Access in September" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/aol-shutting-down-dial-up-internet-access-in-september/" target="_blank">AOL Will Shut Down Dial-Up Internet Access in September</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-12 22:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/12/stubhub-is-once-again-working-on-its-ipo-that-could-raise-1b/" target="_blank">StubHub is once again working on its IPO that could raise $1B</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-12 22:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18557634&w=600" alt="Orchestrating Multi-Agents: Unifying Fragmented Tools into Coordinated Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/orchestrating-multi-agents-coordinated-workflows" target="_blank">Orchestrating Multi-Agents: Unifying Fragmented Tools into Coordinated Workflows</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-13 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5ej3tum1j3jmizb9uyt3.png" alt="How To Write And Submit a Robots.txt File" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sotir_kostadinov_d78ea470/how-to-write-and-submit-a-robotstxt-file-5d56" target="_blank">How To Write And Submit a Robots.txt File</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-13 11:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Agoda Handles Kafka Consumer Failover Across Data Centers with Custom Two-Way Sync" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -169,6 +195,15 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/08/agoda-kafka-failover/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Agoda Handles Kafka Consumer Failover Across Data Centers with Custom Two-Way Sync</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-08-13 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FFmpeg-Lands-Whisper" target="_blank">FFmpeg 8.0 Merges OpenAI Whisper Filter For Automatic Speech Recognition</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-13 10:52</span>
             </div>
         </div>
 <div class="story">
@@ -187,33 +222,6 @@
                 <span class="title"><a href="https://dev.to/nuntin/terraformtfvars-wasnt-made-to-be-secure-it-was-made-to-make-devtest-life-easier-3poa" target="_blank">Terraform.tfvars wasn’t made to be secure it was made to make Dev/Test life easier</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-13 09:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/ai-coding-agents/en/mediumimage/birgitta-b%C3%B6ckeler-medium-1753358841121.jpg" alt="Presentation: From Autocomplete to Agents: AI Coding State of Play" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/ai-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: From Autocomplete to Agents: AI Coding State of Play</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-13 09:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/misterankit/top-10-features-in-chrome-devtools-every-web-developer-should-know-2p51" target="_blank">Top 10 Features in Chrome DevTools Every Web Developer Should Know</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-13 04:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://numba.pydata.org/numba-prototypes/sealir_tutorials/index.html" target="_blank">Numba v2 Compiler Design</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-08-13 04:08</span>
             </div>
         </div>
 </div>
@@ -335,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
