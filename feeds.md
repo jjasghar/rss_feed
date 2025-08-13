@@ -1,29 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-13 10:01:41 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-08-13 11:01:47 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 20 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, August 13, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, August 13, 2025 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +51,15 @@
                 <span class="title"><a href="https://abcnews.go.com/International/trump-putin-meet-listening-exercise-white-house-kyiv/story?id=124602682" target="_blank">Zelenskyy says &#x27;no sign&#x27; Putin wants to end war as Alaska summit edges closer</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-13 09:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/13/what-are-zelenskyy-europe-demanding-of-trump-ahead-of-putin-summit?traffic_source=rss" target="_blank">What are Zelenskyy, Europe demanding of Trump ahead of Putin summit?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-13 09:49</span>
             </div>
         </div>
 <div class="story">
@@ -82,15 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c0ml4j8erkeo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky and EU leaders to hold call with Trump ahead of Putin summit</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-13 06:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/13/sprinter-richardson-apologizes-while-addressing-domestic-violence-arrest?traffic_source=rss" target="_blank">Sprinter Richardson apologizes while addressing domestic violence arrest</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-13 06:23</span>
             </div>
         </div>
 </div>
@@ -158,6 +163,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Agoda Handles Kafka Consumer Failover Across Data Centers with Custom Two-Way Sync" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/agoda-kafka-failover/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Agoda Handles Kafka Consumer Failover Across Data Centers with Custom Two-Way Sync</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-13 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b" target="_blank">FFmpeg 8.0 adds Whisper support</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-13 10:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjxieuwownigajghzas2b.jpg" alt="Terraform.tfvars wasn’t made to be secure it was made to make Dev/Test life easier" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -193,24 +216,6 @@
                 <span class="time">2025-08-13 04:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/unnamed.png?resize=406%2C232&amp;ssl=1" alt="Orion Browser for Linux Gets Exciting Progress Update" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/orion-browser-linux-milestone-2-webkit-alternative-chromium" target="_blank">Orion Browser for Linux Gets Exciting Progress Update</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-13 02:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yash_sonawane25/how-to-build-a-cicd-pipeline-on-aws-with-codepipeline-github-4ho6" target="_blank">How to Build a CI/CD Pipeline on AWS with CodePipeline + GitHub 🚀</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-13 02:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -225,20 +230,20 @@
                 <span class="time">2025-08-12 22:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/the-incriminating-video-scam.html" target="_blank">The “Incriminating Video” Scam</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-08-12 11:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Los_Angeles_Palisades_Fire.jpg" alt="Illegal Price-Gouging Runs Rampant After Disasters. The LA Fires Proved It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/illegal-price-gouging-runs-rampant-after-disasters-the-la-fires-proved-it-2000642193" target="_blank">Illegal Price-Gouging Runs Rampant After Disasters. The LA Fires Proved It</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-13 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2023/08/3d8c4ba3e97782418ab88ee3b9fb3a63.jpg" alt="Spirit Airlines Admits It Might Not Survive Another Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +287,6 @@
                 <span class="title"><a href="https://lifehacker.com/netflix-hidden-features?utm_medium=RSS" target="_blank">Netflix Has Hidden Features and Secret Codes</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-12 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/FutureMoney-Pro.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Want to make your kid a millionaire? There&#x27;s now an app for that" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/12/want-to-make-your-kid-a-millionaire-theres-now-an-app-for-that.html" target="_blank">Want to make your kid a millionaire? There&#x27;s now an app for that</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-12 21:00</span>
             </div>
         </div>
 </div>
@@ -339,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
