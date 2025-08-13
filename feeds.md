@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-13 18:02:16 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-08-13 19:01:41 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, August 13, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, August 13, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +48,49 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97a9/live/1f30d360-786c-11f0-a20f-3b86f375586a.jpg" alt="Europe expresses hope after call with Trump on Putin summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cpv0l9e187yo?at_medium=RSS&at_campaign=rss" target="_blank">Europe expresses hope after call with Trump on Putin summit</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-13 18:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/13/protests-vigils-held-around-globe-for-gaza-assassinated-journalists?traffic_source=rss" target="_blank">Protests, vigils held around globe for Gaza, assassinated journalists</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-13 18:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/13/nx-s1-5500316/khipu-quipu-inca-empire-knots-record-keeping" target="_blank">Who made these knotted records during the
+Inca Empire?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-13 18:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/trump-summit-1-rt-gmh-250813_1755092890647_hpMain_4x3t_384.jpg" alt="Trump warns Russia of &#x27;severe consequences&#x27; if Putin doesn&#x27;t agree to stop war" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/International/trump-putin-meet-listening-exercise-white-house-kyiv/story?id=124602682" target="_blank">Trump warns Russia of &#x27;severe consequences&#x27; if Putin doesn&#x27;t agree to stop war</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-13 17:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fa5/live/442d9700-17c5-11f0-8a1e-3ff815141b98.png" alt="Arena bomb plotter charged with prison attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckge2qdr88eo?at_medium=RSS&at_campaign=rss" target="_blank">Arena bomb plotter charged with prison attack</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-13 17:45</span>
             </div>
         </div>
 <div class="story">
@@ -63,47 +102,20 @@
                 <span class="time">2025-08-13 17:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/13/nx-s1-5500525/zelenskyy-trump-putin-ceasefire-ukraine-summit" target="_blank">Zelenskyy: Trump supports ceasefire and security guarantees for Ukraine at Putin summit</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-13 17:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/trump-summit-1-rt-gmh-250813_1755092890647_hpMain_4x3t_384.jpg" alt="Zelenskyy says Putin is &#x27;bluffing&#x27; as Trump says he&#x27;ll push for ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/trump-putin-meet-listening-exercise-white-house-kyiv/story?id=124602682" target="_blank">Zelenskyy says Putin is &#x27;bluffing&#x27; as Trump says he&#x27;ll push for ceasefire</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-13 16:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fa5/live/442d9700-17c5-11f0-8a1e-3ff815141b98.png" alt="Arena bomb plotter charged with prison guards attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckge2qdr88eo?at_medium=RSS&at_campaign=rss" target="_blank">Arena bomb plotter charged with prison guards attack</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-13 16:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/aljazeerauntangles/2025/8/13/the-privacy-paradox?traffic_source=rss" target="_blank">The Privacy Paradox</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-13 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6899f5d8374ad3a7c8cd5920/master/pass/081125_mRNA-Companies-Are-Not-OK.jpg" alt="RFK Jr. Is Supporting mRNA Research—Just Not for Vaccines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/rfk-jr-is-supporting-mrna-research-just-not-for-vaccines/" target="_blank">RFK Jr. Is Supporting mRNA Research—Just Not for Vaccines</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-13 18:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/689caae24b04830d9eb71a3a/master/pass/data-brokers-maggie-hassan-sec-2225266734.jpg" alt="Data Brokers Face New Pressure for Hiding Opt-Out Pages From Google" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +161,47 @@
                 <span class="time">2025-08-13 14:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/13/how-we-found-teaonher-spilling-users-drivers-licenses-in-less-than-10-minutes/" target="_blank">How we found TeaOnHer spilling users’ driver’s licenses in less than 10 minutes</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-13 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Early-Regression-Fix" target="_blank">Linux Lands Fix For Early 6.17 Regression Causing 37~43% Performance Hit</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-13 18:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/andrew_markhai_27ffd3a6b8/php-traceroute-216i" target="_blank">PHP Traceroute</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-13 18:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://astral.sh/blog/introducing-pyx" target="_blank">pyx: a Python-native package registry, now in Beta</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-08-13 18:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18557660&w=600" alt="Designing Data Pipelines for Real-World Systems: A Guide to Cleaning and Validating Messy Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-robust-sanitization-pipelines-five-steps" target="_blank">Designing Data Pipelines for Real-World Systems: A Guide to Cleaning and Validating Messy Data</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-13 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -179,42 +218,6 @@
                 <span class="title"><a href="https://dev.to/manasi_patil_/15-python-questions-that-could-make-or-break-your-next-interview-46ck" target="_blank">🐍 15 Python Questions That Could Make or Break Your Next Interview</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-13 17:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/open-source/social-impact/from-private-to-public-how-a-united-nations-organization-open-sourced-its-tech-in-four-steps/" target="_blank">From private to public: How a United Nations organization open sourced its tech in four steps</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-08-13 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://localghost.dev/blog/this-website-is-for-humans/" target="_blank">Website Is for Humans</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-13 15:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbhlb2ze4ivp5cvr5qjr.png" alt="How to set up Trello MCP server with Claude and Cursor for efficient task tracking🚀" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/composiodev/how-to-setup-trello-mcp-server-with-claude-and-cursor-for-efficient-task-tracking-1ggm" target="_blank">How to set up Trello MCP server with Claude and Cursor for efficient task tracking🚀</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-13 14:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18557641&w=600" alt="How to Know an Autonomous Driver Is Safe and Reliable?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/autonomous-driver-safety-and-reliability" target="_blank">How to Know an Autonomous Driver Is Safe and Reliable?</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-13 13:00</span>
             </div>
         </div>
 </div>
@@ -255,6 +258,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JXMR1VZ6BR6KS80J8JXPJ5EW/hero-image.jpg" alt="I’m a Certified Spin Instructor, and I&#x27;d Buy a Used Peloton Every Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/why-you-should-buy-used-peloton?utm_medium=RSS" target="_blank">I’m a Certified Spin Instructor, and I&#x27;d Buy a Used Peloton Every Time</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-13 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Pebble.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="Get a good look at the new Pebble smartwatches" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/13/get-a-good-look-at-the-new-pebble-smartwatches.html" target="_blank">Get a good look at the new Pebble smartwatches</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-13 18:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/EuEFf8DDE4xU9hEPpugrCP.jpg" alt="Well, Bad News For PUBG Players On PS4 And Xbox One" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -288,24 +309,6 @@
                 <span class="title"><a href="https://gizmodo.com/sam-altman-reportedly-launch-rival-brain-chip-startup-to-compete-with-musks-neuralink-2000642516" target="_blank">Sam Altman Reportedly Launch Rival Brain-Chip Startup to Compete With Musk’s Neuralink</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-13 15:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/0bfee368a8f79ab01e089316e74e2f87.jpg" alt="As Mercy Skins Become More Expensive, Overwatch 2 Fans Are Bullying Her Players Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/overwatch-2-sakura-mercy-skin-bundle-price-kiriko-shop-2000617479" target="_blank">As Mercy Skins Become More Expensive, Overwatch 2 Fans Are Bullying Her Players Again</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-13 15:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/hed11.jpg" alt="Everything You Need To Know About Playing Super Mario Odyssey On Switch 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/switch-2-super-mario-odyssey-performance-upgrade-2000617456" target="_blank">Everything You Need To Know About Playing Super Mario Odyssey On Switch 2</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-13 14:44</span>
             </div>
         </div>
 </div>
@@ -354,8 +357,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
