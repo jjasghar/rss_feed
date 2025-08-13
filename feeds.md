@@ -1,40 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-08-13 03:25:33 UTC -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-08-13 04:07:41 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, August 13, 2025 - 03:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, August 13, 2025 - 04:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2025/8/13/will-trumps-india-tariffs-shut-down-worlds-biggest-cut-diamond-supplier?traffic_source=rss" target="_blank">Will Trump’s India tariffs shut down world’s biggest cut diamond supplier?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-13 03:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58d4/live/344f8590-7793-11f0-907d-6ff0082c2def.jpg" alt="The deadly cancers left behind by 50 years of success" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -69,6 +66,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755038777732_nn_kube_nationalguard_250812_1920x1080-34dgom.jpg" alt="National Guard members report for duty in DC under President Trump’s orders" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/national-guard-members-report-for-duty-in-dc-under-president-trump-s-orders-244831813626" target="_blank">National Guard members report for duty in DC under President Trump’s orders</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-12 22:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/smithsonian-gty-er-250812_1755033599345_hpMain_4x3t_384.jpg" alt="White House wants Smithsonian exhibits to fit Trump&#x27;s view of history: Official" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -84,24 +90,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/12/us-sanctions-dr-congo-armed-group-over-illicit-mining-ceasefire-tested?traffic_source=rss" target="_blank">US sanctions DR Congo armed group over illicit mining, ceasefire tested</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-12 22:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-vladimir-putin-donald-trump_6989498.jpg?20250812235328" alt="Trump-Putin summit starting to feel quite &#x27;Midnight Sun&#x27; - as White House confirms location" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/europes-concerns-may-be-getting-through-as-white-house-reframes-trump-putin-summit-13410854" target="_blank">Trump-Putin summit starting to feel quite &#x27;Midnight Sun&#x27; - as White House confirms location</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-12 21:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-vladimir-putin-donald-trump_6989498.jpg?20250812235328" alt="Europe&#x27;s concerns may be getting through as White House reframes Trump-Putin summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/europes-concerns-may-be-getting-through-as-white-house-reframes-trump-putin-summit-13410854" target="_blank">Europe&#x27;s concerns may be getting through as White House reframes Trump-Putin summit</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-12 21:43</span>
             </div>
         </div>
 </div>
@@ -341,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 41 | 📸 With Images: 280 |
-        🔄 Last Updated: 03:25 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 04:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
