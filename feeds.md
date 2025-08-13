@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-13 06:01:53 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-13 07:02:44 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, August 13, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, August 13, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8315/live/a839de60-7810-11f0-a975-cb151ca452f4.jpg" alt="Zelensky and EU leaders to hold call with Trump ahead of Putin summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0ml4j8erkeo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky and EU leaders to hold call with Trump ahead of Putin summit</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-13 06:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/13/sprinter-richardson-apologizes-while-addressing-domestic-violence-arrest?traffic_source=rss" target="_blank">Sprinter Richardson apologizes while addressing domestic violence arrest</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-13 06:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +100,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cy7ypm6zxp2o?at_medium=RSS&at_campaign=rss" target="_blank">National Guard troops appear in Washington DC as mayor rejects &#x27;authoritarian push&#x27;</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-13 03:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/national-guard-2_1755043529875_hpMain_4x3t_384.jpg" alt="National Guard troops now on DC streets told to maintain presence near National Mall" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/guard-members-waiting-orders-begin-gather-dc/story?id=124587539" target="_blank">National Guard troops now on DC streets told to maintain presence near National Mall</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-13 02:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58d4/live/344f8590-7793-11f0-907d-6ff0082c2def.jpg" alt="The deadly cancers left behind by 50 years of success" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5ypkrzyxd1o?at_medium=RSS&at_campaign=rss" target="_blank">The deadly cancers left behind by 50 years of success</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-13 00:53</span>
             </div>
         </div>
 </div>
@@ -254,6 +258,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/skimmers.jpeg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Welfare fraud tourist extends vacation by 10 years (in prison)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/12/welfare-fraud-tourist-extends-vacation-by-10-years-in-prison.html" target="_blank">Welfare fraud tourist extends vacation by 10 years (in prison)</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-13 01:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/03/92ca02fc991dc5a03701db9bb98335dd.jpg" alt="10 Things We Learned From The New Assassin’s Creed Shadows Developer AMA" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -287,15 +300,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/12/want-to-make-your-kid-a-millionaire-theres-now-an-app-for-that.html" target="_blank">Want to make your kid a millionaire? There&#x27;s now an app for that</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-12 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K2FMMZG3SD4HASA0SE2R694X/hero-image.png" alt="The Best Ways to Manage Your MacBook&#x27;s Battery Health" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-manage-your-macbooks-battery-health?utm_medium=RSS" target="_blank">The Best Ways to Manage Your MacBook&#x27;s Battery Health</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-12 20:00</span>
             </div>
         </div>
 </div>
@@ -335,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
