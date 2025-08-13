@@ -1,40 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-13 22:01:45 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-13 23:01:49 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 32 feeds processed -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, August 13, 2025 - 22:01 UTC</div>
+    <div class="newspaper-date">Wednesday, August 13, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,10 +53,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/13/nx-s1-5501585/how-alaska-went-from-russian-colony-to-u-s-state" target="_blank">How Alaska Went from Russian Colony to U.S. State</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-13 22:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/13/rising-seas-could-put-easter-islands-iconic-statues-at-risk-by-2080-study?traffic_source=rss" target="_blank">Rising seas could put Easter Island’s iconic statues at risk by 2080: Study</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-13 21:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755119192973_now_mtp_full_wu_250813_1920x1080-5g4v42.jpg" alt="‘We are still in discussions’ over when to return, top Texas House Democrat says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/-we-are-still-in-discussions-over-when-to-return-top-texas-house-democrat-says-244911685831" target="_blank">‘We are still in discussions’ over when to return, top Texas House Democrat says</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-13 21:06</span>
             </div>
         </div>
 <div class="story">
@@ -84,25 +102,6 @@
                 <span class="title"><a href="https://news.sky.com/story/is-the-trump-putin-meeting-a-listening-exercise-or-an-attempt-to-secure-an-immediate-ceasefire-13411293" target="_blank">Trump&#x27;s targets for Putin summit appear fluid - can he even get a ceasefire?</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-08-13 18:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/13/nx-s1-5500316/khipu-quipu-inca-empire-knots-record-keeping" target="_blank">A lock of hair may have just changed what we know about life in the Incan Empire</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-13 18:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/13/nx-s1-5500316/khipu-quipu-inca-empire-knots-record-keeping" target="_blank">Who made these knotted records during the
-Inca Empire?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-13 18:29</span>
             </div>
         </div>
 </div>
@@ -181,6 +180,15 @@ Inca Empire?</a></span>
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/company-news/github-availability-report-july-2025/" target="_blank">GitHub Availability Report: July 2025</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-08-13 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/asx/dev-log-04-49dg" target="_blank">Dev Log 04</a></span>
                 <span class="feed">DEV Community</span>
@@ -197,30 +205,21 @@ Inca Empire?</a></span>
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2018/08/lenovo-linux-firmware.png?resize=406%2C232&amp;ssl=1" alt="Linux Firmware Service Calls on Hardware Makers to Help Fund It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/lvfs-sustainability-plan-vendor-funding" target="_blank">Linux Firmware Service Calls on Hardware Makers to Help Fund It</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-13 20:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18559439&w=600" alt="Scheduler-Agent-Supervisor Pattern: Reliable Task Orchestration in Distributed Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/scheduler-agent-supervisor-pattern-reliable-task-o" target="_blank">Scheduler-Agent-Supervisor Pattern: Reliable Task Orchestration in Distributed Systems</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-08-13 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pushpendratips/top-al-tools-driving-the-future-of-work-24i7" target="_blank">Top Al Tools Driving the Future of Work‼️ 🔥</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-13 19:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Panther-Lake-Power-Slider" target="_blank">Linux Preps For New &quot;SoC Power Slider&quot; With Upcoming Panther Lake</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-13 19:18</span>
             </div>
         </div>
 </div>
@@ -246,20 +245,20 @@ Inca Empire?</a></span>
                 <span class="time">2025-08-13 11:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/08/microsoft-patch-tuesday-august-2025-edition/" target="_blank">Microsoft Patch Tuesday, August 2025 Edition</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-08-12 22:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/star-trek-worst-ensign-deaths-gamble-sito-jaxa-alvarado.jpg" alt="The Grimmest Ensign Deaths on ‘Star Trek’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-trek-worst-ensign-deaths-gamble-strange-new-worlds-2000642674" target="_blank">The Grimmest Ensign Deaths on ‘Star Trek’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-13 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Chips.jpg" alt="U.S. Allegedly Super-Charged Its Efforts to Prevent China From Getting American Chips" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -303,15 +302,6 @@ Inca Empire?</a></span>
                 <span class="title"><a href="https://boingboing.net/2025/08/13/adventure-filmmaker-thom-pollards-everest-youtube-channel-is-fantastic.html" target="_blank">Adventure filmmaker Thom Pollard&#x27;s Everest YouTube channel is fantastic</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-13 20:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Backpack-has-an-AI-care-companion.jpg" alt="Her 6-Year-Old Son Told Her He Wanted to Die. So She Built an AI Company to Save Him" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/mental-health-ai-backpack-2000642729" target="_blank">Her 6-Year-Old Son Told Her He Wanted to Die. So She Built an AI Company to Save Him</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-13 19:49</span>
             </div>
         </div>
 </div>
@@ -369,8 +359,8 @@ Inca Empire?</a></span>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
