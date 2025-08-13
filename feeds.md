@@ -1,36 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-08-13 09:03:20 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-13 10:01:41 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, August 13, 2025 - 09:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, August 13, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Putin-DB-250813_1755076597023_hpMain_4x3t_384.jpg" alt="Zelenskyy says &#x27;no sign&#x27; Putin wants to end war as Alaska summit edges closer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/trump-putin-meet-listening-exercise-white-house-kyiv/story?id=124602682" target="_blank">Zelenskyy says &#x27;no sign&#x27; Putin wants to end war as Alaska summit edges closer</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-13 09:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +91,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/13/sprinter-richardson-apologizes-while-addressing-domestic-violence-arrest?traffic_source=rss" target="_blank">Sprinter Richardson apologizes while addressing domestic violence arrest</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-13 06:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/13/doctor-in-gaza-describes-daily-patterns-in-israeli-maiming-at-ghf-hubs?traffic_source=rss" target="_blank">Gaza doctor describes ‘daily patterns’ in Israeli maiming at GHF sites</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-13 05:07</span>
             </div>
         </div>
 </div>
@@ -165,6 +158,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjxieuwownigajghzas2b.jpg" alt="Terraform.tfvars wasn’t made to be secure it was made to make Dev/Test life easier" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nuntin/terraformtfvars-wasnt-made-to-be-secure-it-was-made-to-make-devtest-life-easier-3poa" target="_blank">Terraform.tfvars wasn’t made to be secure it was made to make Dev/Test life easier</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-13 09:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/ai-coding-agents/en/mediumimage/birgitta-b%C3%B6ckeler-medium-1753358841121.jpg" alt="Presentation: From Autocomplete to Agents: AI Coding State of Play" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/ai-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: From Autocomplete to Agents: AI Coding State of Play</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-13 09:04</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -198,24 +209,6 @@
                 <span class="title"><a href="https://dev.to/yash_sonawane25/how-to-build-a-cicd-pipeline-on-aws-with-codepipeline-github-4ho6" target="_blank">How to Build a CI/CD Pipeline on AWS with CodePipeline + GitHub 🚀</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-13 02:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/gamespot-vr-games-showcase-august-2025-4ihm" target="_blank">GameSpot: VR Games Showcase | August 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-13 02:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Go-1.25-Released" target="_blank">Go 1.25 Released With Experimental GC Yielding 10~40% Overhead Reduction</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-13 00:15</span>
             </div>
         </div>
 </div>
@@ -346,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 09:03 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
