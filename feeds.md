@@ -1,32 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-13 02:32:54 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-08-13 03:25:33 UTC -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, August 13, 2025 - 02:33 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, August 13, 2025 - 03:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -79,21 +87,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-vladimir-putin-donald-trump_6989498.jpg?20250812235328" alt="Trump-Putin summit starting to feel quite &#x27;Midnight Sun&#x27; - as White House confirms location" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/europes-concerns-may-be-getting-through-as-white-house-reframes-trump-putin-summit-13410854" target="_blank">Trump-Putin summit starting to feel quite &#x27;Midnight Sun&#x27; - as White House confirms location</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-12 21:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/25/08/1920x1080/skynews-vladimir-putin-donald-trump_6989498.jpg?20250812235328" alt="Europe&#x27;s concerns may be getting through as White House reframes Trump-Putin summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
                 <span class="title"><a href="https://news.sky.com/story/europes-concerns-may-be-getting-through-as-white-house-reframes-trump-putin-summit-13410854" target="_blank">Europe&#x27;s concerns may be getting through as White House reframes Trump-Putin summit</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-08-12 21:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b682/live/34bc1750-77c5-11f0-a975-cb151ca452f4.jpg" alt="Zelensky rules out ceding Donbas region as Russians make fresh advance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4g6qd3k2peo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky rules out ceding Donbas region as Russians make fresh advance</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-12 21:34</span>
             </div>
         </div>
 </div>
@@ -164,6 +172,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yash_sonawane25/how-to-build-a-cicd-pipeline-on-aws-with-codepipeline-github-4ho6" target="_blank">How to Build a CI/CD Pipeline on AWS with CodePipeline + GitHub 🚀</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-13 02:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gg_news/gamespot-vr-games-showcase-august-2025-4ihm" target="_blank">GameSpot: VR Games Showcase | August 2025</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-13 02:00</span>
@@ -205,15 +222,6 @@
                 <span class="time">2025-08-12 21:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-ASI-Lower-Overhead" target="_blank">Linux Address Space Isolation &quot;ASI&quot; Revived After Lowering 70% Performance Hit To 13%</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-12 20:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -252,6 +260,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/03/92ca02fc991dc5a03701db9bb98335dd.jpg" alt="10 Things We Learned From The New Assassin’s Creed Shadows Developer AMA" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/10-things-assasins-creed-shadows-dev-ama-ubisoft-parkour-isu-lore-2000617244" target="_blank">10 Things We Learned From The New Assassin’s Creed Shadows Developer AMA</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-12 22:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/One-Piece-Miss-Sunday-Netflix.jpg" alt="Netflix’s ‘One Piece’ Crew Rallies Around Charithra Chandran After Racist Backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -285,15 +302,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/how-to-manage-your-macbooks-battery-health?utm_medium=RSS" target="_blank">The Best Ways to Manage Your MacBook&#x27;s Battery Health</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-12 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/hurricanes-Milton-Kirk-Leslie.jpg" alt="Hurricane Swarms Are a Thing We Have to Worry About Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/hurricane-swarms-are-a-thing-we-have-to-worry-about-now-2000642070" target="_blank">Hurricane Swarms Are a Thing We Have to Worry About Now</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-12 19:50</span>
             </div>
         </div>
 </div>
@@ -333,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 280 |
-        🔄 Last Updated: 02:33 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 41 | 📸 With Images: 280 |
+        🔄 Last Updated: 03:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
