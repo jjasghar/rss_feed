@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-13 15:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-13 16:01:49 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, August 13, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, August 13, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/trump-summit-1-rt-gmh-250813_1755092890647_hpMain_4x3t_384.jpg" alt="Zelensky says Putin is &#x27;bluffing&#x27; as Trump says he&#x27;ll push for ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/trump-putin-meet-listening-exercise-white-house-kyiv/story?id=124602682" target="_blank">Zelensky says Putin is &#x27;bluffing&#x27; as Trump says he&#x27;ll push for ceasefire</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-13 15:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/13/serbia-government-supporters-and-opponents-clash-during-protests?traffic_source=rss" target="_blank">Dozens injured in Serbia as clashes erupt at antigovernment protests</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-13 15:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,30 +91,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-gaza-palestinians-israel_6989593.jpg?20250813085729" alt="Over 100 people killed in Gaza in 24 hours, officials say, marking deadliest day in a week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/13/nx-s1-5500513/statelessness-but-make-it-funny" target="_blank">Statelessness, but make it funny</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-13 12:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad63/live/1cd84f20-7845-11f0-a20f-3b86f375586a.jpg" alt="Three children charged with murder of man in Kent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cgr99lkjlk4o?at_medium=RSS&at_campaign=rss" target="_blank">Three children charged with murder of man in Kent</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-13 12:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ca/live/639be4d0-783b-11f0-aa29-15a69a839271.jpg" alt="Gaza talks to focus on releasing hostages all in one go, Netanyahu hints" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c9vd734vv0yo?at_medium=RSS&at_campaign=rss" target="_blank">Gaza talks to focus on releasing hostages all in one go, Netanyahu hints</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-13 11:35</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/over-100-people-killed-in-gaza-in-24-hours-officials-say-marking-deadliest-day-in-a-week-13411088" target="_blank">Over 100 people killed in Gaza in 24 hours, officials say, marking deadliest day in a week</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-13 12:58</span>
             </div>
         </div>
 </div>
@@ -105,6 +104,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/13/tony-robbins-and-peter-diamandis-longevity-company-fountain-life-raises-18m/" target="_blank">Tony Robbins and Peter Diamandis’ longevity company Fountain Life raises $18M</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-13 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +158,20 @@
                 <span class="time">2025-08-13 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/13/why-i-finally-left-spotify/" target="_blank">Why I finally left Spotify</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-13 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://localghost.dev/blog/this-website-is-for-humans/" target="_blank">Website Is for Humans</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-13 15:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbhlb2ze4ivp5cvr5qjr.png" alt="How to set up Trello MCP server with Claude and Cursor for efficient task tracking🚀" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +217,6 @@
                 <span class="time">2025-08-13 12:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18557634&w=600" alt="Orchestrating Multi-Agents: Unifying Fragmented Tools into Coordinated Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/orchestrating-multi-agents-coordinated-workflows" target="_blank">Orchestrating Multi-Agents: Unifying Fragmented Tools into Coordinated Workflows</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-13 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +245,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/04/brainscan.jpg" alt="Sam Altman Reportedly Launch Rival Brain-Chip Startup to Compete With Musk’s Neuralink" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/sam-altman-reportedly-launch-rival-brain-chip-startup-to-compete-with-musks-neuralink-2000642516" target="_blank">Sam Altman Reportedly Launch Rival Brain-Chip Startup to Compete With Musk’s Neuralink</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-13 15:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/0bfee368a8f79ab01e089316e74e2f87.jpg" alt="As Mercy Skins Become More Expensive, Overwatch 2 Fans Are Bullying Her Players Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/overwatch-2-sakura-mercy-skin-bundle-price-kiriko-shop-2000617479" target="_blank">As Mercy Skins Become More Expensive, Overwatch 2 Fans Are Bullying Her Players Again</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-13 15:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/hed11.jpg" alt="Everything You Need To Know About Playing Super Mario Odyssey On Switch 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,29 +299,20 @@
                 <span class="time">2025-08-13 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K2FQ779A4VCZ353NP9JM6YDN/hero-image.png" alt="Five of the Best Free Barre Workout Channels on YouTube" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/the-best-free-barre-workout-channels-youtube?utm_medium=RSS" target="_blank">Five of the Best Free Barre Workout Channels on YouTube</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-13 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K2FMMTDY7B21E9QE7ZHWQH8S/hero-image.jpg" alt="26 of the Best Keyboard Shortcuts Everyone Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-computer-keyboard-shortcuts?utm_medium=RSS" target="_blank">26 of the Best Keyboard Shortcuts Everyone Should Know</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-13 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1754968635-20250813.png" alt="Saturday Morning Breakfast Cereal - Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/why-7" target="_blank">Saturday Morning Breakfast Cereal - Why</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-08-13 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -332,22 +340,13 @@
                 <span class="time">2025-08-12 16:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1754597523-20250812.png" alt="Saturday Morning Breakfast Cereal - Right there" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/right-there" target="_blank">Saturday Morning Breakfast Cereal - Right there</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-08-12 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
