@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-13 14:01:58 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-13 15:01:48 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, August 13, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, August 13, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,9 +50,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/8/13/trump-is-waging-a-war-on-democratic-run?traffic_source=rss" target="_blank">Trump is “waging a war on Democratic-run cities”</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-13 14:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad63/live/1cd84f20-7845-11f0-a20f-3b86f375586a.jpg" alt="Three children in court accused of man&#x27;s murder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgr99lkjlk4o?at_medium=RSS&at_campaign=rss" target="_blank">Three children in court accused of man&#x27;s murder</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-13 14:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/13/lebanons-aoun-tells-iran-security-chief-it-rejects-external-interference?traffic_source=rss" target="_blank">Lebanon rejects foreign interference, president tells Iran official</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-13 13:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/13/nx-s1-5500513/statelessness-but-make-it-funny" target="_blank">Statelessness, but make it funny</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-13 12:24</span>
             </div>
         </div>
 <div class="story">
@@ -74,38 +100,29 @@
                 <span class="time">2025-08-13 11:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/13/bangladeshi-graft-case-probes-ex-pm-hasina-former-uk-minister-tulip-siddiq?traffic_source=rss" target="_blank">Bangladesh officials testify against Tulip Siddiq at anticorruption trial</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-13 11:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755084539389_tdy_news_7a_haake_national_guard_250813_1920x1080-kpksa4.jpg" alt="National Guard Deployed to DC Amid Trump&#x27;s Push to Cut Crime" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-s-dc-crackdown-begins-with-national-guard-deployment-244869189577" target="_blank">National Guard Deployed to DC Amid Trump&#x27;s Push to Cut Crime</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-13 11:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Putin-DB-250813_1755076597023_hpMain_4x3t_384.jpg" alt="Zelenskyy says &#x27;no sign&#x27; Putin wants to end war as Alaska summit edges closer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/trump-putin-meet-listening-exercise-white-house-kyiv/story?id=124602682" target="_blank">Zelenskyy says &#x27;no sign&#x27; Putin wants to end war as Alaska summit edges closer</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-13 09:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/13/tony-robbins-and-peter-diamandis-longevity-company-fountain-life-raises-18m/" target="_blank">Tony Robbins’ and Peter Diamandis’ longevity company Fountain Life raises $18M</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-13 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/social-media-distortion-500x500.jpg" alt="Study: Social media probably can’t be fixed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/" target="_blank">Study: Social media probably can’t be fixed</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-13 14:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +159,20 @@
                 <span class="time">2025-08-13 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2009/04/surprised-eye.jpg" alt="Worm invades man’s eyeball, leading doctors to suck out his eye jelly" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/08/worm-invades-mans-eyeball-leading-doctors-to-suck-out-his-eye-jelly/" target="_blank">Worm invades man’s eyeball, leading doctors to suck out his eye jelly</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-13 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/openai/758537/chatgpt-4o-gpt-5-model-backlash-replacement" target="_blank">ChatGPT won’t remove old models without warning after GPT-5 backlash</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-13 07:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpbhlb2ze4ivp5cvr5qjr.png" alt="How to set up Trello MCP server with Claude and Cursor for efficient task tracking🚀" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/composiodev/how-to-setup-trello-mcp-server-with-claude-and-cursor-for-efficient-task-tracking-1ggm" target="_blank">How to set up Trello MCP server with Claude and Cursor for efficient task tracking🚀</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-13 14:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18557641&w=600" alt="How to Know an Autonomous Driver Is Safe and Reliable?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,15 +218,6 @@
                 <span class="time">2025-08-13 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5ej3tum1j3jmizb9uyt3.png" alt="How To Write And Submit a Robots.txt File" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sotir_kostadinov_d78ea470/how-to-write-and-submit-a-robotstxt-file-5d56" target="_blank">How To Write And Submit a Robots.txt File</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-13 11:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +247,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/hed11.jpg" alt="Everything You Need To Know About Playing Super Mario Odyssey On Switch 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/switch-2-super-mario-odyssey-performance-upgrade-2000617456" target="_blank">Everything You Need To Know About Playing Super Mario Odyssey On Switch 2</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-13 14:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/GyLALOSWYAA_Q7j.jpg?fit=2048%2C1423&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s Labor Statistics pick has painting of Nazi battleship behind his desk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/13/trumps-labor-statistics-pick-has-giant-painting-of-nazi-battleship-in-his-office.html" target="_blank">Trump&#x27;s Labor Statistics pick has painting of Nazi battleship behind his desk</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-13 14:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K2HDSS1N8NXHDENA7FNS0BZ9/hero-image.png" alt="The 512GB Galaxy Fold 7 Is Less Than the Base Model Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/galaxy-z-fold-7-sale?utm_medium=RSS" target="_blank">The 512GB Galaxy Fold 7 Is Less Than the Base Model Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-13 14:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Alien-Earth-Recap-1.jpg" alt="‘Alien: Earth’ Begins With Crucial Context and Constant Chaos" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -272,33 +298,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/best-computer-keyboard-shortcuts?utm_medium=RSS" target="_blank">26 of the Best Keyboard Shortcuts Everyone Should Know</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-13 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/chibi.jpg" alt="The Switch 2’s GameCube Library Is Finally Getting A New Addition" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/nintendo-switch-2-online-robo-chibi-gamecube-2000617438" target="_blank">The Switch 2’s GameCube Library Is Finally Getting A New Addition</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-13 11:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Los_Angeles_Palisades_Fire.jpg" alt="Illegal Price-Gouging Runs Rampant After Disasters. The LA Fires Proved It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/illegal-price-gouging-runs-rampant-after-disasters-the-la-fires-proved-it-2000642193" target="_blank">Illegal Price-Gouging Runs Rampant After Disasters. The LA Fires Proved It</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-13 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2023/08/3d8c4ba3e97782418ab88ee3b9fb3a63.jpg" alt="Spirit Airlines Admits It Might Not Survive Another Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/spirit-airlines-admits-it-might-not-survive-another-year-2000642336" target="_blank">Spirit Airlines Admits It Might Not Survive Another Year</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-13 02:08</span>
             </div>
         </div>
 </div>
@@ -347,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
