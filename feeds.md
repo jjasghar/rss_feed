@@ -1,40 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-13 20:01:50 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-13 21:01:41 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, August 13, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, August 13, 2025 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -72,6 +71,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/13/nx-s1-5500316/khipu-quipu-inca-empire-knots-record-keeping" target="_blank">A lock of hair may have just changed what we know about life in the Incan Empire</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-13 18:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/08/13/nx-s1-5500316/khipu-quipu-inca-empire-knots-record-keeping" target="_blank">Who made these knotted records during the
 Inca Empire?</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -96,20 +104,20 @@ Inca Empire?</a></span>
                 <span class="time">2025-08-13 17:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/13/trump-touts-second-trilateral-meeting-before-putin-summit-zelenskyy-pushes?traffic_source=rss" target="_blank">Trump touts second trilateral meeting before Putin summit; Zelenskyy pushes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-13 17:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/758982/kodak-debt-retirement-funds" target="_blank">Kodak says it’ll figure things out and won’t shut down</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-13 20:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +163,29 @@ Inca Empire?</a></span>
                 <span class="time">2025-08-13 17:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/13/tony-robbins-and-peter-diamandis-longevity-company-fountain-life-raises-18m/" target="_blank">Tony Robbins and Peter Diamandis’ longevity company Fountain Life raises $18M</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-13 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/asx/dev-log-04-49dg" target="_blank">Dev Log 04</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-13 20:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18559439&w=600" alt="Scheduler-Agent-Supervisor Pattern: Reliable Task Orchestration in Distributed Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/scheduler-agent-supervisor-pattern-reliable-task-o" target="_blank">Scheduler-Agent-Supervisor Pattern: Reliable Task Orchestration in Distributed Systems</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-13 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,24 +220,6 @@ Inca Empire?</a></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Early-Regression-Fix" target="_blank">Linux Lands Fix For Early 6.17 Regression Causing 37~43% Performance Hit</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-13 18:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/andrew_markhai_27ffd3a6b8/php-traceroute-216i" target="_blank">PHP Traceroute</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-13 18:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://astral.sh/blog/introducing-pyx" target="_blank">pyx: a Python-native package registry, now in Beta</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-08-13 18:28</span>
             </div>
         </div>
 </div>
@@ -261,6 +260,24 @@ Inca Empire?</a></span>
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Phatom-of-the-Opera-Tuxedo-Mask.jpg" alt="Andrew Lloyd Webber Is Turning ‘Phantom of the Opera’ Into an Anime Epic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/andrew-lloyd-webber-is-turning-phantom-of-the-opera-into-an-anime-epic-2000642758" target="_blank">Andrew Lloyd Webber Is Turning ‘Phantom of the Opera’ Into an Anime Epic</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-13 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/06/everest-e1755118144565.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Adventure filmmaker Thom Pollard&#x27;s Everest YouTube channel is fantastic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/13/adventure-filmmaker-thom-pollards-everest-youtube-channel-is-fantastic.html" target="_blank">Adventure filmmaker Thom Pollard&#x27;s Everest YouTube channel is fantastic</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-13 20:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Backpack-has-an-AI-care-companion.jpg" alt="Her 6-Year-Old Son Told Her He Wanted to Die. So She Built an AI Company to Save Him" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -294,24 +311,6 @@ Inca Empire?</a></span>
                 <span class="title"><a href="https://boingboing.net/2025/08/13/get-a-good-look-at-the-new-pebble-smartwatches.html" target="_blank">Get a good look at the new Pebble smartwatches</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-13 18:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/EuEFf8DDE4xU9hEPpugrCP.jpg" alt="Well, Bad News For PUBG Players On PS4 And Xbox One" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/well-bad-news-for-pubg-players-on-ps4-and-xbox-one-2000617500" target="_blank">Well, Bad News For PUBG Players On PS4 And Xbox One</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-13 17:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/ICE.jpeg?fit=1080%2C754&amp;quality=60&amp;ssl=1" alt="ICE deported 70 US citizens,  triples budget to $28.7B" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/13/ice-deported-70-us-citizens-triples-budget-to-28-7b.html" target="_blank">ICE deported 70 US citizens,  triples budget to $28.7B</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-13 16:45</span>
             </div>
         </div>
 </div>
@@ -369,8 +368,8 @@ Inca Empire?</a></span>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 279 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
