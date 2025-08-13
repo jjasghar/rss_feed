@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-13 13:12:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-13 14:01:58 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, August 13, 2025 - 13:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, August 13, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/13/lebanons-aoun-tells-iran-security-chief-it-rejects-external-interference?traffic_source=rss" target="_blank">Lebanon rejects foreign interference, president tells Iran official</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-13 13:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad63/live/1cd84f20-7845-11f0-a20f-3b86f375586a.jpg" alt="Three children charged with murder of man in Kent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgr99lkjlk4o?at_medium=RSS&at_campaign=rss" target="_blank">Three children charged with murder of man in Kent</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-13 12:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ca/live/639be4d0-783b-11f0-aa29-15a69a839271.jpg" alt="Gaza talks to focus on releasing hostages all in one go, Netanyahu hints" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,29 +101,20 @@
                 <span class="time">2025-08-13 09:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/13/what-are-zelenskyy-europe-demanding-of-trump-ahead-of-putin-summit?traffic_source=rss" target="_blank">What are Zelenskyy, Europe demanding of Trump ahead of Putin summit?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-13 09:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/pinch-point/2025/8/13/dying-of-thirst-in-gaza?traffic_source=rss" target="_blank">Dying of thirst in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-13 08:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/13/how-we-found-teaonher-spilling-users-drivers-licenses-in-less-than-10-minutes/" target="_blank">How we found TeaOnHer spilling users’ driver’s licenses in less than 10 minutes</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-13 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/689bd2171585083b1b64223e/master/pass/What%20Is%20Creatine,%20and%20Should%20You%20Be%20Taking%20It_.png" alt="What Is Creatine, and Should You Be Taking Most Studied Supplement (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,15 +158,6 @@
                 <span class="title"><a href="https://www.theverge.com/openai/758537/chatgpt-4o-gpt-5-model-backlash-replacement" target="_blank">ChatGPT won’t remove old models without warning after GPT-5 backlash</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-08-13 07:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/12/chatgpts-model-picker-is-back-and-its-complicated/" target="_blank">ChatGPT’s model picker is back, and it’s complicated</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-13 03:25</span>
             </div>
         </div>
 </div>
@@ -246,12 +248,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Alien-Earth-Recap-1.jpg" alt="‘Alien: Earth’ Begins With Crucial Context and Constant Chaos" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/alien-earth-recap-episode-1-episode-2-2000641951" target="_blank">‘Alien: Earth’ Begins With Crucial Context and Constant Chaos</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-13 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K2FQ779A4VCZ353NP9JM6YDN/hero-image.png" alt="Five of the Best Free Barre Workout Channels on YouTube" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/the-best-free-barre-workout-channels-youtube?utm_medium=RSS" target="_blank">Five of the Best Free Barre Workout Channels on YouTube</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-13 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K2FMMTDY7B21E9QE7ZHWQH8S/hero-image.jpg" alt="26 of the Best Keyboard Shortcuts Everyone Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/tech/best-computer-keyboard-shortcuts?utm_medium=RSS" target="_blank">26 of the Best Keyboard Shortcuts Everyone Should Know</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-13 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/chibi.jpg" alt="The Switch 2’s GameCube Library Is Finally Getting A New Addition" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nintendo-switch-2-online-robo-chibi-gamecube-2000617438" target="_blank">The Switch 2’s GameCube Library Is Finally Getting A New Addition</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-13 11:52</span>
             </div>
         </div>
 <div class="story">
@@ -270,33 +299,6 @@
                 <span class="title"><a href="https://gizmodo.com/spirit-airlines-admits-it-might-not-survive-another-year-2000642336" target="_blank">Spirit Airlines Admits It Might Not Survive Another Year</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-13 02:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/skimmers.jpeg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Welfare fraud tourist extends vacation by 10 years (in prison)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/12/welfare-fraud-tourist-extends-vacation-by-10-years-in-prison.html" target="_blank">Welfare fraud tourist extends vacation by 10 years (in prison)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-13 01:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/03/92ca02fc991dc5a03701db9bb98335dd.jpg" alt="10 Things We Learned From The New Assassin’s Creed Shadows Developer AMA" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/10-things-assasins-creed-shadows-dev-ama-ubisoft-parkour-isu-lore-2000617244" target="_blank">10 Things We Learned From The New Assassin’s Creed Shadows Developer AMA</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-12 22:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/One-Piece-Miss-Sunday-Netflix.jpg" alt="Netflix’s ‘One Piece’ Crew Rallies Around Charithra Chandran After Racist Backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/netflixs-one-piece-crew-rallies-around-charithra-chandran-after-racist-backlash-2000642170" target="_blank">Netflix’s ‘One Piece’ Crew Rallies Around Charithra Chandran After Racist Backlash</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-12 22:00</span>
             </div>
         </div>
 </div>
@@ -345,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 13:12 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
