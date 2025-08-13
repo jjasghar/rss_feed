@@ -1,26 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-13 01:29:26 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-13 02:32:54 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 5 new posts out of 18 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, August 13, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, August 13, 2025 - 02:33 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -157,6 +163,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/gamespot-vr-games-showcase-august-2025-4ihm" target="_blank">GameSpot: VR Games Showcase | August 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-13 02:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Go-1.25-Released" target="_blank">Go 1.25 Released With Experimental GC Yielding 10~40% Overhead Reduction</a></span>
                 <span class="feed">Phoronix</span>
@@ -199,15 +214,6 @@
                 <span class="time">2025-08-12 20:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/testree/beyond-automation-the-role-of-ai-and-gen-ai-in-modern-software-testing-13f1" target="_blank">Beyond Automation: The Role of AI and Gen AI in Modern Software Testing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-12 20:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +243,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2023/08/3d8c4ba3e97782418ab88ee3b9fb3a63.jpg" alt="Spirit Airlines Admits It Might Not Survive Another Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/spirit-airlines-admits-it-might-not-survive-another-year-2000642336" target="_blank">Spirit Airlines Admits It Might Not Survive Another Year</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-13 02:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/One-Piece-Miss-Sunday-Netflix.jpg" alt="Netflix’s ‘One Piece’ Crew Rallies Around Charithra Chandran After Racist Backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -252,6 +267,15 @@
                 <span class="title"><a href="https://lifehacker.com/netflix-hidden-features?utm_medium=RSS" target="_blank">Netflix Has Hidden Features and Secret Codes</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-12 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/FutureMoney-Pro.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Want to make your kid a millionaire? There&#x27;s now an app for that" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/12/want-to-make-your-kid-a-millionaire-theres-now-an-app-for-that.html" target="_blank">Want to make your kid a millionaire? There&#x27;s now an app for that</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-12 21:00</span>
             </div>
         </div>
 <div class="story">
@@ -272,29 +296,20 @@
                 <span class="time">2025-08-12 19:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/03/trump-h.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Trump transforms a simple question about National Guard deployment into an incoherent monologue" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/12/trump-transforms-a-simple-question-about-national-guard-deployment-into-an-incoherent-monologue.html" target="_blank">Trump transforms a simple question about National Guard deployment into an incoherent monologue</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-12 19:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JY25W0KR3SPV4D8JE6BTYYPC/hero-image.png" alt="The Three Fitness Apps I Use Every Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/fitness-apps-i-use-every-day?utm_medium=RSS" target="_blank">The Three Fitness Apps I Use Every Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-12 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5634.png" alt="She Has Connections" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5634" target="_blank">She Has Connections</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-08-12 23:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -318,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 280 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 280 |
+        🔄 Last Updated: 02:33 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
