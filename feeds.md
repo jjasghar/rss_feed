@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-13 21:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-13 22:01:45 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Generated 11 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, August 13, 2025 - 21:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, August 13, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +51,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/13/rising-seas-could-put-easter-islands-iconic-statues-at-risk-by-2080-study?traffic_source=rss" target="_blank">Rising seas could put Easter Island’s iconic statues at risk by 2080: Study</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-13 21:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97a9/live/1f30d360-786c-11f0-a20f-3b86f375586a.jpg" alt="Europe expresses hope after call with Trump on Putin summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -65,6 +75,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/13/protests-vigils-held-around-globe-for-gaza-assassinated-journalists?traffic_source=rss" target="_blank">Protests, vigils held around globe for Gaza, assassinated journalists</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-13 18:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-kharkiv-ukraine-russia-war-invasion_6988607.jpg?20250812080421" alt="Trump&#x27;s targets for Putin summit appear fluid - can he even get a ceasefire?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/is-the-trump-putin-meeting-a-listening-exercise-or-an-attempt-to-secure-an-immediate-ceasefire-13411293" target="_blank">Trump&#x27;s targets for Putin summit appear fluid - can he even get a ceasefire?</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-13 18:39</span>
             </div>
         </div>
 <div class="story">
@@ -86,29 +105,20 @@ Inca Empire?</a></span>
                 <span class="time">2025-08-13 18:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/trump-summit-1-rt-gmh-250813_1755092890647_hpMain_4x3t_384.jpg" alt="Trump warns Russia of &#x27;severe consequences&#x27; if Putin doesn&#x27;t agree to stop war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/trump-putin-meet-listening-exercise-white-house-kyiv/story?id=124602682" target="_blank">Trump warns Russia of &#x27;severe consequences&#x27; if Putin doesn&#x27;t agree to stop war</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-13 17:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fa5/live/442d9700-17c5-11f0-8a1e-3ff815141b98.png" alt="Arena bomb plotter charged with prison attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckge2qdr88eo?at_medium=RSS&at_campaign=rss" target="_blank">Arena bomb plotter charged with prison attack</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-13 17:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/13/co-founder-of-elon-musks-xai-departs-the-company/" target="_blank">Co-founder of Elon Musk’s xAI departs the company</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-13 21:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,15 +164,6 @@ Inca Empire?</a></span>
                 <span class="time">2025-08-13 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/54718108420_ddb71dd7b2_k-500x500.jpg" alt="After first operational launch, here’s the next big test for ULA’s Vulcan rocket" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/08/after-first-operational-launch-heres-the-next-big-test-for-ulas-vulcan-rocket/" target="_blank">After first operational launch, here’s the next big test for ULA’s Vulcan rocket</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-13 17:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,9 +173,27 @@ Inca Empire?</a></span>
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/udoh_deborah_b1e484c474bf/day-23-jenkins-freestyle-project-for-devops-engineers-4367" target="_blank">Day 23: Jenkins Freestyle Project for DevOps Engineers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-13 21:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/asx/dev-log-04-49dg" target="_blank">Dev Log 04</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-13 20:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-SR-IOV-Only-For-Arc-Pro" target="_blank">SR-IOV Will Only Be Supported On Intel Arc Pro Graphics Cards</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-13 20:36</span>
             </div>
         </div>
 <div class="story">
@@ -202,24 +221,6 @@ Inca Empire?</a></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-Panther-Lake-Power-Slider" target="_blank">Linux Preps For New &quot;SoC Power Slider&quot; With Upcoming Panther Lake</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-13 19:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18556753&w=600" alt="Database Choices for Real-World Applications Cheat Sheet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/choosing-the-right-database-for-your-application" target="_blank">Database Choices for Real-World Applications Cheat Sheet</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-13 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Early-Regression-Fix" target="_blank">Linux Lands Fix For Early 6.17 Regression Causing 37~43% Performance Hit</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-13 18:51</span>
             </div>
         </div>
 </div>
@@ -260,6 +261,33 @@ Inca Empire?</a></span>
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Chips.jpg" alt="U.S. Allegedly Super-Charged Its Efforts to Prevent China From Getting American Chips" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-u-s-has-allegedly-super-charged-its-efforts-to-prevent-china-from-getting-american-chips-2000642802" target="_blank">U.S. Allegedly Super-Charged Its Efforts to Prevent China From Getting American Chips</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-13 21:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/controllers.jpg" alt="A Ton Of New Game Controllers Are On The Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/switch-2-pro-third-party-controller-cheap-razer-pc-ps5-xbox-2000617538" target="_blank">A Ton Of New Game Controllers Are On The Way</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-13 21:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/Pirro-in-action-on-Fox-News.jpg?fit=1080%2C698&amp;quality=60&amp;ssl=1" alt="US Attorney for DC, Jeanine Pirro, claims to have filed felony charges against the sandwich-throwing freedom fighter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/13/us-attorney-for-dc-jeanine-pirro-claims-to-have-filed-felony-charges-against-the-sandwich-throwing-freedom-fighter.html" target="_blank">US Attorney for DC, Jeanine Pirro, claims to have filed felony charges against the sandwich-throwing freedom fighter</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-13 21:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Phatom-of-the-Opera-Tuxedo-Mask.jpg" alt="Andrew Lloyd Webber Is Turning ‘Phantom of the Opera’ Into an Anime Epic" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -284,33 +312,6 @@ Inca Empire?</a></span>
                 <span class="title"><a href="https://gizmodo.com/mental-health-ai-backpack-2000642729" target="_blank">Her 6-Year-Old Son Told Her He Wanted to Die. So She Built an AI Company to Save Him</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-13 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/barry-art.jpeg?fit=680%2C453&amp;quality=60&amp;ssl=1" alt="Artist conjures mysterious symbols from the ghosts of forgotten books" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/13/artist-conjures-mysterious-symbols-from-the-ghosts-of-forgotten-books.html" target="_blank">Artist conjures mysterious symbols from the ghosts of forgotten books</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-13 19:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JXMR1VZ6BR6KS80J8JXPJ5EW/hero-image.jpg" alt="I’m a Certified Spin Instructor, and I&#x27;d Buy a Used Peloton Every Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/why-you-should-buy-used-peloton?utm_medium=RSS" target="_blank">I’m a Certified Spin Instructor, and I&#x27;d Buy a Used Peloton Every Time</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-13 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Pebble.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="Get a good look at the new Pebble smartwatches" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/13/get-a-good-look-at-the-new-pebble-smartwatches.html" target="_blank">Get a good look at the new Pebble smartwatches</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-13 18:29</span>
             </div>
         </div>
 </div>
@@ -368,8 +369,8 @@ Inca Empire?</a></span>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 279 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
