@@ -1,35 +1,26 @@
-<!-- Processing 54 RSS feeds at 2025-08-13 00:05:00 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-13 01:29:26 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Generated 5 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, August 13, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, August 13, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +36,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58d4/live/344f8590-7793-11f0-907d-6ff0082c2def.jpg" alt="The deadly cancers left behind by 50 years of success" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5ypkrzyxd1o?at_medium=RSS&at_campaign=rss" target="_blank">The deadly cancers left behind by 50 years of success</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-13 00:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/13/russia-ukraine-war-list-of-key-events-day-1266?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,266</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-13 00:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/smithsonian-gty-er-250812_1755033599345_hpMain_4x3t_384.jpg" alt="White House wants Smithsonian exhibits to fit Trump&#x27;s view of history: Official" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -64,6 +73,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-vladimir-putin-donald-trump_6989498.jpg?20250812235328" alt="Europe&#x27;s concerns may be getting through as White House reframes Trump-Putin summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/europes-concerns-may-be-getting-through-as-white-house-reframes-trump-putin-summit-13410854" target="_blank">Europe&#x27;s concerns may be getting through as White House reframes Trump-Putin summit</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-12 21:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b682/live/34bc1750-77c5-11f0-a975-cb151ca452f4.jpg" alt="Zelensky rules out ceding Donbas region as Russians make fresh advance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -72,38 +90,20 @@
                 <span class="time">2025-08-12 21:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/12/nx-s1-5500526/can-the-president-order-a-new-census-trump-congress" target="_blank">Trump official tells census workers Congress has final say over the count, not Trump</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-12 21:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250812-washington-homeless-encampment-vl-1218p-878093.jpg" alt="Trump administration suggests displaced D.C. homeless people go to shelters, treatment or jail" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-dc-homeless-people-places-stay-jail-shelters-rcna224527" target="_blank">Trump administration suggests displaced D.C. homeless people go to shelters, treatment or jail</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-12 20:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/12/un-says-bid-to-help-address-turmoil-in-haiti-less-than-10-percent-funded?traffic_source=rss" target="_blank">UN says bid to help address turmoil in Haiti less than 10 percent funded</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-12 20:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/23037217/best-apple-watch-series-se-ultra" target="_blank">How to choose which Apple Watch to buy</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-13 00:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +149,20 @@
                 <span class="time">2025-08-12 20:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/758360/league-of-legends-wasd-keyboard-control-riot-games" target="_blank">League of Legends is testing a new WASD control scheme, 16 years in</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-12 20:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Go-1.25-Released" target="_blank">Go 1.25 Released With Experimental GC Yielding 10~40% Overhead Reduction</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-13 00:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +206,6 @@
                 <span class="title"><a href="https://dev.to/testree/beyond-automation-the-role-of-ai-and-gen-ai-in-modern-software-testing-13f1" target="_blank">Beyond Automation: The Role of AI and Gen AI in Modern Software Testing</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-12 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18556658&w=600" alt="Building a Scalable GenAI Architecture for FinTech Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-a-scalable-genai-architecture-for-fintech" target="_blank">Building a Scalable GenAI Architecture for FinTech Workflows</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-12 20:00</span>
             </div>
         </div>
 </div>
@@ -322,22 +313,13 @@
                 <span class="time">2025-08-12 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5633.png" alt="Heart Of Gold" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5633" target="_blank">Heart Of Gold</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-08-12 01:05</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 280 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
