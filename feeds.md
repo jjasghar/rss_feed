@@ -1,28 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-13 04:07:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-13 05:02:43 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 20 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, August 13, 2025 - 04:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, August 13, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +51,24 @@
                 <span class="title"><a href="https://www.aljazeera.com/features/2025/8/13/will-trumps-india-tariffs-shut-down-worlds-biggest-cut-diamond-supplier?traffic_source=rss" target="_blank">Will Trump’s India tariffs shut down world’s biggest cut diamond supplier?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-13 03:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ade2/live/9f58e0a0-77ea-11f0-a20f-3b86f375586a.jpg" alt="National Guard troops appear in Washington DC as mayor rejects &#x27;authoritarian push&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy7ypm6zxp2o?at_medium=RSS&at_campaign=rss" target="_blank">National Guard troops appear in Washington DC as mayor rejects &#x27;authoritarian push&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-13 03:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/national-guard-2_1755043529875_hpMain_4x3t_384.jpg" alt="National Guard troops now on DC streets told to maintain presence near National Mall" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/guard-members-waiting-orders-begin-gather-dc/story?id=124587539" target="_blank">National Guard troops now on DC streets told to maintain presence near National Mall</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-13 02:29</span>
             </div>
         </div>
 <div class="story">
@@ -72,24 +96,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/national-guard-members-report-for-duty-in-dc-under-president-trump-s-orders-244831813626" target="_blank">National Guard members report for duty in DC under President Trump’s orders</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-08-12 22:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/smithsonian-gty-er-250812_1755033599345_hpMain_4x3t_384.jpg" alt="White House wants Smithsonian exhibits to fit Trump&#x27;s view of history: Official" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/white-house-conduct-review-smithsonian-museum-exhibitions-ensure/story?id=124592673" target="_blank">White House wants Smithsonian exhibits to fit Trump&#x27;s view of history: Official</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-12 22:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/12/us-sanctions-dr-congo-armed-group-over-illicit-mining-ceasefire-tested?traffic_source=rss" target="_blank">US sanctions DR Congo armed group over illicit mining, ceasefire tested</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-12 22:18</span>
             </div>
         </div>
 </div>
@@ -160,6 +166,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/misterankit/top-10-features-in-chrome-devtools-every-web-developer-should-know-2p51" target="_blank">Top 10 Features in Chrome DevTools Every Web Developer Should Know</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-13 04:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://numba.pydata.org/numba-prototypes/sealir_tutorials/index.html" target="_blank">Numba v2 Compiler Design</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-08-13 04:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/unnamed.png?resize=406%2C232&amp;ssl=1" alt="Orion Browser for Linux Gets Exciting Progress Update" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/orion-browser-linux-milestone-2-webkit-alternative-chromium" target="_blank">Orion Browser for Linux Gets Exciting Progress Update</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-13 02:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/yash_sonawane25/how-to-build-a-cicd-pipeline-on-aws-with-codepipeline-github-4ho6" target="_blank">How to Build a CI/CD Pipeline on AWS with CodePipeline + GitHub 🚀</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-13 02:40</span>
@@ -181,33 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Go-1.25-Released" target="_blank">Go 1.25 Released With Experimental GC Yielding 10~40% Overhead Reduction</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-13 00:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-collegiate-game-challenge-2025-172i" target="_blank">IGN: Collegiate Game Challenge 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-13 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tangerinetrain/api-calls-and-testing-2def" target="_blank">API calls and Testing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-12 22:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/nrposner/coding_club" target="_blank">An Introduction to Python-Rust Interop for Scientific Codebases</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-08-12 21:13</span>
             </div>
         </div>
 </div>
@@ -329,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 04:07 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
