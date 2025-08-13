@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-13 19:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-13 20:01:50 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 28 feeds processed -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, August 13, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, August 13, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +111,24 @@ Inca Empire?</a></span>
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/758931/apple-ai-siri-smart-home-robot-security-camera" target="_blank">Apple&amp;#8217;s plan for AI could make Siri the animated center of your smart home</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-13 19:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/13/google-ceo-adds-a-new-calendar-feature-at-stripe-co-founders-request/" target="_blank">Google CEO adds a new calendar feature at Stripe co-founder’s request</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-13 19:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/6899f5d8374ad3a7c8cd5920/master/pass/081125_mRNA-Companies-Are-Not-OK.jpg" alt="RFK Jr. Is Supporting mRNA Research—Just Not for Vaccines" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -143,29 +164,38 @@ Inca Empire?</a></span>
                 <span class="time">2025-08-13 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/13/tony-robbins-and-peter-diamandis-longevity-company-fountain-life-raises-18m/" target="_blank">Tony Robbins’ and Peter Diamandis’ longevity company Fountain Life raises $18M</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-13 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/social-media-distortion-500x500.jpg" alt="Study: Social media probably can’t be fixed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/08/study-social-media-probably-cant-be-fixed/" target="_blank">Study: Social media probably can’t be fixed</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-13 14:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pushpendratips/top-al-tools-driving-the-future-of-work-24i7" target="_blank">Top Al Tools Driving the Future of Work‼️ 🔥</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-13 19:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Panther-Lake-Power-Slider" target="_blank">Linux Preps For New &quot;SoC Power Slider&quot; With Upcoming Panther Lake</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-13 19:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18556753&w=600" alt="Database Choices for Real-World Applications Cheat Sheet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/choosing-the-right-database-for-your-application" target="_blank">Database Choices for Real-World Applications Cheat Sheet</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-13 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,33 +221,6 @@ Inca Empire?</a></span>
                 <span class="title"><a href="https://astral.sh/blog/introducing-pyx" target="_blank">pyx: a Python-native package registry, now in Beta</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-08-13 18:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18557660&w=600" alt="Designing Data Pipelines for Real-World Systems: A Guide to Cleaning and Validating Messy Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-robust-sanitization-pipelines-five-steps" target="_blank">Designing Data Pipelines for Real-World Systems: A Guide to Cleaning and Validating Messy Data</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-13 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-KFuzzTest" target="_blank">Google Develops KFuzzTest For Fuzzing Internal Linux Kernel Functions</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-13 17:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/manasi_patil_/15-python-questions-that-could-make-or-break-your-next-interview-46ck" target="_blank">🐍 15 Python Questions That Could Make or Break Your Next Interview</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-13 17:50</span>
             </div>
         </div>
 </div>
@@ -258,6 +261,24 @@ Inca Empire?</a></span>
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Backpack-has-an-AI-care-companion.jpg" alt="Her 6-Year-Old Son Told Her He Wanted to Die. So She Built an AI Company to Save Him" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/mental-health-ai-backpack-2000642729" target="_blank">Her 6-Year-Old Son Told Her He Wanted to Die. So She Built an AI Company to Save Him</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-13 19:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/barry-art.jpeg?fit=680%2C453&amp;quality=60&amp;ssl=1" alt="Artist conjures mysterious symbols from the ghosts of forgotten books" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/13/artist-conjures-mysterious-symbols-from-the-ghosts-of-forgotten-books.html" target="_blank">Artist conjures mysterious symbols from the ghosts of forgotten books</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-13 19:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JXMR1VZ6BR6KS80J8JXPJ5EW/hero-image.jpg" alt="I’m a Certified Spin Instructor, and I&#x27;d Buy a Used Peloton Every Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -293,29 +314,20 @@ Inca Empire?</a></span>
                 <span class="time">2025-08-13 16:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JYH66NF15ZR4SQPA6XTM1V0F/hero-image.png" alt="Peloton&#x27;s &#x27;Teams&#x27; Feature Is Surprisingly Good at Motivating Me to Work Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/pelotons-teams-is-surprisingly-good-at-motivating-me-to-work-out?utm_medium=RSS" target="_blank">Peloton&#x27;s &#x27;Teams&#x27; Feature Is Surprisingly Good at Motivating Me to Work Out</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-13 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/04/brainscan.jpg" alt="Sam Altman Reportedly Launch Rival Brain-Chip Startup to Compete With Musk’s Neuralink" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sam-altman-reportedly-launch-rival-brain-chip-startup-to-compete-with-musks-neuralink-2000642516" target="_blank">Sam Altman Reportedly Launch Rival Brain-Chip Startup to Compete With Musk’s Neuralink</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-13 15:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/08/13/making-art-2" target="_blank">Making Art!</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-08-13 18:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1754968635-20250813.png" alt="Saturday Morning Breakfast Cereal - Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -357,8 +369,8 @@ Inca Empire?</a></span>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
