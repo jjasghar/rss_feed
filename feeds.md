@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-13 16:01:49 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-13 17:01:44 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, August 13, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, August 13, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/trump-summit-1-rt-gmh-250813_1755092890647_hpMain_4x3t_384.jpg" alt="Zelenskyy says Putin is &#x27;bluffing&#x27; as Trump says he&#x27;ll push for ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/trump-putin-meet-listening-exercise-white-house-kyiv/story?id=124602682" target="_blank">Zelenskyy says Putin is &#x27;bluffing&#x27; as Trump says he&#x27;ll push for ceasefire</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-13 16:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fa5/live/442d9700-17c5-11f0-8a1e-3ff815141b98.png" alt="Arena bomb plotter charged with prison guards attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckge2qdr88eo?at_medium=RSS&at_campaign=rss" target="_blank">Arena bomb plotter charged with prison guards attack</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-13 16:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/aljazeerauntangles/2025/8/13/the-privacy-paradox?traffic_source=rss" target="_blank">The Privacy Paradox</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-13 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/trump-summit-1-rt-gmh-250813_1755092890647_hpMain_4x3t_384.jpg" alt="Zelensky says Putin is &#x27;bluffing&#x27; as Trump says he&#x27;ll push for ceasefire" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -66,37 +91,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/8/13/trump-is-waging-a-war-on-democratic-run?traffic_source=rss" target="_blank">Trump is “waging a war on Democratic-run cities”</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-13 14:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad63/live/1cd84f20-7845-11f0-a20f-3b86f375586a.jpg" alt="Three children in court accused of man&#x27;s murder" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cgr99lkjlk4o?at_medium=RSS&at_campaign=rss" target="_blank">Three children in court accused of man&#x27;s murder</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-13 14:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/13/lebanons-aoun-tells-iran-security-chief-it-rejects-external-interference?traffic_source=rss" target="_blank">Lebanon rejects foreign interference, president tells Iran official</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-13 13:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-gaza-palestinians-israel_6989593.jpg?20250813085729" alt="Over 100 people killed in Gaza in 24 hours, officials say, marking deadliest day in a week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/over-100-people-killed-in-gaza-in-24-hours-officials-say-marking-deadliest-day-in-a-week-13411088" target="_blank">Over 100 people killed in Gaza in 24 hours, officials say, marking deadliest day in a week</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-13 12:58</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/08/13/g-s1-82265/in-1985-famine-led-to-live-aid-and-a-u-s-alert-plan-trump-froze-it-now-its-back" target="_blank">In 1985, famine led to Live Aid and a U.S. alert plan. Trump froze it. Now it&#x27;s back</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-13 15:18</span>
             </div>
         </div>
 </div>
@@ -226,6 +224,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/ai-applications-in-cybersecurity.html" target="_blank">AI Applications in Cybersecurity</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-08-13 16:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/sigint-during-world-war-ii.html" target="_blank">SIGINT During World War II</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2025-08-13 11:08</span>
@@ -245,6 +252,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JYH66NF15ZR4SQPA6XTM1V0F/hero-image.png" alt="Peloton&#x27;s &#x27;Teams&#x27; Feature Is Surprisingly Good at Motivating Me to Work Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/pelotons-teams-is-surprisingly-good-at-motivating-me-to-work-out?utm_medium=RSS" target="_blank">Peloton&#x27;s &#x27;Teams&#x27; Feature Is Surprisingly Good at Motivating Me to Work Out</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-13 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/04/brainscan.jpg" alt="Sam Altman Reportedly Launch Rival Brain-Chip Startup to Compete With Musk’s Neuralink" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +306,6 @@
                 <span class="time">2025-08-13 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Alien-Earth-Recap-1.jpg" alt="‘Alien: Earth’ Begins With Crucial Context and Constant Chaos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/alien-earth-recap-episode-1-episode-2-2000641951" target="_blank">‘Alien: Earth’ Begins With Crucial Context and Constant Chaos</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-13 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,22 +338,13 @@
                 <span class="time">2025-08-12 23:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/08/12/battlefeels" target="_blank">Battlefeels</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-08-12 16:21</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
