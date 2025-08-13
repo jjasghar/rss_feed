@@ -1,42 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-13 12:02:09 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-13 13:12:39 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 33 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, August 13, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, August 13, 2025 - 13:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -171,6 +164,42 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18557641&w=600" alt="How to Know an Autonomous Driver Is Safe and Reliable?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/autonomous-driver-safety-and-reliability" target="_blank">How to Know an Autonomous Driver Is Safe and Reliable?</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-13 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/08/microsoft-dev-proxy-1-0/en/headerimage/twitter_card+%2856%29-1755027883422.jpg" alt="Dev Proxy Reaches v1.0 with AI Failure Simulation, Token Rate Limiting, and Integration Enhancements" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/microsoft-dev-proxy-1-0/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Dev Proxy Reaches v1.0 with AI Failure Simulation, Token Rate Limiting, and Integration Enhancements</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-13 12:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-IDXD-Not-So-Happy" target="_blank">Intel IDXD Accelerator Driver Cleaned Up For Some &quot;Not So Happy Code Paths&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-13 12:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://nedbatchelder.com/blog/202508/starting_with_pytests_parametrize.html" target="_blank">Starting with pytest’s parametrize</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-08-13 12:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18557634&w=600" alt="Orchestrating Multi-Agents: Unifying Fragmented Tools into Coordinated Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -188,47 +217,20 @@
                 <span class="time">2025-08-13 11:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Agoda Handles Kafka Consumer Failover Across Data Centers with Custom Two-Way Sync" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/agoda-kafka-failover/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Agoda Handles Kafka Consumer Failover Across Data Centers with Custom Two-Way Sync</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-13 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FFmpeg-Lands-Whisper" target="_blank">FFmpeg 8.0 Merges OpenAI Whisper Filter For Automatic Speech Recognition</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-13 10:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://code.ffmpeg.org/FFmpeg/FFmpeg/commit/13ce36fef98a3f4e6d8360c24d6b8434cbb8869b" target="_blank">FFmpeg 8.0 adds Whisper support</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-13 10:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjxieuwownigajghzas2b.jpg" alt="Terraform.tfvars wasn’t made to be secure it was made to make Dev/Test life easier" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nuntin/terraformtfvars-wasnt-made-to-be-secure-it-was-made-to-make-devtest-life-easier-3poa" target="_blank">Terraform.tfvars wasn’t made to be secure it was made to make Dev/Test life easier</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-13 09:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/sigint-during-world-war-ii.html" target="_blank">SIGINT During World War II</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-08-13 11:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -243,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K2FMMTDY7B21E9QE7ZHWQH8S/hero-image.jpg" alt="26 of the Best Keyboard Shortcuts Everyone Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-computer-keyboard-shortcuts?utm_medium=RSS" target="_blank">26 of the Best Keyboard Shortcuts Everyone Should Know</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-13 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Los_Angeles_Palisades_Fire.jpg" alt="Illegal Price-Gouging Runs Rampant After Disasters. The LA Fires Proved It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +296,6 @@
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/netflixs-one-piece-crew-rallies-around-charithra-chandran-after-racist-backlash-2000642170" target="_blank">Netflix’s ‘One Piece’ Crew Rallies Around Charithra Chandran After Racist Backlash</a></span>
                 <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-12 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2HBSA8C537JB6XGV1K2C13/hero-image.jpg" alt="Netflix Has Hidden Features and Secret Codes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/netflix-hidden-features?utm_medium=RSS" target="_blank">Netflix Has Hidden Features and Secret Codes</a></span>
-                <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-12 22:00</span>
             </div>
         </div>
@@ -343,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 13:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
