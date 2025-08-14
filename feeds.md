@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-14 01:29:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-14 02:36:14 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, August 14, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, August 14, 2025 - 02:36 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +47,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/14/russia-ukraine-war-list-of-key-events-day-1267?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,267</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-14 01:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/08/13/nx-s1-5501666/trump-administration-foreign-aid" target="_blank">President Trump can continue to withhold billions in foreign aid, court rules</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-14 00:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/nat-guard-4-ht-gmh-250813_1755090169642_hpMain_4x3t_384.jpg" alt="DC to wake up to troops deployed along the National Mall" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/Politics/dc-wake-troops-deployed-national-mall/story?id=124629956" target="_blank">DC to wake up to troops deployed along the National Mall</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-13 23:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f40a/live/6dad2630-7856-11f0-8d1f-b10c011c40aa.jpg" alt="ADHD drugs have wider life benefits, study suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crr2j792drro?at_medium=RSS&at_campaign=rss" target="_blank">ADHD drugs have wider life benefits, study suggests</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-13 23:07</span>
             </div>
         </div>
 <div class="story">
@@ -71,33 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/13/nx-s1-5501585/how-alaska-went-from-russian-colony-to-u-s-state" target="_blank">How Alaska Went from Russian Colony to U.S. State</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-13 22:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/13/rising-seas-could-put-easter-islands-iconic-statues-at-risk-by-2080-study?traffic_source=rss" target="_blank">Rising seas could put Easter Island’s iconic statues at risk by 2080: Study</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-13 21:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755119192973_now_mtp_full_wu_250813_1920x1080-5g4v42.jpg" alt="‘We are still in discussions’ over when to return, top Texas House Democrat says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/-we-are-still-in-discussions-over-when-to-return-top-texas-house-democrat-says-244911685831" target="_blank">‘We are still in discussions’ over when to return, top Texas House Democrat says</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-13 21:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97a9/live/1f30d360-786c-11f0-a20f-3b86f375586a.jpg" alt="Europe expresses hope after call with Trump on Putin summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cpv0l9e187yo?at_medium=RSS&at_campaign=rss" target="_blank">Europe expresses hope after call with Trump on Putin summit</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-13 18:54</span>
             </div>
         </div>
 </div>
@@ -247,6 +247,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Eve-with-knife-2.jpg" alt="‘Friday the 13th’ Short ‘Sweet Revenge’ Is a Gruesomely Fun Jason Voorhees Return" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/friday-the-13th-short-sweet-revenge-is-a-gruesomely-fun-jason-voorhees-return-2000642076" target="_blank">‘Friday the 13th’ Short ‘Sweet Revenge’ Is a Gruesomely Fun Jason Voorhees Return</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-14 00:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/star-trek-worst-ensign-deaths-gamble-sito-jaxa-alvarado.jpg" alt="The Grimmest Ensign Deaths on ‘Star Trek’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -289,15 +298,6 @@
                 <span class="title"><a href="https://gizmodo.com/andrew-lloyd-webber-is-turning-phantom-of-the-opera-into-an-anime-epic-2000642758" target="_blank">Andrew Lloyd Webber Is Turning ‘Phantom of the Opera’ Into an Anime Epic</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-13 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/06/everest-e1755118144565.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Adventure filmmaker Thom Pollard&#x27;s Everest YouTube channel is fantastic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/13/adventure-filmmaker-thom-pollards-everest-youtube-channel-is-fantastic.html" target="_blank">Adventure filmmaker Thom Pollard&#x27;s Everest YouTube channel is fantastic</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-13 20:49</span>
             </div>
         </div>
 </div>
@@ -364,8 +364,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 02:36 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
