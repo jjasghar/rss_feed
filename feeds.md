@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-14 17:01:53 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-14 18:01:54 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 22 feeds processed -->
+<!-- Generated 12 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, August 14, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, August 14, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/14/blast-in-syrias-northwestern-idlib-province-kills-four-state-media?traffic_source=rss" target="_blank">Blast in Syria’s northwestern Idlib province kills four: State media</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-14 17:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/14/nx-s1-5493541/meidastouch-rogan-trump-podcast-video" target="_blank">Anti-Trump podcast MeidasTouch is rivaling Joe Rogan. Does it have staying power?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-14 16:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,29 +102,29 @@
                 <span class="time">2025-08-14 13:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Zelenskyy-Berlin-DB-250814_1755160024953_hpMain_4x3t_384.jpg" alt="Ukraine, left out in Trump-Putin summit, fears setbacks on key peace issues" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/ukraine-left-trump-putin-summit-fears-setbacks-key/story?id=124608507" target="_blank">Ukraine, left out in Trump-Putin summit, fears setbacks on key peace issues</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-14 12:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1064/live/2c061420-78f2-11f0-ad5e-d7ef7e9f4dda.png" alt="No 10 hails &#x27;powerful sense of unity&#x27; after Zelensky talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp37vg34g8jo?at_medium=RSS&at_campaign=rss" target="_blank">No 10 hails &#x27;powerful sense of unity&#x27; after Zelensky talks</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-14 12:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/14/cohere-hits-a-6-8b-valuation-as-investors-amd-nvidia-and-salesforce-double-down/" target="_blank">Cohere hits a $6.8B valuation as investors AMD, Nvidia, and Salesforce double down</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-14 17:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/x-ai/759554/consumer-safety-groups-are-demanding-an-ftc-investigation-into-groks-spicy-mode-elon-musk-grok-imagine-xai" target="_blank">Consumer safety groups are demanding an FTC investigation into Grok’s ‘Spicy’ mode</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-14 17:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/689e02a625b63dd1a35cf2ee/master/pass/apple-watch-blood-pressure-gear-2215389016.jpg" alt="The Apple Watch Is Finally Getting Blood Oxygen Sensing Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -136,29 +161,20 @@
                 <span class="time">2025-08-14 14:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/14/cohere-hires-long-time-meta-research-head-joelle-pineau-as-its-chief-ai-officer/" target="_blank">Cohere hires long-time Meta research head Joelle Pineau as its chief AI officer</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-14 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689b7b54b1983bbfa4c9ceb3/master/pass/Wyden-Probes-Cantor-Fitzgerald-Business-2227200223.jpg" alt="Senators Press Howard Lutnick’s Former Investment Firm Over Tariff Conflict of Interest Concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/senators-probe-cantor-fitzgerald-tariffs/" target="_blank">Senators Press Howard Lutnick’s Former Investment Firm Over Tariff Conflict of Interest Concerns</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-14 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18559186&w=600" alt="The Next Frontier in Cybersecurity: Securing AI Agents Is Now Critical and Most Companies Aren’t Ready" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-agent-security-framework" target="_blank">The Next Frontier in Cybersecurity: Securing AI Agents Is Now Critical and Most Companies Aren’t Ready</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-14 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://substack-post-media.s3.amazonaws.com/public/images/81006632-dc65-4db1-8564-e5b2bcc131d8_420x300.png" alt="The Pulse #142: Crazy-hours culture at AI startups" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -180,6 +196,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://developers.googleblog.com/en/introducing-gemma-3-270m/" target="_blank">Gemma 3 270M: The compact model for hyper-efficient AI</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-14 16:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
                 <span class="title"><a href="https://github.blog/news-insights/policy-news-and-insights/q1-2025-innovation-graph-update-bar-chart-races-data-visualization-on-the-rise-and-key-research/" target="_blank">Q1 2025 Innovation Graph update: Bar chart races, data visualization on the rise, and key research</a></span>
                 <span class="feed">The GitHub Blog</span>
@@ -193,24 +218,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/fuzzy-application-search-gnome-extension-working" target="_blank">Fuzzy Application Search Extension for GNOME Works with your Typos</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-08-14 15:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18558367&w=600" alt="Reclaiming the Architect’s Role in the SDLC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/reclaiming-the-architects-role-in-the-sdlc" target="_blank">Reclaiming the Architect’s Role in the SDLC</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-14 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fobdc5klrhqtz1h40zrfy.png" alt="How Attention made the AI leap possible!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/warmac4964/how-attention-made-the-ai-leap-possible-2866" target="_blank">How Attention made the AI leap possible!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-14 13:48</span>
             </div>
         </div>
 </div>
@@ -232,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/skin-grafts.jpg" alt="Former Hospital Worker Allegedly Stole Skin Grafts in California" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/former-hospital-worker-allegedly-stole-skin-grafts-in-california-2000643125" target="_blank">Former Hospital Worker Allegedly Stole Skin Grafts in California</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-14 17:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Photo-Mrzeldaootfan-on-Reddit.jpg?fit=1080%2C712&amp;quality=60&amp;ssl=1" alt="Is your graphics card SAGGING?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/14/is-your-graphics-card-sagging.html" target="_blank">Is your graphics card SAGGING?</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-14 17:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Peacemaker-HBO-Max.jpg" alt="‘Peacemaker’ Season 2’s Red Band Trailer Is Ready to Drop Bombs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,24 +291,6 @@
                 <span class="title"><a href="https://kotaku.com/pokemon-balls-monster-catchin-musical-professor-oak-2000617768" target="_blank">How A Pokémon Parody Stage Show Landed Professor Oak’s Voice And Avoided Nintendo’s Wrath</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-14 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K2JN363APVZ91ZHCVTVC36GD/hero-image.jpg" alt="All the Switch 2 Privacy Settings You Should Adjust Right Away" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/switch-2-privacy-settings-adjust-right-away?utm_medium=RSS" target="_blank">All the Switch 2 Privacy Settings You Should Adjust Right Away</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-14 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K2K7TW4FRGTMV5YSZ1FN26E7/hero-image.jpg" alt="This Spyware Campaign Is Targeting Android Users Via Messaging Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/this-spyware-campaign-is-targeting-android-users-via-messaging-apps?utm_medium=RSS" target="_blank">This Spyware Campaign Is Targeting Android Users Via Messaging Apps</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-14 14:30</span>
             </div>
         </div>
 </div>
@@ -341,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 41 | 📸 With Images: 296 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 41 | 📸 With Images: 295 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
