@@ -1,41 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-14 21:01:52 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-14 22:01:34 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 33 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, August 14, 2025 - 21:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, August 14, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +105,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/689cf64cf34ec0472c18f3a0/master/pass/AI-sSlop-Ripping-Off-Games-Peak-Culture-ScreenshotCaldera.png" alt="AI Slop Is Ripping Off One of Summer’s Best Games. Copycats Are Proving Hard to Kill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ai-slop-is-ripping-off-one-of-summers-best-games-fighting-back-is-harder-than-you-think/" target="_blank">AI Slop Is Ripping Off One of Summer’s Best Games. Copycats Are Proving Hard to Kill</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-14 21:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/14/u-s-government-is-reportedly-in-discussions-to-take-stake-in-intel/" target="_blank">US government is reportedly in discussions to take stake in Intel</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-14 20:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-starlink-500x500.jpg" alt="Starlink tries to block Virginia’s plan to bring fiber Internet to residents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -146,29 +158,29 @@
                 <span class="time">2025-08-14 17:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/x-ai/759554/consumer-safety-groups-are-demanding-an-ftc-investigation-into-groks-spicy-mode-elon-musk-grok-imagine-xai" target="_blank">Consumer safety groups are demanding an FTC investigation into Grok’s ‘Spicy’ mode</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-14 17:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689e1b0baae93d4e6ed6635c/master/pass/Inside-Scramble-Get-AI-Into-US-Gov-Politics-AP23362616472935.jpg" alt="xAI Was About to Land a Major Government Contract. Then Grok Praised Hitler" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/xai-grok-government-contract-hitler/" target="_blank">xAI Was About to Land a Major Government Contract. Then Grok Praised Hitler</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-14 17:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/ign-why-bioshock-4-still-isnt-ready-unlocked-clips-1gbf" target="_blank">IGN: Why BioShock 4 Still Isn’t Ready - Unlocked Clips</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-14 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/virtualbox-update.jpg?resize=406%2C232&amp;ssl=1" alt="VirtualBox 7.2 Release Brings Big UI Change, Better ARM Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/virtualbox-7-2-0-brings-more-ui-changes-windows-on-arm-support" target="_blank">VirtualBox 7.2 Release Brings Big UI Change, Better ARM Support</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-14 21:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1zjiwohchri6qcgsnxkb.png" alt="How AI Can Make You a 10x Software Engineer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -205,24 +217,6 @@
                 <span class="time">2025-08-14 19:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/RISC-V-RVA23-Progress-Ubuntu" target="_blank">Ubuntu 25.10 Continues Preparing For RISC-V RVA23 Baseline Requirement</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-14 19:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/buildlogmmd/workflow-base-en-nextjs-typescript-de-la-historia-de-usuario-al-listado-funcional-46l9" target="_blank">Workflow base en Next.js + TypeScript: de la historia de usuario al listado funcional</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-14 18:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/07/52f4008371eafeaaf7656c6fb1c68ed7.jpg" alt="Wuchang: Fallen Feathers Fans Celebrate Owning The Disc After Controversial Update Censors The Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/wuchang-fallen-feathers-1-5-changes-censorship-game-pass-steam-2000617865" target="_blank">Wuchang: Fallen Feathers Fans Celebrate Owning The Disc After Controversial Update Censors The Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-14 21:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K2MX34CN1M8DZRT0SEANQT0E/hero-image.jpg" alt="Meta&#x27;s Rules for How Its AI Talks to Kids Are Appalling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/meta-ai-rules-for-kids?utm_medium=RSS" target="_blank">Meta&#x27;s Rules for How Its AI Talks to Kids Are Appalling</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-14 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/jurasicpakr.jpg" alt="Finally, We Got Some New Gameplay Of That Scary-Looking Jurassic Park Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +288,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/2020-macbook-air-1tb-stacksocial-sale?utm_medium=RSS" target="_blank">You Can Get This 2020 MacBook Air With 1TB of Storage for Less Than $500 Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-14 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/skin-grafts.jpg" alt="Former Hospital Worker Allegedly Stole Skin Grafts in California" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/former-hospital-worker-allegedly-stole-skin-grafts-in-california-2000643125" target="_blank">Former Hospital Worker Allegedly Stole Skin Grafts in California</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-14 17:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Photo-Mrzeldaootfan-on-Reddit.jpg?fit=1080%2C712&amp;quality=60&amp;ssl=1" alt="Is your graphics card SAGGING?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/14/is-your-graphics-card-sagging.html" target="_blank">Is your graphics card SAGGING?</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-14 17:39</span>
             </div>
         </div>
 </div>
@@ -342,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 299 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 299 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
