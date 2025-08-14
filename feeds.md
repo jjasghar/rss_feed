@@ -1,30 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-08-14 08:01:56 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-08-14 09:03:05 UTC -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, August 14, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, August 14, 2025 - 09:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,12 +38,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/341c/live/ee39f060-78df-11f0-a975-cb151ca452f4.jpg" alt="UK economic growth slows but beats forecasts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0ml42ww740o?at_medium=RSS&at_campaign=rss" target="_blank">UK economic growth slows but beats forecasts</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-14 08:45</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/08/14/nx-s1-5501492/why-every-a-lister-also-has-a-side-hustle" target="_blank">Why every A-lister also has a side hustle</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-14 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/14/thursday-briefing-how-the-colonial-legacy-has-created-a-toxic-beauty-industry" target="_blank">Thursday briefing: ​How the colonial legacy has created a toxic beauty industry</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-08-14 05:30</span>
             </div>
         </div>
 <div class="story">
@@ -76,29 +91,20 @@
                 <span class="time">2025-08-14 04:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/14/russia-restricts-calls-on-whatsapp-telegram-as-internet-control-tightens?traffic_source=rss" target="_blank">Russia restricts calls on WhatsApp, Telegram as internet control tightens</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-14 04:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/14/nx-s1-5501628/alligator-alcatraz-court-desantis-trump-dhs" target="_blank">&#x27;Who&#x27;s running the show?&#x27; is a key question in &#x27;Alligator Alcatraz&#x27; challenge</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-14 04:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/758606/cowboys-e-bikes-rebirth-avoids-bankruptcy" target="_blank">Cowboy’s e-bikes granted a second life</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-14 08:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/2010-5937orig-1-500x500.jpg" alt="Trump orders cull of regulations governing commercial rocket launches" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,15 +148,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/758982/kodak-debt-retirement-funds" target="_blank">Kodak says it’ll figure things out and won’t shut down</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-08-13 20:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/758931/apple-ai-siri-smart-home-robot-security-camera" target="_blank">Apple&amp;#8217;s plan for AI could make Siri the animated center of your smart home</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-13 19:41</span>
             </div>
         </div>
 </div>
@@ -340,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 09:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
