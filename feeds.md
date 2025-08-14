@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-14 19:02:24 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-14 20:01:45 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 23 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, August 14, 2025 - 19:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, August 14, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -70,6 +70,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250814-washington-ice-se-1013a-610bcf.jpg" alt="D.C. police to increase cooperation with ICE as part of crime crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/politics-news/dc-police-increase-cooperation-ice-part-trumps-crackdown-rcna224990" target="_blank">D.C. police to increase cooperation with ICE as part of crime crackdown</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-14 16:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c34/live/40722b60-791a-11f0-902c-1f79ecbf29bb.jpg" alt="Five key takeaways from 2025&#x27;s A-level results" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -87,20 +96,20 @@
                 <span class="time">2025-08-14 14:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/14/nx-s1-5501273/trump-dc-takeover-cities-mayors-police-national-guard" target="_blank">Mayors of Democratic cities respond to Trump&#x27;s threats they could be next after D.C.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-14 14:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/14/what-is-bluesky-everything-to-know-about-the-x-competitor/" target="_blank">What is Bluesky? Everything to know about the X competitor</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-14 18:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +155,29 @@
                 <span class="time">2025-08-14 15:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/icemoves1-500x500.jpg" alt="Ice discs slingshot across a metal surface all on their own" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/08/ice-discs-slingshot-across-a-metal-surface-all-on-their-own/" target="_blank">Ice discs slingshot across a metal surface all on their own</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-14 15:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/ubuntu-ga-for-qualcomm-dragonwing" target="_blank">Canonical launches general availability of Ubuntu for Qualcomm Dragonwing Platforms</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-08-14 19:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/RISC-V-RVA23-Progress-Ubuntu" target="_blank">Ubuntu 25.10 Continues Preparing For RISC-V RVA23 Baseline Requirement</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-14 19:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +214,6 @@
                 <span class="time">2025-08-14 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/VirtualBox-7.2-Released" target="_blank">VirtualBox 7.2 Released With Windows 11 ARM Support, Linux 6.16 Compatibility</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-14 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/81006632-dc65-4db1-8564-e5b2bcc131d8_420x300.png" alt="The Pulse #142: Crazy-hours culture at AI startups" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-142" target="_blank">The Pulse #142: Crazy-hours culture at AI startups</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-08-14 16:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/andor-season-2-welcome-to-the-rebellion-cassian-mon-mothma.jpg" alt="Read the Script to One of the Best Episodes of ‘Andor’ and Experience Greatness" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/andor-season-2-welcome-to-the-rebellion-screenplay-star-wars-2000642920" target="_blank">Read the Script to One of the Best Episodes of ‘Andor’ and Experience Greatness</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-14 19:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K1Z37E3HAFG4SG23FFWX7FS9/hero-image.png" alt="You Can Get This 2020 MacBook Air With 1TB of Storage for Less Than $500 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +285,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/how-to-stop-google-gemini-ai-from-remembering-your-old-chats?utm_medium=RSS" target="_blank">How to Stop Google Gemini AI From Remembering Your Old Chats</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-14 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Korean_fans_closeup.jpg?fit=1200%2C786&amp;quality=60&amp;ssl=1" alt="South Korea&#x27;s most peculiar health myth: the deadly electric fan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/14/south-koreas-most-peculiar-health-myth-the-deadly-electric-fan.html" target="_blank">South Korea&#x27;s most peculiar health myth: the deadly electric fan</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-14 16:16</span>
             </div>
         </div>
 </div>
@@ -333,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 295 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 298 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
