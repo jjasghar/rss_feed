@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-14 05:03:12 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-14 06:02:20 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, August 14, 2025 - 05:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, August 14, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,12 +46,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/14/smotrich-says-illegal-west-bank-settlement-buries-palestinian-state?traffic_source=rss" target="_blank">Smotrich says illegal West Bank settlement ‘buries’ Palestinian state</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-14 05:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/542f/live/6a72fba0-78cb-11f0-a975-cb151ca452f4.jpg" alt="Results day arrives for A-level, T-level and BTec students" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c15lv2xxyy5o?at_medium=RSS&at_campaign=rss" target="_blank">Results day arrives for A-level, T-level and BTec students</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-14 05:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/nat-guard-4-ht-gmh-250813_1755090169642_hpMain_4x3t_384.jpg" alt="DC to wake to &#x27;significant&#x27; number of troops deployed along the National Mall" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/dc-wake-troops-deployed-national-mall/story?id=124629956" target="_blank">DC to wake to &#x27;significant&#x27; number of troops deployed along the National Mall</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-14 04:11</span>
             </div>
         </div>
 <div class="story">
@@ -68,39 +82,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/14/nx-s1-5501628/alligator-alcatraz-court-desantis-trump-dhs" target="_blank">&#x27;Who&#x27;s running the show?&#x27; is a key question in &#x27;Alligator Alcatraz&#x27; challenge</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-14 04:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250813-national-guard-monument-vl-332p-5e814d.jpg" alt="Federal agents set up checkpoint in popular D.C. area after Trump&#x27;s crime directive" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/national-guard-troops-washington-dc-trump-police-checkpoint-protesters-rcna224842" target="_blank">Federal agents set up checkpoint in popular D.C. area after Trump&#x27;s crime directive</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-08-14 03:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/14/us-sanctions-brazil-health-officials-over-cubas-overseas-medical-missions?traffic_source=rss" target="_blank">US sanctions Brazil health officials over Cuba’s overseas medical missions</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-14 03:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/14/russia-ukraine-war-list-of-key-events-day-1267?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,267</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-14 01:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/08/13/nx-s1-5501666/trump-administration-foreign-aid" target="_blank">President Trump can continue to withhold billions in foreign aid, court rules</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-14 00:41</span>
             </div>
         </div>
 </div>
@@ -168,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sharique_siddiqui_8242dad/html-css-integration-inline-internal-and-external-styles-2f36" target="_blank">HTML CSS Integration: Inline, Internal, and External Styles</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-14 05:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="Algorithms reward only those who stay consistent, and not those who show up when they feel motivated. This article will share some of my proven ways to stay consistent without the need for motivation. Also, thank you for showing love to the last article." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -212,15 +217,6 @@
                 <span class="time">2025-08-13 21:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/company-news/github-availability-report-july-2025/" target="_blank">GitHub Availability Report: July 2025</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-08-13 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/north-american-river-otter.jpg" alt="‘Weird Looking’ Otter Poo Reveals an Unexpected Role in Parasite Control" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/weird-looking-otter-poo-reveals-their-unexpected-role-in-parasite-control-2000642772" target="_blank">‘Weird Looking’ Otter Poo Reveals an Unexpected Role in Parasite Control</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-14 04:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/A-personal-arch-enemy_3B-an-appropriate-agent-of-r.jpg?fit=1080%2C564&amp;quality=60&amp;ssl=1" alt="6% of Britons have a nemesis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +297,6 @@
                 <span class="title"><a href="https://kotaku.com/switch-2-pro-third-party-controller-cheap-razer-pc-ps5-xbox-2000617538" target="_blank">A Ton Of New Game Controllers Are On The Way</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-13 21:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/Pirro-in-action-on-Fox-News.jpg?fit=1080%2C698&amp;quality=60&amp;ssl=1" alt="US Attorney for DC, Jeanine Pirro, claims to have filed felony charges against the sandwich-throwing freedom fighter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/13/us-attorney-for-dc-jeanine-pirro-claims-to-have-filed-felony-charges-against-the-sandwich-throwing-freedom-fighter.html" target="_blank">US Attorney for DC, Jeanine Pirro, claims to have filed felony charges against the sandwich-throwing freedom fighter</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-13 21:06</span>
             </div>
         </div>
 </div>
@@ -358,8 +354,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 05:03 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
