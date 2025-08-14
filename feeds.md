@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-14 15:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-14 16:01:52 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, August 14, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, August 14, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +110,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/icemoves1-500x500.jpg" alt="Ice discs slingshot across a metal surface all on their own" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/08/ice-discs-slingshot-across-a-metal-surface-all-on-their-own/" target="_blank">Ice discs slingshot across a metal surface all on their own</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-14 15:44</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -149,20 +163,29 @@
                 <span class="time">2025-08-14 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/sam-vs-elon-children-500x500.jpg" alt="Sam Altman finally stood up to Elon Musk after years of X trolling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/08/a-brief-history-of-elon-musk-and-sam-altmans-ai-feud/" target="_blank">Sam Altman finally stood up to Elon Musk after years of X trolling</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-14 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/policy-news-and-insights/q1-2025-innovation-graph-update-bar-chart-races-data-visualization-on-the-rise-and-key-research/" target="_blank">Q1 2025 Innovation Graph update: Bar chart races, data visualization on the rise, and key research</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-08-14 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18558367&w=600" alt="Reclaiming the Architect’s Role in the SDLC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/reclaiming-the-architects-role-in-the-sdlc" target="_blank">Reclaiming the Architect’s Role in the SDLC</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-14 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fobdc5klrhqtz1h40zrfy.png" alt="How Attention made the AI leap possible!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,24 +222,6 @@
                 <span class="time">2025-08-14 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/multi-agent-workflow/en/mediumimage/victor-dibia-medium-1753425805213.jpeg" alt="Presentation: 10 Reasons Your Multi-Agent Workflows Fail and What You Can Do About It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/multi-agent-workflow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: 10 Reasons Your Multi-Agent Workflows Fail and What You Can Do About It</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-14 12:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.medschool.umaryland.edu/news/2025/new-protein-therapy-shows-promise-as-first-ever-antidote-for-carbon-monoxide-poisoning.html" target="_blank">New protein therapy shows promise as antidote for carbon monoxide poisoning</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-14 11:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +250,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/ORIGINAL-CAST-PHOTO_Stuart-and-Teresa-and-Harrison-and-Ebony-and-Kurt-and-Katiejpg-1.jpg" alt="How A Pokémon Parody Stage Show Landed Professor Oak’s Voice And Avoided Nintendo’s Wrath" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-balls-monster-catchin-musical-professor-oak-2000617768" target="_blank">How A Pokémon Parody Stage Show Landed Professor Oak’s Voice And Avoided Nintendo’s Wrath</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-14 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K2JN363APVZ91ZHCVTVC36GD/hero-image.jpg" alt="All the Switch 2 Privacy Settings You Should Adjust Right Away" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/switch-2-privacy-settings-adjust-right-away?utm_medium=RSS" target="_blank">All the Switch 2 Privacy Settings You Should Adjust Right Away</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-14 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K2K7TW4FRGTMV5YSZ1FN26E7/hero-image.jpg" alt="This Spyware Campaign Is Targeting Android Users Via Messaging Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,29 +304,29 @@
                 <span class="time">2025-08-14 13:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K2KQJF127VFR9JM91HK3RSQK/hero-image.png" alt="This LG 55-inch OLED TV Is $500 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/lgs-55-inch-c5-oled-evo-tv-deal?utm_medium=RSS" target="_blank">This LG 55-inch OLED TV Is $500 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-14 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/varsity-line.jpg" alt="Pokémon Scalpers Are Already Ruining The World Championships" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-world-championship-merchandise-scalper-reseller-2000617744" target="_blank">Pokémon Scalpers Are Already Ruining The World Championships</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-14 13:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/spoilers/" target="_blank">Spoilers</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2025-08-14 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1754968847-20250814.png" alt="Saturday Morning Breakfast Cereal - Dress" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/dress" target="_blank">Saturday Morning Breakfast Cereal - Dress</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-08-14 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5635.png" alt="Not-It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -331,22 +354,13 @@
                 <span class="time">2025-08-13 18:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1754968635-20250813.png" alt="Saturday Morning Breakfast Cereal - Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/why-7" target="_blank">Saturday Morning Breakfast Cereal - Why</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-08-13 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 295 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
