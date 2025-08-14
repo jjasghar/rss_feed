@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-14 12:02:02 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-14 13:13:04 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, August 14, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, August 14, 2025 - 13:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Zelenskyy-Berlin-DB-250814_1755160024953_hpMain_4x3t_384.jpg" alt="Ukraine, left out in Trump-Putin summit, fears setbacks on key peace issues" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/ukraine-left-trump-putin-summit-fears-setbacks-key/story?id=124608507" target="_blank">Ukraine, left out in Trump-Putin summit, fears setbacks on key peace issues</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-14 12:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1064/live/2c061420-78f2-11f0-ad5e-d7ef7e9f4dda.png" alt="No 10 hails &#x27;powerful sense of unity&#x27; after Zelensky talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp37vg34g8jo?at_medium=RSS&at_campaign=rss" target="_blank">No 10 hails &#x27;powerful sense of unity&#x27; after Zelensky talks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-14 12:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2025/aug/14/sudan-cholera-outbreak-water-health-medecins-sans-frontieres-msf-war-refugees" target="_blank">Sudan cholera outbreak kills 40 in a week as health centres overwhelmed</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-08-14 12:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +101,29 @@
                 <span class="time">2025-08-14 11:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93a4/live/c24e04b0-78fc-11f0-ad11-cbb0a8541535.jpg" alt="Liverpool parade accused faces 24 new charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn47wq93vn2o?at_medium=RSS&at_campaign=rss" target="_blank">Liverpool parade accused faces 24 new charges</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-14 10:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1064/live/2c061420-78f2-11f0-ad5e-d7ef7e9f4dda.png" alt="Zelensky meets Starmer ahead of US-Russia summit on Ukraine&#x27;s future" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp37vg34g8jo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky meets Starmer ahead of US-Russia summit on Ukraine&#x27;s future</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-14 10:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Starmer-Zelenskyy-DB-250814_1755164410578_hpMain_4x3t_384.jpg" alt="Zelenskyy rallies Trump, European allies in setting red lines for Putin summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/zelenskyy-rallies-trump-european-allies-setting-red-lines/story?id=124637288" target="_blank">Zelenskyy rallies Trump, European allies in setting red lines for Putin summit</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-14 09:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/14/airbnb-will-allow-us-users-book-stays-without-paying-upfront/" target="_blank">Airbnb will allow US users book stays without paying upfront</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-14 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/sam-vs-elon-children-500x500.jpg" alt="Sam Altman finally stood up to Elon Musk after years of X trolling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/08/a-brief-history-of-elon-musk-and-sam-altmans-ai-feud/" target="_blank">Sam Altman finally stood up to Elon Musk after years of X trolling</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-14 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/689cd966e2c133088980e0f4/master/pass/Ars-Why-You-Shouldnt-Trust-Chatbot-Talking-About-Self-Business-528115602.jpg" alt="Why You Can’t Trust a Chatbot to Talk About Itself" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,29 +160,20 @@
                 <span class="time">2025-08-13 23:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/759016/tesla-in-car-graphics-unreal-engine" target="_blank">Tesla&amp;#8217;s graphics are about to get Unreal</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-13 22:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/13/co-founder-of-elon-musks-xai-departs-the-company/" target="_blank">Co-founder of Elon Musk’s xAI departs the company</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-13 21:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18559459&w=600" alt="Beyond Netflix: Why Fintech Recommendations Need a Completely Different Playbook" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/fintech-recommendation-system-guide" target="_blank">Beyond Netflix: Why Fintech Recommendations Need a Completely Different Playbook</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-14 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F435q80fnypa8ga1amyq2.png" alt="Open Source Reverse Proxy: A Developer&#x27;s Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,20 +219,20 @@
                 <span class="time">2025-08-14 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy7c47c9nfqect01cyx7d.png" alt="Building Scalable AI Workflows with n8n, Dify, and Custom Agent Integration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zediot/building-scalable-ai-workflows-with-n8n-dify-and-custom-agent-integration-3epp" target="_blank">Building Scalable AI Workflows with n8n, Dify, and Custom Agent Integration</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-14 09:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/llm-coding-integrity-breach.html" target="_blank">LLM Coding Integrity Breach</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-08-14 11:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -235,6 +247,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/varsity-line.jpg" alt="Pokémon Scalpers Are Already Ruining The World Championships" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-world-championship-merchandise-scalper-reseller-2000617744" target="_blank">Pokémon Scalpers Are Already Ruining The World Championships</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-14 13:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K2K1H8EQTZ5564AYG011K3ZS/hero-image.png" alt="The Ultra-Thin Samsung Galaxy S25 Edge Phone Is 20% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-s25-edge-deal?utm_medium=RSS" target="_blank">The Ultra-Thin Samsung Galaxy S25 Edge Phone Is 20% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-14 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/krypto3.jpg" alt="Superman‘s Arrival On Streaming Is Marked With A 5-Minute Krypto Cartoon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +299,6 @@
                 <span class="title"><a href="https://gizmodo.com/friday-the-13th-short-sweet-revenge-is-a-gruesomely-fun-jason-voorhees-return-2000642076" target="_blank">‘Friday the 13th’ Short ‘Sweet Revenge’ Is a Gruesomely Fun Jason Voorhees Return</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-14 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/star-trek-worst-ensign-deaths-gamble-sito-jaxa-alvarado.jpg" alt="The Grimmest Ensign Deaths on ‘Star Trek’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-trek-worst-ensign-deaths-gamble-strange-new-worlds-2000642674" target="_blank">The Grimmest Ensign Deaths on ‘Star Trek’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-13 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Chips.jpg" alt="U.S. Allegedly Super-Charged Its Efforts to Prevent China From Getting American Chips" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-u-s-has-allegedly-super-charged-its-efforts-to-prevent-china-from-getting-american-chips-2000642802" target="_blank">U.S. Allegedly Super-Charged Its Efforts to Prevent China From Getting American Chips</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-13 21:45</span>
             </div>
         </div>
 </div>
@@ -335,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 13:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
