@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-14 13:13:04 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-08-14 14:01:36 UTC -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, August 14, 2025 - 13:13 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, August 14, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +109,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/14/cohere-hires-long-time-meta-research-head-joelle-pineau-as-its-chief-ai-officer/" target="_blank">Cohere hires long-time Meta research head Joelle Pineau as its chief AI officer</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-14 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/689b7b54b1983bbfa4c9ceb3/master/pass/Wyden-Probes-Cantor-Fitzgerald-Business-2227200223.jpg" alt="Senators Press Howard Lutnick’s Former Investment Firm Over Tariff Conflict of Interest Concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/senators-probe-cantor-fitzgerald-tariffs/" target="_blank">Senators Press Howard Lutnick’s Former Investment Firm Over Tariff Conflict of Interest Concerns</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-14 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/08/14/airbnb-will-allow-us-users-book-stays-without-paying-upfront/" target="_blank">Airbnb will allow US users book stays without paying upfront</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-08-14 13:00</span>
@@ -142,29 +159,29 @@
                 <span class="time">2025-08-14 08:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/2010-5937orig-1-500x500.jpg" alt="Trump orders cull of regulations governing commercial rocket launches" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/08/trump-orders-cull-of-regulations-governing-commercial-rocket-launches/" target="_blank">Trump orders cull of regulations governing commercial rocket launches</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-14 00:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689bb53c08ded8cd4237e918/master/pass/chatgpt-hate-speech-gear-2171240925.jpg" alt="OpenAI Designed GPT-5 to Be Safer. It Still Outputs Gay Slurs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/openai-gpt5-safety/" target="_blank">OpenAI Designed GPT-5 to Be Safer. It Still Outputs Gay Slurs</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-13 23:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fobdc5klrhqtz1h40zrfy.png" alt="How Attention made the AI leap possible!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/warmac4964/how-attention-made-the-ai-leap-possible-2866" target="_blank">How Attention made the AI leap possible!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-14 13:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18573038&w=600" alt="How OpenTelemetry Improved Its Code Integrity for Arm64 by Working With Ampere®" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-opentelemetry-improved-arm64-code-integrity" target="_blank">How OpenTelemetry Improved Its Code Integrity for Arm64 by Working With Ampere®</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-14 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18559459&w=600" alt="Beyond Netflix: Why Fintech Recommendations Need a Completely Different Playbook" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -175,48 +192,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/presentations/multi-agent-workflow/en/mediumimage/victor-dibia-medium-1753425805213.jpeg" alt="Presentation: 10 Reasons Your Multi-Agent Workflows Fail and What You Can Do About It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/multi-agent-workflow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: 10 Reasons Your Multi-Agent Workflows Fail and What You Can Do About It</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-14 12:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.medschool.umaryland.edu/news/2025/new-protein-therapy-shows-promise-as-first-ever-antidote-for-carbon-monoxide-poisoning.html" target="_blank">New protein therapy shows promise as antidote for carbon monoxide poisoning</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-14 11:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F435q80fnypa8ga1amyq2.png" alt="Open Source Reverse Proxy: A Developer&#x27;s Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/robbiecahill/open-source-reverse-proxy-a-developers-guide-211g" target="_blank">Open Source Reverse Proxy: A Developer&#x27;s Guide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-14 11:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/test-software-space-shuttle/en/headerimage/generatedHeaderImage-1753263579661.jpg" alt="How NASA Tests Their Software for the Space Shuttle and the Orion MPCV" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/test-software-space-shuttle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How NASA Tests Their Software for the Space Shuttle and the Orion MPCV</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-14 11:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18558303&w=600" alt="How to Successfully Program an AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-to-successfully-program-ai" target="_blank">How to Successfully Program an AI</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-14 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KDE-Gear-25.08" target="_blank">KDE Gear 25.08 Released With Improvements For Many KDE Apps</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-14 10:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/hashicorp-mcp-servers-terraform-/en/headerimage/header-1754926526017.jpeg" alt="HashiCorp Introduces MCP Servers for Terraform and Vault" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/hashicorp-mcp-servers-terraform-/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">HashiCorp Introduces MCP Servers for Terraform and Vault</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-14 10:00</span>
             </div>
         </div>
 </div>
@@ -248,6 +247,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Wednesday-Principal-Weems-Gwendoline-Christie-Netflix.jpg" alt="The ‘Wednesday Season 2 Part 2’ Trailer Welcomes Back a Familiar Face" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/wednesday-netflix-season-2-part-2-trailer-gwendoline-christie-2000643001" target="_blank">The ‘Wednesday Season 2 Part 2’ Trailer Welcomes Back a Familiar Face</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-14 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/Zoran-Mamdani-speaks-an-event-honoring-COVID-19-.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Barack Obama and Zohran Mamdani had long phone call" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/14/barack-obama-and-zohran-mamdani-had-long-phone-call.html" target="_blank">Barack Obama and Zohran Mamdani had long phone call</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-14 13:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K2KQJF127VFR9JM91HK3RSQK/hero-image.png" alt="This LG 55-inch OLED TV Is $500 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/lgs-55-inch-c5-oled-evo-tv-deal?utm_medium=RSS" target="_blank">This LG 55-inch OLED TV Is $500 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-14 13:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/varsity-line.jpg" alt="Pokémon Scalpers Are Already Ruining The World Championships" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -272,33 +298,6 @@
                 <span class="title"><a href="https://kotaku.com/superman-krypto-cartoon-streaming-fandango-2000617734" target="_blank">Superman‘s Arrival On Streaming Is Marked With A 5-Minute Krypto Cartoon</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-14 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/north-american-river-otter.jpg" alt="‘Weird Looking’ Otter Poo Reveals an Unexpected Role in Parasite Control" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/weird-looking-otter-poo-reveals-their-unexpected-role-in-parasite-control-2000642772" target="_blank">‘Weird Looking’ Otter Poo Reveals an Unexpected Role in Parasite Control</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-14 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/A-personal-arch-enemy_3B-an-appropriate-agent-of-r.jpg?fit=1080%2C564&amp;quality=60&amp;ssl=1" alt="6% of Britons have a nemesis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/13/6-of-britons-have-a-nemesis.html" target="_blank">6% of Britons have a nemesis</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-14 01:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Eve-with-knife-2.jpg" alt="‘Friday the 13th’ Short ‘Sweet Revenge’ Is a Gruesomely Fun Jason Voorhees Return" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/friday-the-13th-short-sweet-revenge-is-a-gruesomely-fun-jason-voorhees-return-2000642076" target="_blank">‘Friday the 13th’ Short ‘Sweet Revenge’ Is a Gruesomely Fun Jason Voorhees Return</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-14 00:00</span>
             </div>
         </div>
 </div>
@@ -347,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 13:13 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
