@@ -1,38 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-08-14 03:26:40 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-14 04:08:52 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, August 14, 2025 - 03:26 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, August 14, 2025 - 04:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250813-national-guard-monument-vl-332p-5e814d.jpg" alt="Federal agents set up checkpoint in popular D.C. area after Trump&#x27;s crime directive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/national-guard-troops-washington-dc-trump-police-checkpoint-protesters-rcna224842" target="_blank">Federal agents set up checkpoint in popular D.C. area after Trump&#x27;s crime directive</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-14 03:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/14/us-sanctions-brazil-health-officials-over-cubas-overseas-medical-missions?traffic_source=rss" target="_blank">US sanctions Brazil health officials over Cuba’s overseas medical missions</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-14 03:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +93,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/crr2j792drro?at_medium=RSS&at_campaign=rss" target="_blank">ADHD drugs have wider life benefits, study suggests</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-13 23:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/13/former-peruvian-president-imprisoned-over-corruption-allegations?traffic_source=rss" target="_blank">Former Peruvian president imprisoned over corruption allegations</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-13 23:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/13/nx-s1-5501585/how-alaska-went-from-russian-colony-to-u-s-state" target="_blank">How Alaska Went from Russian Colony to U.S. State</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-13 22:19</span>
             </div>
         </div>
 </div>
@@ -170,6 +163,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/gamespot-visit-mcdonaldland-a-new-map-created-in-fortnite-featuring-khleo-thomas-3b7" target="_blank">GameSpot: Visit McDonaldLand, A New Map Created in Fortnite (Featuring Khleo Thomas)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-14 04:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/nikhilwagh/well-played-perplexity-the-345b-bet-to-buy-google-chrome-3l6d" target="_blank">Well Played, Perplexity: The $34.5B Bet to Buy Google Chrome</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-14 03:07</span>
@@ -209,15 +211,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-SR-IOV-Only-For-Arc-Pro" target="_blank">SR-IOV Will Only Be Supported On Intel Arc Pro Graphics Cards</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-13 20:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2018/08/lenovo-linux-firmware.png?resize=406%2C232&amp;ssl=1" alt="Linux Firmware Service Calls on Hardware Makers to Help Fund It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/lvfs-sustainability-plan-vendor-funding" target="_blank">Linux Firmware Service Calls on Hardware Makers to Help Fund It</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-13 20:21</span>
             </div>
         </div>
 </div>
@@ -352,22 +345,13 @@
                 <span class="time">2025-08-13 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/thread_meeting.png" alt="Thread Meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3128/" target="_blank">Thread Meeting</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-08-13 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 03:26 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 04:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
