@@ -1,40 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-08-14 16:01:52 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-14 17:01:53 UTC -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, August 14, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, August 14, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/14/nx-s1-5502415/taylor-swift-podcast-new-album-life-showgirl-kelce" target="_blank">Takeaways from Taylor Swift&#x27;s podcast appearance: her new album, romance and more</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-14 16:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46f6/live/783918c0-7914-11f0-889a-61231d511eb3.png" alt="Putin must &#x27;prove he is serious about peace,&#x27; says Starmer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,20 +95,20 @@
                 <span class="time">2025-08-14 12:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2025/aug/14/sudan-cholera-outbreak-water-health-medecins-sans-frontieres-msf-war-refugees" target="_blank">Sudan cholera outbreak kills 40 in a week as health centres overwhelmed</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-08-14 12:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/689e02a625b63dd1a35cf2ee/master/pass/apple-watch-blood-pressure-gear-2215389016.jpg" alt="The Apple Watch Is Finally Getting Blood Oxygen Sensing Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/apple-watch-blood-oxygen-sensing-is-back/" target="_blank">The Apple Watch Is Finally Getting Blood Oxygen Sensing Back</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-14 15:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/icemoves1-500x500.jpg" alt="Ice discs slingshot across a metal surface all on their own" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,20 +154,29 @@
                 <span class="time">2025-08-14 13:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/14/airbnb-will-allow-us-users-book-stays-without-paying-upfront/" target="_blank">Airbnb will allow US users book stays without paying upfront</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-14 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/81006632-dc65-4db1-8564-e5b2bcc131d8_420x300.png" alt="The Pulse #142: Crazy-hours culture at AI startups" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-142" target="_blank">The Pulse #142: Crazy-hours culture at AI startups</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-08-14 16:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/gpt-5-in-github-copilot-how-i-built-a-game-in-60-seconds/" target="_blank">GPT-5 in GitHub Copilot: How I built a game in 60 seconds</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-08-14 16:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -175,6 +184,15 @@
                 <span class="title"><a href="https://github.blog/news-insights/policy-news-and-insights/q1-2025-innovation-graph-update-bar-chart-races-data-visualization-on-the-rise-and-key-research/" target="_blank">Q1 2025 Innovation Graph update: Bar chart races, data visualization on the rise, and key research</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2025-08-14 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/screenshot_8544.png?resize=385%2C232&amp;ssl=1" alt="Fuzzy Application Search Extension for GNOME Works with your Typos" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/fuzzy-application-search-gnome-extension-working" target="_blank">Fuzzy Application Search Extension for GNOME Works with your Typos</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-14 15:17</span>
             </div>
         </div>
 <div class="story">
@@ -195,33 +213,6 @@
                 <span class="time">2025-08-14 13:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18573038&w=600" alt="How OpenTelemetry Improved Its Code Integrity for Arm64 by Working With Ampere®" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-opentelemetry-improved-arm64-code-integrity" target="_blank">How OpenTelemetry Improved Its Code Integrity for Arm64 by Working With Ampere®</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-14 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/amd-threadripper-9995wx-trx50" target="_blank">AMD Ryzen Threadripper PRO 9995WX Performance With TRX50 + Quad Channel DDR5</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-14 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18559459&w=600" alt="Beyond Netflix: Why Fintech Recommendations Need a Completely Different Playbook" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/fintech-recommendation-system-guide" target="_blank">Beyond Netflix: Why Fintech Recommendations Need a Completely Different Playbook</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-14 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,20 +227,38 @@
                 <span class="time">2025-08-14 11:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/ai-applications-in-cybersecurity.html" target="_blank">AI Applications in Cybersecurity</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-08-13 16:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Peacemaker-HBO-Max.jpg" alt="‘Peacemaker’ Season 2’s Red Band Trailer Is Ready to Drop Bombs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/peacemaker-season-2-red-band-trailer-james-gunn-john-cena-2000643101" target="_blank">‘Peacemaker’ Season 2’s Red Band Trailer Is Ready to Drop Bombs</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-14 16:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K2M7QCG63166V6EY1NJMSA57/hero-image.jpg" alt="How to Stop Google Gemini AI From Remembering Your Old Chats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-to-stop-google-gemini-ai-from-remembering-your-old-chats?utm_medium=RSS" target="_blank">How to Stop Google Gemini AI From Remembering Your Old Chats</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-14 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Korean_fans_closeup.jpg?fit=1200%2C786&amp;quality=60&amp;ssl=1" alt="South Korea&#x27;s most peculiar health myth: the deadly electric fan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/14/south-koreas-most-peculiar-health-myth-the-deadly-electric-fan.html" target="_blank">South Korea&#x27;s most peculiar health myth: the deadly electric fan</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-14 16:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/ORIGINAL-CAST-PHOTO_Stuart-and-Teresa-and-Harrison-and-Ebony-and-Kurt-and-Katiejpg-1.jpg" alt="How A Pokémon Parody Stage Show Landed Professor Oak’s Voice And Avoided Nintendo’s Wrath" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,33 +284,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/this-spyware-campaign-is-targeting-android-users-via-messaging-apps?utm_medium=RSS" target="_blank">This Spyware Campaign Is Targeting Android Users Via Messaging Apps</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-14 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/overwatch-sad-winston.jpg" alt="Overwatch 2 Is Moving Away From ‘Oddball’ Heroes In Favor Of ‘Aspirational’ Ones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/overwatch-2-oddball-aspirational-character-hero-design-2000617761" target="_blank">Overwatch 2 Is Moving Away From ‘Oddball’ Heroes In Favor Of ‘Aspirational’ Ones</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-14 14:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Wednesday-Principal-Weems-Gwendoline-Christie-Netflix.jpg" alt="The ‘Wednesday Season 2 Part 2’ Trailer Welcomes Back a Familiar Face" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/wednesday-netflix-season-2-part-2-trailer-gwendoline-christie-2000643001" target="_blank">The ‘Wednesday Season 2 Part 2’ Trailer Welcomes Back a Familiar Face</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-14 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/Zoran-Mamdani-speaks-an-event-honoring-COVID-19-.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Barack Obama and Zohran Mamdani had long phone call" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/14/barack-obama-and-zohran-mamdani-had-long-phone-call.html" target="_blank">Barack Obama and Zohran Mamdani had long phone call</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-14 13:51</span>
             </div>
         </div>
 </div>
@@ -359,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 295 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 142 | 📡 Total Sources: 41 | 📸 With Images: 296 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
