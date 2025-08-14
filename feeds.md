@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-14 22:01:34 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-14 23:01:46 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, August 14, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, August 14, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/14/serbian-antigovernment-protests-escalate-in-third-night-of-clashes?traffic_source=rss" target="_blank">Serbian antigovernment protests escalate in third night of clashes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-14 22:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/barack-obama-gty-jef-250814_1755200038500_hpMain_4x3t_384.jpg" alt="Obama rallies Texas Democrats who left state to block GOP redistricting plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,15 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/14/nx-s1-5493541/meidastouch-rogan-trump-podcast-video" target="_blank">Anti-Trump podcast MeidasTouch is rivaling Joe Rogan. Does it have staying power?</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-14 16:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/14/nx-s1-5502415/taylor-swift-podcast-new-album-life-showgirl-kelce" target="_blank">Takeaways from Taylor Swift&#x27;s podcast appearance: her new album, romance and more</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-14 16:22</span>
             </div>
         </div>
 </div>
@@ -167,6 +166,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/f1lt3r/a-reasonably-simple-secure-password-scheme-4890" target="_blank">A Reasonably Simple, Secure Password Scheme</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-14 22:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gg_news/ign-why-bioshock-4-still-isnt-ready-unlocked-clips-1gbf" target="_blank">IGN: Why BioShock 4 Still Isn’t Ready - Unlocked Clips</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-14 22:00</span>
@@ -208,15 +216,6 @@
                 <span class="time">2025-08-14 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/ubuntu-ga-for-qualcomm-dragonwing" target="_blank">Canonical launches general availability of Ubuntu for Qualcomm Dragonwing Platforms</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-08-14 19:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Globetrotter-SS-Rajamouli-X.jpg" alt="The First Look at S.S. Rajamouli’s Next Film Is a Motorbiking, Spiked-Ball-Swinging Mystery" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ss-rajamouli-new-movie-rrr-globetrotter-trailer-2000643391" target="_blank">The First Look at S.S. Rajamouli’s Next Film Is a Motorbiking, Spiked-Ball-Swinging Mystery</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-14 22:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/cybertruck.jpeg?fit=1080%2C608&amp;quality=60&amp;ssl=1" alt="Why the Cybertruck is a miserable failure that won&#x27;t sell" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/14/why-the-cybertruck-is-a-miserable-failure-that-wont-sell.html" target="_blank">Why the Cybertruck is a miserable failure that won&#x27;t sell</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-14 22:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/07/52f4008371eafeaaf7656c6fb1c68ed7.jpg" alt="Wuchang: Fallen Feathers Fans Celebrate Owning The Disc After Controversial Update Censors The Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +289,6 @@
                 <span class="time">2025-08-14 20:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/andor-season-2-welcome-to-the-rebellion-cassian-mon-mothma.jpg" alt="Read the Script to One of the Best Episodes of ‘Andor’ and Experience Greatness" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/andor-season-2-welcome-to-the-rebellion-screenplay-star-wars-2000642920" target="_blank">Read the Script to One of the Best Episodes of ‘Andor’ and Experience Greatness</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-14 19:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K1Z37E3HAFG4SG23FFWX7FS9/hero-image.png" alt="You Can Get This 2020 MacBook Air With 1TB of Storage for Less Than $500 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/2020-macbook-air-1tb-stacksocial-sale?utm_medium=RSS" target="_blank">You Can Get This 2020 MacBook Air With 1TB of Storage for Less Than $500 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-14 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,22 +321,13 @@
                 <span class="time">2025-08-14 01:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/08/13/this-is-a-specific-type-of-boy-i-m-told" target="_blank">This Is A Specific Type Of Boy I&#x27;m Told</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-08-13 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 299 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 298 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
