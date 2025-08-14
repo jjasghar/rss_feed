@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-14 11:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-14 12:02:02 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, August 14, 2025 - 11:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, August 14, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/14/israel-approves-settlement-expansion-to-bury-idea-of-palestinian?traffic_source=rss" target="_blank">Israel approves settlement expansion to “bury idea of Palestinian state”</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-14 11:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/14/g-s1-82385/hundreds-of-retired-air-force-officers-protest-israels-war-in-gaza" target="_blank">Hundreds of retired air force officers protest Israel&#x27;s war in Gaza</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-14 11:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/vladimir-putin-1-rt-gmh-250813_1755088305117_hpMain_4x3t_384.jpg" alt="Putin says Trump making &#x27;vigorous&#x27; efforts to end war as summit nears" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/zelenskyy-rallies-trump-european-allies-setting-red-lines/story?id=124637288" target="_blank">Putin says Trump making &#x27;vigorous&#x27; efforts to end war as summit nears</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-14 11:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93a4/live/c24e04b0-78fc-11f0-ad11-cbb0a8541535.jpg" alt="Liverpool parade accused faces 24 new charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,33 +96,6 @@
                 <span class="title"><a href="https://abcnews.go.com/International/zelenskyy-rallies-trump-european-allies-setting-red-lines/story?id=124637288" target="_blank">Zelenskyy rallies Trump, European allies in setting red lines for Putin summit</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-14 09:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/14/trump-putin-meeting-how-much-territory-does-russia-control-in-ukraine?traffic_source=rss" target="_blank">Trump-Putin meeting: How much territory does Russia control in Ukraine?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-14 09:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250814-oval-office-rs-2b0105.jpg" alt="The CEO in chief: How Trump is getting what he wants from big business" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/business-news/what-trump-involvement-major-corporations-means-us-politics-business-rcna224630" target="_blank">The CEO in chief: How Trump is getting what he wants from big business</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-14 09:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/14/nx-s1-5501591/trump-corporate-america-capitalism" target="_blank">Trump is tightening the screws on corporate America — and CEOs are staying mum</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-14 09:00</span>
             </div>
         </div>
 </div>
@@ -167,6 +163,42 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F435q80fnypa8ga1amyq2.png" alt="Open Source Reverse Proxy: A Developer&#x27;s Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/robbiecahill/open-source-reverse-proxy-a-developers-guide-211g" target="_blank">Open Source Reverse Proxy: A Developer&#x27;s Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-14 11:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/08/test-software-space-shuttle/en/headerimage/generatedHeaderImage-1753263579661.jpg" alt="How NASA Tests Their Software for the Space Shuttle and the Orion MPCV" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/test-software-space-shuttle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How NASA Tests Their Software for the Space Shuttle and the Orion MPCV</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-14 11:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18558303&w=600" alt="How to Successfully Program an AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-to-successfully-program-ai" target="_blank">How to Successfully Program an AI</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-14 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KDE-Gear-25.08" target="_blank">KDE Gear 25.08 Released With Improvements For Many KDE Apps</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-14 10:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/08/hashicorp-mcp-servers-terraform-/en/headerimage/header-1754926526017.jpeg" alt="HashiCorp Introduces MCP Servers for Terraform and Vault" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -184,42 +216,6 @@
                 <span class="time">2025-08-14 09:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://clearsky.dev/blog/iphone-devops-ssh/" target="_blank">iPhone DevOps</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-14 08:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sharique_siddiqui_8242dad/html-css-integration-inline-internal-and-external-styles-2f36" target="_blank">HTML CSS Integration: Inline, Internal, and External Styles</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-14 05:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="Algorithms reward only those who stay consistent, and not those who show up when they feel motivated. This article will share some of my proven ways to stay consistent without the need for motivation. Also, thank you for showing love to the last article." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jaideepparashar/algorithms-reward-only-those-who-stay-consistent-and-not-those-who-show-up-when-they-feel-1l13" target="_blank">Algorithms reward only those who stay consistent, and not those who show up when they feel motivated. This article will share some of my proven ways to stay consistent without the need for motivation. Also, thank you for showing love to the last article.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-14 04:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/gamespot-visit-mcdonaldland-a-new-map-created-in-fortnite-featuring-khleo-thomas-3b7" target="_blank">GameSpot: Visit McDonaldLand, A New Map Created in Fortnite (Featuring Khleo Thomas)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-14 04:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,15 +228,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/ai-applications-in-cybersecurity.html" target="_blank">AI Applications in Cybersecurity</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2025-08-13 16:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/sigint-during-world-war-ii.html" target="_blank">SIGINT During World War II</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-08-13 11:08</span>
             </div>
         </div>
 </div>
@@ -348,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
