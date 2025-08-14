@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-14 10:01:58 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-14 11:01:48 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, August 14, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, August 14, 2025 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93a4/live/c24e04b0-78fc-11f0-ad11-cbb0a8541535.jpg" alt="Liverpool parade accused faces 24 new charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn47wq93vn2o?at_medium=RSS&at_campaign=rss" target="_blank">Liverpool parade accused faces 24 new charges</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-14 10:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1064/live/2c061420-78f2-11f0-ad5e-d7ef7e9f4dda.png" alt="Zelensky meets Starmer ahead of US-Russia summit on Ukraine&#x27;s future" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,30 +85,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250814-oval-office-rs-2b0105.jpg" alt="The CEO in chief: How Trump is getting what he wants from big business" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/business-news/what-trump-involvement-major-corporations-means-us-politics-business-rcna224630" target="_blank">The CEO in chief: How Trump is getting what he wants from big business</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-14 09:02</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/08/14/nx-s1-5501591/trump-corporate-america-capitalism" target="_blank">Trump is tightening the screws on corporate America — and CEOs are staying mum</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-14 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/341c/live/ee39f060-78df-11f0-a975-cb151ca452f4.jpg" alt="UK economic growth slows but beats forecasts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0ml42ww740o?at_medium=RSS&at_campaign=rss" target="_blank">UK economic growth slows but beats forecasts</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-14 08:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/14/nx-s1-5501492/why-every-a-lister-also-has-a-side-hustle" target="_blank">Why every A-lister also has a side hustle</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-14 07:00</span>
             </div>
         </div>
 </div>
@@ -165,6 +167,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/08/hashicorp-mcp-servers-terraform-/en/headerimage/header-1754926526017.jpeg" alt="HashiCorp Introduces MCP Servers for Terraform and Vault" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/hashicorp-mcp-servers-terraform-/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">HashiCorp Introduces MCP Servers for Terraform and Vault</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-14 10:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy7c47c9nfqect01cyx7d.png" alt="Building Scalable AI Workflows with n8n, Dify, and Custom Agent Integration" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -209,15 +220,6 @@
                 <span class="time">2025-08-14 04:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/trvon/yams" target="_blank">Show HN: Yet Another Memory System for LLM&#x27;s</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-14 03:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +248,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/krypto3.jpg" alt="Superman‘s Arrival On Streaming Is Marked With A 5-Minute Krypto Cartoon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/superman-krypto-cartoon-streaming-fandango-2000617734" target="_blank">Superman‘s Arrival On Streaming Is Marked With A 5-Minute Krypto Cartoon</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-14 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/north-american-river-otter.jpg" alt="‘Weird Looking’ Otter Poo Reveals an Unexpected Role in Parasite Control" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +300,6 @@
                 <span class="title"><a href="https://gizmodo.com/the-u-s-has-allegedly-super-charged-its-efforts-to-prevent-china-from-getting-american-chips-2000642802" target="_blank">U.S. Allegedly Super-Charged Its Efforts to Prevent China From Getting American Chips</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-13 21:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/controllers.jpg" alt="A Ton Of New Game Controllers Are On The Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/switch-2-pro-third-party-controller-cheap-razer-pc-ps5-xbox-2000617538" target="_blank">A Ton Of New Game Controllers Are On The Way</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-13 21:16</span>
             </div>
         </div>
 </div>
@@ -346,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
