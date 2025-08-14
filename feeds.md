@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-14 00:05:05 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2025-08-14 01:29:33 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, August 14, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, August 14, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/nat-guard-4-ht-gmh-250813_1755090169642_hpMain_4x3t_384.jpg" alt="DC to wake up to troops deployed along the National Mall" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/dc-wake-troops-deployed-national-mall/story?id=124629956" target="_blank">DC to wake up to troops deployed along the National Mall</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-13 23:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/13/former-peruvian-president-imprisoned-over-corruption-allegations?traffic_source=rss" target="_blank">Former Peruvian president imprisoned over corruption allegations</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-13 23:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,29 +100,20 @@
                 <span class="time">2025-08-13 18:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/13/protests-vigils-held-around-globe-for-gaza-assassinated-journalists?traffic_source=rss" target="_blank">Protests, vigils held around globe for Gaza, assassinated journalists</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-13 18:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-kharkiv-ukraine-russia-war-invasion_6988607.jpg?20250812080421" alt="Trump&#x27;s targets for Putin summit appear fluid - can he even get a ceasefire?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/is-the-trump-putin-meeting-a-listening-exercise-or-an-attempt-to-secure-an-immediate-ceasefire-13411293" target="_blank">Trump&#x27;s targets for Putin summit appear fluid - can he even get a ceasefire?</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-13 18:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/689bb53c08ded8cd4237e918/master/pass/chatgpt-hate-speech-gear-2171240925.jpg" alt="OpenAI Designed GPT-5 to Be Safer. It Still Outputs Gay Slurs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/openai-gpt5-safety/" target="_blank">OpenAI Designed GPT-5 to Be Safer. It Still Outputs Gay Slurs</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-13 23:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,15 +157,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/08/13/google-ceo-adds-a-new-calendar-feature-at-stripe-co-founders-request/" target="_blank">Google CEO adds a new calendar feature at Stripe co-founder’s request</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-08-13 19:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6899f5d8374ad3a7c8cd5920/master/pass/081125_mRNA-Companies-Are-Not-OK.jpg" alt="RFK Jr. Is Supporting mRNA Research—Just Not for Vaccines" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/rfk-jr-is-supporting-mrna-research-just-not-for-vaccines/" target="_blank">RFK Jr. Is Supporting mRNA Research—Just Not for Vaccines</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-13 18:07</span>
             </div>
         </div>
 </div>
@@ -301,6 +306,24 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5635.png" alt="Not-It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5635" target="_blank">Not-It</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-08-14 01:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/08/13/this-is-a-specific-type-of-boy-i-m-told" target="_blank">This Is A Specific Type Of Boy I&#x27;m Told</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-08-13 22:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -341,8 +364,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
