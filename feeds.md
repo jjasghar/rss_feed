@@ -1,32 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-08-14 20:01:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-14 21:01:52 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 12 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, August 14, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, August 14, 2025 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +51,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/barack-obama-gty-jef-250814_1755200038500_hpMain_4x3t_384.jpg" alt="Obama rallies Texas Democrats who left state to block GOP redistricting plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/obama-rallies-texas-democrats-left-state-block-gop/story?id=124657961" target="_blank">Obama rallies Texas Democrats who left state to block GOP redistricting plan</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-14 20:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/14/nx-s1-5502749/d-c-clergy-slam-federal-takeover" target="_blank">D.C. clergy slam federal takeover: &#x27;Fear is not a strategy for safety&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-14 20:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/14/sexual-violence-surged-amid-war-in-drcs-north-kivu-last-year-un?traffic_source=rss" target="_blank">Sexual violence surged amid war in DRC’s North Kivu last year: UN</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-14 20:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,38 +105,29 @@
                 <span class="time">2025-08-14 16:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250814-washington-ice-se-1013a-610bcf.jpg" alt="D.C. police to increase cooperation with ICE as part of crime crackdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/politics-news/dc-police-increase-cooperation-ice-part-trumps-crackdown-rcna224990" target="_blank">D.C. police to increase cooperation with ICE as part of crime crackdown</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-14 16:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c34/live/40722b60-791a-11f0-902c-1f79ecbf29bb.jpg" alt="Five key takeaways from 2025&#x27;s A-level results" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cz931kvldg4o?at_medium=RSS&at_campaign=rss" target="_blank">Five key takeaways from 2025&#x27;s A-level results</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-14 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46f6/live/783918c0-7914-11f0-889a-61231d511eb3.png" alt="Putin must &#x27;prove he is serious about peace,&#x27; says Starmer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp37vg34g8jo?at_medium=RSS&at_campaign=rss" target="_blank">Putin must &#x27;prove he is serious about peace,&#x27; says Starmer</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-14 14:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-starlink-500x500.jpg" alt="Starlink tries to block Virginia’s plan to bring fiber Internet to residents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/08/starlink-tries-to-block-virginias-plan-to-bring-fiber-internet-to-residents/" target="_blank">Starlink tries to block Virginia’s plan to bring fiber Internet to residents</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-14 20:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s" target="_blank">The best Xbox controller to buy right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-14 20:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +164,38 @@
                 <span class="time">2025-08-14 17:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1262115345-500x500-1755186090.jpg" alt="Meta backtracks on rules letting chatbots be creepy to kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/08/meta-backtracks-on-rules-letting-chatbots-be-creepy-to-kids/" target="_blank">Meta backtracks on rules letting chatbots be creepy to kids</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-14 16:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689e02a625b63dd1a35cf2ee/master/pass/apple-watch-blood-pressure-gear-2215389016.jpg" alt="The Apple Watch Is Finally Getting Blood Oxygen Sensing Back" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/apple-watch-blood-oxygen-sensing-is-back/" target="_blank">The Apple Watch Is Finally Getting Blood Oxygen Sensing Back</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-14 15:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1zjiwohchri6qcgsnxkb.png" alt="How AI Can Make You a 10x Software Engineer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/janvinsha/how-ai-can-make-you-a-10x-software-engineer-1bje" target="_blank">How AI Can Make You a 10x Software Engineer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-14 20:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Valkey-9.0-rc1-Released" target="_blank">Valkey 9.0-rc1 Taps AVX-512 For String-To-Integer Conversion For ~19% Gain</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-14 20:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18559304&w=600" alt="How IoT Devices Communicate With Alexa, Google Assistant, and HomeKit — A Developer’s Deep Dive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-voice-assistants-control-iot-devices" target="_blank">How IoT Devices Communicate With Alexa, Google Assistant, and HomeKit — A Developer’s Deep Dive</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-14 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -187,33 +223,6 @@
                 <span class="time">2025-08-14 18:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18559237&w=600" alt="A Comprehensive Comparison of Serverless Databases and Dedicated Database Servers in the Cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/a-comprehensive-comparison-of-serverless-databases" target="_blank">A Comprehensive Comparison of Serverless Databases and Dedicated Database Servers in the Cloud</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-14 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/jetpack-compose-august-2025/en/headerimage/jetpack-compose1-2-1755191160585.jpeg" alt="Jetpack Compose Enhances Scrolling, Lazy Lists, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/jetpack-compose-august-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Jetpack Compose Enhances Scrolling, Lazy Lists, and More</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-14 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18559186&w=600" alt="The Next Frontier in Cybersecurity: Securing AI Agents Is Now Critical and Most Companies Aren’t Ready" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-agent-security-framework" target="_blank">The Next Frontier in Cybersecurity: Securing AI Agents Is Now Critical and Most Companies Aren’t Ready</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-14 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/jurasicpakr.jpg" alt="Finally, We Got Some New Gameplay Of That Scary-Looking Jurassic Park Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/finally-we-got-some-new-gameplay-of-that-scary-looking-jurassic-park-game-2000617830" target="_blank">Finally, We Got Some New Gameplay Of That Scary-Looking Jurassic Park Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-14 20:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K2MTXZMM1S0NV7HEAXNY47KQ/hero-image.png" alt="20 Island Vacations Where You Won&#x27;t Need a Passport" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/travel/island-vacations-dont-need-a-passport?utm_medium=RSS" target="_blank">20 Island Vacations Where You Won&#x27;t Need a Passport</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-14 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/andor-season-2-welcome-to-the-rebellion-cassian-mon-mothma.jpg" alt="Read the Script to One of the Best Episodes of ‘Andor’ and Experience Greatness" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,24 +294,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/14/is-your-graphics-card-sagging.html" target="_blank">Is your graphics card SAGGING?</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-14 17:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Peacemaker-HBO-Max.jpg" alt="‘Peacemaker’ Season 2’s Red Band Trailer Is Ready to Drop Bombs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/peacemaker-season-2-red-band-trailer-james-gunn-john-cena-2000643101" target="_blank">‘Peacemaker’ Season 2’s Red Band Trailer Is Ready to Drop Bombs</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-14 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K2M7QCG63166V6EY1NJMSA57/hero-image.jpg" alt="How to Stop Google Gemini AI From Remembering Your Old Chats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-stop-google-gemini-ai-from-remembering-your-old-chats?utm_medium=RSS" target="_blank">How to Stop Google Gemini AI From Remembering Your Old Chats</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-14 16:30</span>
             </div>
         </div>
 </div>
@@ -333,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 298 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 299 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
