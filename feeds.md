@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-14 14:01:36 UTC -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-08-14 15:01:48 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, August 14, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, August 14, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46f6/live/783918c0-7914-11f0-889a-61231d511eb3.png" alt="Putin must &#x27;prove he is serious about peace,&#x27; says Starmer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp37vg34g8jo?at_medium=RSS&at_campaign=rss" target="_blank">Putin must &#x27;prove he is serious about peace,&#x27; says Starmer</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-14 14:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/14/nx-s1-5501273/trump-dc-takeover-cities-mayors-police-national-guard" target="_blank">Mayors of Democratic cities respond to Trump&#x27;s threats they could be next after D.C.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-14 14:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/14/timbuktu-manuscripts-taken-to-bamako-to-protect-them-from-jihadist-militants-returned" target="_blank">Ancient manuscripts return to Timbuktu 13 years after jihadist takeover</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-08-14 13:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Zelenskyy-Berlin-DB-250814_1755160024953_hpMain_4x3t_384.jpg" alt="Ukraine, left out in Trump-Putin summit, fears setbacks on key peace issues" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,38 +99,29 @@
                 <span class="time">2025-08-14 12:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/14/israel-approves-settlement-expansion-to-bury-idea-of-palestinian?traffic_source=rss" target="_blank">Israel approves settlement expansion to “bury idea of Palestinian state”</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-14 11:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/14/g-s1-82385/hundreds-of-retired-air-force-officers-protest-israels-war-in-gaza" target="_blank">Hundreds of retired air force officers protest Israel&#x27;s war in Gaza</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-14 11:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/vladimir-putin-1-rt-gmh-250813_1755088305117_hpMain_4x3t_384.jpg" alt="Putin says Trump making &#x27;vigorous&#x27; efforts to end war as summit nears" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/zelenskyy-rallies-trump-european-allies-setting-red-lines/story?id=124637288" target="_blank">Putin says Trump making &#x27;vigorous&#x27; efforts to end war as summit nears</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-14 11:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/14/buzzy-ai-startup-multiverse-creates-two-of-the-smallest-high-performing-models-ever/" target="_blank">Buzzy AI startup Multiverse creates two of the smallest high-performing models ever</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-14 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/09/Screenshot-2024-09-09-at-12.15.24-500x500.jpg" alt="Apple Watch gets reformulated, non-patent-infringing blood oxygen monitoring" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/08/redesigned-blood-oxygen-monitoring-returns-to-apple-watch-following-patent-dispute/" target="_blank">Apple Watch gets reformulated, non-patent-infringing blood oxygen monitoring</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-14 14:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +158,6 @@
                 <span class="time">2025-08-14 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689cd966e2c133088980e0f4/master/pass/Ars-Why-You-Shouldnt-Trust-Chatbot-Talking-About-Self-Business-528115602.jpg" alt="Why You Can’t Trust a Chatbot to Talk About Itself" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/chatbot-llm-self-awareness/" target="_blank">Why You Can’t Trust a Chatbot to Talk About Itself</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-14 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/758606/cowboys-e-bikes-rebirth-avoids-bankruptcy" target="_blank">Cowboy’s e-bikes granted a second life</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-14 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -180,6 +179,15 @@
                 <span class="title"><a href="https://dzone.com/articles/how-opentelemetry-improved-arm64-code-integrity" target="_blank">How OpenTelemetry Improved Its Code Integrity for Arm64 by Working With Ampere®</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-08-14 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/amd-threadripper-9995wx-trx50" target="_blank">AMD Ryzen Threadripper PRO 9995WX Performance With TRX50 + Quad Channel DDR5</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-14 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -207,15 +215,6 @@
                 <span class="title"><a href="https://www.medschool.umaryland.edu/news/2025/new-protein-therapy-shows-promise-as-first-ever-antidote-for-carbon-monoxide-poisoning.html" target="_blank">New protein therapy shows promise as antidote for carbon monoxide poisoning</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-14 11:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F435q80fnypa8ga1amyq2.png" alt="Open Source Reverse Proxy: A Developer&#x27;s Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/robbiecahill/open-source-reverse-proxy-a-developers-guide-211g" target="_blank">Open Source Reverse Proxy: A Developer&#x27;s Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-14 11:51</span>
             </div>
         </div>
 </div>
@@ -246,6 +245,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K2K7TW4FRGTMV5YSZ1FN26E7/hero-image.jpg" alt="This Spyware Campaign Is Targeting Android Users Via Messaging Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/this-spyware-campaign-is-targeting-android-users-via-messaging-apps?utm_medium=RSS" target="_blank">This Spyware Campaign Is Targeting Android Users Via Messaging Apps</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-14 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/overwatch-sad-winston.jpg" alt="Overwatch 2 Is Moving Away From ‘Oddball’ Heroes In Favor Of ‘Aspirational’ Ones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/overwatch-2-oddball-aspirational-character-hero-design-2000617761" target="_blank">Overwatch 2 Is Moving Away From ‘Oddball’ Heroes In Favor Of ‘Aspirational’ Ones</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-14 14:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Wednesday-Principal-Weems-Gwendoline-Christie-Netflix.jpg" alt="The ‘Wednesday Season 2 Part 2’ Trailer Welcomes Back a Familiar Face" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,24 +297,6 @@
                 <span class="title"><a href="https://kotaku.com/pokemon-world-championship-merchandise-scalper-reseller-2000617744" target="_blank">Pokémon Scalpers Are Already Ruining The World Championships</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-14 13:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K2K1H8EQTZ5564AYG011K3ZS/hero-image.png" alt="The Ultra-Thin Samsung Galaxy S25 Edge Phone Is 20% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-s25-edge-deal?utm_medium=RSS" target="_blank">The Ultra-Thin Samsung Galaxy S25 Edge Phone Is 20% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-14 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/krypto3.jpg" alt="Superman‘s Arrival On Streaming Is Marked With A 5-Minute Krypto Cartoon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/superman-krypto-cartoon-streaming-fandango-2000617734" target="_blank">Superman‘s Arrival On Streaming Is Marked With A 5-Minute Krypto Cartoon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-14 11:00</span>
             </div>
         </div>
 </div>
@@ -346,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
