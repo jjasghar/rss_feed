@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-14 04:08:52 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-14 05:03:12 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, August 14, 2025 - 04:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, August 14, 2025 - 05:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/542f/live/6a72fba0-78cb-11f0-a975-cb151ca452f4.jpg" alt="Results day arrives for A-level, T-level and BTec students" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c15lv2xxyy5o?at_medium=RSS&at_campaign=rss" target="_blank">Results day arrives for A-level, T-level and BTec students</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-14 05:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/14/russia-restricts-calls-on-whatsapp-telegram-as-internet-control-tightens?traffic_source=rss" target="_blank">Russia restricts calls on WhatsApp, Telegram as internet control tightens</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-14 04:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250813-national-guard-monument-vl-332p-5e814d.jpg" alt="Federal agents set up checkpoint in popular D.C. area after Trump&#x27;s crime directive" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,24 +101,6 @@
                 <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/08/13/nx-s1-5501666/trump-administration-foreign-aid" target="_blank">President Trump can continue to withhold billions in foreign aid, court rules</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-14 00:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/nat-guard-4-ht-gmh-250813_1755090169642_hpMain_4x3t_384.jpg" alt="DC to wake up to troops deployed along the National Mall" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/dc-wake-troops-deployed-national-mall/story?id=124629956" target="_blank">DC to wake up to troops deployed along the National Mall</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-13 23:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f40a/live/6dad2630-7856-11f0-8d1f-b10c011c40aa.jpg" alt="ADHD drugs have wider life benefits, study suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crr2j792drro?at_medium=RSS&at_campaign=rss" target="_blank">ADHD drugs have wider life benefits, study suggests</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-13 23:07</span>
             </div>
         </div>
 </div>
@@ -160,12 +168,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="Algorithms reward only those who stay consistent, and not those who show up when they feel motivated. This article will share some of my proven ways to stay consistent without the need for motivation. Also, thank you for showing love to the last article." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jaideepparashar/algorithms-reward-only-those-who-stay-consistent-and-not-those-who-show-up-when-they-feel-1l13" target="_blank">Algorithms reward only those who stay consistent, and not those who show up when they feel motivated. This article will share some of my proven ways to stay consistent without the need for motivation. Also, thank you for showing love to the last article.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-14 04:46</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gg_news/gamespot-visit-mcdonaldland-a-new-map-created-in-fortnite-featuring-khleo-thomas-3b7" target="_blank">GameSpot: Visit McDonaldLand, A New Map Created in Fortnite (Featuring Khleo Thomas)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-14 04:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/trvon/yams" target="_blank">Show HN: Yet Another Memory System for LLM&#x27;s</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-14 03:34</span>
             </div>
         </div>
 <div class="story">
@@ -193,24 +219,6 @@
                 <span class="title"><a href="https://github.blog/news-insights/company-news/github-availability-report-july-2025/" target="_blank">GitHub Availability Report: July 2025</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2025-08-13 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/asx/dev-log-04-49dg" target="_blank">Dev Log 04</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-13 20:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-SR-IOV-Only-For-Arc-Pro" target="_blank">SR-IOV Will Only Be Supported On Intel Arc Pro Graphics Cards</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-13 20:36</span>
             </div>
         </div>
 </div>
@@ -241,6 +249,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/A-personal-arch-enemy_3B-an-appropriate-agent-of-r.jpg?fit=1080%2C564&amp;quality=60&amp;ssl=1" alt="6% of Britons have a nemesis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/13/6-of-britons-have-a-nemesis.html" target="_blank">6% of Britons have a nemesis</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-14 01:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Eve-with-knife-2.jpg" alt="‘Friday the 13th’ Short ‘Sweet Revenge’ Is a Gruesomely Fun Jason Voorhees Return" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +301,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/13/us-attorney-for-dc-jeanine-pirro-claims-to-have-filed-felony-charges-against-the-sandwich-throwing-freedom-fighter.html" target="_blank">US Attorney for DC, Jeanine Pirro, claims to have filed felony charges against the sandwich-throwing freedom fighter</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-13 21:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Phatom-of-the-Opera-Tuxedo-Mask.jpg" alt="Andrew Lloyd Webber Is Turning ‘Phantom of the Opera’ Into an Anime Epic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/andrew-lloyd-webber-is-turning-phantom-of-the-opera-into-an-anime-epic-2000642758" target="_blank">Andrew Lloyd Webber Is Turning ‘Phantom of the Opera’ Into an Anime Epic</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-13 21:00</span>
             </div>
         </div>
 </div>
@@ -350,8 +358,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 04:08 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 05:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
