@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-14 02:36:14 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-14 03:26:40 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: WIRED -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, August 14, 2025 - 02:36 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, August 14, 2025 - 03:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +108,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/2010-5937orig-1-500x500.jpg" alt="Trump orders cull of regulations governing commercial rocket launches" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/08/trump-orders-cull-of-regulations-governing-commercial-rocket-launches/" target="_blank">Trump orders cull of regulations governing commercial rocket launches</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-14 00:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/689bb53c08ded8cd4237e918/master/pass/chatgpt-hate-speech-gear-2171240925.jpg" alt="OpenAI Designed GPT-5 to Be Safer. It Still Outputs Gay Slurs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -150,20 +161,20 @@
                 <span class="time">2025-08-13 19:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/13/google-ceo-adds-a-new-calendar-feature-at-stripe-co-founders-request/" target="_blank">Google CEO adds a new calendar feature at Stripe co-founder’s request</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-13 19:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nikhilwagh/well-played-perplexity-the-345b-bet-to-buy-google-chrome-3l6d" target="_blank">Well Played, Perplexity: The $34.5B Bet to Buy Google Chrome</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-14 03:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +218,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/lvfs-sustainability-plan-vendor-funding" target="_blank">Linux Firmware Service Calls on Hardware Makers to Help Fund It</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-08-13 20:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18559439&w=600" alt="Scheduler-Agent-Supervisor Pattern: Reliable Task Orchestration in Distributed Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/scheduler-agent-supervisor-pattern-reliable-task-o" target="_blank">Scheduler-Agent-Supervisor Pattern: Reliable Task Orchestration in Distributed Systems</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-13 20:00</span>
             </div>
         </div>
 </div>
@@ -364,8 +366,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 02:36 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 03:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
