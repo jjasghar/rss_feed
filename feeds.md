@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-15 04:08:02 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-15 05:02:07 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, August 15, 2025 - 04:08 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, August 15, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +54,24 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/15/australia-finds-record-meth-cocaine-heroin-use-in-wastewater-analysis?traffic_source=rss" target="_blank">Australia finds record meth, cocaine, heroin use in wastewater analysis</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-15 03:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-alaska-whittier_6991202.jpg?20250815045458" alt="Alaska&#x27;s quiet is pierced with a cacophony of questions over Trump-Putin summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/alaskas-quiet-is-pierced-with-a-cacophony-of-questions-over-trump-putin-summit-13411944" target="_blank">Alaska&#x27;s quiet is pierced with a cacophony of questions over Trump-Putin summit</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-15 03:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/14/nx-s1-5502883/trump-bondi-dc-police-chief" target="_blank">Trump administration claims D.C. police chief powers, but capital leaders push back</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-15 03:18</span>
             </div>
         </div>
 <div class="story">
@@ -81,24 +99,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-putin-meeting-summit-alaska/?id=124656413" target="_blank">Trump-Putin summit live updates: Trump says Putin, Zelenskyy &#x27;will make peace&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-14 23:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc2e/live/935cf150-7903-11f0-8815-0b32e54e3c9c.jpg" alt="Data centres to be expanded across UK as concerns mount" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clyr9nx0jrzo?at_medium=RSS&at_campaign=rss" target="_blank">Data centres to be expanded across UK as concerns mount</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-14 23:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755211743745_nn_ggu_federal_agents_police_presence_trump_250814_1920x1080-51gzeb.jpg" alt="More federal agents and National Guard troops patrolling DC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/more-federal-agents-and-national-guard-troops-patrolling-dc-245012549559" target="_blank">More federal agents and National Guard troops patrolling DC</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-14 22:49</span>
             </div>
         </div>
 </div>
@@ -166,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/08/15/the-future-of-vue-is-you-and-you/" target="_blank">The future of Vue is you (and You)</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-08-15 07:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy8g3sup03wywh54075k5.png" alt="Introduction to Banks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -210,15 +219,6 @@
                 <span class="time">2025-08-15 00:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/TrueNAS-25.10-Testing" target="_blank">TrueNAS 25.10 Begins Testing With Faster Performance, 400GbE Networking</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-14 23:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +245,15 @@
                 <span class="title"><a href="https://gizmodo.com/here-are-the-winners-of-the-2025-wildlife-photo-of-the-year-contest-2000643074" target="_blank">Here Are the Winners of the 2025 Wildlife Photos of the Year Contest</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-15 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/hazelnut.jpg?fit=1200%2C920&amp;quality=60&amp;ssl=1" alt="Toddler defeats overpriced, wobbly table in NJ cafe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/14/toddler-defeats-overpriced-wobbly-table-in-nj-cafe.html" target="_blank">Toddler defeats overpriced, wobbly table in NJ cafe</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-14 23:03</span>
             </div>
         </div>
 <div class="story">
@@ -281,15 +290,6 @@
                 <span class="title"><a href="https://kotaku.com/wuchang-fallen-feathers-1-5-changes-censorship-game-pass-steam-2000617865" target="_blank">Wuchang: Fallen Feathers Fans Celebrate Owning The Disc After Controversial Update Censors The Game</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-14 21:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K2MX34CN1M8DZRT0SEANQT0E/hero-image.jpg" alt="Meta&#x27;s Rules for How Its AI Talks to Kids Are Appalling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/meta-ai-rules-for-kids?utm_medium=RSS" target="_blank">Meta&#x27;s Rules for How Its AI Talks to Kids Are Appalling</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-14 21:00</span>
             </div>
         </div>
 </div>
@@ -329,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 296 |
-        🔄 Last Updated: 04:08 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 295 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
