@@ -1,38 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-08-15 01:29:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-15 02:34:18 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, August 15, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, August 15, 2025 - 02:34 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -76,6 +80,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc2e/live/935cf150-7903-11f0-8815-0b32e54e3c9c.jpg" alt="Data centres to be expanded across UK as concerns mount" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clyr9nx0jrzo?at_medium=RSS&at_campaign=rss" target="_blank">Data centres to be expanded across UK as concerns mount</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-14 23:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755211743745_nn_ggu_federal_agents_police_presence_trump_250814_1920x1080-51gzeb.jpg" alt="More federal agents and National Guard troops patrolling DC" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -91,15 +104,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/14/serbian-antigovernment-protests-escalate-in-third-night-of-clashes?traffic_source=rss" target="_blank">Serbian antigovernment protests escalate in third night of clashes</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-14 22:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/barack-obama-gty-jef-250814_1755200038500_hpMain_4x3t_384.jpg" alt="Obama rallies Texas Democrats who left state to block GOP redistricting plan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/obama-rallies-texas-democrats-left-state-block-gop/story?id=124657961" target="_blank">Obama rallies Texas Democrats who left state to block GOP redistricting plan</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-14 20:52</span>
             </div>
         </div>
 </div>
@@ -167,6 +171,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/12/ghostty-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Ghostty Terminal Rewrites its GTK Build to Fix Linux Issues" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/ghostty-terminal-gtk-rewrite-linux" target="_blank">Ghostty Terminal Rewrites its GTK Build to Fix Linux Issues</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-15 02:09</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -211,15 +224,6 @@
                 <span class="time">2025-08-14 22:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/" target="_blank">Blurry rendering of games on Mac</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-14 22:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -258,6 +262,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/att-van.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="AT&amp;T lost your data twice and now wants you to prove it&#x27;s their fault" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/14/att-lost-your-data-twice-and-now-wants-you-to-prove-its-their-fault.html" target="_blank">AT&amp;T lost your data twice and now wants you to prove it&#x27;s their fault</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-14 22:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/cybertruck.jpeg?fit=1080%2C608&amp;quality=60&amp;ssl=1" alt="Why the Cybertruck is a miserable failure that won&#x27;t sell" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -282,15 +295,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/meta-ai-rules-for-kids?utm_medium=RSS" target="_blank">Meta&#x27;s Rules for How Its AI Talks to Kids Are Appalling</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-14 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/jurasicpakr.jpg" alt="Finally, We Got Some New Gameplay Of That Scary-Looking Jurassic Park Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/finally-we-got-some-new-gameplay-of-that-scary-looking-jurassic-park-game-2000617830" target="_blank">Finally, We Got Some New Gameplay Of That Scary-Looking Jurassic Park Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-14 20:51</span>
             </div>
         </div>
 </div>
@@ -330,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 41 | 📸 With Images: 295 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 296 |
+        🔄 Last Updated: 02:34 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
