@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-15 22:01:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-15 23:01:39 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, August 15, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, August 15, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/15/china-unveils-newest-ai-technology-at-world-robot-conference?traffic_source=rss" target="_blank">China unveils newest AI technology at World Robot Conference</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-15 22:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +98,29 @@
                 <span class="time">2025-08-15 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/15/israeli-police-make-arrests-at-rally-for-slain-al-jazeera-journalists?traffic_source=rss" target="_blank">Israeli police make arrests at rally for slain Al Jazeera journalists</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-15 17:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/689e4641ba007d0d81f82fd6/master/pass/The%20Best%20Pillows%20for%20a%20Restful%20Night%E2%80%99s%20Sleep%20AUG.png" alt="9 Best Pillows (2025) Tested For Side, Back, and Stomach Sleepers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-pillows/" target="_blank">9 Best Pillows (2025) Tested For Side, Back, and Stomach Sleepers</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-15 22:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/15/sam-altman-over-bread-rolls-explores-life-after-gpt-5/" target="_blank">Sam Altman, over bread rolls, explores life after GPT-5</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-15 22:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +157,20 @@
                 <span class="time">2025-08-15 17:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2164099761-500x500.jpg" alt="Is GPT-5 really worse than GPT-4o? Ars puts them to the test." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/08/is-gpt-5-really-worse-than-gpt-4o-ars-puts-them-to-the-test/" target="_blank">Is GPT-5 really worse than GPT-4o? Ars puts them to the test.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-15 17:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/759581/lamborghini-fenomeno-phew-few-off-specs" target="_blank">Lamborghini’s new plug-in hybrid is the fastest car its ever built</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-15 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbjpi4nsmw1em2tzxechw.png" alt="AI Assistant ChatBot — Full Control: My WordPress Plugin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/amarire-dev/ai-assistant-chatbot-full-control-my-wordpress-plugin-2fa5" target="_blank">AI Assistant ChatBot — Full Control: My WordPress Plugin</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-15 22:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +214,6 @@
                 <span class="title"><a href="https://dzone.com/articles/java-jep-400-default-utf8-charset" target="_blank">Java JEP 400 Explained: Why UTF-8 Became the Default Charset</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-08-15 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/noel_kamphoa_e688aece0725/exception-hierarchy-in-java-checked-unchecked-and-errors-1f45" target="_blank">Exception Hierarchy in Java: Checked, Unchecked, and Errors</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-15 18:49</span>
             </div>
         </div>
 </div>
@@ -363,8 +362,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
