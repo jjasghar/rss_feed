@@ -1,31 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-08-15 14:01:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-15 15:01:38 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Generated 12 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, August 15, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, August 15, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +54,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/15/mallorca-vs-barcelona-la-liga-teams-start-lineups?traffic_source=rss" target="_blank">Mallorca vs Barcelona: La Liga – teams, start, lineups</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-15 14:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf33/live/c6a62b70-79d1-11f0-ab3e-bd52082cd0ae.jpg" alt="King hails veterans&#x27; courage and sacrifice on VJ Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,20 +108,29 @@
                 <span class="time">2025-08-15 11:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-kharkiv-ukraine-drone_6970464.jpg?20250722081348" alt="Ukraine vows to continue drone attacks until there&#x27;s a peace deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/ukraine-vows-to-continue-drone-attacks-until-theres-a-peace-deal-13412075" target="_blank">Ukraine vows to continue drone attacks until there&#x27;s a peace deal</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-15 10:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad" target="_blank">The best Nintendo Switch controllers to buy right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-15 14:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/15/louisiana-attorney-general-sues-roblox/" target="_blank">Louisiana attorney general sues Roblox</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-15 14:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/03_Acura-RSX-Prototype_Passenger-Front-2-500x500.jpg" alt="Here’s Acura’s next all-electric RSX crossover" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -136,24 +167,6 @@
                 <span class="time">2025-08-15 11:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/759877/google-pixel-10-pro-fold-full-spec-leak" target="_blank">The Pixel 10 Pro Fold’s full specs may have just leaked</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-15 10:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689e4a123e6bef4ec28eeff4/master/pass/The%20Best%20Mattresses%20for%20Sex.png" alt="Best Mattresses for Sex (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-mattress-for-sex/" target="_blank">Best Mattresses for Sex (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-15 10:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -163,8 +176,26 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vengat2505/day-1-data-analytics-progress-4k25" target="_blank">Day 1 Data Analytics Progress📈</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-15 14:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gg_news/ign-crimson-desert-13-minutes-of-gameplay-2di9" target="_blank">IGN: Crimson Desert - 13 Minutes of Gameplay</a></span>
                 <span class="feed">DEV Community</span>
+                <span class="time">2025-08-15 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18560221&w=600" alt="Virtualized Containers vs. Bare Metal: The Winner Is…" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/virtualized-containers-vs-bare-metal" target="_blank">Virtualized Containers vs. Bare Metal: The Winner Is…</a></span>
+                <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-08-15 14:00</span>
             </div>
         </div>
@@ -195,24 +226,6 @@
                 <span class="time">2025-08-15 12:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18560183&w=600" alt="Data Pipeline Architectures: Lessons from Implementing Real-Time Analytics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/lessons-from-implementing-real-time-analytics" target="_blank">Data Pipeline Architectures: Lessons from Implementing Real-Time Analytics</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-15 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/infrastructure-financial-services/en/mediumimage/matthew-liste-medium-1753426523211.jpeg" alt="Presentation: Building Resilient Platforms: Insights from 20+ Years in Mission-Critical Infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/infrastructure-financial-services/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Building Resilient Platforms: Insights from 20+ Years in Mission-Critical Infrastructure</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-15 11:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +245,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Mission-Impossible-Tom-Cruise-camera.jpg" alt="Tom Cruise Loves Watching Tom Cruise Get Hurt In ‘Mission Impossible’ Movies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/mission-impossible-final-reckoning-commentary-tom-cruise-clip-2000643203" target="_blank">Tom Cruise Loves Watching Tom Cruise Get Hurt In ‘Mission Impossible’ Movies</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-15 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K2Q1HB9B94VMAN42GAN8NB9R/hero-image.png" alt="Google&#x27;s Using AI to Help You Find Cheap Flights" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/googles-using-ai-to-help-you-find-cheap-flights?utm_medium=RSS" target="_blank">Google&#x27;s Using AI to Help You Find Cheap Flights</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-15 14:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/bafkreic7zrszvl4ldlf6lj735rj2dbnps6r3ypoz7a6y3rngo4sx6md3aa.jpg?fit=1000%2C570&amp;quality=60&amp;ssl=1" alt="Mamdani more popular with NYC conservatives than Cuomo and Adams" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/15/mamdani-more-popular-with-nyc-conservatives-than-cuomo-and-adams.html" target="_blank">Mamdani more popular with NYC conservatives than Cuomo and Adams</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-15 14:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/switch-2-cod.jpg" alt="Call Of Duty: Black Ops 7 Price And Date Info Reportedly Leak With No Switch 2 In Sight" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -259,33 +299,6 @@
                 <span class="time">2025-08-15 00:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/hazelnut.jpg?fit=1200%2C920&amp;quality=60&amp;ssl=1" alt="Toddler defeats overpriced, wobbly table in NJ cafe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/14/toddler-defeats-overpriced-wobbly-table-in-nj-cafe.html" target="_blank">Toddler defeats overpriced, wobbly table in NJ cafe</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-14 23:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Globetrotter-SS-Rajamouli-X.jpg" alt="The First Look at S.S. Rajamouli’s Next Film Is a Motorbiking, Spiked-Ball-Swinging Mystery" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ss-rajamouli-new-movie-rrr-globetrotter-trailer-2000643391" target="_blank">The First Look at S.S. Rajamouli’s Next Film Is a Motorbiking, Spiked-Ball-Swinging Mystery</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-14 22:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/att-van.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="AT&amp;T lost your data twice and now wants you to prove it&#x27;s their fault" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/14/att-lost-your-data-twice-and-now-wants-you-to-prove-its-their-fault.html" target="_blank">AT&amp;T lost your data twice and now wants you to prove it&#x27;s their fault</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-14 22:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -298,6 +311,15 @@
                 <span class="title"><a href="https://www.penny-arcade.com/comic/2025/08/15/the-undertaken" target="_blank">The Undertaken</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2025-08-15 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/archaeology_research.png" alt="Archaeology Research" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3129/" target="_blank">Archaeology Research</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-08-15 04:00</span>
             </div>
         </div>
 <div class="story">
@@ -332,8 +354,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
