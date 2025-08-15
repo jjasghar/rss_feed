@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-15 10:01:46 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-08-15 11:01:35 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, August 15, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, August 15, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,9 +46,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/15/palestinians-condemn-israels-ben-gvir-over-marwan-barghouti-threat?traffic_source=rss" target="_blank">Palestinians condemn Israel’s Ben-Gvir over Marwan Barghouti threat</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-15 09:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/8/15/trump-faces-serious-risks-with-putins-maximalist?traffic_source=rss" target="_blank">Trump faces “serious risks” with Putin’s “maximalist demands”</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-15 09:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/15/nx-s1-5482963/republican-congress-town-hall-obbb-medicaid-tax-cuts-immigration-trump" target="_blank">As Republicans face voters during tense town halls, it&#x27;s about sticking to the script</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-15 09:00</span>
             </div>
         </div>
 <div class="story">
@@ -79,29 +96,29 @@
                 <span class="time">2025-08-15 07:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/15/nx-s1-5502731/the-nepo-baby-premium-frothing-markets-and-apple-vs-apples" target="_blank">The nepo baby premium, frothing markets, and Apple vs. Apples</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-15 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7530/live/9d3f9ca0-79a2-11f0-83cc-c5da98c419b8.jpg" alt="What do Alaskans make of the geopolitical circus arriving in their city?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c7541g6d191o?at_medium=RSS&at_campaign=rss" target="_blank">What do Alaskans make of the geopolitical circus arriving in their city?</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-15 05:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/759877/google-pixel-10-pro-fold-full-spec-leak" target="_blank">The Pixel 10 Pro Fold’s full specs may have just leaked</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-15 10:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/689e4a123e6bef4ec28eeff4/master/pass/The%20Best%20Mattresses%20for%20Sex.png" alt="Best Mattresses for Sex (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-mattress-for-sex/" target="_blank">Best Mattresses for Sex (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-15 10:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/689e511dd3da84de7e0b1b0c/master/pass/Review-%20Lelo%20Sona%203%20Cruise.png" alt="Lelo Sona 3 Cruise Review: Stale Update" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +155,29 @@
                 <span class="time">2025-08-15 00:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/759839/fortnite-down-login-rocket-league-fall-guys" target="_blank">Fortnite login is down</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-14 23:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2195019925-500x500-1755208218.jpg" alt="Dedicated volunteer exposes “single largest self-promotion operation in Wikipedia’s history”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2025/08/why-was-the-most-translated-wikipedia-article-in-the-world-about-a-lover-of-aryan-culture/" target="_blank">Dedicated volunteer exposes “single largest self-promotion operation in Wikipedia’s history”</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-14 22:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/VFIO-Platform-Deprecated" target="_blank">Generic VFIO Platform Driver To Be Marked As Deprecated For Removal</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-15 10:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/08/microsoft-azure-app-testing/en/headerimage/generatedHeaderImage-1754987806970.jpg" alt="Microsoft Launches Azure App Testing: A Unified Hub for Load and End-to-End Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/microsoft-azure-app-testing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Launches Azure App Testing: A Unified Hub for Load and End-to-End Testing</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-15 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdrwo54i5p9pf86zps8l0.webp" alt="The Role of ICT Testers in PCB Manufacturing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,24 +212,6 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/08/15/the-future-of-vue-is-you-and-you/" target="_blank">The future of Vue is you (and You)</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-08-15 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.foletta.net/post/2025-07-14-clt/" target="_blank">Simulating and Visualising the Central Limit Theorem</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-15 06:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/netflix-tudum-cqrs-raw-hollow/en/headerimage/generatedHeaderImage-1754230662911.jpg" alt="Netflix Revamps Tudum’s CQRS Architecture with RAW Hollow In-Memory Object Store" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/netflix-tudum-cqrs-raw-hollow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Netflix Revamps Tudum’s CQRS Architecture with RAW Hollow In-Memory Object Store</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-15 06:00</span>
             </div>
         </div>
 </div>
@@ -294,6 +293,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/08/15/the-undertaken" target="_blank">The Undertaken</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-08-15 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5636.png" alt="Loading Zone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -325,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 41 | 📸 With Images: 288 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
