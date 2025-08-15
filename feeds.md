@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-14 23:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-15 00:05:05 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, August 14, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, August 15, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/14/g-s1-82681/venus-williams-u-s-open-oldest-player" target="_blank">At 45, Venus Williams will be the oldest player in the U.S. Open in decades</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-14 23:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-putin-02-gty-jef-250814_1755173515024_hpMain_4x3t_384.jpg" alt="Trump-Putin summit live updates: Trump says Putin, Zelenskyy &#x27;will make peace&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-putin-meeting-summit-alaska/?id=124656413" target="_blank">Trump-Putin summit live updates: Trump says Putin, Zelenskyy &#x27;will make peace&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-14 23:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,30 +92,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-russia-ukraine_6991101.jpg?20250814214145" alt="Ukrainians are appalled at Trump&#x27;s naive and cack-handed diplomacy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/14/sexual-violence-surged-amid-war-in-drcs-north-kivu-last-year-un?traffic_source=rss" target="_blank">Sexual violence surged amid war in DRC’s North Kivu last year: UN</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-14 20:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/14/blast-in-syrias-northwestern-idlib-province-kills-four-state-media?traffic_source=rss" target="_blank">Blast in Syria’s northwestern Idlib province kills four: State media</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-14 17:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/14/nx-s1-5493541/meidastouch-rogan-trump-podcast-video" target="_blank">Anti-Trump podcast MeidasTouch is rivaling Joe Rogan. Does it have staying power?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-14 16:56</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/ukrainians-are-appalled-at-trumps-naive-and-cack-handed-diplomacy-13411865" target="_blank">Ukrainians are appalled at Trump&#x27;s naive and cack-handed diplomacy</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-14 20:20</span>
             </div>
         </div>
 </div>
@@ -103,6 +105,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/759839/fortnite-down-login-rocket-league-fall-guys" target="_blank">Fortnite login is down</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-14 23:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/689cf64cf34ec0472c18f3a0/master/pass/AI-sSlop-Ripping-Off-Games-Peak-Culture-ScreenshotCaldera.png" alt="AI Slop Is Ripping Off One of Summer’s Best Games. Copycats Are Proving Hard to Kill" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,15 +159,6 @@
                 <span class="time">2025-08-14 18:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/14/cohere-hits-a-6-8b-valuation-as-investors-amd-nvidia-and-salesforce-double-down/" target="_blank">Cohere hits a $6.8B valuation as investors AMD, Nvidia, and Salesforce double down</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-14 17:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,9 +168,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/future_youtube/linus-tech-tips-ltt-i-broke-his-tv-within-5-minutesamd-5000-ultimate-tech-upgrade-517" target="_blank">Linus Tech Tips (LTT): I Broke his TV Within 5 Minutes...AMD $5000 Ultimate Tech Upgrade</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-15 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/TrueNAS-25.10-Testing" target="_blank">TrueNAS 25.10 Begins Testing With Faster Performance, 400GbE Networking</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-14 23:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/f1lt3r/a-reasonably-simple-secure-password-scheme-4890" target="_blank">A Reasonably Simple, Secure Password Scheme</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-14 22:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/" target="_blank">Blurry rendering of games on Mac</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-14 22:11</span>
             </div>
         </div>
 <div class="story">
@@ -187,33 +216,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/virtualbox-7-2-0-brings-more-ui-changes-windows-on-arm-support" target="_blank">VirtualBox 7.2 Release Brings Big UI Change, Better ARM Support</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-08-14 21:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1zjiwohchri6qcgsnxkb.png" alt="How AI Can Make You a 10x Software Engineer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/janvinsha/how-ai-can-make-you-a-10x-software-engineer-1bje" target="_blank">How AI Can Make You a 10x Software Engineer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-14 20:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Valkey-9.0-rc1-Released" target="_blank">Valkey 9.0-rc1 Taps AVX-512 For String-To-Integer Conversion For ~19% Gain</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-14 20:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18559304&w=600" alt="How IoT Devices Communicate With Alexa, Google Assistant, and HomeKit — A Developer’s Deep Dive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-voice-assistants-control-iot-devices" target="_blank">How IoT Devices Communicate With Alexa, Google Assistant, and HomeKit — A Developer’s Deep Dive</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-14 20:00</span>
             </div>
         </div>
 </div>
@@ -235,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/sparringsaigas.jpg" alt="Here Are the Winners of the 2025 Wildlife Photos of the Year Contest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/here-are-the-winners-of-the-2025-wildlife-photo-of-the-year-contest-2000643074" target="_blank">Here Are the Winners of the 2025 Wildlife Photos of the Year Contest</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-15 00:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Globetrotter-SS-Rajamouli-X.jpg" alt="The First Look at S.S. Rajamouli’s Next Film Is a Motorbiking, Spiked-Ball-Swinging Mystery" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +291,6 @@
                 <span class="time">2025-08-14 20:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K2MTXZMM1S0NV7HEAXNY47KQ/hero-image.png" alt="20 Island Vacations Where You Won&#x27;t Need a Passport" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/travel/island-vacations-dont-need-a-passport?utm_medium=RSS" target="_blank">20 Island Vacations Where You Won&#x27;t Need a Passport</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-14 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 298 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 296 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
