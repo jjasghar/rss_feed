@@ -1,44 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-15 15:01:38 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-15 16:01:53 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 36 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, August 15, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, August 15, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -116,6 +107,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/15/ultrahuman-acquires-vio-healthtech-to-launch-enhanced-cycle-and-ovulation-tracking/" target="_blank">Ultrahuman acquires viO HealthTech to launch enhanced cycle and ovulation tracking</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-15 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad" target="_blank">The best Nintendo Switch controllers to buy right now</a></span>
                 <span class="feed">The Verge</span>
@@ -156,15 +156,6 @@
                 <span class="title"><a href="https://www.wired.com/story/now-you-can-get-your-flu-vaccine-at-home/" target="_blank">Now You Can Get Your Flu Vaccine at Home</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-08-15 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689e54a079181443eae5ff00/master/pass/Review-%20Dyson%20Airwrap%20Co-anda%202x.png" alt="Dyson Airwrap Co-anda 2x Review: Great, Not a Must-Have" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/dyson-airwrap-co-anda2x/" target="_blank">Dyson Airwrap Co-anda 2x Review: Great, Not a Must-Have</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-15 11:30</span>
             </div>
         </div>
 </div>
@@ -246,6 +237,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/roblox.jpg" alt="Roblox Is Being Sued By The State Of Louisiana" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/roblox-sued-louisiana-brainrot-grow-a-garden-hellscape-2000618002" target="_blank">Roblox Is Being Sued By The State Of Louisiana</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-15 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/10/CharacterAI.jpg" alt="Open-Sourced AI Models May Be More Costly in the Long Run, Study Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/open-sourced-ai-models-may-be-more-costly-in-the-long-run-study-finds-2000643685" target="_blank">Open-Sourced AI Models May Be More Costly in the Long Run, Study Finds</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-15 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Mission-Impossible-Tom-Cruise-camera.jpg" alt="Tom Cruise Loves Watching Tom Cruise Get Hurt In ‘Mission Impossible’ Movies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -281,24 +290,6 @@
                 <span class="time">2025-08-15 13:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K2MRB317MVNQJR82Z83BPS2V/hero-image.png" alt="Seven Games Like &#x27;Stardew Valley&#x27; You Should Play Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/games-like-stardew-valley-you-should-play-next?utm_medium=RSS" target="_blank">Seven Games Like &#x27;Stardew Valley&#x27; You Should Play Next</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-15 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/sparringsaigas.jpg" alt="Here Are the Winners of the 2025 Wildlife Photos of the Year Contest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/here-are-the-winners-of-the-2025-wildlife-photo-of-the-year-contest-2000643074" target="_blank">Here Are the Winners of the 2025 Wildlife Photos of the Year Contest</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-15 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,31 +322,13 @@
                 <span class="time">2025-08-15 01:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/spoilers/" target="_blank">Spoilers</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2025-08-14 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1754968847-20250814.png" alt="Saturday Morning Breakfast Cereal - Dress" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/dress" target="_blank">Saturday Morning Breakfast Cereal - Dress</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-08-14 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
