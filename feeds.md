@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-15 12:01:59 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-08-15 13:10:10 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, August 15, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, August 15, 2025 - 13:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,12 +57,39 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755257882010_tdy_news_7a_alexander_trump_putin_meeting_250815_1920x1080-1uv877.jpg" alt="Trump Hopes Putin Visit Will ‘Set the Table’ for Zelenskyy Meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-hopes-putin-visit-will-set-the-table-for-zelenskyy-meeting-245055045609" target="_blank">Trump Hopes Putin Visit Will ‘Set the Table’ for Zelenskyy Meeting</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-15 11:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffa2/live/924c24e0-79c4-11f0-a1b4-c7dc30ddd605.jpg" alt="Councillor cleared of encouraging violent behaviour" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cjeykklwn7vo?at_medium=RSS&at_campaign=rss" target="_blank">Councillor cleared of encouraging violent behaviour</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-15 11:15</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/08/15/g-s1-82812/up-first-newsletter-putin-trump-summit-texas-democrats-crime-crackdown-left-leaning-communities" target="_blank">What to know ahead of Trump-Putin summit. And, Texas Democrats could end boycott</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-15 11:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-kharkiv-ukraine-drone_6970464.jpg?20250722081348" alt="Ukraine vows to continue drone attacks until there&#x27;s a peace deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/ukraine-vows-to-continue-drone-attacks-until-theres-a-peace-deal-13412075" target="_blank">Ukraine vows to continue drone attacks until there&#x27;s a peace deal</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-15 10:08</span>
             </div>
         </div>
 <div class="story">
@@ -68,38 +101,29 @@
                 <span class="time">2025-08-15 09:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/8/15/trump-faces-serious-risks-with-putins-maximalist?traffic_source=rss" target="_blank">Trump faces “serious risks” with Putin’s “maximalist demands”</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-15 09:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/15/nx-s1-5482963/republican-congress-town-hall-obbb-medicaid-tax-cuts-immigration-trump" target="_blank">As Republicans face voters during tense town halls, it&#x27;s about sticking to the script</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-15 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/15/nx-s1-5502460/trump-putin-alaska-summit-ukraine" target="_blank">Trump and Putin meet today in Anchorage. Here&#x27;s what to know</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-15 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/the-vergecast/759768/gpt5-backlash-vibe-coding-attempts-corporate-stunts" target="_blank">Vibe coding through the GPT-5 mess</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-15 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6894f07e562c198626309d49/master/pass/GettyImages-91956286.jpg" alt="Now You Can Get Your Flu Vaccine at Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/now-you-can-get-your-flu-vaccine-at-home/" target="_blank">Now You Can Get Your Flu Vaccine at Home</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-15 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/689e54a079181443eae5ff00/master/pass/Review-%20Dyson%20Airwrap%20Co-anda%202x.png" alt="Dyson Airwrap Co-anda 2x Review: Great, Not a Must-Have" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -136,29 +160,47 @@
                 <span class="time">2025-08-15 08:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" alt="Sealy Promo Code: Save $300 on Mattresses in August 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/sealy-promo-code/" target="_blank">Sealy Promo Code: Save $300 on Mattresses in August 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-15 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/759839/fortnite-down-login-rocket-league-fall-guys" target="_blank">Fortnite login is back after an outage</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-15 00:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/whatsextract/from-0-to-saas-in-48-hours-building-whatsextract-api-with-fastapi-and-ai-2obj" target="_blank">From 0 to SaaS in 48 Hours: Building WhatsExtract API with FastAPI and AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-15 12:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-FRED-Incompatible-ENDBR64" target="_blank">Intel FRED Suffers A Late &quot;Incompatible Change&quot; To The Architecture</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-15 12:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18560183&w=600" alt="Data Pipeline Architectures: Lessons from Implementing Real-Time Analytics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/lessons-from-implementing-real-time-analytics" target="_blank">Data Pipeline Architectures: Lessons from Implementing Real-Time Analytics</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-15 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/infrastructure-financial-services/en/mediumimage/matthew-liste-medium-1753426523211.jpeg" alt="Presentation: Building Resilient Platforms: Insights from 20+ Years in Mission-Critical Infrastructure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/infrastructure-financial-services/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Building Resilient Platforms: Insights from 20+ Years in Mission-Critical Infrastructure</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-15 11:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -177,40 +219,18 @@
                 <span class="time">2025-08-15 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdrwo54i5p9pf86zps8l0.webp" alt="The Role of ICT Testers in PCB Manufacturing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/frank_1871bc3c55f35370df3/the-role-of-ict-testers-in-pcb-manufacturing-4pe8" target="_blank">The Role of ICT Testers in PCB Manufacturing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-15 09:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/infusing-ai-java/en/headerimage/infusing-ai-java-header-1754979423763.jpg" alt="Article: Infusing AI into your Java applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/infusing-ai-java/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Infusing AI into your Java applications</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-15 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkvgqkvudb3e8pe5rmceb.jpg" alt="How to implement multitasking scheduling mechanism on a microcontroller?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/carolineee/how-to-implement-multitasking-scheduling-mechanism-on-a-microcontroller-2n9k" target="_blank">How to implement multitasking scheduling mechanism on a microcontroller?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-15 08:50</span>
-            </div>
-        </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/08/15/the-future-of-vue-is-you-and-you/" target="_blank">The future of Vue is you (and You)</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-08-15 07:40</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/trojans-embedded-in-svg-files.html" target="_blank">Trojans Embedded in .svg Files</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-08-15 11:07</span>
             </div>
         </div>
 </div>
@@ -318,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 13:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
