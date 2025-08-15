@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-15 19:01:28 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-15 20:01:45 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, August 15, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, August 15, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +109,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/15/tiktoks-new-guidelines-add-subtle-changes-for-live-creators-ai-content-and-more/" target="_blank">TikTok’s new guidelines add subtle changes for LIVE creators, AI content, and more</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-15 19:17</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/689a19ecddceece04e84fa2f/master/pass/chatgpt5-hate-biz-2228998627-1193951547.jpg" alt="Developers Say GPT-5 Is a Mixed Bag" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -152,20 +162,38 @@
                 <span class="time">2025-08-15 14:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/15/louisiana-attorney-general-sues-roblox/" target="_blank">Louisiana attorney general sues Roblox</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-15 14:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/ign-better-than-dead-official-announcement-trailer-4fid" target="_blank">IGN: Better Than Dead - Official Announcement Trailer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-15 20:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-10.13-Released" target="_blank">Wine 10.13 Released With One Month Worth Of Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-15 19:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18559346&w=600" alt="Java JEP 400 Explained: Why UTF-8 Became the Default Charset" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/java-jep-400-default-utf8-charset" target="_blank">Java JEP 400 Explained: Why UTF-8 Became the Default Charset</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-15 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -185,39 +213,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/update.jpg?resize=406%2C232&amp;ssl=1" alt="Mini Floating Panel Extension Adds Sought-After Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/mini-floating-panel-gnome-extension-update-indicators-scrolling" target="_blank">Mini Floating Panel Extension Adds Sought-After Features</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-15 16:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/mini-floating-panel-thumb.jpg?resize=406%2C232&amp;ssl=1" alt="Mini Floating Panel GNOME Extension Adds Much-Requested Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/mini-floating-panel-gnome-extension-update-indicators-scrolling" target="_blank">Mini Floating Panel GNOME Extension Adds Much-Requested Features</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-15 16:56</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html" target="_blank">Occult books digitized and put online by Amsterdam’s Ritman Library</a></span>
+                <span class="title"><a href="https://edka.io" target="_blank">Show HN: Edka – Kubernetes clusters on your own Hetzner account</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2025-08-15 16:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18560269&w=600" alt="How to Build ML Experimentation Platforms You Can Trust?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/build-reliable-ml-experimentation-platforms" target="_blank">How to Build ML Experimentation Platforms You Can Trust?</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-15 16:00</span>
+                <span class="time">2025-08-15 17:34</span>
             </div>
         </div>
 </div>
@@ -348,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
