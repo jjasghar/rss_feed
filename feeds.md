@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-15 07:02:14 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-15 08:02:05 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, August 15, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, August 15, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/15/hong-kong-tycoon-jimmy-lais-trial-delayed-over-health-concerns?traffic_source=rss" target="_blank">Hong Kong tycoon Jimmy Lai’s trial delayed over health concerns</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-15 07:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -64,6 +70,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/environment/2025/aug/15/climate-crisis-harming-world-heritage-painted-houses-tiebele-in-burkina-faso-say-residents" target="_blank">Climate crisis harming world heritage painted houses in Burkina Faso, say residents</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-08-15 05:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/pam-bondi-4-epa-gmh-250811_1754928134342_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Bondi says DEA head is DC &#x27;emergency police commissioner&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -79,24 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/15/australia-finds-record-meth-cocaine-heroin-use-in-wastewater-analysis?traffic_source=rss" target="_blank">Australia finds record meth, cocaine, heroin use in wastewater analysis</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-15 03:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-alaska-whittier_6991202.jpg?20250815045458" alt="Alaska&#x27;s quiet is pierced with a cacophony of questions over Trump-Putin summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/alaskas-quiet-is-pierced-with-a-cacophony-of-questions-over-trump-putin-summit-13411944" target="_blank">Alaska&#x27;s quiet is pierced with a cacophony of questions over Trump-Putin summit</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-15 03:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/14/nx-s1-5502883/trump-bondi-dc-police-chief" target="_blank">Trump administration claims D.C. police chief powers, but capital leaders push back</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-15 03:18</span>
             </div>
         </div>
 </div>
@@ -173,6 +170,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.foletta.net/post/2025-07-14-clt/" target="_blank">Simulating and Visualising the Central Limit Theorem</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-15 06:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/08/netflix-tudum-cqrs-raw-hollow/en/headerimage/generatedHeaderImage-1754230662911.jpg" alt="Netflix Revamps Tudum’s CQRS Architecture with RAW Hollow In-Memory Object Store" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -206,15 +212,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/ghostty-terminal-gtk-rewrite-linux" target="_blank">Ghostty Terminal Rewrites its GTK Build to Fix Linux Issues</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-08-15 02:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/agusrdz/making-long-coding-sessions-more-pleasant-the-story-behind-harmonia-theme-2390" target="_blank">🎨 Making Long Coding Sessions More Pleasant — The Story Behind Harmonia Theme</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-15 01:07</span>
             </div>
         </div>
 </div>
@@ -327,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
