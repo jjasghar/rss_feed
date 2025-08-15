@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-15 00:05:05 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-15 01:29:31 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, August 15, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, August 15, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +51,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/15/russia-ukraine-war-list-of-key-events-day-1268?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,268</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-15 00:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/08/14/g-s1-82681/venus-williams-u-s-open-oldest-player" target="_blank">At 45, Venus Williams will be the oldest player in the U.S. Open in decades</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -62,6 +73,15 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-putin-meeting-summit-alaska/?id=124656413" target="_blank">Trump-Putin summit live updates: Trump says Putin, Zelenskyy &#x27;will make peace&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-14 23:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755211743745_nn_ggu_federal_agents_police_presence_trump_250814_1920x1080-51gzeb.jpg" alt="More federal agents and National Guard troops patrolling DC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/more-federal-agents-and-national-guard-troops-patrolling-dc-245012549559" target="_blank">More federal agents and National Guard troops patrolling DC</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-14 22:49</span>
             </div>
         </div>
 <div class="story">
@@ -82,24 +102,6 @@
                 <span class="time">2025-08-14 20:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/14/nx-s1-5502749/d-c-clergy-slam-federal-takeover" target="_blank">D.C. clergy slam federal takeover: &#x27;Fear is not a strategy for safety&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-14 20:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-russia-ukraine_6991101.jpg?20250814214145" alt="Ukrainians are appalled at Trump&#x27;s naive and cack-handed diplomacy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/ukrainians-are-appalled-at-trumps-naive-and-cack-handed-diplomacy-13411865" target="_blank">Ukrainians are appalled at Trump&#x27;s naive and cack-handed diplomacy</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-14 20:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -109,9 +111,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/759839/fortnite-down-login-rocket-league-fall-guys" target="_blank">Fortnite login is mostly back after an outage</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-15 00:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/759839/fortnite-down-login-rocket-league-fall-guys" target="_blank">Fortnite login is down</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-08-14 23:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2195019925-500x500-1755208218.jpg" alt="Dedicated volunteer exposes “single largest self-promotion operation in Wikipedia’s history”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/08/why-was-the-most-translated-wikipedia-article-in-the-world-about-a-lover-of-aryan-culture/" target="_blank">Dedicated volunteer exposes “single largest self-promotion operation in Wikipedia’s history”</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-14 22:18</span>
             </div>
         </div>
 <div class="story">
@@ -141,24 +161,6 @@
                 <span class="time">2025-08-14 20:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s" target="_blank">The best Xbox controller to buy right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-14 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/14/what-is-bluesky-everything-to-know-about-the-x-competitor/" target="_blank">What is Bluesky? Everything to know about the X competitor</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-14 18:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,8 +170,26 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/agusrdz/making-long-coding-sessions-more-pleasant-the-story-behind-harmonia-theme-2390" target="_blank">🎨 Making Long Coding Sessions More Pleasant — The Story Behind Harmonia Theme</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-15 01:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/future_youtube/linus-tech-tips-ltt-i-broke-his-tv-within-5-minutesamd-5000-ultimate-tech-upgrade-517" target="_blank">Linus Tech Tips (LTT): I Broke his TV Within 5 Minutes...AMD $5000 Ultimate Tech Upgrade</a></span>
                 <span class="feed">DEV Community</span>
+                <span class="time">2025-08-15 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-august-15-2025-red-hat" target="_blank">Friday Five — August 15, 2025</a></span>
+                <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-08-15 00:00</span>
             </div>
         </div>
@@ -198,24 +218,6 @@
                 <span class="title"><a href="https://www.colincornaby.me/2025/08/your-mac-game-is-probably-rendering-blurry/" target="_blank">Blurry rendering of games on Mac</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-14 22:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-why-bioshock-4-still-isnt-ready-unlocked-clips-1gbf" target="_blank">IGN: Why BioShock 4 Still Isn’t Ready - Unlocked Clips</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-14 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/virtualbox-update.jpg?resize=406%2C232&amp;ssl=1" alt="VirtualBox 7.2 Release Brings Big UI Change, Better ARM Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/virtualbox-7-2-0-brings-more-ui-changes-windows-on-arm-support" target="_blank">VirtualBox 7.2 Release Brings Big UI Change, Better ARM Support</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-14 21:02</span>
             </div>
         </div>
 </div>
@@ -297,6 +299,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5636.png" alt="Loading Zone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5636" target="_blank">Loading Zone</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-08-15 01:10</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-pencil"></span>
@@ -314,22 +325,13 @@
                 <span class="time">2025-08-14 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5635.png" alt="Not-It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5635" target="_blank">Not-It</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-08-14 01:05</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 296 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 41 | 📸 With Images: 295 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
