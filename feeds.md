@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-08-15 13:10:10 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-15 14:01:35 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, August 15, 2025 - 13:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, August 15, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf33/live/c6a62b70-79d1-11f0-ab3e-bd52082cd0ae.jpg" alt="King hails veterans&#x27; courage and sacrifice on VJ Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y0lnzpqjgo?at_medium=RSS&at_campaign=rss" target="_blank">King hails veterans&#x27; courage and sacrifice on VJ Day</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-15 13:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +95,20 @@
                 <span class="time">2025-08-15 10:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/15/palestinians-condemn-israels-ben-gvir-over-marwan-barghouti-threat?traffic_source=rss" target="_blank">Palestinians condemn Israel’s Ben-Gvir over Marwan Barghouti threat</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-15 09:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/03_Acura-RSX-Prototype_Passenger-Front-2-500x500.jpg" alt="Here’s Acura’s next all-electric RSX crossover" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/08/acura-unveils-next-rdx-crossover-will-feature-asimo-os/" target="_blank">Here’s Acura’s next all-electric RSX crossover</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-15 13:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +154,29 @@
                 <span class="time">2025-08-15 10:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689e511dd3da84de7e0b1b0c/master/pass/Review-%20Lelo%20Sona%203%20Cruise.png" alt="Lelo Sona 3 Cruise Review: Stale Update" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/lelo-sona-3-cruise/" target="_blank">Lelo Sona 3 Cruise Review: Stale Update</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-15 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/ign-crimson-desert-13-minutes-of-gameplay-2di9" target="_blank">IGN: Crimson Desert - 13 Minutes of Gameplay</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-15 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18560209&w=600" alt="Amazon EMRFS vs HDFS: Which One is Right for Your Big Data Needs?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/amazon-emrfs-vs-hdfs" target="_blank">Amazon EMRFS vs HDFS: Which One is Right for Your Big Data Needs?</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-15 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +213,6 @@
                 <span class="time">2025-08-15 11:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/VFIO-Platform-Deprecated" target="_blank">Generic VFIO Platform Driver To Be Marked As Deprecated For Removal</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-15 10:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/microsoft-azure-app-testing/en/headerimage/generatedHeaderImage-1754987806970.jpg" alt="Microsoft Launches Azure App Testing: A Unified Hub for Load and End-to-End Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/microsoft-azure-app-testing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Launches Azure App Testing: A Unified Hub for Load and End-to-End Testing</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-15 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +232,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/switch-2-cod.jpg" alt="Call Of Duty: Black Ops 7 Price And Date Info Reportedly Leak With No Switch 2 In Sight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/black-ops-7-price-release-date-switch-2-dev-kits-call-duty-2000617983" target="_blank">Call Of Duty: Black Ops 7 Price And Date Info Reportedly Leak With No Switch 2 In Sight</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-15 13:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K2MRB317MVNQJR82Z83BPS2V/hero-image.png" alt="Seven Games Like &#x27;Stardew Valley&#x27; You Should Play Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/games-like-stardew-valley-you-should-play-next?utm_medium=RSS" target="_blank">Seven Games Like &#x27;Stardew Valley&#x27; You Should Play Next</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-15 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/sparringsaigas.jpg" alt="Here Are the Winners of the 2025 Wildlife Photos of the Year Contest" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +284,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/14/att-lost-your-data-twice-and-now-wants-you-to-prove-its-their-fault.html" target="_blank">AT&amp;T lost your data twice and now wants you to prove it&#x27;s their fault</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-14 22:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/03/cybertruck.jpeg?fit=1080%2C608&amp;quality=60&amp;ssl=1" alt="Why the Cybertruck is a miserable failure that won&#x27;t sell" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/14/why-the-cybertruck-is-a-miserable-failure-that-wont-sell.html" target="_blank">Why the Cybertruck is a miserable failure that won&#x27;t sell</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-14 22:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/07/52f4008371eafeaaf7656c6fb1c68ed7.jpg" alt="Wuchang: Fallen Feathers Fans Celebrate Owning The Disc After Controversial Update Censors The Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/wuchang-fallen-feathers-1-5-changes-censorship-game-pass-steam-2000617865" target="_blank">Wuchang: Fallen Feathers Fans Celebrate Owning The Disc After Controversial Update Censors The Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-14 21:53</span>
             </div>
         </div>
 </div>
@@ -338,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
