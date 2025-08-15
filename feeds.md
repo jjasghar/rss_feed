@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-15 09:01:54 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-15 10:01:46 UTC -->
 <!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, August 15, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, August 15, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/8/15/trump-faces-serious-risks-with-putins-maximalist?traffic_source=rss" target="_blank">Trump faces “serious risks” with Putin’s “maximalist demands”</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-15 09:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/15/nx-s1-5502460/trump-putin-alaska-summit-ukraine" target="_blank">Trump and Putin meet today in Anchorage. Here&#x27;s what to know</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-15 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +95,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c7541g6d191o?at_medium=RSS&at_campaign=rss" target="_blank">What do Alaskans make of the geopolitical circus arriving in their city?</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-15 05:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/environment/2025/aug/15/climate-crisis-harming-world-heritage-painted-houses-tiebele-in-burkina-faso-say-residents" target="_blank">Climate crisis harming world heritage painted houses in Burkina Faso, say residents</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-08-15 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/pam-bondi-4-epa-gmh-250811_1754928134342_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Bondi says DEA head is DC &#x27;emergency police commissioner&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124535213" target="_blank">Trump admin live updates: Bondi says DEA head is DC &#x27;emergency police commissioner&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-15 04:36</span>
             </div>
         </div>
 </div>
@@ -165,6 +162,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdrwo54i5p9pf86zps8l0.webp" alt="The Role of ICT Testers in PCB Manufacturing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/frank_1871bc3c55f35370df3/the-role-of-ict-testers-in-pcb-manufacturing-4pe8" target="_blank">The Role of ICT Testers in PCB Manufacturing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-15 09:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/infusing-ai-java/en/headerimage/infusing-ai-java-header-1754979423763.jpg" alt="Article: Infusing AI into your Java applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/infusing-ai-java/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Infusing AI into your Java applications</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-15 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkvgqkvudb3e8pe5rmceb.jpg" alt="How to implement multitasking scheduling mechanism on a microcontroller?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -198,24 +213,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/08/netflix-tudum-cqrs-raw-hollow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Netflix Revamps Tudum’s CQRS Architecture with RAW Hollow In-Memory Object Store</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-08-15 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jane_raymond_f401786819c2/lear-40lg" target="_blank">Lear</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-15 05:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy8g3sup03wywh54075k5.png" alt="Introduction to Banks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/madgan95/introduction-to-banks-4b3i" target="_blank">Introduction to Banks</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-15 03:13</span>
             </div>
         </div>
 </div>
@@ -328,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
