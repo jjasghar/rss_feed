@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-15 06:01:50 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-15 07:02:14 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, August 15, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, August 15, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/15/nx-s1-5502731/the-nepo-baby-premium-frothing-markets-and-apple-vs-apples" target="_blank">The nepo baby premium, frothing markets, and Apple vs. Apples</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-15 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7530/live/9d3f9ca0-79a2-11f0-83cc-c5da98c419b8.jpg" alt="What do Alaskans make of the geopolitical circus arriving in their city?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c7541g6d191o?at_medium=RSS&at_campaign=rss" target="_blank">What do Alaskans make of the geopolitical circus arriving in their city?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-15 05:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/pam-bondi-4-epa-gmh-250811_1754928134342_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Bondi says DEA head is DC &#x27;emergency police commissioner&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,29 +99,20 @@
                 <span class="time">2025-08-15 03:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/15/russia-ukraine-war-list-of-key-events-day-1268?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,268</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-15 00:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/14/g-s1-82681/venus-williams-u-s-open-oldest-player" target="_blank">At 45, Venus Williams will be the oldest player in the U.S. Open in decades</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-14 23:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" alt="Sealy Promo Code: Save $300 on Mattresses in August 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/sealy-promo-code/" target="_blank">Sealy Promo Code: Save $300 on Mattresses in August 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-15 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +156,6 @@
                 <span class="title"><a href="https://www.wired.com/story/ai-slop-is-ripping-off-one-of-summers-best-games-fighting-back-is-harder-than-you-think/" target="_blank">AI Slop Is Ripping Off One of Summer’s Best Games. Copycats Are Proving Hard to Kill</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-08-14 21:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/14/u-s-government-is-reportedly-in-discussions-to-take-stake-in-intel/" target="_blank">US government is reportedly in discussions to take stake in Intel</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-14 20:38</span>
             </div>
         </div>
 </div>
@@ -325,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
