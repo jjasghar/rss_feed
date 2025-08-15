@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-15 05:02:07 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-15 06:01:50 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, August 15, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, August 15, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/pam-bondi-4-epa-gmh-250811_1754928134342_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Bondi says DEA head is DC &#x27;emergency police commissioner&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124535213" target="_blank">Trump admin live updates: Bondi says DEA head is DC &#x27;emergency police commissioner&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-15 04:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +95,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/14/g-s1-82681/venus-williams-u-s-open-oldest-player" target="_blank">At 45, Venus Williams will be the oldest player in the U.S. Open in decades</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-14 23:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-putin-02-gty-jef-250814_1755173515024_hpMain_4x3t_384.jpg" alt="Trump-Putin summit live updates: Trump says Putin, Zelenskyy &#x27;will make peace&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-putin-meeting-summit-alaska/?id=124656413" target="_blank">Trump-Putin summit live updates: Trump says Putin, Zelenskyy &#x27;will make peace&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-14 23:13</span>
             </div>
         </div>
 </div>
@@ -175,6 +171,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/08/netflix-tudum-cqrs-raw-hollow/en/headerimage/generatedHeaderImage-1754230662911.jpg" alt="Netflix Revamps Tudum’s CQRS Architecture with RAW Hollow In-Memory Object Store" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/netflix-tudum-cqrs-raw-hollow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Netflix Revamps Tudum’s CQRS Architecture with RAW Hollow In-Memory Object Store</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-15 06:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jane_raymond_f401786819c2/lear-40lg" target="_blank">Lear</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-15 05:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy8g3sup03wywh54075k5.png" alt="Introduction to Banks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -199,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/agusrdz/making-long-coding-sessions-more-pleasant-the-story-behind-harmonia-theme-2390" target="_blank">🎨 Making Long Coding Sessions More Pleasant — The Story Behind Harmonia Theme</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-15 01:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/future_youtube/linus-tech-tips-ltt-i-broke-his-tv-within-5-minutesamd-5000-ultimate-tech-upgrade-517" target="_blank">Linus Tech Tips (LTT): I Broke his TV Within 5 Minutes...AMD $5000 Ultimate Tech Upgrade</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-15 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-august-15-2025-red-hat" target="_blank">Friday Five — August 15, 2025</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2025-08-15 00:00</span>
             </div>
         </div>
 </div>
@@ -329,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 295 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 294 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
