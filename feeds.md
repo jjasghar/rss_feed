@@ -1,32 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-08-15 11:01:35 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-15 12:01:59 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, August 15, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, August 15, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/15/mali-junta-arrests-generals-and-french-national-over-suspected-coup-plot" target="_blank">Mali’s junta arrests generals and French national over alleged coup plot</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-08-15 11:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/15/g-s1-82812/up-first-newsletter-putin-trump-summit-texas-democrats-crime-crackdown-left-leaning-communities" target="_blank">What to know ahead of Trump-Putin summit. And, Texas Democrats could end boycott</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-15 11:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +95,20 @@
                 <span class="time">2025-08-15 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/8/15/photos-putins-25-year-legacy-with-us-presidents-in-pictures?traffic_source=rss" target="_blank">Photos: Putin’s 25-year legacy with US presidents</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-15 08:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/15/hong-kong-tycoon-jimmy-lais-trial-delayed-over-health-concerns?traffic_source=rss" target="_blank">Hong Kong tycoon Jimmy Lai’s trial delayed over health concerns</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-15 07:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/689e54a079181443eae5ff00/master/pass/Review-%20Dyson%20Airwrap%20Co-anda%202x.png" alt="Dyson Airwrap Co-anda 2x Review: Great, Not a Must-Have" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/dyson-airwrap-co-anda2x/" target="_blank">Dyson Airwrap Co-anda 2x Review: Great, Not a Must-Have</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-15 11:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,15 +150,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/759839/fortnite-down-login-rocket-league-fall-guys" target="_blank">Fortnite login is back after an outage</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-15 00:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/759839/fortnite-down-login-rocket-league-fall-guys" target="_blank">Fortnite login is mostly back after an outage</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-08-15 00:07</span>
             </div>
@@ -212,20 +211,6 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/08/15/the-future-of-vue-is-you-and-you/" target="_blank">The future of Vue is you (and You)</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-08-15 07:40</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/llm-coding-integrity-breach.html" target="_blank">LLM Coding Integrity Breach</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-08-14 11:08</span>
             </div>
         </div>
 </div>
@@ -333,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 41 | 📸 With Images: 288 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
