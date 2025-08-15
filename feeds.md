@@ -1,41 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-08-15 17:01:32 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-15 18:01:51 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, August 15, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, August 15, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/15/nx-s1-5496326/the-rainmaker-john-grisham-the-pelican-brief-the-firm" target="_blank">Some John Grisham adaptations are better than others. We ranked them</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-15 17:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/summit-1-rt-gmh-250815_1755273016936_hpMain_4x3t_384.jpg" alt="Trump-Putin meeting live updates: Trump ‘would walk’ if summit doesn’t go well" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -96,20 +95,29 @@
                 <span class="time">2025-08-15 14:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf33/live/c6a62b70-79d1-11f0-ab3e-bd52082cd0ae.jpg" alt="King hails veterans&#x27; courage and sacrifice on VJ Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y0lnzpqjgo?at_medium=RSS&at_campaign=rss" target="_blank">King hails veterans&#x27; courage and sacrifice on VJ Day</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-15 13:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/689a19ecddceece04e84fa2f/master/pass/chatgpt5-hate-biz-2228998627-1193951547.jpg" alt="Developers Say GPT-5 Is a Mixed Bag" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/gpt-5-coding-review-software-engineering/" target="_blank">Developers Say GPT-5 Is a Mixed Bag</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-15 17:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2164099761-500x500.jpg" alt="Is GPT-5 really worse than GPT-4o? Ars puts them to the test." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/08/is-gpt-5-really-worse-than-gpt-4o-ars-puts-them-to-the-test/" target="_blank">Is GPT-5 really worse than GPT-4o? Ars puts them to the test.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-15 17:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,29 +154,20 @@
                 <span class="time">2025-08-15 14:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/03_Acura-RSX-Prototype_Passenger-Front-2-500x500.jpg" alt="Here’s Acura’s next all-electric RSX crossover" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/08/acura-unveils-next-rdx-crossover-will-feature-asimo-os/" target="_blank">Here’s Acura’s next all-electric RSX crossover</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-15 13:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/the-vergecast/759768/gpt5-backlash-vibe-coding-attempts-corporate-stunts" target="_blank">Vibe coding through the GPT-5 mess</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-15 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/update.jpg?resize=406%2C232&amp;ssl=1" alt="Mini Floating Panel Extension Adds Sought-After Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/mini-floating-panel-gnome-extension-update-indicators-scrolling" target="_blank">Mini Floating Panel Extension Adds Sought-After Features</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-15 16:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/mini-floating-panel-thumb.jpg?resize=406%2C232&amp;ssl=1" alt="Mini Floating Panel GNOME Extension Adds Much-Requested Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -176,6 +175,15 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/mini-floating-panel-gnome-extension-update-indicators-scrolling" target="_blank">Mini Floating Panel GNOME Extension Adds Much-Requested Features</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-08-15 16:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.openculture.com/2025/08/2178-occult-books-now-digitized-put-online.html" target="_blank">Occult books digitized and put online by Amsterdam’s Ritman Library</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-15 16:03</span>
             </div>
         </div>
 <div class="story">
@@ -205,24 +213,6 @@
                 <span class="time">2025-08-15 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18560221&w=600" alt="Virtualized Containers vs. Bare Metal: The Winner Is…" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/virtualized-containers-vs-bare-metal" target="_blank">Virtualized Containers vs. Bare Metal: The Winner Is…</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-15 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18560209&w=600" alt="Amazon EMRFS vs HDFS: Which One is Right for Your Big Data Needs?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/amazon-emrfs-vs-hdfs" target="_blank">Amazon EMRFS vs HDFS: Which One is Right for Your Big Data Needs?</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-15 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/hed13.jpg" alt="Everything You’d Want To Know About Lies Of P’s DLC, Overture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/lies-of-p-dlc-weapons-bosses-hltb-prequel-expansion-2000618041" target="_blank">Everything You’d Want To Know About Lies Of P’s DLC, Overture</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-15 17:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/Trump-and-Musk-street-art-spotted-in-Bisbee2C-AZ.jpg?fit=1080%2C1163&amp;quality=60&amp;ssl=1" alt="Trump and Musk kiss and make up as president slashes rocket regulations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +284,6 @@
                 <span class="title"><a href="https://gizmodo.com/open-sourced-ai-models-may-be-more-costly-in-the-long-run-study-finds-2000643685" target="_blank">Open-Sourced AI Models May Be More Costly in the Long Run, Study Finds</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-15 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Mission-Impossible-Tom-Cruise-camera.jpg" alt="Tom Cruise Loves Watching Tom Cruise Get Hurt In ‘Mission Impossible’ Movies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/mission-impossible-final-reckoning-commentary-tom-cruise-clip-2000643203" target="_blank">Tom Cruise Loves Watching Tom Cruise Get Hurt In ‘Mission Impossible’ Movies</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-15 15:00</span>
             </div>
         </div>
 </div>
@@ -342,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
