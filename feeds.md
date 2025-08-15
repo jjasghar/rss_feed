@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-15 18:01:51 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-15 19:01:28 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, August 15, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, August 15, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/08/15/nx-s1-5498787/embryos-small-but-mighty-first-live-videos-show" target="_blank">Embryos small but mighty, first live videos show</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-15 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/15/israeli-police-make-arrests-at-rally-for-slain-al-jazeera-journalists?traffic_source=rss" target="_blank">Israeli police make arrests at rally for slain Al Jazeera journalists</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-15 17:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,24 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/15/taliban-marks-fourth-anniversary-of-return-to-power-with-internal-threats?traffic_source=rss" target="_blank">Taliban marks fourth anniversary of return to power with internal threats</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-15 16:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/15/mallorca-vs-barcelona-la-liga-teams-start-lineups?traffic_source=rss" target="_blank">Mallorca vs Barcelona: La Liga – teams, start, lineups</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-15 14:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/15/african-union-true-size-world-map-replace-mercator-version" target="_blank">African Union joins calls to end use of Mercator map that shrinks continent’s size</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-08-15 14:01</span>
             </div>
         </div>
 </div>
@@ -160,6 +167,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/noel_kamphoa_e688aece0725/exception-hierarchy-in-java-checked-unchecked-and-errors-1f45" target="_blank">Exception Hierarchy in Java: Checked, Unchecked, and Errors</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-15 18:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18560300&w=600" alt="Green DevOps: Building Sustainable Pipelines and Energy-Aware Cloud Deployments" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/green-devops-sustainable-ci-cd-cloud" target="_blank">Green DevOps: Building Sustainable Pipelines and Energy-Aware Cloud Deployments</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-15 18:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/update.jpg?resize=406%2C232&amp;ssl=1" alt="Mini Floating Panel Extension Adds Sought-After Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -195,24 +220,6 @@
                 <span class="time">2025-08-15 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vengat2505/day-1-data-analytics-progress-4k25" target="_blank">Day 1 Data Analytics Progress📈</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-15 14:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-crimson-desert-13-minutes-of-gameplay-2di9" target="_blank">IGN: Crimson Desert - 13 Minutes of Gameplay</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-15 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Ne-Zha.jpg" alt="Feast Your Eyes on the Lavish Backdrops of ‘Ne Zha 2’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/feast-your-eyes-on-the-lavish-backdrops-of-ne-zha-2-2000643631" target="_blank">Feast Your Eyes on the Lavish Backdrops of ‘Ne Zha 2’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-15 18:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/noem.jpg?fit=1200%2C809&amp;quality=60&amp;ssl=1" alt="Kristi Noem finds free waterfront housing by pulling rank on Coast Guard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/15/kristi-noem-finds-free-waterfront-housing-by-pulling-rank-on-coast-guard.html" target="_blank">Kristi Noem finds free waterfront housing by pulling rank on Coast Guard</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-15 17:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/hed13.jpg" alt="Everything You’d Want To Know About Lies Of P’s DLC, Overture" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,29 +293,20 @@
                 <span class="time">2025-08-15 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/roblox.jpg" alt="Roblox Is Being Sued By The State Of Louisiana" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/roblox-sued-louisiana-brainrot-grow-a-garden-hellscape-2000618002" target="_blank">Roblox Is Being Sued By The State Of Louisiana</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-15 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/10/CharacterAI.jpg" alt="Open-Sourced AI Models May Be More Costly in the Long Run, Study Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/open-sourced-ai-models-may-be-more-costly-in-the-long-run-study-finds-2000643685" target="_blank">Open-Sourced AI Models May Be More Costly in the Long Run, Study Finds</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-15 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/08/15/the-undertaken" target="_blank">The Undertaken</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-08-15 17:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1755141159-20250815.png" alt="Saturday Morning Breakfast Cereal - Turn" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -332,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
