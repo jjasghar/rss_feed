@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-15 23:01:39 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-16 00:04:51 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, August 15, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, August 16, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -175,6 +174,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-49-Beta" target="_blank">GNOME 49 Beta Ships Many Last Minute Features - Including Greater systemd Reliance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-15 22:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/review/linux-617-features" target="_blank">Linux 6.17 Features: Great Intel Graphics Improvements, AMD HFI, Attack Vector Controls + Lenovo Gaming Drivers</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-15 20:15</span>
@@ -205,15 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Wine-10.13-Released" target="_blank">Wine 10.13 Released With One Month Worth Of Improvements</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-15 19:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18559346&w=600" alt="Java JEP 400 Explained: Why UTF-8 Became the Default Charset" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/java-jep-400-default-utf8-charset" target="_blank">Java JEP 400 Explained: Why UTF-8 Became the Default Charset</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-15 19:00</span>
             </div>
         </div>
 </div>
@@ -254,6 +253,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K2QJXJH3BBRM3ED6RH1M42WF/hero-image.png" alt="If You Have One of These ESR Power Banks, Stop Using It ASAP" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/esr-power-bank-recall?utm_medium=RSS" target="_blank">If You Have One of These ESR Power Banks, Stop Using It ASAP</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-15 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/KWGMAIN.jpg" alt="Kotaku’s Weekend Guide: 5 Great Games We Can’t Wait To Get Back To" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/kotaku-games-to-play-ovis-loop-off-silent-hill-football-26-2000618113" target="_blank">Kotaku’s Weekend Guide: 5 Great Games We Can’t Wait To Get Back To</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-15 21:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/prompt-decks.jpg?fit=1200%2C651&amp;quality=60&amp;ssl=1" alt="Seth Godin&#x27;s AI-powered &quot;Prompt Decks&quot; launch on Kickstarter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/15/seth-godins-ai-powered-prompt-decks-launch-on-kickstarter.html" target="_blank">Seth Godin&#x27;s AI-powered &quot;Prompt Decks&quot; launch on Kickstarter</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-15 21:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Ne-Zha.jpg" alt="Feast Your Eyes on the Lavish Backdrops of ‘Ne Zha 2’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -278,33 +304,6 @@
                 <span class="title"><a href="https://kotaku.com/lies-of-p-dlc-weapons-bosses-hltb-prequel-expansion-2000618041" target="_blank">Everything You’d Want To Know About Lies Of P’s DLC, Overture</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-15 17:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/Trump-and-Musk-street-art-spotted-in-Bisbee2C-AZ.jpg?fit=1080%2C1163&amp;quality=60&amp;ssl=1" alt="Trump and Musk kiss and make up as president slashes rocket regulations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/15/trump-and-musk-kiss-and-make-up-as-president-slashes-rocket-regulations.html" target="_blank">Trump and Musk kiss and make up as president slashes rocket regulations</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-15 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/screenshot021.jpg" alt="Everything You’d Want To Know About Switch 2 Racer Fast Fusion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/switch-2-eshop-games-fast-fusion-how-long-tracks-machines-2000618031" target="_blank">Everything You’d Want To Know About Switch 2 Racer Fast Fusion</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-15 16:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K2Q63ATACZGFXGV7WC0CKHZB/hero-image.jpg" alt="Google Is Rolling Out an iPhone-Like &#x27;Calling Card&#x27; Feature" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-is-rolling-out-an-iphone-like-calling-card-feature?utm_medium=RSS" target="_blank">Google Is Rolling Out an iPhone-Like &#x27;Calling Card&#x27; Feature</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-15 16:30</span>
             </div>
         </div>
 </div>
@@ -362,8 +361,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
