@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-16 10:01:43 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-16 11:01:34 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, August 16, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, August 16, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e9c/live/c7c51340-7a71-11f0-a34f-318be3fb0481.jpg" alt="Trump touts peace deal after leaving Alaska without ceasefire pact" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce836yz8r69o?at_medium=RSS&at_campaign=rss" target="_blank">Trump touts peace deal after leaving Alaska without ceasefire pact</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-16 10:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/summit-73-gty-gmh-250815_1755304144881_hpMain_4x3t_384.jpg" alt="Trump-Putin meeting live updates: Zelenskyy to travel to DC Monday to meet with Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,20 +98,20 @@
                 <span class="time">2025-08-16 07:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/8/16/why-is-south-africas-army-chief-under-fire-for-backing-iran?traffic_source=rss" target="_blank">Why is South Africa’s army chief under fire for backing Iran?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-16 05:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/689fb47b7a90a2c08263e4a6/master/pass/Gear%20News%20of%20the%20Week-%20A%20New%20Privacy%20Phone%20Arrives,%20and%20Samsung%20Unveils%20a%20115-Inch%20Micro%20RGB%20TV.png" alt="Gear News of the Week: A New Privacy Phone Arrives, and Samsung Has a $30K 115-Inch Micro RGB TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/gear-news-of-the-week-a-new-privacy-phone-arrives-and-samsung-has-a-115-inch-micro-rgb-tv/" target="_blank">Gear News of the Week: A New Privacy Phone Arrives, and Samsung Has a $30K 115-Inch Micro RGB TV</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-16 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +157,29 @@
                 <span class="time">2025-08-15 20:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/ship37staticfire-500x500.jpg" alt="SpaceX reveals why the last two Starships failed as another launch draws near" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/08/spacex-reveals-why-the-last-two-starships-failed-as-another-launch-draws-near/" target="_blank">SpaceX reveals why the last two Starships failed as another launch draws near</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-15 20:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Disks-More-Rust" target="_blank">GNOME Disks Continues Being Ported To Rust</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-16 10:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyf3up75w6qn9kzjiw88q.png" alt="Trackable Flask API using EventSource" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/adrianluong/trackable-flask-api-using-eventsource-365f" target="_blank">Trackable Flask API using EventSource</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-16 10:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F435q80fnypa8ga1amyq2.png" alt="Localhost HTTPS: 3 Easy Ways to Secure Your Local Development Server" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -194,24 +214,6 @@
                 <span class="title"><a href="https://putty.software/" target="_blank">PuTTY has a new website</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-16 03:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/abhishek-nexgen-dev/generative-ai-with-javascript-full-course-32f7" target="_blank">🧠 Generative AI with JavaScript – Full Course</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-16 03:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/kiro-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Kiro (Agentic AI) Limits Downloads, Introduces Paid Tiers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/kiro-agentic-ai-usage-limits-arrive" target="_blank">Kiro (Agentic AI) Limits Downloads, Introduces Paid Tiers</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-16 02:54</span>
             </div>
         </div>
 </div>
@@ -333,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
