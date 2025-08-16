@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-16 20:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-16 21:01:33 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, August 16, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, August 16, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/16/yamal-and-raphinha-fire-barcelona-to-la-liga-opening-win-in-mallorca?traffic_source=rss" target="_blank">Yamal and Raphinha fire Barcelona to La Liga opening win at Mallorca</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-16 20:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1b7/live/028abce0-7ac8-11f0-8e51-edf1023f34e4.jpg" alt="Trump shifts ceasefire stance and urges Ukraine to agree Russia peace deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,15 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/16/nx-s1-5504144/immigration-arrests-dip-in-july-and-activists-hope-theyre-partly-responsible" target="_blank">Immigration arrests dip in July, and activists hope they&#x27;re partly responsible</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-16 15:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b083/live/db40cfb0-7a9c-11f0-a69a-95efe7e2a480.jpg" alt="End of Ukraine war &#x27;closer than ever&#x27; thanks to Trump, says Starmer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c78mve9209ro?at_medium=RSS&at_campaign=rss" target="_blank">End of Ukraine war &#x27;closer than ever&#x27; thanks to Trump, says Starmer</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-16 13:20</span>
             </div>
         </div>
 </div>
@@ -191,6 +194,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://derwiki.medium.com/do-things-that-dont-scale-and-then-don-t-scale-9fd2cd7e2156" target="_blank">Do things that don&#x27;t scale, and then don&#x27;t scale</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-16 17:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/goodluck_ekeoma_2c98866d0/cicd-with-github-actions-a-practical-end-to-end-tutorial-3p26" target="_blank">CI/CD With GitHub Actions — A Practical, End‑to‑End Tutorial</a></span>
                 <span class="feed">DEV Community</span>
@@ -204,15 +216,6 @@
                 <span class="title"><a href="https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/" target="_blank">Payment Processor Fun 2025 – Making Your Own Merchant Service Provider</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-16 15:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/oracle-aws-exadata/en/headerimage/generatedHeaderImage-1754197064823.jpg" alt="Oracle Brings Database Services Directly to AWS Cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/oracle-aws-exadata/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Oracle Brings Database Services Directly to AWS Cloud</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-16 14:56</span>
             </div>
         </div>
 </div>
@@ -234,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/angels-egg-hed.jpg" alt="Classic Anime Flick ‘Angel’s Egg’ Hits Theaters in November" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/classic-anime-flick-angels-egg-hits-theaters-in-november-2000643992" target="_blank">Classic Anime Flick ‘Angel’s Egg’ Hits Theaters in November</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-16 20:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/hed16.jpg" alt="How Long Is Donkey Kong Bananza?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +291,6 @@
                 <span class="time">2025-08-16 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/Liver-King.jpg" alt="Liver King Accused of Breaking Blood-Bound Contract He Insisted Upon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/liver-king-accused-of-breaking-blood-bound-contract-he-insisted-upon-2000643897" target="_blank">Liver King Accused of Breaking Blood-Bound Contract He Insisted Upon</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-16 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -307,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
