@@ -1,40 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-16 15:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-16 16:01:40 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, August 16, 2025 - 15:01 UTC</div>
+    <div class="newspaper-date">Saturday, August 16, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -96,10 +96,10 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e9c/live/c7c51340-7a71-11f0-a34f-318be3fb0481.jpg" alt="Trump touts peace deal after leaving Alaska without ceasefire pact" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbf/live/b4429e70-7aa6-11f0-ab3e-bd52082cd0ae.jpg" alt="Trump pursues peace deal after leaving Alaska without ceasefire pact" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce836yz8r69o?at_medium=RSS&at_campaign=rss" target="_blank">Trump touts peace deal after leaving Alaska without ceasefire pact</a></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce836yz8r69o?at_medium=RSS&at_campaign=rss" target="_blank">Trump pursues peace deal after leaving Alaska without ceasefire pact</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-16 10:39</span>
             </div>
@@ -109,6 +109,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/760131/google-pixel-9-pro-fold-lenovo-legion-go-s-deal-sale" target="_blank">The Pixel 9 Pro Fold is $600 off ahead of the new model’s debut</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-16 14:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/689ff4886359164ec162f6c0/master/pass/The%20Best%20At-Home%20Pet%20DNA%20Test%20Kits,%20Tested%20on%20My%20Cats.png" alt="I Tried the Best At-Home Pet DNA Test Kits on My Two Cats (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,20 +163,38 @@
                 <span class="time">2025-08-16 10:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/15/winklevoss-twins-crypto-company-gemini-files-for-ipo/" target="_blank">Winklevoss twins’ crypto company Gemini files for IPO</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-16 00:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/goodluck_ekeoma_2c98866d0/cicd-with-github-actions-a-practical-end-to-end-tutorial-3p26" target="_blank">CI/CD With GitHub Actions — A Practical, End‑to‑End Tutorial</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-16 15:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/" target="_blank">Payment Processor Fun 2025 – Making Your Own Merchant Service Provider</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-16 15:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/08/oracle-aws-exadata/en/headerimage/generatedHeaderImage-1754197064823.jpg" alt="Oracle Brings Database Services Directly to AWS Cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/oracle-aws-exadata/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Oracle Brings Database Services Directly to AWS Cloud</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-16 14:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fklal2dsn3optx2h2yo79.png" alt="Make In A Day: Hovertank One" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -181,45 +208,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Disks-More-Rust" target="_blank">GNOME Disks Continues Being Ported To Rust</a></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.16.1-Fixes-Intel-i915" target="_blank">Linux 6.16.1 Fixes A Large Intel GPU Driver Performance Regression - Up To 30%</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2025-08-16 10:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyf3up75w6qn9kzjiw88q.png" alt="Trackable Flask API using EventSource" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/adrianluong/trackable-flask-api-using-eventsource-365f" target="_blank">Trackable Flask API using EventSource</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-16 10:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/roblox-sentinel-classifier/en/headerimage/roblox-sentinel-ai-1755330268445.jpeg" alt="Roblox Open-sources AI System to Detect Conversations Potentially Harmful to Kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/roblox-sentinel-classifier/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Roblox Open-sources AI System to Detect Conversations Potentially Harmful to Kids</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-16 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F435q80fnypa8ga1amyq2.png" alt="Localhost HTTPS: 3 Easy Ways to Secure Your Local Development Server" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/robbiecahill/localhost-https-3-easy-ways-to-secure-your-local-development-server-35i7" target="_blank">Localhost HTTPS: 3 Easy Ways to Secure Your Local Development Server</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-16 08:51</span>
+                <span class="time">2025-08-16 12:53</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.seangoedecke.com/good-system-design/" target="_blank">Everything I know about good system design</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-16 07:38</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Disks-More-Rust" target="_blank">GNOME Disks Continues Being Ported To Rust</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-16 10:45</span>
             </div>
         </div>
 </div>
@@ -250,6 +250,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/hed14.jpg" alt="With Gears Of War: Reloaded Emerging On PS5 Soon, Will It Support Crossplay?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gears-of-war-reloaded-crossplay-cross-save-progression-ps5-xbox-2000618072" target="_blank">With Gears Of War: Reloaded Emerging On PS5 Soon, Will It Support Crossplay?</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-16 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/hed-my-image.jpg" alt="You Can Knock Out This Fun 3D Platformer In Under 10 Hours" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -295,20 +304,20 @@
                 <span class="time">2025-08-16 00:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K2QJXJH3BBRM3ED6RH1M42WF/hero-image.png" alt="If You Have One of These ESR Power Banks, Stop Using It ASAP" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/esr-power-bank-recall?utm_medium=RSS" target="_blank">If You Have One of These ESR Power Banks, Stop Using It ASAP</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-15 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1755141363-20250816.png" alt="Saturday Morning Breakfast Cereal - Die" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/die-2" target="_blank">Saturday Morning Breakfast Cereal - Die</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-08-16 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -318,22 +327,13 @@
                 <span class="time">2025-08-15 17:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1755141159-20250815.png" alt="Saturday Morning Breakfast Cereal - Turn" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/turn" target="_blank">Saturday Morning Breakfast Cereal - Turn</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-08-15 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
