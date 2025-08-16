@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-16 00:04:51 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-16 01:29:04 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, August 16, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, August 16, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/15/nx-s1-5496721/california-texas-trump-newsom-redistricting" target="_blank">California Democrats unveil their new congressional map to counter Republicans</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-16 01:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/summit-73-gty-gmh-250815_1755304144881_hpMain_4x3t_384.jpg" alt="Trump-Putin meeting live updates: No ceasefire announced, Trump says &#x27;great progress&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-putin-meeting-summit-alaska/?id=124656413" target="_blank">Trump-Putin meeting live updates: No ceasefire announced, Trump says &#x27;great progress&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-16 00:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +99,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/trump-and-putin-briefly-face-cameras-at-beginning-of-alaska-summit-245092933846" target="_blank">Trump and Putin briefly face cameras at beginning of Alaska summit</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-08-15 19:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-putin-summit-abc-jef-250815_1755266777721_hpMain_4x3t_384.jpg" alt="LIVE:  Trump, Putin meet in Alaska for high-stakes summit: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Trump, Putin meet in Alaska for high-stakes summit: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-15 19:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/08/15/nx-s1-5498787/embryos-small-but-mighty-first-live-videos-show" target="_blank">Embryos small but mighty, first live videos show</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-15 18:00</span>
             </div>
         </div>
 </div>
@@ -191,6 +195,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://tylercipriani.com/blog/2025/08/15/git-lfs/" target="_blank">The future of large files in Git is Git</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-15 20:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gg_news/ign-better-than-dead-official-announcement-trailer-4fid" target="_blank">IGN: Better Than Dead - Official Announcement Trailer</a></span>
                 <span class="feed">DEV Community</span>
@@ -204,15 +217,6 @@
                 <span class="title"><a href="https://dzone.com/articles/agentic-app-firebase-generative-ai-office-automation" target="_blank">My First Practical Agentic App: Using Firebase and Generative AI to Automate Office Tasks</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-08-15 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wine-10.13-Released" target="_blank">Wine 10.13 Released With One Month Worth Of Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-15 19:04</span>
             </div>
         </div>
 </div>
@@ -347,22 +351,13 @@
                 <span class="time">2025-08-15 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5636.png" alt="Loading Zone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5636" target="_blank">Loading Zone</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-08-15 01:10</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
