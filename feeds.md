@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-16 09:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-16 10:01:43 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, August 16, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, August 16, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/summit-73-gty-gmh-250815_1755304144881_hpMain_4x3t_384.jpg" alt="Trump-Putin meeting live updates: Zelenskyy to travel to DC Monday to meet with Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-putin-meeting-summit-alaska/?id=124656413" target="_blank">Trump-Putin meeting live updates: Zelenskyy to travel to DC Monday to meet with Trump</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-16 09:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/16/trump-putin-summit-ends-with-no-ceasefire-deal?traffic_source=rss" target="_blank">Trump-Putin summit ends with no ceasefire deal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-16 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2025/8/16/why-is-south-africas-army-chief-under-fire-for-backing-iran?traffic_source=rss" target="_blank">Why is South Africa’s army chief under fire for backing Iran?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-16 05:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e3b/live/8ceee5b0-7a59-11f0-a34f-318be3fb0481.jpg" alt="Afghans resettled in UK hit by new data breach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce87nyr3evro?at_medium=RSS&at_campaign=rss" target="_blank">Afghans resettled in UK hit by new data breach</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-16 02:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/16/we-didnt-get-there-trump-and-putin-ukraine-meeting-falls?traffic_source=rss" target="_blank">“We didn’t get there” – Trump and Putin Ukraine meeting falls short</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-16 01:19</span>
             </div>
         </div>
 </div>
@@ -258,6 +252,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/TCL-D2-Pro-smart-lock-review-7.jpg" alt="TCL D2 Pro Review: This Fast Palm-Scanning Smart Lock Is No Jedi Mind Trick" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tcl-d2-pro-review-this-fast-palm-scanning-smart-lock-is-no-jedi-mind-trick-2000626049" target="_blank">TCL D2 Pro Review: This Fast Palm-Scanning Smart Lock Is No Jedi Mind Trick</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-16 10:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Looney-Tunes-Warner-Bros.-Animation.jpg" alt="HBO Max’s ‘Looney Tunes’ Purge Has Found a Sanctuary in Tubi" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -302,15 +305,6 @@
                 <span class="time">2025-08-15 18:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/noem.jpg?fit=1200%2C809&amp;quality=60&amp;ssl=1" alt="Kristi Noem finds free waterfront housing by pulling rank on Coast Guard" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/15/kristi-noem-finds-free-waterfront-housing-by-pulling-rank-on-coast-guard.html" target="_blank">Kristi Noem finds free waterfront housing by pulling rank on Coast Guard</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-15 17:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -339,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
