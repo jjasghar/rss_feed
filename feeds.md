@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-16 21:01:33 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-16 22:01:37 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, August 16, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, August 16, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,9 +112,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/16/judge-says-ftc-investigation-into-media-matters-should-alarm-all-americans/" target="_blank">Judge says FTC investigation into Media Matters ‘should alarm all Americans’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-16 20:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/08/16/ai-powered-stuffed-animals-are-coming-for-your-kids/" target="_blank">AI-powered stuffed animals are coming for your kids</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-08-16 19:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/horrorTOP-500x500-1754745298.jpg" alt="Celebrating 50 years of The Rocky Horror Picture Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/08/celebrating-50-years-of-the-rocky-horror-picture-show/" target="_blank">Celebrating 50 years of The Rocky Horror Picture Show</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-16 19:26</span>
             </div>
         </div>
 <div class="story">
@@ -141,29 +162,20 @@
                 <span class="time">2025-08-16 15:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/760131/google-pixel-9-pro-fold-lenovo-legion-go-s-deal-sale" target="_blank">The Pixel 9 Pro Fold is $600 off ahead of the new model’s debut</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-16 14:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689ff4886359164ec162f6c0/master/pass/The%20Best%20At-Home%20Pet%20DNA%20Test%20Kits,%20Tested%20on%20My%20Cats.png" alt="I Tried the Best At-Home Pet DNA Test Kits on My Two Cats (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-pet-dna-tests/" target="_blank">I Tried the Best At-Home Pet DNA Test Kits on My Two Cats (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-16 14:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F775%2Fb53040cb-edbb-4c37-94ec-96bae8c67084.jpg" alt="MCP/Tools Are Not REST API: Here&#x27;s a Better Design" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pmbanugo/mcptools-are-not-rest-api-heres-a-better-design-364n" target="_blank">MCP/Tools Are Not REST API: Here&#x27;s a Better Design</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-16 21:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,29 +219,6 @@
                 <span class="title"><a href="https://dev.to/goodluck_ekeoma_2c98866d0/cicd-with-github-actions-a-practical-end-to-end-tutorial-3p26" target="_blank">CI/CD With GitHub Actions — A Practical, End‑to‑End Tutorial</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-16 15:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://voidfox.com/blog/payment_processor_fun_2025_making_your_own_msp/" target="_blank">Payment Processor Fun 2025 – Making Your Own Merchant Service Provider</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-16 15:01</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-squid-shaped-ufo-spotted-over-texas.html" target="_blank">Friday Squid Blogging: Squid-Shaped UFO Spotted Over Texas</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-08-15 21:07</span>
             </div>
         </div>
 </div>
@@ -310,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
