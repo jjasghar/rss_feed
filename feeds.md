@@ -1,37 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-08-16 02:30:55 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-16 03:21:42 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, August 16, 2025 - 02:31 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, August 16, 2025 - 03:21 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +113,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/15/winklevoss-twins-crypto-company-gemini-files-for-ipo/" target="_blank">Winklevoss twins’ crypto company Gemini files for IPO</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-16 00:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/politics/760269/laura-loomer-deposition" target="_blank">Laura Loomer and the limits of posting everything</a></span>
                 <span class="feed">The Verge</span>
@@ -151,20 +164,29 @@
                 <span class="time">2025-08-15 20:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/15/tiktoks-new-guidelines-add-subtle-changes-for-live-creators-ai-content-and-more/" target="_blank">TikTok’s new guidelines add subtle changes for LIVE creators, AI content, and more</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-15 19:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/abhishek-nexgen-dev/generative-ai-with-javascript-full-course-32f7" target="_blank">🧠 Generative AI with JavaScript – Full Course</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-16 03:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/07/kiro-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Kiro (Agentic AI) Limits Downloads, Introduces Paid Tiers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/kiro-agentic-ai-usage-limits-arrive" target="_blank">Kiro (Agentic AI) Limits Downloads, Introduces Paid Tiers</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-16 02:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,24 +221,6 @@
                 <span class="title"><a href="https://www.phoronix.com/review/linux-617-features" target="_blank">Linux 6.17 Features: Great Intel Graphics Improvements, AMD HFI, Attack Vector Controls + Lenovo Gaming Drivers</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-15 20:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://tylercipriani.com/blog/2025/08/15/git-lfs/" target="_blank">The future of large files in Git is Git</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-15 20:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-better-than-dead-official-announcement-trailer-4fid" target="_blank">IGN: Better Than Dead - Official Announcement Trailer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-15 20:01</span>
             </div>
         </div>
 </div>
@@ -356,8 +360,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 02:31 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 03:21 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
