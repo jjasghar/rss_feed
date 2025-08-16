@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-16 08:01:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-16 09:01:34 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, August 16, 2025 - 08:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, August 16, 2025 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/16/nx-s1-5504593/world-reacts-trump-putin-summit" target="_blank">Hope and disappointment as world reacts to Trump-Putin summit</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-16 08:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e9c/live/c7c51340-7a71-11f0-a34f-318be3fb0481.jpg" alt="Trump and Putin leave Alaska with no Ukraine deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce836yz8r69o?at_medium=RSS&at_campaign=rss" target="_blank">Trump and Putin leave Alaska with no Ukraine deal</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-16 07:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,24 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/16/we-didnt-get-there-trump-and-putin-ukraine-meeting-falls?traffic_source=rss" target="_blank">“We didn’t get there” – Trump and Putin Ukraine meeting falls short</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-16 01:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/15/nx-s1-5496721/california-texas-trump-newsom-redistricting" target="_blank">California Democrats unveil their new congressional map to counter Republicans</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-16 01:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/summit-73-gty-gmh-250815_1755304144881_hpMain_4x3t_384.jpg" alt="Trump-Putin meeting live updates: No ceasefire announced, Trump says &#x27;great progress&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-putin-meeting-summit-alaska/?id=124656413" target="_blank">Trump-Putin meeting live updates: No ceasefire announced, Trump says &#x27;great progress&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-16 00:52</span>
             </div>
         </div>
 </div>
@@ -160,6 +167,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F435q80fnypa8ga1amyq2.png" alt="Localhost HTTPS: 3 Easy Ways to Secure Your Local Development Server" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/robbiecahill/localhost-https-3-easy-ways-to-secure-your-local-development-server-35i7" target="_blank">Localhost HTTPS: 3 Easy Ways to Secure Your Local Development Server</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-16 08:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.seangoedecke.com/good-system-design/" target="_blank">Everything I know about good system design</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-16 07:38</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -193,24 +218,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/kiro-agentic-ai-usage-limits-arrive" target="_blank">Kiro (Agentic AI) Limits Downloads, Introduces Paid Tiers</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-08-16 02:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/darkedges/finally-testing-the-solution-3bkb" target="_blank">Finally testing the solution</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-16 02:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbjpi4nsmw1em2tzxechw.png" alt="AI Assistant ChatBot — Full Control: My WordPress Plugin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/amarire-dev/ai-assistant-chatbot-full-control-my-wordpress-plugin-2fa5" target="_blank">AI Assistant ChatBot — Full Control: My WordPress Plugin</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-15 22:26</span>
             </div>
         </div>
 </div>
@@ -332,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 08:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
