@@ -1,38 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-08-16 18:01:42 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-16 19:01:32 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, August 16, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, August 16, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +98,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/20252281710_GOES19-ABI-taw-GEOCOLOR-1800x1080-1-500x500.jpg" alt="Rapidly intensifying Hurricane Erin becomes historic storm due to strengthening" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/08/hurricane-erin-sets-early-season-intensification-record-becomes-category-5-storm/" target="_blank">Rapidly intensifying Hurricane Erin becomes historic storm due to strengthening</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-16 17:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/20252281710_GOES19-ABI-taw-GEOCOLOR-1800x1080-1-500x500.jpg" alt="Hurricane Erin sets early season intensification record, becomes Category 5 storm" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -152,20 +151,20 @@
                 <span class="time">2025-08-16 13:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/760213/dead-take-review-fmv-horror-game-ben-starr" target="_blank">Dead Take’s best scares come from real-life performances</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-16 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vishva_murthy_4480fcb3d83/openais-gpt-oss-llm-models-unlocking-the-future-of-open-ai-29c0" target="_blank">OpenAI&#x27;s GPT-OSS LLM Models: Unlocking the Future of Open AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-16 18:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9oj8o83cjfgx5mpphoxd.png" alt="Building ViberSpace with Kiro: AI-Powered Freelance, Reinvented" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +210,6 @@
                 <span class="time">2025-08-16 12:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.16.1-Fixes-Intel-i915" target="_blank">Linux 6.16.1 Fixes A Large Intel GPU Driver Performance Regression - Up To 30%</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-16 12:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,15 +222,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-squid-shaped-ufo-spotted-over-texas.html" target="_blank">Friday Squid Blogging: Squid-Shaped UFO Spotted Over Texas</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2025-08-15 21:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/08/mobile-phishers-target-brokerage-accounts-in-ramp-and-dump-cashout-scheme/" target="_blank">Mobile Phishers Target Brokerage Accounts in ‘Ramp and Dump’ Cashout Scheme</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-08-15 18:27</span>
             </div>
         </div>
 </div>
@@ -321,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 85 | 📡 Total Sources: 41 | 📸 With Images: 292 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
