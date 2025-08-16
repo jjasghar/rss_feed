@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-16 06:01:53 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-08-16 07:01:37 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 0 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, August 16, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, August 16, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/8/16/why-is-south-africas-army-chief-under-fire-for-backing-iran?traffic_source=rss" target="_blank">Why is South Africa’s army chief under fire for backing Iran?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-16 05:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e3b/live/8ceee5b0-7a59-11f0-a34f-318be3fb0481.jpg" alt="Afghans resettled in UK hit by new data breach" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce87nyr3evro?at_medium=RSS&at_campaign=rss" target="_blank">Afghans resettled in UK hit by new data breach</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-16 02:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +101,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-and-putin-do-not-announce-ceasefire-after-summit-245112389513" target="_blank">Trump and Putin do not announce ceasefire after summit</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-08-16 00:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/15/china-unveils-newest-ai-technology-at-world-robot-conference?traffic_source=rss" target="_blank">China unveils newest AI technology at World Robot Conference</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-15 22:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/15/nx-s1-5501584/ev-charger-nevi-funding" target="_blank">After a freeze, Trump administration reluctantly agrees to fund EV chargers</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-15 20:33</span>
             </div>
         </div>
 </div>
@@ -164,6 +170,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/safal_bhandari/understanding-atomfamily-in-recoil-4pd0" target="_blank">Understanding AtomFamily in Recoil</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-16 06:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://putty.software/" target="_blank">PuTTY has a new website</a></span>
                 <span class="feed">Hacker News</span>
@@ -204,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/amarire-dev/ai-assistant-chatbot-full-control-my-wordpress-plugin-2fa5" target="_blank">AI Assistant ChatBot — Full Control: My WordPress Plugin</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-15 22:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-49-Beta" target="_blank">GNOME 49 Beta Ships Many Last Minute Features - Including Greater systemd Reliance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-15 22:07</span>
             </div>
         </div>
 </div>
@@ -329,22 +335,13 @@
                 <span class="time">2025-08-15 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/08/15/the-undertaken" target="_blank">The Undertaken</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-08-15 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 111 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
