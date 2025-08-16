@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-16 17:01:32 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-16 18:01:42 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, August 16, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, August 16, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/16/us-suspends-visas-for-gaza-residents-after-right-wing-social-media-storm?traffic_source=rss" target="_blank">US suspends visas for Gaza residents after right-wing social media storm</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-16 16:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/16/nx-s1-5504144/immigration-arrests-dip-in-july-and-activists-hope-theyre-partly-responsible" target="_blank">Immigration arrests dip in July, and activists hope they&#x27;re partly responsible</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-16 15:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b083/live/db40cfb0-7a9c-11f0-a69a-95efe7e2a480.jpg" alt="End of Ukraine war &#x27;closer than ever&#x27; thanks to Trump, says Starmer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +102,29 @@
                 <span class="time">2025-08-16 12:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755343501290_tdy_sat_alexander_trump_putin_meeting_250816_1920x1080-f9tzww.jpg" alt="Trump and Putin Summit Concludes Without Concrete Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-and-putin-summit-ends-without-deal-on-war-in-ukraine-245136453606" target="_blank">Trump and Putin Summit Concludes Without Concrete Deal</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-16 11:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/08/16/nx-s1-5504068/homeless-older-americans-housing-pace-medicare-medicaid" target="_blank">Amid growing &#x27;scandal&#x27; of elder homelessness, health care groups aim to help</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-16 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/20252281710_GOES19-ABI-taw-GEOCOLOR-1800x1080-1-500x500.jpg" alt="Hurricane Erin sets early season intensification record, becomes Category 5 storm" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/08/hurricane-erin-sets-early-season-intensification-record-becomes-category-5-storm/" target="_blank">Hurricane Erin sets early season intensification record, becomes Category 5 storm</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-16 17:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/16/anthropic-says-some-claude-models-can-now-end-harmful-or-abusive-conversations/" target="_blank">Anthropic says some Claude models can now end ‘harmful or abusive’ conversations</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-16 15:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +161,20 @@
                 <span class="time">2025-08-16 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/cube1CROP-500x500.jpg" alt="How a mysterious particle could explain the Universe’s missing antimatter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/08/how-a-mysterious-particle-could-explain-the-universes-missing-antimatter/" target="_blank">How a mysterious particle could explain the Universe’s missing antimatter</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-16 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689fb47b7a90a2c08263e4a6/master/pass/Gear%20News%20of%20the%20Week-%20A%20New%20Privacy%20Phone%20Arrives,%20and%20Samsung%20Unveils%20a%20115-Inch%20Micro%20RGB%20TV.png" alt="Gear News of the Week: A New Privacy Phone Arrives, and Samsung Has a $30K 115-Inch Micro RGB TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/gear-news-of-the-week-a-new-privacy-phone-arrives-and-samsung-has-a-115-inch-micro-rgb-tv/" target="_blank">Gear News of the Week: A New Privacy Phone Arrives, and Samsung Has a $30K 115-Inch Micro RGB TV</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-16 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9oj8o83cjfgx5mpphoxd.png" alt="Building ViberSpace with Kiro: AI-Powered Freelance, Reinvented" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/belmirongola/building-viberspace-with-kiro-ai-powered-freelance-reinvented-550e" target="_blank">Building ViberSpace with Kiro: AI-Powered Freelance, Reinvented</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-16 17:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,15 +220,6 @@
                 <span class="time">2025-08-16 12:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Disks-More-Rust" target="_blank">GNOME Disks Continues Being Ported To Rust</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-16 10:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,12 +249,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/hed16.jpg" alt="How Long Is Donkey Kong Bananza?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/donkey-kong-bananza-hltb-hours-switch-2-2-2000618086" target="_blank">How Long Is Donkey Kong Bananza?</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-16 17:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/hed15.jpg" alt="Everything You’d Want To Know About Tony Hawk’s Pro Skater 3+4" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/tony-hawk-pro-skater-3-4-skaters-crossplay-hltb-save-2000618077" target="_blank">Everything You’d Want To Know About Tony Hawk’s Pro Skater 3+4</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-16 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/bloodshot-beyond.jpg" alt="Valiant’s Bloodshot Relaunch Mired by Transphobic Dogwhistles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/valiant-comics-bloodshot-transphobia-mauro-mantella-2000644072" target="_blank">Valiant’s Bloodshot Relaunch Mired by Transphobic Dogwhistles</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-16 16:25</span>
             </div>
         </div>
 <div class="story">
@@ -283,24 +302,6 @@
                 <span class="time">2025-08-16 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/05/GettyImages-2207967436.jpg" alt="Film Schools Are Embracing AI. Should They?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/film-schools-are-embracing-ai-should-they-2000639311" target="_blank">Film Schools Are Embracing AI. Should They?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-16 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/TCL-D2-Pro-smart-lock-review-7.jpg" alt="TCL D2 Pro Review: This Fast Palm-Scanning Smart Lock Is No Jedi Mind Trick" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tcl-d2-pro-review-this-fast-palm-scanning-smart-lock-is-no-jedi-mind-trick-2000626049" target="_blank">TCL D2 Pro Review: This Fast Palm-Scanning Smart Lock Is No Jedi Mind Trick</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-16 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,22 +316,13 @@
                 <span class="time">2025-08-16 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/08/15/the-undertaken" target="_blank">The Undertaken</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-08-15 17:05</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 85 | 📡 Total Sources: 41 | 📸 With Images: 292 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
