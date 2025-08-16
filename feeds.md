@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-16 16:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-16 17:01:32 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, August 16, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, August 16, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b083/live/db40cfb0-7a9c-11f0-a69a-95efe7e2a480.jpg" alt="End of Ukraine war &#x27;closer than ever&#x27; thanks to Trump, says Starmer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c78mve9209ro?at_medium=RSS&at_campaign=rss" target="_blank">End of Ukraine war &#x27;closer than ever&#x27; thanks to Trump, says Starmer</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-16 13:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/08/16/nx-s1-5504068/homeless-older-americans-housing-pace-medicare-medicaid" target="_blank">Amid growing &#x27;scandal&#x27; of elder homelessness, health care groups aim to help</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-16 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbf/live/b4429e70-7aa6-11f0-ab3e-bd52082cd0ae.jpg" alt="Trump pursues peace deal after leaving Alaska without ceasefire pact" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce836yz8r69o?at_medium=RSS&at_campaign=rss" target="_blank">Trump pursues peace deal after leaving Alaska without ceasefire pact</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-16 10:39</span>
             </div>
         </div>
 </div>
@@ -251,6 +248,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/hed15.jpg" alt="Everything You’d Want To Know About Tony Hawk’s Pro Skater 3+4" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/tony-hawk-pro-skater-3-4-skaters-crossplay-hltb-save-2000618077" target="_blank">Everything You’d Want To Know About Tony Hawk’s Pro Skater 3+4</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-16 16:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/hed14.jpg" alt="With Gears Of War: Reloaded Emerging On PS5 Soon, Will It Support Crossplay?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -295,15 +301,6 @@
                 <span class="time">2025-08-16 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Looney-Tunes-Warner-Bros.-Animation.jpg" alt="HBO Max’s ‘Looney Tunes’ Purge Has Found a Sanctuary in Tubi" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/hbo-maxs-looney-tunes-purge-has-found-a-sanctuary-in-tubi-2000643881" target="_blank">HBO Max’s ‘Looney Tunes’ Purge Has Found a Sanctuary in Tubi</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-16 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
