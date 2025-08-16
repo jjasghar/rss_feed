@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-16 04:04:04 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-16 05:01:37 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 0 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, August 16, 2025 - 04:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, August 16, 2025 - 05:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -77,6 +78,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755307609897_nn_tll_trump_putin_alaska_summit_250815_1920x1080-o8o68b.jpg" alt="Trump and Putin do not announce ceasefire after summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-and-putin-do-not-announce-ceasefire-after-summit-245112389513" target="_blank">Trump and Putin do not announce ceasefire after summit</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-16 00:39</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -92,15 +102,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/15/nx-s1-5501584/ev-charger-nevi-funding" target="_blank">After a freeze, Trump administration reluctantly agrees to fund EV chargers</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-15 20:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-donald-trump-vladimir-putin_6991991.jpg?20250815205748" alt="The moment Putin has craved - a red carpet for a man with blood on his hands" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/the-moment-vladimir-putin-has-craved-a-red-carpet-from-donald-trump-for-a-man-with-blood-on-his-hands-13412439" target="_blank">The moment Putin has craved - a red carpet for a man with blood on his hands</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-15 20:10</span>
             </div>
         </div>
 </div>
@@ -170,6 +171,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://putty.software/" target="_blank">PuTTY has a new website</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-16 03:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/abhishek-nexgen-dev/generative-ai-with-javascript-full-course-32f7" target="_blank">🧠 Generative AI with JavaScript – Full Course</a></span>
                 <span class="feed">DEV Community</span>
@@ -210,15 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/GNOME-49-Beta" target="_blank">GNOME 49 Beta Ships Many Last Minute Features - Including Greater systemd Reliance</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-15 22:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/linux-617-features" target="_blank">Linux 6.17 Features: Great Intel Graphics Improvements, AMD HFI, Attack Vector Controls + Lenovo Gaming Drivers</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-15 20:15</span>
             </div>
         </div>
 </div>
@@ -349,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 04:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 05:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
