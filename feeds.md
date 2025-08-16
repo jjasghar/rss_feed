@@ -1,32 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-08-16 12:01:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-16 13:08:36 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, August 16, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, August 16, 2025 - 13:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/16/arab-islamic-countries-condemn-netanyahus-greater-israel-remark?traffic_source=rss" target="_blank">Arab, Islamic countries condemn Netanyahu’s ‘Greater Israel’ remark</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-16 12:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/16/nx-s1-5504621/air-canada-suspends-operations-strike-flight-attendants" target="_blank">Air Canada suspends operations as flight attendants go on strike</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-16 12:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,24 +92,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/16/trump-putin-summit-ends-with-no-ceasefire-deal?traffic_source=rss" target="_blank">Trump-Putin summit ends with no ceasefire deal</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-16 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/16/nx-s1-5504593/world-reacts-trump-putin-summit" target="_blank">Hope and disappointment as world reacts to Trump-Putin summit</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-16 08:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e9c/live/c7c51340-7a71-11f0-a34f-318be3fb0481.jpg" alt="Trump and Putin leave Alaska with no Ukraine deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce836yz8r69o?at_medium=RSS&at_campaign=rss" target="_blank">Trump and Putin leave Alaska with no Ukraine deal</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-16 07:45</span>
             </div>
         </div>
 </div>
@@ -161,6 +159,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fklal2dsn3optx2h2yo79.png" alt="Make In A Day: Hovertank One" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/chigbeef_77/make-in-a-day-hovertank-one-4edn" target="_blank">Make In A Day: Hovertank One</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-16 12:56</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -205,15 +212,6 @@
                 <span class="time">2025-08-16 07:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/safal_bhandari/understanding-atomfamily-in-recoil-4pd0" target="_blank">Understanding AtomFamily in Recoil</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-16 06:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/Liver-King.jpg" alt="Liver King Accused of Breaking Blood-Bound Contract He Insisted Upon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/liver-king-accused-of-breaking-blood-bound-contract-he-insisted-upon-2000643897" target="_blank">Liver King Accused of Breaking Blood-Bound Contract He Insisted Upon</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-16 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/05/GettyImages-2207967436.jpg" alt="Film Schools Are Embracing AI. Should They?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +294,6 @@
                 <span class="time">2025-08-15 21:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/prompt-decks.jpg?fit=1200%2C651&amp;quality=60&amp;ssl=1" alt="Seth Godin&#x27;s AI-powered &quot;Prompt Decks&quot; launch on Kickstarter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/15/seth-godins-ai-powered-prompt-decks-launch-on-kickstarter.html" target="_blank">Seth Godin&#x27;s AI-powered &quot;Prompt Decks&quot; launch on Kickstarter</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-15 21:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 13:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
