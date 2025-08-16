@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-16 01:29:04 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-16 02:30:55 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, August 16, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, August 16, 2025 - 02:31 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/16/we-didnt-get-there-trump-and-putin-ukraine-meeting-falls?traffic_source=rss" target="_blank">“We didn’t get there” – Trump and Putin Ukraine meeting falls short</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-16 01:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +101,20 @@
                 <span class="time">2025-08-15 20:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755287267067_nbc_trump_putin_delegations_250815_1920x1080-viljo6.jpg" alt="Trump and Putin briefly face cameras at beginning of Alaska summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-and-putin-briefly-face-cameras-at-beginning-of-alaska-summit-245092933846" target="_blank">Trump and Putin briefly face cameras at beginning of Alaska summit</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-15 19:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/politics/760269/laura-loomer-deposition" target="_blank">Laura Loomer and the limits of posting everything</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-15 23:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/689e4641ba007d0d81f82fd6/master/pass/The%20Best%20Pillows%20for%20a%20Restful%20Night%E2%80%99s%20Sleep%20AUG.png" alt="9 Best Pillows (2025) Tested For Side, Back, and Stomach Sleepers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +160,20 @@
                 <span class="time">2025-08-15 19:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689a19ecddceece04e84fa2f/master/pass/chatgpt5-hate-biz-2228998627-1193951547.jpg" alt="Developers Say GPT-5 Is a Mixed Bag" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/gpt-5-coding-review-software-engineering/" target="_blank">Developers Say GPT-5 Is a Mixed Bag</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-15 17:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/darkedges/finally-testing-the-solution-3bkb" target="_blank">Finally testing the solution</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-16 02:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbjpi4nsmw1em2tzxechw.png" alt="AI Assistant ChatBot — Full Control: My WordPress Plugin" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,15 +219,6 @@
                 <span class="time">2025-08-15 20:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18560308&w=600" alt="My First Practical Agentic App: Using Firebase and Generative AI to Automate Office Tasks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/agentic-app-firebase-generative-ai-office-automation" target="_blank">My First Practical Agentic App: Using Firebase and Generative AI to Automate Office Tasks</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-15 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -256,6 +256,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Looney-Tunes-Warner-Bros.-Animation.jpg" alt="HBO Max’s ‘Looney Tunes’ Purge Has Found a Sanctuary in Tubi" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/hbo-maxs-looney-tunes-purge-has-found-a-sanctuary-in-tubi-2000643881" target="_blank">HBO Max’s ‘Looney Tunes’ Purge Has Found a Sanctuary in Tubi</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-16 00:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K2QJXJH3BBRM3ED6RH1M42WF/hero-image.png" alt="If You Have One of These ESR Power Banks, Stop Using It ASAP" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -299,15 +308,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/15/kristi-noem-finds-free-waterfront-housing-by-pulling-rank-on-coast-guard.html" target="_blank">Kristi Noem finds free waterfront housing by pulling rank on Coast Guard</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-15 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/hed13.jpg" alt="Everything You’d Want To Know About Lies Of P’s DLC, Overture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/lies-of-p-dlc-weapons-bosses-hltb-prequel-expansion-2000618041" target="_blank">Everything You’d Want To Know About Lies Of P’s DLC, Overture</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-15 17:21</span>
             </div>
         </div>
 </div>
@@ -356,8 +356,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 02:31 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
