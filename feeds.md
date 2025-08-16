@@ -1,30 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-08-16 13:08:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-16 14:01:27 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, August 16, 2025 - 13:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, August 16, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -59,6 +59,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755343501290_tdy_sat_alexander_trump_putin_meeting_250816_1920x1080-f9tzww.jpg" alt="Trump and Putin Summit Concludes Without Concrete Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-and-putin-summit-ends-without-deal-on-war-in-ukraine-245136453606" target="_blank">Trump and Putin Summit Concludes Without Concrete Deal</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-16 11:25</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -85,20 +94,38 @@
                 <span class="time">2025-08-16 09:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/16/trump-putin-summit-ends-with-no-ceasefire-deal?traffic_source=rss" target="_blank">Trump-Putin summit ends with no ceasefire deal</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-16 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/686ec4ff035f106946d69e9a/master/pass/Best%20Android%20Phones.png" alt="11 Best Android Phones of 2025, Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-android-phones/" target="_blank">11 Best Android Phones of 2025, Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-16 13:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/760213/dead-take-review-fmv-horror-game-ben-starr" target="_blank">Dead Take’s best scares come from real-life performances</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-16 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/06/cube1CROP-500x500.jpg" alt="How a mysterious particle could explain the Universe’s missing antimatter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/08/how-a-mysterious-particle-could-explain-the-universes-missing-antimatter/" target="_blank">How a mysterious particle could explain the Universe’s missing antimatter</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-16 11:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/689fb47b7a90a2c08263e4a6/master/pass/Gear%20News%20of%20the%20Week-%20A%20New%20Privacy%20Phone%20Arrives,%20and%20Samsung%20Unveils%20a%20115-Inch%20Micro%20RGB%20TV.png" alt="Gear News of the Week: A New Privacy Phone Arrives, and Samsung Has a $30K 115-Inch Micro RGB TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -124,33 +151,6 @@
                 <span class="title"><a href="https://www.theverge.com/politics/760269/laura-loomer-deposition" target="_blank">Laura Loomer and the limits of posting everything</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-08-15 23:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689e4641ba007d0d81f82fd6/master/pass/The%20Best%20Pillows%20for%20a%20Restful%20Night%E2%80%99s%20Sleep%20AUG.png" alt="9 Best Pillows (2025) Tested For Side, Back, and Stomach Sleepers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-pillows/" target="_blank">9 Best Pillows (2025) Tested For Side, Back, and Stomach Sleepers</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-15 22:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/15/sam-altman-over-bread-rolls-explores-life-after-gpt-5/" target="_blank">Sam Altman, over bread rolls, explores life after GPT-5</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-15 22:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/21420196/best-budget-smartphone-cheap" target="_blank">The best budget smartphone you can buy</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-15 20:29</span>
             </div>
         </div>
 </div>
@@ -322,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 13:08 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
