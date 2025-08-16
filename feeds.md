@@ -1,28 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-16 19:01:32 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-16 20:01:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 20 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, August 16, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, August 16, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1b7/live/028abce0-7ac8-11f0-8e51-edf1023f34e4.jpg" alt="Trump shifts ceasefire stance and urges Ukraine to agree Russia peace deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c04rv2p3936o?at_medium=RSS&at_campaign=rss" target="_blank">Trump shifts ceasefire stance and urges Ukraine to agree Russia peace deal</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-16 19:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/16/nx-s1-5504634/state-department-halts-gaza-visas" target="_blank">State Department halts &#x27;medical-humanitarian&#x27; visas for people from Gaza</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-16 19:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-starmer-macron_6993114.jpg?20250816185839" alt="Starmer to meet with European leaders for &#x27;coalition of the willing&#x27; talks on Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/starmer-to-meet-with-european-leaders-for-coalition-of-the-willing-talks-on-ukraine-13413153" target="_blank">Starmer to meet with European leaders for &#x27;coalition of the willing&#x27; talks on Ukraine</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-16 17:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -65,38 +97,20 @@
                 <span class="time">2025-08-16 13:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/16/g-s1-83121/marwan-barghouti-video-famous-palestinian-prisoner" target="_blank">Video shows prominent Palestinian prisoner for the first time in years</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-16 13:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/16/arab-islamic-countries-condemn-netanyahus-greater-israel-remark?traffic_source=rss" target="_blank">Arab, Islamic countries condemn Netanyahu’s ‘Greater Israel’ remark</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-16 12:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/16/nx-s1-5504621/air-canada-suspends-operations-strike-flight-attendants" target="_blank">Air Canada suspends operations as flight attendants go on strike</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-16 12:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/16/ai-powered-stuffed-animals-are-coming-for-your-kids/" target="_blank">AI-powered stuffed animals are coming for your kids</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-16 19:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/20252281710_GOES19-ABI-taw-GEOCOLOR-1800x1080-1-500x500.jpg" alt="Rapidly intensifying Hurricane Erin becomes historic storm due to strengthening" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,20 +156,20 @@
                 <span class="time">2025-08-16 14:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/686ec4ff035f106946d69e9a/master/pass/Best%20Android%20Phones.png" alt="11 Best Android Phones of 2025, Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-android-phones/" target="_blank">11 Best Android Phones of 2025, Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-16 13:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/the-game-theorists-what-was-the-true-secret-of-the-mimic-ft-dawko-fuhnaff-ryetoast-fg2" target="_blank">The Game Theorists: 🔴What WAS the True Secret of the Mimic? | Ft. @Dawko @FuhNaff @RyeToast @HyperDroid @IDsFantasy</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-16 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,15 +213,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/08/oracle-aws-exadata/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Oracle Brings Database Services Directly to AWS Cloud</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-08-16 14:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fklal2dsn3optx2h2yo79.png" alt="Make In A Day: Hovertank One" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/chigbeef_77/make-in-a-day-hovertank-one-4edn" target="_blank">Make In A Day: Hovertank One</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-16 12:56</span>
             </div>
         </div>
 </div>
@@ -302,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
