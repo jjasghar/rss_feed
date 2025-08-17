@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-17 03:28:21 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-17 04:10:09 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 0 new posts out of 29 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, August 17, 2025 - 03:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, August 17, 2025 - 04:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,10 +49,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/17/lionel-messi-scores-as-inter-miami-wins-late-against-la-galaxy?traffic_source=rss" target="_blank">Lionel Messi scores as Inter Miami wins late against LA Galaxy</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-17 03:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/08/16/nx-s1-5504861/trump-dc-protest-federal-takeover-white-house" target="_blank">Hundreds march to White House to protest Trump&#x27;s D.C. crackdown</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-17 01:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea6c/live/d7e14800-7aff-11f0-89a1-076024a5287f.jpg" alt="Russia &#x27;complicating&#x27; end to war, says Zelensky as Trump urges Ukraine to agree to Moscow peace deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c04rv2p3936o?at_medium=RSS&at_campaign=rss" target="_blank">Russia &#x27;complicating&#x27; end to war, says Zelensky as Trump urges Ukraine to agree to Moscow peace deal</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-17 00:55</span>
             </div>
         </div>
 <div class="story">
@@ -82,24 +98,6 @@
                 <span class="title"><a href="https://news.sky.com/story/vladimir-putin-demands-key-parts-of-ukraine-in-exchange-for-peace-13413322" target="_blank">Putin demands key regions of Ukraine in &#x27;exchange for peace&#x27;</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-08-16 21:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-zelenskyy-trump-putin_6990183.jpg?20250813230400" alt="Zelenskyy prepares for fresh White House visit - as Putin issues first comments after summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/zelenskyy-prepares-for-fresh-white-house-visit-as-putin-issues-first-comments-after-summit-13413322" target="_blank">Zelenskyy prepares for fresh White House visit - as Putin issues first comments after summit</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-16 21:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/16/yamal-and-raphinha-fire-barcelona-to-la-liga-opening-win-in-mallorca?traffic_source=rss" target="_blank">Yamal and Raphinha fire Barcelona to La Liga opening win at Mallorca</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-16 20:33</span>
             </div>
         </div>
 </div>
@@ -167,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/music_youtube/rick-beato-the-one-thing-ai-will-never-understand-about-music-1aej" target="_blank">Rick Beato: The ONE Thing AI Will Never Understand About Music</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-17 04:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc0szyfj3ha75e0qf8gpu.png" alt="LEANN: The World&#x27;s Most Lightweight Semantic Search Backend for RAG Everything 🎉" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -209,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/pmbanugo/mcptools-are-not-rest-api-heres-a-better-design-364n" target="_blank">MCP/Tools Are Not REST API: Here&#x27;s a Better Design</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-16 21:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/the-game-theorists-what-was-the-true-secret-of-the-mimic-ft-dawko-fuhnaff-ryetoast-fg2" target="_blank">The Game Theorists: 🔴What WAS the True Secret of the Mimic? | Ft. @Dawko @FuhNaff @RyeToast @HyperDroid @IDsFantasy</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-16 20:00</span>
             </div>
         </div>
 </div>
@@ -298,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 03:28 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 04:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
