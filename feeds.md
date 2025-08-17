@@ -1,43 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-08-17 13:09:45 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-17 14:01:30 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 34 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, August 17, 2025 - 13:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, August 17, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +53,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38b3/live/43278730-7b66-11f0-9ae5-8b78450e5cf0.jpg" alt="European leaders to join Zelensky at White House meeting with Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crm4ln2ekg1o?at_medium=RSS&at_campaign=rss" target="_blank">European leaders to join Zelensky at White House meeting with Trump</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-17 13:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Zelenskyy-DB-250817_1755421978820_hpMain_4x3t_384.jpg" alt="European leaders confirm they will join Zelenskyy in White House meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -98,20 +107,20 @@
                 <span class="time">2025-08-17 09:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/8/17/antigovernment-protesters-clash-with-police-in-several-serbian-cities?traffic_source=rss" target="_blank">Antigovernment protesters clash with police in several Serbian cities</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-17 08:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/760244/chris-plante-post-games-podcast-old-gamers-polygon" target="_blank">Why the former editor of Polygon is making a podcast for old gamers</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-17 12:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -157,20 +166,20 @@
                 <span class="time">2025-08-16 19:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/20252281710_GOES19-ABI-taw-GEOCOLOR-1800x1080-1-500x500.jpg" alt="Rapidly intensifying Hurricane Erin becomes historic storm due to strengthening" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/08/hurricane-erin-sets-early-season-intensification-record-becomes-category-5-storm/" target="_blank">Rapidly intensifying Hurricane Erin becomes historic storm due to strengthening</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-16 17:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-rc2-Tune-Attack-Vec" target="_blank">Linux 6.17-rc2 To Better Tune Attack Vector Controls For SRSO Mitigation</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-17 13:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -216,20 +225,20 @@
                 <span class="time">2025-08-17 09:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.trackingai.org/home" target="_blank">IQ Tests Results for AI</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-17 09:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/hed17.jpg" alt="Everything You Need Know About Jumping Back Into Fortnite For Chapter 6, Season 4" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fortnite-chapter-6-season-4-halo-power-rangers-bugs-crossplay-2000618095" target="_blank">Everything You Need Know About Jumping Back Into Fortnite For Chapter 6, Season 4</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-17 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/02/pup.jpeg?fit=1500%2C1125&amp;quality=60&amp;ssl=1" alt="This Saint Bernard is the chillest doggo I&#x27;ve ever seen" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +284,6 @@
                 <span class="time">2025-08-16 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/bloodshot-beyond.jpg" alt="Valiant’s Bloodshot Relaunch Mired by Transphobic Dogwhistles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/valiant-comics-bloodshot-transphobia-mauro-mantella-2000644072" target="_blank">Valiant’s Bloodshot Relaunch Mired by Transphobic Dogwhistles</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-16 16:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -303,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 41 | 📸 With Images: 283 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
