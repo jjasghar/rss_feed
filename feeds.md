@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-17 22:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-17 23:01:34 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, August 17, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, August 17, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -65,6 +67,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad4d/live/08510f10-7b9c-11f0-83cc-c5da98c419b8.jpg" alt="Putin agreed to &#x27;robust&#x27; security guarantees for Ukraine, US envoy says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crm4ln2ekg1o?at_medium=RSS&at_campaign=rss" target="_blank">Putin agreed to &#x27;robust&#x27; security guarantees for Ukraine, US envoy says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-17 19:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad4d/live/08510f10-7b9c-11f0-83cc-c5da98c419b8.jpg" alt="Putin agreed to &#x27;robust&#x27; security guarantees for Ukraine, says US envoy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -89,15 +100,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cp94jz0y7ygo?at_medium=RSS&at_campaign=rss" target="_blank">Novelist Sally Rooney says she will support Palestine Action despite ban</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-17 18:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/17/spain-battles-20-big-wildfires-deploys-500-more-soldiers-in-searing-heat?traffic_source=rss" target="_blank">Spain battles 20 big wildfires, deploys 500 more soldiers in searing heat</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-17 16:45</span>
             </div>
         </div>
 </div>
@@ -168,6 +170,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sami_ammar_fb38e674b4a49e/-why-every-developer-should-use-github-fe6" target="_blank"># Why Every Developer Should Use GitHub 🚀</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-17 22:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/abo7hkmat_2076/a-guide-to-the-world-of-version-control-systems-vcs-3e23" target="_blank">A Guide to the World of Version Control Systems (VCS)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-17 21:45</span>
@@ -205,15 +216,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://claudiacode.com/" target="_blank">Claudia – Desktop companion for Claude code</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-17 17:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://claudiacode.com/" target="_blank">Claudia – Elegant Desktop Companion for Claude Code</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-17 17:26</span>
             </div>
@@ -296,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
