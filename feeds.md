@@ -1,38 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-08-17 10:01:47 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-17 11:01:32 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 2 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, August 17, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, August 17, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -167,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ramyacse/day-18-of-my-data-analytics-journey--13i1" target="_blank">🚀 Day 18 of My Data Analytics Journey !</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-17 10:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F42lpjdkpeigo51qkg18b.png" alt="5 Things I Wish I Knew Earlier When Self-Studying Programming (Especially #5)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -187,6 +189,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Shotcut-25.08-Released" target="_blank">Shotcut 25.08 Brings More Bug Fixes To This Open-Source Video Editor</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-17 09:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ltpp_universe/revolutionary-performance-breakthrough-in-modern-web-development6277-550d" target="_blank">Revolutionary Performance Breakthrough in Modern Web Development(6277)</a></span>
                 <span class="feed">DEV Community</span>
@@ -200,24 +211,6 @@
                 <span class="title"><a href="https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity" target="_blank">Lessons learned from building a sync-engine and reactivity system with SQLite</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-17 06:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ltpp_universe/concurrency-mastery-through-advanced-async-programming0026-3cbj" target="_blank">Concurrency Mastery Through Advanced Async Programming(0026)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-17 06:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8197s7cpvf5nhxb8xhwu.gif" alt="10 Latest GitHub Repos for AI Engineers in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/forgecode/10-latest-github-repos-for-ai-engineers-in-2025-54b1" target="_blank">10 Latest GitHub Repos for AI Engineers in 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-17 05:44</span>
             </div>
         </div>
 </div>
@@ -298,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
