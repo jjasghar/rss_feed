@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-17 05:02:15 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-17 06:01:48 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 0 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, August 17, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, August 17, 2025 - 06:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/17/luis-diaz-scores-for-bayern-munich-to-win-german-supercup-on-debut?traffic_source=rss" target="_blank">Luis Diaz scores for Bayern Munich to win German Supercup on debut</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-17 04:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/17/lionel-messi-scores-as-inter-miami-wins-late-against-la-galaxy?traffic_source=rss" target="_blank">Lionel Messi scores as Inter Miami wins late against LA Galaxy</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-17 03:33</span>
@@ -59,6 +71,15 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/16/nx-s1-5504861/trump-dc-protest-federal-takeover-white-house" target="_blank">Hundreds march to White House to protest Trump&#x27;s D.C. crackdown</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-17 01:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4325/live/4b34e2e0-7b2c-11f0-ab3e-bd52082cd0ae.jpg" alt="Russia complicating end to war, says Zelensky, as Trump pursues peace deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c04rv2p3936o?at_medium=RSS&at_campaign=rss" target="_blank">Russia complicating end to war, says Zelensky, as Trump pursues peace deal</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-17 00:55</span>
             </div>
         </div>
 <div class="story">
@@ -77,24 +98,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/zelenskyy-set-to-visit-trump-in-washington-on-monday-245151301512" target="_blank">Zelenskyy set to visit Trump in Washington on Monday</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-08-16 22:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/16/manchester-united-vs-arsenal-premier-league-teams-start-lineups?traffic_source=rss" target="_blank">Manchester United vs Arsenal: Premier League – teams, start, lineups</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-16 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-zelenskyy-trump-putin_6990183.jpg?20250813230400" alt="Putin demands key regions of Ukraine in &#x27;exchange for peace&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/vladimir-putin-demands-key-parts-of-ukraine-in-exchange-for-peace-13413322" target="_blank">Putin demands key regions of Ukraine in &#x27;exchange for peace&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-16 21:44</span>
             </div>
         </div>
 </div>
@@ -162,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8197s7cpvf5nhxb8xhwu.gif" alt="10 Latest GitHub Repos for AI Engineers in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/forgecode/10-latest-github-repos-for-ai-engineers-in-2025-54b1" target="_blank">10 Latest GitHub Repos for AI Engineers in 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-17 05:44</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,15 +216,6 @@
                 <span class="title"><a href="https://treeform.github.io/devcompas/" target="_blank">Dev Compass – Programming Philosophy Quiz</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-16 22:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F775%2Fb53040cb-edbb-4c37-94ec-96bae8c67084.jpg" alt="MCP/Tools Are Not REST API: Here&#x27;s a Better Design" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pmbanugo/mcptools-are-not-rest-api-heres-a-better-design-364n" target="_blank">MCP/Tools Are Not REST API: Here&#x27;s a Better Design</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-16 21:49</span>
             </div>
         </div>
 </div>
@@ -293,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 06:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
