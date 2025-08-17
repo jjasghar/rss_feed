@@ -1,38 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-08-16 23:01:32 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-17 00:05:06 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, August 16, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, August 17, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +52,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755384004528_wnn_vhi_trump_putin_fallout_250816_1920x1080-n1k3kg.jpg" alt="Zelenskyy set to visit Trump in Washington on Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/zelenskyy-set-to-visit-trump-in-washington-on-monday-245151301512" target="_blank">Zelenskyy set to visit Trump in Washington on Monday</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-16 22:40</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/16/manchester-united-vs-arsenal-premier-league-teams-start-lineups?traffic_source=rss" target="_blank">Manchester United vs Arsenal: Premier League – teams, start, lineups</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-16 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-zelenskyy-trump-putin_6990183.jpg?20250813230400" alt="Zelenskyy prepares for fresh White House visit - as Putin issues first comments after summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/zelenskyy-prepares-for-fresh-white-house-visit-as-putin-issues-first-comments-after-summit-13413322" target="_blank">Zelenskyy prepares for fresh White House visit - as Putin issues first comments after summit</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-16 21:44</span>
             </div>
         </div>
 <div class="story">
@@ -82,24 +103,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/16/nx-s1-5504634/state-department-halts-gaza-visas" target="_blank">State Department halts &#x27;medical-humanitarian&#x27; visas for people from Gaza</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-16 19:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-starmer-macron_6993114.jpg?20250816185839" alt="Starmer to meet with European leaders for &#x27;coalition of the willing&#x27; talks on Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/starmer-to-meet-with-european-leaders-for-coalition-of-the-willing-talks-on-ukraine-13413153" target="_blank">Starmer to meet with European leaders for &#x27;coalition of the willing&#x27; talks on Ukraine</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-16 17:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/16/us-suspends-visas-for-gaza-residents-after-right-wing-social-media-storm?traffic_source=rss" target="_blank">US suspends visas for Gaza residents after right-wing social media storm</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-16 16:53</span>
             </div>
         </div>
 </div>
@@ -167,6 +170,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/future_youtube/linus-tech-tips-ltt-they-said-my-gaming-badminton-club-would-never-open-1bng" target="_blank">Linus Tech Tips (LTT): They Said my Gaming &amp; Badminton Club Would Never OPEN!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-17 00:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F775%2Fb53040cb-edbb-4c37-94ec-96bae8c67084.jpg" alt="MCP/Tools Are Not REST API: Here&#x27;s a Better Design" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -209,15 +221,6 @@
                 <span class="title"><a href="https://derwiki.medium.com/do-things-that-dont-scale-and-then-don-t-scale-9fd2cd7e2156" target="_blank">Do things that don&#x27;t scale, and then don&#x27;t scale</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-16 17:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/goodluck_ekeoma_2c98866d0/cicd-with-github-actions-a-practical-end-to-end-tutorial-3p26" target="_blank">CI/CD With GitHub Actions — A Practical, End‑to‑End Tutorial</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-16 15:49</span>
             </div>
         </div>
 </div>
@@ -298,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
