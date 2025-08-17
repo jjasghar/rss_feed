@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-17 20:01:47 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-17 21:01:44 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, August 17, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, August 17, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/8/17/can-a-national-dialogue-solve-south-africas-problems?traffic_source=rss" target="_blank">Can a national dialogue solve South Africa’s problems?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-17 20:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad4d/live/08510f10-7b9c-11f0-83cc-c5da98c419b8.jpg" alt="Putin agreed to &#x27;robust&#x27; security guarantees for Ukraine, says US envoy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -61,6 +72,15 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/trump-shares-melania-trumps-letter-putin/story?id=124726767" target="_blank">Trump shares Melania Trump&#x27;s letter to Putin</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-17 18:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d8e/live/1cbd0310-7b73-11f0-8b0c-831af2dbcc02.jpg" alt="Novelist Sally Rooney says she will support Palestine Action despite ban" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp94jz0y7ygo?at_medium=RSS&at_campaign=rss" target="_blank">Novelist Sally Rooney says she will support Palestine Action despite ban</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-17 18:31</span>
             </div>
         </div>
 <div class="story">
@@ -81,29 +101,20 @@
                 <span class="time">2025-08-17 16:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/8/17/the-upcoming-elections-will-not-help-stabilise-syria?traffic_source=rss" target="_blank">The upcoming elections will not help stabilise Syria</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-17 14:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38b3/live/43278730-7b66-11f0-9ae5-8b78450e5cf0.jpg" alt="European leaders to join Zelensky at White House meeting with Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crm4ln2ekg1o?at_medium=RSS&at_campaign=rss" target="_blank">European leaders to join Zelensky at White House meeting with Trump</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-17 13:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/17/stranger-things-creators-may-be-leaving-netflix/" target="_blank">‘Stranger Things’ creators may be leaving Netflix</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-17 20:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +160,20 @@
                 <span class="time">2025-08-17 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/16/judge-says-ftc-investigation-into-media-matters-should-alarm-all-americans/" target="_blank">Judge says FTC investigation into Media Matters ‘should alarm all Americans’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-16 20:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://zachperk.com/blog/when-did-ai-take-over-hn" target="_blank">When Did AI Take Over Hacker News?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-17 19:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,20 +219,20 @@
                 <span class="time">2025-08-17 16:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Benchmarks-Round-2" target="_blank">Linux 6.17 Performance Looking Even Better After Early Fallout Addressed</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-17 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/MAIN-13.jpg" alt="The Latest Somnium Files Game Might Be Short, But You’ll Want To Play It More Than Once" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/no-sleep-for-kaname-date-ai-somnium-files-hltb-2000618122" target="_blank">The Latest Somnium Files Game Might Be Short, But You’ll Want To Play It More Than Once</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-17 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/kpop-demon-hunters-netflix.jpg" alt="‘KPop Demon Hunters 2’ is Looking More Likely" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,15 +278,6 @@
                 <span class="time">2025-08-17 15:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/hed17.jpg" alt="Everything You Need Know About Jumping Back Into Fortnite For Chapter 6, Season 4" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fortnite-chapter-6-season-4-halo-power-rangers-bugs-crossplay-2000618095" target="_blank">Everything You Need Know About Jumping Back Into Fortnite For Chapter 6, Season 4</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-17 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 41 | 📸 With Images: 284 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
