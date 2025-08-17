@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-17 21:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-17 22:01:37 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, August 17, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, August 17, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/17/g-s1-83196/national-guard-armed-washington-dc" target="_blank">National Guard says members patrolling D.C. &#x27;may be armed&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-17 21:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/17/spain-battles-20-big-wildfires-deploys-500-more-soldiers-in-searing-heat?traffic_source=rss" target="_blank">Spain battles 20 big wildfires, deploys 500 more soldiers in searing heat</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-17 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/17/g-s1-83183/putin-trump-ceasefire" target="_blank">After meeting Putin, Trump changes his position on the need for a ceasefire</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-17 16:35</span>
             </div>
         </div>
 </div>
@@ -168,6 +167,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/abo7hkmat_2076/a-guide-to-the-world-of-version-control-systems-vcs-3e23" target="_blank">A Guide to the World of Version Control Systems (VCS)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-17 21:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://zachperk.com/blog/when-did-ai-take-over-hn" target="_blank">When Did AI Take Over Hacker News?</a></span>
                 <span class="feed">Hacker News</span>
@@ -208,15 +216,6 @@
                 <span class="title"><a href="https://claudiacode.com/" target="_blank">Claudia – Elegant Desktop Companion for Claude Code</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-17 17:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmxbr0hs4uqmoygwmdsf4.png" alt="Component-Based Design in Software Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lovestaco/component-based-design-in-software-architecture-pbf" target="_blank">Component-Based Design in Software Architecture</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-17 16:52</span>
             </div>
         </div>
 </div>
@@ -297,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
