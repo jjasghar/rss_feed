@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-17 17:01:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-17 18:01:48 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, August 17, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, August 17, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -164,12 +166,39 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/ign-wuthering-waves-version-26-official-release-date-trailer-4m93" target="_blank">IGN: Wuthering Waves - Version 2.6 Official Release Date Trailer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-17 18:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://claudiacode.com/" target="_blank">Claudia – Elegant Desktop Companion for Claude Code</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-17 17:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmxbr0hs4uqmoygwmdsf4.png" alt="Component-Based Design in Software Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/lovestaco/component-based-design-in-software-architecture-pbf" target="_blank">Component-Based Design in Software Architecture</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-17 16:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Benchmarks-Round-2" target="_blank">Linux 6.17 Performance Looking Even Better After Early Fallout Addressed</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-17 16:30</span>
             </div>
         </div>
 <div class="story">
@@ -190,38 +219,20 @@
                 <span class="time">2025-08-17 14:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-rc2-Tune-Attack-Vec" target="_blank">Linux 6.17-rc2 To Better Tune Attack Vector Controls For SRSO Mitigation</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-17 13:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lizmat/purl-support-4m8h" target="_blank">PURL Support</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-17 13:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ltpp_universe/production-deployment-strategies-for-high-performance-web-services6576-1k0b" target="_blank">Production Deployment Strategies for High-Performance Web Services(6576)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-17 11:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/batmandeadpool-cover.jpg" alt="The DC/Marvel Teamup Adds New Hero Duos To the Mix" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-dc-marvel-teamup-adds-new-hero-duos-to-the-mix-2000644140" target="_blank">The DC/Marvel Teamup Adds New Hero Duos To the Mix</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-17 17:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/hed20.jpg" alt="Rainbow Six Siege X: How To Enable Crossplay On Consoles" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,15 +278,6 @@
                 <span class="time">2025-08-16 22:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Some-delicious-raw-oysters-I-ate-in-West-Hollywo.jpg?fit=1080%2C1434&amp;quality=60&amp;ssl=1" alt="Flesh-eating bacteria now in Cape Cod, Massachusetts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/16/flesh-eating-bacteria-now-in-cape-cod-massachusetts.html" target="_blank">Flesh-eating bacteria now in Cape Cod, Massachusetts</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-16 22:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
