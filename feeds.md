@@ -1,43 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-08-17 14:01:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-17 15:01:30 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 35 feeds processed -->
+<!-- Generated 2 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, August 17, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, August 17, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/8/17/the-upcoming-elections-will-not-help-stabilise-syria?traffic_source=rss" target="_blank">The upcoming elections will not help stabilise Syria</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-17 14:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38b3/live/43278730-7b66-11f0-9ae5-8b78450e5cf0.jpg" alt="European leaders to join Zelensky at White House meeting with Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -96,15 +104,6 @@
                 <span class="title"><a href="https://www.today.com/video/ukrainians-are-skeptical-of-putin-s-intentions-after-trump-meeting-245161541851" target="_blank">Ukrainians React to Trump&#x27;s Warm Welcome of Putin</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-08-17 12:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/17/israeli-military-bombs-power-plant-near-yemeni-capital-sanaa?traffic_source=rss" target="_blank">Israeli military bombs power plant near Yemeni capital Sanaa</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-17 09:13</span>
             </div>
         </div>
 </div>
@@ -174,6 +173,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ctkqiang/cong-cobol-dao-hui-bian-yong-ge-shui-ji-suan-qi-dai-ni-ba-guang-60-nian-lao-gu-dong-yu-yan-ga9" target="_blank">从 COBOL 到汇编：用个税计算器带你扒光 60 年老古董语言</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-17 14:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-rc2-Tune-Attack-Vec" target="_blank">Linux 6.17-rc2 To Better Tune Attack Vector Controls For SRSO Mitigation</a></span>
                 <span class="feed">Phoronix</span>
@@ -214,15 +222,6 @@
                 <span class="title"><a href="https://dev.to/ramyacse/day-18-of-my-data-analytics-journey--13i1" target="_blank">🚀 Day 18 of My Data Analytics Journey !</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-17 10:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F42lpjdkpeigo51qkg18b.png" alt="5 Things I Wish I Knew Earlier When Self-Studying Programming (Especially #5)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/stackovermaw/5-things-i-wish-i-knew-earlier-when-self-studying-programming-especially-5-3e3n" target="_blank">5 Things I Wish I Knew Earlier When Self-Studying Programming (Especially #5)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-17 09:48</span>
             </div>
         </div>
 </div>
@@ -303,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
