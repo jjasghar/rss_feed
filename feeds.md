@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-17 16:01:37 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-17 17:01:30 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, August 17, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, August 17, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/17/spain-battles-20-big-wildfires-deploys-500-more-soldiers-in-searing-heat?traffic_source=rss" target="_blank">Spain battles 20 big wildfires, deploys 500 more soldiers in searing heat</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-17 16:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/17/g-s1-83183/putin-trump-ceasefire" target="_blank">After meeting Putin, Trump changes his position on the need for a ceasefire</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-17 16:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +99,20 @@
                 <span class="time">2025-08-17 12:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/17/riot-police-clash-with-protesters-in-serbia?traffic_source=rss" target="_blank">Riot police clash with protesters in Serbia</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-17 12:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755433780680_tdy_sun_engel_ukraine_putin_250817_1920x1080-nlzuji.jpg" alt="Ukrainians React to Trump&#x27;s Warm Welcome of Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/ukrainians-are-skeptical-of-putin-s-intentions-after-trump-meeting-245161541851" target="_blank">Ukrainians React to Trump&#x27;s Warm Welcome of Putin</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-17 12:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/17/duolingo-ceo-says-controversial-ai-memo-was-misunderstood/" target="_blank">Duolingo CEO says controversial AI memo was misunderstood</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-17 16:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/689fdb65aece3e724972d067/master/pass/Update-%20The%20Best%20Posture%20Correctors%20to%20Straighten%20You%20Out.png" alt="These 5 Posture Corrector Picks Will Straighten You Out (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +158,20 @@
                 <span class="time">2025-08-16 20:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/16/ai-powered-stuffed-animals-are-coming-for-your-kids/" target="_blank">AI-powered stuffed animals are coming for your kids</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-16 19:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmxbr0hs4uqmoygwmdsf4.png" alt="Component-Based Design in Software Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lovestaco/component-based-design-in-software-architecture-pbf" target="_blank">Component-Based Design in Software Architecture</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-17 16:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -172,6 +179,15 @@
                 <span class="title"><a href="https://dev.to/ctkqiang/cong-cobol-dao-hui-bian-yong-ge-shui-ji-suan-qi-dai-ni-ba-guang-60-nian-lao-gu-dong-yu-yan-ga9" target="_blank">从 COBOL 到汇编：用个税计算器带你扒光 60 年老古董语言</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-17 14:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/questing-quokka.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Reveals New Wallpaper, Mascot Artwork" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/ubuntu-25-10-wallpaper-mascot-artwork" target="_blank">Ubuntu 25.10 Reveals New Wallpaper, Mascot Artwork</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-17 14:37</span>
             </div>
         </div>
 <div class="story">
@@ -201,29 +217,20 @@
                 <span class="time">2025-08-17 11:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://threedle.github.io/ll3m/" target="_blank">LL3M: Large Language 3D Modelers</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-17 11:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ramyacse/day-18-of-my-data-analytics-journey--13i1" target="_blank">🚀 Day 18 of My Data Analytics Journey !</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-17 10:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/hed20.jpg" alt="Rainbow Six Siege X: How To Enable Crossplay On Consoles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/rainbow-six-siege-crossplay-consoles-pc-xbox-ps5-2000618111" target="_blank">Rainbow Six Siege X: How To Enable Crossplay On Consoles</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-17 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/terence-stamp-murder-mystery.jpg" alt="‘Superman’ and ‘Star Wars’ Actor Terence Stamp Dies at Age 87" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,13 +276,18 @@
                 <span class="time">2025-08-16 22:34</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/angels-egg-hed.jpg" alt="Classic Anime Flick ‘Angel’s Egg’ Hits Theaters in November" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1755141493-20250817.png" alt="Saturday Morning Breakfast Cereal - Firstborn" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/classic-anime-flick-angels-egg-hits-theaters-in-november-2000643992" target="_blank">Classic Anime Flick ‘Angel’s Egg’ Hits Theaters in November</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-16 20:15</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/firstborn" target="_blank">Saturday Morning Breakfast Cereal - Firstborn</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-08-17 15:20</span>
             </div>
         </div>
 </div>
@@ -283,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
