@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-17 18:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-17 19:01:31 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, August 17, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, August 17, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/melania-trump-20250817-gty-jh_1755455432431_hpMain_4x3t_384.jpg" alt="Trump shares Melania Trump&#x27;s letter to Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-shares-melania-trumps-letter-putin/story?id=124726767" target="_blank">Trump shares Melania Trump&#x27;s letter to Putin</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-17 18:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +95,6 @@
                 <span class="title"><a href="https://abcnews.go.com/International/russia-ceasefire-refusal-complicates-talks-zelenskyy-white-house/story?id=124719641" target="_blank">European leaders confirm they will join Zelenskyy in White House meeting</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-17 12:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/17/nx-s1-5505324/hurricane-erin-downgraded" target="_blank">Hurricane Erin downgraded to Category 3 storm</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-17 12:39</span>
             </div>
         </div>
 </div>
@@ -169,9 +165,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ltpp_universe/context-management-and-request-lifecycle-optimization5804-5g73" target="_blank">Context Management and Request Lifecycle Optimization(5804)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-17 18:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gg_news/ign-wuthering-waves-version-26-official-release-date-trailer-4m93" target="_blank">IGN: Wuthering Waves - Version 2.6 Official Release Date Trailer</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-17 18:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://claudiacode.com/" target="_blank">Claudia – Desktop companion for Claude code</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-17 17:26</span>
             </div>
         </div>
 <div class="story">
@@ -201,29 +215,20 @@
                 <span class="time">2025-08-17 16:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ctkqiang/cong-cobol-dao-hui-bian-yong-ge-shui-ji-suan-qi-dai-ni-ba-guang-60-nian-lao-gu-dong-yu-yan-ga9" target="_blank">从 COBOL 到汇编：用个税计算器带你扒光 60 年老古董语言</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-17 14:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/questing-quokka.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Reveals New Wallpaper, Mascot Artwork" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/ubuntu-25-10-wallpaper-mascot-artwork" target="_blank">Ubuntu 25.10 Reveals New Wallpaper, Mascot Artwork</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-17 14:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/kpop-demon-hunters-netflix.jpg" alt="‘KPop Demon Hunters 2’ is Looking More Likely" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/kpop-demon-hunters-2-is-looking-more-likely-2000644099" target="_blank">‘KPop Demon Hunters 2’ is Looking More Likely</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-17 18:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/batmandeadpool-cover.jpg" alt="The DC/Marvel Teamup Adds New Hero Duos To the Mix" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +274,6 @@
                 <span class="time">2025-08-17 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/02/pup.jpeg?fit=1500%2C1125&amp;quality=60&amp;ssl=1" alt="This Saint Bernard is the chillest doggo I&#x27;ve ever seen" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/16/this-saint-bernard-is-the-chillest-doggo-ive-ever-seen.html" target="_blank">This Saint Bernard is the chillest doggo I&#x27;ve ever seen</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-16 22:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 41 | 📸 With Images: 282 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
