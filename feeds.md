@@ -1,30 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-17 07:01:42 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-17 08:01:45 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, August 17, 2025 - 07:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, August 17, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -162,6 +165,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ltpp_universe/revolutionary-performance-breakthrough-in-modern-web-development6277-550d" target="_blank">Revolutionary Performance Breakthrough in Modern Web Development(6277)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-17 07:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.finkelstein.fr/sqlite-sync-engine-with-reactivity" target="_blank">Lessons learned from building a sync-engine and reactivity system with SQLite</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-17 06:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ltpp_universe/concurrency-mastery-through-advanced-async-programming0026-3cbj" target="_blank">Concurrency Mastery Through Advanced Async Programming(0026)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-17 06:46</span>
@@ -194,29 +215,20 @@
                 <span class="time">2025-08-17 00:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fedora-XLibre-Copr-Repo" target="_blank">Fedora Copr Repository Offers XLibre Packages For Alternative X Server</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-17 00:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/future_youtube/linus-tech-tips-ltt-they-said-my-gaming-badminton-club-would-never-open-1bng" target="_blank">Linus Tech Tips (LTT): They Said my Gaming &amp; Badminton Club Would Never OPEN!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-17 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/02/pup.jpeg?fit=1500%2C1125&amp;quality=60&amp;ssl=1" alt="This Saint Bernard is the chillest doggo I&#x27;ve ever seen" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/16/this-saint-bernard-is-the-chillest-doggo-ive-ever-seen.html" target="_blank">This Saint Bernard is the chillest doggo I&#x27;ve ever seen</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-16 22:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Some-delicious-raw-oysters-I-ate-in-West-Hollywo.jpg?fit=1080%2C1434&amp;quality=60&amp;ssl=1" alt="Flesh-eating bacteria now in Cape Cod, Massachusetts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,15 +274,6 @@
                 <span class="time">2025-08-16 16:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/hed14.jpg" alt="With Gears Of War: Reloaded Emerging On PS5 Soon, Will It Support Crossplay?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gears-of-war-reloaded-crossplay-cross-save-progression-ps5-xbox-2000618072" target="_blank">With Gears Of War: Reloaded Emerging On PS5 Soon, Will It Support Crossplay?</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-16 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -290,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 07:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
