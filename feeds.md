@@ -1,37 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-08-17 12:01:59 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-17 13:09:45 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, August 17, 2025 - 12:02 UTC</div>
+    <div class="newspaper-date">Sunday, August 17, 2025 - 13:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +54,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/Zelenskyy-DB-250817_1755421978820_hpMain_4x3t_384.jpg" alt="European leaders confirm they will join Zelenskyy in White House meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/russia-ceasefire-refusal-complicates-talks-zelenskyy-white-house/story?id=124719641" target="_blank">European leaders confirm they will join Zelenskyy in White House meeting</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-17 12:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/17/nx-s1-5505324/hurricane-erin-downgraded" target="_blank">Hurricane Erin downgraded to Category 3 storm</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-17 12:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/17/riot-police-clash-with-protesters-in-serbia?traffic_source=rss" target="_blank">Riot police clash with protesters in Serbia</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-17 12:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755433780680_tdy_sun_engel_ukraine_putin_250817_1920x1080-nlzuji.jpg" alt="Ukrainians React to Trump&#x27;s Warm Welcome of Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/ukrainians-are-skeptical-of-putin-s-intentions-after-trump-meeting-245161541851" target="_blank">Ukrainians React to Trump&#x27;s Warm Welcome of Putin</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-17 12:29</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -63,42 +105,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/gallery/2025/8/17/antigovernment-protesters-clash-with-police-in-several-serbian-cities?traffic_source=rss" target="_blank">Antigovernment protesters clash with police in several Serbian cities</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-17 08:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/17/nx-s1-5505271/three-republican-led-states-to-send-hundreds-of-national-guard-troops-to-washington" target="_blank">Three Republican-led states to send hundreds of National Guard troops to Washington</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-17 07:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4325/live/4b34e2e0-7b2c-11f0-ab3e-bd52082cd0ae.jpg" alt="Russia complicating end to war, says Zelensky ahead of Trump meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c04rv2p3936o?at_medium=RSS&at_campaign=rss" target="_blank">Russia complicating end to war, says Zelensky ahead of Trump meeting</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-17 06:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/17/luis-diaz-scores-for-bayern-munich-to-win-german-supercup-on-debut?traffic_source=rss" target="_blank">Luis Diaz scores for Bayern Munich to win German Supercup on debut</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-17 04:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/17/lionel-messi-scores-as-inter-miami-wins-late-against-la-galaxy?traffic_source=rss" target="_blank">Lionel Messi scores as Inter Miami wins late against LA Galaxy</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-17 03:33</span>
             </div>
         </div>
 </div>
@@ -169,9 +175,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lizmat/purl-support-4m8h" target="_blank">PURL Support</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-17 13:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ltpp_universe/production-deployment-strategies-for-high-performance-web-services6576-1k0b" target="_blank">Production Deployment Strategies for High-Performance Web Services(6576)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-17 11:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://threedle.github.io/ll3m/" target="_blank">LL3M: Large Language 3D Modelers</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-17 11:20</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +223,6 @@
                 <span class="title"><a href="https://www.trackingai.org/home" target="_blank">IQ Tests Results for AI</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-17 09:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Shotcut-25.08-Released" target="_blank">Shotcut 25.08 Brings More Bug Fixes To This Open-Source Video Editor</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-17 09:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ltpp_universe/revolutionary-performance-breakthrough-in-modern-web-development6277-550d" target="_blank">Revolutionary Performance Breakthrough in Modern Web Development(6277)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-17 07:48</span>
             </div>
         </div>
 </div>
@@ -297,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 41 | 📸 With Images: 283 |
+        🔄 Last Updated: 13:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
