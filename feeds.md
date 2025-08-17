@@ -1,36 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-08-17 06:01:48 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-17 07:01:42 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, August 17, 2025 - 06:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, August 17, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4325/live/4b34e2e0-7b2c-11f0-ab3e-bd52082cd0ae.jpg" alt="Russia complicating end to war, says Zelensky ahead of Trump meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c04rv2p3936o?at_medium=RSS&at_campaign=rss" target="_blank">Russia complicating end to war, says Zelensky ahead of Trump meeting</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-17 06:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -65,6 +68,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c66b/live/565d5a10-7b1a-11f0-a34f-318be3fb0481.jpg" alt="Starmer to call European allies ahead of Zelensky White House visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c78mve9209ro?at_medium=RSS&at_campaign=rss" target="_blank">Starmer to call European allies ahead of Zelensky White House visit</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-17 03:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -80,24 +92,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c04rv2p3936o?at_medium=RSS&at_campaign=rss" target="_blank">Russia complicating end to war, says Zelensky, as Trump pursues peace deal</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-17 00:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea6c/live/d7e14800-7aff-11f0-89a1-076024a5287f.jpg" alt="Russia &#x27;complicating&#x27; end to war, says Zelensky as Trump urges Ukraine to agree to Moscow peace deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c04rv2p3936o?at_medium=RSS&at_campaign=rss" target="_blank">Russia &#x27;complicating&#x27; end to war, says Zelensky as Trump urges Ukraine to agree to Moscow peace deal</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-17 00:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755384004528_wnn_vhi_trump_putin_fallout_250816_1920x1080-n1k3kg.jpg" alt="Zelenskyy set to visit Trump in Washington on Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/zelenskyy-set-to-visit-trump-in-washington-on-monday-245151301512" target="_blank">Zelenskyy set to visit Trump in Washington on Monday</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-16 22:40</span>
             </div>
         </div>
 </div>
@@ -165,6 +159,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ltpp_universe/concurrency-mastery-through-advanced-async-programming0026-3cbj" target="_blank">Concurrency Mastery Through Advanced Async Programming(0026)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-17 06:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8197s7cpvf5nhxb8xhwu.gif" alt="10 Latest GitHub Repos for AI Engineers in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,15 +210,6 @@
                 <span class="title"><a href="https://dev.to/future_youtube/linus-tech-tips-ltt-they-said-my-gaming-badminton-club-would-never-open-1bng" target="_blank">Linus Tech Tips (LTT): They Said my Gaming &amp; Badminton Club Would Never OPEN!</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-17 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://treeform.github.io/devcompas/" target="_blank">Dev Compass – Programming Philosophy Quiz</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-16 22:04</span>
             </div>
         </div>
 </div>
@@ -296,8 +290,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 06:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
