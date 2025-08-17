@@ -1,41 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-08-17 00:05:06 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-17 01:29:38 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 33 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, August 17, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, August 17, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/16/nx-s1-5504861/trump-dc-protest-federal-takeover-white-house" target="_blank">Hundreds march to White House to protest Trump&#x27;s D.C. crackdown</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-17 01:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755384004528_wnn_vhi_trump_putin_fallout_250816_1920x1080-n1k3kg.jpg" alt="Zelenskyy set to visit Trump in Washington on Monday" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,15 +103,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c04rv2p3936o?at_medium=RSS&at_campaign=rss" target="_blank">Trump shifts ceasefire stance and urges Ukraine to agree Russia peace deal</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-16 19:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/16/nx-s1-5504634/state-department-halts-gaza-visas" target="_blank">State Department halts &#x27;medical-humanitarian&#x27; visas for people from Gaza</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-16 19:08</span>
             </div>
         </div>
 </div>
@@ -170,12 +170,39 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc0szyfj3ha75e0qf8gpu.png" alt="LEANN: The World&#x27;s Most Lightweight Semantic Search Backend for RAG Everything 🎉" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yichuan_wang_fcf06c22a529/leann-the-worlds-most-lightweight-semantic-search-backend-for-rag-everything-57l9" target="_blank">LEANN: The World&#x27;s Most Lightweight Semantic Search Backend for RAG Everything 🎉</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-17 00:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-XLibre-Copr-Repo" target="_blank">Fedora Copr Repository Offers XLibre Packages For Alternative X Server</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-17 00:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/future_youtube/linus-tech-tips-ltt-they-said-my-gaming-badminton-club-would-never-open-1bng" target="_blank">Linus Tech Tips (LTT): They Said my Gaming &amp; Badminton Club Would Never OPEN!</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-17 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://treeform.github.io/devcompas/" target="_blank">Dev Compass – Programming Philosophy Quiz</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-16 22:04</span>
             </div>
         </div>
 <div class="story">
@@ -194,33 +221,6 @@
                 <span class="title"><a href="https://dev.to/gg_news/the-game-theorists-what-was-the-true-secret-of-the-mimic-ft-dawko-fuhnaff-ryetoast-fg2" target="_blank">The Game Theorists: 🔴What WAS the True Secret of the Mimic? | Ft. @Dawko @FuhNaff @RyeToast @HyperDroid @IDsFantasy</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-16 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vishva_murthy_4480fcb3d83/openais-gpt-oss-llm-models-unlocking-the-future-of-open-ai-29c0" target="_blank">OpenAI&#x27;s GPT-OSS LLM Models: Unlocking the Future of Open AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-16 18:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9oj8o83cjfgx5mpphoxd.png" alt="Building ViberSpace with Kiro: AI-Powered Freelance, Reinvented" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/belmirongola/building-viberspace-with-kiro-ai-powered-freelance-reinvented-550e" target="_blank">Building ViberSpace with Kiro: AI-Powered Freelance, Reinvented</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-16 17:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://derwiki.medium.com/do-things-that-dont-scale-and-then-don-t-scale-9fd2cd7e2156" target="_blank">Do things that don&#x27;t scale, and then don&#x27;t scale</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-16 17:33</span>
             </div>
         </div>
 </div>
@@ -301,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
