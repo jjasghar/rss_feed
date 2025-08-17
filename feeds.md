@@ -1,15 +1,10 @@
-<!-- Processing 54 RSS feeds at 2025-08-17 15:01:30 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-17 16:01:37 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
@@ -17,26 +12,26 @@
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 32 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, August 17, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, August 17, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +107,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/689fdb65aece3e724972d067/master/pass/Update-%20The%20Best%20Posture%20Correctors%20to%20Straighten%20You%20Out.png" alt="These 5 Posture Corrector Picks Will Straighten You Out (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/posture-correctors/" target="_blank">These 5 Posture Corrector Picks Will Straighten You Out (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-17 13:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -154,15 +158,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/08/16/ai-powered-stuffed-animals-are-coming-for-your-kids/" target="_blank">AI-powered stuffed animals are coming for your kids</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-08-16 19:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/horrorTOP-500x500-1754745298.jpg" alt="Celebrating 50 years of The Rocky Horror Picture Show" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2025/08/celebrating-50-years-of-the-rocky-horror-picture-show/" target="_blank">Celebrating 50 years of The Rocky Horror Picture Show</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-16 19:26</span>
             </div>
         </div>
 </div>
@@ -230,6 +225,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/terence-stamp-murder-mystery.jpg" alt="‘Superman’ and ‘Star Wars’ Actor Terence Stamp Dies at Age 87" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/superman-and-star-wars-actor-terence-stamp-dies-at-age-87-2000644162" target="_blank">‘Superman’ and ‘Star Wars’ Actor Terence Stamp Dies at Age 87</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-17 15:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/hed19.jpg" alt="What The Heck Is Going On With PUBG’s Crossplay Situation?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/what-the-heck-is-going-on-with-pubgs-crossplay-situation-2000618106" target="_blank">What The Heck Is Going On With PUBG’s Crossplay Situation?</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-17 15:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/hed17.jpg" alt="Everything You Need Know About Jumping Back Into Fortnite For Chapter 6, Season 4" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -265,45 +278,13 @@
                 <span class="time">2025-08-16 20:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/hed16.jpg" alt="How Long Is Donkey Kong Bananza?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/donkey-kong-bananza-hltb-hours-switch-2-2-2000618086" target="_blank">How Long Is Donkey Kong Bananza?</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-16 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/hed15.jpg" alt="Everything You’d Want To Know About Tony Hawk’s Pro Skater 3+4" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/tony-hawk-pro-skater-3-4-skaters-crossplay-hltb-save-2000618077" target="_blank">Everything You’d Want To Know About Tony Hawk’s Pro Skater 3+4</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-16 16:30</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1755141363-20250816.png" alt="Saturday Morning Breakfast Cereal - Die" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/die-2" target="_blank">Saturday Morning Breakfast Cereal - Die</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-08-16 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
