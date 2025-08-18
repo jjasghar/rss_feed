@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-18 12:02:06 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-08-18 13:12:49 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, August 18, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, August 18, 2025 - 13:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/18/israelis-hold-major-protests-and-strike-against-gaza-war?traffic_source=rss" target="_blank">Israelis hold major protests and strike against Gaza war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-18 12:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f63/live/58e388b0-7c2b-11f0-83cc-c5da98c419b8.jpg" alt="What each side wants from Ukraine talks at White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy4dq2yve5lo?at_medium=RSS&at_campaign=rss" target="_blank">What each side wants from Ukraine talks at White House</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-18 12:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +97,6 @@
                 <span class="time">2025-08-18 09:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/kharkiv-ei6fo4.jpg" alt="Russia pummels eastern Ukraine as Zelenskyy travels to Washington" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/russia-pummels-eastern-ukraine-as-zelenskyy-travels-to-washington-245185605776" target="_blank">Russia pummels eastern Ukraine as Zelenskyy travels to Washington</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-18 09:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Zelenskyy-Trump-DB-250818_1755504553787_hpMain_4x3t_384.jpg" alt="Trump says Zelenskyy can end Russia war &#x27;almost immediately&#x27; before White House meet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/trump-zelenskyy-end-russia-war-immediately-white-house/story?id=124734583" target="_blank">Trump says Zelenskyy can end Russia war &#x27;almost immediately&#x27; before White House meet</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-18 09:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -111,6 +108,15 @@
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/756896/best-gadgets-apps-weve-covered" target="_blank">The best gadgets and apps in August (so far)</a></span>
                 <span class="feed">The Verge</span>
+                <span class="time">2025-08-18 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68a02b2f0f0d8eb47079908b/master/pass/The%20Best%20Gaming%20Mouse.png" alt="9 Picks of the Best Gaming Mouse, Tested and Reviewed (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-gaming-mouse/" target="_blank">9 Picks of the Best Gaming Mouse, Tested and Reviewed (2025)</a></span>
+                <span class="feed">WIRED</span>
                 <span class="time">2025-08-18 12:00</span>
             </div>
         </div>
@@ -150,20 +156,29 @@
                 <span class="time">2025-08-18 04:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/17/gpt-5-is-supposed-to-be-nicer-now/" target="_blank">GPT-5 is supposed to be nicer now</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-17 21:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Illumos-Cafe" target="_blank">Illumos Cafe Hopes To Reinvigorate Interest In Illumos/OpenSolaris Derived Platforms</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-18 12:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/08/hcp-terraform-hyok/en/headerimage/generatedHeaderImage-1755434073396.jpg" alt="HCP Terraform Now Offers Hold Your Own Key (HYOK) Option for Artifact Encryption" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/hcp-terraform-hyok/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">HCP Terraform Now Offers Hold Your Own Key (HYOK) Option for Artifact Encryption</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-18 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18562761&w=600" alt="Architecting Compound AI Systems for Scalable Enterprise Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -200,24 +215,6 @@
                 <span class="time">2025-08-18 09:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://developmentseed.org/blog/2025-08-01-obstore/" target="_blank">We Needed Better Cloud Storage for Python so We Built Obstore</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-08-18 09:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/gemini-2-5-deep-think/en/headerimage/gemini-agent-mode-android-studio-1755506566675.jpeg" alt="Gemini 2.5 Deep Think Parallelizes Creative Problem-Solving" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/gemini-2-5-deep-think/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Gemini 2.5 Deep Think Parallelizes Creative Problem-Solving</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-18 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Casimiro-PT-Shutterstock.-No-use-without-permis.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="&#x27;Broligarchy&#x27;, &#x27;delulu&#x27; and &#x27;skibidi&#x27; added to Cambridge Dictionary" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/18/broligarchy-delulu-and-skibidi-added-to-cambridge-dictionary.html" target="_blank">&#x27;Broligarchy&#x27;, &#x27;delulu&#x27; and &#x27;skibidi&#x27; added to Cambridge Dictionary</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-18 12:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/d2e7012139e56ed22d4aa2faa8a653ef.jpg" alt="20 Video Game Deaths That Broke Our Hearts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/best-video-game-death-scenes-final-fantasy-last-of-us-2000618093" target="_blank">20 Video Game Deaths That Broke Our Hearts</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-18 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/The-map-from-Lone-Wolfs-first-outing.jpg?fit=1080%2C836&amp;quality=60&amp;ssl=1" alt="Download classic gamebooks at Project Aon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +286,6 @@
                 <span class="title"><a href="https://kotaku.com/no-sleep-for-kaname-date-ai-somnium-files-hltb-2000618122" target="_blank">The Latest Somnium Files Game Might Be Short, But You’ll Want To Play It More Than Once</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-17 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/kpop-demon-hunters-netflix.jpg" alt="‘KPop Demon Hunters 2’ is Looking More Likely" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/kpop-demon-hunters-2-is-looking-more-likely-2000644099" target="_blank">‘KPop Demon Hunters 2’ is Looking More Likely</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-17 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/batmandeadpool-cover.jpg" alt="The DC/Marvel Teamup Adds New Hero Duos To the Mix" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-dc-marvel-teamup-adds-new-hero-duos-to-the-mix-2000644140" target="_blank">The DC/Marvel Teamup Adds New Hero Duos To the Mix</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-17 17:05</span>
             </div>
         </div>
 </div>
@@ -328,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 13:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
