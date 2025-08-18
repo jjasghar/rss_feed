@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-18 15:01:58 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-18 16:01:57 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 30 feeds processed -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, August 18, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, August 18, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/25/04/1920x1080/skynews-breaking-news-breaking_6875336.png?20250707143109" alt="Hamas &#x27;agrees to ceasefire-hostage deal&#x27; with Israel, senior official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/hamas-agrees-to-ceasefire-hostage-deal-with-israel-senior-official-says-13414166" target="_blank">Hamas &#x27;agrees to ceasefire-hostage deal&#x27; with Israel, senior official says</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-18 15:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +101,20 @@
                 <span class="time">2025-08-18 12:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755515844473_tdy_news_7a_haake_welker_trump_zelenskyy_250818_1920x1080-3r2wpe.jpg" alt="Top European Leaders Join Zelenskyy for WH Meeting With Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-tells-zelenskyy-to-cede-crimea-not-join-nato-to-end-war-245188165611" target="_blank">Top European Leaders Join Zelenskyy for WH Meeting With Trump</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-18 11:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/decoder-podcast-with-nilay-patel/760522/obsidian-ceo-steph-ango-kepano-productivity-software-notes-app" target="_blank">How the head of Obsidian went from superfan to CEO</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-18 15:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +160,47 @@
                 <span class="time">2025-08-18 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689e05bcde0d76dc4b8994bf/master/pass/Tech_Mogul%20(1).jpg" alt="How Microschools Became the Latest Tech Mogul Obsession" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/silicon-valley-tech-moguls-microschools/" target="_blank">How Microschools Became the Latest Tech Mogul Obsession</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-18 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/wallinters/wallinter-hybrid-a-new-protocol-for-human-ai-collaboration-1hpa" target="_blank">Wallinter-Hybrid: A New Protocol for Human-AI Collaboration</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-18 15:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/framework-desktop-power" target="_blank">A Deep Dive Into The Power &amp; Thermals For The Framework Desktop With AMD Ryzen AI Max</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-18 15:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/08/deepmind-genie-virtual/en/headerimage/generatedHeaderImage-1755270659801.jpg" alt="DeepMind Launches Genie 3, a Text-to-3D Interactive World Model" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/deepmind-genie-virtual/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">DeepMind Launches Genie 3, a Text-to-3D Interactive World Model</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-18 15:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18561912&w=600" alt="Real-Time Analytics Using Zero-ETL for MySQL" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/real-time-analytics-zero-etl-mysql" target="_blank">Real-Time Analytics Using Zero-ETL for MySQL</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-18 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -184,42 +217,6 @@
                 <span class="title"><a href="https://dzone.com/articles/logging-mcp-protocol-when-using-stdio-part-ii" target="_blank">Logging MCP Protocol When Using stdio- Part II</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-08-18 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/pi-touch-display-5-inch.jpg?resize=406%2C232&amp;ssl=1" alt="Smaller, Cheaper Raspberry Pi Touch Display 2 Announced" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/raspberry-pi-touch-display-2-specs-price" target="_blank">Smaller, Cheaper Raspberry Pi Touch Display 2 Announced</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-18 14:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/ubuntu-25-04-amd-sev-snp-host-support" target="_blank">AMD SEV-SNP host support available on Ubuntu 25.04</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-08-18 14:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/FFmpeg/asm-lessons" target="_blank">FFmpeg Assembly Language Lessons</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-18 13:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Firefox-142-Extensions-AI-LLMs" target="_blank">Firefox 142 Now Available - Allows Browser Extensions/Add-Ons To Use AI LLMs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-18 13:36</span>
             </div>
         </div>
 </div>
@@ -241,6 +238,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Frankenstein-Oscar-Isaac.jpg" alt="We Finally Know When Guillermo del Toro’s ‘Frankenstein’ Will Hit Theaters and Netflix" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/guillermo-del-toro-frankenstein-release-date-theaters-netflix-2000644366" target="_blank">We Finally Know When Guillermo del Toro’s ‘Frankenstein’ Will Hit Theaters and Netflix</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-18 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K2YQX26NYNCWMCHAQGQYTS4Q/hero-image.jpg" alt="Grammarly Is Rolling Out a New Interface and More AI Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/grammarl-has-a-new-interface-and-more-ai-tools?utm_medium=RSS" target="_blank">Grammarly Is Rolling Out a New Interface and More AI Tools</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-18 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Microsoft-Office-Professional-2021-for-Windows.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Pay $50 once—get MS Office with no subscription fees forever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/18/pay-50-once-get-ms-office-with-no-subscription-fees-forever.html" target="_blank">Pay $50 once—get MS Office with no subscription fees forever</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-18 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JWRRAFM7THXJCT607Y4S37TC/hero-image.png" alt="Peloton’s Stretching Classes Are Helping Me Learn to Do the Splits As an Adult" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,38 +292,20 @@
                 <span class="time">2025-08-18 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Casimiro-PT-Shutterstock.-No-use-without-permis.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="&#x27;Broligarchy&#x27;, &#x27;delulu&#x27; and &#x27;skibidi&#x27; added to Cambridge Dictionary" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/18/broligarchy-delulu-and-skibidi-added-to-cambridge-dictionary.html" target="_blank">&#x27;Broligarchy&#x27;, &#x27;delulu&#x27; and &#x27;skibidi&#x27; added to Cambridge Dictionary</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-18 12:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/d2e7012139e56ed22d4aa2faa8a653ef.jpg" alt="20 Video Game Deaths That Broke Our Hearts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/best-video-game-death-scenes-final-fantasy-last-of-us-2000618093" target="_blank">20 Video Game Deaths That Broke Our Hearts</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-18 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/The-map-from-Lone-Wolfs-first-outing.jpg?fit=1080%2C836&amp;quality=60&amp;ssl=1" alt="Download classic gamebooks at Project Aon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/18/download-classic-gamebooks-at-project-aon.html" target="_blank">Download classic gamebooks at Project Aon</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-18 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1755378695-20250818.png" alt="Saturday Morning Breakfast Cereal - Id" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/id" target="_blank">Saturday Morning Breakfast Cereal - Id</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-08-18 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -318,22 +324,13 @@
                 <span class="time">2025-08-18 00:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1755141493-20250817.png" alt="Saturday Morning Breakfast Cereal - Firstborn" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/firstborn" target="_blank">Saturday Morning Breakfast Cereal - Firstborn</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-08-17 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
