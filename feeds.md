@@ -1,39 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-08-18 18:01:50 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-18 19:02:39 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, August 18, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, August 18, 2025 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/2230144244-0464jd.jpg" alt="How Trump and Zelenskyy&#x27;s second Oval Office meeting differed from the first" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/how-trump-and-zelenskyy-s-second-oval-office-meeting-differed-from-the-first-245212741600" target="_blank">How Trump and Zelenskyy&#x27;s second Oval Office meeting differed from the first</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-18 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Trump, Zelenskyy meet in Oval Office: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,20 +95,20 @@
                 <span class="time">2025-08-18 14:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/18/spain-portugal-battle-blazes-as-death-toll-from-wildfires-rises-to-six?traffic_source=rss" target="_blank">‘Flames that consumed the hills’: Portugal, Spain reel from wildfires</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-18 13:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables" target="_blank">The best Garmin watches for training and everyday life</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-18 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +154,20 @@
                 <span class="time">2025-08-18 14:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/756896/best-gadgets-apps-weve-covered" target="_blank">The best gadgets and apps in August (so far)</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-18 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18557515&w=600" alt="The Kill Switch: A Coder&#x27;s Silent Act of Revenge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/kill-switch-coders-silent-act-of-revenge" target="_blank">The Kill Switch: A Coder&#x27;s Silent Act of Revenge</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-18 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +213,6 @@
                 <span class="time">2025-08-18 16:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/wallinters/wallinter-hybrid-a-new-protocol-for-human-ai-collaboration-1hpa" target="_blank">Wallinter-Hybrid: A New Protocol for Human-AI Collaboration</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-18 15:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +232,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/peigneur.jpg?fit=480%2C360&amp;quality=60&amp;ssl=1" alt="What happened at Lake Peigneur" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/18/what-happened-at-lake-peigneur.html" target="_blank">What happened at Lake Peigneur</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-18 18:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JZ7NDXSNBC06HD16KFYNQZDJ/hero-image.png" alt="LG&#x27;s Newest Premium OLED TV Is Over $1,000 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/lg-65-inch-c5-oled-tv-sale?utm_medium=RSS" target="_blank">LG&#x27;s Newest Premium OLED TV Is Over $1,000 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-18 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/12/newsmax-e1755539438340.jpg?fit=768%2C439&amp;quality=60&amp;ssl=1" alt="NewsMax settles with Dominion for $67 million" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +284,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/grammarl-has-a-new-interface-and-more-ai-tools?utm_medium=RSS" target="_blank">Grammarly Is Rolling Out a New Interface and More AI Tools</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-18 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Microsoft-Office-Professional-2021-for-Windows.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Pay $50 once—get MS Office with no subscription fees forever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/18/pay-50-once-get-ms-office-with-no-subscription-fees-forever.html" target="_blank">Pay $50 once—get MS Office with no subscription fees forever</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-18 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JWRRAFM7THXJCT607Y4S37TC/hero-image.png" alt="Peloton’s Stretching Classes Are Helping Me Learn to Do the Splits As an Adult" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/peloton-stretching-classes-are-helping-me-do-the-splits?utm_medium=RSS" target="_blank">Peloton’s Stretching Classes Are Helping Me Learn to Do the Splits As an Adult</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-18 14:30</span>
             </div>
         </div>
 </div>
@@ -331,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
