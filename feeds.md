@@ -1,29 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-18 17:02:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-18 18:01:50 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 20 feeds processed -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, August 18, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, August 18, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Trump, Zelenskyy meet in Oval Office: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Trump, Zelenskyy meet in Oval Office: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-18 17:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Leyen-1-gty-gmh-250818_1755535265793_hpMain_4x3t_384.jpg" alt="Trump-Zelenskyy live updates: European leaders arrive at WH in support of Zelenskyy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,20 +103,29 @@
                 <span class="time">2025-08-18 13:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/18/israelis-hold-major-protests-and-strike-against-gaza-war?traffic_source=rss" target="_blank">Israelis hold major protests and strike against Gaza war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-18 12:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/18/texas-ag-accuses-meta-character-ai-of-misleading-kids-with-mental-health-claims/" target="_blank">Texas AG accuses Meta, Character.AI of misleading kids with mental health claims</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-18 17:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2230278319-500x500.jpg" alt="After recent tests, China appears likely to beat the United States back to the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/08/after-recent-tests-china-appears-likely-to-beat-the-united-states-back-to-the-moon/" target="_blank">After recent tests, China appears likely to beat the United States back to the Moon</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-18 17:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,24 +162,6 @@
                 <span class="time">2025-08-18 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a02b2f0f0d8eb47079908b/master/pass/The%20Best%20Gaming%20Mouse.png" alt="9 Picks of the Best Gaming Mouse, Tested and Reviewed (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-gaming-mouse/" target="_blank">9 Picks of the Best Gaming Mouse, Tested and Reviewed (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-18 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/IMG_2568-500x500.jpeg" alt="Ars Technica System Guide: Four sample PC builds, from $500 to $5,000" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/08/ars-technica-system-guide-back-to-pc-building-for-back-to-school/" target="_blank">Ars Technica System Guide: Four sample PC builds, from $500 to $5,000</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-18 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -161,54 +171,54 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/wallinters/wallinter-hybrid-a-new-protocol-for-human-ai-collaboration-1hpa" target="_blank">Wallinter-Hybrid: A New Protocol for Human-AI Collaboration</a></span>
+                <span class="title"><a href="https://dev.to/mongodb/document-modeling-with-the-django-mongodb-backend-3jck" target="_blank">Document Modeling With the Django MongoDB Backend</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2025-08-18 15:47</span>
+                <span class="time">2025-08-18 17:53</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/framework-desktop-power" target="_blank">A Deep Dive Into The Power &amp; Thermals For The Framework Desktop With AMD Ryzen AI Max</a></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Git-2.51-Released" target="_blank">Git 2.51 Released With More Changes Preparing For Git 3.0</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2025-08-18 15:40</span>
+                <span class="time">2025-08-18 17:17</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/news/2025/08/deepmind-genie-virtual/en/headerimage/generatedHeaderImage-1755270659801.jpg" alt="DeepMind Launches Genie 3, a Text-to-3D Interactive World Model" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/deepmind-genie-virtual/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">DeepMind Launches Genie 3, a Text-to-3D Interactive World Model</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-18 15:06</span>
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/git/highlights-from-git-2-51/" target="_blank">Highlights from Git 2.51</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-08-18 17:04</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18561912&w=600" alt="Real-Time Analytics Using Zero-ETL for MySQL" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18561946&w=600" alt="Expert Techniques to Trim Your Docker Images and Speed Up Build Times" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/real-time-analytics-zero-etl-mysql" target="_blank">Real-Time Analytics Using Zero-ETL for MySQL</a></span>
+                <span class="title"><a href="https://dzone.com/articles/trim-docker-images-speed-up-builds" target="_blank">Expert Techniques to Trim Your Docker Images and Speed Up Build Times</a></span>
                 <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-18 15:00</span>
+                <span class="time">2025-08-18 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://annas-archive.org/blog/an-update-from-the-team.html" target="_blank">Anna&#x27;s Archive: An Update from the Team</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-18 16:31</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jarvisscript/what-are-your-goals-for-the-week-140-4dhh" target="_blank">What are your goals for the week? #140</a></span>
+                <span class="title"><a href="https://dev.to/wallinters/wallinter-hybrid-a-new-protocol-for-human-ai-collaboration-1hpa" target="_blank">Wallinter-Hybrid: A New Protocol for Human-AI Collaboration</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2025-08-18 14:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18591253&w=600" alt="Logging MCP Protocol When Using stdio- Part II" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/logging-mcp-protocol-when-using-stdio-part-ii" target="_blank">Logging MCP Protocol When Using stdio- Part II</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-18 14:30</span>
+                <span class="time">2025-08-18 15:47</span>
             </div>
         </div>
 </div>
@@ -230,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/12/newsmax-e1755539438340.jpg?fit=768%2C439&amp;quality=60&amp;ssl=1" alt="NewsMax settles with Dominion for $67 million" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/18/newsmax-settles-with-dominion-for-67-million.html" target="_blank">NewsMax settles with Dominion for $67 million</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-18 17:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/Rayquaza_M07.jpg" alt="Pokémon Fans Are Still In Denial About How To Say This One Name" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +294,6 @@
                 <span class="time">2025-08-18 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/TogsDesign-Shutterstock.-.jpg?fit=1080%2C594&amp;quality=60&amp;ssl=1" alt="When traveling, Putin&#x27;s poop kept in suitcase to prevent it being studied" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/18/when-traveling-putins-poop-kept-in-suitcase-to-prevent-it-being-studied.html" target="_blank">When traveling, Putin&#x27;s poop kept in suitcase to prevent it being studied</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-18 13:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
