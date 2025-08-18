@@ -1,44 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-18 20:01:47 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-18 21:01:34 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 35 feeds processed -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, August 18, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, August 18, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/8/18/msnbc-reveals-new-name-as-part-of-corporate-divorce-from-nbc?traffic_source=rss" target="_blank">MSNBC reveals new name as part of corporate divorce from NBC</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-18 20:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/18/nx-s1-5506266/a-devastating-drought-in-iran" target="_blank">A Devastating Drought in Iran</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-18 19:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-10-gty-gmh-250818_1755538547080_hpMain_4x3t_384.jpg" alt="Key takeaways from Trump and Zelenskyy&#x27;s Oval Office meeting to discuss Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,29 +102,20 @@
                 <span class="time">2025-08-18 16:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-israel-tanks-gaza_6994755.jpg?20250818194610" alt="Hamas &#x27;agrees to ceasefire deal&#x27;, say officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/hamas-agrees-to-ceasefire-hostage-deal-with-israel-senior-official-says-13414166" target="_blank">Hamas &#x27;agrees to ceasefire deal&#x27;, say officials</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-18 15:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/04/1920x1080/skynews-breaking-news-breaking_6875336.png?20250707143109" alt="Hamas &#x27;agrees to ceasefire-hostage deal&#x27; with Israel, senior official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/hamas-agrees-to-ceasefire-hostage-deal-with-israel-senior-official-says-13414166" target="_blank">Hamas &#x27;agrees to ceasefire-hostage deal&#x27; with Israel, senior official says</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-18 15:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/18/xs-declining-android-app-installs-are-hurting-subscription-revenue/" target="_blank">X’s declining Android app installs are hurting subscription revenue</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-18 20:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -158,20 +161,20 @@
                 <span class="time">2025-08-18 17:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/18/texas-ag-accuses-meta-character-ai-of-misleading-kids-with-mental-health-claims/" target="_blank">Texas AG accuses Meta, Character.AI of misleading kids with mental health claims</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-18 17:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18557479&w=600" alt="What’s Wrong With Data Validation — and How It Relates to the Liskov Substitution Principle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/whats-wrong-with-data-validation" target="_blank">What’s Wrong With Data Validation — and How It Relates to the Liskov Substitution Principle</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-18 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28cve8dpz2bohxwo4q2s.png" alt="Functional Components in React" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -217,15 +220,6 @@
                 <span class="time">2025-08-18 17:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Git-2.51-Released" target="_blank">Git 2.51 Released With More Changes Preparing For Git 3.0</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-18 17:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Severance-3.jpg" alt="Britt Lower’s ‘Severance’ Audition Tape Proves Her Helly R. Was Meant to Be" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/britt-lowers-severance-audition-tape-proves-her-helly-r-was-meant-to-be-2000644579" target="_blank">Britt Lower’s ‘Severance’ Audition Tape Proves Her Helly R. Was Meant to Be</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-18 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/vanishing-asia.jpeg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Kevin Kelly shares tips to successful book publishing in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/18/kevin-kelly-shares-tips-to-successful-book-publishing-in-2025.html" target="_blank">Kevin Kelly shares tips to successful book publishing in 2025</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-18 20:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/05/Steam-Deck-Clair-Obscur-Geforce-Now.jpg" alt="Game Streaming Will Never Be the Same After Nvidia’s GeForce Now Update" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,24 +293,6 @@
                 <span class="time">2025-08-18 18:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/12/newsmax-e1755539438340.jpg?fit=768%2C439&amp;quality=60&amp;ssl=1" alt="NewsMax settles with Dominion for $67 million" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/18/newsmax-settles-with-dominion-for-67-million.html" target="_blank">NewsMax settles with Dominion for $67 million</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-18 17:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/Rayquaza_M07.jpg" alt="Pokémon Fans Are Still In Denial About How To Say This One Name" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-rayquaza-name-pronounce-how-to-say-anime-2000618230" target="_blank">Pokémon Fans Are Still In Denial About How To Say This One Name</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-18 16:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,6 +317,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/predicament.png" alt="Predicament" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3130/" target="_blank">Predicament</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-08-18 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5637.png" alt="X Versus O" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -336,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 41 | 📸 With Images: 282 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 281 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
