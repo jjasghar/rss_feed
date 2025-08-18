@@ -1,31 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-08-18 19:02:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-18 20:01:47 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 12 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, August 18, 2025 - 19:02 UTC</div>
+    <div class="newspaper-date">Monday, August 18, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +54,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-10-gty-gmh-250818_1755538547080_hpMain_4x3t_384.jpg" alt="Key takeaways from Trump and Zelenskyy&#x27;s Oval Office meeting to discuss Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/key-takeaways-trump-zelenskyys-oval-office-meeting-discuss/story?id=124751645" target="_blank">Key takeaways from Trump and Zelenskyy&#x27;s Oval Office meeting to discuss Ukraine</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-18 19:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/2230144244-0464jd.jpg" alt="How Trump and Zelenskyy&#x27;s second Oval Office meeting differed from the first" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -69,30 +91,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-israel-tanks-gaza_6994755.jpg?20250818194610" alt="Hamas &#x27;agrees to ceasefire deal&#x27;, say officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/hamas-agrees-to-ceasefire-hostage-deal-with-israel-senior-official-says-13414166" target="_blank">Hamas &#x27;agrees to ceasefire deal&#x27;, say officials</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-18 15:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/25/04/1920x1080/skynews-breaking-news-breaking_6875336.png?20250707143109" alt="Hamas &#x27;agrees to ceasefire-hostage deal&#x27; with Israel, senior official says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
                 <span class="title"><a href="https://news.sky.com/story/hamas-agrees-to-ceasefire-hostage-deal-with-israel-senior-official-says-13414166" target="_blank">Hamas &#x27;agrees to ceasefire-hostage deal&#x27; with Israel, senior official says</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-08-18 15:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/18/g-s1-83253/myanmar-to-hold-first-general-election-since-2021-coup-amid-ongoing-civil-war" target="_blank">Myanmar to hold first general election since 2021 coup amid ongoing civil war</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-18 14:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b75/live/52b5af20-7c28-11f0-83cc-c5da98c419b8.jpg" alt="Man guilty over role in shooting of girl, 9" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c939v7gejlpo?at_medium=RSS&at_campaign=rss" target="_blank">Man guilty over role in shooting of girl, 9</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-18 14:35</span>
             </div>
         </div>
 </div>
@@ -104,9 +117,45 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/760219/nvidia-geforce-now-rtx-5080-cloud-gaming" target="_blank">Nvidia’s GeForce Now is upgrading to RTX 5080 GPUs and opening a floodgate of new games</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-18 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/10/t-mobile-its-alive-500x500-1729188462.jpg" alt="T-Mobile claimed selling location data without consent is legal—judges disagree" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/08/t-mobile-claimed-selling-location-data-without-consent-is-legal-judges-disagree/" target="_blank">T-Mobile claimed selling location data without consent is legal—judges disagree</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-18 19:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables" target="_blank">The best Garmin watches for training and everyday life</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-08-18 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68a356a3a7b1e72a7de4e295/master/pass/west-texas-measles-sci-2201750223.jpg" alt="The West Texas Measles Outbreak Has Ended" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-west-texas-measles-outbreak-has-ended/" target="_blank">The West Texas Measles Outbreak Has Ended</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-18 18:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/18/texas-attorney-general-accuses-meta-character-ai-of-misleading-kids-with-mental-health-claims/" target="_blank">Texas attorney general accuses Meta, Character.AI of misleading kids with mental health claims</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-18 17:59</span>
             </div>
         </div>
 <div class="story">
@@ -118,47 +167,38 @@
                 <span class="time">2025-08-18 17:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2230278319-500x500.jpg" alt="After recent tests, China appears likely to beat the United States back to the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/08/after-recent-tests-china-appears-likely-to-beat-the-united-states-back-to-the-moon/" target="_blank">After recent tests, China appears likely to beat the United States back to the Moon</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-18 17:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/decoder-podcast-with-nilay-patel/760522/obsidian-ceo-steph-ango-kepano-productivity-software-notes-app" target="_blank">How the head of Obsidian went from superfan to CEO</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-18 15:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/18/why-paradigm-built-a-spreadsheet-with-an-ai-agent-in-every-cell/" target="_blank">Why Paradigm built a spreadsheet with an AI agent in every cell</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-18 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/760561/anthropic-claude-ai-chatbot-end-harmful-conversations" target="_blank">Claude AI will end &amp;#8216;persistently harmful or abusive user interactions&amp;#8217;</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-18 14:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28cve8dpz2bohxwo4q2s.png" alt="Functional Components in React" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nouribram/functional-components-in-react-33g" target="_blank">Functional Components in React</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-18 19:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Kdenlive-25.08-Released" target="_blank">Kdenlive 25.08 Preps For Future Hardware Acceleration Features</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-18 19:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.youtube.com/watch?v=sRPnX_f2V_c" target="_blank">Show HN: We started building an AI dev tool but it turned into a Sims-style game</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-18 18:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18557515&w=600" alt="The Kill Switch: A Coder&#x27;s Silent Act of Revenge" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -186,33 +226,6 @@
                 <span class="time">2025-08-18 17:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/open-source/git/highlights-from-git-2-51/" target="_blank">Highlights from Git 2.51</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-08-18 17:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18561946&w=600" alt="Expert Techniques to Trim Your Docker Images and Speed Up Build Times" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/trim-docker-images-speed-up-builds" target="_blank">Expert Techniques to Trim Your Docker Images and Speed Up Build Times</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-18 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://annas-archive.org/blog/an-update-from-the-team.html" target="_blank">Anna&#x27;s Archive: An Update from the Team</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-18 16:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +245,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/05/Steam-Deck-Clair-Obscur-Geforce-Now.jpg" alt="Game Streaming Will Never Be the Same After Nvidia’s GeForce Now Update" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/game-streaming-will-never-be-the-same-after-nvidias-geforce-now-update-2000644462" target="_blank">Game Streaming Will Never Be the Same After Nvidia’s GeForce Now Update</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-18 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/skate4.jpg" alt="EA’s Skate Reboot Will Feature 100 Songs And Servers That Support 150 Players" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/skate-4-reboot-ea-servers-150-players-100-songs-seasons-summer-2000618257" target="_blank">EA’s Skate Reboot Will Feature 100 Songs And Servers That Support 150 Players</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-18 19:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/peigneur.jpg?fit=480%2C360&amp;quality=60&amp;ssl=1" alt="What happened at Lake Peigneur" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,24 +297,6 @@
                 <span class="title"><a href="https://kotaku.com/pokemon-rayquaza-name-pronounce-how-to-say-anime-2000618230" target="_blank">Pokémon Fans Are Still In Denial About How To Say This One Name</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-18 16:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Frankenstein-Oscar-Isaac.jpg" alt="We Finally Know When Guillermo del Toro’s ‘Frankenstein’ Will Hit Theaters and Netflix" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/guillermo-del-toro-frankenstein-release-date-theaters-netflix-2000644366" target="_blank">We Finally Know When Guillermo del Toro’s ‘Frankenstein’ Will Hit Theaters and Netflix</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-18 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K2YQX26NYNCWMCHAQGQYTS4Q/hero-image.jpg" alt="Grammarly Is Rolling Out a New Interface and More AI Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/grammarl-has-a-new-interface-and-more-ai-tools?utm_medium=RSS" target="_blank">Grammarly Is Rolling Out a New Interface and More AI Tools</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-18 15:00</span>
             </div>
         </div>
 </div>
@@ -323,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 109 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 41 | 📸 With Images: 282 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
