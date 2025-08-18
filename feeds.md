@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-18 06:01:58 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-18 07:03:26 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, August 18, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, August 18, 2025 - 07:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -61,6 +64,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-starmer-macron_6993114.jpg?20250816185839" alt="European leaders have worked hard to get on the right side of Trump - but today the flattery will be framed by a gentle warning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/leaders-have-worked-hard-to-get-on-the-right-side-of-unpredictable-trump-precisely-for-moments-like-today-13413881" target="_blank">European leaders have worked hard to get on the right side of Trump - but today the flattery will be framed by a gentle warning</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-18 02:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ed8/live/f6c6ada0-7bb8-11f0-a34f-318be3fb0481.jpg" alt="&#x27;No going into Nato by Ukraine,&#x27; says Trump as Zelensky prepares for White House talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -85,15 +97,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124535213" target="_blank">Trump admin live updates: Trump teases &#x27;big day&#x27; at White House</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-18 01:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-donald-trump-volodymyr-zelenskyy_6994104.jpg?20250818014812" alt="Zelenskyy &#x27;can end war if he wants to&#x27;, says Trump - ahead of crucial White House meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/donald-trump-says-volodymyr-zelenskyy-could-end-war-with-russia-if-he-wanted-to-ahead-of-crucial-white-house-meeting-13413879" target="_blank">Zelenskyy &#x27;can end war if he wants to&#x27;, says Trump - ahead of crucial White House meeting</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-18 00:34</span>
             </div>
         </div>
 </div>
@@ -161,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/access-root-nautilus/" target="_blank">Access Root Directory in Nautilus File Manager</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-08-18 06:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fbastndev.gallerycdn.vsassets.io%2Fextensions%2Fbastndev%2Flynx-theme%2F0.1.2%2F1744898058774%2FMicrosoft.VisualStudio.Services.Icons.Default" alt="Lynxjs Extension Pack" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,15 +215,6 @@
                 <span class="title"><a href="https://clojure.github.io/core.async/flow-guide.html" target="_blank">Clojure Async Flow Guide</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-18 00:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/ubuntu-dangerous.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu’s New “Dangerous” Daily Builds – What Are They?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/ubuntu-dangerous-daily-builds-snap-testing" target="_blank">Ubuntu’s New “Dangerous” Daily Builds – What Are They?</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-18 00:13</span>
             </div>
         </div>
 </div>
@@ -301,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 07:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
