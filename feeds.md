@@ -1,35 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-08-18 00:05:12 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-18 01:29:46 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, August 18, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, August 18, 2025 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +114,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/17/gpt-5-is-supposed-to-be-nicer-now/" target="_blank">GPT-5 is supposed to be nicer now</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-17 21:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/08/17/stranger-things-creators-may-be-leaving-netflix/" target="_blank">‘Stranger Things’ creators may be leaving Netflix</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-08-17 20:07</span>
@@ -149,20 +164,38 @@
                 <span class="time">2025-08-17 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689e4458cde3276d15ebd4e8/master/pass/science_electricity_getty.jpg" alt="What Is the Electric Constant and Why Should You Care?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/what-is-the-electric-constant-and-why-should-you-care/" target="_blank">What Is the Electric Constant and Why Should You Care?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-17 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rubemfsv/pixijs-implementing-core-gaming-concepts-438j" target="_blank">PixiJS: Implementing Core Gaming Concepts</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-18 01:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/ubuntu-dangerous.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu devs plan “dangerous” daily builds – but what are they?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/ubuntu-dangerous-daily-builds-snap-testing" target="_blank">Ubuntu devs plan “dangerous” daily builds – but what are they?</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-18 00:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-rc2-Released" target="_blank">Linux 6.17-rc2 Released With Performance Fixes &amp; More</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-17 22:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,38 +223,20 @@
                 <span class="time">2025-08-17 21:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://zachperk.com/blog/when-did-ai-take-over-hn" target="_blank">When Did AI Take Over Hacker News?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-17 19:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ltpp_universe/context-management-and-request-lifecycle-optimization5804-5g73" target="_blank">Context Management and Request Lifecycle Optimization(5804)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-17 18:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-wuthering-waves-version-26-official-release-date-trailer-4m93" target="_blank">IGN: Wuthering Waves - Version 2.6 Official Release Date Trailer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-17 18:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/1min.AI-Advanced-Business-Plan-Lifetime-Subscription.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This one-time $80 AI tool is doing way too much. And honestly, we&#x27;re into it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/17/this-one-time-80-ai-tool-is-doing-way-too-much-and-honestly-were-into-it.html" target="_blank">This one-time $80 AI tool is doing way too much. And honestly, we&#x27;re into it</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-17 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/MAIN-13.jpg" alt="The Latest Somnium Files Game Might Be Short, But You’ll Want To Play It More Than Once" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,20 +282,20 @@
                 <span class="time">2025-08-17 15:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/hed19.jpg" alt="What The Heck Is Going On With PUBG’s Crossplay Situation?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/what-the-heck-is-going-on-with-pubgs-crossplay-situation-2000618106" target="_blank">What The Heck Is Going On With PUBG’s Crossplay Situation?</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-17 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5637.png" alt="X Versus O" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5637" target="_blank">X Versus O</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-08-18 00:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1755141493-20250817.png" alt="Saturday Morning Breakfast Cereal - Firstborn" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -295,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
