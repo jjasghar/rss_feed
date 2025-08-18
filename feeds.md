@@ -1,43 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-18 11:01:53 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-18 12:02:06 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 33 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, August 18, 2025 - 11:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, August 18, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -57,6 +50,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/18/g-s1-83248/up-first-newsletter-zelenskyy-trump-meeting-dc-militarized-second-week-israel-hamas" target="_blank">Trump and Zelenskyy to discuss end of war. And, more troops head to D.C.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-18 11:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/8/18/humanoid-robots-race-tumble-at-chinas-first-robot-olympics?traffic_source=rss" target="_blank">Humanoid robots race and tumble at China’s first ‘robot Olympics’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-18 10:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/08/18/nx-s1-5482921/memes-white-house-dhs-social-media-trump" target="_blank">What&#x27;s behind the Trump administration&#x27;s immigration memes?</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-18 09:48</span>
@@ -72,6 +83,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/kharkiv-ei6fo4.jpg" alt="Russia pummels eastern Ukraine as Zelenskyy travels to Washington" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/russia-pummels-eastern-ukraine-as-zelenskyy-travels-to-washington-245185605776" target="_blank">Russia pummels eastern Ukraine as Zelenskyy travels to Washington</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-18 09:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/Zelenskyy-Trump-DB-250818_1755504553787_hpMain_4x3t_384.jpg" alt="Trump says Zelenskyy can end Russia war &#x27;almost immediately&#x27; before White House meet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -80,38 +100,29 @@
                 <span class="time">2025-08-18 09:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250817-donald-trump-zelenskyy-vl-326p-5f55ed.jpg" alt="Trump tells Ukraine to give up Crimea and NATO hopes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/white-house/trump-pressures-ukraine-end-war-ahead-zelenskyy-meeting-rcna225476" target="_blank">Trump tells Ukraine to give up Crimea and NATO hopes</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-18 07:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/18/bolivia-to-hold-presidential-run-off-between-centrist-right-wing-candidates?traffic_source=rss" target="_blank">Bolivia to hold presidential run-off between centrist and right-winger</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-18 04:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/18/trump-says-ukraines-zelenskyy-can-end-war-almost-immediately?traffic_source=rss" target="_blank">Trump says Ukraine’s Zelenskyy can end war ‘almost immediately’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-18 03:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/756896/best-gadgets-apps-weve-covered" target="_blank">The best gadgets and apps in August (so far)</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-18 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/IMG_2568-500x500.jpeg" alt="Ars Technica System Guide: Four sample PC builds, from $500 to $5,000" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/08/ars-technica-system-guide-back-to-pc-building-for-back-to-school/" target="_blank">Ars Technica System Guide: Four sample PC builds, from $500 to $5,000</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-18 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/689e05bcde0d76dc4b8994bf/master/pass/Tech_Mogul%20(1).jpg" alt="How Microschools Became the Latest Tech Mogul Obsession" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,29 +159,20 @@
                 <span class="time">2025-08-17 21:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/17/stranger-things-creators-may-be-leaving-netflix/" target="_blank">‘Stranger Things’ creators may be leaving Netflix</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-17 20:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/17/duolingo-ceo-says-controversial-ai-memo-was-misunderstood/" target="_blank">Duolingo CEO says controversial AI memo was misunderstood</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-17 16:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18562761&w=600" alt="Architecting Compound AI Systems for Scalable Enterprise Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/compound-ai-systems-scalable-enterprise-workflows" target="_blank">Architecting Compound AI Systems for Scalable Enterprise Workflows</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-18 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsgs09pong1q1fd8wg093.png" alt="🎓 Learn Anything. Level Up. For Free." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -216,13 +218,18 @@
                 <span class="time">2025-08-18 09:00</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://hyperclay.com/" target="_blank">Web apps in a single, portable, self-updating, vanilla HTML file</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-18 06:38</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/eavesdropping-on-phone-conversations-through-vibrations.html" target="_blank">Eavesdropping on Phone Conversations Through Vibrations</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-08-18 11:02</span>
             </div>
         </div>
 </div>
@@ -230,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/The-map-from-Lone-Wolfs-first-outing.jpg?fit=1080%2C836&amp;quality=60&amp;ssl=1" alt="Download classic gamebooks at Project Aon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/18/download-classic-gamebooks-at-project-aon.html" target="_blank">Download classic gamebooks at Project Aon</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-18 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/idaho-national-laboratory-nuclear-waste-storage-DOE.jpg" alt="Scientists Pitch Bold Plan to Turn Nuclear Waste Into Nuclear Fuel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/scientists-pitch-bold-plan-to-turn-nuclear-waste-into-nuclear-fuel-2000643875" target="_blank">Scientists Pitch Bold Plan to Turn Nuclear Waste Into Nuclear Fuel</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-18 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/1min.AI-Advanced-Business-Plan-Lifetime-Subscription.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This one-time $80 AI tool is doing way too much. And honestly, we&#x27;re into it" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,24 +289,6 @@
                 <span class="title"><a href="https://gizmodo.com/the-dc-marvel-teamup-adds-new-hero-duos-to-the-mix-2000644140" target="_blank">The DC/Marvel Teamup Adds New Hero Duos To the Mix</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-17 17:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/hed20.jpg" alt="Rainbow Six Siege X: How To Enable Crossplay On Consoles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/rainbow-six-siege-crossplay-consoles-pc-xbox-ps5-2000618111" target="_blank">Rainbow Six Siege X: How To Enable Crossplay On Consoles</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-17 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/terence-stamp-murder-mystery.jpg" alt="‘Superman’ and ‘Star Wars’ Actor Terence Stamp Dies at Age 87" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/superman-and-star-wars-actor-terence-stamp-dies-at-age-87-2000644162" target="_blank">‘Superman’ and ‘Star Wars’ Actor Terence Stamp Dies at Age 87</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-17 15:45</span>
             </div>
         </div>
 </div>
@@ -321,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
