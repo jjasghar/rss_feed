@@ -1,41 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-18 01:29:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-18 02:38:27 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, August 18, 2025 - 01:30 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, August 18, 2025 - 02:38 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ed8/live/f6c6ada0-7bb8-11f0-a34f-318be3fb0481.jpg" alt="&#x27;No going into Nato by Ukraine,&#x27; says Trump as Zelensky prepares for White House talks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm21j1ve817o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;No going into Nato by Ukraine,&#x27; says Trump as Zelensky prepares for White House talks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-18 02:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/18/more-than-40-missing-after-boat-capsizes-in-nigerias-sokoto?traffic_source=rss" target="_blank">More than 40 missing after boat capsizes in Nigeria’s Sokoto</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-18 01:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,24 +98,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/crm4ln2ekg1o?at_medium=RSS&at_campaign=rss" target="_blank">Putin agreed to &#x27;robust&#x27; security guarantees for Ukraine, says US envoy</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-17 19:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/melania-trump-20250817-gty-jh_1755455432431_hpMain_4x3t_384.jpg" alt="Trump shares Melania Trump&#x27;s letter to Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-shares-melania-trumps-letter-putin/story?id=124726767" target="_blank">Trump shares Melania Trump&#x27;s letter to Putin</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-17 18:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d8e/live/1cbd0310-7b73-11f0-8b0c-831af2dbcc02.jpg" alt="Novelist Sally Rooney says she will support Palestine Action despite ban" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp94jz0y7ygo?at_medium=RSS&at_campaign=rss" target="_blank">Novelist Sally Rooney says she will support Palestine Action despite ban</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-17 18:31</span>
             </div>
         </div>
 </div>
@@ -179,6 +174,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/ubuntu-dangerous.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu’s New “Dangerous” Daily Builds – What Are They?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/ubuntu-dangerous-daily-builds-snap-testing" target="_blank">Ubuntu’s New “Dangerous” Daily Builds – What Are They?</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-18 00:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/ubuntu-dangerous.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu devs plan “dangerous” daily builds – but what are they?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -212,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/abo7hkmat_2076/a-guide-to-the-world-of-version-control-systems-vcs-3e23" target="_blank">A Guide to the World of Version Control Systems (VCS)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-17 21:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://docs.python.org/3/howto/functional.html" target="_blank">Functional Programming HOWTO</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-08-17 21:06</span>
             </div>
         </div>
 </div>
@@ -310,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 01:30 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 02:38 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
