@@ -1,42 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-08-18 10:01:46 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-18 11:01:53 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 33 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 5 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, August 18, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, August 18, 2025 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -112,6 +113,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/689e05bcde0d76dc4b8994bf/master/pass/Tech_Mogul%20(1).jpg" alt="How Microschools Became the Latest Tech Mogul Obsession" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/silicon-valley-tech-moguls-microschools/" target="_blank">How Microschools Became the Latest Tech Mogul Obsession</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-18 10:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -156,20 +166,29 @@
                 <span class="time">2025-08-17 16:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689fdb65aece3e724972d067/master/pass/Update-%20The%20Best%20Posture%20Correctors%20to%20Straighten%20You%20Out.png" alt="These 5 Posture Corrector Picks Will Straighten You Out (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/posture-correctors/" target="_blank">These 5 Posture Corrector Picks Will Straighten You Out (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-17 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsgs09pong1q1fd8wg093.png" alt="🎓 Learn Anything. Level Up. For Free." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ml318097/learn-anything-level-up-for-free-4062" target="_blank">🎓 Learn Anything. Level Up. For Free.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-18 10:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/SDL3-Vulkan-Multi-GPU-Select" target="_blank">SDL3 Enhances Logic For Selecting The Most Performant Vulkan GPU</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-18 10:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -177,6 +196,15 @@
                 <span class="title"><a href="https://dev.to/shiva_shanker_k/why-i-stopped-using-react-and-you-should-too-6lf" target="_blank">Why I Stopped Using React (And You Should Too) 🔥</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-18 09:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://developmentseed.org/blog/2025-08-01-obstore/" target="_blank">We Needed Better Cloud Storage for Python so We Built Obstore</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-08-18 09:32</span>
             </div>
         </div>
 <div class="story">
@@ -195,33 +223,6 @@
                 <span class="title"><a href="https://hyperclay.com/" target="_blank">Web apps in a single, portable, self-updating, vanilla HTML file</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-18 06:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/access-root-nautilus/" target="_blank">Access Root Directory in Nautilus File Manager</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-08-18 06:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fbastndev.gallerycdn.vsassets.io%2Fextensions%2Fbastndev%2Flynx-theme%2F0.1.2%2F1744898058774%2FMicrosoft.VisualStudio.Services.Icons.Default" alt="Lynxjs Extension Pack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bastndev/lynxjs-extension-pack-19hi" target="_blank">Lynxjs Extension Pack</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-18 05:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F98n27pasufq2vt3povkc.jpeg" alt="Are You a Boiling Frog? 🐸" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ayush_kumawat_72c6f9b7225/are-you-a-boiling-frog-l8b" target="_blank">Are You a Boiling Frog? 🐸</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-18 03:11</span>
             </div>
         </div>
 </div>
@@ -320,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
