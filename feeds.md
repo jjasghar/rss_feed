@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-18 13:12:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-18 14:02:06 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Kotaku -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, August 18, 2025 - 13:13 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, August 18, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/18/spain-portugal-battle-blazes-as-death-toll-from-wildfires-rises-to-six?traffic_source=rss" target="_blank">‘Flames that consumed the hills’: Portugal, Spain reel from wildfires</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-18 13:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +94,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/18/nx-s1-5482921/memes-white-house-dhs-social-media-trump" target="_blank">What&#x27;s behind the Trump administration&#x27;s immigration memes?</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-18 09:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82cd/live/c8817a60-7bae-11f0-93b3-5f3a21ad328e.jpg" alt="First group of Gaza children to be brought to UK &#x27;in coming weeks&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c30z17376ego?at_medium=RSS&at_campaign=rss" target="_blank">First group of Gaza children to be brought to UK &#x27;in coming weeks&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-18 09:41</span>
             </div>
         </div>
 </div>
@@ -162,6 +161,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18591250&w=600" alt="Logging MCP Protocol When Using stdio, Part I" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/logging-mcp-protocol-when-using-stdio-part-i" target="_blank">Logging MCP Protocol When Using stdio, Part I</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-18 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://gmays.com/the-biggest-bet-in-tech/" target="_blank">Apple and Amazon will miss AI like Intel missed mobile</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-18 13:27</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -180,39 +197,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/journey-thousand-smiles-questing-quokka" target="_blank">A journey of a thousand smiles: Questing Quokka</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-08-18 11:23</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18562761&w=600" alt="Architecting Compound AI Systems for Scalable Enterprise Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/compound-ai-systems-scalable-enterprise-workflows" target="_blank">Architecting Compound AI Systems for Scalable Enterprise Workflows</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-08-18 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsgs09pong1q1fd8wg093.png" alt="🎓 Learn Anything. Level Up. For Free." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ml318097/learn-anything-level-up-for-free-4062" target="_blank">🎓 Learn Anything. Level Up. For Free.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-18 10:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/SDL3-Vulkan-Multi-GPU-Select" target="_blank">SDL3 Enhances Logic For Selecting The Most Performant Vulkan GPU</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-18 10:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shiva_shanker_k/why-i-stopped-using-react-and-you-should-too-6lf" target="_blank">Why I Stopped Using React (And You Should Too) 🔥</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-18 09:54</span>
             </div>
         </div>
 </div>
@@ -234,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/TogsDesign-Shutterstock.-.jpg?fit=1080%2C594&amp;quality=60&amp;ssl=1" alt="When traveling, Putin&#x27;s poop kept in suitcase to prevent it being studied" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/18/when-traveling-putins-poop-kept-in-suitcase-to-prevent-it-being-studied.html" target="_blank">When traveling, Putin&#x27;s poop kept in suitcase to prevent it being studied</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-18 13:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/fallout-season-2-first-look-walton-goggins-new-vegas.jpg" alt="The First Look at ‘Fallout’ Season 2 Is Ready for Vegas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/fallout-season-2-first-look-release-date-amazon-2000644233" target="_blank">The First Look at ‘Fallout’ Season 2 Is Ready for Vegas</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-18 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Casimiro-PT-Shutterstock.-No-use-without-permis.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="&#x27;Broligarchy&#x27;, &#x27;delulu&#x27; and &#x27;skibidi&#x27; added to Cambridge Dictionary" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +285,6 @@
                 <span class="title"><a href="https://gizmodo.com/scientists-pitch-bold-plan-to-turn-nuclear-waste-into-nuclear-fuel-2000643875" target="_blank">Scientists Pitch Bold Plan to Turn Nuclear Waste Into Nuclear Fuel</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-18 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/1min.AI-Advanced-Business-Plan-Lifetime-Subscription.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This one-time $80 AI tool is doing way too much. And honestly, we&#x27;re into it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/17/this-one-time-80-ai-tool-is-doing-way-too-much-and-honestly-were-into-it.html" target="_blank">This one-time $80 AI tool is doing way too much. And honestly, we&#x27;re into it</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-17 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/MAIN-13.jpg" alt="The Latest Somnium Files Game Might Be Short, But You’ll Want To Play It More Than Once" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/no-sleep-for-kaname-date-ai-somnium-files-hltb-2000618122" target="_blank">The Latest Somnium Files Game Might Be Short, But You’ll Want To Play It More Than Once</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-17 19:30</span>
             </div>
         </div>
 </div>
@@ -325,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 13:13 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
