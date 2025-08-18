@@ -1,32 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-18 14:02:06 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-18 15:01:58 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, August 18, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, August 18, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/18/g-s1-83253/myanmar-to-hold-first-general-election-since-2021-coup-amid-ongoing-civil-war" target="_blank">Myanmar to hold first general election since 2021 coup amid ongoing civil war</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-18 14:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b75/live/52b5af20-7c28-11f0-83cc-c5da98c419b8.jpg" alt="Man guilty over role in shooting of girl, 9" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c939v7gejlpo?at_medium=RSS&at_campaign=rss" target="_blank">Man guilty over role in shooting of girl, 9</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-18 14:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,30 +96,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755515844473_tdy_news_7a_haake_welker_trump_zelenskyy_250818_1920x1080-3r2wpe.jpg" alt="Top European Leaders Join Zelenskyy for WH Meeting With Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/18/g-s1-83248/up-first-newsletter-zelenskyy-trump-meeting-dc-militarized-second-week-israel-hamas" target="_blank">Trump and Zelenskyy to discuss end of war. And, more troops head to D.C.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-18 11:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/8/18/humanoid-robots-race-tumble-at-chinas-first-robot-olympics?traffic_source=rss" target="_blank">Humanoid robots race and tumble at China’s first ‘robot Olympics’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-18 10:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/18/nx-s1-5482921/memes-white-house-dhs-social-media-trump" target="_blank">What&#x27;s behind the Trump administration&#x27;s immigration memes?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-18 09:48</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-tells-zelenskyy-to-cede-crimea-not-join-nato-to-end-war-245188165611" target="_blank">Top European Leaders Join Zelenskyy for WH Meeting With Trump</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-18 11:17</span>
             </div>
         </div>
 </div>
@@ -101,6 +109,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/18/why-paradigm-built-a-spreadsheet-with-an-ai-agent-in-every-cell/" target="_blank">Why Paradigm built a spreadsheet with an AI agent in every cell</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-18 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/760561/anthropic-claude-ai-chatbot-end-harmful-conversations" target="_blank">Claude AI will end &amp;#8216;persistently harmful or abusive user interactions&amp;#8217;</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-18 14:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,81 +163,63 @@
                 <span class="time">2025-08-18 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/760466/microsoft-windows-11-dark-mode-improvements" target="_blank">Microsoft is finally improving Windows 11’s dark mode</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-18 09:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/doggy1-500x500.jpg" alt="The case of the coke-snorting Chihuahua" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/08/the-case-of-the-coke-snorting-chihauhua/" target="_blank">The case of the coke-snorting Chihuahua</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-18 04:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18591250&w=600" alt="Logging MCP Protocol When Using stdio, Part I" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jarvisscript/what-are-your-goals-for-the-week-140-4dhh" target="_blank">What are your goals for the week? #140</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-18 14:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18591253&w=600" alt="Logging MCP Protocol When Using stdio- Part II" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/logging-mcp-protocol-when-using-stdio-part-i" target="_blank">Logging MCP Protocol When Using stdio, Part I</a></span>
+                <span class="title"><a href="https://dzone.com/articles/logging-mcp-protocol-when-using-stdio-part-ii" target="_blank">Logging MCP Protocol When Using stdio- Part II</a></span>
                 <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-18 13:30</span>
+                <span class="time">2025-08-18 14:30</span>
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/pi-touch-display-5-inch.jpg?resize=406%2C232&amp;ssl=1" alt="Smaller, Cheaper Raspberry Pi Touch Display 2 Announced" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://gmays.com/the-biggest-bet-in-tech/" target="_blank">Apple and Amazon will miss AI like Intel missed mobile</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-18 13:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Illumos-Cafe" target="_blank">Illumos Cafe Hopes To Reinvigorate Interest In Illumos/OpenSolaris Derived Platforms</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-18 12:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/hcp-terraform-hyok/en/headerimage/generatedHeaderImage-1755434073396.jpg" alt="HCP Terraform Now Offers Hold Your Own Key (HYOK) Option for Artifact Encryption" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/hcp-terraform-hyok/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">HCP Terraform Now Offers Hold Your Own Key (HYOK) Option for Artifact Encryption</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-18 12:00</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/raspberry-pi-touch-display-2-specs-price" target="_blank">Smaller, Cheaper Raspberry Pi Touch Display 2 Announced</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-18 14:04</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/journey-thousand-smiles-questing-quokka" target="_blank">A journey of a thousand smiles: Questing Quokka</a></span>
+                <span class="title"><a href="https://ubuntu.com//blog/ubuntu-25-04-amd-sev-snp-host-support" target="_blank">AMD SEV-SNP host support available on Ubuntu 25.04</a></span>
                 <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-08-18 11:23</span>
+                <span class="time">2025-08-18 14:01</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18562761&w=600" alt="Architecting Compound AI Systems for Scalable Enterprise Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/compound-ai-systems-scalable-enterprise-workflows" target="_blank">Architecting Compound AI Systems for Scalable Enterprise Workflows</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-18 11:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/FFmpeg/asm-lessons" target="_blank">FFmpeg Assembly Language Lessons</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-18 13:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Firefox-142-Extensions-AI-LLMs" target="_blank">Firefox 142 Now Available - Allows Browser Extensions/Add-Ons To Use AI LLMs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-18 13:36</span>
             </div>
         </div>
 </div>
@@ -233,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JWRRAFM7THXJCT607Y4S37TC/hero-image.png" alt="Peloton’s Stretching Classes Are Helping Me Learn to Do the Splits As an Adult" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/peloton-stretching-classes-are-helping-me-do-the-splits?utm_medium=RSS" target="_blank">Peloton’s Stretching Classes Are Helping Me Learn to Do the Splits As an Adult</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-18 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/TogsDesign-Shutterstock.-.jpg?fit=1080%2C594&amp;quality=60&amp;ssl=1" alt="When traveling, Putin&#x27;s poop kept in suitcase to prevent it being studied" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +295,6 @@
                 <span class="time">2025-08-18 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/idaho-national-laboratory-nuclear-waste-storage-DOE.jpg" alt="Scientists Pitch Bold Plan to Turn Nuclear Waste Into Nuclear Fuel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/scientists-pitch-bold-plan-to-turn-nuclear-waste-into-nuclear-fuel-2000643875" target="_blank">Scientists Pitch Bold Plan to Turn Nuclear Waste Into Nuclear Fuel</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-18 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
