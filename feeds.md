@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-18 22:01:43 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-18 23:01:52 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, August 18, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, August 18, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/18/nx-s1-5506210/trump-mail-in-ballots-ban" target="_blank">Trump wants to stop states from voting by mail and using voting machines</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-18 22:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/18/isil-backed-rebels-killed-at-least-52-people-in-eastern-dr-congo-un-says?traffic_source=rss" target="_blank">ISIL-backed rebels killed at least 52 people in eastern DR Congo, UN says</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-18 22:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7443/live/e286b3c0-7c72-11f0-a34f-318be3fb0481.jpg" alt="Key takeaways so far from Ukraine talks in Washington" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +97,20 @@
                 <span class="time">2025-08-18 19:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/2230144244-0464jd.jpg" alt="How Trump and Zelenskyy&#x27;s second Oval Office meeting differed from the first" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/how-trump-and-zelenskyy-s-second-oval-office-meeting-differed-from-the-first-245212741600" target="_blank">How Trump and Zelenskyy&#x27;s second Oval Office meeting differed from the first</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-18 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/18/zambian-presidents-feud-with-late-rival-continues-over-site-of-funeral" target="_blank">Zambian president’s feud with late rival continues over funeral plans</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-08-18 17:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/18/allianz-life-data-breach-affects-1-1-million-customers/" target="_blank">Allianz Life data breach affects 1.1 million customers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-18 22:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/689e2af77cc2dbb945f508ba/master/pass/politics_EJ_TWH.jpg" alt="An Account Using the Same Name as Trump’s BLS Pick Posted Red-Pilled Conspiracy Theories" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +156,20 @@
                 <span class="time">2025-08-18 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a356a3a7b1e72a7de4e295/master/pass/west-texas-measles-sci-2201750223.jpg" alt="The West Texas Measles Outbreak Has Ended" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-west-texas-measles-outbreak-has-ended/" target="_blank">The West Texas Measles Outbreak Has Ended</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-18 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/" target="_blank">Preventing Domain Resurrection Attacks (on the Python Package Index)</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-08-18 22:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F619482%2F03ddc8eb-17f8-44bc-ae44-fe0658b0a582.jpg" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,15 +215,6 @@
                 <span class="time">2025-08-18 19:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.youtube.com/watch?v=sRPnX_f2V_c" target="_blank">Show HN: We started building an AI dev tool but it turned into a Sims-style game</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-18 18:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +235,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K2Z8ZG2D39P73RZF2BHJVTRQ/hero-image.jpg" alt="Google&#x27;s AI Search Might Recommend You Call a Scammer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/googles-ai-search-might-recommend-you-call-a-scammer?utm_medium=RSS" target="_blank">Google&#x27;s AI Search Might Recommend You Call a Scammer</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-18 22:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/sydney-sweeney-and-donald-trump.jpg" alt="Despite Online MAGA Freakout About Her Jeans, Sydney Sweeney’s New Movie Bombs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -253,6 +258,15 @@
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/britt-lowers-severance-audition-tape-proves-her-helly-r-was-meant-to-be-2000644579" target="_blank">Britt Lower’s ‘Severance’ Audition Tape Proves Her Helly R. Was Meant to Be</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-18 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/1080P-AI-Smart-Camera-Recording-Sunglasses.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="The futuristic upgrade you didn&#x27;t know you needed is now 30% off." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/18/the-futuristic-upgrade-you-didnt-know-you-needed-is-now-30-off.html" target="_blank">The futuristic upgrade you didn&#x27;t know you needed is now 30% off.</a></span>
+                <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-18 21:00</span>
             </div>
         </div>
@@ -272,24 +286,6 @@
                 <span class="title"><a href="https://gizmodo.com/game-streaming-will-never-be-the-same-after-nvidias-geforce-now-update-2000644462" target="_blank">Game Streaming Will Never Be the Same After Nvidia’s GeForce Now Update</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-18 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/skate4.jpg" alt="EA’s Skate Reboot Will Feature 100 Songs And Servers That Support 150 Players" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/skate-4-reboot-ea-servers-150-players-100-songs-seasons-summer-2000618257" target="_blank">EA’s Skate Reboot Will Feature 100 Songs And Servers That Support 150 Players</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-18 19:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/peigneur.jpg?fit=480%2C360&amp;quality=60&amp;ssl=1" alt="What happened at Lake Peigneur" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/18/what-happened-at-lake-peigneur.html" target="_blank">What happened at Lake Peigneur</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-18 18:41</span>
             </div>
         </div>
 </div>
@@ -338,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 282 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
