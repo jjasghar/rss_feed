@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-18 21:01:34 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-18 22:01:43 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, August 18, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, August 18, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7443/live/e286b3c0-7c72-11f0-a34f-318be3fb0481.jpg" alt="Key takeaways so far from Ukraine talks in Washington" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5yp4jggrj2o?at_medium=RSS&at_campaign=rss" target="_blank">Key takeaways so far from Ukraine talks in Washington</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-18 20:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,21 +93,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Trump, Zelenskyy meet in Oval Office: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Trump, Zelenskyy meet in Oval Office: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-18 17:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Leyen-1-gty-gmh-250818_1755535265793_hpMain_4x3t_384.jpg" alt="Trump-Zelenskyy live updates: European leaders arrive at WH in support of Zelenskyy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124734940" target="_blank">Trump-Zelenskyy live updates: European leaders arrive at WH in support of Zelenskyy</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-18 16:54</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/18/zambian-presidents-feud-with-late-rival-continues-over-site-of-funeral" target="_blank">Zambian president’s feud with late rival continues over funeral plans</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-08-18 17:50</span>
             </div>
         </div>
 </div>
@@ -107,6 +106,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/689e2af77cc2dbb945f508ba/master/pass/politics_EJ_TWH.jpg" alt="An Account Using the Same Name as Trump’s BLS Pick Posted Red-Pilled Conspiracy Theories" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/twitter-ej-antoni-trump-bls-conspiracy-theories-epstein-covid-election-denial/" target="_blank">An Account Using the Same Name as Trump’s BLS Pick Posted Red-Pilled Conspiracy Theories</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-18 21:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +160,29 @@
                 <span class="time">2025-08-18 18:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/18/texas-attorney-general-accuses-meta-character-ai-of-misleading-kids-with-mental-health-claims/" target="_blank">Texas attorney general accuses Meta, Character.AI of misleading kids with mental health claims</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-18 17:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F619482%2F03ddc8eb-17f8-44bc-ae44-fe0658b0a582.jpg" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/carlosdamota/-1n18" target="_blank">[Boost]</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-18 21:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-ZenDNN-5.1" target="_blank">AMD ZenDNN 5.1 Released For Enhancing AI Inference Performance On EPYC CPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-18 20:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18557479&w=600" alt="What’s Wrong With Data Validation — and How It Relates to the Liskov Substitution Principle" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,24 +219,6 @@
                 <span class="time">2025-08-18 18:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18557515&w=600" alt="The Kill Switch: A Coder&#x27;s Silent Act of Revenge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/kill-switch-coders-silent-act-of-revenge" target="_blank">The Kill Switch: A Coder&#x27;s Silent Act of Revenge</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-18 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mongodb/document-modeling-with-the-django-mongodb-backend-3jck" target="_blank">Document Modeling With the Django MongoDB Backend</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-18 17:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/sydney-sweeney-and-donald-trump.jpg" alt="Despite Online MAGA Freakout About Her Jeans, Sydney Sweeney’s New Movie Bombs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/despite-online-maga-freakout-about-her-jeans-sydney-sweeneys-new-movie-bombs-2000644565" target="_blank">Despite Online MAGA Freakout About Her Jeans, Sydney Sweeney’s New Movie Bombs</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-18 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Severance-3.jpg" alt="Britt Lower’s ‘Severance’ Audition Tape Proves Her Helly R. Was Meant to Be" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +290,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/18/what-happened-at-lake-peigneur.html" target="_blank">What happened at Lake Peigneur</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-18 18:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JZ7NDXSNBC06HD16KFYNQZDJ/hero-image.png" alt="LG&#x27;s Newest Premium OLED TV Is Over $1,000 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/lg-65-inch-c5-oled-tv-sale?utm_medium=RSS" target="_blank">LG&#x27;s Newest Premium OLED TV Is Over $1,000 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-18 18:30</span>
             </div>
         </div>
 </div>
@@ -339,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 40 | 📸 With Images: 281 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 282 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
