@@ -1,31 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-19 01:29:18 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-19 02:30:26 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, August 19, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, August 19, 2025 - 02:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755561788658_nn_tll_zelenskyy_trump_250818_1920x1080-2ndecn.jpg" alt="Trump, Zelenskyy, European leaders meet at White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-zelenskyy-european-leaders-meet-at-white-house-245243973880" target="_blank">Trump, Zelenskyy, European leaders meet at White House</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-19 00:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-12-gty-gmh-250818_1755538547682_hpMain_4x3t_384.jpg" alt="Trump-Zelenskyy live updates: Trump says Putin-Zelenskyy meeting being planned" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2025/8/18/msnbc-reveals-new-name-as-part-of-corporate-divorce-from-nbc?traffic_source=rss" target="_blank">MSNBC reveals new name as part of corporate divorce from NBC</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-18 20:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/18/nx-s1-5506266/a-devastating-drought-in-iran" target="_blank">A Devastating Drought in Iran</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-18 19:46</span>
             </div>
         </div>
 </div>
@@ -160,12 +163,39 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F243088%2F2c05ad7e-f30f-4805-993a-c167645ccde4.jpeg" alt="Learning about MP4 and stumbled upon this great article! 😄" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fabianoglentini/learning-about-mp4-and-stumbled-upon-this-great-article-19j6" target="_blank">Learning about MP4 and stumbled upon this great article! 😄</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-19 02:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://jslegenddev.substack.com/p/how-to-start-making-games-in-javascript" target="_blank">Starting game development in JavaScript with no experience</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-19 01:25</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/suzulabo/wrangler-pages-dev-5e26" target="_blank">wrangler pages dev</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-19 01:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-OOM-BPF-Proposal" target="_blank">New Linux Patches Allow Manipulating Out-Of-Memory Behavior Using BPF</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-19 00:47</span>
             </div>
         </div>
 <div class="story">
@@ -184,33 +214,6 @@
                 <span class="title"><a href="https://dev.to/gg_news/ign-inferius-official-announcement-trailer-1lec" target="_blank">IGN: Inferius - Official Announcement Trailer</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-19 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-GFX1250-32-User-SGPRs" target="_blank">AMD &quot;GFX1250&quot; To Double The Number Of User SGPRs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-18 23:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/firefox-142.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox 142 Release Adds New Tab Page Topics, AI in Web Extensions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/firefox-142-browser-update-new-features" target="_blank">Firefox 142 Release Adds New Tab Page Topics, AI in Web Extensions</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-18 22:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/" target="_blank">Preventing Domain Resurrection Attacks (on the Python Package Index)</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-08-18 22:04</span>
             </div>
         </div>
 </div>
@@ -251,6 +254,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/dotandline.jpg?fit=1200%2C792&amp;quality=60&amp;ssl=1" alt="Watch Chuck Jones&#x27; 1965 Oscar-winning cartoon about a lovesick like and a dallying dot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/18/watch-chuck-jones-1965-oscar-winning-cartoon-about-a-lovesick-like-and-a-dallying-dot.html" target="_blank">Watch Chuck Jones&#x27; 1965 Oscar-winning cartoon about a lovesick like and a dallying dot</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-18 21:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/07/e6760b25b9807f6f7440717733b133c3.jpg" alt="Fine, I’ll Admit It: Battlefield 6‘s Open Weapon System Is Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/battlefield-6-open-closed-weapon-system-better-beta-ea-bf6-2000618282" target="_blank">Fine, I’ll Admit It: Battlefield 6‘s Open Weapon System Is Good</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-18 21:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/sydney-sweeney-and-donald-trump.jpg" alt="Despite Online MAGA Freakout About Her Jeans, Sydney Sweeney’s New Movie Bombs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -268,29 +289,20 @@
                 <span class="time">2025-08-18 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/1080P-AI-Smart-Camera-Recording-Sunglasses.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="The futuristic upgrade you didn&#x27;t know you needed is now 30% off." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/18/the-futuristic-upgrade-you-didnt-know-you-needed-is-now-30-off.html" target="_blank">The futuristic upgrade you didn&#x27;t know you needed is now 30% off.</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-18 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/vanishing-asia.jpeg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Kevin Kelly shares tips to successful book publishing in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/18/kevin-kelly-shares-tips-to-successful-book-publishing-in-2025.html" target="_blank">Kevin Kelly shares tips to successful book publishing in 2025</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-18 20:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/08/18/card-warriorz" target="_blank">Card Warriorz</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-08-18 23:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1755378695-20250818.png" alt="Saturday Morning Breakfast Cereal - Id" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -323,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 02:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
