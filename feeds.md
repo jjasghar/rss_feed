@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-19 08:01:54 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-08-19 09:01:45 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, August 19, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, August 19, 2025 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f0d/live/40671b40-7cb1-11f0-a7f9-13d3be31c149.jpg" alt="UK backs down in Apple privacy row, US says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdj2m3rrk74o?at_medium=RSS&at_campaign=rss" target="_blank">UK backs down in Apple privacy row, US says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-19 08:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +101,6 @@
                 <span class="title"><a href="https://news.sky.com/story/trump-is-playing-both-sides-but-has-taken-peace-talks-a-distance-not-seen-since-the-war-began-13414413" target="_blank">Trump is playing both sides - but has taken peace talks a distance not seen since the war began</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-08-19 03:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfa9/live/a86af530-7c5d-11f0-a34f-318be3fb0481.jpg" alt="Lineker nominated for National Television Awards" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c99mkd3xm9po?at_medium=RSS&at_campaign=rss" target="_blank">Lineker nominated for National Television Awards</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-19 01:12</span>
             </div>
         </div>
 </div>
@@ -164,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/smyekh/from-concrete-to-cloud-a-developers-guide-to-the-physical-hardware-behind-oci-4eh3" target="_blank">From Concrete to Cloud: A Developer&#x27;s Guide to the Physical Hardware Behind OCI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-19 08:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/08/provenance/en/headerimage/generatedHeaderImage-1755459202472.jpg" alt="Supply Chain Security: Provenance Tools Becoming Standard in Developer Platforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -182,6 +195,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://susam.net/primegrid.html" target="_blank">Prime Number Grid</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-19 07:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4qrkovbtthk7xshszkk3.png" alt="Effective Sprint Planning: Avoiding the Overcommitment Trap" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -197,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/mst-chain/mst-blockchain-indias-first-layer-1-platform-for-web3-developers-quick-start-guide-ecosystem-5bck" target="_blank">MST Blockchain: India’s First Layer-1 Platform for Web3 Developers — Quick Start Guide &amp; Ecosystem Overview</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-19 04:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flzsk3s238alf73t5f2hv.png" alt="SafeLine WAF — The Self-Hosted Firewall Every Homelab Needs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sharon_42e16b8da44dabde6d/safeline-waf-the-self-hosted-firewall-every-homelab-needs-3peo" target="_blank">SafeLine WAF — The Self-Hosted Firewall Every Homelab Needs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-19 03:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/soukhya_0e36963c45b1ba212/crack-the-code-building-a-real-time-multiplayer-game-with-ai-347i" target="_blank">Crack the Code: Building a Real-Time Multiplayer Game with AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-19 03:11</span>
             </div>
         </div>
 </div>
@@ -327,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
