@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-19 22:01:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-19 23:01:44 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, August 19, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, August 19, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/19/nx-s1-5506209/too-much-to-pack-not-enough-hugs-a-kenyan-mans-last-48-hours-in-america-trump-self-deportation" target="_blank">Too much to pack, not enough hugs: A Kenyan man&#x27;s last 48 hours in America</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-19 21:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-5-epa-gmh-250819.jpg_1755610614037_hpMain_4x3t_384.jpg" alt="Trump: Smithsonian should portray nation&#x27;s &#x27;Brightness,&#x27; not &#x27;how bad Slavery was&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +99,20 @@
                 <span class="time">2025-08-19 19:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/19/iraq-is-facing-a-water-crisis-hit-by-one-of-its-worst-droughts-in-century?traffic_source=rss" target="_blank">Iraq is facing a water crisis, hit by one of its worst droughts in century</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-19 18:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/10/GettyImages-1232871329-500x500.jpeg" alt="Top pediatricians buck RFK Jr.’s anti-vaccine meddling on COVID shot guidance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/08/top-pediatricians-buck-rfk-jr-s-anti-vaccine-meddling-on-covid-shot-guidance/" target="_blank">Top pediatricians buck RFK Jr.’s anti-vaccine meddling on COVID shot guidance</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-19 22:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +158,20 @@
                 <span class="time">2025-08-19 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/19/appeals-court-says-nlrb-structure-unconstitutional-in-a-win-for-spacex/" target="_blank">Appeals court says NLRB structure unconstitutional, in a win for SpaceX</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-19 18:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1755642359177%2Fbf125638-37fa-4fe4-b8ee-03e317708a84.png" alt="CLI for the Clueless, Learning AWS CLI Through Interactive Gaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/cli-for-the-clueless-learning-aws-cli-through-interactive-gaming-2b5l" target="_blank">CLI for the Clueless, Learning AWS CLI Through Interactive Gaming</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-19 22:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +217,6 @@
                 <span class="time">2025-08-19 19:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/olhapi/playwright-e2e-testing-cheatsheet-15gl" target="_blank">Playwright E2E testing cheatsheet</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-19 19:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -255,12 +255,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/MTG.jpg" alt="MTG Has Heard About the Israeli Cyber Official Arrested for an Alleged Child Sex Crime, and She Isn’t Happy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/mtg-has-heard-about-the-israeli-cyber-official-arrested-for-alleged-child-sex-crimes-and-she-isnt-happy-2000645213" target="_blank">MTG Has Heard About the Israeli Cyber Official Arrested for an Alleged Child Sex Crime, and She Isn’t Happy</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-19 21:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JTTRM7W1EEN4FCTTTC41ET9Z/hero-image.jpg" alt="Google Messages Will Now Let You Delete Messages for Everyone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/tech/google-messages-will-now-let-you-delete-messages-for-everyone?utm_medium=RSS" target="_blank">Google Messages Will Now Let You Delete Messages for Everyone</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-19 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/02/helldivers2-1684972836077-e1709826351129.jpg?fit=952%2C600&amp;quality=60&amp;ssl=1" alt="PlayStation gets a taste of Halo through Helldivers 2&#x27;s newest content drop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/19/playstation-gets-a-taste-of-halo-through-helldivers-2s-newest-content-drop.html" target="_blank">PlayStation gets a taste of Halo through Helldivers 2&#x27;s newest content drop</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-19 20:26</span>
             </div>
         </div>
 <div class="story">
@@ -279,24 +297,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/pelotons-yoga-offerings-are-surprisingly-robust?utm_medium=RSS" target="_blank">Peloton&#x27;s Yoga Offerings Are Surprisingly Robust</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-19 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/fallout-season-2-trailer-ella-purnell-walton-goggins.jpg" alt="In ‘Fallout’ Season 2’s First Trailer, All Roads Lead to New Vegas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/fallout-season-2-trailer-new-vegas-ella-purnell-walton-goggins-2000644483" target="_blank">In ‘Fallout’ Season 2’s First Trailer, All Roads Lead to New Vegas</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-19 18:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K31JKH17P3X1Q7MYCTKW0CAJ/hero-image.png" alt="This Ultra-Wide Curved Gaming Monitor Is at Its Lowest Price Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-odyssey-g9-curved-gaming-monitor?utm_medium=RSS" target="_blank">This Ultra-Wide Curved Gaming Monitor Is at Its Lowest Price Ever</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-19 18:30</span>
             </div>
         </div>
 </div>
@@ -345,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
