@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-19 03:19:02 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2025-08-19 04:02:22 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, August 19, 2025 - 03:19 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, August 19, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +110,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/18/openai-launches-a-sub-5-chatgpt-plan-in-india/" target="_blank">OpenAI launches a sub $5 ChatGPT plan in India</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-19 03:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/08/18/softbank-makes-2b-investment-in-intel/" target="_blank">SoftBank makes $2B investment in Intel</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-08-19 00:23</span>
@@ -152,20 +160,20 @@
                 <span class="time">2025-08-18 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/10/t-mobile-its-alive-500x500-1729188462.jpg" alt="T-Mobile claimed selling location data without consent is legal—judges disagree" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/08/t-mobile-claimed-selling-location-data-without-consent-is-legal-judges-disagree/" target="_blank">T-Mobile claimed selling location data without consent is legal—judges disagree</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-18 19:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flzsk3s238alf73t5f2hv.png" alt="SafeLine WAF — The Self-Hosted Firewall Every Homelab Needs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sharon_42e16b8da44dabde6d/safeline-waf-the-self-hosted-firewall-every-homelab-needs-3peo" target="_blank">SafeLine WAF — The Self-Hosted Firewall Every Homelab Needs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-19 03:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-OOM-BPF-Proposal" target="_blank">New Linux Patches Allow Manipulating Out-Of-Memory Behavior Using BPF</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-19 00:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://divernet.com/scuba-news/freediving/how-croatian-freediver-held-breath-for-29-minutes/" target="_blank">Croatian freediver held breath for 29 minutes</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-19 00:04</span>
             </div>
         </div>
 </div>
@@ -325,22 +324,13 @@
                 <span class="time">2025-08-18 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/predicament.png" alt="Predicament" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3130/" target="_blank">Predicament</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-08-18 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 03:19 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
