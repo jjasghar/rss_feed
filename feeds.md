@@ -1,34 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-08-19 18:01:57 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-19 19:01:30 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 12 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, August 19, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, August 19, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +57,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/19/iraq-is-facing-a-water-crisis-hit-by-one-of-its-worst-droughts-in-century?traffic_source=rss" target="_blank">Iraq is facing a water crisis, hit by one of its worst droughts in century</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-19 18:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-4-gty-gmh-250819_1755609953435_hpMain_4x3t_384.jpg" alt="Trump admin live updates: WH says Putin promised to meet with Zelenskyy soon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124734940" target="_blank">Trump admin live updates: WH says Putin promised to meet with Zelenskyy soon</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-19 18:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/19/nx-s1-5504124/home-depot-earnings-immigration-raids-day-laborers" target="_blank">Home Depot keeps quiet on immigration raids outside its doors</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-19 18:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-trump-zelenskyy_6995553.jpg?20250819181634" alt="What would US-backed security guarantees for Ukraine look like?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/what-would-us-backed-security-guarantees-for-ukraine-look-like-13414480" target="_blank">What would US-backed security guarantees for Ukraine look like?</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-19 18:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/19/mexican-boxer-julio-cesar-chavez-jr-deported-from-us-authorities?traffic_source=rss" target="_blank">Mexican boxer Julio Cesar Chavez Jr deported from US: Authorities</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-19 17:19</span>
@@ -62,47 +107,29 @@
                 <span class="time">2025-08-19 16:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755620069025_now_daily_a_alcindor_trump_troops_ukr_250819_1920x1080-r8q1rs.jpg" alt="Trump rules out sending U.S. troops to Ukraine as security guarantee for peace deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-rules-out-sending-u-s-troops-to-ukraine-as-security-guarantee-for-peace-deal-245282885882" target="_blank">Trump rules out sending U.S. troops to Ukraine as security guarantee for peace deal</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-19 16:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/19/nx-s1-5507052/air-canada-flights-resume-flight-attendants-union-strike" target="_blank">Air Canada says flights will resume Tuesday night after flight attendants strike ends</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-19 15:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png" alt="Council wins bid to stop hotel housing asylum seekers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy98gdnrl7lo?at_medium=RSS&at_campaign=rss" target="_blank">Council wins bid to stop hotel housing asylum seekers</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-19 14:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-4-gty-gmh-250819_1755609953435_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump says no US ground troops will be sent to Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124734940" target="_blank">Trump admin live updates: Trump says no US ground troops will be sent to Ukraine</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-19 14:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/19/appeals-court-says-nlrb-structure-unconstitutional-in-a-win-for-spacex/" target="_blank">Appeals court says NLRB structure unconstitutional, in a win for SpaceX</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-19 18:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/21280354/best-ipad-deals-apple" target="_blank">The best iPad deals you can get right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-19 18:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/badminton1-500x500-1755543561.jpg" alt="Physics of badminton’s new killer spin serve" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,24 +166,6 @@
                 <span class="time">2025-08-19 15:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/250308_All-new_Nissan_LEAF_Dynamic_Pictures_02-500x500-1755612763.jpg" alt="Nissan announces 2026 Leaf pricing, starting at $29,990" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/08/nissan-announces-2026-leaf-pricing-starting-at-29990/" target="_blank">Nissan announces 2026 Leaf pricing, starting at $29,990</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-19 14:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/19/cpg-startup-keychain-snags-30m-to-build-in-india-grow-in-the-u-s/" target="_blank">CPG startup Keychain snags $30M to build in India, grow in the U.S.</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-19 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +181,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18566315&w=600" alt="Not only AI: What Else Drives Team Performance Today?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/improving-team-output-without-more-ai" target="_blank">Not only AI: What Else Drives Team Performance Today?</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-19 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Pinned-Device-Memory" target="_blank">Pinned Device Memory Patches For Intel&#x27;s Multi-GPU &quot;Project Battlematrix&quot; Linux Efforts</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-19 16:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18566288&w=600" alt="Building SQLGenie: A Natural Language to SQL Query Generator with LLM Integration" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -181,39 +208,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/" target="_blank">How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-19 15:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://substack-post-media.s3.amazonaws.com/public/images/bd076157-5ad9-48c7-933a-cec7f5eb0897_1146x948.png" alt="The Pragmatic Engineer 2025 Survey: What’s in your tech stack? Part 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-wrench"></span>
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-2025-survey-part-2" target="_blank">The Pragmatic Engineer 2025 Survey: What’s in your tech stack? Part 2</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
                 <span class="time">2025-08-19 15:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18566837&w=600" alt="Agile AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/agile-ai-agents" target="_blank">Agile AI Agents</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-19 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/08/19/strengthening-the-core-stack-overflow-for-teams-2025-6/" target="_blank">Strengthening the core: Stack Overflow for Teams 2025.6</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-08-19 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18566245&w=600" alt="Building a Secure and Unified Data Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/gcp-vpc-vm-cloudsql-bigquery-setup" target="_blank">Building a Secure and Unified Data Platform</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-19 14:00</span>
             </div>
         </div>
 </div>
@@ -235,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/fallout-season-2-trailer-ella-purnell-walton-goggins.jpg" alt="In ‘Fallout’ Season 2’s First Trailer, All Roads Lead to New Vegas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/fallout-season-2-trailer-new-vegas-ella-purnell-walton-goggins-2000644483" target="_blank">In ‘Fallout’ Season 2’s First Trailer, All Roads Lead to New Vegas</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-19 18:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K31JKH17P3X1Q7MYCTKW0CAJ/hero-image.png" alt="This Ultra-Wide Curved Gaming Monitor Is at Its Lowest Price Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-odyssey-g9-curved-gaming-monitor?utm_medium=RSS" target="_blank">This Ultra-Wide Curved Gaming Monitor Is at Its Lowest Price Ever</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-19 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/bongino.jpg?fit=1200%2C798&amp;quality=60&amp;ssl=1" alt="FBI&#x27;s Bongino gets unwanted partner after public meltdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +296,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/19/will-china-beat-the-rest-of-the-world-to-building-a-base-on-the-moon.html" target="_blank">Will China beat the rest of the world to building a base on the Moon?</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-19 15:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Best-VPN-for-Brave-Browser.jpg" alt="UK Official Calls for Age Verification on VPNs to Prevent Porn Loophole" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/uk-official-calls-for-age-verification-on-vpns-to-prevent-porn-loophole-2000644942" target="_blank">UK Official Calls for Age Verification on VPNs to Prevent Porn Loophole</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-19 14:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/ai.png?fit=1613%2C827&amp;quality=55&amp;ssl=1" alt="Study finds 95% of AI pilot projects failed to generate significant revenue" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/19/study-finds-95-of-ai-pilot-projects-failed-to-generate-significant-revenue.html" target="_blank">Study finds 95% of AI pilot projects failed to generate significant revenue</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-19 14:44</span>
             </div>
         </div>
 </div>
@@ -335,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
