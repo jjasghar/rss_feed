@@ -1,44 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-19 14:01:56 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-19 15:01:31 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 34 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 10 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, August 19, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, August 19, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png" alt="Council wins bid to stop hotel housing asylum seekers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy98gdnrl7lo?at_medium=RSS&at_campaign=rss" target="_blank">Council wins bid to stop hotel housing asylum seekers</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-19 14:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-zelenskyy-main_1755597470518_hpMain_4x3t_384.jpg" alt="Trump admin live updates: &#x27;A significant step,&#x27; Zelenskyy says of meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -99,20 +104,20 @@
                 <span class="time">2025-08-19 11:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b86/live/a55e1a30-7ce8-11f0-8302-b340557d621c.jpg" alt="People buying less fast food as grocery prices remain high" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5y042g11yvo?at_medium=RSS&at_campaign=rss" target="_blank">People buying less fast food as grocery prices remain high</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-19 10:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/250308_All-new_Nissan_LEAF_Dynamic_Pictures_02-500x500-1755612763.jpg" alt="Nissan announces 2026 Leaf pricing, starting at $29,990" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/08/nissan-announces-2026-leaf-pricing-starting-at-29990/" target="_blank">Nissan announces 2026 Leaf pricing, starting at $29,990</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-19 14:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -158,20 +163,38 @@
                 <span class="time">2025-08-19 09:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a33d6b853f5f6d1f84d825/master/pass/penisworm.jpg" alt="An Ancient Penis Worm With Rings of Sharp Teeth Has Been Discovered in the Grand Canyon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/an-ancient-penis-worm-with-rings-of-sharp-teeth-has-been-discovered-in-the-grand-canyon/" target="_blank">An Ancient Penis Worm With Rings of Sharp Teeth Has Been Discovered in the Grand Canyon</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-19 09:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18566245&w=600" alt="Building a Secure and Unified Data Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/gcp-vpc-vm-cloudsql-bigquery-setup" target="_blank">Building a Secure and Unified Data Platform</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-19 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/rocm-rusticl-strix-halo" target="_blank">Rusticl vs. AMD ROCm Performance On Ryzen AI Max+ &quot;Strix Halo&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-19 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://h4x0r.org/futex/" target="_blank">Without the Futex, It&#x27;s Futile</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-19 13:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,33 +222,6 @@
                 <span class="time">2025-08-19 11:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Apple-SoC-DT-Begins-Linux-6.18" target="_blank">Apple SoC DT Updates Already Begin Lining Up For Linux 6.18</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-19 10:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vibe_youtube/krish-naik-complete-detailed-roadmap-to-learn-ai-in-2025-with-free-videos-and-resources-4539" target="_blank">Krish Naik: Complete Detailed Roadmap To Learn AI In 2025 With Free Videos And Resources</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-19 10:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/claude-code-subagents/en/headerimage/claude-code-subagents-header-1755515425563.jpg" alt="Claude Code Subagents Enable Modular AI Workflows with Isolated Context" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/claude-code-subagents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Claude Code Subagents Enable Modular AI Workflows with Isolated Context</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-19 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +241,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Best-VPN-for-Brave-Browser.jpg" alt="UK Official Calls for Age Verification on VPNs to Prevent Porn Loophole" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/uk-official-calls-for-age-verification-on-vpns-to-prevent-porn-loophole-2000644942" target="_blank">UK Official Calls for Age Verification on VPNs to Prevent Porn Loophole</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-19 14:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/ai.png?fit=1613%2C827&amp;quality=55&amp;ssl=1" alt="Study finds 95% of AI pilot projects failed to generate significant revenue" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/19/study-finds-95-of-ai-pilot-projects-failed-to-generate-significant-revenue.html" target="_blank">Study finds 95% of AI pilot projects failed to generate significant revenue</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-19 14:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K3131Q4TV2K1FJNGNCC3NKAA/hero-image.jpg" alt="I Tried Proton’s New Privacy-First AI Chatbot to See If It’s Better Than ChatGPT" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/proton-privacy-first-chatbot-comparison-to-chatgpt?utm_medium=RSS" target="_blank">I Tried Proton’s New Privacy-First AI Chatbot to See If It’s Better Than ChatGPT</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-19 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K2ZWCV70WPV8H9H42094FYPT/hero-image.jpg" alt="What People Are Getting Wrong This Week: Did 80 Children Go Missing in Virginia?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,33 +293,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/19/park-ranger-fired-over-trans-pride-flag-on-el-capitan.html" target="_blank">Park ranger fired over trans pride flag on El Capitan</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-19 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/catfish-hiking-waterfall-main-e1755549549951.jpg" alt="Unprecedented Video Shows Catfish Climbing Straight Up a Waterfall" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/unprecedented-video-shows-catfish-climbing-straight-up-a-waterfall-2000644617" target="_blank">Unprecedented Video Shows Catfish Climbing Straight Up a Waterfall</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-19 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2023/02/3f4d96b70b1157473a19331db000bfb3.jpg" alt="Another Crypto IPO Hits the Market and Most People Still Have No Idea What Crypto Is" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/figure-ipo-crypto-2000644738" target="_blank">Another Crypto IPO Hits the Market and Most People Still Have No Idea What Crypto Is</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-18 23:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/01/capitol-e1740083427879.jpeg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="The Good Liars hit Washington DC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/18/the-good-liars-hit-washington-dc.html" target="_blank">The Good Liars hit Washington DC</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-18 23:02</span>
             </div>
         </div>
 </div>
@@ -336,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 278 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 279 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
