@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-19 07:01:55 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-19 08:01:54 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, August 19, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, August 19, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +46,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/19/nx-s1-5506168/how-algorithms-are-changing-the-way-we-speak" target="_blank">How algorithms are changing the way we speak</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-19 07:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c706/live/eba66100-7cc0-11f0-ab3e-bd52082cd0ae.jpg" alt="I was sexually assaulted on a plane - now I&#x27;m fighting for compensation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cly6g2j67rko?at_medium=RSS&at_campaign=rss" target="_blank">I was sexually assaulted on a plane - now I&#x27;m fighting for compensation</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-19 05:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-donald-trump-vladimir-putin_6991991.jpg?20250815205748" alt="Key moments revealing Putin&#x27;s hold on Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/putin-wasnt-at-the-white-house-but-his-influence-was-key-moments-which-reveal-his-hold-over-trump-13414421" target="_blank">Key moments revealing Putin&#x27;s hold on Trump</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-19 05:08</span>
             </div>
         </div>
 <div class="story">
@@ -80,24 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c99mkd3xm9po?at_medium=RSS&at_campaign=rss" target="_blank">Lineker nominated for National Television Awards</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-19 01:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7443/live/e286b3c0-7c72-11f0-a34f-318be3fb0481.jpg" alt="Key takeaways from Ukraine talks in Washington" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5yp4jggrj2o?at_medium=RSS&at_campaign=rss" target="_blank">Key takeaways from Ukraine talks in Washington</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-19 01:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755561788658_nn_tll_zelenskyy_trump_250818_1920x1080-2ndecn.jpg" alt="Trump, Zelenskyy, European leaders meet at White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-zelenskyy-european-leaders-meet-at-white-house-245243973880" target="_blank">Trump, Zelenskyy, European leaders meet at White House</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-19 00:03</span>
             </div>
         </div>
 </div>
@@ -165,6 +164,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/08/provenance/en/headerimage/generatedHeaderImage-1755459202472.jpg" alt="Supply Chain Security: Provenance Tools Becoming Standard in Developer Platforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/provenance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Supply Chain Security: Provenance Tools Becoming Standard in Developer Platforms</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-19 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/avishek_chandradas_7e892/15-web-development-project-ideas-for-your-portfolio-30jl" target="_blank">15 Web Development Project Ideas for Your Portfolio</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-19 07:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4qrkovbtthk7xshszkk3.png" alt="Effective Sprint Planning: Avoiding the Overcommitment Trap" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -198,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/soukhya_0e36963c45b1ba212/crack-the-code-building-a-real-time-multiplayer-game-with-ai-347i" target="_blank">Crack the Code: Building a Real-Time Multiplayer Game with AI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-19 03:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F243088%2F2c05ad7e-f30f-4805-993a-c167645ccde4.jpeg" alt="Learning about MP4 and stumbled upon this great article! 😄" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fabianoglentini/learning-about-mp4-and-stumbled-upon-this-great-article-19j6" target="_blank">Learning about MP4 and stumbled upon this great article! 😄</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-19 02:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://jslegenddev.substack.com/p/how-to-start-making-games-in-javascript" target="_blank">Starting game development in JavaScript with no experience</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-19 01:25</span>
             </div>
         </div>
 </div>
@@ -328,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
