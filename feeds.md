@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-19 17:01:30 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-19 18:01:57 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, August 19, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, August 19, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/19/mexican-boxer-julio-cesar-chavez-jr-deported-from-us-authorities?traffic_source=rss" target="_blank">Mexican boxer Julio Cesar Chavez Jr deported from US: Authorities</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-19 17:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52ea/live/ef444390-659b-11f0-9860-39ad79010224.jpg" alt="Asylum seekers to be removed from Epping hotel after council wins High Court injunction" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,15 +96,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124734940" target="_blank">Trump admin live updates: Trump says no US ground troops will be sent to Ukraine</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-19 14:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-zelenskyy-main_1755597470518_hpMain_4x3t_384.jpg" alt="Trump admin live updates: &#x27;A significant step,&#x27; Zelenskyy says of meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124734940" target="_blank">Trump admin live updates: &#x27;A significant step,&#x27; Zelenskyy says of meeting</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-19 13:58</span>
             </div>
         </div>
 </div>
@@ -164,12 +163,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/ign-the-long-walk-exclusive-red-band-clip-2025-cooper-hoffman-david-jonsson-2eln" target="_blank">IGN: The Long Walk - Exclusive Red Band Clip (2025) Cooper Hoffman, David Jonsson</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-19 18:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18566288&w=600" alt="Building SQLGenie: A Natural Language to SQL Query Generator with LLM Integration" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/building-sqlgenie-a-natural-language-to-sql-query" target="_blank">Building SQLGenie: A Natural Language to SQL Query Generator with LLM Integration</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-08-19 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/bd076157-5ad9-48c7-933a-cec7f5eb0897_1146x948.png" alt="The Pragmatic Engineer 2025 Survey: What’s in your tech stack? Part 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-2025-survey-part-2" target="_blank">The Pragmatic Engineer 2025 Survey: What’s in your tech stack? Part 2</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-08-19 15:51</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +216,6 @@
                 <span class="time">2025-08-19 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/rocm-rusticl-strix-halo" target="_blank">Rusticl vs. AMD ROCm Performance On Ryzen AI Max+ &quot;Strix Halo&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-19 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://h4x0r.org/futex/" target="_blank">Without the Futex, It&#x27;s Futile</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-19 13:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/bongino.jpg?fit=1200%2C798&amp;quality=60&amp;ssl=1" alt="FBI&#x27;s Bongino gets unwanted partner after public meltdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/19/fbis-bongino-gets-unwanted-partner-after-public-meltdown.html" target="_blank">FBI&#x27;s Bongino gets unwanted partner after public meltdown</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-19 17:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JKTTZQ0F1TS1YG3F88Q7861Q/hero-image.png" alt="My Favorite Amazon Deal of the Day: The New Blink Video Doorbell" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/my-favorite-amazon-deal-of-the-day-blink-video-doorbell?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: The New Blink Video Doorbell</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-19 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/06/f57134bee1d3050962c127248bedad4d.jpg" alt="Gears Of War Creator Says It ‘Doesn’t Feel Strange’ To See It Ported To PS5" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,29 +289,20 @@
                 <span class="time">2025-08-19 14:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K3131Q4TV2K1FJNGNCC3NKAA/hero-image.jpg" alt="I Tried Proton’s New Privacy-First AI Chatbot to See If It’s Better Than ChatGPT" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/proton-privacy-first-chatbot-comparison-to-chatgpt?utm_medium=RSS" target="_blank">I Tried Proton’s New Privacy-First AI Chatbot to See If It’s Better Than ChatGPT</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-19 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K2ZWCV70WPV8H9H42094FYPT/hero-image.jpg" alt="What People Are Getting Wrong This Week: Did 80 Children Go Missing in Virginia?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-did-80-children-go-missing-in-virginia?utm_medium=RSS" target="_blank">What People Are Getting Wrong This Week: Did 80 Children Go Missing in Virginia?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-19 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/lie-to-me/" target="_blank">Lie to Me</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2025-08-19 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1755378772-20250819.png" alt="Saturday Morning Breakfast Cereal - You Sir" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -327,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 285 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
