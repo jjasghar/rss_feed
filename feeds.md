@@ -1,40 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-19 15:01:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-19 16:02:02 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 31 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, August 19, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, August 19, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,12 +51,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/19/nx-s1-5507052/air-canada-flights-resume-flight-attendants-union-strike" target="_blank">Air Canada says flights will resume Tuesday night after flight attendants strike ends</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-19 15:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png" alt="Council wins bid to stop hotel housing asylum seekers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cy98gdnrl7lo?at_medium=RSS&at_campaign=rss" target="_blank">Council wins bid to stop hotel housing asylum seekers</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-19 14:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-4-gty-gmh-250819_1755609953435_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump says no US ground troops will be sent to Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124734940" target="_blank">Trump admin live updates: Trump says no US ground troops will be sent to Ukraine</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-19 14:49</span>
             </div>
         </div>
 <div class="story">
@@ -86,29 +104,29 @@
                 <span class="time">2025-08-19 12:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755602499664_tdy_news_7a_engel_ukraine_250819_1920x1080-l2ywt3.jpg" alt="Ukrainians Express Relief After Zelenskyy’s White House Meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/ukrainians-express-relief-after-zelenskyy-trump-meeting-at-wh-245262917795" target="_blank">Ukrainians Express Relief After Zelenskyy’s White House Meeting</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-19 11:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/19/g-s1-83374/up-first-briefing-putin-zelenskyy-may-meet-mail-in-votings-future" target="_blank">Putin and Zelenskyy could meet. And, Trump wants to stop voting by mail</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-19 11:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/760100/modretro-chromatic-game-boy-tetris-update-battle-mode" target="_blank">The Chromatic Game Boy is getting Tetris&amp;#8217; best multiplayer mode</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-19 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68a3997a3892a70a1366475d/master/pass/Switch2_16x9_KirbyAirRiders_Art.jpg" alt="&#x27;Kirby Air Riders&#x27; Is Coming to Switch 2 and It’s ‘Basically Like Mario Kart&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/kirby-air-riders-is-coming-to-switch-2-and-its-basically-like-mario-kart/" target="_blank">&#x27;Kirby Air Riders&#x27; Is Coming to Switch 2 and It’s ‘Basically Like Mario Kart&#x27;</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-19 15:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/250308_All-new_Nissan_LEAF_Dynamic_Pictures_02-500x500-1755612763.jpg" alt="Nissan announces 2026 Leaf pricing, starting at $29,990" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,29 +163,29 @@
                 <span class="time">2025-08-19 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/19/spotifys-latest-feature-lets-you-add-your-own-transitions-to-playlists/" target="_blank">Spotify’s latest feature lets you add your own transitions to playlists</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-19 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/761240/uk-apple-us-encryption-back-door-demands-dropped" target="_blank">UK drops demand for backdoor into Apple encryption</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-19 09:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18566837&w=600" alt="Agile AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/agile-ai-agents" target="_blank">Agile AI Agents</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-19 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/08/19/strengthening-the-core-stack-overflow-for-teams-2025-6/" target="_blank">Strengthening the core: Stack Overflow for Teams 2025.6</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-08-19 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18566245&w=600" alt="Building a Secure and Unified Data Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,24 +220,6 @@
                 <span class="title"><a href="https://dev.to/ben/making-progress-on-subforem-editing-just-added-subforem-moderator-role-3h1l" target="_blank">Making progress on subforem editing, just added subforem moderator role.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-19 13:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18566181&w=600" alt="Regex in Action: Practical Examples for Python Programmers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/regex-use-cases-python" target="_blank">Regex in Action: Practical Examples for Python Programmers</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-19 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Bhyve-Detection" target="_blank">Linux Adding Detection For BSD&#x27;s Bhyve Hypervisor To Support 255+ vCPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-19 11:52</span>
             </div>
         </div>
 </div>
@@ -318,22 +318,13 @@
                 <span class="time">2025-08-18 23:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1755378695-20250818.png" alt="Saturday Morning Breakfast Cereal - Id" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/id" target="_blank">Saturday Morning Breakfast Cereal - Id</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-08-18 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 279 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
