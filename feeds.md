@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-19 09:01:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-19 10:01:54 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 8 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, August 19, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, August 19, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +110,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/19/spotifys-latest-feature-lets-you-add-your-own-transitions-to-playlists/" target="_blank">Spotify’s latest feature lets you add your own transitions to playlists</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-19 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/761240/uk-apple-us-encryption-back-door-demands-dropped" target="_blank">UK drops demand for backdoor into Apple encryption</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-19 09:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68a33d6b853f5f6d1f84d825/master/pass/penisworm.jpg" alt="An Ancient Penis Worm With Rings of Sharp Teeth Has Been Discovered in the Grand Canyon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/an-ancient-penis-worm-with-rings-of-sharp-teeth-has-been-discovered-in-the-grand-canyon/" target="_blank">An Ancient Penis Worm With Rings of Sharp Teeth Has Been Discovered in the Grand Canyon</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-19 09:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" alt="AT&amp;T Promo Code: Get Up to $300 in August" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -135,38 +163,38 @@
                 <span class="time">2025-08-19 00:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/18/allianz-life-data-breach-affects-1-1-million-customers/" target="_blank">Allianz Life data breach affects 1.1 million customers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-18 22:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689e2af77cc2dbb945f508ba/master/pass/politics_EJ_TWH.jpg" alt="An Account Using the Same Name as Trump’s BLS Pick Posted Red-Pilled Conspiracy Theories" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/twitter-ej-antoni-trump-bls-conspiracy-theories-epstein-covid-election-denial/" target="_blank">An Account Using the Same Name as Trump’s BLS Pick Posted Red-Pilled Conspiracy Theories</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-18 21:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/18/xs-declining-android-app-installs-are-hurting-subscription-revenue/" target="_blank">X’s declining Android app installs are hurting subscription revenue</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-18 20:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vibe_youtube/krish-naik-complete-detailed-roadmap-to-learn-ai-in-2025-with-free-videos-and-resources-4539" target="_blank">Krish Naik: Complete Detailed Roadmap To Learn AI In 2025 With Free Videos And Resources</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-19 10:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/08/claude-code-subagents/en/headerimage/claude-code-subagents-header-1755515425563.jpg" alt="Claude Code Subagents Enable Modular AI Workflows with Isolated Context" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/claude-code-subagents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Claude Code Subagents Enable Modular AI Workflows with Isolated Context</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-19 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Kernel-Stack-Watch" target="_blank">Kernel Stack Watch Proposed As New Linux Debugging Tool</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-19 09:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,33 +222,6 @@
                 <span class="time">2025-08-19 07:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://susam.net/primegrid.html" target="_blank">Prime Number Grid</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-19 07:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4qrkovbtthk7xshszkk3.png" alt="Effective Sprint Planning: Avoiding the Overcommitment Trap" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dct_technology/effective-sprint-planning-avoiding-the-overcommitment-trap-1fc5" target="_blank">Effective Sprint Planning: Avoiding the Overcommitment Trap</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-19 05:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mst-chain/mst-blockchain-indias-first-layer-1-platform-for-web3-developers-quick-start-guide-ecosystem-5bck" target="_blank">MST Blockchain: India’s First Layer-1 Platform for Web3 Developers — Quick Start Guide &amp; Ecosystem Overview</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-19 04:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/catfish-hiking-waterfall-main-e1755549549951.jpg" alt="Unprecedented Video Shows Catfish Climbing Straight Up a Waterfall" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/unprecedented-video-shows-catfish-climbing-straight-up-a-waterfall-2000644617" target="_blank">Unprecedented Video Shows Catfish Climbing Straight Up a Waterfall</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-19 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2023/02/3f4d96b70b1157473a19331db000bfb3.jpg" alt="Another Crypto IPO Hits the Market and Most People Still Have No Idea What Crypto Is" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +295,6 @@
                 <span class="time">2025-08-18 21:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/sydney-sweeney-and-donald-trump.jpg" alt="Despite Online MAGA Freakout About Her Jeans, Sydney Sweeney’s New Movie Bombs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/despite-online-maga-freakout-about-her-jeans-sydney-sweeneys-new-movie-bombs-2000644565" target="_blank">Despite Online MAGA Freakout About Her Jeans, Sydney Sweeney’s New Movie Bombs</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-18 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
