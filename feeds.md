@@ -1,32 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-08-19 13:09:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-19 14:01:56 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: DZone -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Generated 8 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, August 19, 2025 - 13:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, August 19, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +55,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-zelenskyy-main_1755597470518_hpMain_4x3t_384.jpg" alt="Trump admin live updates: &#x27;A significant step,&#x27; Zelenskyy says of meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124734940" target="_blank">Trump admin live updates: &#x27;A significant step,&#x27; Zelenskyy says of meeting</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-19 13:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/witness/2025/8/19/venezuelas-fight-for-justice?traffic_source=rss" target="_blank">Venezuela’s Fight for Justice</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-19 13:22</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/features/2025/8/19/israel-targets-displacement-shelters-in-central-gaza?traffic_source=rss" target="_blank">Israel attacks displacement shelters to force Palestinians to southern Gaza</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-19 12:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755602499664_tdy_news_7a_engel_ukraine_250819_1920x1080-l2ywt3.jpg" alt="Ukrainians Express Relief After Zelenskyy’s White House Meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/ukrainians-express-relief-after-zelenskyy-trump-meeting-at-wh-245262917795" target="_blank">Ukrainians Express Relief After Zelenskyy’s White House Meeting</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-19 11:21</span>
             </div>
         </div>
 <div class="story">
@@ -69,38 +108,38 @@
                 <span class="time">2025-08-19 10:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-zelenskyy-main_1755597470518_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Zelenskyy says Trump meeting &#x27;truly a significant step&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124734940" target="_blank">Trump admin live updates: Zelenskyy says Trump meeting &#x27;truly a significant step&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-19 10:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/19/nx-s1-5501576/climate-pollution-epa-regulation-endangerment-finding" target="_blank">Businesses face &#x27;chaos&#x27; as EPA aims to repeal its authority over climate pollution</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-19 09:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f0d/live/40671b40-7cb1-11f0-a7f9-13d3be31c149.jpg" alt="UK backs down in Apple privacy row, US says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdj2m3rrk74o?at_medium=RSS&at_campaign=rss" target="_blank">UK backs down in Apple privacy row, US says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-19 08:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/19/cpg-startup-keychain-snags-30m-to-build-in-india-grow-in-the-u-s/" target="_blank">CPG startup Keychain snags $30M to build in India, grow in the U.S.</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-19 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/761296/ayaneo-pocket-ds-dual-screen-handheld-android-13" target="_blank">Ayaneo’s dual-screen Android handheld is its next modernized Nintendo DS</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-19 13:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68a39121b59f5ef91a6a233c/master/pass/gear_adobeaipdf_GettyImages-2071491879.jpg" alt="The AI-Powered PDF Marks the End of an Era" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/adobe-ai-powered-pdf-end-of-an-era/" target="_blank">The AI-Powered PDF Marks the End of an Era</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-19 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -126,33 +165,6 @@
                 <span class="title"><a href="https://www.wired.com/story/an-ancient-penis-worm-with-rings-of-sharp-teeth-has-been-discovered-in-the-grand-canyon/" target="_blank">An Ancient Penis Worm With Rings of Sharp Teeth Has Been Discovered in the Grand Canyon</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-08-19 09:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" alt="AT&amp;T Promo Code: Get Up to $300 in August" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/att-promo-code/" target="_blank">AT&amp;T Promo Code: Get Up to $300 in August</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-19 05:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/18/openai-launches-a-sub-5-chatgpt-plan-in-india/" target="_blank">OpenAI launches a sub $5 ChatGPT plan in India</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-19 03:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/18/softbank-makes-2b-investment-in-intel/" target="_blank">SoftBank makes $2B investment in Intel</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-19 00:23</span>
             </div>
         </div>
 </div>
@@ -234,6 +246,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K2ZWCV70WPV8H9H42094FYPT/hero-image.jpg" alt="What People Are Getting Wrong This Week: Did 80 Children Go Missing in Virginia?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-did-80-children-go-missing-in-virginia?utm_medium=RSS" target="_blank">What People Are Getting Wrong This Week: Did 80 Children Go Missing in Virginia?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-19 13:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K2Z0RPNVB1MWW2EAC475ESMV/hero-image.png" alt="Ten of the Best Gadgets That Make Home Maintenance so Much Easier" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -278,15 +299,6 @@
                 <span class="time">2025-08-18 23:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K2Z8ZG2D39P73RZF2BHJVTRQ/hero-image.jpg" alt="Google&#x27;s AI Search Might Recommend You Call a Scammer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/googles-ai-search-might-recommend-you-call-a-scammer?utm_medium=RSS" target="_blank">Google&#x27;s AI Search Might Recommend You Call a Scammer</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-18 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 277 |
-        🔄 Last Updated: 13:09 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 278 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
