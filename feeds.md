@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-19 16:02:02 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-19 17:01:30 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, August 19, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, August 19, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52ea/live/ef444390-659b-11f0-9860-39ad79010224.jpg" alt="Asylum seekers to be removed from Epping hotel after council wins High Court injunction" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy98gdnrl7lo?at_medium=RSS&at_campaign=rss" target="_blank">Asylum seekers to be removed from Epping hotel after council wins High Court injunction</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-19 16:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755620069025_now_daily_a_alcindor_trump_troops_ukr_250819_1920x1080-r8q1rs.jpg" alt="Trump rules out sending U.S. troops to Ukraine as security guarantee for peace deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-rules-out-sending-u-s-troops-to-ukraine-as-security-guarantee-for-peace-deal-245282885882" target="_blank">Trump rules out sending U.S. troops to Ukraine as security guarantee for peace deal</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-19 16:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,29 +99,29 @@
                 <span class="time">2025-08-19 13:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/witness/2025/8/19/venezuelas-fight-for-justice?traffic_source=rss" target="_blank">Venezuela’s Fight for Justice</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-19 13:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2025/8/19/israel-targets-displacement-shelters-in-central-gaza?traffic_source=rss" target="_blank">Israel attacks displacement shelters to force Palestinians to southern Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-19 12:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/badminton1-500x500-1755543561.jpg" alt="Physics of badminton’s new killer spin serve" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/08/physics-of-badmintons-new-killer-spin-serve/" target="_blank">Physics of badminton’s new killer spin serve</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-19 16:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/689e56af26c500411f5d07b3/master/pass/Security_weedcard_GettyImages-1466383594.jpg" alt="Highly Sensitive Medical Cannabis Patient Data Exposed by Unsecured Database" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/highly-sensitive-medical-cannabis-patient-data-exposed-by-unsecured-database/" target="_blank">Highly Sensitive Medical Cannabis Patient Data Exposed by Unsecured Database</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-19 16:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,29 +158,20 @@
                 <span class="time">2025-08-19 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/761296/ayaneo-pocket-ds-dual-screen-handheld-android-13" target="_blank">Ayaneo’s dual-screen Android handheld is its next modernized Nintendo DS</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-19 13:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a39121b59f5ef91a6a233c/master/pass/gear_adobeaipdf_GettyImages-2071491879.jpg" alt="The AI-Powered PDF Marks the End of an Era" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/adobe-ai-powered-pdf-end-of-an-era/" target="_blank">The AI-Powered PDF Marks the End of an Era</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-19 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18566288&w=600" alt="Building SQLGenie: A Natural Language to SQL Query Generator with LLM Integration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-sqlgenie-a-natural-language-to-sql-query" target="_blank">Building SQLGenie: A Natural Language to SQL Query Generator with LLM Integration</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-19 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18566837&w=600" alt="Agile AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -213,15 +217,6 @@
                 <span class="time">2025-08-19 13:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ben/making-progress-on-subforem-editing-just-added-subforem-moderator-role-3h1l" target="_blank">Making progress on subforem editing, just added subforem moderator role.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-19 13:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/06/f57134bee1d3050962c127248bedad4d.jpg" alt="Gears Of War Creator Says It ‘Doesn’t Feel Strange’ To See It Ported To PS5" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gears-of-war-creator-cliffyb-ps5-port-thrilled-strange-xbox-return-to-gears-2000618463" target="_blank">Gears Of War Creator Says It ‘Doesn’t Feel Strange’ To See It Ported To PS5</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-19 16:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Moon.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="Will China beat the rest of the world to building a base on the Moon?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/19/will-china-beat-the-rest-of-the-world-to-building-a-base-on-the-moon.html" target="_blank">Will China beat the rest of the world to building a base on the Moon?</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-19 15:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Best-VPN-for-Brave-Browser.jpg" alt="UK Official Calls for Age Verification on VPNs to Prevent Porn Loophole" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,29 +290,20 @@
                 <span class="time">2025-08-19 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K2Z0RPNVB1MWW2EAC475ESMV/hero-image.png" alt="Ten of the Best Gadgets That Make Home Maintenance so Much Easier" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/best-gadgets-for-easier-home-maintenance?utm_medium=RSS" target="_blank">Ten of the Best Gadgets That Make Home Maintenance so Much Easier</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-19 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/250818-yosemite-transgender-flag-mn-1505-95c802.webp?fit=1000%2C750&amp;quality=55&amp;ssl=1" alt="Park ranger fired over trans pride flag on El Capitan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/19/park-ranger-fired-over-trans-pride-flag-on-el-capitan.html" target="_blank">Park ranger fired over trans pride flag on El Capitan</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-19 11:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1755378772-20250819.png" alt="Saturday Morning Breakfast Cereal - You Sir" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/you-sir" target="_blank">Saturday Morning Breakfast Cereal - You Sir</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-08-19 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5638.png" alt="A Love For The Ages" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -323,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 285 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
