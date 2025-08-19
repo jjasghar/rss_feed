@@ -1,41 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-19 20:01:54 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-19 21:01:31 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 32 feeds processed -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, August 19, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, August 19, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/19/nx-s1-5507210/president-trumps-talks-with-the-leaders-of-russia-and-ukraine" target="_blank">President Trump’s Talks with the Leaders of Russia and Ukraine</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-19 20:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1331/live/d2dbeab0-7d32-11f0-b6c9-e1728577c12d.jpg" alt="Kremlin plays down Zelensky talks as Trump warns Putin may not &#x27;want to make deal&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn92e52rpjxo?at_medium=RSS&at_campaign=rss" target="_blank">Kremlin plays down Zelensky talks as Trump warns Putin may not &#x27;want to make deal&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-19 20:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d253/live/04b32220-7cec-11f0-83cc-c5da98c419b8.jpg" alt="Israel demands release of all Gaza hostages, casting doubt on ceasefire proposal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,29 +103,20 @@
                 <span class="time">2025-08-19 18:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/19/nx-s1-5504124/home-depot-earnings-immigration-raids-day-laborers" target="_blank">Home Depot keeps quiet on immigration raids outside its doors</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-19 18:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-trump-zelenskyy_6995553.jpg?20250819181634" alt="What would US-backed security guarantees for Ukraine look like?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/what-would-us-backed-security-guarantees-for-ukraine-look-like-13414480" target="_blank">What would US-backed security guarantees for Ukraine look like?</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-19 18:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/761809/nuclear-energy-google-ai-advanced-reactor-kairos-tva-electricity-utility" target="_blank">Google announced the next step in its nuclear energy plans</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-19 20:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +162,29 @@
                 <span class="time">2025-08-19 18:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/badminton1-500x500-1755543561.jpg" alt="Physics of badminton’s new killer spin serve" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/08/physics-of-badmintons-new-killer-spin-serve/" target="_blank">Physics of badminton’s new killer spin serve</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-19 16:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/marxon/server-side-rendering-in-2025-nuxt-vs-next-which-one-should-you-choose-555n" target="_blank">Server-Side Rendering in 2025: Nuxt vs. Next – Which One Should You Choose?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-19 20:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18573028&w=600" alt="How to Program a Quantum Computer: A Beginner&#x27;s Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-to-program-a-quantum-computer-a-beginners-guide" target="_blank">How to Program a Quantum Computer: A Beginner&#x27;s Guide</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-19 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,29 +221,20 @@
                 <span class="time">2025-08-19 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/03/gnome-extensions-blue.jpg?resize=406%2C232&amp;ssl=1" alt="For a Quick Way to See Disk Space in Ubuntu, Try This Extension" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/gnome-disk-space-extension-nautilus-other-locations-alternative" target="_blank">For a Quick Way to See Disk Space in Ubuntu, Try This Extension</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-19 17:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Pinned-Device-Memory" target="_blank">Pinned Device Memory Patches For Intel&#x27;s Multi-GPU &quot;Project Battlematrix&quot; Linux Efforts</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-19 16:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/08/oregon-man-charged-in-rapper-bot-ddos-service/" target="_blank">Oregon Man Charged in ‘Rapper Bot’ DDoS Service</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-08-19 20:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -242,6 +249,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K31EXB1XC9B2NNDSPC6NCA2R/hero-image.jpg" alt="Spotify&#x27;s New Feature Lets You Mix Your Playlists Like a DJ" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/spotifys-new-feature-lets-you-mix-your-playlists-like-a-dj?utm_medium=RSS" target="_blank">Spotify&#x27;s New Feature Lets You Mix Your Playlists Like a DJ</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-19 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K31P08F7SGQ9PJAPDHWMTD2M/hero-image.png" alt="Peloton&#x27;s Yoga Offerings Are Surprisingly Robust" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +301,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/19/fbis-bongino-gets-unwanted-partner-after-public-meltdown.html" target="_blank">FBI&#x27;s Bongino gets unwanted partner after public meltdown</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-19 17:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JKTTZQ0F1TS1YG3F88Q7861Q/hero-image.png" alt="My Favorite Amazon Deal of the Day: The New Blink Video Doorbell" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/my-favorite-amazon-deal-of-the-day-blink-video-doorbell?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: The New Blink Video Doorbell</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-19 17:30</span>
             </div>
         </div>
 </div>
@@ -342,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
