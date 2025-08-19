@@ -1,28 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-19 12:02:11 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-19 13:09:31 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 20 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, August 19, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, August 19, 2025 - 13:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2025/8/19/israel-targets-displacement-shelters-in-central-gaza?traffic_source=rss" target="_blank">Israel attacks displacement shelters to force Palestinians to southern Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-19 12:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,15 +94,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cdj2m3rrk74o?at_medium=RSS&at_campaign=rss" target="_blank">UK backs down in Apple privacy row, US says</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-19 08:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/19/nx-s1-5506168/how-algorithms-are-changing-the-way-we-speak" target="_blank">How algorithms are changing the way we speak</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-19 07:00</span>
             </div>
         </div>
 </div>
@@ -159,6 +163,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ben/making-progress-on-subforem-editing-just-added-subforem-moderator-role-3h1l" target="_blank">Making progress on subforem editing, just added subforem moderator role.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-19 13:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18566181&w=600" alt="Regex in Action: Practical Examples for Python Programmers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/regex-use-cases-python" target="_blank">Regex in Action: Practical Examples for Python Programmers</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-19 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-Bhyve-Detection" target="_blank">Linux Adding Detection For BSD&#x27;s Bhyve Hypervisor To Support 255+ vCPUs</a></span>
                 <span class="feed">Phoronix</span>
@@ -192,22 +214,18 @@
                 <span class="time">2025-08-19 10:00</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Kernel-Stack-Watch" target="_blank">Kernel Stack Watch Proposed As New Linux Debugging Tool</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-19 09:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.svendewaerhert.com/blog/telescope-mount/" target="_blank">Custom telescope mount using harmonic drives and ESP32</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-19 09:46</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/zero-day-exploit-in-winrar-file.html" target="_blank">Zero-Day Exploit in WinRAR File</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-08-19 11:07</span>
             </div>
         </div>
 </div>
@@ -215,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K2Z0RPNVB1MWW2EAC475ESMV/hero-image.png" alt="Ten of the Best Gadgets That Make Home Maintenance so Much Easier" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/best-gadgets-for-easier-home-maintenance?utm_medium=RSS" target="_blank">Ten of the Best Gadgets That Make Home Maintenance so Much Easier</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-19 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/250818-yosemite-transgender-flag-mn-1505-95c802.webp?fit=1000%2C750&amp;quality=55&amp;ssl=1" alt="Park ranger fired over trans pride flag on El Capitan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/19/park-ranger-fired-over-trans-pride-flag-on-el-capitan.html" target="_blank">Park ranger fired over trans pride flag on El Capitan</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-19 11:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/catfish-hiking-waterfall-main-e1755549549951.jpg" alt="Unprecedented Video Shows Catfish Climbing Straight Up a Waterfall" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -249,24 +285,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/googles-ai-search-might-recommend-you-call-a-scammer?utm_medium=RSS" target="_blank">Google&#x27;s AI Search Might Recommend You Call a Scammer</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-18 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/dotandline.jpg?fit=1200%2C792&amp;quality=60&amp;ssl=1" alt="Watch Chuck Jones&#x27; 1965 Oscar-winning cartoon about a lovesick like and a dallying dot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/18/watch-chuck-jones-1965-oscar-winning-cartoon-about-a-lovesick-like-and-a-dallying-dot.html" target="_blank">Watch Chuck Jones&#x27; 1965 Oscar-winning cartoon about a lovesick like and a dallying dot</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-18 21:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/07/e6760b25b9807f6f7440717733b133c3.jpg" alt="Fine, I’ll Admit It: Battlefield 6‘s Open Weapon System Is Good" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/battlefield-6-open-closed-weapon-system-better-beta-ea-bf6-2000618282" target="_blank">Fine, I’ll Admit It: Battlefield 6‘s Open Weapon System Is Good</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-18 21:46</span>
             </div>
         </div>
 </div>
@@ -306,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 277 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 277 |
+        🔄 Last Updated: 13:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
