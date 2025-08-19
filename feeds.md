@@ -1,34 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-08-19 11:01:42 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-08-19 12:02:11 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, August 19, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, August 19, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/19/g-s1-83374/up-first-briefing-putin-zelenskyy-may-meet-mail-in-votings-future" target="_blank">Putin and Zelenskyy could meet. And, Trump wants to stop voting by mail</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-19 11:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b86/live/a55e1a30-7ce8-11f0-8302-b340557d621c.jpg" alt="People buying less fast food as grocery prices remain high" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,15 +90,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/19/nx-s1-5506168/how-algorithms-are-changing-the-way-we-speak" target="_blank">How algorithms are changing the way we speak</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-19 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c706/live/eba66100-7cc0-11f0-ab3e-bd52082cd0ae.jpg" alt="I was sexually assaulted on a plane - now I&#x27;m fighting for compensation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly6g2j67rko?at_medium=RSS&at_campaign=rss" target="_blank">I was sexually assaulted on a plane - now I&#x27;m fighting for compensation</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-19 05:10</span>
             </div>
         </div>
 </div>
@@ -166,6 +160,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Bhyve-Detection" target="_blank">Linux Adding Detection For BSD&#x27;s Bhyve Hypervisor To Support 255+ vCPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-19 11:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Apple-SoC-DT-Begins-Linux-6.18" target="_blank">Apple SoC DT Updates Already Begin Lining Up For Linux 6.18</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-19 10:21</span>
@@ -205,29 +208,6 @@
                 <span class="title"><a href="https://www.svendewaerhert.com/blog/telescope-mount/" target="_blank">Custom telescope mount using harmonic drives and ESP32</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-19 09:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/smyekh/from-concrete-to-cloud-a-developers-guide-to-the-physical-hardware-behind-oci-4eh3" target="_blank">From Concrete to Cloud: A Developer&#x27;s Guide to the Physical Hardware Behind OCI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-19 08:48</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/eavesdropping-on-phone-conversations-through-vibrations.html" target="_blank">Eavesdropping on Phone Conversations Through Vibrations</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-08-18 11:02</span>
             </div>
         </div>
 </div>
@@ -326,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 278 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 277 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
