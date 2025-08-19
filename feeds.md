@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-18 23:01:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-19 00:04:40 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, August 18, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, August 19, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-12-gty-gmh-250818_1755538547682_hpMain_4x3t_384.jpg" alt="Trump-Zelenskyy live updates: Trump says Putin-Zelenskyy meeting being planned" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124734940" target="_blank">Trump-Zelenskyy live updates: Trump says Putin-Zelenskyy meeting being planned</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-18 23:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/18/nx-s1-5506266/a-devastating-drought-in-iran" target="_blank">A Devastating Drought in Iran</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-18 19:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-10-gty-gmh-250818_1755538547080_hpMain_4x3t_384.jpg" alt="Key takeaways from Trump and Zelenskyy&#x27;s Oval Office meeting to discuss Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/key-takeaways-trump-zelenskyys-oval-office-meeting-discuss/story?id=124751645" target="_blank">Key takeaways from Trump and Zelenskyy&#x27;s Oval Office meeting to discuss Ukraine</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-18 19:01</span>
             </div>
         </div>
 </div>
@@ -164,6 +165,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/ign-inferius-official-announcement-trailer-1lec" target="_blank">IGN: Inferius - Official Announcement Trailer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-19 00:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-GFX1250-32-User-SGPRs" target="_blank">AMD &quot;GFX1250&quot; To Double The Number Of User SGPRs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-18 23:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/firefox-142.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox 142 Release Adds New Tab Page Topics, AI in Web Extensions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/firefox-142-browser-update-new-features" target="_blank">Firefox 142 Release Adds New Tab Page Topics, AI in Web Extensions</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-18 22:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://blog.pypi.org/posts/2025-08-18-preventing-domain-resurrections/" target="_blank">Preventing Domain Resurrection Attacks (on the Python Package Index)</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
@@ -182,37 +210,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-ZenDNN-5.1" target="_blank">AMD ZenDNN 5.1 Released For Enhancing AI Inference Performance On EPYC CPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-18 20:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18557479&w=600" alt="What’s Wrong With Data Validation — and How It Relates to the Liskov Substitution Principle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/whats-wrong-with-data-validation" target="_blank">What’s Wrong With Data Validation — and How It Relates to the Liskov Substitution Principle</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-18 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F28cve8dpz2bohxwo4q2s.png" alt="Functional Components in React" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nouribram/functional-components-in-react-33g" target="_blank">Functional Components in React</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-18 19:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Kdenlive-25.08-Released" target="_blank">Kdenlive 25.08 Preps For Future Hardware Acceleration Features</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-18 19:24</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://help.obsidian.md/bases" target="_blank">Obsidian Bases</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-18 21:28</span>
             </div>
         </div>
 </div>
@@ -234,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2023/02/3f4d96b70b1157473a19331db000bfb3.jpg" alt="Another Crypto IPO Hits the Market and Most People Still Have No Idea What Crypto Is" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/figure-ipo-crypto-2000644738" target="_blank">Another Crypto IPO Hits the Market and Most People Still Have No Idea What Crypto Is</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-18 23:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K2Z8ZG2D39P73RZF2BHJVTRQ/hero-image.jpg" alt="Google&#x27;s AI Search Might Recommend You Call a Scammer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +287,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/18/kevin-kelly-shares-tips-to-successful-book-publishing-in-2025.html" target="_blank">Kevin Kelly shares tips to successful book publishing in 2025</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-18 20:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/05/Steam-Deck-Clair-Obscur-Geforce-Now.jpg" alt="Game Streaming Will Never Be the Same After Nvidia’s GeForce Now Update" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/game-streaming-will-never-be-the-same-after-nvidias-geforce-now-update-2000644462" target="_blank">Game Streaming Will Never Be the Same After Nvidia’s GeForce Now Update</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-18 19:30</span>
             </div>
         </div>
 </div>
@@ -334,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
