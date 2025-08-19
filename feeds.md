@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-19 02:30:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-19 03:19:02 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, August 19, 2025 - 02:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, August 19, 2025 - 03:19 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfa9/live/a86af530-7c5d-11f0-a34f-318be3fb0481.jpg" alt="Lineker nominated for National Television Awards" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c99mkd3xm9po?at_medium=RSS&at_campaign=rss" target="_blank">Lineker nominated for National Television Awards</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-19 01:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7443/live/e286b3c0-7c72-11f0-a34f-318be3fb0481.jpg" alt="Key takeaways from Ukraine talks in Washington" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5yp4jggrj2o?at_medium=RSS&at_campaign=rss" target="_blank">Key takeaways from Ukraine talks in Washington</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-19 01:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755561788658_nn_tll_zelenskyy_trump_250818_1920x1080-2ndecn.jpg" alt="Trump, Zelenskyy, European leaders meet at White House" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,29 +102,20 @@
                 <span class="time">2025-08-18 22:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7443/live/e286b3c0-7c72-11f0-a34f-318be3fb0481.jpg" alt="Key takeaways so far from Ukraine talks in Washington" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5yp4jggrj2o?at_medium=RSS&at_campaign=rss" target="_blank">Key takeaways so far from Ukraine talks in Washington</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-18 20:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/8/18/msnbc-reveals-new-name-as-part-of-corporate-divorce-from-nbc?traffic_source=rss" target="_blank">MSNBC reveals new name as part of corporate divorce from NBC</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-18 20:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/18/softbank-makes-2b-investment-in-intel/" target="_blank">SoftBank makes $2B investment in Intel</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-19 00:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +161,20 @@
                 <span class="time">2025-08-18 19:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables" target="_blank">The best Garmin watches for training and everyday life</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-18 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/soukhya_0e36963c45b1ba212/crack-the-code-building-a-real-time-multiplayer-game-with-ai-347i" target="_blank">Crack the Code: Building a Real-Time Multiplayer Game with AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-19 03:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F243088%2F2c05ad7e-f30f-4805-993a-c167645ccde4.jpeg" alt="Learning about MP4 and stumbled upon this great article! 😄" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +220,6 @@
                 <span class="time">2025-08-19 00:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-inferius-official-announcement-trailer-1lec" target="_blank">IGN: Inferius - Official Announcement Trailer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-19 00:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +246,15 @@
                 <span class="title"><a href="https://gizmodo.com/figure-ipo-crypto-2000644738" target="_blank">Another Crypto IPO Hits the Market and Most People Still Have No Idea What Crypto Is</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-18 23:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/01/capitol-e1740083427879.jpeg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="The Good Liars hit Washington DC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/18/the-good-liars-hit-washington-dc.html" target="_blank">The Good Liars hit Washington DC</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-18 23:02</span>
             </div>
         </div>
 <div class="story">
@@ -278,15 +291,6 @@
                 <span class="title"><a href="https://gizmodo.com/despite-online-maga-freakout-about-her-jeans-sydney-sweeneys-new-movie-bombs-2000644565" target="_blank">Despite Online MAGA Freakout About Her Jeans, Sydney Sweeney’s New Movie Bombs</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-18 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Severance-3.jpg" alt="Britt Lower’s ‘Severance’ Audition Tape Proves Her Helly R. Was Meant to Be" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/britt-lowers-severance-audition-tape-proves-her-helly-r-was-meant-to-be-2000644579" target="_blank">Britt Lower’s ‘Severance’ Audition Tape Proves Her Helly R. Was Meant to Be</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-18 21:00</span>
             </div>
         </div>
 </div>
@@ -335,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 02:30 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 03:19 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
