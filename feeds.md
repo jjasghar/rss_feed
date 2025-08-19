@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-19 10:01:54 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-19 11:01:42 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 8 new posts out of 32 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, August 19, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, August 19, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b86/live/a55e1a30-7ce8-11f0-8302-b340557d621c.jpg" alt="People buying less fast food as grocery prices remain high" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5y042g11yvo?at_medium=RSS&at_campaign=rss" target="_blank">People buying less fast food as grocery prices remain high</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-19 10:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-zelenskyy-main_1755597470518_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Zelenskyy says Trump meeting &#x27;truly a significant step&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124734940" target="_blank">Trump admin live updates: Zelenskyy says Trump meeting &#x27;truly a significant step&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-19 10:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/19/nx-s1-5501576/climate-pollution-epa-regulation-endangerment-finding" target="_blank">Businesses face &#x27;chaos&#x27; as EPA aims to repeal its authority over climate pollution</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-19 09:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f0d/live/40671b40-7cb1-11f0-a7f9-13d3be31c149.jpg" alt="UK backs down in Apple privacy row, US says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,33 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cly6g2j67rko?at_medium=RSS&at_campaign=rss" target="_blank">I was sexually assaulted on a plane - now I&#x27;m fighting for compensation</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-19 05:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-donald-trump-vladimir-putin_6991991.jpg?20250815205748" alt="Key moments revealing Putin&#x27;s hold on Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/putin-wasnt-at-the-white-house-but-his-influence-was-key-moments-which-reveal-his-hold-over-trump-13414421" target="_blank">Key moments revealing Putin&#x27;s hold on Trump</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-19 05:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-donald-trump-vladimir-putin_6991991.jpg?20250815205748" alt="Three key moments revealing Putin&#x27;s hold on Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/putin-wasnt-at-the-white-house-but-his-influence-was-key-moments-which-reveal-his-hold-over-trump-13414421" target="_blank">Three key moments revealing Putin&#x27;s hold on Trump</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-19 05:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-trump-zelenskyy_6994976.jpg?20250819051726" alt="Trump is playing both sides - but has taken peace talks a distance not seen since the war began" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-is-playing-both-sides-but-has-taken-peace-talks-a-distance-not-seen-since-the-war-began-13414413" target="_blank">Trump is playing both sides - but has taken peace talks a distance not seen since the war began</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-19 03:59</span>
             </div>
         </div>
 </div>
@@ -171,6 +165,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Apple-SoC-DT-Begins-Linux-6.18" target="_blank">Apple SoC DT Updates Already Begin Lining Up For Linux 6.18</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-19 10:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/vibe_youtube/krish-naik-complete-detailed-roadmap-to-learn-ai-in-2025-with-free-videos-and-resources-4539" target="_blank">Krish Naik: Complete Detailed Roadmap To Learn AI In 2025 With Free Videos And Resources</a></span>
                 <span class="feed">DEV Community</span>
@@ -198,28 +201,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/smyekh/from-concrete-to-cloud-a-developers-guide-to-the-physical-hardware-behind-oci-4eh3" target="_blank">From Concrete to Cloud: A Developer&#x27;s Guide to the Physical Hardware Behind OCI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-19 08:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/provenance/en/headerimage/generatedHeaderImage-1755459202472.jpg" alt="Supply Chain Security: Provenance Tools Becoming Standard in Developer Platforms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/provenance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Supply Chain Security: Provenance Tools Becoming Standard in Developer Platforms</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-19 08:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.svendewaerhert.com/blog/telescope-mount/" target="_blank">Custom telescope mount using harmonic drives and ESP32</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-19 09:46</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/avishek_chandradas_7e892/15-web-development-project-ideas-for-your-portfolio-30jl" target="_blank">15 Web Development Project Ideas for Your Portfolio</a></span>
+                <span class="title"><a href="https://dev.to/smyekh/from-concrete-to-cloud-a-developers-guide-to-the-physical-hardware-behind-oci-4eh3" target="_blank">From Concrete to Cloud: A Developer&#x27;s Guide to the Physical Hardware Behind OCI</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2025-08-19 07:46</span>
+                <span class="time">2025-08-19 08:48</span>
             </div>
         </div>
 </div>
@@ -332,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 278 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
