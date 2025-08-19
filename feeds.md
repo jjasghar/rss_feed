@@ -1,43 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-08-19 19:01:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-19 20:01:54 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 12 new posts out of 35 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 12 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, August 19, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, August 19, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d253/live/04b32220-7cec-11f0-83cc-c5da98c419b8.jpg" alt="Israel demands release of all Gaza hostages, casting doubt on ceasefire proposal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cjeynvp409vo?at_medium=RSS&at_campaign=rss" target="_blank">Israel demands release of all Gaza hostages, casting doubt on ceasefire proposal</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-19 19:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/8/19/will-a-meeting-between-putin-and-zelenskyy-end-the-war-in?traffic_source=rss" target="_blank">Will a meeting between Putin and Zelenskyy end the war in Ukraine?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-19 19:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,29 +105,38 @@
                 <span class="time">2025-08-19 18:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/19/mexican-boxer-julio-cesar-chavez-jr-deported-from-us-authorities?traffic_source=rss" target="_blank">Mexican boxer Julio Cesar Chavez Jr deported from US: Authorities</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-19 17:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52ea/live/ef444390-659b-11f0-9860-39ad79010224.jpg" alt="Asylum seekers to be removed from Epping hotel after council wins High Court injunction" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy98gdnrl7lo?at_medium=RSS&at_campaign=rss" target="_blank">Asylum seekers to be removed from Epping hotel after council wins High Court injunction</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-19 16:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl" target="_blank">The best deals on 4K TVs</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-19 19:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/19/made-by-google-2025-how-to-watch-google-debut-the-pixel-10-pixel-watch-4-and-more/" target="_blank">Made by Google 2025: How to watch Google debut the Pixel 10, Pixel Watch 4, and more</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-19 19:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1813812982-500x500.jpg" alt="Betel nuts have been giving people a buzz for over 4,000 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/08/ancient-teeth-show-people-were-getting-high-off-betel-nuts-4000-years-ago/" target="_blank">Betel nuts have been giving people a buzz for over 4,000 years</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-19 19:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,38 +164,29 @@
                 <span class="time">2025-08-19 16:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689e56af26c500411f5d07b3/master/pass/Security_weedcard_GettyImages-1466383594.jpg" alt="Highly Sensitive Medical Cannabis Patient Data Exposed by Unsecured Database" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/highly-sensitive-medical-cannabis-patient-data-exposed-by-unsecured-database/" target="_blank">Highly Sensitive Medical Cannabis Patient Data Exposed by Unsecured Database</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-19 16:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/760100/modretro-chromatic-game-boy-tetris-update-battle-mode" target="_blank">The Chromatic Game Boy is getting Tetris&amp;#8217; best multiplayer mode</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-19 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a3997a3892a70a1366475d/master/pass/Switch2_16x9_KirbyAirRiders_Art.jpg" alt="&#x27;Kirby Air Riders&#x27; Is Coming to Switch 2 and It’s ‘Basically Like Mario Kart&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/kirby-air-riders-is-coming-to-switch-2-and-its-basically-like-mario-kart/" target="_blank">&#x27;Kirby Air Riders&#x27; Is Coming to Switch 2 and It’s ‘Basically Like Mario Kart&#x27;</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-19 15:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/product-news/agents-panel-launch-copilot-coding-agent-tasks-anywhere-on-github/" target="_blank">Agents panel: Launch Copilot coding agent tasks anywhere on GitHub</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-08-19 19:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/olhapi/playwright-e2e-testing-cheatsheet-15gl" target="_blank">Playwright E2E testing cheatsheet</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-19 19:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,39 +206,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/03/gnome-extensions-blue.jpg?resize=406%2C232&amp;ssl=1" alt="For a Quick Way to See Disk Space in Ubuntu, Try This Extension" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/gnome-disk-space-extension-nautilus-other-locations-alternative" target="_blank">For a Quick Way to See Disk Space in Ubuntu, Try This Extension</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-19 17:54</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-Pinned-Device-Memory" target="_blank">Pinned Device Memory Patches For Intel&#x27;s Multi-GPU &quot;Project Battlematrix&quot; Linux Efforts</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-19 16:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18566288&w=600" alt="Building SQLGenie: A Natural Language to SQL Query Generator with LLM Integration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-sqlgenie-a-natural-language-to-sql-query" target="_blank">Building SQLGenie: A Natural Language to SQL Query Generator with LLM Integration</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-19 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://research.kudelskisecurity.com/2025/08/19/how-we-exploited-coderabbit-from-a-simple-pr-to-rce-and-write-access-on-1m-repositories/" target="_blank">How we exploited CodeRabbit: From simple PR to RCE and write access on 1M repos</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-19 15:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/bd076157-5ad9-48c7-933a-cec7f5eb0897_1146x948.png" alt="The Pragmatic Engineer 2025 Survey: What’s in your tech stack? Part 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-2025-survey-part-2" target="_blank">The Pragmatic Engineer 2025 Survey: What’s in your tech stack? Part 2</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-08-19 15:51</span>
             </div>
         </div>
 </div>
@@ -245,6 +243,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K31P08F7SGQ9PJAPDHWMTD2M/hero-image.png" alt="Peloton&#x27;s Yoga Offerings Are Surprisingly Robust" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/pelotons-yoga-offerings-are-surprisingly-robust?utm_medium=RSS" target="_blank">Peloton&#x27;s Yoga Offerings Are Surprisingly Robust</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-19 19:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/fallout-season-2-trailer-ella-purnell-walton-goggins.jpg" alt="In ‘Fallout’ Season 2’s First Trailer, All Roads Lead to New Vegas" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -263,6 +270,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/10/las-vegas.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Vegas learns tourists prefer countries that don&#x27;t threaten them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/19/vegas-learns-tourists-prefer-countries-that-dont-threaten-them.html" target="_blank">Vegas learns tourists prefer countries that don&#x27;t threaten them</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-19 18:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/bongino.jpg?fit=1200%2C798&amp;quality=60&amp;ssl=1" alt="FBI&#x27;s Bongino gets unwanted partner after public meltdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -278,24 +294,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/my-favorite-amazon-deal-of-the-day-blink-video-doorbell?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: The New Blink Video Doorbell</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-19 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/06/f57134bee1d3050962c127248bedad4d.jpg" alt="Gears Of War Creator Says It ‘Doesn’t Feel Strange’ To See It Ported To PS5" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gears-of-war-creator-cliffyb-ps5-port-thrilled-strange-xbox-return-to-gears-2000618463" target="_blank">Gears Of War Creator Says It ‘Doesn’t Feel Strange’ To See It Ported To PS5</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-19 16:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Moon.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="Will China beat the rest of the world to building a base on the Moon?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/19/will-china-beat-the-rest-of-the-world-to-building-a-base-on-the-moon.html" target="_blank">Will China beat the rest of the world to building a base on the Moon?</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-19 15:02</span>
             </div>
         </div>
 </div>
@@ -344,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
