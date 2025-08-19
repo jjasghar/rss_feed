@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-19 06:01:59 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-19 07:01:55 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, August 19, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, August 19, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c706/live/eba66100-7cc0-11f0-ab3e-bd52082cd0ae.jpg" alt="I was sexually assaulted on a plane - now I&#x27;m fighting for compensation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly6g2j67rko?at_medium=RSS&at_campaign=rss" target="_blank">I was sexually assaulted on a plane - now I&#x27;m fighting for compensation</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-19 05:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-donald-trump-vladimir-putin_6991991.jpg?20250815205748" alt="Three key moments revealing Putin&#x27;s hold on Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/putin-wasnt-at-the-white-house-but-his-influence-was-key-moments-which-reveal-his-hold-over-trump-13414421" target="_blank">Three key moments revealing Putin&#x27;s hold on Trump</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-19 05:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/25/08/1920x1080/skynews-trump-zelenskyy_6994976.jpg?20250819051726" alt="Trump is playing both sides - but has taken peace talks a distance not seen since the war began" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,24 +98,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-zelenskyy-european-leaders-meet-at-white-house-245243973880" target="_blank">Trump, Zelenskyy, European leaders meet at White House</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-08-19 00:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-12-gty-gmh-250818_1755538547682_hpMain_4x3t_384.jpg" alt="Trump-Zelenskyy live updates: Trump says Putin-Zelenskyy meeting being planned" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124734940" target="_blank">Trump-Zelenskyy live updates: Trump says Putin-Zelenskyy meeting being planned</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-18 23:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/18/nx-s1-5506210/trump-mail-in-ballots-ban" target="_blank">Trump wants to stop states from voting by mail and using voting machines</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-18 22:23</span>
             </div>
         </div>
 </div>
@@ -321,22 +323,13 @@
                 <span class="time">2025-08-18 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/08/18/card-warriorz" target="_blank">Card Warriorz</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-08-18 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
