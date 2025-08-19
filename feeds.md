@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-19 21:01:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-19 22:01:43 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, August 19, 2025 - 21:01 UTC</div>
+    <div class="newspaper-date">Tuesday, August 19, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-5-epa-gmh-250819.jpg_1755610614037_hpMain_4x3t_384.jpg" alt="Trump: Smithsonian should portray nation&#x27;s &#x27;Brightness,&#x27; not &#x27;how bad Slavery was&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-smithsonian-portray-americas-brightness-bad-slavery/story?id=124788598" target="_blank">Trump: Smithsonian should portray nation&#x27;s &#x27;Brightness,&#x27; not &#x27;how bad Slavery was&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-19 20:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,15 +99,6 @@
                 <span class="time">2025-08-19 18:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-4-gty-gmh-250819_1755609953435_hpMain_4x3t_384.jpg" alt="Trump admin live updates: WH says Putin promised to meet with Zelenskyy soon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124734940" target="_blank">Trump admin live updates: WH says Putin promised to meet with Zelenskyy soon</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-19 18:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -145,6 +141,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/68a34ed52c43751aa7507f66/master/pass/Culture_Alien_AE_102_PBR-0703-0086r.jpg" alt="The 50 Best Shows on Hulu Right Now (August 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-tv-shows-hulu-this-week/" target="_blank">The 50 Best Shows on Hulu Right Now (August 2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-19 19:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -153,20 +158,29 @@
                 <span class="time">2025-08-19 18:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/21280354/best-ipad-deals-apple" target="_blank">The best iPad deals you can get right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-19 18:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Tinygrad-0.11-Released" target="_blank">Tinygrad 0.11 Released With AMD MI350 Support, NVIDIA Blackwell</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-19 21:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/phantom0121/why-chatgpts-current-state-honestly-freaks-me-out-1f5j" target="_blank">Why ChatGPT’s Current State Honestly Freaks Me Out..</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-19 21:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,24 +217,6 @@
                 <span class="time">2025-08-19 19:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-the-long-walk-exclusive-red-band-clip-2025-cooper-hoffman-david-jonsson-2eln" target="_blank">IGN: The Long Walk - Exclusive Red Band Clip (2025) Cooper Hoffman, David Jonsson</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-19 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18566315&w=600" alt="Not only AI: What Else Drives Team Performance Today?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/improving-team-output-without-more-ai" target="_blank">Not only AI: What Else Drives Team Performance Today?</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-19 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,6 +245,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/traingame.jpg" alt="The Coolest Thing From Gamescom ONL Was This Wild Train Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/denshattack-train-game-tony-hawk-anime-onl-gamescom-2025-trailer-2000618578" target="_blank">The Coolest Thing From Gamescom ONL Was This Wild Train Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-19 21:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JTTRM7W1EEN4FCTTTC41ET9Z/hero-image.jpg" alt="Google Messages Will Now Let You Delete Messages for Everyone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-messages-will-now-let-you-delete-messages-for-everyone?utm_medium=RSS" target="_blank">Google Messages Will Now Let You Delete Messages for Everyone</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-19 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K31EXB1XC9B2NNDSPC6NCA2R/hero-image.jpg" alt="Spotify&#x27;s New Feature Lets You Mix Your Playlists Like a DJ" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,24 +297,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/samsung-odyssey-g9-curved-gaming-monitor?utm_medium=RSS" target="_blank">This Ultra-Wide Curved Gaming Monitor Is at Its Lowest Price Ever</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-19 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/10/las-vegas.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Vegas learns tourists prefer countries that don&#x27;t threaten them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/19/vegas-learns-tourists-prefer-countries-that-dont-threaten-them.html" target="_blank">Vegas learns tourists prefer countries that don&#x27;t threaten them</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-19 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/bongino.jpg?fit=1200%2C798&amp;quality=60&amp;ssl=1" alt="FBI&#x27;s Bongino gets unwanted partner after public meltdown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/19/fbis-bongino-gets-unwanted-partner-after-public-meltdown.html" target="_blank">FBI&#x27;s Bongino gets unwanted partner after public meltdown</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-19 17:48</span>
             </div>
         </div>
 </div>
@@ -350,7 +346,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 21:01 UTC
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
