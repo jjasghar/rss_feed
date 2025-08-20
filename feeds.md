@@ -1,43 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-08-20 14:01:36 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-20 15:02:00 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: WIRED -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 33 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, August 20, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, August 20, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2d8/live/b8d33d80-769d-11f0-843d-5f1a592e74b1.jpg" alt="Ex-priest found guilty of 17 indecent assaults" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c20662dxl88o?at_medium=RSS&at_campaign=rss" target="_blank">Ex-priest found guilty of 17 indecent assaults</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-20 14:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/20/at-least-21-killed-in-pakistan-torrential-rain-flooding?traffic_source=rss" target="_blank">At least 21 killed in Pakistan torrential rain, flooding</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-20 14:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/erin-2-ht-gmh-250820_1755693592256_hpMain_4x3t_384.jpg" alt="Hurricane Erin live updates: NC under state of emergency, Northeast beaches close" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,29 +93,29 @@
                 <span class="time">2025-08-20 12:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/20/nx-s1-5505987/trump-dc-takeover-timing-national-guard-police" target="_blank">Trump&#x27;s control of D.C. police is limited. Its National Guard is a different story</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-20 12:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755689243910_tdy_news_7a_peter_russia_ukraine_250820_1920x1080-n3e7tz.jpg" alt="Trump Says Putin to Meet Zelenskyy, Kremlin Plays Down Prospect" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/russia-strikes-ukraine-hours-after-trump-s-summit-with-zelenskyy-245338693745" target="_blank">Trump Says Putin to Meet Zelenskyy, Kremlin Plays Down Prospect</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-20 11:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68a5d35642f4aefcf49e3fa0/master/pass/GettyImages-1968541220.jpg" alt="Arkansas Hosts the Planet’s Only Public Diamond Mine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/arkansas-hosts-the-planets-only-public-diamond-mine/" target="_blank">Arkansas Hosts the Planet’s Only Public Diamond Mine</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-20 14:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/762146/google-pixel-stephen-curry-partnership" target="_blank">Google signs Stephen Curry to pitch its Pixel, health, and AI gear</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-20 14:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,24 +150,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/762183/hertz-amazon-autos-used-rental-vehicles" target="_blank">Amazon now sells used Hertz rental cars</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-08-20 12:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/684cac705e958200b2433b76/master/pass/The%20Best%20Planners,%20Notebooks,%20and%20Accessories%20for%20Organizing%20Your%20Life_.png" alt="9 Best Planners of 2025: Weekly, Daily, and Monthly" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-paper-planners/" target="_blank">9 Best Planners of 2025: Weekly, Daily, and Monthly</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-20 11:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/762138/made-by-google-how-to-watch-pixel-10-watch-4-buds-2a" target="_blank">Made by Google: How to watch the Pixel 10 launch</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-20 10:52</span>
             </div>
         </div>
 </div>
@@ -254,11 +240,29 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/kirby.jpg?fit=1080%2C845&amp;quality=60&amp;ssl=1" alt="Next Nintendo Switch 2 exclusive brings Kirby back once again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/20/next-nintendo-switch-2-exclusive-brings-kirby-back-once-again.html" target="_blank">Next Nintendo Switch 2 exclusive brings Kirby back once again</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-20 14:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Alien-Earth-Episode-3-recap.jpg" alt="‘Alien: Earth’ Finished Its First Major Arc With Action and Intrigue" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/alien-earth-episode-3-recap-xenomorphy-wendy-fight-2000644478" target="_blank">‘Alien: Earth’ Finished Its First Major Arc With Action and Intrigue</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-20 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K33BM1STRTCM4AVMZGR2D2S1/hero-image.png" alt="These Top-Rated Anker Earbuds Are $57 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/anker-soundcore-liberty-4-nc-earbuds-sale?utm_medium=RSS" target="_blank">These Top-Rated Anker Earbuds Are $57 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-20 14:00</span>
             </div>
         </div>
@@ -287,24 +291,6 @@
                 <span class="title"><a href="https://lifehacker.com/money/money-transfer-scam?utm_medium=RSS" target="_blank">This Money Transfer Scam Fooled a Financial Advice Columnist</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-20 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/03/AIChatbotImage.jpg" alt="The Era of ‘AI Psychosis’ is Here. Are You a Possible Victim?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ai-psychosis-mental-health-2000645293" target="_blank">The Era of ‘AI Psychosis’ is Here. Are You a Possible Victim?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-20 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Severance-season-2-elevator.jpg" alt="The Creator of ‘Severance’ Just Explained a Key Logistical Question" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-creator-of-severance-just-explained-a-key-logistical-question-2000645311" target="_blank">The Creator of ‘Severance’ Just Explained a Key Logistical Question</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-19 23:45</span>
             </div>
         </div>
 </div>
@@ -354,7 +340,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 14:01 UTC
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
