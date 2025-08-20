@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-20 00:04:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-20 01:29:10 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, August 20, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, August 20, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/20/russia-ukraine-war-list-of-key-events-day-1273?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,273</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-20 00:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/19/nx-s1-5507247/a-growing-number-of-20-somethings-are-getting-whats-known-as-baby-botox" target="_blank">A growing number of 20-somethings are getting what&#x27;s known as &#x27;baby Botox&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-19 23:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/25/08/1920x1080/skynews-trump-zelenskyy_6995553.jpg?20250819205217" alt="&#x27;We&#x27;re going to find out about Putin,&#x27; Trump says - as he teases air support for Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +100,20 @@
                 <span class="time">2025-08-19 20:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1331/live/d2dbeab0-7d32-11f0-b6c9-e1728577c12d.jpg" alt="Kremlin plays down Zelensky talks as Trump warns Putin may not &#x27;want to make deal&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn92e52rpjxo?at_medium=RSS&at_campaign=rss" target="_blank">Kremlin plays down Zelensky talks as Trump warns Putin may not &#x27;want to make deal&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-19 20:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d253/live/04b32220-7cec-11f0-83cc-c5da98c419b8.jpg" alt="Israel demands release of all Gaza hostages, casting doubt on ceasefire proposal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cjeynvp409vo?at_medium=RSS&at_campaign=rss" target="_blank">Israel demands release of all Gaza hostages, casting doubt on ceasefire proposal</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-19 19:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/19/deel-scores-a-lawsuit-win-but-not-against-rippling/" target="_blank">Deel scores a lawsuit win, but not against Rippling</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-19 22:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/10/GettyImages-1232871329-500x500.jpeg" alt="Top pediatricians buck RFK Jr.’s anti-vaccine meddling on COVID shot guidance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +159,29 @@
                 <span class="time">2025-08-19 19:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a34ed52c43751aa7507f66/master/pass/Culture_Alien_AE_102_PBR-0703-0086r.jpg" alt="The 50 Best Shows on Hulu Right Now (August 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-tv-shows-hulu-this-week/" target="_blank">The 50 Best Shows on Hulu Right Now (August 2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-19 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/chimannamadim/turning-intuition-into-evidence-the-power-of-data-in-project-management-4b07" target="_blank">Turning Intuition Into Evidence: The Power of Data in Project Management</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-20 01:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://pistachioapp.com/blog/copilot-broke-your-audit-log" target="_blank">Copilot broke audit logs, but Microsoft won&#x27;t tell customers</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-20 00:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1755642359177%2Fbf125638-37fa-4fe4-b8ee-03e317708a84.png" alt="CLI for the Clueless, Learning AWS CLI Through Interactive Gaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/phantom0121/why-chatgpts-current-state-honestly-freaks-me-out-1f5j" target="_blank">Why ChatGPT’s Current State Honestly Freaks Me Out..</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-19 21:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/marxon/server-side-rendering-in-2025-nuxt-vs-next-which-one-should-you-choose-555n" target="_blank">Server-Side Rendering in 2025: Nuxt vs. Next – Which One Should You Choose?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-19 20:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18573028&w=600" alt="How to Program a Quantum Computer: A Beginner&#x27;s Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-to-program-a-quantum-computer-a-beginners-guide" target="_blank">How to Program a Quantum Computer: A Beginner&#x27;s Guide</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-19 20:00</span>
             </div>
         </div>
 </div>
@@ -324,22 +323,13 @@
                 <span class="time">2025-08-19 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5638.png" alt="A Love For The Ages" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5638" target="_blank">A Love For The Ages</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-08-19 00:58</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
