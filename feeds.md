@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-20 19:01:56 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2025-08-20 20:01:56 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, August 20, 2025 - 19:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, August 20, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +49,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/20/bulgarian-devotees-welcome-divine-new-year-in-mountaintop-ritual?traffic_source=rss" target="_blank">Bulgarian devotees welcome ‘divine new year’ in mountaintop ritual</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-20 18:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755713498270_now_daily_b_brk_gaza_assault_250820_1920x1080-ks0mbo.jpg" alt="Israel enters first stages of Gaza City assault" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/israel-enters-first-stages-of-gaza-city-assault-245367877939" target="_blank">Israel enters first stages of Gaza City assault</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-20 18:11</span>
             </div>
         </div>
 <div class="story">
@@ -87,20 +96,20 @@
                 <span class="time">2025-08-20 16:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/20/nx-s1-5508084/hurricane-erin-outer-banks-east-coast-rip-currents" target="_blank">Swimmers are warned to avoid East Coast beaches as Hurricane Erin moves north</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-20 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/20/india-bans-real-money-gaming-threatening-a-23-billion-industry/" target="_blank">India bans real-money gaming, threatening a $23 billion industry</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-20 19:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +155,6 @@
                 <span class="time">2025-08-20 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2227789526-500x500.jpg" alt="China’s Guowang megaconstellation is more than another version of Starlink" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/08/china-may-have-taken-an-early-lead-in-the-race-for-a-military-megaconstellation/" target="_blank">China’s Guowang megaconstellation is more than another version of Starlink</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-20 16:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -182,6 +182,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/outsourcedigest/customer-support-outsourcing-why-businesses-choose-it-3np7" target="_blank">Customer Support Outsourcing: Why Businesses Choose It</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-20 19:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/codewithved/demystifying-consensus-algorithms-for-system-design-interviews-55n2" target="_blank">Demystifying Consensus Algorithms for System Design Interviews</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-20 18:39</span>
@@ -203,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/dpelleri/stop-burning-money-on-ai-tests-build-a-smart-mock-system-in-15-minutes-4c21" target="_blank">Stop Burning Money on AI Tests: Build a Smart Mock System in 15 Minutes</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-20 17:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/systemd-259-Requirements" target="_blank">systemd 259 To Raise Linux System Requirements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-20 17:00</span>
             </div>
         </div>
 </div>
@@ -242,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/07/shutterstock_1413872648-scaled.jpg?fit=2560%2C1707&amp;quality=60&amp;ssl=1" alt="Target CEO resigns after boycotts and &quot;plummeting&quot; sales" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/20/target-ceo-resigns-after-boycotts-and-plummeting-sales.html" target="_blank">Target CEO resigns after boycotts and &quot;plummeting&quot; sales</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-20 19:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K3467946D9BS64H2HFWT9C6Y/hero-image.jpg" alt="The Newest Garmin Forerunners Now Have a Smart Wake Alarm, a Calculator, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/these-garmin-forerunners-now-have-a-smart-wake-alarm?utm_medium=RSS" target="_blank">The Newest Garmin Forerunners Now Have a Smart Wake Alarm, a Calculator, and More</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-20 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K34A7AHSCS087R1Q4FJ42H9T/hero-image.png" alt="You Can Now Ask Google Photos to Edit Your Images" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +294,6 @@
                 <span class="title"><a href="https://gizmodo.com/oscar-isaac-star-wars-return-poe-dameron-frankenstein-2000645648" target="_blank">Oscar Isaac Is Ready to Be a ‘Star Wars’ Again</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-20 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K31C4XS9V8T1WMHCC3A38PMB/hero-image.jpg" alt="Made by Google 2025 Live Blog: Latest News on Pixel 10, Pixel Watch 4, AI, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/made-by-google-2025-live-blog?utm_medium=RSS" target="_blank">Made by Google 2025 Live Blog: Latest News on Pixel 10, Pixel Watch 4, AI, and More</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-20 16:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/09/vaccine.jpg?fit=600%2C599&amp;quality=60&amp;ssl=1" alt="American Academy of Pediatrics recommends COVID shots for children ages 6 months to 2 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/20/american-academy-of-pediatrics-recommends-covid-shots-for-children-ages-6-months-to-2-years.html" target="_blank">American Academy of Pediatrics recommends COVID shots for children ages 6 months to 2 years</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-20 15:53</span>
             </div>
         </div>
 </div>
@@ -342,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
