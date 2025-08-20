@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-20 21:01:59 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-20 22:01:29 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, August 20, 2025 - 21:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, August 20, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/20/israel-pounds-gaza-killing-81-as-its-begins-assault-to-seize-gaza-city?traffic_source=rss" target="_blank">Israel pounds Gaza, killing 81, as it begins assault to seize Gaza City</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-20 21:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/jd-vance-11-rt-gmh-250820_1755715306654_hpMain_4x3t_384.jpg" alt="Protesters heckle Vance, Hegseth at photo op to thank National Guard troops in DC" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,20 +101,29 @@
                 <span class="time">2025-08-20 18:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/jd-vance-1-ap-gmh-250820_1755709548040_hpMain_4x3t_384.jpg" alt="Vance, Hegseth, Miller drowned out by protester jeers at Union Station photo op" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/protesters-heckle-vance-hegseth-miller-photo-op-dc/story?id=124815308" target="_blank">Vance, Hegseth, Miller drowned out by protester jeers at Union Station photo op</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-20 17:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/762848/ricoh-gr-iv-camera-gf2-flash-launch-price-specs" target="_blank">Ricoh’s GR IV launches in September for a much steeper price than its predecessor</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-20 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2206280180-500x500.jpg" alt="America’s fragile drug supply chain is extremely vulnerable to climate change" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/08/most-us-drug-facilities-are-in-areas-hit-by-natural-disasters-risking-shortages/" target="_blank">America’s fragile drug supply chain is extremely vulnerable to climate change</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-20 21:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,24 +158,6 @@
                 <span class="title"><a href="https://www.wired.com/story/sleeptime-compute-chatbots-memory/" target="_blank">Do Large Language Models Dream of AI Agents?</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-08-20 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/63efdc89de5e9cf54ad77546/master/pass/Branch-Ergonomic-Chair-2023-Gear.jpg" alt="Nothing Beats Our Editors&#x27; Favorite Office Chair, and It’s on Sale Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/branch-deals-labor-day/" target="_blank">Nothing Beats Our Editors&#x27; Favorite Office Chair, and It’s on Sale Now</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-20 17:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/762370/google-announces-gemini-for-home-nest-smart-speakers-voice-assistant" target="_blank">Gemini for Home is Google’s biggest smart home play in years</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-20 17:00</span>
             </div>
         </div>
 </div>
@@ -239,6 +239,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/hallo2.jpg" alt="Halloween: The Game Announced, Will Feature Multiplayer And Solo Story Mode" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/halloween-the-game-announced-will-feature-multiplayer-and-solo-story-mode-2000618930" target="_blank">Halloween: The Game Announced, Will Feature Multiplayer And Solo Story Mode</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-20 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Milchick.jpg" alt="‘Severance’ Standout Tramell Tillman Joins ‘Spider-Man: Brand New Day’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/spider-man-brand-new-day-casting-tramell-tillman-marvel-2000646040" target="_blank">‘Severance’ Standout Tramell Tillman Joins ‘Spider-Man: Brand New Day’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-20 21:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/04/Trump-april-25-2025.jpg" alt="Trump Labor Department Supports American Workers With Image of AI-Generated Worker" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -272,24 +290,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/these-garmin-forerunners-now-have-a-smart-wake-alarm?utm_medium=RSS" target="_blank">The Newest Garmin Forerunners Now Have a Smart Wake Alarm, a Calculator, and More</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-20 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K34A7AHSCS087R1Q4FJ42H9T/hero-image.png" alt="You Can Now Ask Google Photos to Edit Your Images" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-photos-is-getting-voice-based-ai-editing-made-by-google-2025?utm_medium=RSS" target="_blank">You Can Now Ask Google Photos to Edit Your Images</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-20 18:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/neolithic-burial.jpg" alt="Stone Age People Brutalized Their Prisoners of War, New Evidence Suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/stone-age-people-brutalized-their-prisoners-of-war-new-evidence-suggests-2000645408" target="_blank">Stone Age People Brutalized Their Prisoners of War, New Evidence Suggests</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-20 18:00</span>
             </div>
         </div>
 </div>
@@ -347,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
