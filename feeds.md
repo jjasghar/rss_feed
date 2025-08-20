@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-20 11:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-20 12:02:14 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, August 20, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, August 20, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b217/live/389e9e70-7db4-11f0-a34f-318be3fb0481.jpg" alt="Israel calls up 60,000 reservists ahead of planned Gaza City offensive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c7417pl3ddpo?at_medium=RSS&at_campaign=rss" target="_blank">Israel calls up 60,000 reservists ahead of planned Gaza City offensive</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-20 11:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +98,20 @@
                 <span class="time">2025-08-20 09:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce02/live/dfd20ea0-7d70-11f0-93ec-675a08aafd94.jpg" alt="More asylum hotels face legal challenge after court ruling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp3e221qgeeo?at_medium=RSS&at_campaign=rss" target="_blank">More asylum hotels face legal challenge after court ruling</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-20 07:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/684cac705e958200b2433b76/master/pass/The%20Best%20Planners,%20Notebooks,%20and%20Accessories%20for%20Organizing%20Your%20Life_.png" alt="9 Best Planners of 2025: Weekly, Daily, and Monthly" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-paper-planners/" target="_blank">9 Best Planners of 2025: Weekly, Daily, and Monthly</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-20 11:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +157,20 @@
                 <span class="time">2025-08-19 22:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/10/GettyImages-1232871329-500x500.jpeg" alt="Top pediatricians buck RFK Jr.’s anti-vaccine meddling on COVID shot guidance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/08/top-pediatricians-buck-rfk-jr-s-anti-vaccine-meddling-on-covid-shot-guidance/" target="_blank">Top pediatricians buck RFK Jr.’s anti-vaccine meddling on COVID shot guidance</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-19 22:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/08/libreoffice-hero.jpg?resize=406%2C232&amp;ssl=1" alt="LibreOffice 25.8 Released with PDF 2.0 Export, Faster Performance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/libreoffice-25-8-released-pdf-2-performance-boost" target="_blank">LibreOffice 25.8 Released with PDF 2.0 Export, Faster Performance</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-20 11:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,30 +199,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://tidewave.ai/blog/tidewave-web-phoenix-rails" target="_blank">Tidewave Web: in-browser coding agent for Rails and Phoenix</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-20 09:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/presentations/distributed-systems-resiliency/en/mediumimage/sam-newman-medium-1754467487326.jpg" alt="Presentation: Timeouts, Retries and Idempotency In Distributed Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
                 <span class="title"><a href="https://www.infoq.com/presentations/distributed-systems-resiliency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Timeouts, Retries and Idempotency In Distributed Systems</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-08-20 09:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/luis_torres_310e67efe3934/untitled-1i49" target="_blank">Untitled</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-20 04:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feofmqjcd32c1tt7uktbz.jpg" alt="Understanding Network Discovery Scan: Top Features to Look For" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/emily_assetloom/understanding-network-discovery-scan-top-features-to-look-for-230" target="_blank">Understanding Network Discovery Scan: Top Features to Look For</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-20 03:46</span>
             </div>
         </div>
 </div>
@@ -228,19 +224,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/08/oregon-man-charged-in-rapper-bot-ddos-service/" target="_blank">Oregon Man Charged in ‘Rapper Bot’ DDoS Service</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-08-19 20:51</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/subverting-aiops-systems-through-poisoned-input-data.html" target="_blank">Subverting AIOps Systems Through Poisoned Input Data</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-08-20 11:02</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/zero-day-exploit-in-winrar-file.html" target="_blank">Zero-Day Exploit in WinRAR File</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-08-19 11:07</span>
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/08/oregon-man-charged-in-rapper-bot-ddos-service/" target="_blank">Oregon Man Charged in ‘Rapper Bot’ DDoS Service</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-08-19 20:51</span>
             </div>
         </div>
 </div>
@@ -348,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
