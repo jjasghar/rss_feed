@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-20 20:01:56 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-20 21:01:59 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, August 20, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, August 20, 2025 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/jd-vance-11-rt-gmh-250820_1755715306654_hpMain_4x3t_384.jpg" alt="Protesters heckle Vance, Hegseth at photo op to thank National Guard troops in DC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/protesters-heckle-vance-hegseth-miller-photo-op-dc/story?id=124815308" target="_blank">Protesters heckle Vance, Hegseth at photo op to thank National Guard troops in DC</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-20 20:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/20/g-s1-83950/national-guard-dc-crash" target="_blank">One civilian injured in crash with D.C. National Guard military vehicle</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-20 20:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c7f/live/8ae02ea0-7df6-11f0-97b5-2745b2279d00.jpg" alt="Israeli military says first stages of assault on Gaza City have begun" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clyr7l0z9edo?at_medium=RSS&at_campaign=rss" target="_blank">Israeli military says first stages of assault on Gaza City have begun</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-20 19:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,33 +99,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/protesters-heckle-vance-hegseth-miller-photo-op-dc/story?id=124815308" target="_blank">Vance, Hegseth, Miller drowned out by protester jeers at Union Station photo op</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-20 17:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/20/most-americans-support-international-recognition-of-palestine-poll?traffic_source=rss" target="_blank">Most Americans support international recognition of Palestine: Poll</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-20 17:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/20/nx-s1-5508276/trump-calls-for-resignation-of-fed-governor-in-latest-line-of-attack" target="_blank">Trump calls for resignation of Fed governor in latest line of attack</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-20 16:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/20/south-african-minister-under-investigation-for-historic-racial-slurs-on-social-media" target="_blank">South African minister investigated for historical racial slurs on social media</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-08-20 16:15</span>
             </div>
         </div>
 </div>
@@ -179,6 +184,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18568019&w=600" alt="Filtering Java Stack Traces With MgntUtils Library" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/filter-java-stacktrace-mgntutils" target="_blank">Filtering Java Stack Traces With MgntUtils Library</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-20 20:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -188,30 +202,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/free-vpn.jpg?resize=406%2C232&amp;ssl=1" alt="Free VPN Extension Found Taking Screenshots, Uploading Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/free-vpn-chrome-extension-spying-on-users" target="_blank">Free VPN Extension Found Taking Screenshots, Uploading Them</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-20 19:26</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/codewithved/demystifying-consensus-algorithms-for-system-design-interviews-55n2" target="_blank">Demystifying Consensus Algorithms for System Design Interviews</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-20 18:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18567966&w=600" alt="Operationalizing the OWASP AI Testing Guide: Building Secure AI Foundations Through NHI Governance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/secure-ai-owasp-testing-nhi-governance" target="_blank">Operationalizing the OWASP AI Testing Guide: Building Secure AI Foundations Through NHI Governance</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-20 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dpelleri/stop-burning-money-on-ai-tests-build-a-smart-mock-system-in-15-minutes-4c21" target="_blank">Stop Burning Money on AI Tests: Build a Smart Mock System in 15 Minutes</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-20 17:53</span>
             </div>
         </div>
 </div>
@@ -228,20 +233,29 @@
                 <span class="time">2025-08-20 11:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/08/oregon-man-charged-in-rapper-bot-ddos-service/" target="_blank">Oregon Man Charged in ‘Rapper Bot’ DDoS Service</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-08-19 20:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/04/Trump-april-25-2025.jpg" alt="Trump Labor Department Supports American Workers With Image of AI-Generated Worker" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trump-labor-day-artificial-intelligence-slop-adobe-2000645917" target="_blank">Trump Labor Department Supports American Workers With Image of AI-Generated Worker</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-20 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/04/5738041453f90af93db8c0400150abc3.jpg" alt="Early Switch 2 Elden Ring Impressions Sound Not Great As Bandai Namco Locks Down Footage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/elden-ring-switch-2-framerate-footage-video-gamescom-2000618923" target="_blank">Early Switch 2 Elden Ring Impressions Sound Not Great As Bandai Namco Locks Down Footage</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-20 20:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/07/shutterstock_1413872648-scaled.jpg?fit=2560%2C1707&amp;quality=60&amp;ssl=1" alt="Target CEO resigns after boycotts and &quot;plummeting&quot; sales" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +292,6 @@
                 <span class="time">2025-08-20 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K340W973NPGEMR7TJNP1NHCT/hero-image.png" alt="What&#x27;s New on Netflix in September 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/whats-new-on-netflix-in-september-2025?utm_medium=RSS" target="_blank">What&#x27;s New on Netflix in September 2025</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-20 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/PoeDameron-2.jpg" alt="Oscar Isaac Is Ready to Be a ‘Star Wars’ Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/oscar-isaac-star-wars-return-poe-dameron-frankenstein-2000645648" target="_blank">Oscar Isaac Is Ready to Be a ‘Star Wars’ Again</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-20 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,6 +325,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/cesium.png" alt="Cesium" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3131/" target="_blank">Cesium</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-08-20 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5639.png" alt="Marvel Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -342,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
