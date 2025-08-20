@@ -1,43 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-20 16:02:03 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-20 17:01:54 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 34 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, August 20, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, August 20, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/20/south-african-minister-under-investigation-for-historic-racial-slurs-on-social-media" target="_blank">South African minister investigated for historical racial slurs on social media</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-08-20 16:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/20/nx-s1-5508084/hurricane-erin-outer-banks-east-coast-rip-currents" target="_blank">Swimmers are warned to avoid East Coast beaches as Hurricane Erin moves north</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-20 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2d8/live/b8d33d80-769d-11f0-843d-5f1a592e74b1.jpg" alt="Ex-priest found guilty of 17 indecent assaults" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,29 +102,38 @@
                 <span class="time">2025-08-20 13:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/8/20/aid-systems-in-gaza-reduces-people-to-scurrying-rats?traffic_source=rss" target="_blank">Aid systems in Gaza reduces people to “scurrying rats”</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-20 13:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2025/aug/20/uganda-trump-deal-immigration" target="_blank">Uganda denies reports that it has struck deal with Trump to take in US deportees</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-08-20 13:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/762370/google-announces-gemini-for-home-nest-smart-speakers-voice-assistant" target="_blank">Gemini for Home is Google’s biggest smart home play in years</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-20 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2227789526-500x500.jpg" alt="China’s Guowang megaconstellation is more than another version of Starlink" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/08/china-may-have-taken-an-early-lead-in-the-race-for-a-military-megaconstellation/" target="_blank">China’s Guowang megaconstellation is more than another version of Starlink</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-20 16:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68a51e91c49b4b40cab05f73/master/pass/Fitbit%20Source%20Fitbit.png" alt="The Fitbit App Is Turning Into an AI-Powered Personal Health Coach" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/fitbit-app-ai-personal-health-coach/" target="_blank">The Fitbit App Is Turning Into an AI-Powered Personal Health Coach</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-20 16:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,33 +161,6 @@
                 <span class="time">2025-08-20 14:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/762146/google-pixel-stephen-curry-partnership" target="_blank">Google signs Stephen Curry to pitch its Pixel, health, and AI gear</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-20 14:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/762116/microsoft-asus-xbox-ally-handheld-release-date-compatibility" target="_blank">Microsoft and Asus’ new Xbox Ally handhelds launch on October 16th</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-20 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a51abc68337ef57d0e093f/master/pass/I%20Spent%20Months%20Testing%20Cold-Plunge%20Pools.%20I%20Think%20I%E2%80%99m%20Addicted.png" alt="The Best Cold-Plunge Pools in 2025—I Spent Months Testing to Find the Best" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-cold-plunge-tubs/" target="_blank">The Best Cold-Plunge Pools in 2025—I Spent Months Testing to Find the Best</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-20 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -178,6 +173,33 @@
                 <span class="title"><a href="https://about.gitlab.com/blog/blog-post-slug/" target="_blank">The GitLab documentation site gets a major design overhaul</a></span>
                 <span class="feed">GitLab</span>
                 <span class="time">2025-08-25 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/murcoder/build-an-ar-react-app-17i5" target="_blank">Build an AR React App</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-20 16:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18567960&w=600" alt="Prompt Engineering Wasn&#x27;t Enough; Context Engineering Is What Came Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/prompt-engineering-context-engineering" target="_blank">Prompt Engineering Wasn&#x27;t Enough; Context Engineering Is What Came Next</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-20 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/maintainers/who-will-maintain-the-future-rethinking-open-source-leadership-for-a-new-generation/" target="_blank">Who will maintain the future? Rethinking open source leadership for a new generation</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-08-20 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -196,33 +218,6 @@
                 <span class="title"><a href="https://visualrambling.space/moving-objects-in-3d/" target="_blank">Show HN: I was curious about spherical helix, ended up making this visualization</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-20 14:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/08/20/documents-the-architect-s-programming-language/" target="_blank">Documents: The architect’s programming language</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-08-20 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ngrok/doglabbing-ngrok-many-services-one-standard-authn-path-4mjn" target="_blank">&#x27;Doglabbing&#x27; ngrok: Many services, one standard AuthN path</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-20 13:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18573492&w=600" alt="Amadeus Cloud Migration on Ampere Altra Instances" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/amadeus-cloud-migration-ampere-altra" target="_blank">Amadeus Cloud Migration on Ampere Altra Instances</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-20 13:30</span>
             </div>
         </div>
 </div>
@@ -253,6 +248,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/PoeDameron-2.jpg" alt="Oscar Isaac Is Ready to Be a ‘Star Wars’ Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/oscar-isaac-star-wars-return-poe-dameron-frankenstein-2000645648" target="_blank">Oscar Isaac Is Ready to Be a ‘Star Wars’ Again</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-20 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K31C4XS9V8T1WMHCC3A38PMB/hero-image.jpg" alt="Made by Google 2025 Live Blog: Latest News on Pixel 10, Pixel Watch 4, AI, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/made-by-google-2025-live-blog?utm_medium=RSS" target="_blank">Made by Google 2025 Live Blog: Latest News on Pixel 10, Pixel Watch 4, AI, and More</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-20 16:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/09/vaccine.jpg?fit=600%2C599&amp;quality=60&amp;ssl=1" alt="American Academy of Pediatrics recommends COVID shots for children ages 6 months to 2 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,24 +300,6 @@
                 <span class="title"><a href="https://gizmodo.com/alien-earth-episode-3-recap-xenomorphy-wendy-fight-2000644478" target="_blank">‘Alien: Earth’ Finished Its First Major Arc With Action and Intrigue</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-20 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K33BM1STRTCM4AVMZGR2D2S1/hero-image.png" alt="These Top-Rated Anker Earbuds Are $57 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/anker-soundcore-liberty-4-nc-earbuds-sale?utm_medium=RSS" target="_blank">These Top-Rated Anker Earbuds Are $57 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-20 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/vampmasq.jpg" alt="Vampire: The Masquerade – Bloodlines 2 Brings Back Horrors Of Paid Day-One DLC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/vampire-the-masquerade-bloodlines-2-day-1-dlc-clans-2000618832" target="_blank">Vampire: The Masquerade – Bloodlines 2 Brings Back Horrors Of Paid Day-One DLC</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-20 13:19</span>
             </div>
         </div>
 </div>
@@ -344,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
