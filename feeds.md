@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-20 03:18:15 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-20 04:01:50 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, August 20, 2025 - 03:18 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, August 20, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/20/australia-hits-back-at-netanyahu-amid-escalating-diplomatic-row-over-gaza?traffic_source=rss" target="_blank">Australia hits back at Netanyahu amid escalating diplomatic row over Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-20 03:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,30 +80,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755644993307_nn_kod_trump_putin_250819_1920x1080-fn2ek4.jpg" alt="Trump: No U.S. ground troops to Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-no-u-s-ground-troops-to-ukraine-245314629558" target="_blank">Trump: No U.S. ground troops to Ukraine</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-19 23:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/25/08/1920x1080/skynews-trump-zelenskyy_6995553.jpg?20250819205217" alt="Trump sets red line on Ukraine peace deal support - and makes admission about Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
                 <span class="title"><a href="https://news.sky.com/story/trump-i-wont-send-us-troops-to-ukraine-but-might-help-by-air-13414934" target="_blank">Trump sets red line on Ukraine peace deal support - and makes admission about Putin</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-08-19 21:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-trump-zelenskyy_6995553.jpg?20250819205217" alt="&#x27;We&#x27;re going to find out about Putin,&#x27; Trump says - as he teases air support for Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-i-wont-send-us-troops-to-ukraine-but-might-help-by-air-13414934" target="_blank">&#x27;We&#x27;re going to find out about Putin,&#x27; Trump says - as he teases air support for Ukraine</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-19 21:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/19/nx-s1-5506209/too-much-to-pack-not-enough-hugs-a-kenyan-mans-last-48-hours-in-america-trump-self-deportation" target="_blank">Too much to pack, not enough hugs: A Kenyan man&#x27;s last 48 hours in America</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-19 21:06</span>
             </div>
         </div>
 </div>
@@ -163,6 +162,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feofmqjcd32c1tt7uktbz.jpg" alt="Understanding Network Discovery Scan: Top Features to Look For" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/emily_assetloom/understanding-network-discovery-scan-top-features-to-look-for-230" target="_blank">Understanding Network Discovery Scan: Top Features to Look For</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-20 03:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F1%2Fd908a186-5651-4a5a-9f76-15200bc6801f.jpg" alt="n8n" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -183,6 +191,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/osra-membership" target="_blank">Canonical is now a platinum member in the Open Source Robotics Alliance</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-08-20 01:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/chimannamadim/turning-intuition-into-evidence-the-power-of-data-in-project-management-4b07" target="_blank">Turning Intuition Into Evidence: The Power of Data in Project Management</a></span>
                 <span class="feed">DEV Community</span>
@@ -196,24 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-SEV-SNP-Host-Ubuntu-25.04" target="_blank">Ahead Of Ubuntu 26.04 LTS, Ubuntu 25.04 Has AMD SEV-SNP Host Support</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-20 00:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://pistachioapp.com/blog/copilot-broke-your-audit-log" target="_blank">Copilot broke audit logs, but Microsoft won&#x27;t tell customers</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-20 00:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1755642359177%2Fbf125638-37fa-4fe4-b8ee-03e317708a84.png" alt="CLI for the Clueless, Learning AWS CLI Through Interactive Gaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/cli-for-the-clueless-learning-aws-cli-through-interactive-gaming-2b5l" target="_blank">CLI for the Clueless, Learning AWS CLI Through Interactive Gaming</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-19 22:47</span>
             </div>
         </div>
 </div>
@@ -335,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 03:18 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
