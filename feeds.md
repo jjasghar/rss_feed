@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-19 23:01:44 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-20 00:04:31 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, August 19, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, August 20, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-trump-zelenskyy_6995553.jpg?20250819205217" alt="&#x27;We&#x27;re going to find out about Putin,&#x27; Trump says - as he teases air support for Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-i-wont-send-us-troops-to-ukraine-but-might-help-by-air-13414934" target="_blank">&#x27;We&#x27;re going to find out about Putin,&#x27; Trump says - as he teases air support for Ukraine</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-19 21:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cjeynvp409vo?at_medium=RSS&at_campaign=rss" target="_blank">Israel demands release of all Gaza hostages, casting doubt on ceasefire proposal</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-19 19:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/8/19/will-a-meeting-between-putin-and-zelenskyy-end-the-war-in?traffic_source=rss" target="_blank">Will a meeting between Putin and Zelenskyy end the war in Ukraine?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-19 19:26</span>
             </div>
         </div>
 </div>
@@ -175,6 +177,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://muffinman.io/blog/invaders/" target="_blank">How to Draw a Space Invader</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-19 22:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Tinygrad-0.11-Released" target="_blank">Tinygrad 0.11 Released With AMD MI350 Support, NVIDIA Blackwell</a></span>
                 <span class="feed">Phoronix</span>
@@ -208,15 +219,6 @@
                 <span class="time">2025-08-19 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/product-news/agents-panel-launch-copilot-coding-agent-tasks-anywhere-on-github/" target="_blank">Agents panel: Launch Copilot coding agent tasks anywhere on GitHub</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-08-19 19:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +248,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Severance-season-2-elevator.jpg" alt="The Creator of ‘Severance’ Just Explained a Key Logistical Question" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-creator-of-severance-just-explained-a-key-logistical-question-2000645311" target="_blank">The Creator of ‘Severance’ Just Explained a Key Logistical Question</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-19 23:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/kick.jpg" alt="Kick Streamer Known For Controversial ‘Humiliation’ Content Reportedly Dies During Live Broadcast" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/jeanpormanove-kick-streamer-dead-humiliation-abuse-naruto-2000618580" target="_blank">Kick Streamer Known For Controversial ‘Humiliation’ Content Reportedly Dies During Live Broadcast</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-19 22:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/traingame.jpg" alt="The Coolest Thing From Gamescom ONL Was This Wild Train Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -264,39 +284,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HW96DTWTS3NVFYV43RH258NM/hero-image.png" alt="&#x27;Clanker,&#x27; &#x27;Dwerking,&#x27; and Other Gen Z and Gen Alpha Slang You Might Need Help Decoding" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/guide-to-gen-z-and-gen-alpha-slang?utm_medium=RSS" target="_blank">&#x27;Clanker,&#x27; &#x27;Dwerking,&#x27; and Other Gen Z and Gen Alpha Slang You Might Need Help Decoding</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-19 21:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JTTRM7W1EEN4FCTTTC41ET9Z/hero-image.jpg" alt="Google Messages Will Now Let You Delete Messages for Everyone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/tech/google-messages-will-now-let-you-delete-messages-for-everyone?utm_medium=RSS" target="_blank">Google Messages Will Now Let You Delete Messages for Everyone</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-19 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/02/helldivers2-1684972836077-e1709826351129.jpg?fit=952%2C600&amp;quality=60&amp;ssl=1" alt="PlayStation gets a taste of Halo through Helldivers 2&#x27;s newest content drop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/19/playstation-gets-a-taste-of-halo-through-helldivers-2s-newest-content-drop.html" target="_blank">PlayStation gets a taste of Halo through Helldivers 2&#x27;s newest content drop</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-19 20:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K31EXB1XC9B2NNDSPC6NCA2R/hero-image.jpg" alt="Spotify&#x27;s New Feature Lets You Mix Your Playlists Like a DJ" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/spotifys-new-feature-lets-you-mix-your-playlists-like-a-dj?utm_medium=RSS" target="_blank">Spotify&#x27;s New Feature Lets You Mix Your Playlists Like a DJ</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-19 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K31P08F7SGQ9PJAPDHWMTD2M/hero-image.png" alt="Peloton&#x27;s Yoga Offerings Are Surprisingly Robust" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/pelotons-yoga-offerings-are-surprisingly-robust?utm_medium=RSS" target="_blank">Peloton&#x27;s Yoga Offerings Are Surprisingly Robust</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-19 19:30</span>
             </div>
         </div>
 </div>
@@ -331,22 +333,13 @@
                 <span class="time">2025-08-19 00:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/08/18/card-warriorz" target="_blank">Card Warriorz</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-08-18 23:36</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
