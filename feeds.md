@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-20 12:02:14 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-08-20 13:10:32 UTC -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Generated 9 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, August 20, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, August 20, 2025 - 13:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/German-Typhoon-DB-250820_1755675523148_hpMain_4x3t_384.jpg" alt="NATO jets deployed to &#x27;monitor&#x27; Russian drone attack in Ukraine, Romania says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/nato-aircraft-scrambled-amid-overnight-russian-drone-strikes/story?id=124800832" target="_blank">NATO jets deployed to &#x27;monitor&#x27; Russian drone attack in Ukraine, Romania says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-20 12:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/20/nx-s1-5505987/trump-dc-takeover-timing-national-guard-police" target="_blank">Trump&#x27;s control of D.C. police is limited. Its National Guard is a different story</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-20 12:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b217/live/389e9e70-7db4-11f0-a34f-318be3fb0481.jpg" alt="Israel calls up 60,000 reservists ahead of planned Gaza City offensive" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,29 +96,38 @@
                 <span class="time">2025-08-20 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/20/isak-slams-newcastle-in-boost-to-liverpool-hopes-of-signing-swede?traffic_source=rss" target="_blank">Isak slams Newcastle in boost to Liverpool hopes of signing Swede</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-20 09:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc53/live/fb688630-7c4e-11f0-b34b-3f615028e3e9.jpg" alt="Air fares and food prices push up inflation in July" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c741wkngndqo?at_medium=RSS&at_campaign=rss" target="_blank">Air fares and food prices push up inflation in July</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-20 09:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68a51abc68337ef57d0e093f/master/pass/I%20Spent%20Months%20Testing%20Cold-Plunge%20Pools.%20I%20Think%20I%E2%80%99m%20Addicted.png" alt="The Best Cold-Plunge Pools in 2025—I Spent Months Testing to Find the Best" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-cold-plunge-tubs/" target="_blank">The Best Cold-Plunge Pools in 2025—I Spent Months Testing to Find the Best</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-20 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/20/sre-ai-launches-to-automate-complex-enterprise-workflows/" target="_blank">Y Combinator alum SRE.ai raises $7.2M for DevOps AI agents</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-20 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/762183/hertz-amazon-autos-used-rental-vehicles" target="_blank">Amazon now sells used Hertz rental cars</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-20 12:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/684cac705e958200b2433b76/master/pass/The%20Best%20Planners,%20Notebooks,%20and%20Accessories%20for%20Organizing%20Your%20Life_.png" alt="9 Best Planners of 2025: Weekly, Daily, and Monthly" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -130,38 +155,20 @@
                 <span class="time">2025-08-20 09:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a504444d2dfa8672db7402/master/pass/politics_trump_economy_panicans.jpg" alt="It&#x27;s the Economy, Donald" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/its-the-economy-donald-no-panican/" target="_blank">It&#x27;s the Economy, Donald</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-20 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/politics/762031/trump-white-house-tiktok-account" target="_blank">The White House just joined TikTok</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-20 01:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/19/deel-scores-a-lawsuit-win-but-not-against-rippling/" target="_blank">Deel scores a lawsuit win, but not against Rippling</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-19 22:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/08/csharp-mcp-sdk-update/en/headerimage/twitter_card+%2857%29-1755366189472.jpg" alt="MCP C# SDK Aligns with New Protocol Specification, Bringing Security and Tooling Updates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/csharp-mcp-sdk-update/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">MCP C# SDK Aligns with New Protocol Specification, Bringing Security and Tooling Updates</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-20 11:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/08/libreoffice-hero.jpg?resize=406%2C232&amp;ssl=1" alt="LibreOffice 25.8 Released with PDF 2.0 Export, Faster Performance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +214,6 @@
                 <span class="time">2025-08-20 09:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/distributed-systems-resiliency/en/mediumimage/sam-newman-medium-1754467487326.jpg" alt="Presentation: Timeouts, Retries and Idempotency In Distributed Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/distributed-systems-resiliency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Timeouts, Retries and Idempotency In Distributed Systems</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-20 09:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/Six-Fingered-Santa.jpg" alt="Call Of Duty Dev Explains How AI Slop Gets Into The Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/black-ops-7-generative-ai-call-duty-gamescom-2025-slop-2000618833" target="_blank">Call Of Duty Dev Explains How AI Slop Gets Into The Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-20 12:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K31KF91S18MWJPXPV1E90E8T/hero-image.jpg" alt="This Money Transfer Scam Fooled a Financial Advice Columnist" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/money-transfer-scam?utm_medium=RSS" target="_blank">This Money Transfer Scam Fooled a Financial Advice Columnist</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-20 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/03/AIChatbotImage.jpg" alt="The Era of ‘AI Psychosis’ is Here. Are You a Possible Victim?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +294,6 @@
                 <span class="title"><a href="https://kotaku.com/denshattack-train-game-tony-hawk-anime-onl-gamescom-2025-trailer-2000618578" target="_blank">The Coolest Thing From Gamescom ONL Was This Wild Train Game</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-19 21:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/MTG.jpg" alt="MTG Has Heard About the Israeli Cyber Official Arrested for an Alleged Child Sex Crime, and She Isn’t Happy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/mtg-has-heard-about-the-israeli-cyber-official-arrested-for-alleged-child-sex-crimes-and-she-isnt-happy-2000645213" target="_blank">MTG Has Heard About the Israeli Cyber Official Arrested for an Alleged Child Sex Crime, and She Isn’t Happy</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-19 21:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HW96DTWTS3NVFYV43RH258NM/hero-image.png" alt="&#x27;Clanker,&#x27; &#x27;Dwerking,&#x27; and Other Gen Z and Gen Alpha Slang You Might Need Help Decoding" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/guide-to-gen-z-and-gen-alpha-slang?utm_medium=RSS" target="_blank">&#x27;Clanker,&#x27; &#x27;Dwerking,&#x27; and Other Gen Z and Gen Alpha Slang You Might Need Help Decoding</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-19 21:30</span>
             </div>
         </div>
 </div>
@@ -344,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 13:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
