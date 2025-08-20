@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-20 02:29:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-20 03:18:15 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, August 20, 2025 - 02:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, August 20, 2025 - 03:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -78,6 +72,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-trump-zelenskyy_6995553.jpg?20250819205217" alt="Trump sets red line on Ukraine peace deal support - and makes admission about Putin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-i-wont-send-us-troops-to-ukraine-but-might-help-by-air-13414934" target="_blank">Trump sets red line on Ukraine peace deal support - and makes admission about Putin</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-19 21:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/25/08/1920x1080/skynews-trump-zelenskyy_6995553.jpg?20250819205217" alt="&#x27;We&#x27;re going to find out about Putin,&#x27; Trump says - as he teases air support for Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -93,15 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/19/nx-s1-5506209/too-much-to-pack-not-enough-hugs-a-kenyan-mans-last-48-hours-in-america-trump-self-deportation" target="_blank">Too much to pack, not enough hugs: A Kenyan man&#x27;s last 48 hours in America</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-19 21:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-5-epa-gmh-250819.jpg_1755610614037_hpMain_4x3t_384.jpg" alt="Trump: Smithsonian should portray nation&#x27;s &#x27;Brightness,&#x27; not &#x27;how bad Slavery was&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-smithsonian-portray-americas-brightness-bad-slavery/story?id=124788598" target="_blank">Trump: Smithsonian should portray nation&#x27;s &#x27;Brightness,&#x27; not &#x27;how bad Slavery was&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-19 20:54</span>
             </div>
         </div>
 </div>
@@ -169,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F1%2Fd908a186-5651-4a5a-9f76-15200bc6801f.jpg" alt="n8n" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lexycodestudio/n8n-5aoc" target="_blank">n8n</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-20 02:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4yc1117fmacl76bn6ias.png" alt="SP3232EEN: Reliable RS-232 Transceiver for Embedded Communication | Censtry" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -189,6 +192,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-SEV-SNP-Host-Ubuntu-25.04" target="_blank">Ahead Of Ubuntu 26.04 LTS, Ubuntu 25.04 Has AMD SEV-SNP Host Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-20 00:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://pistachioapp.com/blog/copilot-broke-your-audit-log" target="_blank">Copilot broke audit logs, but Microsoft won&#x27;t tell customers</a></span>
                 <span class="feed">Hacker News</span>
@@ -202,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/aws-builders/cli-for-the-clueless-learning-aws-cli-through-interactive-gaming-2b5l" target="_blank">CLI for the Clueless, Learning AWS CLI Through Interactive Gaming</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-19 22:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://muffinman.io/blog/invaders/" target="_blank">How to Draw a Space Invader</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-19 22:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Tinygrad-0.11-Released" target="_blank">Tinygrad 0.11 Released With AMD MI350 Support, NVIDIA Blackwell</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-19 21:43</span>
             </div>
         </div>
 </div>
@@ -341,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 02:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 03:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
