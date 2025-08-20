@@ -1,38 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-08-20 17:01:54 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-20 18:02:03 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Generated 13 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, August 20, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, August 20, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +54,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/jd-vance-1-ap-gmh-250820_1755709548040_hpMain_4x3t_384.jpg" alt="Vance, Hegseth, Miller drowned out by protester jeers at Union Station photo op" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/protesters-heckle-vance-hegseth-miller-photo-op-dc/story?id=124815308" target="_blank">Vance, Hegseth, Miller drowned out by protester jeers at Union Station photo op</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-20 17:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/20/most-americans-support-international-recognition-of-palestine-poll?traffic_source=rss" target="_blank">Most Americans support international recognition of Palestine: Poll</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-20 17:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/20/nx-s1-5508276/trump-calls-for-resignation-of-fed-governor-in-latest-line-of-attack" target="_blank">Trump calls for resignation of Fed governor in latest line of attack</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-20 16:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,38 +108,29 @@
                 <span class="time">2025-08-20 14:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/20/at-least-21-killed-in-pakistan-torrential-rain-flooding?traffic_source=rss" target="_blank">At least 21 killed in Pakistan torrential rain, flooding</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-20 14:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/erin-2-ht-gmh-250820_1755693592256_hpMain_4x3t_384.jpg" alt="Hurricane Erin live updates: NC under state of emergency, Northeast beaches close" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/hurricane-erin-live-updates/?id=124802673" target="_blank">Hurricane Erin live updates: NC under state of emergency, Northeast beaches close</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-20 13:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/20/g-s1-77081/dubai-airport-layovers" target="_blank">Greetings from the Dubai airport, where a long layover can also be a destination</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-20 13:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2214461868-500x500.jpg" alt="Bernie Sanders backs Trump’s plan to buy stake in Intel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/08/bernie-sanders-backs-trumps-plan-to-buy-stake-in-intel/" target="_blank">Bernie Sanders backs Trump’s plan to buy stake in Intel</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-20 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/63efdc89de5e9cf54ad77546/master/pass/Branch-Ergonomic-Chair-2023-Gear.jpg" alt="Nothing Beats Our Editors&#x27; Favorite Office Chair, and It’s on Sale Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/branch-deals-labor-day/" target="_blank">Nothing Beats Our Editors&#x27; Favorite Office Chair, and It’s on Sale Now</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-20 17:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,24 +167,6 @@
                 <span class="time">2025-08-20 16:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/hands-on/760852/google-pixel-buds-2a-hands-on-active-noise-cancellation-battery-gemini-earbuds" target="_blank">Google&amp;#8217;s Pixel Buds 2A add Gemini, noise cancellation, and a replaceable battery</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-20 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a5d35642f4aefcf49e3fa0/master/pass/GettyImages-1968541220.jpg" alt="Arkansas Hosts the Planet’s Only Public Diamond Mine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/arkansas-hosts-the-planets-only-public-diamond-mine/" target="_blank">Arkansas Hosts the Planet’s Only Public Diamond Mine</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-20 14:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +179,24 @@
                 <span class="title"><a href="https://about.gitlab.com/blog/blog-post-slug/" target="_blank">The GitLab documentation site gets a major design overhaul</a></span>
                 <span class="feed">GitLab</span>
                 <span class="time">2025-08-25 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-energy-efficient-it-solutions-sustainability" target="_blank">Red Hat: a leader in driving sustainability efforts within the IT industry</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2025-08-21 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dpelleri/stop-burning-money-on-ai-tests-build-a-smart-mock-system-in-15-minutes-4c21" target="_blank">Stop Burning Money on AI Tests: Build a Smart Mock System in 15 Minutes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-20 17:53</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +224,6 @@
                 <span class="title"><a href="https://github.blog/open-source/maintainers/who-will-maintain-the-future-rethinking-open-source-leadership-for-a-new-generation/" target="_blank">Who will maintain the future? Rethinking open source leadership for a new generation</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2025-08-20 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18567937&w=600" alt="Talk to Your BigQuery Data Using Claude Desktop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/talk-to-your-bigquery-data-using-claude-desktop" target="_blank">Talk to Your BigQuery Data Using Claude Desktop</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-20 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://visualrambling.space/moving-objects-in-3d/" target="_blank">Show HN: I was curious about spherical helix, ended up making this visualization</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-20 14:02</span>
             </div>
         </div>
 </div>
@@ -248,6 +254,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/neolithic-burial.jpg" alt="Stone Age People Brutalized Their Prisoners of War, New Evidence Suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/stone-age-people-brutalized-their-prisoners-of-war-new-evidence-suggests-2000645408" target="_blank">Stone Age People Brutalized Their Prisoners of War, New Evidence Suggests</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-20 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K340W973NPGEMR7TJNP1NHCT/hero-image.png" alt="What&#x27;s New on Netflix in September 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/whats-new-on-netflix-in-september-2025?utm_medium=RSS" target="_blank">What&#x27;s New on Netflix in September 2025</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-20 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/PoeDameron-2.jpg" alt="Oscar Isaac Is Ready to Be a ‘Star Wars’ Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,29 +308,20 @@
                 <span class="time">2025-08-20 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/kirby.jpg?fit=1080%2C845&amp;quality=60&amp;ssl=1" alt="Next Nintendo Switch 2 exclusive brings Kirby back once again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/20/next-nintendo-switch-2-exclusive-brings-kirby-back-once-again.html" target="_blank">Next Nintendo Switch 2 exclusive brings Kirby back once again</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-20 14:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Alien-Earth-Episode-3-recap.jpg" alt="‘Alien: Earth’ Finished Its First Major Arc With Action and Intrigue" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/alien-earth-episode-3-recap-xenomorphy-wendy-fight-2000644478" target="_blank">‘Alien: Earth’ Finished Its First Major Arc With Action and Intrigue</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-20 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/08/20/penit-ntiary" target="_blank">Peniténtiary</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-08-20 17:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1755560891-20250820.png" alt="Saturday Morning Breakfast Cereal - Hear" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -339,8 +354,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 41 | 📸 With Images: 282 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
