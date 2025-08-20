@@ -1,44 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-20 18:02:03 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2025-08-20 19:01:56 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 13 new posts out of 35 feeds processed -->
+<!-- Generated 10 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, August 20, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, August 20, 2025 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/20/bulgarian-devotees-welcome-divine-new-year-in-mountaintop-ritual?traffic_source=rss" target="_blank">Bulgarian devotees welcome ‘divine new year’ in mountaintop ritual</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-20 18:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/jd-vance-1-ap-gmh-250820_1755709548040_hpMain_4x3t_384.jpg" alt="Vance, Hegseth, Miller drowned out by protester jeers at Union Station photo op" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -99,26 +96,35 @@
                 <span class="time">2025-08-20 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2d8/live/b8d33d80-769d-11f0-843d-5f1a592e74b1.jpg" alt="Ex-priest found guilty of 17 indecent assaults" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c20662dxl88o?at_medium=RSS&at_campaign=rss" target="_blank">Ex-priest found guilty of 17 indecent assaults</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-20 14:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/762788/windows-11-test-brings-ai-file-search-to-the-copilot-app" target="_blank">Windows 11 test brings AI file search to the Copilot app</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-20 18:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2214461868-500x500.jpg" alt="Bernie Sanders backs Trump’s plan to buy stake in Intel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2025/08/bernie-sanders-backs-trumps-plan-to-buy-stake-in-intel/" target="_blank">Bernie Sanders backs Trump’s plan to buy stake in Intel</a></span>
                 <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-20 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68a4d513fcff14d710cba18c/master/pass/AI-Lab-Sleep-Compute%20(0-00-00-21).jpg" alt="Do Large Language Models Dream of AI Agents?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/sleeptime-compute-chatbots-memory/" target="_blank">Do Large Language Models Dream of AI Agents?</a></span>
+                <span class="feed">WIRED</span>
                 <span class="time">2025-08-20 18:00</span>
             </div>
         </div>
@@ -149,24 +155,6 @@
                 <span class="time">2025-08-20 16:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a51e91c49b4b40cab05f73/master/pass/Fitbit%20Source%20Fitbit.png" alt="The Fitbit App Is Turning Into an AI-Powered Personal Health Coach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/fitbit-app-ai-personal-health-coach/" target="_blank">The Fitbit App Is Turning Into an AI-Powered Personal Health Coach</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-20 16:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/20/google-doubles-down-on-ai-phones-with-its-pixel-10-series/" target="_blank">Google doubles down on ‘AI phones’ with its Pixel 10 series</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-20 16:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -194,6 +182,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/codewithved/demystifying-consensus-algorithms-for-system-design-interviews-55n2" target="_blank">Demystifying Consensus Algorithms for System Design Interviews</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-20 18:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18567966&w=600" alt="Operationalizing the OWASP AI Testing Guide: Building Secure AI Foundations Through NHI Governance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/secure-ai-owasp-testing-nhi-governance" target="_blank">Operationalizing the OWASP AI Testing Guide: Building Secure AI Foundations Through NHI Governance</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-20 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/dpelleri/stop-burning-money-on-ai-tests-build-a-smart-mock-system-in-15-minutes-4c21" target="_blank">Stop Burning Money on AI Tests: Build a Smart Mock System in 15 Minutes</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-20 17:53</span>
@@ -202,28 +208,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/murcoder/build-an-ar-react-app-17i5" target="_blank">Build an AR React App</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-20 16:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18567960&w=600" alt="Prompt Engineering Wasn&#x27;t Enough; Context Engineering Is What Came Next" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/prompt-engineering-context-engineering" target="_blank">Prompt Engineering Wasn&#x27;t Enough; Context Engineering Is What Came Next</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-20 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/open-source/maintainers/who-will-maintain-the-future-rethinking-open-source-leadership-for-a-new-generation/" target="_blank">Who will maintain the future? Rethinking open source leadership for a new generation</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-08-20 16:00</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/systemd-259-Requirements" target="_blank">systemd 259 To Raise Linux System Requirements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-20 17:00</span>
             </div>
         </div>
 </div>
@@ -254,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K34A7AHSCS087R1Q4FJ42H9T/hero-image.png" alt="You Can Now Ask Google Photos to Edit Your Images" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-photos-is-getting-voice-based-ai-editing-made-by-google-2025?utm_medium=RSS" target="_blank">You Can Now Ask Google Photos to Edit Your Images</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-20 18:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/neolithic-burial.jpg" alt="Stone Age People Brutalized Their Prisoners of War, New Evidence Suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -297,15 +294,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/20/american-academy-of-pediatrics-recommends-covid-shots-for-children-ages-6-months-to-2-years.html" target="_blank">American Academy of Pediatrics recommends COVID shots for children ages 6 months to 2 years</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-20 15:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K33WMEHDM8ZSFK5X4YAWA2MN/hero-image.png" alt="There&#x27;s an Easy Way to Get $600 Off a Peloton Tread+ Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/get-600-off-peloton-tread-plus-right-now?utm_medium=RSS" target="_blank">There&#x27;s an Easy Way to Get $600 Off a Peloton Tread+ Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-20 15:00</span>
             </div>
         </div>
 </div>
@@ -354,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 140 | 📡 Total Sources: 41 | 📸 With Images: 282 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
