@@ -1,29 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-08-20 15:02:00 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-20 16:02:03 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 20 feeds processed -->
+<!-- Generated 11 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, August 20, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, August 20, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -85,12 +99,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/International/German-Typhoon-DB-250820_1755675523148_hpMain_4x3t_384.jpg" alt="NATO jets deployed to &#x27;monitor&#x27; Russian drone attack in Ukraine, Romania says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/nato-aircraft-scrambled-amid-overnight-russian-drone-strikes/story?id=124800832" target="_blank">NATO jets deployed to &#x27;monitor&#x27; Russian drone attack in Ukraine, Romania says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-20 12:24</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2025/aug/20/uganda-trump-deal-immigration" target="_blank">Uganda denies reports that it has struck deal with Trump to take in US deportees</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-08-20 13:01</span>
             </div>
         </div>
 </div>
@@ -98,6 +112,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/20/google-doubles-down-on-ai-phones-with-its-pixel-10-series/" target="_blank">Google doubles down on ‘AI phones’ with its Pixel 10 series</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-20 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/hands-on/760852/google-pixel-buds-2a-hands-on-active-noise-cancellation-battery-gemini-earbuds" target="_blank">Google&amp;#8217;s Pixel Buds 2A add Gemini, noise cancellation, and a replaceable battery</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-20 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68a5d35642f4aefcf49e3fa0/master/pass/GettyImages-1968541220.jpg" alt="Arkansas Hosts the Planet’s Only Public Diamond Mine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -134,29 +166,38 @@
                 <span class="time">2025-08-20 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/20/sre-ai-launches-to-automate-complex-enterprise-workflows/" target="_blank">Y Combinator alum SRE.ai raises $7.2M for DevOps AI agents</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-20 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/762183/hertz-amazon-autos-used-rental-vehicles" target="_blank">Amazon now sells used Hertz rental cars</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-20 12:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.cloudinary.com/about-gitlab-com/image/upload/v1755617168/gz45eaygeb0nizf1kwyu.png" alt="The GitLab documentation site gets a major design overhaul" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gitlab"></span>
+                <span class="title"><a href="https://about.gitlab.com/blog/blog-post-slug/" target="_blank">The GitLab documentation site gets a major design overhaul</a></span>
+                <span class="feed">GitLab</span>
+                <span class="time">2025-08-25 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18567937&w=600" alt="Talk to Your BigQuery Data Using Claude Desktop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/talk-to-your-bigquery-data-using-claude-desktop" target="_blank">Talk to Your BigQuery Data Using Claude Desktop</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-20 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://visualrambling.space/moving-objects-in-3d/" target="_blank">Show HN: I was curious about spherical helix, ended up making this visualization</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-20 14:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -182,33 +223,6 @@
                 <span class="title"><a href="https://dzone.com/articles/amadeus-cloud-migration-ampere-altra" target="_blank">Amadeus Cloud Migration on Ampere Altra Instances</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-08-20 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/csharp-mcp-sdk-update/en/headerimage/twitter_card+%2857%29-1755366189472.jpg" alt="MCP C# SDK Aligns with New Protocol Specification, Bringing Security and Tooling Updates" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/csharp-mcp-sdk-update/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">MCP C# SDK Aligns with New Protocol Specification, Bringing Security and Tooling Updates</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-20 11:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/08/libreoffice-hero.jpg?resize=406%2C232&amp;ssl=1" alt="LibreOffice 25.8 Released with PDF 2.0 Export, Faster Performance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/libreoffice-25-8-released-pdf-2-performance-boost" target="_blank">LibreOffice 25.8 Released with PDF 2.0 Export, Faster Performance</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-20 11:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aledb/introducing-wasapia-ai-call-agents-that-answer-book-support-customers-247-3fkh" target="_blank">Introducing Wasapia: AI Call Agents That Answer, Book &amp; Support Customers 24/7</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-20 10:55</span>
             </div>
         </div>
 </div>
@@ -239,6 +253,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/09/vaccine.jpg?fit=600%2C599&amp;quality=60&amp;ssl=1" alt="American Academy of Pediatrics recommends COVID shots for children ages 6 months to 2 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/20/american-academy-of-pediatrics-recommends-covid-shots-for-children-ages-6-months-to-2-years.html" target="_blank">American Academy of Pediatrics recommends COVID shots for children ages 6 months to 2 years</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-20 15:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K33WMEHDM8ZSFK5X4YAWA2MN/hero-image.png" alt="There&#x27;s an Easy Way to Get $600 Off a Peloton Tread+ Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/get-600-off-peloton-tread-plus-right-now?utm_medium=RSS" target="_blank">There&#x27;s an Easy Way to Get $600 Off a Peloton Tread+ Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-20 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/kirby.jpg?fit=1080%2C845&amp;quality=60&amp;ssl=1" alt="Next Nintendo Switch 2 exclusive brings Kirby back once again" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,29 +307,20 @@
                 <span class="time">2025-08-20 13:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/Six-Fingered-Santa.jpg" alt="Call Of Duty Dev Explains How AI Slop Gets Into The Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/black-ops-7-generative-ai-call-duty-gamescom-2025-slop-2000618833" target="_blank">Call Of Duty Dev Explains How AI Slop Gets Into The Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-20 12:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K31KF91S18MWJPXPV1E90E8T/hero-image.jpg" alt="This Money Transfer Scam Fooled a Financial Advice Columnist" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/money-transfer-scam?utm_medium=RSS" target="_blank">This Money Transfer Scam Fooled a Financial Advice Columnist</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-20 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1755560891-20250820.png" alt="Saturday Morning Breakfast Cereal - Hear" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/hear" target="_blank">Saturday Morning Breakfast Cereal - Hear</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-08-20 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -316,31 +339,13 @@
                 <span class="time">2025-08-20 00:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/lie-to-me/" target="_blank">Lie to Me</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2025-08-19 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1755378772-20250819.png" alt="Saturday Morning Breakfast Cereal - You Sir" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/you-sir" target="_blank">Saturday Morning Breakfast Cereal - You Sir</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-08-19 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
