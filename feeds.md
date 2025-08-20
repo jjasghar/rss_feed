@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-20 22:01:29 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-20 23:01:37 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, August 20, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, August 20, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -84,6 +81,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-david-lammy-foreign-secretary_6996482.jpg?20250820210323" alt="UK condemns Israel&#x27;s approval of plans for new West Bank settlement to &#x27;erase&#x27; idea of Palestinian state" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/uk-condemns-israels-approval-of-plans-for-new-west-bank-settlement-to-erase-idea-of-palestinian-state-13415376" target="_blank">UK condemns Israel&#x27;s approval of plans for new West Bank settlement to &#x27;erase&#x27; idea of Palestinian state</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-20 18:54</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -92,20 +98,20 @@
                 <span class="time">2025-08-20 18:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755713498270_now_daily_b_brk_gaza_assault_250820_1920x1080-ks0mbo.jpg" alt="Israel enters first stages of Gaza City assault" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/israel-enters-first-stages-of-gaza-city-assault-245367877939" target="_blank">Israel enters first stages of Gaza City assault</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-20 18:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/763043/sony-playstation-5-ps5-tariff-price-increase-deal-sale" target="_blank">Today is your last chance to grab a PS5 before Sony’s price hikes go into effect</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-20 22:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +154,6 @@
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2025/08/bernie-sanders-backs-trumps-plan-to-buy-stake-in-intel/" target="_blank">Bernie Sanders backs Trump’s plan to buy stake in Intel</a></span>
                 <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-20 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a4d513fcff14d710cba18c/master/pass/AI-Lab-Sleep-Compute%20(0-00-00-21).jpg" alt="Do Large Language Models Dream of AI Agents?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/sleeptime-compute-chatbots-memory/" target="_blank">Do Large Language Models Dream of AI Agents?</a></span>
-                <span class="feed">WIRED</span>
                 <span class="time">2025-08-20 18:00</span>
             </div>
         </div>
@@ -239,6 +236,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Frankenstein-Guillermo-del-Toro.jpg" alt="Guillermo del Toro Explains Why His Frankenstein’s Monster Looks So Unique" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/guillermo-del-toro-explains-why-his-frankensteins-monster-looks-so-unique-2000645783" target="_blank">Guillermo del Toro Explains Why His Frankenstein’s Monster Looks So Unique</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-20 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K34GBJRPCD3ARDDCBMHDEMC0/hero-image.jpg" alt="All the Biggest Announcements From This Year&#x27;s &#x27;Made by Google&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/everything-announed-at-made-by-google-2025?utm_medium=RSS" target="_blank">All the Biggest Announcements From This Year&#x27;s &#x27;Made by Google&#x27;</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-20 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/hallo2.jpg" alt="Halloween: The Game Announced, Will Feature Multiplayer And Solo Story Mode" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -272,24 +287,6 @@
                 <span class="title"><a href="https://kotaku.com/elden-ring-switch-2-framerate-footage-video-gamescom-2000618923" target="_blank">Early Switch 2 Elden Ring Impressions Sound Not Great As Bandai Namco Locks Down Footage</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-20 20:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/07/shutterstock_1413872648-scaled.jpg?fit=2560%2C1707&amp;quality=60&amp;ssl=1" alt="Target CEO resigns after boycotts and &quot;plummeting&quot; sales" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/20/target-ceo-resigns-after-boycotts-and-plummeting-sales.html" target="_blank">Target CEO resigns after boycotts and &quot;plummeting&quot; sales</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-20 19:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K3467946D9BS64H2HFWT9C6Y/hero-image.jpg" alt="The Newest Garmin Forerunners Now Have a Smart Wake Alarm, a Calculator, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/these-garmin-forerunners-now-have-a-smart-wake-alarm?utm_medium=RSS" target="_blank">The Newest Garmin Forerunners Now Have a Smart Wake Alarm, a Calculator, and More</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-20 18:30</span>
             </div>
         </div>
 </div>
@@ -347,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
