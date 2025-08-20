@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-20 10:01:47 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-20 11:01:46 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, August 20, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, August 20, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/20/irish-rapper-mo-chara-arrives-at-london-court-on-terrorism-charge?traffic_source=rss" target="_blank">Irish rapper ‘Mo Chara’ arrives at London court on ‘terrorism’ charge</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-20 10:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a321/live/e9a9e950-7db3-11f0-88de-21c2f8cb127a.jpg" alt="Air fares and food prices push up inflation to 3.8% in July" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c741wkngndqo?at_medium=RSS&at_campaign=rss" target="_blank">Air fares and food prices push up inflation to 3.8% in July</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-20 10:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/08/20/nx-s1-5506334/brain-computer-implant-speak-inner-speech-mind" target="_blank">These brain implants speak your mind — even when you don&#x27;t want to</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-20 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,38 +102,20 @@
                 <span class="time">2025-08-20 07:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/20/nx-s1-5507156/cobalt-free-batteries-reign-in-chinese-evs-why-not-the-us" target="_blank">Cobalt-free batteries reign in Chinese EVs. Why not the US?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-20 07:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/20/nx-s1-5507971/walmart-recall-frozen-shrimp-radioactive" target="_blank">Walmart recalls frozen shrimp over potential radioactive contamination</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-20 05:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/20/how-will-trumps-semiconductor-tariffs-affect-the-global-chip-industry?traffic_source=rss" target="_blank">How will Trump’s semiconductor tariffs affect the global chip industry?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-20 05:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/762138/made-by-google-how-to-watch-pixel-10-watch-4-buds-2a" target="_blank">Made by Google: How to watch the Pixel 10 launch</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-20 10:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +161,38 @@
                 <span class="time">2025-08-19 22:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/761809/nuclear-energy-google-ai-advanced-reactor-kairos-tva-electricity-utility" target="_blank">Google announced the next step in its nuclear energy plans</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-19 20:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aledb/introducing-wasapia-ai-call-agents-that-answer-book-support-customers-247-3fkh" target="_blank">Introducing Wasapia: AI Call Agents That Answer, Book &amp; Support Customers 24/7</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-20 10:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-EPYC-9005-Linux-6.17" target="_blank">AMD EPYC 9005 Squeezes Out More Performance On Linux 6.17</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-20 10:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/08/microsoft-openai-gpt5-azure/en/headerimage/generatedHeaderImage-1755528587671.jpg" alt="OpenAI&#x27;s GPT-5 Now Generally Available on Microsoft Azure AI Foundry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/microsoft-openai-gpt5-azure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI&#x27;s GPT-5 Now Generally Available on Microsoft Azure AI Foundry</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-20 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/presentations/distributed-systems-resiliency/en/mediumimage/sam-newman-medium-1754467487326.jpg" alt="Presentation: Timeouts, Retries and Idempotency In Distributed Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -186,33 +218,6 @@
                 <span class="title"><a href="https://dev.to/emily_assetloom/understanding-network-discovery-scan-top-features-to-look-for-230" target="_blank">Understanding Network Discovery Scan: Top Features to Look For</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-20 03:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F1%2Fd908a186-5651-4a5a-9f76-15200bc6801f.jpg" alt="n8n" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lexycodestudio/n8n-5aoc" target="_blank">n8n</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-20 02:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4yc1117fmacl76bn6ias.png" alt="SP3232EEN: Reliable RS-232 Transceiver for Embedded Communication | Censtry" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/censtry/sp3232een-reliable-rs-232-transceiver-for-embedded-communication-censtry-4mp7" target="_blank">SP3232EEN: Reliable RS-232 Transceiver for Embedded Communication | Censtry</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-20 02:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/osra-membership" target="_blank">Canonical is now a platinum member in the Open Source Robotics Alliance</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-08-20 01:48</span>
             </div>
         </div>
 </div>
@@ -243,6 +248,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/03/AIChatbotImage.jpg" alt="The Era of ‘AI Psychosis’ is Here. Are You a Possible Victim?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ai-psychosis-mental-health-2000645293" target="_blank">The Era of ‘AI Psychosis’ is Here. Are You a Possible Victim?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-20 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Severance-season-2-elevator.jpg" alt="The Creator of ‘Severance’ Just Explained a Key Logistical Question" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +300,6 @@
                 <span class="title"><a href="https://lifehacker.com/entertainment/guide-to-gen-z-and-gen-alpha-slang?utm_medium=RSS" target="_blank">&#x27;Clanker,&#x27; &#x27;Dwerking,&#x27; and Other Gen Z and Gen Alpha Slang You Might Need Help Decoding</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-19 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JTTRM7W1EEN4FCTTTC41ET9Z/hero-image.jpg" alt="Google Messages Will Now Let You Delete Messages for Everyone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-messages-will-now-let-you-delete-messages-for-everyone?utm_medium=RSS" target="_blank">Google Messages Will Now Let You Delete Messages for Everyone</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-19 21:00</span>
             </div>
         </div>
 </div>
@@ -343,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
