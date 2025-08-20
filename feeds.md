@@ -1,32 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-08-20 13:10:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-20 14:01:36 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 23 feeds processed -->
+<!-- Generated 10 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, August 20, 2025 - 13:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, August 20, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +53,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/erin-2-ht-gmh-250820_1755693592256_hpMain_4x3t_384.jpg" alt="Hurricane Erin live updates: NC under state of emergency, Northeast beaches close" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/hurricane-erin-live-updates/?id=124802673" target="_blank">Hurricane Erin live updates: NC under state of emergency, Northeast beaches close</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-20 13:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/20/g-s1-77081/dubai-airport-layovers" target="_blank">Greetings from the Dubai airport, where a long layover can also be a destination</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-20 13:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/8/20/aid-systems-in-gaza-reduces-people-to-scurrying-rats?traffic_source=rss" target="_blank">Aid systems in Gaza reduces people to “scurrying rats”</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-20 13:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/German-Typhoon-DB-250820_1755675523148_hpMain_4x3t_384.jpg" alt="NATO jets deployed to &#x27;monitor&#x27; Russian drone attack in Ukraine, Romania says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -61,39 +99,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b217/live/389e9e70-7db4-11f0-a34f-318be3fb0481.jpg" alt="Israel calls up 60,000 reservists ahead of planned Gaza City offensive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755689243910_tdy_news_7a_peter_russia_ukraine_250820_1920x1080-n3e7tz.jpg" alt="Trump Says Putin to Meet Zelenskyy, Kremlin Plays Down Prospect" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c7417pl3ddpo?at_medium=RSS&at_campaign=rss" target="_blank">Israel calls up 60,000 reservists ahead of planned Gaza City offensive</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-20 11:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/20/irish-rapper-mo-chara-arrives-at-london-court-on-terrorism-charge?traffic_source=rss" target="_blank">Irish rapper ‘Mo Chara’ arrives at London court on ‘terrorism’ charge</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-20 10:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a321/live/e9a9e950-7db3-11f0-88de-21c2f8cb127a.jpg" alt="Air fares and food prices push up inflation to 3.8% in July" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c741wkngndqo?at_medium=RSS&at_campaign=rss" target="_blank">Air fares and food prices push up inflation to 3.8% in July</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-20 10:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/08/20/nx-s1-5506334/brain-computer-implant-speak-inner-speech-mind" target="_blank">These brain implants speak your mind — even when you don&#x27;t want to</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-20 10:00</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/russia-strikes-ukraine-hours-after-trump-s-summit-with-zelenskyy-245338693745" target="_blank">Trump Says Putin to Meet Zelenskyy, Kremlin Plays Down Prospect</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-20 11:27</span>
             </div>
         </div>
 </div>
@@ -101,6 +112,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/762116/microsoft-asus-xbox-ally-handheld-release-date-compatibility" target="_blank">Microsoft and Asus’ new Xbox Ally handhelds launch on October 16th</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-20 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68a51abc68337ef57d0e093f/master/pass/I%20Spent%20Months%20Testing%20Cold-Plunge%20Pools.%20I%20Think%20I%E2%80%99m%20Addicted.png" alt="The Best Cold-Plunge Pools in 2025—I Spent Months Testing to Find the Best" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +166,38 @@
                 <span class="time">2025-08-20 10:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/762115/google-pixel-10-watch-4-buds-2a-price-leak" target="_blank">Prices leak for the rest of Google’s new Pixel products</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-20 09:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/08/20/documents-the-architect-s-programming-language/" target="_blank">Documents: The architect’s programming language</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-08-20 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ngrok/doglabbing-ngrok-many-services-one-standard-authn-path-4mjn" target="_blank">&#x27;Doglabbing&#x27; ngrok: Many services, one standard AuthN path</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-20 13:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18573492&w=600" alt="Amadeus Cloud Migration on Ampere Altra Instances" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/amadeus-cloud-migration-ampere-altra" target="_blank">Amadeus Cloud Migration on Ampere Altra Instances</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-20 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/08/csharp-mcp-sdk-update/en/headerimage/twitter_card+%2857%29-1755366189472.jpg" alt="MCP C# SDK Aligns with New Protocol Specification, Bringing Security and Tooling Updates" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -185,33 +223,6 @@
                 <span class="title"><a href="https://dev.to/aledb/introducing-wasapia-ai-call-agents-that-answer-book-support-customers-247-3fkh" target="_blank">Introducing Wasapia: AI Call Agents That Answer, Book &amp; Support Customers 24/7</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-20 10:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-EPYC-9005-Linux-6.17" target="_blank">AMD EPYC 9005 Squeezes Out More Performance On Linux 6.17</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-20 10:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/microsoft-openai-gpt5-azure/en/headerimage/generatedHeaderImage-1755528587671.jpg" alt="OpenAI&#x27;s GPT-5 Now Generally Available on Microsoft Azure AI Foundry" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/microsoft-openai-gpt5-azure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI&#x27;s GPT-5 Now Generally Available on Microsoft Azure AI Foundry</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-20 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://tidewave.ai/blog/tidewave-web-phoenix-rails" target="_blank">Tidewave Web: in-browser coding agent for Rails and Phoenix</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-20 09:43</span>
             </div>
         </div>
 </div>
@@ -242,6 +253,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Alien-Earth-Episode-3-recap.jpg" alt="‘Alien: Earth’ Finished Its First Major Arc With Action and Intrigue" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/alien-earth-episode-3-recap-xenomorphy-wendy-fight-2000644478" target="_blank">‘Alien: Earth’ Finished Its First Major Arc With Action and Intrigue</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-20 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/vampmasq.jpg" alt="Vampire: The Masquerade – Bloodlines 2 Brings Back Horrors Of Paid Day-One DLC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/vampire-the-masquerade-bloodlines-2-day-1-dlc-clans-2000618832" target="_blank">Vampire: The Masquerade – Bloodlines 2 Brings Back Horrors Of Paid Day-One DLC</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-20 13:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/Six-Fingered-Santa.jpg" alt="Call Of Duty Dev Explains How AI Slop Gets Into The Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +305,6 @@
                 <span class="title"><a href="https://gizmodo.com/the-creator-of-severance-just-explained-a-key-logistical-question-2000645311" target="_blank">The Creator of ‘Severance’ Just Explained a Key Logistical Question</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-19 23:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/kick.jpg" alt="Kick Streamer Known For Controversial ‘Humiliation’ Content Reportedly Dies During Live Broadcast" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/jeanpormanove-kick-streamer-dead-humiliation-abuse-naruto-2000618580" target="_blank">Kick Streamer Known For Controversial ‘Humiliation’ Content Reportedly Dies During Live Broadcast</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-19 22:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/traingame.jpg" alt="The Coolest Thing From Gamescom ONL Was This Wild Train Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/denshattack-train-game-tony-hawk-anime-onl-gamescom-2025-trailer-2000618578" target="_blank">The Coolest Thing From Gamescom ONL Was This Wild Train Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-19 21:48</span>
             </div>
         </div>
 </div>
@@ -342,8 +353,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
