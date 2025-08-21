@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-21 00:04:12 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-21 01:29:07 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, August 21, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, August 21, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/texas-redistricting-ap-jt-250820_1755730847345_hpMain_4x3t_384.jpg" alt="Texas House passes new GOP-friendly congressional maps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/texas-house-vote-controversial-redistricting-plan/story?id=124807364" target="_blank">Texas House passes new GOP-friendly congressional maps</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-21 00:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b52/live/f59a8eb0-7df2-11f0-99a6-6566970a8a8a.jpg" alt="Badenoch encourages Tory councils to challenge asylum hotels" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwy0j9n4qzwo?at_medium=RSS&at_campaign=rss" target="_blank">Badenoch encourages Tory councils to challenge asylum hotels</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-21 00:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755736903270_now_hallie_texas_maps_250820_1920x1080-lnif3b.jpg" alt="Texas House passes new congressional maps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/texas-house-passes-new-congressional-maps-245459013824" target="_blank">Texas House passes new congressional maps</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-21 00:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250820-abbott-trump-newsom-mn-1055-9d3358.jpg" alt="Texas House passes GOP redistricting maps to give party five more seats" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -66,33 +101,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/protesters-heckle-vance-hegseth-miller-photo-op-dc/story?id=124815308" target="_blank">Protesters heckle Vance, Hegseth at photo op to thank National Guard troops in DC</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-20 20:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/20/g-s1-83950/national-guard-dc-crash" target="_blank">One civilian injured in crash with D.C. National Guard military vehicle</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-20 20:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c7f/live/8ae02ea0-7df6-11f0-97b5-2745b2279d00.jpg" alt="Israeli military says first stages of assault on Gaza City have begun" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clyr7l0z9edo?at_medium=RSS&at_campaign=rss" target="_blank">Israeli military says first stages of assault on Gaza City have begun</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-20 19:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-david-lammy-foreign-secretary_6996482.jpg?20250820210323" alt="UK condemns Israel&#x27;s approval of plans for new West Bank settlement to &#x27;erase&#x27; idea of Palestinian state" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/uk-condemns-israels-approval-of-plans-for-new-west-bank-settlement-to-erase-idea-of-palestinian-state-13415376" target="_blank">UK condemns Israel&#x27;s approval of plans for new West Bank settlement to &#x27;erase&#x27; idea of Palestinian state</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-20 18:54</span>
             </div>
         </div>
 </div>
@@ -137,21 +145,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/68a5724e2813b477fc9a5eda/master/pass/The%20Best%20Early%20Labor%20Day%20Deals%20and%20Sales.png" alt="21 Best Early Labor Day Sales on WIRED-Tested Gear (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-labor-day-sales-deals-2025/" target="_blank">21 Best Early Labor Day Sales on WIRED-Tested Gear (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-20 21:07</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/08/20/india-bans-real-money-gaming-threatening-a-23-billion-industry/" target="_blank">India bans real-money gaming, threatening a $23 billion industry</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-08-20 19:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/762788/windows-11-test-brings-ai-file-search-to-the-copilot-app" target="_blank">Windows 11 test brings AI file search to the Copilot app</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-20 18:54</span>
             </div>
         </div>
 </div>
@@ -233,6 +241,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Andor-Disney-Plus-Lucasfilm.jpg" alt="Tony Gilroy Is Very Sad at How Relevant ‘Andor’ Has Become" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tony-gilroy-is-very-sad-at-how-relevant-andor-has-become-2000645693" target="_blank">Tony Gilroy Is Very Sad at How Relevant ‘Andor’ Has Become</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-21 00:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Jurassic-Park-Goggles-Spirit-Halloween.jpg" alt="Spirit Halloween Has Made the Most Affordable ‘Jurassic Park’ Goggles Replica We’ve Seen" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -277,20 +294,20 @@
                 <span class="time">2025-08-20 21:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/04/Trump-april-25-2025.jpg" alt="Trump Labor Department Supports American Workers With Image of AI-Generated Worker" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trump-labor-day-artificial-intelligence-slop-adobe-2000645917" target="_blank">Trump Labor Department Supports American Workers With Image of AI-Generated Worker</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-20 20:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5640.png" alt="Yet Another New Character" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5640" target="_blank">Yet Another New Character</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-08-21 00:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -327,22 +344,13 @@
                 <span class="time">2025-08-20 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5639.png" alt="Marvel Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5639" target="_blank">Marvel Movie</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-08-20 00:58</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
