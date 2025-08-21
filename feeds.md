@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-21 09:01:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-21 10:01:49 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, August 21, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, August 21, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/21/whats-causing-pakistans-deadly-floods?traffic_source=rss" target="_blank">What’s causing Pakistan’s deadly floods?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-21 09:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/21/uganda-reaches-agreement-with-us-to-take-in-some-of-its-failed-asylum-seekers" target="_blank">Uganda reaches agreement with US to take in some of its failed asylum seekers</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-08-21 09:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +100,20 @@
                 <span class="time">2025-08-21 05:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2025/aug/21/tanzania-lemi-limbu-woman-learning-disabilities-death-row" target="_blank">Pressure grows on Tanzania to free victim of domestic violence who has been on death row for 13 years</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-08-21 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7b3/live/20c016c0-7dce-11f0-88a2-b9725373e32e.jpg" alt="Dozens more UK Afghan data breaches uncovered" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp8950pyy1vo?at_medium=RSS&at_campaign=rss" target="_blank">Dozens more UK Afghan data breaches uncovered</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-21 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/763291/apple-masimo-blood-oxygen-patent-customs-lawsuit" target="_blank">Apple Watch’s restored blood oxygen tracking attracts another lawsuit</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-21 09:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,15 +159,6 @@
                 <span class="time">2025-08-20 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2206280180-500x500.jpg" alt="America’s fragile drug supply chain is extremely vulnerable to climate change" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/08/most-us-drug-facilities-are-in-areas-hit-by-natural-disasters-risking-shortages/" target="_blank">America’s fragile drug supply chain is extremely vulnerable to climate change</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-20 21:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +171,15 @@
                 <span class="title"><a href="https://about.gitlab.com/blog/blog-post-slug/" target="_blank">The GitLab documentation site gets a major design overhaul</a></span>
                 <span class="feed">GitLab</span>
                 <span class="time">2025-08-25 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shiva_shanker_k/i-used-ai-to-write-code-for-30-days-straight-heres-what-actually-happened-11c4" target="_blank">I Used AI to Write Code for 30 Days Straight. Here&#x27;s What Actually Happened</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-21 09:49</span>
             </div>
         </div>
 <div class="story">
@@ -212,15 +218,6 @@
                 <span class="time">2025-08-21 04:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sharique_siddiqui_8242dad/optimizing-html-for-performance-and-security-i3d" target="_blank">Optimizing HTML for Performance and Security</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-21 04:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/psyche-image-of-earth-and-moon.jpg" alt="Trippy Image From Deep Space Shows Earth and Moon From 180 Million Miles Away" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trippy-image-from-deep-space-shows-earth-and-moon-from-180-million-miles-away-2000645879" target="_blank">Trippy Image From Deep Space Shows Earth and Moon From 180 Million Miles Away</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-21 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Andor-Disney-Plus-Lucasfilm.jpg" alt="Tony Gilroy Is Very Sad at How Relevant ‘Andor’ Has Become" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -294,15 +300,6 @@
                 <span class="time">2025-08-20 21:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Milchick.jpg" alt="‘Severance’ Standout Tramell Tillman Joins ‘Spider-Man: Brand New Day’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/spider-man-brand-new-day-casting-tramell-tillman-marvel-2000646040" target="_blank">‘Severance’ Standout Tramell Tillman Joins ‘Spider-Man: Brand New Day’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-20 21:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -340,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
