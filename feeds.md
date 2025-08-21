@@ -1,29 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-21 20:01:51 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-21 21:01:45 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 21 feeds processed -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, August 21, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, August 21, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92f4/live/7dc7bd50-7ec3-11f0-83cc-c5da98c419b8.jpg" alt="Israel will begin talks to free all hostages, Netanyahu says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c754kknw2g2o?at_medium=RSS&at_campaign=rss" target="_blank">Israel will begin talks to free all hostages, Netanyahu says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-21 20:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/21/anger-in-uk-after-stone-cross-disassembled-to-create-star-of-david?traffic_source=rss" target="_blank">Anger in UK after stone cross disassembled to create Star of David</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-21 20:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/national-guard-02-gty-jef-250821_1755778060127_hpMain_4x3t_384.jpg" alt="Trump says he will patrol DC with police, military Thursday night, eyes more cities" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,29 +99,20 @@
                 <span class="time">2025-08-21 16:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250716-donald-trump-vl-231p-9e7c25.jpg" alt="New York appeals court throws out Trump&#x27;s $500 million fraud judgment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/ny-appeals-court-throws-trumps-500-million-fraud-judgment-rcna217340" target="_blank">New York appeals court throws out Trump&#x27;s $500 million fraud judgment</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-21 15:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/21/atp-tennis-players-protected-from-severe-abuse-posts-by-ai-tool?traffic_source=rss" target="_blank">Top men’s tennis names shielded from ‘severe’ abuse by ATP AI tool</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-21 15:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/763928/nfl-microsoft-copilot-surface-ai" target="_blank">Microsoft&amp;#8217;s new NFL deal could let you blame Copilot AI for terrible playcalls</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-21 20:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1155895603-500x500.jpg" alt="Americans’ junk-filled garages are hurting EV adoption, study says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -114,6 +129,15 @@
                 <span class="title"><a href="https://www.theverge.com/news/763778/google-canceled-tablet-no-smart-ring-or-flip-phone-glasses" target="_blank">Google reveals it isn&amp;#8217;t making tablets, smart rings, flip phones, or glasses (yet)</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-08-21 19:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68a76e0bd0e0dcb3f05e562c/master/pass/THPS%203+4%20-%202.png" alt="Take $15 Off ‘Tony Hawk’s Pro Skater 3+4’ Remasters Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/tony-hawks-pro-skater-remasters-deal/" target="_blank">Take $15 Off ‘Tony Hawk’s Pro Skater 3+4’ Remasters Right Now</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-21 19:13</span>
             </div>
         </div>
 <div class="story">
@@ -134,24 +158,6 @@
                 <span class="time">2025-08-21 18:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/21/microsoft-ai-chief-says-its-dangerous-to-study-ai-consciousness/" target="_blank">Microsoft AI chief says it’s ‘dangerous’ to study AI consciousness</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-21 17:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/763698/delayed-games-silksong-metroid-prime-4-2025" target="_blank">2025 is turning into a good year for long-awaited games</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-21 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,12 +173,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18570414&w=600" alt="Greenplum vs Apache Doris: Features, Performance, and Advantages Compared" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/greenplum-vs-apache-doris-mpp-analytics-comparison" target="_blank">Greenplum vs Apache Doris: Features, Performance, and Advantages Compared</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-21 20:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foc8h7h2zphpkhh3vdat1.png" alt="Ghost 6 IS Really Something Else!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/alifar/ghost-6-is-really-something-else-46jj" target="_blank">Ghost 6 IS Really Something Else!</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-21 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/company-news/explore-the-best-of-github-universe-9-spaces-built-to-spark-creativity-connection-and-joy/" target="_blank">Explore the best of GitHub Universe: 9 spaces built to spark creativity, connection, and joy</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-08-21 18:02</span>
             </div>
         </div>
 <div class="story">
@@ -191,24 +215,6 @@
                 <span class="title"><a href="https://dzone.com/articles/python-async-vs-sync-blocking" target="_blank">Python Async/Sync: Understanding and Solving Blocking (Part 1)</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-08-21 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/94ef4f49-0609-4aed-b9cf-826cd5e38e92_420x300.png" alt="The Pulse #143: Creative ways to fund open source projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-143" target="_blank">The Pulse #143: Creative ways to fund open source projects</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-08-21 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://jyn.dev/the-core-of-rust/" target="_blank">The Core of Rust</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-21 16:27</span>
             </div>
         </div>
 </div>
@@ -240,12 +246,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/crbn.jpg" alt="The New Cracker Barrel Logo Sucks And So Does The Mess Around It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/new-cracker-barrel-logo-woke-trump-cooperate-greed-2000619204" target="_blank">The New Cracker Barrel Logo Sucks And So Does The Mess Around It</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-21 20:42</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/falcon-9-launch-x-37b.jpeg" alt="Watch Live: SpaceX Launches Space Force’s X-37B Spaceplane on New Military Test Mission" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/watch-live-spacex-launches-space-forces-x-37b-spaceplane-on-new-military-test-mission-2000646337" target="_blank">Watch Live: SpaceX Launches Space Force’s X-37B Spaceplane on New Military Test Mission</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-21 19:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K36N5DXB1RV9V8C9BSC7MMQF/hero-image.png" alt="Make YouTube Less Annoying by Changing These Eight Settings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/make-youtube-less-annoying-by-changing-these-eight-settings?utm_medium=RSS" target="_blank">Make YouTube Less Annoying by Changing These Eight Settings</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-21 19:30</span>
             </div>
         </div>
 <div class="story">
@@ -273,24 +297,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/21/worlds-oldest-human-turns-116.html" target="_blank">World&#x27;s oldest human turns 116</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-21 17:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/07/7e5ac75492678221c0f05f90c1a22a67.jpg" alt="Battlefield 6 Is Toning Down The Wild Jumps And Slides Seen In the Open Beta" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/battlefield-6-ttk-shotgun-jumping-sliding-nerf-changes-open-beta-ea-patch-notes-2000619184" target="_blank">Battlefield 6 Is Toning Down The Wild Jumps And Slides Seen In the Open Beta</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-21 17:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K2F879J488AW9FAWWY3NFCZS/hero-image.jpg" alt="You Can Now Tell Google Which Websites You Prefer in Search Results" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/you-can-now-tell-google-which-websites-you-prefer-search-results?utm_medium=RSS" target="_blank">You Can Now Tell Google Which Websites You Prefer in Search Results</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-21 17:00</span>
             </div>
         </div>
 </div>
@@ -321,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
