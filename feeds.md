@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-21 10:01:49 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-08-21 11:01:40 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, August 21, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, August 21, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93fb/live/e9f99a70-7e78-11f0-ab3e-bd52082cd0ae.jpg" alt="Councillor&#x27;s wife jailed for race hate social media post released from prison" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5yl7p4l11po?at_medium=RSS&at_campaign=rss" target="_blank">Councillor&#x27;s wife jailed for race hate social media post released from prison</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-21 10:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/durrani-doctor-gaza-abc-mo-20250819_1755611742635_hpMain_4x3t_384.jpeg" alt="&#x27;Horror&#x27; in Gaza is &#x27;incomprehensible,&#x27; says US doctor who treated patients there" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/horror-gaza-incomprehensible-us-doctor-treated-patients/story?id=124655436" target="_blank">&#x27;Horror&#x27; in Gaza is &#x27;incomprehensible,&#x27; says US doctor who treated patients there</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-21 10:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,30 +92,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250821-zelensky-rs-1dd59f.jpg" alt="Zelenskyy urges quick progress on security guarantees, says possible summit site &#x27;challenging&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250821-zelensky-rs-1dd59f.jpg" alt="Zelenskyy says possible Putin summit site &#x27;challenging&#x27; as Russia launches massive assault" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/ukraine/zelenskyy-urges-quick-progress-trump-security-guarantees-putin-summit-rcna226228" target="_blank">Zelenskyy urges quick progress on security guarantees, says possible summit site &#x27;challenging&#x27;</a></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/ukraine/zelenskyy-urges-quick-progress-trump-security-guarantees-putin-summit-rcna226228" target="_blank">Zelenskyy says possible Putin summit site &#x27;challenging&#x27; as Russia launches massive assault</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-08-21 07:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/21/nx-s1-5509433/appeals-court-allows-protected-status-migrants" target="_blank">Appeals court allows end of protected status for migrants from 3 countries</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-21 05:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/887a/live/82f15ba0-7e29-11f0-ab3e-bd52082cd0ae.jpg" alt="Palestinians flee Gaza City districts as Israel says first stages of assault have begun" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clyr7l0z9edo?at_medium=RSS&at_campaign=rss" target="_blank">Palestinians flee Gaza City districts as Israel says first stages of assault have begun</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-21 05:03</span>
             </div>
         </div>
 </div>
@@ -176,6 +176,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Panthor-More-Arm-Mali-Linux-618" target="_blank">Panthor Open-Source Driver To Support Many More Arm Mali GPUs In Linux 6.18</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-21 10:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/shiva_shanker_k/i-used-ai-to-write-code-for-30-days-straight-heres-what-actually-happened-11c4" target="_blank">I Used AI to Write Code for 30 Days Straight. Here&#x27;s What Actually Happened</a></span>
                 <span class="feed">DEV Community</span>
@@ -207,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/gade_srikar_4b75b429e97bb/scalable-web-application-infrastructure-on-aws-1ba5" target="_blank">scalable web application infrastructure on aws</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-21 05:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-34/" target="_blank">FOSS Weekly #25.34: Mint 22.2 Features, FreeVPN Fiasco, Windows Update Killing SSDs, AI in LibreOffice and More</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-08-21 04:32</span>
             </div>
         </div>
 </div>
@@ -337,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
