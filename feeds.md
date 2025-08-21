@@ -1,30 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-21 16:01:57 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-21 18:01:58 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 20 feeds processed -->
+<!-- Generated 13 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, August 21, 2025 - 16:02 UTC</div>
+    <div class="newspaper-date">Thursday, August 21, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dc4/live/c52bce00-7e93-11f0-bb23-61f665394239.jpg" alt="UK&#x27;s third-largest steelworks collapses into government control" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy0818y4jdlo?at_medium=RSS&at_campaign=rss" target="_blank">UK&#x27;s third-largest steelworks collapses into government control</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-21 17:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755792952482_now_daily_a_haake_trump_civil_toss_250821_1920x1080-782w6b.jpg" alt="New York appeals court throws out civil fraud penalty against Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/new-york-appeals-court-throws-out-civil-fraud-penalty-against-trump-245495877783" target="_blank">New York appeals court throws out civil fraud penalty against Trump</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-21 16:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250716-donald-trump-vl-231p-9e7c25.jpg" alt="New York appeals court throws out Trump&#x27;s $500 million fraud judgment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,29 +102,38 @@
                 <span class="time">2025-08-21 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Kyiv-memorial-DB-250820_1755703727218_hpMain_4x3t_384.jpg" alt="Putin risks &#x27;humiliation&#x27; by agreeing to Zelenskyy meeting, analysts say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/putin-zelenskyy-meeting-matters-happen/story?id=124813228" target="_blank">Putin risks &#x27;humiliation&#x27; by agreeing to Zelenskyy meeting, analysts say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-21 12:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/21/g-s1-84146/russia-ukraine-american-factory" target="_blank">A Russian airstrike hits a U.S. factory in western Ukraine</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-21 12:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/21/microsoft-ai-chief-says-its-dangerous-to-study-ai-consciousness/" target="_blank">Microsoft AI chief says it’s ‘dangerous’ to study AI consciousness</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-21 17:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/763698/delayed-games-silksong-metroid-prime-4-2025" target="_blank">2025 is turning into a good year for long-awaited games</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-21 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68a606a88a9eca977793cabc/master/pass/trump-lutnik-chips-biz-2224628756.jpg" alt="Trump Is Betting Big on Intel. Will the Chips Fall His Way?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/golden-shares-tsmc-micron-trump-equity-stake/" target="_blank">Trump Is Betting Big on Intel. Will the Chips Fall His Way?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-21 17:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -126,33 +161,6 @@
                 <span class="time">2025-08-21 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/761501/insta360-ultra-go-action-camera-4k-60fps-microsd" target="_blank">Insta360 redesigned its compact action cam with a bigger battery and swappable storage</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-21 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/763080/google-ai-gemini-water-energy-emissions-study" target="_blank">Google says a typical AI text prompt only uses 5 drops of water — experts say that&amp;#8217;s misleading</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-21 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/starfactory-500x500.jpg" alt="SpaceX has built the machine to build the machine. But what about the machine?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/08/spacex-has-built-the-machine-to-build-the-machine-but-what-about-the-machine/" target="_blank">SpaceX has built the machine to build the machine. But what about the machine?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-21 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,48 +176,48 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lovestaco/how-to-add-google-fonts-in-a-react-project-with-tailwind-css-45nh" target="_blank">How to Add Google Fonts in a React Project with Tailwind CSS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-21 17:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18570365&w=600" alt="Python Async/Sync: Understanding and Solving Blocking (Part 1)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/python-async-vs-sync-blocking" target="_blank">Python Async/Sync: Understanding and Solving Blocking (Part 1)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-21 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/94ef4f49-0609-4aed-b9cf-826cd5e38e92_420x300.png" alt="The Pulse #143: Creative ways to fund open source projects" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-143" target="_blank">The Pulse #143: Creative ways to fund open source projects</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-08-21 16:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/07/thunderbird-new-logo.jpg?resize=406%2C232&amp;ssl=1" alt="New Details Emerge on Thunderbird Pro, Thundermail and AI Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/new-details-on-thunderbird-pro-thundermail-ai-features" target="_blank">New Details Emerge on Thunderbird Pro, Thundermail and AI Features</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-21 15:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18570338&w=600" alt="Securing Cloud Applications: Best Practices for Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/cloud-security-best-practices-for-developers" target="_blank">Securing Cloud Applications: Best Practices for Developers</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-08-21 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/amd-krackan-point-windows-linux" target="_blank">AMD Ryzen AI 5 340 Windows 11 vs. Ubuntu Linux Performance For Budget &quot;Krackan Point&quot; Laptops</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-21 14:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/08/21/research-roadmap-update-august-2025/" target="_blank">Research roadmap update, August 2025</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-08-21 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18570318&w=600" alt="Yet Another Servers in Go: Understanding epoll, kqueue, and netpoll" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/go-servers-understanding-epoll-kqueue-netpoll" target="_blank">Yet Another Servers in Go: Understanding epoll, kqueue, and netpoll</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-21 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Apple-Lid-Power-Buttons-Driver" target="_blank">Linux Driver Under Review For Apple Laptop Lid Events &amp; Power Button</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-21 13:24</span>
             </div>
         </div>
 </div>
@@ -241,6 +249,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/760f1b60-7dcb-11f0-a34f-318be3fb0481.jpg.webp?fit=561%2C315&amp;quality=55&amp;ssl=1" alt="World&#x27;s oldest human turns 116" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/21/worlds-oldest-human-turns-116.html" target="_blank">World&#x27;s oldest human turns 116</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-21 17:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/07/7e5ac75492678221c0f05f90c1a22a67.jpg" alt="Battlefield 6 Is Toning Down The Wild Jumps And Slides Seen In the Open Beta" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/battlefield-6-ttk-shotgun-jumping-sliding-nerf-changes-open-beta-ea-patch-notes-2000619184" target="_blank">Battlefield 6 Is Toning Down The Wild Jumps And Slides Seen In the Open Beta</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-21 17:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K2F879J488AW9FAWWY3NFCZS/hero-image.jpg" alt="You Can Now Tell Google Which Websites You Prefer in Search Results" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/you-can-now-tell-google-which-websites-you-prefer-search-results?utm_medium=RSS" target="_blank">You Can Now Tell Google Which Websites You Prefer in Search Results</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-21 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/world-of-warcraft-midnight-lorthemar-liadrin.jpg" alt="Oh No, ‘World of Warcraft’ Is Getting Me Elf-Pilled Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -267,38 +302,20 @@
                 <span class="time">2025-08-21 13:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K343T59DEF709AX9JFJ8EY0J/hero-image.png" alt="This Creative Phishing Scam Uses Netflix Job Offers to Steal Facebook Credentials" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/this-scam-uses-netflix-job-offers-to-steal-facebook-credentials?utm_medium=RSS" target="_blank">This Creative Phishing Scam Uses Netflix Job Offers to Steal Facebook Credentials</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-21 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/blops76.jpg" alt="Call Of Duty Fans Face Burnout As Battlefield 6 Hype Soars" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/call-of-duty-black-ops-7-bad-bf6-battlefield-6-hype-trailer-2000618912" target="_blank">Call Of Duty Fans Face Burnout As Battlefield 6 Hype Soars</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-21 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/psyche-image-of-earth-and-moon.jpg" alt="Trippy Image From Deep Space Shows Earth and Moon From 180 Million Miles Away" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trippy-image-from-deep-space-shows-earth-and-moon-from-180-million-miles-away-2000645879" target="_blank">Trippy Image From Deep Space Shows Earth and Moon From 180 Million Miles Away</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-21 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1755560940-20250821.png" alt="Saturday Morning Breakfast Cereal - Medicine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/medicine" target="_blank">Saturday Morning Breakfast Cereal - Medicine</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-08-21 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5640.png" alt="Yet Another New Character" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -308,22 +325,13 @@
                 <span class="time">2025-08-21 00:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/08/20/penit-ntiary" target="_blank">Peniténtiary</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-08-20 17:21</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
