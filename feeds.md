@@ -1,30 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-08-21 14:02:02 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-21 15:02:01 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 8 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, August 21, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, August 21, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/21/nx-s1-5509539/menendez-brothers-parole-hearings" target="_blank">What to know about the Menendez brothers&#x27; case as their parole hearings begin</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-21 14:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +93,29 @@
                 <span class="time">2025-08-21 12:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7592/live/80b0af40-7e7d-11f0-83cc-c5da98c419b8.jpg" alt="Russia launches biggest wave of strikes on Ukraine for weeks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c62wj8yje2eo?at_medium=RSS&at_campaign=rss" target="_blank">Russia launches biggest wave of strikes on Ukraine for weeks</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-21 11:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/763486/apple-tv-plus-streaming-price-increase" target="_blank">Apple TV Plus is getting more expensive and will cost $12.99 per month</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-21 14:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/21/raising-multiple-rounds-of-venture-capital-might-be-wrong-for-your-startup/" target="_blank">Raising multiple rounds of venture capital might be wrong for your startup</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-21 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,24 +152,6 @@
                 <span class="time">2025-08-21 11:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/763291/apple-masimo-blood-oxygen-patent-customs-lawsuit" target="_blank">Apple Watch’s restored blood oxygen tracking attracts another lawsuit</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-21 09:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/763261/microsoft-employee-arrested-headquarters-protest-redmond-police" target="_blank">Microsoft employee arrested at headquarters while protesting Israel contracts</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-21 08:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,9 +169,27 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/amd-krackan-point-windows-linux" target="_blank">AMD Ryzen AI 5 340 Windows 11 vs. Ubuntu Linux Performance For Budget &quot;Krackan Point&quot; Laptops</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-21 14:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2025/08/21/research-roadmap-update-august-2025/" target="_blank">Research roadmap update, August 2025</a></span>
                 <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-08-21 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18570318&w=600" alt="Yet Another Servers in Go: Understanding epoll, kqueue, and netpoll" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/go-servers-understanding-epoll-kqueue-netpoll" target="_blank">Yet Another Servers in Go: Understanding epoll, kqueue, and netpoll</a></span>
+                <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-08-21 14:00</span>
             </div>
         </div>
@@ -194,24 +211,6 @@
                 <span class="time">2025-08-21 13:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18570288&w=600" alt="AI-Powered Root Cause Analysis: Introducing the Incident Investigator" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/introducing-the-incident-investigator" target="_blank">AI-Powered Root Cause Analysis: Introducing the Incident Investigator</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-21 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-CR-25.31.34666.3" target="_blank">Intel Compute Runtime 25.31.34666.3 Continues Prepping For Panther Lake</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-21 12:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +230,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/world-of-warcraft-midnight-lorthemar-liadrin.jpg" alt="Oh No, ‘World of Warcraft’ Is Getting Me Elf-Pilled Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/world-of-warcraft-midnight-blood-elves-silvermoon-update-2000645787" target="_blank">Oh No, ‘World of Warcraft’ Is Getting Me Elf-Pilled Again</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-21 14:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K354VKTHZ9CQWMR9PZD6KM3T/hero-image.jpg" alt="Seven New Camera Features Coming to the New Pixel 10 Phones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/new-camera-features-coming-to-pixel-10-phones?utm_medium=RSS" target="_blank">Seven New Camera Features Coming to the New Pixel 10 Phones</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-21 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/Brickhead.jpg" alt="Vampire Survivors Dev Publishes Surreal Roguelike About Shooting Human Brick Heads You Can Play Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,24 +282,6 @@
                 <span class="title"><a href="https://gizmodo.com/trippy-image-from-deep-space-shows-earth-and-moon-from-180-million-miles-away-2000645879" target="_blank">Trippy Image From Deep Space Shows Earth and Moon From 180 Million Miles Away</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-21 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Andor-Disney-Plus-Lucasfilm.jpg" alt="Tony Gilroy Is Very Sad at How Relevant ‘Andor’ Has Become" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tony-gilroy-is-very-sad-at-how-relevant-andor-has-become-2000645693" target="_blank">Tony Gilroy Is Very Sad at How Relevant ‘Andor’ Has Become</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-21 00:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Jurassic-Park-Goggles-Spirit-Halloween.jpg" alt="Spirit Halloween Has Made the Most Affordable ‘Jurassic Park’ Goggles Replica We’ve Seen" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/spirit-halloween-has-made-the-most-affordable-jurassic-park-goggles-replica-weve-seen-2000645890" target="_blank">Spirit Halloween Has Made the Most Affordable ‘Jurassic Park’ Goggles Replica We’ve Seen</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-20 23:45</span>
             </div>
         </div>
 </div>
@@ -322,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
