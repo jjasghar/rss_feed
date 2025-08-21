@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-21 18:01:58 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-21 19:01:22 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, August 21, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, August 21, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/21/netanyahu-says-ready-for-negotiations-as-gaza-city-takeover-advances?traffic_source=rss" target="_blank">Netanyahu says ready for negotiations as Gaza City takeover advances</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-21 18:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dc4/live/c52bce00-7e93-11f0-bb23-61f665394239.jpg" alt="UK&#x27;s third-largest steelworks collapses into government control" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,20 +102,29 @@
                 <span class="time">2025-08-21 14:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/featured-documentaries/2025/8/21/the-silencing-of-anas-al-sharif?traffic_source=rss" target="_blank">The Silencing of Anas al-Sharif</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-21 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/Severance_020603-scaled-500x500-1742503364.jpg" alt="After successes like Severance and The Studio, Apple TV+ gets a price hike" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/08/after-successes-like-severance-and-the-studio-apple-tv-gets-a-price-hike/" target="_blank">After successes like Severance and The Studio, Apple TV+ gets a price hike</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-21 18:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/21/strictlyvc-at-techcrunch-disrupt-2025-inside-the-lp-track/" target="_blank">StrictlyVC at TechCrunch Disrupt 2025: Inside the LP Track</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-21 18:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +159,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/763486/apple-tv-plus-streaming-price-increase" target="_blank">Apple TV Plus is getting more expensive and will cost $12.99 per month</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-08-21 14:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/21/raising-multiple-rounds-of-venture-capital-might-be-wrong-for-your-startup/" target="_blank">Raising multiple rounds of venture capital might be wrong for your startup</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-21 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/decoder-podcast-with-nilay-patel/761830/amazon-david-luan-agi-lab-adept-ai-interview" target="_blank">Amazon is betting on agents to win the AI race</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-21 14:00</span>
             </div>
         </div>
 </div>
@@ -203,21 +203,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://jyn.dev/the-core-of-rust/" target="_blank">The Core of Rust</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-21 16:27</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/07/thunderbird-new-logo.jpg?resize=406%2C232&amp;ssl=1" alt="New Details Emerge on Thunderbird Pro, Thundermail and AI Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/new-details-on-thunderbird-pro-thundermail-ai-features" target="_blank">New Details Emerge on Thunderbird Pro, Thundermail and AI Features</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-08-21 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18570338&w=600" alt="Securing Cloud Applications: Best Practices for Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/cloud-security-best-practices-for-developers" target="_blank">Securing Cloud Applications: Best Practices for Developers</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-21 15:00</span>
             </div>
         </div>
 </div>
@@ -248,6 +248,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/03/20124bbfd67d9531003470eb3b95b374.jpg" alt="A Digital Underground Is Using the Flipper Zero to Break Into Cars" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/flipper-zero-cars-hacking-2000646318" target="_blank">A Digital Underground Is Using the Flipper Zero to Break Into Cars</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-21 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/fbi.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="ICE deported a Venezuelan as a &quot;documented gang member&quot; but refused to provide evidence when questioned" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/21/ice-deported-a-venezuelan-as-a-documented-gang-member-but-refused-to-provide-evidence-when-questioned.html" target="_blank">ICE deported a Venezuelan as a &quot;documented gang member&quot; but refused to provide evidence when questioned</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-21 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/760f1b60-7dcb-11f0-a34f-318be3fb0481.jpg.webp?fit=561%2C315&amp;quality=55&amp;ssl=1" alt="World&#x27;s oldest human turns 116" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,24 +302,6 @@
                 <span class="time">2025-08-21 14:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K354VKTHZ9CQWMR9PZD6KM3T/hero-image.jpg" alt="Seven New Camera Features Coming to the New Pixel 10 Phones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/new-camera-features-coming-to-pixel-10-phones?utm_medium=RSS" target="_blank">Seven New Camera Features Coming to the New Pixel 10 Phones</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-21 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/Brickhead.jpg" alt="Vampire Survivors Dev Publishes Surreal Roguelike About Shooting Human Brick Heads You Can Play Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/vampire-survivors-balatro-kill-the-brickman-poncle-roguelike-2000619132" target="_blank">Vampire Survivors Dev Publishes Surreal Roguelike About Shooting Human Brick Heads You Can Play Right Now</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-21 13:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
