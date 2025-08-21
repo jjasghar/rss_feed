@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-21 02:29:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-21 03:17:58 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, August 21, 2025 - 02:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, August 21, 2025 - 03:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -88,19 +89,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/20/israel-pounds-gaza-killing-81-as-its-begins-assault-to-seize-gaza-city?traffic_source=rss" target="_blank">Israel pounds Gaza, killing 81, as it begins assault to seize Gaza City</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/20/nx-s1-5508633/drc-rwanda-hrw-trump" target="_blank">Massacres in eastern Congo cast doubt on U.S. mediated peace deal</a></span>
+                <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-20 21:16</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/US/jd-vance-11-rt-gmh-250820_1755715306654_hpMain_4x3t_384.jpg" alt="Protesters heckle Vance, Hegseth at photo op to thank National Guard troops in DC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/protesters-heckle-vance-hegseth-miller-photo-op-dc/story?id=124815308" target="_blank">Protesters heckle Vance, Hegseth at photo op to thank National Guard troops in DC</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-20 20:54</span>
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/20/israel-pounds-gaza-killing-81-as-its-begins-assault-to-seize-gaza-city?traffic_source=rss" target="_blank">Israel pounds Gaza, killing 81, as it begins assault to seize Gaza City</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-20 21:16</span>
             </div>
         </div>
 </div>
@@ -179,6 +180,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/terramaster-d1-ssd-plus-review/" target="_blank">TerraMaster D1 SSD Plus Review: Experience a Faster External SSD</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-08-21 02:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gg_news/ign-kaidan-official-reveal-trailer-gamescom-2025-14k" target="_blank">IGN: Kaidan - Official Reveal Trailer | gamescom 2025</a></span>
                 <span class="feed">DEV Community</span>
@@ -210,15 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Libre-Chip-NLnet-Grant" target="_blank">Libre-Chip Awarded NLnet Grant To Prototype A CPU That Isn&#x27;t Vulnerable To Spectre Flaws</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-20 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18568019&w=600" alt="Filtering Java Stack Traces With MgntUtils Library" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/filter-java-stacktrace-mgntutils" target="_blank">Filtering Java Stack Traces With MgntUtils Library</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-20 20:00</span>
             </div>
         </div>
 </div>
@@ -358,8 +359,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 02:29 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 03:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
