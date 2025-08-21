@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-21 11:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-21 12:02:02 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, August 21, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, August 21, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7592/live/80b0af40-7e7d-11f0-83cc-c5da98c419b8.jpg" alt="Russia launches biggest wave of strikes on Ukraine for weeks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c62wj8yje2eo?at_medium=RSS&at_campaign=rss" target="_blank">Russia launches biggest wave of strikes on Ukraine for weeks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-21 11:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/21/nx-s1-4974733/the-kids-missing-the-most-amount-of-school-may-surprise-you-kindergarteners" target="_blank">The kids missing the most amount of school may surprise you: kindergartners</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-21 11:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93fb/live/e9f99a70-7e78-11f0-ab3e-bd52082cd0ae.jpg" alt="Councillor&#x27;s wife jailed for race hate social media post released from prison" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,29 +101,20 @@
                 <span class="time">2025-08-21 09:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/21/horrific-aftermath-of-israeli-attack-on-gaza-city?traffic_source=rss" target="_blank">Horrific aftermath of Israeli attack on Gaza City</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-21 08:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250821-zelensky-rs-1dd59f.jpg" alt="Zelenskyy says possible Putin summit site &#x27;challenging&#x27; as Russia launches massive assault" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/ukraine/zelenskyy-urges-quick-progress-trump-security-guarantees-putin-summit-rcna226228" target="_blank">Zelenskyy says possible Putin summit site &#x27;challenging&#x27; as Russia launches massive assault</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-21 07:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/763080/google-ai-gemini-water-energy-emissions-study" target="_blank">Google says a typical AI text prompt only uses 5 drops of water — experts say that&amp;#8217;s misleading</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-21 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +160,6 @@
                 <span class="time">2025-08-20 22:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/762848/ricoh-gr-iv-camera-gf2-flash-launch-price-specs" target="_blank">Ricoh’s GR IV launches in September for a much steeper price than its predecessor</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-20 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +172,33 @@
                 <span class="title"><a href="https://about.gitlab.com/blog/blog-post-slug/" target="_blank">The GitLab documentation site gets a major design overhaul</a></span>
                 <span class="feed">GitLab</span>
                 <span class="time">2025-08-25 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yash_man/i-got-fed-up-with-overpriced-limited-ai-wrapper-so-i-built-a-free-open-source-one-3llj" target="_blank">I got fed up with overpriced, limited AI wrapper, so I built a free, open-source one.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-21 11:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18567986&w=600" alt="Design Automation in Closure Engineering: Building Parametric Assemblies With CATIA and VB Scripting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/design-automation-closure-engineering-catia-vb" target="_blank">Design Automation in Closure Engineering: Building Parametric Assemblies With CATIA and VB Scripting</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-21 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://emersion.fr/blog/2025/using-podman-compose-and-buildkit/" target="_blank">Using Podman, Compose and BuildKit</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-21 10:54</span>
             </div>
         </div>
 <div class="story">
@@ -191,33 +219,6 @@
                 <span class="time">2025-08-21 09:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmgi68anf2xf1lbuzlplf.png" alt="Best AI Tools for Coding in 2025: A Developer’s Perspective" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lightningdev123/best-ai-tools-for-coding-in-2025-a-developers-perspective-3h6d" target="_blank">Best AI Tools for Coding in 2025: A Developer’s Perspective</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-21 08:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/08/21/learning-in-the-flow-unlocking-employee-potential-through-continuous-learning/" target="_blank">Learning in the flow: Unlocking employee potential through continuous learning</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-08-21 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gade_srikar_4b75b429e97bb/scalable-web-application-infrastructure-on-aws-1ba5" target="_blank">scalable web application infrastructure on aws</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-21 05:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,20 +233,20 @@
                 <span class="time">2025-08-21 01:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/subverting-aiops-systems-through-poisoned-input-data.html" target="_blank">Subverting AIOps Systems Through Poisoned Input Data</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-08-20 11:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/blops76.jpg" alt="Call Of Duty Fans Face Burnout As Battlefield 6 Hype Soars" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/call-of-duty-black-ops-7-bad-bf6-battlefield-6-hype-trailer-2000618912" target="_blank">Call Of Duty Fans Face Burnout As Battlefield 6 Hype Soars</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-21 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/psyche-image-of-earth-and-moon.jpg" alt="Trippy Image From Deep Space Shows Earth and Moon From 180 Million Miles Away" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +292,6 @@
                 <span class="time">2025-08-20 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/hallo2.jpg" alt="Halloween: The Game Announced, Will Feature Multiplayer And Solo Story Mode" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/halloween-the-game-announced-will-feature-multiplayer-and-solo-story-mode-2000618930" target="_blank">Halloween: The Game Announced, Will Feature Multiplayer And Solo Story Mode</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-20 21:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -337,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
