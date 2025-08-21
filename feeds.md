@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-21 22:01:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-21 23:01:36 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, August 21, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, August 21, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-5-gty-gmh-250821_1755813112349_hpMain_4x3t_384.jpg" alt="Trump joins police, military in DC as he pushes deployments in more cities" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-police-military-patrol-dc-thursday-night/story?id=124853091" target="_blank">Trump joins police, military in DC as he pushes deployments in more cities</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-21 22:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +98,29 @@
                 <span class="time">2025-08-21 18:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dc4/live/c52bce00-7e93-11f0-bb23-61f665394239.jpg" alt="UK&#x27;s third-largest steelworks collapses into government control" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy0818y4jdlo?at_medium=RSS&at_campaign=rss" target="_blank">UK&#x27;s third-largest steelworks collapses into government control</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-21 17:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2198353376-scaled-500x500-1739457503.jpg" alt="Is the AI bubble about to pop? Sam Altman is prepared either way." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/information-technology/2025/08/sam-altman-calls-ai-a-bubble-while-seeking-500b-valuation-for-openai/" target="_blank">Is the AI bubble about to pop? Sam Altman is prepared either way.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-21 22:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68a34ed5a7b1e72a7de4e291/master/pass/culture_johnwick_GettyImages-1146739180.jpg" alt="The 40 Best Movies on Hulu This Week (August 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-movies-hulu-right-now/" target="_blank">The 40 Best Movies on Hulu This Week (August 2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-21 21:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +157,6 @@
                 <span class="time">2025-08-21 19:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/Severance_020603-scaled-500x500-1742503364.jpg" alt="After successes like Severance and The Studio, Apple TV+ gets a price hike" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2025/08/after-successes-like-severance-and-the-studio-apple-tv-gets-a-price-hike/" target="_blank">After successes like Severance and The Studio, Apple TV+ gets a price hike</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-21 18:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/21/strictlyvc-at-techcrunch-disrupt-2025-inside-the-lp-track/" target="_blank">StrictlyVC at TechCrunch Disrupt 2025: Inside the LP Track</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-21 18:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,10 +174,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://ips-dc.org/report-executive-excess-2025/" target="_blank">CEO pay and stock buybacks have soared at the 100 largest low-wage corporations</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-21 22:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gg_news/ign-hollow-knight-silksong-release-date-trailer-reaction-livestream-gamescom-2025-56fo" target="_blank">IGN: Hollow Knight: Silksong Release Date Trailer Reaction Livestream | gamescom 2025</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-21 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Apple-Silicon-USB3-RFC" target="_blank">Linux Kernel Patches Posted For Enabling USB3 Support On Apple M1 / M2</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-21 20:38</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/alifar/ghost-6-is-really-something-else-46jj" target="_blank">Ghost 6 IS Really Something Else!</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-21 19:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/company-news/explore-the-best-of-github-universe-9-spaces-built-to-spark-creativity-connection-and-joy/" target="_blank">Explore the best of GitHub Universe: 9 spaces built to spark creativity, connection, and joy</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-08-21 18:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lovestaco/how-to-add-google-fonts-in-a-react-project-with-tailwind-css-45nh" target="_blank">How to Add Google Fonts in a React Project with Tailwind CSS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-21 17:29</span>
             </div>
         </div>
 </div>
@@ -246,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Marvel-Legends-Deadpool.jpg" alt="The New Marvel Legends Maximum Series Deadpool Lives Up to Those Descriptors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-new-marvel-legends-maximum-series-deadpool-lives-up-to-those-descriptors-2000646467" target="_blank">The New Marvel Legends Maximum Series Deadpool Lives Up to Those Descriptors</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-21 22:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/ncuti-gatwa-doctor-who.jpg" alt="BBC Boss Promises ‘Doctor Who’ Will Carry On—With or Without Disney" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +298,6 @@
                 <span class="time">2025-08-21 19:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K36N5DXB1RV9V8C9BSC7MMQF/hero-image.png" alt="Make YouTube Less Annoying by Changing These Eight Settings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/make-youtube-less-annoying-by-changing-these-eight-settings?utm_medium=RSS" target="_blank">Make YouTube Less Annoying by Changing These Eight Settings</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-21 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
