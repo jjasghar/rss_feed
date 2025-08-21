@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-21 06:02:01 UTC -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2025-08-21 07:03:54 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, August 21, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, August 21, 2025 - 07:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +55,33 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/887a/live/82f15ba0-7e29-11f0-ab3e-bd52082cd0ae.jpg" alt="Palestinians flee Gaza City districts as Israel says first stages of assault have begun" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clyr7l0z9edo?at_medium=RSS&at_campaign=rss" target="_blank">Palestinians flee Gaza City districts as Israel says first stages of assault have begun</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-21 05:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2025/aug/21/tanzania-lemi-limbu-woman-learning-disabilities-death-row" target="_blank">Pressure grows on Tanzania to free victim of domestic violence who has been on death row for 13 years</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-08-21 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7b3/live/20c016c0-7dce-11f0-88a2-b9725373e32e.jpg" alt="Dozens more UK Afghan data breaches uncovered" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp8950pyy1vo?at_medium=RSS&at_campaign=rss" target="_blank">Dozens more UK Afghan data breaches uncovered</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-21 05:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -70,33 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cjr19770x7lo?at_medium=RSS&at_campaign=rss" target="_blank">China&#x27;s Xi touts unity and development in surprise Tibet visit</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-21 04:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/21/brazils-ex-president-bolsonaro-planned-asylum-in-argentina-police-say?traffic_source=rss" target="_blank">Brazil’s ex-President Bolsonaro planned asylum in Argentina, police say</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-21 03:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/texas-redistricting-ap-jt-250820_1755730847345_hpMain_4x3t_384.jpg" alt="Texas House passes new GOP-friendly congressional maps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/texas-house-vote-controversial-redistricting-plan/story?id=124807364" target="_blank">Texas House passes new GOP-friendly congressional maps</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-21 00:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b52/live/f59a8eb0-7df2-11f0-99a6-6566970a8a8a.jpg" alt="Badenoch encourages Tory councils to challenge asylum hotels" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwy0j9n4qzwo?at_medium=RSS&at_campaign=rss" target="_blank">Badenoch encourages Tory councils to challenge asylum hotels</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-21 00:42</span>
             </div>
         </div>
 </div>
@@ -331,22 +331,13 @@
                 <span class="time">2025-08-20 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/08/20/penit-ntiary" target="_blank">Peniténtiary</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-08-20 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 07:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
