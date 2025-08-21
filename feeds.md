@@ -1,29 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-08-21 15:02:01 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-21 16:01:57 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 8 new posts out of 20 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, August 21, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, August 21, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250716-donald-trump-vl-231p-9e7c25.jpg" alt="New York appeals court throws out Trump&#x27;s $500 million fraud judgment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/ny-appeals-court-throws-trumps-500-million-fraud-judgment-rcna217340" target="_blank">New York appeals court throws out Trump&#x27;s $500 million fraud judgment</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-21 15:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/21/atp-tennis-players-protected-from-severe-abuse-posts-by-ai-tool?traffic_source=rss" target="_blank">Top men’s tennis names shielded from ‘severe’ abuse by ATP AI tool</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-21 15:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,24 +92,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/21/g-s1-84146/russia-ukraine-american-factory" target="_blank">A Russian airstrike hits a U.S. factory in western Ukraine</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-21 12:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755779552217_now_mnn_eu_trade_deal_announcement_250821_1920x1080-e628og.jpg" alt="White House announces trade deal with the European Union" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/white-house-announces-trade-deal-with-the-european-union-245482565609" target="_blank">White House announces trade deal with the European Union</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-21 12:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/21/uganda-reaches-agreement-with-us-to-take-in-some-of-its-failed-asylum-seekers" target="_blank">Uganda reaches agreement with US to take in some failed asylum seekers</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-08-21 12:31</span>
             </div>
         </div>
 </div>
@@ -167,6 +168,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18570338&w=600" alt="Securing Cloud Applications: Best Practices for Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/cloud-security-best-practices-for-developers" target="_blank">Securing Cloud Applications: Best Practices for Developers</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-21 15:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -202,20 +212,20 @@
                 <span class="time">2025-08-21 13:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/antoniofromlitlyx/show-us-your-open-source-project-2gom" target="_blank">Show us your open-source project</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-21 13:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/jim-sanborn-is-auctioning-off-the-solution-to-part-four-of-the-kryptos-sculpture.html" target="_blank">Jim Sanborn Is Auctioning Off the Solution to Part Four of the Kryptos Sculpture</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-08-21 11:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -307,22 +317,13 @@
                 <span class="time">2025-08-20 17:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1755560891-20250820.png" alt="Saturday Morning Breakfast Cereal - Hear" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/hear" target="_blank">Saturday Morning Breakfast Cereal - Hear</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-08-20 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
