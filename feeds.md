@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-21 04:02:05 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-21 05:01:47 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, August 21, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, August 21, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +106,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-506163572-500x500.jpg" alt="Humans intervened every 9 minutes in AAA test of driver assists" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/08/humans-intervened-every-9-minutes-in-aaa-test-of-driver-assists/" target="_blank">Humans intervened every 9 minutes in AAA test of driver assists</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-21 04:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -149,15 +159,6 @@
                 <span class="time">2025-08-20 21:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/20/india-bans-real-money-gaming-threatening-a-23-billion-industry/" target="_blank">India bans real-money gaming, threatening a $23 billion industry</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-20 19:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +171,24 @@
                 <span class="title"><a href="https://about.gitlab.com/blog/blog-post-slug/" target="_blank">The GitLab documentation site gets a major design overhaul</a></span>
                 <span class="feed">GitLab</span>
                 <span class="time">2025-08-25 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-34/" target="_blank">FOSS Weekly #25.34: Mint 22.2 Features, FreeVPN Fiasco, Windows Update Killing SSDs, AI in LibreOffice and More</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-08-21 04:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sharique_siddiqui_8242dad/optimizing-html-for-performance-and-security-i3d" target="_blank">Optimizing HTML for Performance and Security</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-21 04:19</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +216,6 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-energy-efficient-it-solutions-sustainability" target="_blank">Red Hat: a leader in driving sustainability efforts within the IT industry</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-08-21 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.mindflash.org/coding/ai/ai-and-the-bus-factor-of-0-1608" target="_blank">&quot;AI first&quot; and the Bus Factor of 0</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-20 21:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Libre-Chip-NLnet-Grant" target="_blank">Libre-Chip Awarded NLnet Grant To Prototype A CPU That Isn&#x27;t Vulnerable To Spectre Flaws</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-20 20:45</span>
             </div>
         </div>
 </div>
@@ -345,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
