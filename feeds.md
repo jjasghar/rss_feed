@@ -1,44 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-08-21 13:09:46 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-21 14:02:02 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 35 feeds processed -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, August 21, 2025 - 13:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, August 21, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +41,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/featured-documentaries/2025/8/21/the-silencing-of-anas-al-sharif?traffic_source=rss" target="_blank">The Silencing of Anas al-Sharif</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-21 13:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/Kyiv-memorial-DB-250820_1755703727218_hpMain_4x3t_384.jpg" alt="Putin risks &#x27;humiliation&#x27; by agreeing to Zelenskyy meeting, analysts say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -70,6 +65,15 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/21/g-s1-84146/russia-ukraine-american-factory" target="_blank">A Russian airstrike hits a U.S. factory in western Ukraine</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-21 12:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755779552217_now_mnn_eu_trade_deal_announcement_250821_1920x1080-e628og.jpg" alt="White House announces trade deal with the European Union" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/white-house-announces-trade-deal-with-the-european-union-245482565609" target="_blank">White House announces trade deal with the European Union</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-21 12:32</span>
             </div>
         </div>
 <div class="story">
@@ -90,29 +94,20 @@
                 <span class="time">2025-08-21 11:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/21/nx-s1-4974733/the-kids-missing-the-most-amount-of-school-may-surprise-you-kindergarteners" target="_blank">The kids missing the most amount of school may surprise you: kindergartners</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-21 11:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93fb/live/e9f99a70-7e78-11f0-ab3e-bd52082cd0ae.jpg" alt="Councillor&#x27;s wife jailed for race hate social media post released from prison" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5yl7p4l11po?at_medium=RSS&at_campaign=rss" target="_blank">Councillor&#x27;s wife jailed for race hate social media post released from prison</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-21 10:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/decoder-podcast-with-nilay-patel/761830/amazon-david-luan-agi-lab-adept-ai-interview" target="_blank">Amazon is betting on agents to win the AI race</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-21 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -129,6 +124,15 @@
                 <span class="title"><a href="https://www.theverge.com/report/763080/google-ai-gemini-water-energy-emissions-study" target="_blank">Google says a typical AI text prompt only uses 5 drops of water — experts say that&amp;#8217;s misleading</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-08-21 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/starfactory-500x500.jpg" alt="SpaceX has built the machine to build the machine. But what about the machine?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/08/spacex-has-built-the-machine-to-build-the-machine-but-what-about-the-machine/" target="_blank">SpaceX has built the machine to build the machine. But what about the machine?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-21 11:30</span>
             </div>
         </div>
 <div class="story">
@@ -149,24 +153,6 @@
                 <span class="time">2025-08-21 08:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-506163572-500x500.jpg" alt="Humans intervened every 9 minutes in AAA test of driver assists" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/08/humans-intervened-every-9-minutes-in-aaa-test-of-driver-assists/" target="_blank">Humans intervened every 9 minutes in AAA test of driver assists</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-21 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/20/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/" target="_blank">Space is open for business with Even Rogers and Max Haot at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-20 22:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -179,6 +165,24 @@
                 <span class="title"><a href="https://about.gitlab.com/blog/blog-post-slug/" target="_blank">The GitLab documentation site gets a major design overhaul</a></span>
                 <span class="feed">GitLab</span>
                 <span class="time">2025-08-25 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/08/21/research-roadmap-update-august-2025/" target="_blank">Research roadmap update, August 2025</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-08-21 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Apple-Lid-Power-Buttons-Driver" target="_blank">Linux Driver Under Review For Apple Laptop Lid Events &amp; Power Button</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-21 13:24</span>
             </div>
         </div>
 <div class="story">
@@ -206,24 +210,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-CR-25.31.34666.3" target="_blank">Intel Compute Runtime 25.31.34666.3 Continues Prepping For Panther Lake</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-21 12:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yash_man/i-got-fed-up-with-overpriced-limited-ai-wrapper-so-i-built-a-free-open-source-one-3llj" target="_blank">I got fed up with overpriced, limited AI wrapper, so I built a free, open-source one.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-21 11:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18567986&w=600" alt="Design Automation in Closure Engineering: Building Parametric Assemblies With CATIA and VB Scripting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/design-automation-closure-engineering-catia-vb" target="_blank">Design Automation in Closure Engineering: Building Parametric Assemblies With CATIA and VB Scripting</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-21 11:00</span>
             </div>
         </div>
 </div>
@@ -336,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
