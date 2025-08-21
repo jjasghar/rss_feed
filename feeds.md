@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-21 21:01:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-21 22:01:45 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, August 21, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, August 21, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/21/g-s1-84441/supreme-court-nih-grants" target="_blank">Supreme Court allows NIH to stop making nearly $800M in research grants for now</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-21 21:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92f4/live/7dc7bd50-7ec3-11f0-83cc-c5da98c419b8.jpg" alt="Israel will begin talks to free all hostages, Netanyahu says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,15 +98,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cy0818y4jdlo?at_medium=RSS&at_campaign=rss" target="_blank">UK&#x27;s third-largest steelworks collapses into government control</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-21 17:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755792952482_now_daily_a_haake_trump_civil_toss_250821_1920x1080-782w6b.jpg" alt="New York appeals court throws out civil fraud penalty against Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/new-york-appeals-court-throws-out-civil-fraud-penalty-against-trump-245495877783" target="_blank">New York appeals court throws out civil fraud penalty against Trump</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-21 16:15</span>
             </div>
         </div>
 </div>
@@ -173,6 +174,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/ign-hollow-knight-silksong-release-date-trailer-reaction-livestream-gamescom-2025-56fo" target="_blank">IGN: Hollow Knight: Silksong Release Date Trailer Reaction Livestream | gamescom 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-21 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18570414&w=600" alt="Greenplum vs Apache Doris: Features, Performance, and Advantages Compared" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -208,15 +218,6 @@
                 <span class="time">2025-08-21 17:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18570365&w=600" alt="Python Async/Sync: Understanding and Solving Blocking (Part 1)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/python-async-vs-sync-blocking" target="_blank">Python Async/Sync: Understanding and Solving Blocking (Part 1)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-21 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +247,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/ncuti-gatwa-doctor-who.jpg" alt="BBC Boss Promises ‘Doctor Who’ Will Carry On—With or Without Disney" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/doctor-who-future-bbc-boss-disney-deal-2000646368" target="_blank">BBC Boss Promises ‘Doctor Who’ Will Carry On—With or Without Disney</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-21 21:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K375AG00T13MASFE20VEV46C/hero-image.jpg" alt="The New Pixel Camera&#x27;s &#x27;100x Zoom&#x27; Is Basically Fancy Generative AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/googles-new-100x-zoom-made-by-google-2025?utm_medium=RSS" target="_blank">The New Pixel Camera&#x27;s &#x27;100x Zoom&#x27; Is Basically Fancy Generative AI</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-21 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Headway-Premium.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Just 15 minutes a day keeps the dumb away when you have this app" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/21/just-15-minutes-a-day-keeps-the-dumb-away-when-you-have-this-app.html" target="_blank">Just 15 minutes a day keeps the dumb away when you have this app</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-21 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/crbn.jpg" alt="The New Cracker Barrel Logo Sucks And So Does The Mess Around It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -270,33 +298,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/make-youtube-less-annoying-by-changing-these-eight-settings?utm_medium=RSS" target="_blank">Make YouTube Less Annoying by Changing These Eight Settings</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-21 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/03/20124bbfd67d9531003470eb3b95b374.jpg" alt="A Digital Underground Is Using the Flipper Zero to Break Into Cars" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/flipper-zero-cars-hacking-2000646318" target="_blank">A Digital Underground Is Using the Flipper Zero to Break Into Cars</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-21 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/fbi.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="ICE deported a Venezuelan as a &quot;documented gang member&quot; but refused to provide evidence when questioned" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/21/ice-deported-a-venezuelan-as-a-documented-gang-member-but-refused-to-provide-evidence-when-questioned.html" target="_blank">ICE deported a Venezuelan as a &quot;documented gang member&quot; but refused to provide evidence when questioned</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-21 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/760f1b60-7dcb-11f0-a34f-318be3fb0481.jpg.webp?fit=561%2C315&amp;quality=55&amp;ssl=1" alt="World&#x27;s oldest human turns 116" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/21/worlds-oldest-human-turns-116.html" target="_blank">World&#x27;s oldest human turns 116</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-21 17:42</span>
             </div>
         </div>
 </div>
@@ -327,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
