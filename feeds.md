@@ -1,37 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-08-21 12:02:02 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-21 13:09:46 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, August 21, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, August 21, 2025 - 13:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +54,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Kyiv-memorial-DB-250820_1755703727218_hpMain_4x3t_384.jpg" alt="Putin risks &#x27;humiliation&#x27; by agreeing to Zelenskyy meeting, analysts say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/putin-zelenskyy-meeting-matters-happen/story?id=124813228" target="_blank">Putin risks &#x27;humiliation&#x27; by agreeing to Zelenskyy meeting, analysts say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-21 12:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/21/g-s1-84146/russia-ukraine-american-factory" target="_blank">A Russian airstrike hits a U.S. factory in western Ukraine</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-21 12:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/21/uganda-reaches-agreement-with-us-to-take-in-some-of-its-failed-asylum-seekers" target="_blank">Uganda reaches agreement with US to take in some failed asylum seekers</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-08-21 12:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7592/live/80b0af40-7e7d-11f0-83cc-c5da98c419b8.jpg" alt="Russia launches biggest wave of strikes on Ukraine for weeks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,38 +108,20 @@
                 <span class="time">2025-08-21 10:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/durrani-doctor-gaza-abc-mo-20250819_1755611742635_hpMain_4x3t_384.jpeg" alt="&#x27;Horror&#x27; in Gaza is &#x27;incomprehensible,&#x27; says US doctor who treated patients there" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/horror-gaza-incomprehensible-us-doctor-treated-patients/story?id=124655436" target="_blank">&#x27;Horror&#x27; in Gaza is &#x27;incomprehensible,&#x27; says US doctor who treated patients there</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-21 10:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/21/whats-causing-pakistans-deadly-floods?traffic_source=rss" target="_blank">What’s causing Pakistan’s deadly floods?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-21 09:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/21/uganda-reaches-agreement-with-us-to-take-in-some-of-its-failed-asylum-seekers" target="_blank">Uganda reaches agreement with US to take in some of its failed asylum seekers</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-08-21 09:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/761501/insta360-ultra-go-action-camera-4k-60fps-microsd" target="_blank">Insta360 redesigned its compact action cam with a bigger battery and swappable storage</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-21 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +167,6 @@
                 <span class="time">2025-08-20 22:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/763043/sony-playstation-5-ps5-tariff-price-increase-deal-sale" target="_blank">Today is your last chance to grab a PS5 before Sony’s price hikes go into effect</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-20 22:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -178,6 +185,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/antoniofromlitlyx/show-us-your-open-source-project-2gom" target="_blank">Show us your open-source project</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-21 13:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18570288&w=600" alt="AI-Powered Root Cause Analysis: Introducing the Incident Investigator" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/introducing-the-incident-investigator" target="_blank">AI-Powered Root Cause Analysis: Introducing the Incident Investigator</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-21 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-CR-25.31.34666.3" target="_blank">Intel Compute Runtime 25.31.34666.3 Continues Prepping For Panther Lake</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-21 12:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/yash_man/i-got-fed-up-with-overpriced-limited-ai-wrapper-so-i-built-a-free-open-source-one-3llj" target="_blank">I got fed up with overpriced, limited AI wrapper, so I built a free, open-source one.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-21 11:49</span>
@@ -190,33 +224,6 @@
                 <span class="title"><a href="https://dzone.com/articles/design-automation-closure-engineering-catia-vb" target="_blank">Design Automation in Closure Engineering: Building Parametric Assemblies With CATIA and VB Scripting</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-08-21 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://emersion.fr/blog/2025/using-podman-compose-and-buildkit/" target="_blank">Using Podman, Compose and BuildKit</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-21 10:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Panthor-More-Arm-Mali-Linux-618" target="_blank">Panthor Open-Source Driver To Support Many More Arm Mali GPUs In Linux 6.18</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-21 10:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shiva_shanker_k/i-used-ai-to-write-code-for-30-days-straight-heres-what-actually-happened-11c4" target="_blank">I Used AI to Write Code for 30 Days Straight. Here&#x27;s What Actually Happened</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-21 09:49</span>
             </div>
         </div>
 </div>
@@ -238,6 +245,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/Brickhead.jpg" alt="Vampire Survivors Dev Publishes Surreal Roguelike About Shooting Human Brick Heads You Can Play Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/vampire-survivors-balatro-kill-the-brickman-poncle-roguelike-2000619132" target="_blank">Vampire Survivors Dev Publishes Surreal Roguelike About Shooting Human Brick Heads You Can Play Right Now</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-21 13:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K343T59DEF709AX9JFJ8EY0J/hero-image.png" alt="This Creative Phishing Scam Uses Netflix Job Offers to Steal Facebook Credentials" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/this-scam-uses-netflix-job-offers-to-steal-facebook-credentials?utm_medium=RSS" target="_blank">This Creative Phishing Scam Uses Netflix Job Offers to Steal Facebook Credentials</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-21 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/blops76.jpg" alt="Call Of Duty Fans Face Burnout As Battlefield 6 Hype Soars" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +297,6 @@
                 <span class="title"><a href="https://gizmodo.com/spirit-halloween-has-made-the-most-affordable-jurassic-park-goggles-replica-weve-seen-2000645890" target="_blank">Spirit Halloween Has Made the Most Affordable ‘Jurassic Park’ Goggles Replica We’ve Seen</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-20 23:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Frankenstein-Guillermo-del-Toro.jpg" alt="Guillermo del Toro Explains Why His Frankenstein’s Monster Looks So Unique" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/guillermo-del-toro-explains-why-his-frankensteins-monster-looks-so-unique-2000645783" target="_blank">Guillermo del Toro Explains Why His Frankenstein’s Monster Looks So Unique</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-20 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K34GBJRPCD3ARDDCBMHDEMC0/hero-image.jpg" alt="All the Biggest Announcements From This Year&#x27;s &#x27;Made by Google&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/everything-announed-at-made-by-google-2025?utm_medium=RSS" target="_blank">All the Biggest Announcements From This Year&#x27;s &#x27;Made by Google&#x27;</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-20 22:00</span>
             </div>
         </div>
 </div>
@@ -329,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 13:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
