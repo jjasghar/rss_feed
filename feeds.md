@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-21 08:02:02 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-08-21 09:01:52 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 23 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, August 21, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, August 21, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/21/horrific-aftermath-of-israeli-attack-on-gaza-city?traffic_source=rss" target="_blank">Horrific aftermath of Israeli attack on Gaza City</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-21 08:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250821-zelensky-rs-1dd59f.jpg" alt="Zelenskyy urges quick progress on security guarantees, says possible summit site &#x27;challenging&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/ukraine/zelenskyy-urges-quick-progress-trump-security-guarantees-putin-summit-rcna226228" target="_blank">Zelenskyy urges quick progress on security guarantees, says possible summit site &#x27;challenging&#x27;</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-21 07:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +103,20 @@
                 <span class="time">2025-08-21 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/21/gaza-bodybuilders-fight-to-preserve-muscle-amid-israel-blockade-and-famine?traffic_source=rss" target="_blank">Gaza bodybuilders fight to preserve muscle amid Israel blockade and famine</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-21 04:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b677/live/13fef860-7e47-11f0-b9c8-bf093da3c87a.jpg" alt="China&#x27;s Xi touts unity and development in surprise Tibet visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cjr19770x7lo?at_medium=RSS&at_campaign=rss" target="_blank">China&#x27;s Xi touts unity and development in surprise Tibet visit</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-21 04:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/763261/microsoft-employee-arrested-headquarters-protest-redmond-police" target="_blank">Microsoft employee arrested at headquarters while protesting Israel contracts</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-21 08:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-506163572-500x500.jpg" alt="Humans intervened every 9 minutes in AAA test of driver assists" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,15 +162,6 @@
                 <span class="time">2025-08-20 21:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a5724e2813b477fc9a5eda/master/pass/The%20Best%20Early%20Labor%20Day%20Deals%20and%20Sales.png" alt="21 Best Early Labor Day Sales on WIRED-Tested Gear (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-labor-day-sales-deals-2025/" target="_blank">21 Best Early Labor Day Sales on WIRED-Tested Gear (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-20 21:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +174,24 @@
                 <span class="title"><a href="https://about.gitlab.com/blog/blog-post-slug/" target="_blank">The GitLab documentation site gets a major design overhaul</a></span>
                 <span class="feed">GitLab</span>
                 <span class="time">2025-08-25 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmgi68anf2xf1lbuzlplf.png" alt="Best AI Tools for Coding in 2025: A Developer’s Perspective" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lightningdev123/best-ai-tools-for-coding-in-2025-a-developers-perspective-3h6d" target="_blank">Best AI Tools for Coding in 2025: A Developer’s Perspective</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-21 08:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/08/21/learning-in-the-flow-unlocking-employee-potential-through-continuous-learning/" target="_blank">Learning in the flow: Unlocking employee potential through continuous learning</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-08-21 07:40</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/sharique_siddiqui_8242dad/optimizing-html-for-performance-and-security-i3d" target="_blank">Optimizing HTML for Performance and Security</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-21 04:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/terramaster-d1-ssd-plus-review/" target="_blank">TerraMaster D1 SSD Plus Review: Experience a Faster External SSD</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-08-21 02:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-kaidan-official-reveal-trailer-gamescom-2025-14k" target="_blank">IGN: Kaidan - Official Reveal Trailer | gamescom 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-21 00:01</span>
             </div>
         </div>
 </div>
@@ -333,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
