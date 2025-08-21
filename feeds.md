@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-08-20 23:01:37 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-08-21 00:04:12 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, August 20, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, August 21, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250820-abbott-trump-newsom-mn-1055-9d3358.jpg" alt="Texas House passes GOP redistricting maps to give party five more seats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/elections/battle-redistricting-texas-house-passes-new-gop-maps-rcna226027" target="_blank">Texas House passes GOP redistricting maps to give party five more seats</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-20 23:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +95,20 @@
                 <span class="time">2025-08-20 18:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/20/bulgarian-devotees-welcome-divine-new-year-in-mountaintop-ritual?traffic_source=rss" target="_blank">Bulgarian devotees welcome ‘divine new year’ in mountaintop ritual</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-20 18:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/20/space-is-open-for-business-with-even-rogers-and-max-haot-at-techcrunch-disrupt-2025/" target="_blank">Space is open for business with Even Rogers and Max Haot at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-20 22:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,15 +154,6 @@
                 <span class="time">2025-08-20 18:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2214461868-500x500.jpg" alt="Bernie Sanders backs Trump’s plan to buy stake in Intel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/08/bernie-sanders-backs-trumps-plan-to-buy-stake-in-intel/" target="_blank">Bernie Sanders backs Trump’s plan to buy stake in Intel</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-20 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,10 +171,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/ign-kaidan-official-reveal-trailer-gamescom-2025-14k" target="_blank">IGN: Kaidan - Official Reveal Trailer | gamescom 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-21 00:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-hat-cowboy"></span>
                 <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-energy-efficient-it-solutions-sustainability" target="_blank">Red Hat: a leader in driving sustainability efforts within the IT industry</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-08-21 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.mindflash.org/coding/ai/ai-and-the-bus-factor-of-0-1608" target="_blank">&quot;AI first&quot; and the Bus Factor of 0</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-20 21:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Libre-Chip-NLnet-Grant" target="_blank">Libre-Chip Awarded NLnet Grant To Prototype A CPU That Isn&#x27;t Vulnerable To Spectre Flaws</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-20 20:45</span>
             </div>
         </div>
 <div class="story">
@@ -187,33 +211,6 @@
                 <span class="title"><a href="https://dzone.com/articles/filter-java-stacktrace-mgntutils" target="_blank">Filtering Java Stack Traces With MgntUtils Library</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-08-20 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/outsourcedigest/customer-support-outsourcing-why-businesses-choose-it-3np7" target="_blank">Customer Support Outsourcing: Why Businesses Choose It</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-20 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/free-vpn.jpg?resize=406%2C232&amp;ssl=1" alt="Free VPN Extension Found Taking Screenshots, Uploading Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/free-vpn-chrome-extension-spying-on-users" target="_blank">Free VPN Extension Found Taking Screenshots, Uploading Them</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-20 19:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/codewithved/demystifying-consensus-algorithms-for-system-design-interviews-55n2" target="_blank">Demystifying Consensus Algorithms for System Design Interviews</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-20 18:39</span>
             </div>
         </div>
 </div>
@@ -235,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Jurassic-Park-Goggles-Spirit-Halloween.jpg" alt="Spirit Halloween Has Made the Most Affordable ‘Jurassic Park’ Goggles Replica We’ve Seen" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/spirit-halloween-has-made-the-most-affordable-jurassic-park-goggles-replica-weve-seen-2000645890" target="_blank">Spirit Halloween Has Made the Most Affordable ‘Jurassic Park’ Goggles Replica We’ve Seen</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-20 23:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Frankenstein-Guillermo-del-Toro.jpg" alt="Guillermo del Toro Explains Why His Frankenstein’s Monster Looks So Unique" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +284,6 @@
                 <span class="title"><a href="https://gizmodo.com/trump-labor-day-artificial-intelligence-slop-adobe-2000645917" target="_blank">Trump Labor Department Supports American Workers With Image of AI-Generated Worker</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-20 20:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/04/5738041453f90af93db8c0400150abc3.jpg" alt="Early Switch 2 Elden Ring Impressions Sound Not Great As Bandai Namco Locks Down Footage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/elden-ring-switch-2-framerate-footage-video-gamescom-2000618923" target="_blank">Early Switch 2 Elden Ring Impressions Sound Not Great As Bandai Namco Locks Down Footage</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-20 20:53</span>
             </div>
         </div>
 </div>
@@ -344,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
