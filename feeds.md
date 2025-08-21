@@ -1,38 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-08-21 19:01:22 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-08-21 20:01:51 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, August 21, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, August 21, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/national-guard-02-gty-jef-250821_1755778060127_hpMain_4x3t_384.jpg" alt="Trump says he will patrol DC with police, military Thursday night, eyes more cities" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-police-military-patrol-dc-thursday-night/story?id=124853091" target="_blank">Trump says he will patrol DC with police, military Thursday night, eyes more cities</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-21 19:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +93,29 @@
                 <span class="time">2025-08-21 15:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/21/nx-s1-5509539/menendez-brothers-parole-hearings" target="_blank">What to know about the Menendez brothers&#x27; case as their parole hearings begin</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-21 14:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1155895603-500x500.jpg" alt="Americans’ junk-filled garages are hurting EV adoption, study says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/08/junk-filled-garages-hurt-ev-sales-as-people-dont-have-room-for-chargers/" target="_blank">Americans’ junk-filled garages are hurting EV adoption, study says</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-21 19:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/763778/google-canceled-tablet-no-smart-ring-or-flip-phone-glasses" target="_blank">Google reveals it isn&amp;#8217;t making tablets, smart rings, flip phones, or glasses (yet)</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-21 19:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/Severance_020603-scaled-500x500-1742503364.jpg" alt="After successes like Severance and The Studio, Apple TV+ gets a price hike" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,24 +152,6 @@
                 <span class="time">2025-08-21 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a606a88a9eca977793cabc/master/pass/trump-lutnik-chips-biz-2224628756.jpg" alt="Trump Is Betting Big on Intel. Will the Chips Fall His Way?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/golden-shares-tsmc-micron-trump-equity-stake/" target="_blank">Trump Is Betting Big on Intel. Will the Chips Fall His Way?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-21 17:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/763486/apple-tv-plus-streaming-price-increase" target="_blank">Apple TV Plus is getting more expensive and will cost $12.99 per month</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-21 14:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +164,15 @@
                 <span class="title"><a href="https://about.gitlab.com/blog/blog-post-slug/" target="_blank">The GitLab documentation site gets a major design overhaul</a></span>
                 <span class="feed">GitLab</span>
                 <span class="time">2025-08-25 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foc8h7h2zphpkhh3vdat1.png" alt="Ghost 6 IS Really Something Else!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alifar/ghost-6-is-really-something-else-46jj" target="_blank">Ghost 6 IS Really Something Else!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-21 19:50</span>
             </div>
         </div>
 <div class="story">
@@ -211,15 +211,6 @@
                 <span class="time">2025-08-21 16:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/07/thunderbird-new-logo.jpg?resize=406%2C232&amp;ssl=1" alt="New Details Emerge on Thunderbird Pro, Thundermail and AI Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/new-details-on-thunderbird-pro-thundermail-ai-features" target="_blank">New Details Emerge on Thunderbird Pro, Thundermail and AI Features</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-21 15:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/falcon-9-launch-x-37b.jpeg" alt="Watch Live: SpaceX Launches Space Force’s X-37B Spaceplane on New Military Test Mission" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/watch-live-spacex-launches-space-forces-x-37b-spaceplane-on-new-military-test-mission-2000646337" target="_blank">Watch Live: SpaceX Launches Space Force’s X-37B Spaceplane on New Military Test Mission</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-21 19:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/03/20124bbfd67d9531003470eb3b95b374.jpg" alt="A Digital Underground Is Using the Flipper Zero to Break Into Cars" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,15 +293,6 @@
                 <span class="time">2025-08-21 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/world-of-warcraft-midnight-lorthemar-liadrin.jpg" alt="Oh No, ‘World of Warcraft’ Is Getting Me Elf-Pilled Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/world-of-warcraft-midnight-blood-elves-silvermoon-update-2000645787" target="_blank">Oh No, ‘World of Warcraft’ Is Getting Me Elf-Pilled Again</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-21 14:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
