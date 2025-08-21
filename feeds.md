@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-21 05:01:47 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-08-21 06:02:01 UTC -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, August 21, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, August 21, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/21/nx-s1-5509433/appeals-court-allows-protected-status-migrants" target="_blank">Appeals court allows end of protected status for migrants from 3 countries</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-21 05:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/21/gaza-bodybuilders-fight-to-preserve-muscle-amid-israel-blockade-and-famine?traffic_source=rss" target="_blank">Gaza bodybuilders fight to preserve muscle amid Israel blockade and famine</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-21 04:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b677/live/13fef860-7e47-11f0-b9c8-bf093da3c87a.jpg" alt="China&#x27;s Xi touts unity and development in surprise Tibet visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cjr19770x7lo?at_medium=RSS&at_campaign=rss" target="_blank">China&#x27;s Xi touts unity and development in surprise Tibet visit</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-21 04:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,33 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cwy0j9n4qzwo?at_medium=RSS&at_campaign=rss" target="_blank">Badenoch encourages Tory councils to challenge asylum hotels</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-21 00:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755736903270_now_hallie_texas_maps_250820_1920x1080-lnif3b.jpg" alt="Texas House passes new congressional maps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/texas-house-passes-new-congressional-maps-245459013824" target="_blank">Texas House passes new congressional maps</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-21 00:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250820-abbott-trump-newsom-mn-1055-9d3358.jpg" alt="Texas House passes GOP redistricting maps to give party five more seats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/elections/battle-redistricting-texas-house-passes-new-gop-maps-rcna226027" target="_blank">Texas House passes GOP redistricting maps to give party five more seats</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-20 23:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/20/nx-s1-5508633/drc-rwanda-hrw-trump" target="_blank">Massacres in eastern Congo cast doubt on U.S. mediated peace deal</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-20 21:16</span>
             </div>
         </div>
 </div>
@@ -176,6 +175,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gade_srikar_4b75b429e97bb/scalable-web-application-infrastructure-on-aws-1ba5" target="_blank">scalable web application infrastructure on aws</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-21 05:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-34/" target="_blank">FOSS Weekly #25.34: Mint 22.2 Features, FreeVPN Fiasco, Windows Update Killing SSDs, AI in LibreOffice and More</a></span>
                 <span class="feed">It's FOSS</span>
@@ -207,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/gg_news/ign-kaidan-official-reveal-trailer-gamescom-2025-14k" target="_blank">IGN: Kaidan - Official Reveal Trailer | gamescom 2025</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-21 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/red-hat-energy-efficient-it-solutions-sustainability" target="_blank">Red Hat: a leader in driving sustainability efforts within the IT industry</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2025-08-21 00:00</span>
             </div>
         </div>
 </div>
@@ -346,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
