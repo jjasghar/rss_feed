@@ -1,46 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-22 15:01:47 UTC -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-08-22 16:01:51 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 14 new posts out of 37 feeds processed -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, August 22, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, August 22, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -57,6 +49,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/john-bolton-11-gty-gmh-250822_1755868509912_hpMain_4x3t_384.jpg" alt="FBI searching former Trump adviser John Bolton&#x27;s home and office" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/fbi-searching-john-boltons-home-sources/story?id=124874729" target="_blank">FBI searching former Trump adviser John Bolton&#x27;s home and office</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-22 15:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250722-jerome-powell-cs-0c0bb4.jpg" alt="Jerome Powell signals potential rate cut in speech highlighting precarious job market" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -72,6 +73,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/22/at-least-52-killed-in-gaza-as-israel-escalates-attacks-on-gaza-city?traffic_source=rss" target="_blank">At least 52 killed in Gaza as Israel escalates attacks on Gaza City</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-22 14:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/032a/live/93384dd0-7f4f-11f0-ace8-c7fe3706c172.jpg" alt="Home Office seeks to appeal against court ruling on Epping asylum hotel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy5p2ye95z9o?at_medium=RSS&at_campaign=rss" target="_blank">Home Office seeks to appeal against court ruling on Epping asylum hotel</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-22 14:24</span>
             </div>
         </div>
 <div class="story">
@@ -92,29 +102,29 @@
                 <span class="time">2025-08-22 13:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/22/court-case-challenging-eswatini-us-immigrant-deportation-deal-postponed" target="_blank">Court case challenging Eswatini-US immigrant deportation deal postponed</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-08-22 13:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/22/what-has-led-to-a-famine-being-confirmed-in-gaza?traffic_source=rss" target="_blank">What has led to a famine being confirmed in Gaza?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-22 12:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/22/yc-backed-oway-raises-4m-to-build-a-decentralized-uber-for-freight/" target="_blank">YC-backed Oway raises $4M to build a decentralized ‘Uber for freight’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-22 15:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/764346/hollow-knight-silksong-indie-game-delays-cloverpit-faeland-aeterna-lucis" target="_blank">Silksong is out soon, and indie games are getting out of the way</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-22 15:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,30 +153,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media.wired.com/photos/68a600485e8133e9180a1a99/master/pass/focus-friend-cul.jpg" alt="This Extremely Cute Bean Wants to Help You Stop Doomscrolling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/this-extremely-cute-bean-wants-to-help-you-stop-doomscrolling/" target="_blank">This Extremely Cute Bean Wants to Help You Stop Doomscrolling</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-22 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a7e6fc367cb19dec8c624f/master/pass/What%20Is%20Down%20Alternative,%20and%20Who%20Should%20Buy%20It_.png" alt="What Is Down Alternative and Who Should Buy It? Experts Explain (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/what-is-down-alternative/" target="_blank">What Is Down Alternative and Who Should Buy It? Experts Explain (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-22 10:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/Samsung-1-500x500-1755637834.jpg" alt="Samsung’s “Micro RGB” TV proves the value of RGB backlights for premium displays" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/Gy5mgr3XsAAs79t-500x500.jpg" alt="Rocket Report: Pivotal Starship test on tap, Firefly wants to be big in Japan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/08/samsungs-micro-rgb-tv-proves-the-value-of-rgb-backlights-for-premium-displays/" target="_blank">Samsung’s “Micro RGB” TV proves the value of RGB backlights for premium displays</a></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/08/rocket-report-pivotal-starship-test-on-tap-firefly-wants-to-be-big-in-japan/" target="_blank">Rocket Report: Pivotal Starship test on tap, Firefly wants to be big in Japan</a></span>
                 <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-22 10:00</span>
+                <span class="time">2025-08-22 11:00</span>
             </div>
         </div>
 </div>
@@ -181,6 +173,24 @@
                 <span class="title"><a href="https://about.gitlab.com/blog/blog-post-slug/" target="_blank">The GitLab documentation site gets a major design overhaul</a></span>
                 <span class="feed">GitLab</span>
                 <span class="time">2025-08-25 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/scale_youtube/cncf-cloud-native-computing-foundation-cncf-on-demand-webinar-troubleshooting-kubernetes-with-3o7i" target="_blank">CNCF [Cloud Native Computing Foundation]: CNCF On demand webinar: Troubleshooting Kubernetes with confidence</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-22 15:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18571998&w=600" alt="A Deep Dive into Behavior-Driven Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/behavior-driven-development-deep-dive" target="_blank">A Deep Dive into Behavior-Driven Development</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-22 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -210,24 +220,6 @@
                 <span class="time">2025-08-22 14:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18570406&w=600" alt="Python Async/Sync: Advanced Blocking Detection and Best Practices (Part 2)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/python-asyncsync-advanced-blocking-detection-and-b" target="_blank">Python Async/Sync: Advanced Blocking Detection and Best Practices (Part 2)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-22 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj83vpxd59ckmq3cxd3rf.png" alt="Testing in a serverless environment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/testing-in-a-serverless-environment-31l4" target="_blank">Testing in a serverless environment</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-22 13:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/snakeactionshot3.jpg" alt="Solid Snake’s Voice Actor Is Glad To Be Back, But Wishes He Got A Do-Over In Snake Eater Remake" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/metal-gear-solid-delta-snake-eater-david-hayter-voice-2000619544" target="_blank">Solid Snake’s Voice Actor Is Glad To Be Back, But Wishes He Got A Do-Over In Snake Eater Remake</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-22 15:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/morning-checkpoint.jpg" alt="One Game Has Already Been Delayed To Avoid Silksong‘s September Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +293,6 @@
                 <span class="time">2025-08-22 12:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01J593J9HDSJKYEMV57Q64FSQ7/hero-image.jpg" alt="The 30 Best Movies on Hulu Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/best-movies-on-hulu?utm_medium=RSS" target="_blank">The 30 Best Movies on Hulu Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-22 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,22 +316,13 @@
                 <span class="time">2025-08-22 00:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1755560940-20250821.png" alt="Saturday Morning Breakfast Cereal - Medicine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/medicine" target="_blank">Saturday Morning Breakfast Cereal - Medicine</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-08-21 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 295 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
