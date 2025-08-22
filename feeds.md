@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-22 19:01:45 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-22 20:01:45 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, August 22, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, August 22, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/epstein_1752533587709_hpMain_4x3t_384.jpg" alt="Maxwell provided DOJ no incriminating info about Epstein associates, transcript shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/ghislaine-maxwell-provided-no-incriminating-information-meetings-deputy-ag/story?id=124894271" target="_blank">Maxwell provided DOJ no incriminating info about Epstein associates, transcript shows</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-22 19:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/22/nx-s1-5494553/epstein-maxwell-doj-interview-transcripts" target="_blank">Justice Department releases transcripts from its conversations with Ghislaine Maxwell</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-22 19:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/22/hungary-slovakia-fear-oil-cuts-after-ukrainian-attack-on-russian-pipeline?traffic_source=rss" target="_blank">Hungary, Slovakia fear oil cuts after Ukrainian attack on Russian pipeline</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-22 19:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,33 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/22/fbi-raids-home-and-office-of-ex-trump-official-john-bolton?traffic_source=rss" target="_blank">FBI raids home and office of ex-Trump official John Bolton</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-22 17:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4735/live/b138f6a0-7f35-11f0-b7ed-0b17109072b5.jpg" alt="Famine confirmed in Gaza City is &#x27;failure of humanity&#x27;, UN chief says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c05ed5rgld3o?at_medium=RSS&at_campaign=rss" target="_blank">Famine confirmed in Gaza City is &#x27;failure of humanity&#x27;, UN chief says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-22 16:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/22/nx-s1-5511334/joe-gruters-elected-new-rnc-chairman-michael-whatley" target="_blank">Joe Gruters, a Trump ally, elected new head of Republican National Committee</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-22 16:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/john-bolton-11-gty-gmh-250822_1755868509912_hpMain_4x3t_384.jpg" alt="FBI searching former Trump adviser John Bolton&#x27;s home and office" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/fbi-searching-john-boltons-home-sources/story?id=124874729" target="_blank">FBI searching former Trump adviser John Bolton&#x27;s home and office</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-22 15:56</span>
             </div>
         </div>
 </div>
@@ -169,6 +173,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgod0npmk54twlr1znl6r.png" alt="SQL Joins Explained - INNER, LEFT, RIGHT, FULL" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/roxana_haidiner/sql-joins-explained-inner-left-right-full-1ofc" target="_blank">SQL Joins Explained - INNER, LEFT, RIGHT, FULL</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-22 19:31</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,15 +217,6 @@
                 <span class="time">2025-08-22 16:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/08/22/robots-in-the-skies-and-they-use-transformer-models/" target="_blank">Robots in the skies (and they use Transformer models)</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-08-22 16:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/IMG_9248-1.jpg" alt="This Fanmade KPop Demon Hunters Lego Recreation Is So Good It Could Be Official" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/kpop-demon-hunters-lego-spider-verse-trailer-scene-2000619565" target="_blank">This Fanmade KPop Demon Hunters Lego Recreation Is So Good It Could Be Official</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-22 19:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/yotsuba-kawai.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="UK vs 4chan: can one country&#x27;s laws control the global internet?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/22/uk-vs-4chan-can-one-countrys-laws-control-the-global-internet.html" target="_blank">UK vs 4chan: can one country&#x27;s laws control the global internet?</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-22 19:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/star-wars-visions-volume-3-poster-release-date.jpg" alt="‘Star Wars: Visions’ Returns This October" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +290,6 @@
                 <span class="time">2025-08-22 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/06/shutterstock_1017125719-scaled.jpg?fit=2560%2C1707&amp;quality=60&amp;ssl=1" alt="Rosie the tarantula is finally being relieved of her meet-and-greet duties" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/22/rosie-the-tarantula-is-finally-being-relieved-of-her-meet-and-greet-duties.html" target="_blank">Rosie the tarantula is finally being relieved of her meet-and-greet duties</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-22 16:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Ninja-Turtles-2-Secret-of-the-Ooze.jpg" alt="The Teenage Mutant Ninja Turtles Are Returning to the Big Screen Next Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/tmnt-2-secret-of-the-ooze-screenings-release-date-2000646859" target="_blank">The Teenage Mutant Ninja Turtles Are Returning to the Big Screen Next Year</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-22 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,6 +314,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/coastline_similarity.png" alt="Coastline Similarity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3132/" target="_blank">Coastline Similarity</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-08-22 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5641.png" alt="A Total Unknown" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -323,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 297 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 299 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
