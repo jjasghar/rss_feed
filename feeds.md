@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-22 10:01:50 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-22 11:01:20 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, August 22, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, August 22, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/gaza-2-rt-gmh-250821_1755782591559_hpMain_4x3t_384.jpg" alt="Famine determined in parts of Gaza, 500,000 experiencing &#x27;catastrophic&#x27; hunger" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/famine-determined-parts-gaza-500000-experiencing-catastrophic-hunger/story?id=124843218" target="_blank">Famine determined in parts of Gaza, 500,000 experiencing &#x27;catastrophic&#x27; hunger</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-22 10:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250822-gaza-famine-rs-45e328.jpg" alt="Famine declared in Gaza City as Israel vows to open &#x27;gates of hell&#x27; on besieged area" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +100,29 @@
                 <span class="time">2025-08-22 05:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Alligator-Alcatraz-1-abc-gmh-250808_1754682719743_hpMain_4x3t_384.jpg" alt="Judge blocks transfers to &#x27;Alligator Alcatraz,&#x27; effectively winding down operations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/judge-blocks-transfer-new-detainees-alligator-alcatraz/story?id=124868357" target="_blank">Judge blocks transfers to &#x27;Alligator Alcatraz,&#x27; effectively winding down operations</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-22 05:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68a7e6fc367cb19dec8c624f/master/pass/What%20Is%20Down%20Alternative,%20and%20Who%20Should%20Buy%20It_.png" alt="What Is Down Alternative and Who Should Buy It? Experts Explain (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/what-is-down-alternative/" target="_blank">What Is Down Alternative and Who Should Buy It? Experts Explain (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-22 10:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/Samsung-1-500x500-1755637834.jpg" alt="Samsung’s “Micro RGB” TV proves the value of RGB backlights for premium displays" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/08/samsungs-micro-rgb-tv-proves-the-value-of-rgb-backlights-for-premium-displays/" target="_blank">Samsung’s “Micro RGB” TV proves the value of RGB backlights for premium displays</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-22 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,24 +159,6 @@
                 <span class="time">2025-08-22 00:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2202764189-500x500.jpg" alt="Deeply divided Supreme Court lets NIH grant terminations continue" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/08/deeply-divided-supreme-court-lets-nih-grant-terminations-continue/" target="_blank">Deeply divided Supreme Court lets NIH grant terminations continue</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-21 23:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/21/anduril-blue-origin-to-study-how-to-transport-cargo-from-orbit-to-earth-for-the-pentagon/" target="_blank">Anduril, Blue Origin to study how to transport cargo from orbit to Earth for the Pentagon</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-21 22:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -169,6 +171,15 @@
                 <span class="title"><a href="https://about.gitlab.com/blog/blog-post-slug/" target="_blank">The GitLab documentation site gets a major design overhaul</a></span>
                 <span class="feed">GitLab</span>
                 <span class="time">2025-08-25 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9bzwdwhmqr33cc5ev92o.gif" alt="AI Fluency: Build Smarter Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/eleftheriabatsou/ai-fluency-build-smarter-code-1oa2" target="_blank">AI Fluency: Build Smarter Code</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-22 10:41</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +216,6 @@
                 <span class="title"><a href="https://itsfoss.com/no-logs-vpn-linux/" target="_blank">VPNs With &quot;No Logging Policy&quot; You Can Use on Linux</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2025-08-22 06:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4ocuui0mb5sy7n7ec60d.png" alt="How We Crushed Traditional Dev Teams: The Spotify Model That Boosted Our Velocity 89%" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/teamcamp/how-we-crushed-traditional-dev-teams-the-spotify-model-that-boosted-our-velocity-89-4ojb" target="_blank">How We Crushed Traditional Dev Teams: The Spotify Model That Boosted Our Velocity 89%</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-22 04:49</span>
             </div>
         </div>
 </div>
@@ -326,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 294 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
