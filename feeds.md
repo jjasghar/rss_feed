@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-22 12:02:05 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-08-22 13:09:14 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, August 22, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, August 22, 2025 - 13:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +49,15 @@
                 <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/russian-fm-lavrov-says-no-putin-zelenskyy-meeting-is-planned-despite-wh-claims-245555781984" target="_blank">Russian FM Lavrov says no Putin-Zelenskyy meeting is planned, despite WH claims</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-08-22 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/22/g-s1-84522/up-first-newsletter-famine-gaza-israel-jeffrey-epstein-jan-6-riot-doj" target="_blank">U.N.-backed panel confirms famine in Gaza. And, DOJ to send Congress some Epstein docs</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-22 10:32</span>
             </div>
         </div>
 <div class="story">
@@ -89,20 +96,20 @@
                 <span class="time">2025-08-22 07:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30a9/live/f82cf250-7f03-11f0-83cc-c5da98c419b8.jpg" alt="Gaza City will be razed if Hamas does not agree our terms, Israel minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c754kknw2g2o?at_medium=RSS&at_campaign=rss" target="_blank">Gaza City will be razed if Hamas does not agree our terms, Israel minister says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-22 07:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68a7dd2bbf41e25b4e61b077/master/pass/Review-%20Rad%20Power%20Bikes%20RadRunner%20Max.png" alt="Rad Power Bikes RadRunner Max Review: Faster and Safer Than Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/rad-power-bikes-radrunner-max/" target="_blank">Rad Power Bikes RadRunner Max Review: Faster and Safer Than Ever</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-22 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +153,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/08/21/openai-announces-new-delhi-office-as-it-expands-footprint-in-india/" target="_blank">OpenAI announces New Delhi office as it expands footprint in India</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-08-22 06:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" alt="Paramount Plus Coupon Codes and Deals: Up to 50% Off in August" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/paramount-plus-coupon-code/" target="_blank">Paramount Plus Coupon Codes and Deals: Up to 50% Off in August</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-22 05:00</span>
             </div>
         </div>
 </div>
@@ -236,6 +234,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01J593J9HDSJKYEMV57Q64FSQ7/hero-image.jpg" alt="The 30 Best Movies on Hulu Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/best-movies-on-hulu?utm_medium=RSS" target="_blank">The 30 Best Movies on Hulu Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-22 12:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/trumphone.jpg?fit=2400%2C1430&amp;quality=60&amp;ssl=1" alt="Latest design for Trump Phone is a crudely-photoshopped Samsung Galaxy S25 Ultra in a Spigen case" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -280,15 +287,6 @@
                 <span class="time">2025-08-21 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K378W4X5ETNDD2K1HBNMM096/hero-image.jpg" alt="The Pixel 10 Has an AI-Powered &#x27;Camera Coach&#x27; That I Actually Liked" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/pixel-10-ai-camera-coach?utm_medium=RSS" target="_blank">The Pixel 10 Has an AI-Powered &#x27;Camera Coach&#x27; That I Actually Liked</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-21 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 297 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 296 |
+        🔄 Last Updated: 13:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
