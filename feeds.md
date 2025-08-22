@@ -1,32 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-08-22 00:04:38 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-22 01:28:59 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, August 22, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, August 22, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,10 +42,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/21/judgement-day-for-former-thai-pm-thaksin-shinawatra-in-royal-defamation-case?traffic_source=rss" target="_blank">Verdict due for Thailand’s ex-PM Thaksin Shinawatra in royal insult case</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-21 23:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/08/21/nx-s1-5510039/kennedy-center-dance-programming" target="_blank">Kennedy Center terminates dance programming team</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-21 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250821-california-state-assembly-w-638p-d9ed58.jpg" alt="California lawmakers move to counter Texas GOP with Democratic redistricting maps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/elections/california-legislators-pass-redistricting-plans-put-democratic-drawn-m-rcna226276" target="_blank">California lawmakers move to counter Texas GOP with Democratic redistricting maps</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-21 22:25</span>
             </div>
         </div>
 <div class="story">
@@ -78,29 +93,20 @@
                 <span class="time">2025-08-21 20:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/21/anger-in-uk-after-stone-cross-disassembled-to-create-star-of-david?traffic_source=rss" target="_blank">Anger in UK after stone cross disassembled to create Star of David</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-21 20:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/national-guard-02-gty-jef-250821_1755778060127_hpMain_4x3t_384.jpg" alt="Trump says he will patrol DC with police, military Thursday night, eyes more cities" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-police-military-patrol-dc-thursday-night/story?id=124853091" target="_blank">Trump says he will patrol DC with police, military Thursday night, eyes more cities</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-21 19:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/netflix/763821/netflix-splinter-cell-deathwatch-release-date-trailer" target="_blank">Netflix’s new Splinter Cell animated series kicks off in October</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-22 00:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2202764189-500x500.jpg" alt="Deeply divided Supreme Court lets NIH grant terminations continue" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,15 +152,6 @@
                 <span class="time">2025-08-21 20:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1155895603-500x500.jpg" alt="Americans’ junk-filled garages are hurting EV adoption, study says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/08/junk-filled-garages-hurt-ev-sales-as-people-dont-have-room-for-chargers/" target="_blank">Americans’ junk-filled garages are hurting EV adoption, study says</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-21 19:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +164,15 @@
                 <span class="title"><a href="https://about.gitlab.com/blog/blog-post-slug/" target="_blank">The GitLab documentation site gets a major design overhaul</a></span>
                 <span class="feed">GitLab</span>
                 <span class="time">2025-08-25 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-august-22-2025-red-hat" target="_blank">Friday Five — August 22, 2025</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2025-08-22 00:00</span>
             </div>
         </div>
 <div class="story">
@@ -203,15 +209,6 @@
                 <span class="title"><a href="https://dzone.com/articles/greenplum-vs-apache-doris-mpp-analytics-comparison" target="_blank">Greenplum vs Apache Doris: Features, Performance, and Advantages Compared</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-08-21 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foc8h7h2zphpkhh3vdat1.png" alt="Ghost 6 IS Really Something Else!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alifar/ghost-6-is-really-something-else-46jj" target="_blank">Ghost 6 IS Really Something Else!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-21 19:50</span>
             </div>
         </div>
 </div>
@@ -310,22 +307,13 @@
                 <span class="time">2025-08-21 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5640.png" alt="Yet Another New Character" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5640" target="_blank">Yet Another New Character</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-08-21 00:34</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
