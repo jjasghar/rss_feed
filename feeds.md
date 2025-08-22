@@ -1,29 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-22 01:28:59 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2025-08-22 02:29:43 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, August 22, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, August 22, 2025 - 02:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755828463719_now_staytuned_menendez_parole_250821_1920x1080-c10z8u.jpg" alt="Erik Menendez denied parole in California" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/erik-menendez-denied-parole-in-california-245542469919" target="_blank">Erik Menendez denied parole in California</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-22 02:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,15 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/21/g-s1-84441/supreme-court-nih-grants" target="_blank">Supreme Court allows NIH to stop making nearly $800M in research grants for now</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-21 21:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92f4/live/7dc7bd50-7ec3-11f0-83cc-c5da98c419b8.jpg" alt="Israel will begin talks to free all hostages, Netanyahu says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c754kknw2g2o?at_medium=RSS&at_campaign=rss" target="_blank">Israel will begin talks to free all hostages, Netanyahu says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-21 20:41</span>
             </div>
         </div>
 </div>
@@ -169,6 +175,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/youtube_golf/no-laying-up-podcast-lpga-check-in-megha-ganne-nlu-pod-ep-1060-4697" target="_blank">No Laying Up Podcast: LPGA Check-In + Megha Ganne | NLU Pod, Ep 1060</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-22 02:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-hat-cowboy"></span>
                 <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-august-22-2025-red-hat" target="_blank">Friday Five — August 22, 2025</a></span>
                 <span class="feed">Red Hat Blog</span>
@@ -202,15 +217,6 @@
                 <span class="time">2025-08-21 20:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18570414&w=600" alt="Greenplum vs Apache Doris: Features, Performance, and Advantages Compared" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/greenplum-vs-apache-doris-mpp-analytics-comparison" target="_blank">Greenplum vs Apache Doris: Features, Performance, and Advantages Compared</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-21 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -223,15 +229,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/jim-sanborn-is-auctioning-off-the-solution-to-part-four-of-the-kryptos-sculpture.html" target="_blank">Jim Sanborn Is Auctioning Off the Solution to Part Four of the Kryptos Sculpture</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2025-08-21 11:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/08/sim-swapper-scattered-spider-hacker-gets-10-years/" target="_blank">SIM-Swapper, Scattered Spider Hacker Gets 10 Years</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-08-21 01:47</span>
             </div>
         </div>
 </div>
@@ -312,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 02:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
