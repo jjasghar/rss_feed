@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-22 21:01:43 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-22 22:01:43 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, August 22, 2025 - 21:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, August 22, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755895825073_now_mtp_clip_maxwell_250822_1920x1080-n3ieon.jpg" alt="Ghislaine Maxwell says she ‘never witnessed’ Trump in any inappropriate setting in DOJ tapes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/ghislaine-maxwell-says-she-never-witnessed-trump-in-any-inappropriate-setting-in-doj-tapes-245603397597" target="_blank">Ghislaine Maxwell says she ‘never witnessed’ Trump in any inappropriate setting in DOJ tapes</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-22 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/08/22/g-s1-84600/famine-is-declared-in-gaza-what-does-it-take-to-make-this-pronouncement" target="_blank">Famine is declared in Gaza: What does it take to make this pronouncement?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-22 20:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/epstein_1752533587709_hpMain_4x3t_384.jpg" alt="Maxwell provided DOJ no incriminating info about Epstein associates, transcript shows" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,29 +98,29 @@
                 <span class="time">2025-08-22 19:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/22/canada-to-ease-most-retaliatory-tariffs-against-united-states?traffic_source=rss" target="_blank">Canada to ease most retaliatory tariffs against United States</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-22 18:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/22/nx-s1-5511357/canada-carney-tariffs-us" target="_blank">Canada removes some of its retaliatory tariffs on the U.S.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-22 18:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/764480/intel-donald-trump-lip-bu-tan-deal" target="_blank">US government takes 10 percent stake in Intel in exchange for money it was already on the hook for</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-22 21:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/22/meta-partners-with-midjourney-on-ai-image-and-video-models/" target="_blank">Meta partners with Midjourney on AI image and video models</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-22 21:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +155,6 @@
                 <span class="title"><a href="https://www.wired.com/story/acer-cx15-deal/" target="_blank">The Best Big Screen Chromebook Is On Sale Now</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-08-22 17:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/f9_otv8_launch1-500x500.jpg" alt="SpaceX, Boeing team up for another flight of the military’s X-37B spaceplane" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/08/spacex-boeing-team-up-for-another-flight-of-the-militarys-x-37b-spaceplane/" target="_blank">SpaceX, Boeing team up for another flight of the military’s X-37B spaceplane</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-22 17:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/22/y-combinator-says-apples-app-store-has-hindered-startup-growth/" target="_blank">Y Combinator says Apple’s App Store has hindered startup growth</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-22 17:00</span>
             </div>
         </div>
 </div>
@@ -339,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 298 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 295 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
