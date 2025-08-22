@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-22 16:01:51 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-22 17:01:42 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Generated 13 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, August 22, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, August 22, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +51,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4735/live/b138f6a0-7f35-11f0-b7ed-0b17109072b5.jpg" alt="Famine confirmed in Gaza City is &#x27;failure of humanity&#x27;, UN chief says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c05ed5rgld3o?at_medium=RSS&at_campaign=rss" target="_blank">Famine confirmed in Gaza City is &#x27;failure of humanity&#x27;, UN chief says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-22 16:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/22/nx-s1-5511334/joe-gruters-elected-new-rnc-chairman-michael-whatley" target="_blank">Joe Gruters, a Trump ally, elected new head of Republican National Committee</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-22 16:51</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/john-bolton-11-gty-gmh-250822_1755868509912_hpMain_4x3t_384.jpg" alt="FBI searching former Trump adviser John Bolton&#x27;s home and office" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/US/fbi-searching-john-boltons-home-sources/story?id=124874729" target="_blank">FBI searching former Trump adviser John Bolton&#x27;s home and office</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-22 15:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-stream/2025/8/22/why-is-there-a-rift-in-the-us-republican-party?traffic_source=rss" target="_blank">Why is there a rift in the US Republican Party?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-22 15:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/22/court-case-challenging-eswatini-us-immigrant-deportation-deal-postponed" target="_blank">Eswatini government faces court challenge over men deported by US</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-08-22 15:02</span>
             </div>
         </div>
 <div class="story">
@@ -66,47 +104,29 @@
                 <span class="time">2025-08-22 14:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/22/at-least-52-killed-in-gaza-as-israel-escalates-attacks-on-gaza-city?traffic_source=rss" target="_blank">At least 52 killed in Gaza as Israel escalates attacks on Gaza City</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-22 14:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/032a/live/93384dd0-7f4f-11f0-ace8-c7fe3706c172.jpg" alt="Home Office seeks to appeal against court ruling on Epping asylum hotel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy5p2ye95z9o?at_medium=RSS&at_campaign=rss" target="_blank">Home Office seeks to appeal against court ruling on Epping asylum hotel</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-22 14:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07e8/live/ea78a8e0-7f51-11f0-aa13-61c4f67c93c8.jpg" alt="&#x27;My youngest child doesn&#x27;t know what fruit tastes like&#x27;: Gaza residents on famine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cz602wvjv7lo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;My youngest child doesn&#x27;t know what fruit tastes like&#x27;: Gaza residents on famine</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-22 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/22/court-case-challenging-eswatini-us-immigrant-deportation-deal-postponed" target="_blank">Court challenge to US-Eswatini deportation deal postponed</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-08-22 13:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/22/y-combinator-says-apples-app-store-has-hindered-startup-growth/" target="_blank">Y Combinator says Apple’s App Store has hindered startup growth</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-22 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/detergent-scared-of-x-500x500-1755877959.jpg" alt="Is it illegal to not buy ads on X? Experts explain the FTC’s bizarre ad fight." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/08/is-it-illegal-to-not-buy-ads-on-x-experts-explain-the-ftcs-bizarre-ad-fight/" target="_blank">Is it illegal to not buy ads on X? Experts explain the FTC’s bizarre ad fight.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-22 16:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,24 +163,6 @@
                 <span class="time">2025-08-22 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/apps/763689/digg-mobile-ios-android-app-relaunch" target="_blank">Digg’s new app is basic, but a great start</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-22 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/Gy5mgr3XsAAs79t-500x500.jpg" alt="Rocket Report: Pivotal Starship test on tap, Firefly wants to be big in Japan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/08/rocket-report-pivotal-starship-test-on-tap-firefly-wants-to-be-big-in-japan/" target="_blank">Rocket Report: Pivotal Starship test on tap, Firefly wants to be big in Japan</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-22 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +175,33 @@
                 <span class="title"><a href="https://about.gitlab.com/blog/blog-post-slug/" target="_blank">The GitLab documentation site gets a major design overhaul</a></span>
                 <span class="feed">GitLab</span>
                 <span class="time">2025-08-25 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/building-your-first-mcp-server-how-to-extend-ai-tools-with-custom-capabilities/" target="_blank">Building your first MCP server: How to extend AI tools with custom capabilities</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-08-22 16:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F1%2Fd908a186-5651-4a5a-9f76-15200bc6801f.jpg" alt="New Demo Videos from the n8n and Bright Data Teams for the Real-Time AI Agents Challenge!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devteam/new-demo-videos-from-the-n8n-and-bright-data-teams-for-the-real-time-ai-agents-challenge-3of3" target="_blank">New Demo Videos from the n8n and Bright Data Teams for the Real-Time AI Agents Challenge!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-22 16:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/08/22/robots-in-the-skies-and-they-use-transformer-models/" target="_blank">Robots in the skies (and they use Transformer models)</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-08-22 16:41</span>
             </div>
         </div>
 <div class="story">
@@ -191,33 +220,6 @@
                 <span class="title"><a href="https://dzone.com/articles/behavior-driven-development-deep-dive" target="_blank">A Deep Dive into Behavior-Driven Development</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-08-22 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3224358%2F7f675c78-6aa0-466a-a5a7-c3e35440d53a.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ben/-3poc" target="_blank">[Boost]</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-22 14:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.thunderbird.net/2025/08/tbpro-august-2025-update/" target="_blank">Thunderbird Pro August 2025 Update</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-22 14:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.3-More-GL-Mesh-Shaders" target="_blank">Mesa 25.3 Lands More Changes To Prepare For OpenGL Mesh Shaders</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-22 14:08</span>
             </div>
         </div>
 </div>
@@ -239,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/06/shutterstock_1017125719-scaled.jpg?fit=2560%2C1707&amp;quality=60&amp;ssl=1" alt="Rosie the tarantula is finally being relieved of her meet-and-greet duties" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/22/rosie-the-tarantula-is-finally-being-relieved-of-her-meet-and-greet-duties.html" target="_blank">Rosie the tarantula is finally being relieved of her meet-and-greet duties</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-22 16:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Ninja-Turtles-2-Secret-of-the-Ooze.jpg" alt="The Teenage Mutant Ninja Turtles Are Returning to the Big Screen Next Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/tmnt-2-secret-of-the-ooze-screenings-release-date-2000646859" target="_blank">The Teenage Mutant Ninja Turtles Are Returning to the Big Screen Next Year</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-22 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/snakeactionshot3.jpg" alt="Solid Snake’s Voice Actor Is Glad To Be Back, But Wishes He Got A Do-Over In Snake Eater Remake" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,29 +295,20 @@
                 <span class="time">2025-08-22 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/HOVERAirAQUA_water02.jpg" alt="This $1,000 Drone Is Built for the High Seas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/this-1000-drone-is-built-for-the-high-seas-2000646776" target="_blank">This $1,000 Drone Is Built for the High Seas</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-22 13:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Historical-Commonwealth-Bank-in-Newtown_2C-Austral.jpg?fit=1080%2C714&amp;quality=60&amp;ssl=1" alt="Australian bank rehires workers replaced by AI after &quot;lying&quot; about chatbot success" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/22/australian-bank-rehires-workers-replaced-by-ai-after-lying-about-chatbot-success.html" target="_blank">Australian bank rehires workers replaced by AI after &quot;lying&quot; about chatbot success</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-22 12:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1755733914-20250822.png" alt="Saturday Morning Breakfast Cereal - Super" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/super" target="_blank">Saturday Morning Breakfast Cereal - Super</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-08-22 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -321,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 295 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 296 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
