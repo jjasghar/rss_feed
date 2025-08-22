@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-21 23:01:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-22 00:04:38 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, August 21, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, August 22, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/21/nx-s1-5510039/kennedy-center-dance-programming" target="_blank">Kennedy Center terminates dance programming team</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-21 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-5-gty-gmh-250821_1755813112349_hpMain_4x3t_384.jpg" alt="Trump joins police, military in DC as he pushes deployments in more cities" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +96,29 @@
                 <span class="time">2025-08-21 19:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/21/netanyahu-says-ready-for-negotiations-as-gaza-city-takeover-advances?traffic_source=rss" target="_blank">Netanyahu says ready for negotiations as Gaza City takeover advances</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-21 18:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2202764189-500x500.jpg" alt="Deeply divided Supreme Court lets NIH grant terminations continue" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/08/deeply-divided-supreme-court-lets-nih-grant-terminations-continue/" target="_blank">Deeply divided Supreme Court lets NIH grant terminations continue</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-21 23:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/21/anduril-blue-origin-to-study-how-to-transport-cargo-from-orbit-to-earth-for-the-pentagon/" target="_blank">Anduril, Blue Origin to study how to transport cargo from orbit to Earth for the Pentagon</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-21 22:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2198353376-scaled-500x500-1739457503.jpg" alt="Is the AI bubble about to pop? Sam Altman is prepared either way." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,24 +153,6 @@
                 <span class="title"><a href="https://arstechnica.com/cars/2025/08/junk-filled-garages-hurt-ev-sales-as-people-dont-have-room-for-chargers/" target="_blank">Americans’ junk-filled garages are hurting EV adoption, study says</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-08-21 19:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/763778/google-canceled-tablet-no-smart-ring-or-flip-phone-glasses" target="_blank">Google reveals it isn&amp;#8217;t making tablets, smart rings, flip phones, or glasses (yet)</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-21 19:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a76e0bd0e0dcb3f05e562c/master/pass/THPS%203+4%20-%202.png" alt="Take $15 Off ‘Tony Hawk’s Pro Skater 3+4’ Remasters Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/tony-hawks-pro-skater-remasters-deal/" target="_blank">Take $15 Off ‘Tony Hawk’s Pro Skater 3+4’ Remasters Right Now</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-21 19:13</span>
             </div>
         </div>
 </div>
@@ -254,6 +252,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K378W4X5ETNDD2K1HBNMM096/hero-image.jpg" alt="The Pixel 10 Has an AI-Powered &#x27;Camera Coach&#x27; That I Actually Liked" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/pixel-10-ai-camera-coach?utm_medium=RSS" target="_blank">The Pixel 10 Has an AI-Powered &#x27;Camera Coach&#x27; That I Actually Liked</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-21 22:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/ncuti-gatwa-doctor-who.jpg" alt="BBC Boss Promises ‘Doctor Who’ Will Carry On—With or Without Disney" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -272,30 +279,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/shutterstock_2660241847.jpg?fit=800%2C1200&amp;quality=60&amp;ssl=1" alt="The Norden bombsight was no good" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/21/the-norden-bombsight-was-no-good.html" target="_blank">The Norden bombsight was no good</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-21 21:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Headway-Premium.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Just 15 minutes a day keeps the dumb away when you have this app" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2025/08/21/just-15-minutes-a-day-keeps-the-dumb-away-when-you-have-this-app.html" target="_blank">Just 15 minutes a day keeps the dumb away when you have this app</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-21 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/crbn.jpg" alt="The New Cracker Barrel Logo Sucks And So Does The Mess Around It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/new-cracker-barrel-logo-woke-trump-cooperate-greed-2000619204" target="_blank">The New Cracker Barrel Logo Sucks And So Does The Mess Around It</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-21 20:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/falcon-9-launch-x-37b.jpeg" alt="Watch Live: SpaceX Launches Space Force’s X-37B Spaceplane on New Military Test Mission" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/watch-live-spacex-launches-space-forces-x-37b-spaceplane-on-new-military-test-mission-2000646337" target="_blank">Watch Live: SpaceX Launches Space Force’s X-37B Spaceplane on New Military Test Mission</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-21 19:45</span>
             </div>
         </div>
 </div>
@@ -326,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
