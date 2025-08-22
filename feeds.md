@@ -1,34 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-08-22 05:01:39 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-08-22 06:01:52 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Hacker News -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, August 22, 2025 - 05:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, August 22, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +53,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/22/ukraines-zelenskyy-rules-out-china-as-security-guarantor-in-any-peace-deal?traffic_source=rss" target="_blank">Ukraine’s Zelenskyy rules out China as security guarantor in any peace deal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-22 05:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +107,29 @@
                 <span class="time">2025-08-22 02:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3266/live/c33b5cc0-7ea0-11f0-a34f-318be3fb0481.jpg" alt="Baby food firms told to cut sugar and stop promoting snacks for under-ones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgpld8p9rqo?at_medium=RSS&at_campaign=rss" target="_blank">Baby food firms told to cut sugar and stop promoting snacks for under-ones</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-21 23:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" alt="Paramount Plus Coupon Codes and Deals: Up to 50% Off in August" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/paramount-plus-coupon-code/" target="_blank">Paramount Plus Coupon Codes and Deals: Up to 50% Off in August</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-22 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/21/openai-lawyers-question-metas-role-in-elon-musks-97b-takeover-bid/" target="_blank">OpenAI lawyers question Meta’s role in Elon Musk’s $97B takeover bid</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-22 00:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,24 +166,6 @@
                 <span class="time">2025-08-21 22:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a34ed5a7b1e72a7de4e291/master/pass/culture_johnwick_GettyImages-1146739180.jpg" alt="The 40 Best Movies on Hulu This Week (August 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-movies-hulu-right-now/" target="_blank">The 40 Best Movies on Hulu This Week (August 2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-21 21:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/763928/nfl-microsoft-copilot-surface-ai" target="_blank">Microsoft&amp;#8217;s new NFL deal could let you blame Copilot AI for terrible playcalls</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-21 20:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -178,6 +187,15 @@
                 <span class="title"><a href="https://dev.to/teamcamp/how-we-crushed-traditional-dev-teams-the-spotify-model-that-boosted-our-velocity-89-4ojb" target="_blank">How We Crushed Traditional Dev Teams: The Spotify Model That Boosted Our Velocity 89%</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-22 04:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html" target="_blank">Io_uring, kTLS and Rust for zero syscall HTTPS server</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-22 03:51</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +223,6 @@
                 <span class="title"><a href="https://dev.to/youtube_golf/no-laying-up-podcast-lpga-check-in-megha-ganne-nlu-pod-ep-1060-4697" target="_blank">No Laying Up Podcast: LPGA Check-In + Megha Ganne | NLU Pod, Ep 1060</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-22 02:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-august-22-2025-red-hat" target="_blank">Friday Five — August 22, 2025</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2025-08-22 00:00</span>
             </div>
         </div>
 </div>
@@ -317,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 05:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
