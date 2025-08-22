@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-22 17:01:42 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-22 18:01:51 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 32 feeds processed -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, August 22, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, August 22, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/22/fbi-raids-home-and-office-of-ex-trump-official-john-bolton?traffic_source=rss" target="_blank">FBI raids home and office of ex-Trump official John Bolton</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-22 17:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4735/live/b138f6a0-7f35-11f0-b7ed-0b17109072b5.jpg" alt="Famine confirmed in Gaza City is &#x27;failure of humanity&#x27;, UN chief says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,20 +98,29 @@
                 <span class="time">2025-08-22 15:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250722-jerome-powell-cs-0c0bb4.jpg" alt="Jerome Powell signals potential rate cut in speech highlighting precarious job market" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/economy/trump-jerome-powell-federal-reserve-chair-removal-rcna201703" target="_blank">Jerome Powell signals potential rate cut in speech highlighting precarious job market</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-22 14:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/686300b641c00b9b16cba26f/master/pass/Asus%20Chromebook%20CX15%20Luke%20Larsen.png" alt="The Best Big Screen Chromebook Is On Sale Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/acer-cx15-deal/" target="_blank">The Best Big Screen Chromebook Is On Sale Now</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-22 17:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/f9_otv8_launch1-500x500.jpg" alt="SpaceX, Boeing team up for another flight of the military’s X-37B spaceplane" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/08/spacex-boeing-team-up-for-another-flight-of-the-militarys-x-37b-spaceplane/" target="_blank">SpaceX, Boeing team up for another flight of the military’s X-37B spaceplane</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-22 17:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -130,37 +142,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/764316/beats-studio-buds-plus-hoto-flashlight-lite-deal-sale" target="_blank">The translucent Beats Studio Buds Plus are half off</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-22 16:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/08/22/yc-backed-oway-raises-4m-to-build-a-decentralized-uber-for-freight/" target="_blank">YC-backed Oway raises $4M to build a decentralized ‘Uber for freight’</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-08-22 15:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/764346/hollow-knight-silksong-indie-game-delays-cloverpit-faeland-aeterna-lucis" target="_blank">Silksong is out soon, and indie games are getting out of the way</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-22 15:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/22/x-pulls-the-ability-to-like-and-follow-from-its-developer-apis-free-tier/" target="_blank">X pulls the ability to like and follow from its developer API’s free tier</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-22 14:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a7dd2bbf41e25b4e61b077/master/pass/Review-%20Rad%20Power%20Bikes%20RadRunner%20Max.png" alt="Rad Power Bikes RadRunner Max Review: Faster and Safer Than Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/rad-power-bikes-radrunner-max/" target="_blank">Rad Power Bikes RadRunner Max Review: Faster and Safer Than Ever</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-22 13:00</span>
             </div>
         </div>
 </div>
@@ -175,6 +169,15 @@
                 <span class="title"><a href="https://about.gitlab.com/blog/blog-post-slug/" target="_blank">The GitLab documentation site gets a major design overhaul</a></span>
                 <span class="feed">GitLab</span>
                 <span class="time">2025-08-25 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ben/test-test-test-3dag" target="_blank">test test test</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-22 17:33</span>
             </div>
         </div>
 <div class="story">
@@ -213,15 +216,6 @@
                 <span class="time">2025-08-22 15:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18571998&w=600" alt="A Deep Dive into Behavior-Driven Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/behavior-driven-development-deep-dive" target="_blank">A Deep Dive into Behavior-Driven Development</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-22 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +235,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/5wR8sPpyBr5ezBTdMgsGi6.jpg" alt="Peacemaker Season 2 Officially Removes Zack Snyder’s Justice League From The DCU" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/peacemaker-season-2-justice-league-gang-scene-reshoot-2000619550" target="_blank">Peacemaker Season 2 Officially Removes Zack Snyder’s Justice League From The DCU</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-22 17:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2018/03/bolton.jpg?fit=1499%2C903&amp;quality=60&amp;ssl=1" alt="Former war hawk gets a taste of his own jackboots" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/22/former-war-hawk-gets-a-taste-of-his-own-jackboots.html" target="_blank">Former war hawk gets a taste of his own jackboots</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-22 17:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K398K7H6Q888WJVM8W9ZFA5M/hero-image.png" alt="The Three Best Focus Timer Apps to Limit Distractions While You Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-focus-timer-apps?utm_medium=RSS" target="_blank">The Three Best Focus Timer Apps to Limit Distractions While You Work</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-22 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/06/shutterstock_1017125719-scaled.jpg?fit=2560%2C1707&amp;quality=60&amp;ssl=1" alt="Rosie the tarantula is finally being relieved of her meet-and-greet duties" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,33 +287,6 @@
                 <span class="title"><a href="https://kotaku.com/metal-gear-solid-delta-snake-eater-david-hayter-voice-2000619544" target="_blank">Solid Snake’s Voice Actor Is Glad To Be Back, But Wishes He Got A Do-Over In Snake Eater Remake</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-22 15:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/morning-checkpoint.jpg" alt="One Game Has Already Been Delayed To Avoid Silksong‘s September Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/silksong-september-launch-delay-avoid-fortnite-ashley-cod-black-ops-7-2000619529" target="_blank">One Game Has Already Been Delayed To Avoid Silksong‘s September Launch</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-22 14:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/googlespeaker.jpg" alt="Google’s Next Smart Speaker Is All About AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/googles-next-smart-speaker-is-all-about-ai-2000646775" target="_blank">Google’s Next Smart Speaker Is All About AI</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-22 14:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K3775YTJ6TMH8E0NNZV3A57X/hero-image.jpg" alt="Eight Myths About Ticks You Should Ignore" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/biggest-tick-myths-to-ignore?utm_medium=RSS" target="_blank">Eight Myths About Ticks You Should Ignore</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-22 14:00</span>
             </div>
         </div>
 </div>
@@ -332,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 296 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 298 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
