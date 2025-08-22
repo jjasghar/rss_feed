@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-22 11:01:20 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-08-22 12:02:05 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, August 22, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, August 22, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/Untitled_design-xvfaix.jpg" alt="Russian FM Lavrov says no Putin-Zelenskyy meeting is planned, despite WH claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/russian-fm-lavrov-says-no-putin-zelenskyy-meeting-is-planned-despite-wh-claims-245555781984" target="_blank">Russian FM Lavrov says no Putin-Zelenskyy meeting is planned, despite WH claims</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-22 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/gaza-2-rt-gmh-250821_1755782591559_hpMain_4x3t_384.jpg" alt="Famine determined in parts of Gaza, 500,000 experiencing &#x27;catastrophic&#x27; hunger" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +98,29 @@
                 <span class="time">2025-08-22 07:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/22/ukraines-zelenskyy-rules-out-china-as-security-guarantor-in-any-peace-deal?traffic_source=rss" target="_blank">Ukraine’s Zelenskyy rules out China as security guarantor in any peace deal</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-22 05:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/apps/763689/digg-mobile-ios-android-app-relaunch" target="_blank">Digg’s new app is basic, but a great start</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-22 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68a600485e8133e9180a1a99/master/pass/focus-friend-cul.jpg" alt="This Extremely Cute Bean Wants to Help You Stop Doomscrolling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/this-extremely-cute-bean-wants-to-help-you-stop-doomscrolling/" target="_blank">This Extremely Cute Bean Wants to Help You Stop Doomscrolling</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-22 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68a7e6fc367cb19dec8c624f/master/pass/What%20Is%20Down%20Alternative,%20and%20Who%20Should%20Buy%20It_.png" alt="What Is Down Alternative and Who Should Buy It? Experts Explain (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,24 +157,6 @@
                 <span class="time">2025-08-22 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/21/openai-lawyers-question-metas-role-in-elon-musks-97b-takeover-bid/" target="_blank">OpenAI lawyers question Meta’s role in Elon Musk’s $97B takeover bid</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-22 00:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/netflix/763821/netflix-splinter-cell-deathwatch-release-date-trailer" target="_blank">Netflix’s new Splinter Cell animated series kicks off in October</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-22 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +169,15 @@
                 <span class="title"><a href="https://about.gitlab.com/blog/blog-post-slug/" target="_blank">The GitLab documentation site gets a major design overhaul</a></span>
                 <span class="feed">GitLab</span>
                 <span class="time">2025-08-25 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffx7bq0cqgjzypccql4hp.png" alt="Part-20: 🚀 Google Cloud Compute Engine – Install &amp; Verify Ops Agent for Logging and Monitoring in Google Cloud Platform (GCP)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/latchudevops/part-20-google-cloud-compute-engine-install-verify-ops-agent-for-logging-and-monitoring-in-1ao8" target="_blank">Part-20: 🚀 Google Cloud Compute Engine – Install &amp; Verify Ops Agent for Logging and Monitoring in Google Cloud Platform (GCP)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-22 11:56</span>
             </div>
         </div>
 <div class="story">
@@ -209,15 +216,6 @@
                 <span class="time">2025-08-22 08:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/no-logs-vpn-linux/" target="_blank">VPNs With &quot;No Logging Policy&quot; You Can Use on Linux</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-08-22 06:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -227,9 +225,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/jim-sanborn-is-auctioning-off-the-solution-to-part-four-of-the-kryptos-sculpture.html" target="_blank">Jim Sanborn Is Auctioning Off the Solution to Part Four of the Kryptos Sculpture</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/ai-agents-need-data-integrity.html" target="_blank">AI Agents Need Data Integrity</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2025-08-21 11:02</span>
+                <span class="time">2025-08-22 11:04</span>
             </div>
         </div>
 </div>
@@ -237,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/trumphone.jpg?fit=2400%2C1430&amp;quality=60&amp;ssl=1" alt="Latest design for Trump Phone is a crudely-photoshopped Samsung Galaxy S25 Ultra in a Spigen case" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/22/latest-design-for-trump-phone-is-a-crudely-photoshopped-samsung-galaxy-s25-ultra-in-a-spigen-case.html" target="_blank">Latest design for Trump Phone is a crudely-photoshopped Samsung Galaxy S25 Ultra in a Spigen case</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-22 11:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/DELTA-comp.jpg" alt="Here’s How Metal Gear Solid 3′s Remake Gameplay Compares To Metal Gear Solid 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +289,6 @@
                 <span class="time">2025-08-21 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/ncuti-gatwa-doctor-who.jpg" alt="BBC Boss Promises ‘Doctor Who’ Will Carry On—With or Without Disney" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/doctor-who-future-bbc-boss-disney-deal-2000646368" target="_blank">BBC Boss Promises ‘Doctor Who’ Will Carry On—With or Without Disney</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-21 21:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 294 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 297 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
