@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-22 20:01:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-22 21:01:43 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, August 22, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, August 22, 2025 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +55,15 @@
                 <span class="title"><a href="https://abcnews.go.com/US/ghislaine-maxwell-provided-no-incriminating-information-meetings-deputy-ag/story?id=124894271" target="_blank">Maxwell provided DOJ no incriminating info about Epstein associates, transcript shows</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-22 19:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755891662948_now_daily_b_maxwell_transcript_250822_1920x1080-3xnnkp.jpg" alt="Ghislaine Maxwell interview transcripts released by Justice Department" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/ghislaine-maxwell-interview-transcripts-released-by-justice-department-245595205909" target="_blank">Ghislaine Maxwell interview transcripts released by Justice Department</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-22 19:41</span>
             </div>
         </div>
 <div class="story">
@@ -90,20 +102,29 @@
                 <span class="time">2025-08-22 18:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/22/fbi-raids-home-and-office-of-ex-trump-official-john-bolton?traffic_source=rss" target="_blank">FBI raids home and office of ex-Trump official John Bolton</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-22 17:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/22/bluesky-blocks-service-in-mississippi-over-age-assurance-law/" target="_blank">Bluesky blocks service in Mississippi over age assurance law</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-22 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2230318424-500x500.jpg" alt="Trump says US will take 10% stake in Intel because CEO wants to “keep his job”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/08/intel-agrees-to-sell-the-us-a-10-stake-trump-says-hyping-great-deal/" target="_blank">Trump says US will take 10% stake in Intel because CEO wants to “keep his job”</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-22 20:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,24 +161,6 @@
                 <span class="time">2025-08-22 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/detergent-scared-of-x-500x500-1755877959.jpg" alt="Is it illegal to not buy ads on X? Experts explain the FTC’s bizarre ad fight." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/08/is-it-illegal-to-not-buy-ads-on-x-experts-explain-the-ftcs-bizarre-ad-fight/" target="_blank">Is it illegal to not buy ads on X? Experts explain the FTC’s bizarre ad fight.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-22 16:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/764316/beats-studio-buds-plus-hoto-flashlight-lite-deal-sale" target="_blank">The translucent Beats Studio Buds Plus are half off</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-22 16:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +176,33 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/OpenZFS_2.4-rc1-Released" target="_blank">OpenZFS 2.4-rc1 Brings Linux 6.16 Compatibility, Better Encryption Performance With AVX2</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-22 20:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/maker_youtube/3d-printing-nerd-3d-printing-the-worlds-largest-transparent-ltt-screwdriver-243m" target="_blank">3D Printing Nerd: 3D Printing the WORLDS LARGEST Transparent LTT Screwdriver!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-22 20:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18573149&w=600" alt="Certificate Authorities: The Keystone of Digital Trust" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/certificate-authorities-trust-transparency" target="_blank">Certificate Authorities: The Keystone of Digital Trust</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-22 20:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgod0npmk54twlr1znl6r.png" alt="SQL Joins Explained - INNER, LEFT, RIGHT, FULL" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -184,37 +214,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ben/test-test-test-3dag" target="_blank">test test test</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-22 17:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html" target="_blank">Waymo granted permit to begin testing in New York City</a></span>
+                <span class="title"><a href="https://git.vuxu.org/nitro/about/" target="_blank">Nitro: A tiny but flexible init system and process supervisor</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2025-08-22 17:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/building-your-first-mcp-server-how-to-extend-ai-tools-with-custom-capabilities/" target="_blank">Building your first MCP server: How to extend AI tools with custom capabilities</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-08-22 16:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F1%2Fd908a186-5651-4a5a-9f76-15200bc6801f.jpg" alt="New Demo Videos from the n8n and Bright Data Teams for the Real-Time AI Agents Challenge!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devteam/new-demo-videos-from-the-n8n-and-bright-data-teams-for-the-real-time-ai-agents-challenge-3of3" target="_blank">New Demo Videos from the n8n and Bright Data Teams for the Real-Time AI Agents Challenge!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-22 16:42</span>
+                <span class="time">2025-08-22 19:06</span>
             </div>
         </div>
 </div>
@@ -236,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/KWG82225.jpg" alt="Kotaku’s Weekend Guide: 4 Great Games We Can’t Wait To Get Back To" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/kotaku-games-to-play-pacman-silent-hill-hollow-void-2000619570" target="_blank">Kotaku’s Weekend Guide: 4 Great Games We Can’t Wait To Get Back To</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-22 20:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/05/brain.jpeg?fit=1500%2C1125&amp;quality=60&amp;ssl=1" alt="Scientists discover protein that turns young brains old" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/22/scientists-discover-protein-that-turns-young-brains-old.html" target="_blank">Scientists discover protein that turns young brains old</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-22 19:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/IMG_9248-1.jpg" alt="This Fanmade KPop Demon Hunters Lego Recreation Is So Good It Could Be Official" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +291,6 @@
                 <span class="title"><a href="https://kotaku.com/peacemaker-season-2-justice-league-gang-scene-reshoot-2000619550" target="_blank">Peacemaker Season 2 Officially Removes Zack Snyder’s Justice League From The DCU</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-22 17:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2018/03/bolton.jpg?fit=1499%2C903&amp;quality=60&amp;ssl=1" alt="Former war hawk gets a taste of his own jackboots" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/22/former-war-hawk-gets-a-taste-of-his-own-jackboots.html" target="_blank">Former war hawk gets a taste of his own jackboots</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-22 17:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K398K7H6Q888WJVM8W9ZFA5M/hero-image.png" alt="The Three Best Focus Timer Apps to Limit Distractions While You Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-focus-timer-apps?utm_medium=RSS" target="_blank">The Three Best Focus Timer Apps to Limit Distractions While You Work</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-22 17:00</span>
             </div>
         </div>
 </div>
@@ -336,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 299 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 298 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
