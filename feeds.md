@@ -1,35 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-08-22 02:29:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-22 03:18:05 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, August 22, 2025 - 02:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, August 22, 2025 - 03:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Alligator-Alcatraz-1-abc-gmh-250808_1754682719743_hpMain_4x3t_384.jpg" alt="Judge blocks transfer of new detainees to Alligator Alcatraz" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/judge-blocks-transfer-new-detainees-alligator-alcatraz/story?id=124868357" target="_blank">Judge blocks transfer of new detainees to Alligator Alcatraz</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-22 02:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/8/22/behind-indias-massive-russian-oil-imports-asias-richest-man?traffic_source=rss" target="_blank">Behind India’s massive Russian oil imports: Asia’s richest man</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-22 02:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755828463719_now_staytuned_menendez_parole_250821_1920x1080-c10z8u.jpg" alt="Erik Menendez denied parole in California" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,24 +93,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/elections/california-legislators-pass-redistricting-plans-put-democratic-drawn-m-rcna226276" target="_blank">California lawmakers move to counter Texas GOP with Democratic redistricting maps</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-08-21 22:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-5-gty-gmh-250821_1755813112349_hpMain_4x3t_384.jpg" alt="Trump joins police, military in DC as he pushes deployments in more cities" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-police-military-patrol-dc-thursday-night/story?id=124853091" target="_blank">Trump joins police, military in DC as he pushes deployments in more cities</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-21 22:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/21/g-s1-84441/supreme-court-nih-grants" target="_blank">Supreme Court allows NIH to stop making nearly $800M in research grants for now</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-21 21:41</span>
             </div>
         </div>
 </div>
@@ -176,6 +172,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yash_sonawane25/aws-interview-series-top-questions-with-simple-answers-3l39" target="_blank">AWS Interview Series: Top Questions with Simple Answers ✅</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-22 03:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/youtube_golf/no-laying-up-podcast-lpga-check-in-megha-ganne-nlu-pod-ep-1060-4697" target="_blank">No Laying Up Podcast: LPGA Check-In + Megha Ganne | NLU Pod, Ep 1060</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-22 02:05</span>
@@ -206,15 +211,6 @@
                 <span class="title"><a href="https://dev.to/gg_news/ign-hollow-knight-silksong-release-date-trailer-reaction-livestream-gamescom-2025-56fo" target="_blank">IGN: Hollow Knight: Silksong Release Date Trailer Reaction Livestream | gamescom 2025</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-21 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Apple-Silicon-USB3-RFC" target="_blank">Linux Kernel Patches Posted For Enabling USB3 Support On Apple M1 / M2</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-21 20:38</span>
             </div>
         </div>
 </div>
@@ -309,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 02:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 03:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
