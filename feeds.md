@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-22 07:01:53 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing 54 RSS feeds at 2025-08-22 08:01:59 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, August 22, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, August 22, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/22/drone-attack-destroys-un-aid-convoy-in-sudans-famine-hit-darfur-region?traffic_source=rss" target="_blank">Drone attack destroys UN aid convoy in Sudan’s famine-hit Darfur region</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-22 07:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30a9/live/f82cf250-7f03-11f0-83cc-c5da98c419b8.jpg" alt="Gaza City will be razed if Hamas does not agree our terms, Israel minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c754kknw2g2o?at_medium=RSS&at_campaign=rss" target="_blank">Gaza City will be razed if Hamas does not agree our terms, Israel minister says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-22 07:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/22/north-koreas-kim-jong-un-hails-troops-killed-in-heroic-war-with-ukraine?traffic_source=rss" target="_blank">North Korea’s Kim Jong Un hails troops killed in ‘heroic’ war with Ukraine</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-22 03:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Alligator-Alcatraz-1-abc-gmh-250808_1754682719743_hpMain_4x3t_384.jpg" alt="Judge blocks transfer of new detainees to Alligator Alcatraz" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/judge-blocks-transfer-new-detainees-alligator-alcatraz/story?id=124868357" target="_blank">Judge blocks transfer of new detainees to Alligator Alcatraz</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-22 02:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/8/22/behind-indias-massive-russian-oil-imports-asias-richest-man?traffic_source=rss" target="_blank">Behind India’s massive Russian oil imports: Asia’s richest man</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-22 02:40</span>
             </div>
         </div>
 </div>
@@ -171,6 +171,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/ign-metal-gear-solid-delta-snake-eater-review-32h5" target="_blank">IGN: Metal Gear Solid Delta: Snake Eater Review</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-22 08:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4ocuui0mb5sy7n7ec60d.png" alt="How We Crushed Traditional Dev Teams: The Spotify Model That Boosted Our Velocity 89%" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,15 +215,6 @@
                 <span class="time">2025-08-22 02:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/youtube_golf/no-laying-up-podcast-lpga-check-in-megha-ganne-nlu-pod-ep-1060-4697" target="_blank">No Laying Up Podcast: LPGA Check-In + Megha Ganne | NLU Pod, Ep 1060</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-22 02:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/DELTA-comp.jpg" alt="Here’s How Metal Gear Solid 3′s Remake Gameplay Compares To Metal Gear Solid 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/snake-eater-delta-remake-mgsv-5-comparison-vs-2000619209" target="_blank">Here’s How Metal Gear Solid 3′s Remake Gameplay Compares To Metal Gear Solid 5</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-22 07:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/REVIEW-MAIN.jpg" alt="Metal Gear Solid Delta: Snake Eater: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +288,6 @@
                 <span class="time">2025-08-21 21:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K375AG00T13MASFE20VEV46C/hero-image.jpg" alt="The New Pixel Camera&#x27;s &#x27;100x Zoom&#x27; Is Basically Fancy Generative AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/googles-new-100x-zoom-made-by-google-2025?utm_medium=RSS" target="_blank">The New Pixel Camera&#x27;s &#x27;100x Zoom&#x27; Is Basically Fancy Generative AI</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-21 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 293 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
