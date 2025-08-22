@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-22 08:01:59 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-22 09:01:54 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, August 22, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, August 22, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/22/five-bodies-recovered-at-suspected-site-of-cult-deaths-in-kenya?traffic_source=rss" target="_blank">Five bodies recovered at suspected site of cult deaths in Kenya</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-22 07:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/22/nx-s1-5510620/florida-alligator-alcatraz-immigration-ruling" target="_blank">Florida must stop expanding &#x27;Alligator Alcatraz&#x27; immigration center, judge says</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-22 04:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/22/north-koreas-kim-jong-un-hails-troops-killed-in-heroic-war-with-ukraine?traffic_source=rss" target="_blank">North Korea’s Kim Jong Un hails troops killed in ‘heroic’ war with Ukraine</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-22 03:57</span>
             </div>
         </div>
 </div>
@@ -174,6 +177,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/martin_call/capitalization-is-not-a-scoreboard-lessons-from-whitebits-ceo-197a" target="_blank">Capitalization is not a scoreboard: lessons from WhiteBIT’s CEO</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-22 08:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gg_news/ign-metal-gear-solid-delta-snake-eater-review-32h5" target="_blank">IGN: Metal Gear Solid Delta: Snake Eater Review</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-22 08:00</span>
@@ -204,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/yash_sonawane25/aws-interview-series-top-questions-with-simple-answers-3l39" target="_blank">AWS Interview Series: Top Questions with Simple Answers ✅</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-22 03:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/java-25-so-far/en/headerimage/java-istock-image-01-1755791624601.jpg" alt="JDK 25 and JDK 26: What We Know So Far" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/java-25-so-far/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">JDK 25 and JDK 26: What We Know So Far</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-22 02:30</span>
             </div>
         </div>
 </div>
@@ -294,6 +297,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/08/22/sharp-commentary" target="_blank">Sharp Commentary</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-08-22 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5641.png" alt="A Total Unknown" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -316,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 293 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 291 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
