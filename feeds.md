@@ -1,43 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-22 06:01:52 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-22 07:01:53 UTC -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 34 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, August 22, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, August 22, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -60,6 +50,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/22/ukraines-zelenskyy-rules-out-china-as-security-guarantor-in-any-peace-deal?traffic_source=rss" target="_blank">Ukraine’s Zelenskyy rules out China as security guarantor in any peace deal</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-22 05:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Alligator-Alcatraz-1-abc-gmh-250808_1754682719743_hpMain_4x3t_384.jpg" alt="Judge blocks transfers to &#x27;Alligator Alcatraz,&#x27; effectively winding down operations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/judge-blocks-transfer-new-detainees-alligator-alcatraz/story?id=124868357" target="_blank">Judge blocks transfers to &#x27;Alligator Alcatraz,&#x27; effectively winding down operations</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-22 05:43</span>
             </div>
         </div>
 <div class="story">
@@ -98,20 +97,20 @@
                 <span class="time">2025-08-22 02:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755828463719_now_staytuned_menendez_parole_250821_1920x1080-c10z8u.jpg" alt="Erik Menendez denied parole in California" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/erik-menendez-denied-parole-in-california-245542469919" target="_blank">Erik Menendez denied parole in California</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-22 02:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/21/openai-announces-new-delhi-office-as-it-expands-footprint-in-india/" target="_blank">OpenAI announces New Delhi office as it expands footprint in India</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-22 06:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" alt="Paramount Plus Coupon Codes and Deals: Up to 50% Off in August" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -155,15 +154,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/08/21/anduril-blue-origin-to-study-how-to-transport-cargo-from-orbit-to-earth-for-the-pentagon/" target="_blank">Anduril, Blue Origin to study how to transport cargo from orbit to Earth for the Pentagon</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-08-21 22:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2198353376-scaled-500x500-1739457503.jpg" alt="Is the AI bubble about to pop? Sam Altman is prepared either way." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/information-technology/2025/08/sam-altman-calls-ai-a-bubble-while-seeking-500b-valuation-for-openai/" target="_blank">Is the AI bubble about to pop? Sam Altman is prepared either way.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-21 22:06</span>
             </div>
         </div>
 </div>
@@ -245,6 +235,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/REVIEW-MAIN.jpg" alt="Metal Gear Solid Delta: Snake Eater: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/metal-gear-solid-snake-eater-delta-remake-2000619269" target="_blank">Metal Gear Solid Delta: Snake Eater: The Kotaku Review</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-22 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/August-2023-Maui-wildfires.jpg" alt="Two Years After Maui Burned, Researchers Reveal the Wildfire’s True Death Toll" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -289,15 +288,6 @@
                 <span class="time">2025-08-21 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/shutterstock_2660241847.jpg?fit=800%2C1200&amp;quality=60&amp;ssl=1" alt="The Norden bombsight was no good" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/21/the-norden-bombsight-was-no-good.html" target="_blank">The Norden bombsight was no good</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-21 21:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
