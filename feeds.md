@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-08-22 18:01:51 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-22 19:01:45 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, August 22, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, August 22, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/22/canada-to-ease-most-retaliatory-tariffs-against-united-states?traffic_source=rss" target="_blank">Canada to ease most retaliatory tariffs against United States</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-22 18:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/22/nx-s1-5511357/canada-carney-tariffs-us" target="_blank">Canada removes some of its retaliatory tariffs on the U.S.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-22 18:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +95,20 @@
                 <span class="time">2025-08-22 15:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-stream/2025/8/22/why-is-there-a-rift-in-the-us-republican-party?traffic_source=rss" target="_blank">Why is there a rift in the US Republican Party?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-22 15:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/22/court-case-challenging-eswatini-us-immigrant-deportation-deal-postponed" target="_blank">Eswatini government faces court challenge over men deported by US</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-08-22 15:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/764480/intel-donald-trump-lip-bu-tan-deal" target="_blank">Trump says the US is taking a 10 percent stake in Intel</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-22 18:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/686300b641c00b9b16cba26f/master/pass/Asus%20Chromebook%20CX15%20Luke%20Larsen.png" alt="The Best Big Screen Chromebook Is On Sale Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,15 +154,6 @@
                 <span class="time">2025-08-22 16:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/22/yc-backed-oway-raises-4m-to-build-a-decentralized-uber-for-freight/" target="_blank">YC-backed Oway raises $4M to build a decentralized ‘Uber for freight’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-22 15:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -178,6 +175,15 @@
                 <span class="title"><a href="https://dev.to/ben/test-test-test-3dag" target="_blank">test test test</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-22 17:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.cnbc.com/2025/08/22/waymo-permit-new-york-city-nyc-rides.html" target="_blank">Waymo granted permit to begin testing in New York City</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-22 17:02</span>
             </div>
         </div>
 <div class="story">
@@ -207,15 +213,6 @@
                 <span class="time">2025-08-22 16:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/scale_youtube/cncf-cloud-native-computing-foundation-cncf-on-demand-webinar-troubleshooting-kubernetes-with-3o7i" target="_blank">CNCF [Cloud Native Computing Foundation]: CNCF On demand webinar: Troubleshooting Kubernetes with confidence</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-22 15:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/star-wars-visions-volume-3-poster-release-date.jpg" alt="‘Star Wars: Visions’ Returns This October" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-wars-visions-volume-3-release-date-poster-lucasfilm-2000647012" target="_blank">‘Star Wars: Visions’ Returns This October</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-22 18:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/5wR8sPpyBr5ezBTdMgsGi6.jpg" alt="Peacemaker Season 2 Officially Removes Zack Snyder’s Justice League From The DCU" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +286,6 @@
                 <span class="time">2025-08-22 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/snakeactionshot3.jpg" alt="Solid Snake’s Voice Actor Is Glad To Be Back, But Wishes He Got A Do-Over In Snake Eater Remake" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/metal-gear-solid-delta-snake-eater-david-hayter-voice-2000619544" target="_blank">Solid Snake’s Voice Actor Is Glad To Be Back, But Wishes He Got A Do-Over In Snake Eater Remake</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-22 15:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 298 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 297 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
