@@ -1,32 +1,25 @@
-<!-- Processing 54 RSS feeds at 2025-08-22 13:09:14 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-08-22 14:01:38 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 17 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, August 22, 2025 - 13:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, August 22, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +35,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07e8/live/ea78a8e0-7f51-11f0-aa13-61c4f67c93c8.jpg" alt="&#x27;My youngest child doesn&#x27;t know what fruit tastes like&#x27;: Gaza residents on famine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cz602wvjv7lo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;My youngest child doesn&#x27;t know what fruit tastes like&#x27;: Gaza residents on famine</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-22 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/22/court-case-challenging-eswatini-us-immigrant-deportation-deal-postponed" target="_blank">Court case challenging Eswatini-US immigrant deportation deal postponed</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-08-22 13:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/22/what-has-led-to-a-famine-being-confirmed-in-gaza?traffic_source=rss" target="_blank">What has led to a famine being confirmed in Gaza?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-22 12:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/Untitled_design-xvfaix.jpg" alt="Russian FM Lavrov says no Putin-Zelenskyy meeting is planned, despite WH claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -67,33 +87,6 @@
                 <span class="title"><a href="https://abcnews.go.com/International/famine-determined-parts-gaza-500000-experiencing-catastrophic-hunger/story?id=124843218" target="_blank">Famine determined in parts of Gaza, 500,000 experiencing &#x27;catastrophic&#x27; hunger</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-22 10:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250822-gaza-famine-rs-45e328.jpg" alt="Famine declared in Gaza City as Israel vows to open &#x27;gates of hell&#x27; on besieged area" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/gaza/famine-declared-gaza-city-israel-military-takeover-hamas-ceasefire-rcna225776" target="_blank">Famine declared in Gaza City as Israel vows to open &#x27;gates of hell&#x27; on besieged area</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-22 09:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/22/five-bodies-recovered-at-suspected-site-of-cult-deaths-in-kenya?traffic_source=rss" target="_blank">Five bodies recovered at suspected site of cult deaths in Kenya</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-22 07:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/22/drone-attack-destroys-un-aid-convoy-in-sudans-famine-hit-darfur-region?traffic_source=rss" target="_blank">Drone attack destroys UN aid convoy in Sudan’s famine-hit Darfur region</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-22 07:28</span>
             </div>
         </div>
 </div>
@@ -170,6 +163,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj83vpxd59ckmq3cxd3rf.png" alt="Testing in a serverless environment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/testing-in-a-serverless-environment-31l4" target="_blank">Testing in a serverless environment</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-22 13:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffx7bq0cqgjzypccql4hp.png" alt="Part-20: 🚀 Google Cloud Compute Engine – Install &amp; Verify Ops Agent for Logging and Monitoring in Google Cloud Platform (GCP)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,15 +207,6 @@
                 <span class="time">2025-08-22 08:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-metal-gear-solid-delta-snake-eater-review-32h5" target="_blank">IGN: Metal Gear Solid Delta: Snake Eater Review</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-22 08:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +226,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/HOVERAirAQUA_water02.jpg" alt="This $1,000 Drone Is Built for the High Seas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/this-1000-drone-is-built-for-the-high-seas-2000646776" target="_blank">This $1,000 Drone Is Built for the High Seas</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-22 13:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Historical-Commonwealth-Bank-in-Newtown_2C-Austral.jpg?fit=1080%2C714&amp;quality=60&amp;ssl=1" alt="Australian bank rehires workers replaced by AI after &quot;lying&quot; about chatbot success" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/22/australian-bank-rehires-workers-replaced-by-ai-after-lying-about-chatbot-success.html" target="_blank">Australian bank rehires workers replaced by AI after &quot;lying&quot; about chatbot success</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-22 12:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01J593J9HDSJKYEMV57Q64FSQ7/hero-image.jpg" alt="The 30 Best Movies on Hulu Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,24 +278,6 @@
                 <span class="title"><a href="https://kotaku.com/metal-gear-solid-snake-eater-delta-remake-2000619269" target="_blank">Metal Gear Solid Delta: Snake Eater: The Kotaku Review</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-22 07:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/August-2023-Maui-wildfires.jpg" alt="Two Years After Maui Burned, Researchers Reveal the Wildfire’s True Death Toll" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/two-years-after-maui-burned-researchers-reveal-the-wildfires-true-death-toll-2000646402" target="_blank">Two Years After Maui Burned, Researchers Reveal the Wildfire’s True Death Toll</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-22 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Marvel-Legends-Deadpool.jpg" alt="The New Marvel Legends Maximum Series Deadpool Lives Up to Those Descriptors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-new-marvel-legends-maximum-series-deadpool-lives-up-to-those-descriptors-2000646467" target="_blank">The New Marvel Legends Maximum Series Deadpool Lives Up to Those Descriptors</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-21 22:30</span>
             </div>
         </div>
 </div>
@@ -324,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 296 |
-        🔄 Last Updated: 13:09 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 296 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
