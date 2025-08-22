@@ -1,30 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-22 04:01:55 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-22 05:01:39 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 22 feeds processed -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, August 22, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, August 22, 2025 - 05:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/22/nx-s1-5510620/florida-alligator-alcatraz-immigration-ruling" target="_blank">Florida must stop expanding &#x27;Alligator Alcatraz&#x27; immigration center, judge says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-22 04:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/22/north-koreas-kim-jong-un-hails-troops-killed-in-heroic-war-with-ukraine?traffic_source=rss" target="_blank">North Korea’s Kim Jong Un hails troops killed in ‘heroic’ war with Ukraine</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-22 03:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Alligator-Alcatraz-1-abc-gmh-250808_1754682719743_hpMain_4x3t_384.jpg" alt="Judge blocks transfer of new detainees to Alligator Alcatraz" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -68,30 +90,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3266/live/c33b5cc0-7ea0-11f0-a34f-318be3fb0481.jpg" alt="Baby food firms told to cut sugar and stop promoting snacks for under-ones" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/21/judgement-day-for-former-thai-pm-thaksin-shinawatra-in-royal-defamation-case?traffic_source=rss" target="_blank">Verdict due for Thailand’s ex-PM Thaksin Shinawatra in royal insult case</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-21 23:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/21/nx-s1-5510039/kennedy-center-dance-programming" target="_blank">Kennedy Center terminates dance programming team</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-21 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250821-california-state-assembly-w-638p-d9ed58.jpg" alt="California lawmakers move to counter Texas GOP with Democratic redistricting maps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/elections/california-legislators-pass-redistricting-plans-put-democratic-drawn-m-rcna226276" target="_blank">California lawmakers move to counter Texas GOP with Democratic redistricting maps</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-21 22:25</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgpld8p9rqo?at_medium=RSS&at_campaign=rss" target="_blank">Baby food firms told to cut sugar and stop promoting snacks for under-ones</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-21 23:42</span>
             </div>
         </div>
 </div>
@@ -168,12 +172,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4ocuui0mb5sy7n7ec60d.png" alt="How We Crushed Traditional Dev Teams: The Spotify Model That Boosted Our Velocity 89%" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/teamcamp/how-we-crushed-traditional-dev-teams-the-spotify-model-that-boosted-our-velocity-89-4ojb" target="_blank">How We Crushed Traditional Dev Teams: The Spotify Model That Boosted Our Velocity 89%</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-22 04:49</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/yash_sonawane25/aws-interview-series-top-questions-with-simple-answers-3l39" target="_blank">AWS Interview Series: Top Questions with Simple Answers ✅</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-22 03:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/08/java-25-so-far/en/headerimage/java-istock-image-01-1755791624601.jpg" alt="JDK 25 and JDK 26: What We Know So Far" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/java-25-so-far/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">JDK 25 and JDK 26: What We Know So Far</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-22 02:30</span>
             </div>
         </div>
 <div class="story">
@@ -192,24 +214,6 @@
                 <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-august-22-2025-red-hat" target="_blank">Friday Five — August 22, 2025</a></span>
                 <span class="feed">Red Hat Blog</span>
                 <span class="time">2025-08-22 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://ips-dc.org/report-executive-excess-2025/" target="_blank">CEO pay and stock buybacks have soared at the 100 largest low-wage corporations</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-21 22:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-hollow-knight-silksong-release-date-trailer-reaction-livestream-gamescom-2025-56fo" target="_blank">IGN: Hollow Knight: Silksong Release Date Trailer Reaction Livestream | gamescom 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-21 22:00</span>
             </div>
         </div>
 </div>
@@ -231,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/August-2023-Maui-wildfires.jpg" alt="Two Years After Maui Burned, Researchers Reveal the Wildfire’s True Death Toll" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/two-years-after-maui-burned-researchers-reveal-the-wildfires-true-death-toll-2000646402" target="_blank">Two Years After Maui Burned, Researchers Reveal the Wildfire’s True Death Toll</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-22 04:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Marvel-Legends-Deadpool.jpg" alt="The New Marvel Legends Maximum Series Deadpool Lives Up to Those Descriptors" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,20 +289,20 @@
                 <span class="time">2025-08-21 21:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Headway-Premium.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Just 15 minutes a day keeps the dumb away when you have this app" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/21/just-15-minutes-a-day-keeps-the-dumb-away-when-you-have-this-app.html" target="_blank">Just 15 minutes a day keeps the dumb away when you have this app</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-21 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5641.png" alt="A Total Unknown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5641" target="_blank">A Total Unknown</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-08-22 00:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1755560940-20250821.png" alt="Saturday Morning Breakfast Cereal - Medicine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -304,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 05:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
