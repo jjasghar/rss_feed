@@ -1,25 +1,46 @@
-<!-- Processing 54 RSS feeds at 2025-08-22 14:01:38 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-08-22 15:01:47 UTC -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 17 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 14 new posts out of 37 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, August 22, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, August 22, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,12 +57,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250722-jerome-powell-cs-0c0bb4.jpg" alt="Jerome Powell signals potential rate cut in speech highlighting precarious job market" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/economy/trump-jerome-powell-federal-reserve-chair-removal-rcna201703" target="_blank">Jerome Powell signals potential rate cut in speech highlighting precarious job market</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-22 14:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/22/at-least-52-killed-in-gaza-as-israel-escalates-attacks-on-gaza-city?traffic_source=rss" target="_blank">At least 52 killed in Gaza as Israel escalates attacks on Gaza City</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-22 14:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07e8/live/ea78a8e0-7f51-11f0-aa13-61c4f67c93c8.jpg" alt="&#x27;My youngest child doesn&#x27;t know what fruit tastes like&#x27;: Gaza residents on famine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cz602wvjv7lo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;My youngest child doesn&#x27;t know what fruit tastes like&#x27;: Gaza residents on famine</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-22 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/22/court-case-challenging-eswatini-us-immigrant-deportation-deal-postponed" target="_blank">Court challenge to US-Eswatini deportation deal postponed</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-08-22 13:37</span>
             </div>
         </div>
 <div class="story">
@@ -62,38 +110,20 @@
                 <span class="time">2025-08-22 12:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/Untitled_design-xvfaix.jpg" alt="Russian FM Lavrov says no Putin-Zelenskyy meeting is planned, despite WH claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/russian-fm-lavrov-says-no-putin-zelenskyy-meeting-is-planned-despite-wh-claims-245555781984" target="_blank">Russian FM Lavrov says no Putin-Zelenskyy meeting is planned, despite WH claims</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-22 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/22/g-s1-84522/up-first-newsletter-famine-gaza-israel-jeffrey-epstein-jan-6-riot-doj" target="_blank">U.N.-backed panel confirms famine in Gaza. And, DOJ to send Congress some Epstein docs</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-22 10:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/gaza-2-rt-gmh-250821_1755782591559_hpMain_4x3t_384.jpg" alt="Famine determined in parts of Gaza, 500,000 experiencing &#x27;catastrophic&#x27; hunger" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/famine-determined-parts-gaza-500000-experiencing-catastrophic-hunger/story?id=124843218" target="_blank">Famine determined in parts of Gaza, 500,000 experiencing &#x27;catastrophic&#x27; hunger</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-22 10:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/22/x-pulls-the-ability-to-like-and-follow-from-its-developer-apis-free-tier/" target="_blank">X pulls the ability to like and follow from its developer API’s free tier</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-22 14:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68a7dd2bbf41e25b4e61b077/master/pass/Review-%20Rad%20Power%20Bikes%20RadRunner%20Max.png" alt="Rad Power Bikes RadRunner Max Review: Faster and Safer Than Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,15 +169,6 @@
                 <span class="time">2025-08-22 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/21/openai-announces-new-delhi-office-as-it-expands-footprint-in-india/" target="_blank">OpenAI announces New Delhi office as it expands footprint in India</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-22 06:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -163,48 +184,48 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3224358%2F7f675c78-6aa0-466a-a5a7-c3e35440d53a.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ben/-3poc" target="_blank">[Boost]</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-22 14:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.thunderbird.net/2025/08/tbpro-august-2025-update/" target="_blank">Thunderbird Pro August 2025 Update</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-22 14:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.3-More-GL-Mesh-Shaders" target="_blank">Mesa 25.3 Lands More Changes To Prepare For OpenGL Mesh Shaders</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-22 14:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18570406&w=600" alt="Python Async/Sync: Advanced Blocking Detection and Best Practices (Part 2)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/python-asyncsync-advanced-blocking-detection-and-b" target="_blank">Python Async/Sync: Advanced Blocking Detection and Best Practices (Part 2)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-22 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj83vpxd59ckmq3cxd3rf.png" alt="Testing in a serverless environment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aws-builders/testing-in-a-serverless-environment-31l4" target="_blank">Testing in a serverless environment</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-22 13:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffx7bq0cqgjzypccql4hp.png" alt="Part-20: 🚀 Google Cloud Compute Engine – Install &amp; Verify Ops Agent for Logging and Monitoring in Google Cloud Platform (GCP)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/latchudevops/part-20-google-cloud-compute-engine-install-verify-ops-agent-for-logging-and-monitoring-in-1ao8" target="_blank">Part-20: 🚀 Google Cloud Compute Engine – Install &amp; Verify Ops Agent for Logging and Monitoring in Google Cloud Platform (GCP)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-22 11:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9bzwdwhmqr33cc5ev92o.gif" alt="AI Fluency: Build Smarter Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/eleftheriabatsou/ai-fluency-build-smarter-code-1oa2" target="_blank">AI Fluency: Build Smarter Code</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-22 10:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/ai-agents-development/en/mediumimage/hannah-foxwell-medium-1754468312460.jpg" alt="Presentation: Making AI Agents Work For You (and Your Team)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/ai-agents-development/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Making AI Agents Work For You (and Your Team)</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-22 09:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/martin_call/capitalization-is-not-a-scoreboard-lessons-from-whitebits-ceo-197a" target="_blank">Capitalization is not a scoreboard: lessons from WhiteBIT’s CEO</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-22 08:30</span>
             </div>
         </div>
 </div>
@@ -226,6 +247,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/morning-checkpoint.jpg" alt="One Game Has Already Been Delayed To Avoid Silksong‘s September Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/silksong-september-launch-delay-avoid-fortnite-ashley-cod-black-ops-7-2000619529" target="_blank">One Game Has Already Been Delayed To Avoid Silksong‘s September Launch</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-22 14:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/googlespeaker.jpg" alt="Google’s Next Smart Speaker Is All About AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/googles-next-smart-speaker-is-all-about-ai-2000646775" target="_blank">Google’s Next Smart Speaker Is All About AI</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-22 14:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K3775YTJ6TMH8E0NNZV3A57X/hero-image.jpg" alt="Eight Myths About Ticks You Should Ignore" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/biggest-tick-myths-to-ignore?utm_medium=RSS" target="_blank">Eight Myths About Ticks You Should Ignore</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-22 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/HOVERAirAQUA_water02.jpg" alt="This $1,000 Drone Is Built for the High Seas" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -251,33 +299,6 @@
                 <span class="title"><a href="https://lifehacker.com/entertainment/best-movies-on-hulu?utm_medium=RSS" target="_blank">The 30 Best Movies on Hulu Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-22 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/trumphone.jpg?fit=2400%2C1430&amp;quality=60&amp;ssl=1" alt="Latest design for Trump Phone is a crudely-photoshopped Samsung Galaxy S25 Ultra in a Spigen case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/22/latest-design-for-trump-phone-is-a-crudely-photoshopped-samsung-galaxy-s25-ultra-in-a-spigen-case.html" target="_blank">Latest design for Trump Phone is a crudely-photoshopped Samsung Galaxy S25 Ultra in a Spigen case</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-22 11:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/DELTA-comp.jpg" alt="Here’s How Metal Gear Solid 3′s Remake Gameplay Compares To Metal Gear Solid 5" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/snake-eater-delta-remake-mgsv-5-comparison-vs-2000619209" target="_blank">Here’s How Metal Gear Solid 3′s Remake Gameplay Compares To Metal Gear Solid 5</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-22 07:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/REVIEW-MAIN.jpg" alt="Metal Gear Solid Delta: Snake Eater: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/metal-gear-solid-snake-eater-delta-remake-2000619269" target="_blank">Metal Gear Solid Delta: Snake Eater: The Kotaku Review</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-22 07:01</span>
             </div>
         </div>
 </div>
@@ -317,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 296 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
