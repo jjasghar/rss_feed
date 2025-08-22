@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-22 09:01:54 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-22 10:01:50 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, August 22, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, August 22, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250822-gaza-famine-rs-45e328.jpg" alt="Famine declared in Gaza City as Israel vows to open &#x27;gates of hell&#x27; on besieged area" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/gaza/famine-declared-gaza-city-israel-military-takeover-hamas-ceasefire-rcna225776" target="_blank">Famine declared in Gaza City as Israel vows to open &#x27;gates of hell&#x27; on besieged area</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-22 09:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +96,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/judge-blocks-transfer-new-detainees-alligator-alcatraz/story?id=124868357" target="_blank">Judge blocks transfers to &#x27;Alligator Alcatraz,&#x27; effectively winding down operations</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-22 05:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/22/nx-s1-5510620/florida-alligator-alcatraz-immigration-ruling" target="_blank">Florida must stop expanding &#x27;Alligator Alcatraz&#x27; immigration center, judge says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-22 04:39</span>
             </div>
         </div>
 </div>
@@ -174,6 +172,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/presentations/ai-agents-development/en/mediumimage/hannah-foxwell-medium-1754468312460.jpg" alt="Presentation: Making AI Agents Work For You (and Your Team)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/ai-agents-development/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Making AI Agents Work For You (and Your Team)</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-22 09:33</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -192,30 +199,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/no-logs-vpn-linux/" target="_blank">VPNs With &quot;No Logging Policy&quot; You Can Use on Linux</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-08-22 06:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4ocuui0mb5sy7n7ec60d.png" alt="How We Crushed Traditional Dev Teams: The Spotify Model That Boosted Our Velocity 89%" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/teamcamp/how-we-crushed-traditional-dev-teams-the-spotify-model-that-boosted-our-velocity-89-4ojb" target="_blank">How We Crushed Traditional Dev Teams: The Spotify Model That Boosted Our Velocity 89%</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-22 04:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html" target="_blank">Io_uring, kTLS and Rust for zero syscall HTTPS server</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-22 03:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yash_sonawane25/aws-interview-series-top-questions-with-simple-answers-3l39" target="_blank">AWS Interview Series: Top Questions with Simple Answers ✅</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-22 03:10</span>
             </div>
         </div>
 </div>
@@ -328,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 291 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
