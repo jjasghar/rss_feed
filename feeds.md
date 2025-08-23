@@ -1,28 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-23 18:01:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-23 19:01:34 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 19 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, August 23, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, August 23, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,12 +49,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/23/oviedo-vs-real-madrid-la-liga-teams-start-lineups?traffic_source=rss" target="_blank">Oviedo vs Real Madrid: La Liga – teams, start, lineups</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-23 17:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128d/live/67d69950-8033-11f0-83cc-c5da98c419b8.jpg" alt="Asylum hotel protesters met by counter-demonstrators across UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce35pd9q2ldo?at_medium=RSS&at_campaign=rss" target="_blank">Asylum hotel protesters met by counter-demonstrators across UK</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-23 16:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/Kilmar-Abrego-Garcia-2-rt-gmh-250822_1755895718276_hpMain_4x3t_384.jpg" alt="Abrego Garcia coerced to take guilty plea or be deported to Uganda, his attorneys say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/US/abrego-garcias-attorneys-government-coerce-accept-guilty-plea/story?id=124916582" target="_blank">Abrego Garcia coerced to take guilty plea or be deported to Uganda, his attorneys say</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-23 16:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/abrego-c7w5ib.jpg" alt="Watch: Kilmar Abrego Garcia reunites with family after release from federal custody" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/kilmar-abrego-garcia-speaks-after-release-from-federal-custody-245645893557" target="_blank">Watch: Kilmar Abrego Garcia reunites with family after release from federal custody</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-23 15:43</span>
             </div>
         </div>
 <div class="story">
@@ -63,33 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/opinions/2025/8/23/this-is-what-happens-when-money-dies?traffic_source=rss" target="_blank">This is what happens when money dies</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-23 15:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250823-kilmar-abrego-garcia-mn-1045-dd3946.jpg" alt="Kilmar Abrego Garcia notified by ICE that he may be deported to Uganda" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/kilmar-abrego-garcia-may-be-deported-uganda-rcna226756" target="_blank">Kilmar Abrego Garcia notified by ICE that he may be deported to Uganda</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-23 14:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/ice-los-angeles-gty-jt-250823_1755954613565_hpMain_4x3t_384.jpg" alt="Trump blocked from withholding funding to 34 &#x27;sanctuary&#x27; cities and counties" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/judge-blocks-trump-admin-withholding-funding-34-cities/story?id=124912855" target="_blank">Trump blocked from withholding funding to 34 &#x27;sanctuary&#x27; cities and counties</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-23 14:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3a2/live/af7b5eb0-8012-11f0-83cc-c5da98c419b8.jpg" alt="Pentagon fires intelligence agency chief after Iran attack assessment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c2dj217z2w6o?at_medium=RSS&at_campaign=rss" target="_blank">Pentagon fires intelligence agency chief after Iran attack assessment</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-23 13:56</span>
             </div>
         </div>
 </div>
@@ -230,6 +240,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2022/04/db035252532bbc24f6d808a7fd7b6177.jpg" alt="‘It’s Not Going to Slow Down’: The Tech Stock Everyone Is Watching This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/nvidia-earnings-tech-drop-2000647269" target="_blank">‘It’s Not Going to Slow Down’: The Tech Stock Everyone Is Watching This Week</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-23 18:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/The-Batman-Robert-Pattinson.jpg" alt="Five Years Ago, ‘The Batman’ Made Its Brutal, Moody Debut" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -274,15 +293,6 @@
                 <span class="time">2025-08-22 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Internxt-Cloud-Storage-Lifetime-Subscription.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="This cloud storage might be the only one you can trust not to leak your shameful karaoke vids" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/22/this-cloud-storage-might-be-the-only-one-you-can-trust-not-to-leak-your-shameful-karaoke-vids.html" target="_blank">This cloud storage might be the only one you can trust not to leak your shameful karaoke vids</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-22 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
