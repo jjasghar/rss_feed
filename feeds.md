@@ -1,31 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-23 04:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-23 05:01:44 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Generated 1 new posts out of 23 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Saturday, August 23, 2025 - 04:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, August 23, 2025 - 05:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/23/g-s1-84863/judge-blocks-trump-from-cutting-funding-sanctuary-cities" target="_blank">Judge blocks Trump from cutting funding over &#x27;sanctuary&#x27; policies</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-23 04:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/23/foreign-nationals-among-5-killed-in-new-york-state-tour-bus-crash?traffic_source=rss" target="_blank">Foreign nationals among 5 killed in New York state tour bus crash</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-23 03:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/309e/live/e4740a20-7fba-11f0-9481-1fe1ca574d00.jpg" alt="Farage vows mass deportations to tackle small boats" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,24 +102,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/22/nx-s1-5511990/trump-d-c-arrests-poor-indicator-public-safety" target="_blank">As Trump touts D.C. arrests, experts caution they&#x27;re not the best indicator of public safety</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-22 23:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755904042355_nn_ggu_ghislaine_maxwell_audio_released_250822_1920x1080-34ylf1.jpg" alt="DOJ releases transcripts and audio from two days of interviews with Ghislaine Maxwell" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/doj-releases-transcripts-and-audio-from-two-days-of-interviews-with-ghislaine-maxwell-245620293831" target="_blank">DOJ releases transcripts and audio from two days of interviews with Ghislaine Maxwell</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-22 23:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Ghislaine-Maxwell-2-gty-gmh-250822_1755893799604_hpMain_4x3t_384.jpg" alt="Ghislaine Maxwell said she&#x27;s unaware of improper activity by Trump in DOJ interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/epstein-associate-ghislaine-maxwell-shes-aware-improper-activity/story?id=124900787" target="_blank">Ghislaine Maxwell said she&#x27;s unaware of improper activity by Trump in DOJ interview</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-22 21:00</span>
             </div>
         </div>
 </div>
@@ -171,6 +180,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://creao.ai/" target="_blank">Show HN: Creao – Vibe coding product for founders</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-23 01:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/GNOME-Glycin-Faster-JPEG-XL" target="_blank">GNOME&#x27;s Glycin Lands &quot;Dramatically Improved&quot; JPEG-XL Image Loading Performance</a></span>
                 <span class="feed">Phoronix</span>
@@ -202,15 +220,6 @@
                 <span class="title"><a href="https://dev.to/maker_youtube/3d-printing-nerd-3d-printing-the-worlds-largest-transparent-ltt-screwdriver-243m" target="_blank">3D Printing Nerd: 3D Printing the WORLDS LARGEST Transparent LTT Screwdriver!</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-22 20:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18573149&w=600" alt="Certificate Authorities: The Keystone of Digital Trust" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/certificate-authorities-trust-transparency" target="_blank">Certificate Authorities: The Keystone of Digital Trust</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-22 20:00</span>
             </div>
         </div>
 </div>
@@ -260,6 +269,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Internxt-Cloud-Storage-Lifetime-Subscription.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="This cloud storage might be the only one you can trust not to leak your shameful karaoke vids" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/22/this-cloud-storage-might-be-the-only-one-you-can-trust-not-to-leak-your-shameful-karaoke-vids.html" target="_blank">This cloud storage might be the only one you can trust not to leak your shameful karaoke vids</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-22 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/KWG82225.jpg" alt="Kotaku’s Weekend Guide: 4 Great Games We Can’t Wait To Get Back To" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -284,15 +302,6 @@
                 <span class="title"><a href="https://kotaku.com/kpop-demon-hunters-lego-spider-verse-trailer-scene-2000619565" target="_blank">This Fanmade KPop Demon Hunters Lego Recreation Is So Good It Could Be Official</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-22 19:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/yotsuba-kawai.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="UK vs 4chan: can one country&#x27;s laws control the global internet?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/22/uk-vs-4chan-can-one-countrys-laws-control-the-global-internet.html" target="_blank">UK vs 4chan: can one country&#x27;s laws control the global internet?</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-22 19:10</span>
             </div>
         </div>
 </div>
@@ -332,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 04:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 05:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
