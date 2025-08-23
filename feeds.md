@@ -1,40 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-23 00:04:22 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-23 01:28:50 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, August 23, 2025 - 00:04 UTC</div>
+    <div class="newspaper-date">Saturday, August 23, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -57,6 +55,15 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/doj-releases-transcripts-and-audio-from-two-days-of-interviews-with-ghislaine-maxwell-245620293831" target="_blank">DOJ releases transcripts and audio from two days of interviews with Ghislaine Maxwell</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-08-22 23:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Ghislaine-Maxwell-2-gty-gmh-250822_1755893799604_hpMain_4x3t_384.jpg" alt="Ghislaine Maxwell said she&#x27;s unaware of improper activity by Trump in DOJ interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/epstein-associate-ghislaine-maxwell-shes-aware-improper-activity/story?id=124900787" target="_blank">Ghislaine Maxwell said she&#x27;s unaware of improper activity by Trump in DOJ interview</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-22 21:00</span>
             </div>
         </div>
 <div class="story">
@@ -93,15 +100,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/now/video/ghislaine-maxwell-interview-transcripts-released-by-justice-department-245595205909" target="_blank">Ghislaine Maxwell interview transcripts released by Justice Department</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-08-22 19:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/22/nx-s1-5494553/epstein-maxwell-doj-interview-transcripts" target="_blank">Justice Department releases transcripts from its conversations with Ghislaine Maxwell</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-22 19:40</span>
             </div>
         </div>
 </div>
@@ -180,6 +178,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/scale_youtube/cncf-cloud-native-computing-foundation-chatloopbackoff-episode-68-kanister-3p3h" target="_blank">CNCF [Cloud Native Computing Foundation]: ChatLoopBackOff: Episode 68 (KANISTER)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-23 00:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/OpenZFS_2.4-rc1-Released" target="_blank">OpenZFS 2.4-rc1 Brings Linux 6.16 Compatibility, Better Encryption Performance With AVX2</a></span>
                 <span class="feed">Phoronix</span>
@@ -213,15 +220,6 @@
                 <span class="time">2025-08-22 19:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://git.vuxu.org/nitro/about/" target="_blank">Nitro: A tiny but flexible init system and process supervisor</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-22 19:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/trump-august-22-2025.jpg" alt="U.S. Government Now ‘Controls’ 10% of Intel, Trump Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/u-s-government-now-controls-10-of-intel-trump-says-2000647121" target="_blank">U.S. Government Now ‘Controls’ 10% of Intel, Trump Says</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-22 22:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K39Q1ZN4D9TNMP90FSM9QT6C/hero-image.jpg" alt="These Are the Best Deals on Video Games and Gaming Accessories This Labor Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +293,6 @@
                 <span class="time">2025-08-22 19:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/star-wars-visions-volume-3-poster-release-date.jpg" alt="‘Star Wars: Visions’ Returns This October" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-wars-visions-volume-3-release-date-poster-lucasfilm-2000647012" target="_blank">‘Star Wars: Visions’ Returns This October</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-22 18:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -336,22 +334,13 @@
                 <span class="time">2025-08-22 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5641.png" alt="A Total Unknown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5641" target="_blank">A Total Unknown</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-08-22 00:46</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 294 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 294 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
