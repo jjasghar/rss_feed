@@ -1,40 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-23 09:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-23 10:01:35 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 32 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, August 23, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, August 23, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/8/23/gaza-famine-is-netanyahus?traffic_source=rss" target="_blank">Gaza famine “is Netanyahu’s legacy”</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-23 09:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/23/nx-s1-5509554/rose-garden-paved" target="_blank">Trump makes over the Rose Garden, Mar-a-Lago style</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-23 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,24 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/23/a-new-indian-bill-punishes-jailed-politicians-why-has-it-sparked-outrage?traffic_source=rss" target="_blank">A new Indian bill punishes jailed politicians: Why has it sparked outrage?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-23 05:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/23/g-s1-84863/judge-blocks-trump-from-cutting-funding-sanctuary-cities" target="_blank">Judge blocks Trump from cutting funding over &#x27;sanctuary&#x27; policies</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-23 04:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/23/foreign-nationals-among-5-killed-in-new-york-state-tour-bus-crash?traffic_source=rss" target="_blank">Foreign nationals among 5 killed in New York state tour bus crash</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-23 03:45</span>
             </div>
         </div>
 </div>
@@ -178,48 +174,48 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/08/aws-budgets-cross-account/en/headerimage/generatedHeaderImage-1755695570786.jpg" alt="AWS Budgets Improves Cross-Account Cost Visibility" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/aws-budgets-cross-account/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Budgets Improves Cross-Account Cost Visibility</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-23 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aryan_shourie/git-hooks-automating-workflows-in-git-3bpo" target="_blank">Git Hooks: Automating Workflows in Git</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-23 09:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KDE-KISS-Initial-Setup-Wizard" target="_blank">KDE Plasma 6.5 Introducing &quot;KISS&quot; - An Initial System Setup Wizard</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-23 09:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://underlap.org/developers-block/" target="_blank">Developer&#x27;s block</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-23 09:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sagar/my-one-month-journey-with-the-cursor-editor-an-honest-review-idk" target="_blank">My One-Month Journey with the Cursor Editor: An Honest Review</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-23 08:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/" target="_blank">I&#x27;m too dumb for Zig&#x27;s new IO interface</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-23 06:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F457133%2Fec546c3a-b78e-4ca8-9109-eda39d4b6837.jpg" alt="Node Cmd Exe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dhanushnehru/node-cmd-exe-16i7" target="_blank">Node Cmd Exe</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-23 06:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/grudged/building-gitnarrative-how-i-parse-git-history-with-python-to-extract-development-patterns-52lm" target="_blank">Building GitNarrative: How I Parse Git History with Python to Extract Development Patterns</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-23 04:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://creao.ai/" target="_blank">Show HN: Creao – Vibe coding product for founders</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-23 01:41</span>
             </div>
         </div>
 </div>
@@ -332,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
