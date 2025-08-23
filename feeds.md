@@ -1,32 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-22 23:01:42 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-23 00:04:22 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, August 22, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, August 23, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755904042355_nn_ggu_ghislaine_maxwell_audio_released_250822_1920x1080-34ylf1.jpg" alt="DOJ releases transcripts and audio from two days of interviews with Ghislaine Maxwell" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/doj-releases-transcripts-and-audio-from-two-days-of-interviews-with-ghislaine-maxwell-245620293831" target="_blank">DOJ releases transcripts and audio from two days of interviews with Ghislaine Maxwell</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-22 23:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755895825073_now_mtp_clip_maxwell_250822_1920x1080-n3ieon.jpg" alt="Ghislaine Maxwell says she ‘never witnessed’ Trump in any inappropriate setting in DOJ tapes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,15 +104,6 @@
                 <span class="time">2025-08-22 19:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/22/hungary-slovakia-fear-oil-cuts-after-ukrainian-attack-on-russian-pipeline?traffic_source=rss" target="_blank">Hungary, Slovakia fear oil cuts after Ukrainian attack on Russian pipeline</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-22 19:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -117,6 +125,15 @@
                 <span class="title"><a href="https://www.theverge.com/news/764775/apple-watch-trade-secrets-oppo-lawsuit" target="_blank">Apple accuses former Apple Watch staffer of conspiring to steal trade secrets for Oppo</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-08-22 22:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68a8d5ae3be8cf1301ced0d1/master/pass/GettyImages-2195830737.jpg" alt="Bluesky Goes Dark in Mississippi Over Age Verification Law" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/bluesky-goes-dark-in-mississippi-age-verification/" target="_blank">Bluesky Goes Dark in Mississippi Over Age Verification Law</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-22 22:16</span>
             </div>
         </div>
 <div class="story">
@@ -144,15 +161,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/08/22/bluesky-blocks-service-in-mississippi-over-age-assurance-law/" target="_blank">Bluesky blocks service in Mississippi over age assurance law</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-08-22 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2230318424-500x500.jpg" alt="Trump says US will take 10% stake in Intel because CEO wants to “keep his job”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/08/intel-agrees-to-sell-the-us-a-10-stake-trump-says-hyping-great-deal/" target="_blank">Trump says US will take 10% stake in Intel because CEO wants to “keep his job”</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-22 20:14</span>
             </div>
         </div>
 </div>
@@ -293,6 +301,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/08/22/sharp-commentary" target="_blank">Sharp Commentary</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-08-22 20:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1755733914-20250822.png" alt="Saturday Morning Breakfast Cereal - Super" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -333,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 294 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
