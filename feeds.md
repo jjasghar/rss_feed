@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-23 15:01:22 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-23 16:01:39 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, August 23, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, August 23, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,12 +44,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/23/nx-s1-5513919/trump-stops-offshore-wind-renewable-energy" target="_blank">Trump administration halts work on an almost-finished wind farm</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-23 15:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250823-kilmar-abrego-garcia-mn-1045-dd3946.jpg" alt="Kilmar Abrego Garcia notified by ICE that he may be deported to Uganda" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/kilmar-abrego-garcia-may-be-deported-uganda-rcna226756" target="_blank">Kilmar Abrego Garcia notified by ICE that he may be deported to Uganda</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-23 14:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/ice-los-angeles-gty-jt-250823_1755954613565_hpMain_4x3t_384.jpg" alt="Trump blocked from withholding funding to 34 &#x27;sanctuary&#x27; cities and counties" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/US/judge-blocks-trump-admin-withholding-funding-34-cities/story?id=124912855" target="_blank">Trump blocked from withholding funding to 34 &#x27;sanctuary&#x27; cities and counties</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-23 14:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3a2/live/af7b5eb0-8012-11f0-83cc-c5da98c419b8.jpg" alt="Pentagon fires intelligence agency chief after Iran attack assessment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c2dj217z2w6o?at_medium=RSS&at_campaign=rss" target="_blank">Pentagon fires intelligence agency chief after Iran attack assessment</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-23 13:56</span>
             </div>
         </div>
 <div class="story">
@@ -74,33 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/23/japans-ishiba-hosts-south-koreas-lee-before-key-trump-summit?traffic_source=rss" target="_blank">Japan’s Ishiba hosts South Korea’s Lee before key Trump summit</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-23 11:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/08/23/g-s1-82257/photos-the-perilous-lives-of-artisanal-coal-miners" target="_blank">Photos: The perilous lives of &#x27;artisanal coal miners&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-23 10:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/8/23/gaza-famine-is-netanyahus?traffic_source=rss" target="_blank">Gaza famine “is Netanyahu’s legacy”</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-23 09:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/23/nx-s1-5509554/rose-garden-paved" target="_blank">Trump makes over the Rose Garden, Mar-a-Lago style</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-23 09:00</span>
             </div>
         </div>
 </div>
@@ -188,6 +182,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Swap-Table-Swap-Cache" target="_blank">Linux Primed For Significant Performance Gains With Kernel Swap Code Overhaul</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-23 13:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/codewithsimon/github-copilot-vs-chatgpt-which-one-should-developers-use-39e9" target="_blank">GitHub Copilot vs ChatGPT: Which One Should Developers Use?</a></span>
                 <span class="feed">DEV Community</span>
@@ -210,15 +213,6 @@
                 <span class="title"><a href="https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839" target="_blank">RFC 9839 and Bad Unicode</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-23 12:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lwn.net/Articles/1030818/" target="_blank">Rethinking the Linux cloud stack for confidential VMs</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-23 11:39</span>
             </div>
         </div>
 </div>
@@ -300,6 +294,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1755734022-20250823.png" alt="Saturday Morning Breakfast Cereal - Flux" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/flux" target="_blank">Saturday Morning Breakfast Cereal - Flux</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-08-23 15:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -308,22 +311,13 @@
                 <span class="time">2025-08-22 20:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1755733914-20250822.png" alt="Saturday Morning Breakfast Cereal - Super" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/super" target="_blank">Saturday Morning Breakfast Cereal - Super</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-08-22 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
