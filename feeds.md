@@ -1,40 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-23 14:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-23 15:01:22 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, August 23, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, August 23, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/ice-los-angeles-gty-jt-250823_1755954613565_hpMain_4x3t_384.jpg" alt="Trump blocked from withholding funding to 34 &#x27;sanctuary&#x27; cities and counties" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/judge-blocks-trump-admin-withholding-funding-34-cities/story?id=124912855" target="_blank">Trump blocked from withholding funding to 34 &#x27;sanctuary&#x27; cities and counties</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-23 14:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +103,20 @@
                 <span class="time">2025-08-23 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/23/texas-senate-approves-redrawn-congressional-map-favouring-republicans?traffic_source=rss" target="_blank">Texas Senate approves redrawn congressional map favouring Republicans</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-23 08:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68a91d240ff15a77d5c4a427/master/pass/Which%20GoPro%20Hero%20Camera%20Should%20You%20Buy_.png" alt="Best GoPro Camera (2025): Compact, Budget, Accessories" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-gopro-hero-camera/" target="_blank">Best GoPro Camera (2025): Compact, Budget, Accessories</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-23 14:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,15 +162,6 @@
                 <span class="time">2025-08-23 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/10/GettyImages_Burkholderia_CROPPED-500x500.jpeg" alt="Two men fell gravely ill last year; their infections link to deaths in the ’80s" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/08/two-men-fell-gravely-ill-last-year-their-infections-link-to-deaths-in-the-80s/" target="_blank">Two men fell gravely ill last year; their infections link to deaths in the ’80s</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-22 22:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +174,15 @@
                 <span class="title"><a href="https://about.gitlab.com/blog/blog-post-slug/" target="_blank">The GitLab documentation site gets a major design overhaul</a></span>
                 <span class="feed">GitLab</span>
                 <span class="time">2025-08-25 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/ign-metal-gear-solid-delta-12-biggest-changes-from-the-original-5d02" target="_blank">IGN: Metal Gear Solid Delta - 12 Biggest Changes From the Original</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-23 14:03</span>
             </div>
         </div>
 <div class="story">
@@ -199,27 +207,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lwn.net/Articles/1030818/" target="_blank">Rethinking the Linux cloud stack for confidential VMs</a></span>
+                <span class="title"><a href="https://www.tbray.org/ongoing/When/202x/2025/08/14/RFC9839" target="_blank">RFC 9839 and Bad Unicode</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2025-08-23 11:39</span>
+                <span class="time">2025-08-23 12:54</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ilsa_shaikh_089e2bfab0bf4/7-reactjs-hacks-every-beginner-dev-needs-to-know-no-fluff-just-gold-3fmc" target="_blank">✨7 React.js Hacks Every Beginner Dev Needs to Know (No Fluff, Just Gold)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-23 11:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/zod-v4-available/en/headerimage/generatedHeaderImage-1755772246614.jpg" alt="Zod v4 Available with Major Performance Improvements and Introduction of Zod Mini" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/zod-v4-available/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Zod v4 Available with Major Performance Improvements and Introduction of Zod Mini</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-23 11:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lwn.net/Articles/1030818/" target="_blank">Rethinking the Linux cloud stack for confidential VMs</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-23 11:39</span>
             </div>
         </div>
 </div>
@@ -241,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/shutterstock_2645258883.jpg?fit=1000%2C666&amp;quality=60&amp;ssl=1" alt="High a mile high club: British Airways attendant found naked in toilet pleads guilty" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/23/high-a-mile-high-club-british-airways-attendant-found-naked-in-toilet-pleads-guilty.html" target="_blank">High a mile high club: British Airways attendant found naked in toilet pleads guilty</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-23 13:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2022/08/0574780fe5c9e3850d3c41d07b2d9e84.jpg" alt="‘Zipotle’: Chipotle Wants to Drop a Burrito on Your Head with New Drone Delivery" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +294,6 @@
                 <span class="time">2025-08-22 20:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/05/brain.jpeg?fit=1500%2C1125&amp;quality=60&amp;ssl=1" alt="Scientists discover protein that turns young brains old" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/22/scientists-discover-protein-that-turns-young-brains-old.html" target="_blank">Scientists discover protein that turns young brains old</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-22 19:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
