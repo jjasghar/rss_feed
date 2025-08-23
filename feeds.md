@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-23 01:28:50 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-23 02:28:09 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, August 23, 2025 - 01:29 UTC</div>
+    <div class="newspaper-date">Saturday, August 23, 2025 - 02:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/22/nx-s1-5511990/trump-d-c-arrests-poor-indicator-public-safety" target="_blank">As Trump touts D.C. arrests, experts caution they&#x27;re not the best indicator of public safety</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-22 23:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755904042355_nn_ggu_ghislaine_maxwell_audio_released_250822_1920x1080-34ylf1.jpg" alt="DOJ releases transcripts and audio from two days of interviews with Ghislaine Maxwell" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +94,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/ghislaine-maxwell-provided-no-incriminating-information-meetings-deputy-ag/story?id=124894271" target="_blank">Maxwell provided DOJ no incriminating info about Epstein associates, transcript shows</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-22 19:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1755891662948_now_daily_b_maxwell_transcript_250822_1920x1080-3xnnkp.jpg" alt="Ghislaine Maxwell interview transcripts released by Justice Department" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/ghislaine-maxwell-interview-transcripts-released-by-justice-department-245595205909" target="_blank">Ghislaine Maxwell interview transcripts released by Justice Department</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-22 19:41</span>
             </div>
         </div>
 </div>
@@ -178,6 +172,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Glycin-Faster-JPEG-XL" target="_blank">GNOME&#x27;s Glycin Lands &quot;Dramatically Improved&quot; JPEG-XL Image Loading Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-23 00:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/scale_youtube/cncf-cloud-native-computing-foundation-chatloopbackoff-episode-68-kanister-3p3h" target="_blank">CNCF [Cloud Native Computing Foundation]: ChatLoopBackOff: Episode 68 (KANISTER)</a></span>
                 <span class="feed">DEV Community</span>
@@ -211,20 +214,20 @@
                 <span class="time">2025-08-22 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgod0npmk54twlr1znl6r.png" alt="SQL Joins Explained - INNER, LEFT, RIGHT, FULL" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/roxana_haidiner/sql-joins-explained-inner-left-right-full-1ofc" target="_blank">SQL Joins Explained - INNER, LEFT, RIGHT, FULL</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-22 19:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-bobtail-squid.html" target="_blank">Friday Squid Blogging: Bobtail Squid</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-08-22 21:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -339,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 02:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
