@@ -1,30 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-23 21:01:48 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-23 22:01:37 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, August 23, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, August 23, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -168,6 +174,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2103048%2F716988a5-9c51-49bf-acef-191bc6dd2fee.jpeg" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/leee_rodgers1/-if4" target="_blank">[Boost]</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-23 21:53</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -195,35 +210,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq433eflg4bqaw2z19qv0.png" alt="The Evening I Chose Code Over a Match😂" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fonyuygita/the-evening-i-chose-code-over-a-match-3h9e" target="_blank">The Evening I Chose Code Over a Match😂</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-23 16:52</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-metal-gear-solid-delta-12-biggest-changes-from-the-original-5d02" target="_blank">IGN: Metal Gear Solid Delta - 12 Biggest Changes From the Original</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-23 14:03</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-bobtail-squid.html" target="_blank">Friday Squid Blogging: Bobtail Squid</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-08-22 21:02</span>
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://github.com/miguelgrinberg/microdot" target="_blank">microdot: The impossibly small web framework for Python and MicroPython</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-08-23 18:32</span>
             </div>
         </div>
 </div>
@@ -231,6 +223,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/kingo-eternals.jpg" alt="Kumail Nanjiani Reveals His ‘Eternals’ Future That Could’ve Been" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/kumail-nanjiani-reveals-his-eternals-future-that-couldve-been-2000647272" target="_blank">Kumail Nanjiani Reveals His ‘Eternals’ Future That Could’ve Been</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-23 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2022/04/db035252532bbc24f6d808a7fd7b6177.jpg" alt="‘It’s Not Going to Slow Down’: The Tech Stock Everyone Is Watching This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -250,6 +251,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Tinymoose-Pencil-Pro-Plus-for-iPad-with-Wireless-Charging.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="This smooth, precise and on-sale digital pencil can take your creative vision to the next level" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/23/this-smooth-precise-and-on-sale-digital-pencil-can-take-your-creative-vision-to-the-next-level.html" target="_blank">This smooth, precise and on-sale digital pencil can take your creative vision to the next level</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-23 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/shutterstock_2645258883.jpg?fit=1000%2C666&amp;quality=60&amp;ssl=1" alt="High a mile high club: British Airways attendant found naked in toilet pleads guilty" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -265,24 +275,6 @@
                 <span class="title"><a href="https://gizmodo.com/chipotle-delivery-zipline-drone-2000647043" target="_blank">‘Zipotle’: Chipotle Wants to Drop a Burrito on Your Head with New Drone Delivery</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-23 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/trump-august-22-2025.jpg" alt="U.S. Government Now ‘Controls’ 10% of Intel, Trump Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/u-s-government-now-controls-10-of-intel-trump-says-2000647121" target="_blank">U.S. Government Now ‘Controls’ 10% of Intel, Trump Says</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-22 22:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K39Q1ZN4D9TNMP90FSM9QT6C/hero-image.jpg" alt="These Are the Best Deals on Video Games and Gaming Accessories This Labor Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/best-video-game-deals-labor-day-2025?utm_medium=RSS" target="_blank">These Are the Best Deals on Video Games and Gaming Accessories This Labor Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-22 22:30</span>
             </div>
         </div>
 </div>
@@ -304,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
