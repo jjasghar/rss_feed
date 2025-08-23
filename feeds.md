@@ -1,40 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-23 05:01:44 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-23 06:01:54 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 32 feeds processed -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, August 23, 2025 - 05:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, August 23, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/23/a-new-indian-bill-punishes-jailed-politicians-why-has-it-sparked-outrage?traffic_source=rss" target="_blank">A new Indian bill punishes jailed politicians: Why has it sparked outrage?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-23 05:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/23/north-korea-accuses-south-korean-troops-of-firing-warning-shots-near-border?traffic_source=rss" target="_blank">North Korea accuses South Korean troops of firing warning shots near border</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-23 01:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/22/nx-s1-5511990/trump-d-c-arrests-poor-indicator-public-safety" target="_blank">As Trump touts D.C. arrests, experts caution they&#x27;re not the best indicator of public safety</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-22 23:32</span>
             </div>
         </div>
 </div>
@@ -180,6 +172,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/grudged/building-gitnarrative-how-i-parse-git-history-with-python-to-extract-development-patterns-52lm" target="_blank">Building GitNarrative: How I Parse Git History with Python to Extract Development Patterns</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-23 04:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://creao.ai/" target="_blank">Show HN: Creao – Vibe coding product for founders</a></span>
                 <span class="feed">Hacker News</span>
@@ -211,15 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/OpenZFS_2.4-rc1-Released" target="_blank">OpenZFS 2.4-rc1 Brings Linux 6.16 Compatibility, Better Encryption Performance With AVX2</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-22 20:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/maker_youtube/3d-printing-nerd-3d-printing-the-worlds-largest-transparent-ltt-screwdriver-243m" target="_blank">3D Printing Nerd: 3D Printing the WORLDS LARGEST Transparent LTT Screwdriver!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-22 20:03</span>
             </div>
         </div>
 </div>
@@ -341,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 05:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
