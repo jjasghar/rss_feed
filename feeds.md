@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-23 08:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-23 09:01:40 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, August 23, 2025 - 08:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, August 23, 2025 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/23/texas-senate-approves-redrawn-congressional-map-favouring-republicans?traffic_source=rss" target="_blank">Texas Senate approves redrawn congressional map favouring Republicans</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-23 08:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250821-Texas-REDISTRICTING-maps-aa-942-49d523.jpg" alt="Texas Senate passes new Republican-drawn congressional map" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +102,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/23/foreign-nationals-among-5-killed-in-new-york-state-tour-bus-crash?traffic_source=rss" target="_blank">Foreign nationals among 5 killed in New York state tour bus crash</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-23 03:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/309e/live/e4740a20-7fba-11f0-9481-1fe1ca574d00.jpg" alt="Farage vows mass deportations to tackle small boats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c9vd3rx33g1o?at_medium=RSS&at_campaign=rss" target="_blank">Farage vows mass deportations to tackle small boats</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-23 03:43</span>
             </div>
         </div>
 </div>
@@ -176,6 +178,24 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sagar/my-one-month-journey-with-the-cursor-editor-an-honest-review-idk" target="_blank">My One-Month Journey with the Cursor Editor: An Honest Review</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-23 08:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.openmymind.net/Im-Too-Dumb-For-Zigs-New-IO-Interface/" target="_blank">I&#x27;m too dumb for Zig&#x27;s new IO interface</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-23 06:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F457133%2Fec546c3a-b78e-4ca8-9109-eda39d4b6837.jpg" alt="Node Cmd Exe" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,24 +220,6 @@
                 <span class="title"><a href="https://creao.ai/" target="_blank">Show HN: Creao – Vibe coding product for founders</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-23 01:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-Glycin-Faster-JPEG-XL" target="_blank">GNOME&#x27;s Glycin Lands &quot;Dramatically Improved&quot; JPEG-XL Image Loading Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-23 00:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/scale_youtube/cncf-cloud-native-computing-foundation-chatloopbackoff-episode-68-kanister-3p3h" target="_blank">CNCF [Cloud Native Computing Foundation]: ChatLoopBackOff: Episode 68 (KANISTER)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-23 00:05</span>
             </div>
         </div>
 </div>
@@ -330,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 294 |
-        🔄 Last Updated: 08:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
