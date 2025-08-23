@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-23 19:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-23 20:01:37 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, August 23, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, August 23, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +111,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/23/amazon-agi-labs-chief-defends-his-reverse-acquihire/" target="_blank">Amazon AGI Labs chief defends his reverse acquihire</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-23 20:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/764496/bose-tv-speaker-soundbar-8bitdo-ultimate-2-bluetooth-controller-deal-sale" target="_blank">Bose’s compact TV Speaker is more than $100 off right now</a></span>
                 <span class="feed">The Verge</span>
@@ -152,15 +162,6 @@
                 <span class="time">2025-08-23 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a9343a0fd1543a96aba606/master/pass/Want%20a%20Better%20PC_%20Try%20Building%20Your%20Own.png" alt="How to Build a PC (2025): Hardware Suggestions, Instructions, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-to-build-a-pc/" target="_blank">How to Build a PC (2025): Hardware Suggestions, Instructions, and More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-23 13:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +174,24 @@
                 <span class="title"><a href="https://about.gitlab.com/blog/blog-post-slug/" target="_blank">The GitLab documentation site gets a major design overhaul</a></span>
                 <span class="feed">GitLab</span>
                 <span class="time">2025-08-25 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/artibol/best-service-virtualization-tools-detailed-comparison-m49" target="_blank">Best Service Virtualization Tools: Detailed Comparison</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-23 19:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://minusx.ai/blog/decoding-claude-code/" target="_blank">What makes Claude Code so damn good</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-23 19:07</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +219,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/08/aws-lambda-github-actions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Lambda Adds Support for GitHub Actions</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-08-23 14:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Swap-Table-Swap-Cache" target="_blank">Linux Primed For Significant Performance Gains With Kernel Swap Code Overhaul</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-23 13:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/codewithsimon/github-copilot-vs-chatgpt-which-one-should-developers-use-39e9" target="_blank">GitHub Copilot vs ChatGPT: Which One Should Developers Use?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-23 13:21</span>
             </div>
         </div>
 </div>
@@ -321,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
