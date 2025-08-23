@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-23 12:01:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-23 13:06:52 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, August 23, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, August 23, 2025 - 13:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -101,6 +107,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/68a9343a0fd1543a96aba606/master/pass/Want%20a%20Better%20PC_%20Try%20Building%20Your%20Own.png" alt="How to Build a PC (2025): Hardware Suggestions, Instructions, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-build-a-pc/" target="_blank">How to Build a PC (2025): Hardware Suggestions, Instructions, and More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-23 13:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games-review/716421/ninja-gaiden-ragebound-review-nintendo-switch-playstation-xbox-pc" target="_blank">Ninja Gaiden: Ragebound is a perfect reimagining of the classic series</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-23 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-520301232-500x500.jpg" alt="Why wind farms attract so much misinformation and conspiracy theory" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -136,24 +160,6 @@
                 <span class="time">2025-08-22 22:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a8d5ae3be8cf1301ced0d1/master/pass/GettyImages-2195830737.jpg" alt="Bluesky Goes Dark in Mississippi Over Age Verification Law" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/bluesky-goes-dark-in-mississippi-age-verification/" target="_blank">Bluesky Goes Dark in Mississippi Over Age Verification Law</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-22 22:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/764480/intel-donald-trump-lip-bu-tan-deal" target="_blank">US government takes 10 percent stake in Intel in exchange for money it was already on the hook for</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-22 21:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,6 +172,24 @@
                 <span class="title"><a href="https://about.gitlab.com/blog/blog-post-slug/" target="_blank">The GitLab documentation site gets a major design overhaul</a></span>
                 <span class="feed">GitLab</span>
                 <span class="time">2025-08-25 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lovestaco/seo-starter-guide-how-to-get-your-website-found-on-google-14ia" target="_blank">SEO Starter Guide: How to Get Your Website Found on Google</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-23 12:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lwn.net/Articles/1030818/" target="_blank">Rethinking the Linux cloud stack for confidential VMs</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-23 11:39</span>
             </div>
         </div>
 <div class="story">
@@ -187,30 +211,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/news/2025/08/aws-budgets-cross-account/en/headerimage/generatedHeaderImage-1755695570786.jpg" alt="AWS Budgets Improves Cross-Account Cost Visibility" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/aws-budgets-cross-account/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Budgets Improves Cross-Account Cost Visibility</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-23 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aryan_shourie/git-hooks-automating-workflows-in-git-3bpo" target="_blank">Git Hooks: Automating Workflows in Git</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-23 09:44</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KDE-KISS-Initial-Setup-Wizard" target="_blank">KDE Plasma 6.5 Introducing &quot;KISS&quot; - An Initial System Setup Wizard</a></span>
+                <span class="title"><a href="https://www.phoronix.com/news/HP-Victus-16-r1000-Linux" target="_blank">Linux 6.17 Adds Fan &amp; Thermal Profile Support For HP Victus 16-r1000 Gaming Laptops</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2025-08-23 09:33</span>
+                <span class="time">2025-08-23 10:37</span>
             </div>
         </div>
 </div>
@@ -314,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 13:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
