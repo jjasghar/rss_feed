@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-23 22:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-23 23:01:50 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, August 23, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, August 23, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/23/nx-s1-5513936/dhl-parcel-tariffs" target="_blank">Boxed in by shifting tariff rules, European shippers pause some U.S.-bound parcels</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-23 22:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +101,20 @@
                 <span class="time">2025-08-23 15:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/23/nx-s1-5513919/trump-stops-offshore-wind-renewable-energy" target="_blank">Trump administration halts work on an almost-finished wind farm</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-23 15:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68aa4183bf31773aefb5d8c5/master/pass/2169230846" alt="Scientists Have Identified the Origin of an Extraordinarily Powerful Outer Space Radio Wave" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/scientists-identified-origin-extraordinarily-powerful-outer-space-radio-wave-frb-chime/" target="_blank">Scientists Have Identified the Origin of an Extraordinarily Powerful Outer Space Radio Wave</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-23 22:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +160,6 @@
                 <span class="time">2025-08-23 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a91d240ff15a77d5c4a427/master/pass/Which%20GoPro%20Hero%20Camera%20Should%20You%20Buy_.png" alt="Best GoPro Camera (2025): Compact, Budget, Accessories" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-gopro-hero-camera/" target="_blank">Best GoPro Camera (2025): Compact, Budget, Accessories</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-23 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,12 +175,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftxg3vvljjrfy1e1dtwtx.png" alt="Why Do AI Crawlers Keep Hitting robots.txt Instead of My Content?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sip/why-do-ai-crawlers-keep-hitting-robotstxt-instead-of-my-content-aif" target="_blank">Why Do AI Crawlers Keep Hitting robots.txt Instead of My Content?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-23 21:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2103048%2F716988a5-9c51-49bf-acef-191bc6dd2fee.jpeg" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/leee_rodgers1/-if4" target="_blank">[Boost]</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-23 21:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://romhack.ing/database/news/entry/DW8BKnRHSEqaGDwXTiKjMw" target="_blank">Romhack.ing&#x27;s Internet Archive Mirror No Longer Available</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-23 20:43</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/artibol/best-service-virtualization-tools-detailed-comparison-m49" target="_blank">Best Service Virtualization Tools: Detailed Comparison</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-23 19:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://minusx.ai/blog/decoding-claude-code/" target="_blank">What makes Claude Code so damn good</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-23 19:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/miguelgrinberg/microdot" target="_blank">microdot: The impossibly small web framework for Python and MicroPython</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-08-23 18:32</span>
             </div>
         </div>
 </div>
@@ -297,7 +298,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 22:01 UTC
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
