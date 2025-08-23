@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-23 13:06:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-23 14:01:39 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, August 23, 2025 - 13:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, August 23, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/23/nx-s1-5513910/hawaii-kilauea-volcano-erupts-again-shoots-lava" target="_blank">Hawaii&#x27;s Kilauea volcano erupts again and shoots lava for 31st time since December</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-23 13:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +104,20 @@
                 <span class="time">2025-08-23 08:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250821-Texas-REDISTRICTING-maps-aa-942-49d523.jpg" alt="Texas Senate passes new Republican-drawn congressional map" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/elections/texas-senate-passes-new-republican-drawn-congressional-map-rcna226278" target="_blank">Texas Senate passes new Republican-drawn congressional map</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-23 06:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/phones/762755/fairphone-6-review-no-longer-compromise" target="_blank">The Fairphone 6 no longer feels like a compromise (except in the US)</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-23 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68a9343a0fd1543a96aba606/master/pass/Want%20a%20Better%20PC_%20Try%20Building%20Your%20Own.png" alt="How to Build a PC (2025): Hardware Suggestions, Instructions, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,15 +163,6 @@
                 <span class="time">2025-08-22 22:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/764775/apple-watch-trade-secrets-oppo-lawsuit" target="_blank">Apple accuses former Apple Watch staffer of conspiring to steal trade secrets for Oppo</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-22 22:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +175,15 @@
                 <span class="title"><a href="https://about.gitlab.com/blog/blog-post-slug/" target="_blank">The GitLab documentation site gets a major design overhaul</a></span>
                 <span class="feed">GitLab</span>
                 <span class="time">2025-08-25 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/codewithsimon/github-copilot-vs-chatgpt-which-one-should-developers-use-39e9" target="_blank">GitHub Copilot vs ChatGPT: Which One Should Developers Use?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-23 13:21</span>
             </div>
         </div>
 <div class="story">
@@ -208,15 +220,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/08/zod-v4-available/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Zod v4 Available with Major Performance Improvements and Introduction of Zod Mini</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-08-23 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/HP-Victus-16-r1000-Linux" target="_blank">Linux 6.17 Adds Fan &amp; Thermal Profile Support For HP Victus 16-r1000 Gaming Laptops</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-23 10:37</span>
             </div>
         </div>
 </div>
@@ -320,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 13:07 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
