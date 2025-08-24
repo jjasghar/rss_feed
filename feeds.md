@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-24 20:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-24 21:01:40 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, August 24, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, August 24, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,10 +45,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/24/canadas-carney-meets-zelenskyy-backs-security-guarantees-for-ukraine?traffic_source=rss" target="_blank">Canada’s Carney meets Zelenskyy, backs security guarantees for Ukraine</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-24 20:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/08/24/nx-s1-5514467/heatwave-west-california-oregon-washington-wildfires" target="_blank">Millions in West facing dangerous heatwave amid multiple wildfires</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-24 18:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-30-epa-gmh-250822_1755889583796_hpMain_4x3t_384.jpg" alt="Vance says Russia has made &#x27;significant concessions&#x27; on Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/vance-russia-made-significant-concessions-ukraine/story?id=124934139" target="_blank">Vance says Russia has made &#x27;significant concessions&#x27; on Ukraine</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-24 18:46</span>
             </div>
         </div>
 <div class="story">
@@ -77,24 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/opinions/2025/8/24/ghislaine-maxwells-testimony-says-a-lot-about-our-dystopia?traffic_source=rss" target="_blank">Ghislaine Maxwell’s testimony says a lot about our dystopia</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-24 17:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-29-epa-gmh-250822_1755889584416_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump offers to send &#x27;troops&#x27; to Baltimore" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124734940" target="_blank">Trump admin live updates: Trump offers to send &#x27;troops&#x27; to Baltimore</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-24 15:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/24/zelenskyy-marks-ukraine-independence-day-alongside-canadas-pm-in-kyiv?traffic_source=rss" target="_blank">Zelenskyy marks Ukraine Independence Day alongside Canada’s PM in Kyiv</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-24 14:32</span>
             </div>
         </div>
 </div>
@@ -164,6 +163,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.scottrlarson.com/publications/publication-looking-back-windows-to-linux/" target="_blank">Looking back at my transition from Windows to Linux in an anti-customer age</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-24 20:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-rc3-Released" target="_blank">Linux 6.17-rc3 Released: &quot;A Bit Larger Than Usual&quot;</a></span>
                 <span class="feed">Phoronix</span>
@@ -189,30 +197,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/ffmpeg.jpg?resize=406%2C232&amp;ssl=1" alt="FFmpeg’s ‘Largest Release’ Yet Brings Vulkan Video Processing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/ffmpeg-8-vulkan-compute-codecs-professional-video" target="_blank">FFmpeg’s ‘Largest Release’ Yet Brings Vulkan Video Processing</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-24 15:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/ffmpeg.jpg?resize=406%2C232&amp;ssl=1" alt="FFmpeg’s ‘Largest Release’ Yet Adds Vulkan-Powered Video Processing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/ffmpeg-8-vulkan-compute-codecs-professional-video" target="_blank">FFmpeg’s ‘Largest Release’ Yet Adds Vulkan-Powered Video Processing</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-08-24 15:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5vusj9lf64dl2x4bsavj.png" alt="From Physical to Digital: The Shift in PLM Technologies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hr21don/from-physical-to-digital-the-shift-in-plm-technologies-54bm" target="_blank">From Physical to Digital: The Shift in PLM Technologies</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-24 15:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/" target="_blank">Making games in Go: 3 months without LLMs vs. 3 days with LLMs</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-24 15:01</span>
             </div>
         </div>
 </div>
@@ -293,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 41 | 📸 With Images: 284 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
