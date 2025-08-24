@@ -1,38 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-08-24 17:01:33 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2025-08-24 18:01:48 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, August 24, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, August 24, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/8/24/ghislaine-maxwells-testimony-says-a-lot-about-our-dystopia?traffic_source=rss" target="_blank">Ghislaine Maxwell’s testimony says a lot about our dystopia</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-24 17:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-29-epa-gmh-250822_1755889584416_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump offers to send &#x27;troops&#x27; to Baltimore" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124734940" target="_blank">Trump admin live updates: Trump offers to send &#x27;troops&#x27; to Baltimore</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-24 15:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +91,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/jd-vance-says-putin-not-at-all-misleading-trump-in-ukraine-talks-full-interview-245659717809" target="_blank">JD Vance says Putin ‘not at all’ misleading Trump in Ukraine talks: Full interview</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-08-24 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1756038717182_tdy_sun_zanona_ghislaine_maxwell_250824_1920x1080-uhrqk9.jpg" alt="Family of Epstein Accuser ‘Outraged’ Over Ghislaine Maxwell Audio" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/family-of-epstein-accuser-outraged-over-ghislaine-maxwell-audio-245660229724" target="_blank">Family of Epstein Accuser ‘Outraged’ Over Ghislaine Maxwell Audio</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-24 12:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/project-force-2/2025/8/24/after-the-taliban-cut-afghan-drug-production-new-suppliers-emerge?traffic_source=rss" target="_blank">After the Taliban cut Afghan drug production, new suppliers emerge</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-24 12:08</span>
             </div>
         </div>
 </div>
@@ -206,18 +197,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://arxiviq.substack.com/p/deep-think-with-confidence" target="_blank">Deep Think with Confidence</a></span>
+                <span class="title"><a href="https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/" target="_blank">Making games in Go: 3 months without LLMs vs. 3 days with LLMs</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2025-08-24 14:41</span>
+                <span class="time">2025-08-24 15:01</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/non-violent-games-llinux/" target="_blank">Best Non-Violent Games Available on Steam for Linux Users</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-08-24 13:53</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://arxiviq.substack.com/p/deep-think-with-confidence" target="_blank">Deep Think with Confidence</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-24 14:41</span>
             </div>
         </div>
 </div>
@@ -225,6 +216,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/bokatan-mandalorian.jpg" alt="Katee Sackhoff Talks ‘The Mandalorian’ and Acting Struggles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/katee-sackhoff-the-mandalorian-bo-katan-2000647302" target="_blank">Katee Sackhoff Talks ‘The Mandalorian’ and Acting Struggles</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-24 16:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2022/08/14056498d580cb8bf8c2e0f3f0c6ba01.jpg" alt="Regulators Say Binance Must Tighten Money Laundering, Terrorism Rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,13 +270,18 @@
                 <span class="time">2025-08-24 10:00</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/kingo-eternals.jpg" alt="Kumail Nanjiani Reveals His ‘Eternals’ Future That Could’ve Been" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1755734186-20250824.png" alt="Saturday Morning Breakfast Cereal - Drive" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/kumail-nanjiani-reveals-his-eternals-future-that-couldve-been-2000647272" target="_blank">Kumail Nanjiani Reveals His ‘Eternals’ Future That Could’ve Been</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-23 21:00</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/drive" target="_blank">Saturday Morning Breakfast Cereal - Drive</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-08-24 15:20</span>
             </div>
         </div>
 </div>
@@ -284,8 +289,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
