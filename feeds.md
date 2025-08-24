@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-24 16:01:51 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-24 17:01:33 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, August 24, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, August 24, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -142,6 +144,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/761025/framework-desktop-bazzite-linux-steam-machine-pc-game-console-impressions" target="_blank">The Framework Desktop and Linux have shown me the path to PC gaming in the living room</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-24 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" alt="HP Coupon Codes and Deals: Up to 60% Off | August 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -150,20 +161,38 @@
                 <span class="time">2025-08-24 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68aa4183bf31773aefb5d8c5/master/pass/2169230846" alt="Scientists Have Identified the Origin of an Extraordinarily Powerful Outer Space Radio Wave" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/scientists-identified-origin-extraordinarily-powerful-outer-space-radio-wave-frb-chime/" target="_blank">Scientists Have Identified the Origin of an Extraordinarily Powerful Outer Space Radio Wave</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-23 22:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/trojanmocx/when-code-starts-talking-back-a-love-hate-story-3ml" target="_blank">When Code Starts Talking Back: A Love-Hate Story</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-24 16:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://avi.im/blag/2025/sqlite-fsync/" target="_blank">SQLite (with WAL) doesn&#x27;t do `fsync` on each commit under default settings</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-24 15:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/ffmpeg.jpg?resize=406%2C232&amp;ssl=1" alt="FFmpeg’s ‘Largest Release’ Yet Adds Vulkan-Powered Video Processing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/ffmpeg-8-vulkan-compute-codecs-professional-video" target="_blank">FFmpeg’s ‘Largest Release’ Yet Adds Vulkan-Powered Video Processing</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-24 15:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5vusj9lf64dl2x4bsavj.png" alt="From Physical to Digital: The Shift in PLM Technologies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -189,33 +218,6 @@
                 <span class="title"><a href="https://itsfoss.com/non-violent-games-llinux/" target="_blank">Best Non-Violent Games Available on Steam for Linux Users</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2025-08-24 13:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/CachyOS-August-2025" target="_blank">CachyOS Introduces Packages Dashboard, GRUB+Btrfs Bootable Snapshots</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-24 13:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/" target="_blank">Dynamically patch a Python function&#x27;s source code at runtime</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-24 12:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/maui-10-preview7/en/headerimage/header-1670341892423-1755892592182.jpg" alt=".NET 10 Preview 7 Accelerates .NET MAUI with XAML Source Generator" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/maui-10-preview7/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">.NET 10 Preview 7 Accelerates .NET MAUI with XAML Source Generator</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-24 12:00</span>
             </div>
         </div>
 </div>
@@ -282,8 +284,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
