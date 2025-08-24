@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-24 00:05:20 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-24 01:29:31 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 29 feeds processed -->
+<!-- Generated 2 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, August 24, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Sunday, August 24, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/23/nigeria-says-it-killed-35-fighters-in-air-strikes-near-border-with-cameroon?traffic_source=rss" target="_blank">Nigeria says it killed 35 fighters in air strikes near border with Cameroon</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-23 22:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +102,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/abrego-garcias-attorneys-government-coerce-accept-guilty-plea/story?id=124916582" target="_blank">Abrego Garcia coerced to take guilty plea or be deported to Uganda, his attorneys say</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-23 16:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/abrego-c7w5ib.jpg" alt="Watch: Kilmar Abrego Garcia reunites with family after release from federal custody" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/kilmar-abrego-garcia-speaks-after-release-from-federal-custody-245645893557" target="_blank">Watch: Kilmar Abrego Garcia reunites with family after release from federal custody</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-23 15:43</span>
             </div>
         </div>
 </div>
@@ -175,6 +178,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/omochan_9dfc5afa47b4f63ed/flowerrr-m90" target="_blank">flowerrr</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-24 00:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftxg3vvljjrfy1e1dtwtx.png" alt="Why Do AI Crawlers Keep Hitting robots.txt Instead of My Content?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -208,15 +220,6 @@
                 <span class="title"><a href="https://dev.to/dellamas/oracle-database-23ai-ai-vector-search-json-duality-e-o-futuro-dos-bancos-3mh0" target="_blank">Oracle Database 23ai: AI Vector Search, JSON Duality e o Futuro dos Bancos</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-23 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/artibol/best-service-virtualization-tools-detailed-comparison-m49" target="_blank">Best Service Virtualization Tools: Detailed Comparison</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-23 19:18</span>
             </div>
         </div>
 </div>
@@ -298,7 +301,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 00:05 UTC
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
