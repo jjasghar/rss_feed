@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-24 21:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-24 22:01:51 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, August 24, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, August 24, 2025 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +108,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/24/pintarnya-raises-16-7m-to-power-jobs-and-financial-services-in-indonesia/" target="_blank">Pintarnya raises $16.7M to power jobs and financial services in Indonesia</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-24 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/08/24/netflixs-kpop-demon-hunters-is-probably-the-biggest-movie-in-theaters/" target="_blank">Netflix’s ‘KPop Demon Hunters’ is probably the biggest movie in theaters</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-08-24 19:59</span>
@@ -146,20 +158,29 @@
                 <span class="time">2025-08-24 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a9553c808c84e00ba94566/master/pass/The%20Best%20360%20Cameras%20to%20See%20the%20World%20Around%20You.png" alt="Best 360 Cameras (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-360-cameras/" target="_blank">Best 360 Cameras (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-24 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/casperday11/day-75-when-work-becomes-mental-survival-not-motivation-1160" target="_blank">Day 75: When Work Becomes Mental Survival (Not Motivation)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-24 21:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.spacex.com/launches/starship-flight-10" target="_blank">SpaceX Starship Orbital Flight Test 10</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-24 21:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,29 +217,20 @@
                 <span class="time">2025-08-24 15:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/ffmpeg.jpg?resize=406%2C232&amp;ssl=1" alt="FFmpeg’s ‘Largest Release’ Yet Brings Vulkan Video Processing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/ffmpeg-8-vulkan-compute-codecs-professional-video" target="_blank">FFmpeg’s ‘Largest Release’ Yet Brings Vulkan Video Processing</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-24 15:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/ffmpeg.jpg?resize=406%2C232&amp;ssl=1" alt="FFmpeg’s ‘Largest Release’ Yet Adds Vulkan-Powered Video Processing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/ffmpeg-8-vulkan-compute-codecs-professional-video" target="_blank">FFmpeg’s ‘Largest Release’ Yet Adds Vulkan-Powered Video Processing</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-24 15:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/THE-TOXIC-AVENGER_9-2.jpg" alt="The Final ‘Toxic Avenger’ Trailer Is a Goofy, Retro Call to Arms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-final-toxic-avenger-trailer-is-a-goofy-retro-call-to-arms-2000647305" target="_blank">The Final ‘Toxic Avenger’ Trailer Is a Goofy, Retro Call to Arms</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-24 20:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/kpop-demon-hunters-netflix.jpg" alt="‘KPop Demon Hunters’ Could Sing to Netflix’s First Theatrical Hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -247,30 +259,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/VoiceType-AI-Voice-to-Text.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Tired of writing emails? Speak them in seconds with VoiceType" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/24/tired-of-writing-emails-speak-them-in-seconds-with-voicetype.html" target="_blank">Tired of writing emails? Speak them in seconds with VoiceType</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-24 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2022/06/94d1a3b9f59f1c0c002864e8defbca1b.jpg" alt="South Korean man arrested in Thailand in $50 million crypto scam" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/south-korean-man-50-million-crypto-scam-2000647369" target="_blank">South Korean man arrested in Thailand in $50 million crypto scam</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-24 14:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Technics-EAH-AZ100-2.jpg" alt="Technics EAH-AZ100 Review: Wireless Earbuds That Sound So Next Level I’m Ruined" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/technics-eah-az100-review-wireless-earbuds-that-sound-so-next-level-im-ruined-2000644438" target="_blank">Technics EAH-AZ100 Review: Wireless Earbuds That Sound So Next Level I’m Ruined</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-24 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/ganymede-jupiter-moon-infrared.jpg" alt="A Physicist Wants to Turn Jupiter’s Largest Moon Into a Gigantic Dark Matter Detector" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-physicist-wants-to-turn-jupiters-largest-moon-into-a-gigantic-dark-matter-detector-2000645934" target="_blank">A Physicist Wants to Turn Jupiter’s Largest Moon Into a Gigantic Dark Matter Detector</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-24 12:00</span>
             </div>
         </div>
 </div>
@@ -292,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 41 | 📸 With Images: 284 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 41 | 📸 With Images: 283 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
