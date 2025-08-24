@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-24 02:33:00 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-24 03:24:20 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, August 24, 2025 - 02:33 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, August 24, 2025 - 03:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +53,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cg4xp4ywk47o?at_medium=RSS&at_campaign=rss" target="_blank">Government plans to overhaul asylum appeals system</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-24 02:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/24/russia-ukraine-war-list-of-key-events-day-1277?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,277</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-24 01:57</span>
             </div>
         </div>
 <div class="story">
@@ -88,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/23/oviedo-vs-real-madrid-la-liga-teams-start-lineups?traffic_source=rss" target="_blank">Oviedo vs Real Madrid: La Liga – teams, start, lineups</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-23 17:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128d/live/67d69950-8033-11f0-83cc-c5da98c419b8.jpg" alt="Asylum hotel protesters met by counter-demonstrators across UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce35pd9q2ldo?at_medium=RSS&at_campaign=rss" target="_blank">Asylum hotel protesters met by counter-demonstrators across UK</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-23 16:32</span>
             </div>
         </div>
 </div>
@@ -176,6 +177,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yash_sonawane25/docker-series-episode-2-installing-docker-without-crying-cross-platform-setup-guide-45ha" target="_blank">🛳️ Docker Series: Episode 2 — Installing Docker Without Crying (Cross-Platform Setup Guide)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-24 02:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/omochan_9dfc5afa47b4f63ed/flowerrr-m90" target="_blank">flowerrr</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-24 00:24</span>
@@ -203,18 +213,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://romhack.ing/database/news/entry/DW8BKnRHSEqaGDwXTiKjMw" target="_blank">Romhack.ing&#x27;s Internet Archive Mirror No Longer Available</a></span>
+                <span class="title"><a href="https://blog.oberien.de/2023/11/05/23-minutes-15-seconds.html" target="_blank">The cost of interrupted work (2023)</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2025-08-23 20:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dellamas/oracle-database-23ai-ai-vector-search-json-duality-e-o-futuro-dos-bancos-3mh0" target="_blank">Oracle Database 23ai: AI Vector Search, JSON Duality e o Futuro dos Bancos</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-23 20:30</span>
+                <span class="time">2025-08-23 21:45</span>
             </div>
         </div>
 </div>
@@ -295,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 02:33 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 03:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
