@@ -1,33 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-24 08:01:55 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2025-08-24 09:01:50 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, August 24, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, August 24, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +45,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/24/pakistan-foreign-minister-in-bangladesh-for-historic-visit-to-boost-ties?traffic_source=rss" target="_blank">Pakistan FM holds talks with Bangladeshi officials during ‘historic’ visit</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-24 08:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d40/live/f74a8070-8096-11f0-a34f-318be3fb0481.jpg" alt="Russia blames nuclear site attack on Ukraine as Kyiv marks independence day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/czxy2v9dzgxo?at_medium=RSS&at_campaign=rss" target="_blank">Russia blames nuclear site attack on Ukraine as Kyiv marks independence day</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-24 07:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-australia-palestine_6999715.jpg?20250824081505" alt="Pro-Palestine Australians protest after week of tension with Israel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/pro-palestine-australians-protest-after-week-of-tension-with-israel-13417435" target="_blank">Pro-Palestine Australians protest after week of tension with Israel</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-24 07:06</span>
             </div>
         </div>
 <div class="story">
@@ -77,24 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/24/russia-ukraine-war-list-of-key-events-day-1277?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,277</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-24 01:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/03/1920x1080/skynews-virginia-giuffre-jeffery-epstein_6872288.jpg?20250331160500" alt="Ghislaine Maxwell was given &#x27;platform to rewrite history&#x27;, say Virginia Giuffre&#x27;s family" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/ghislaine-maxwell-was-given-platform-to-rewrite-history-say-virginia-giuffres-family-13417404" target="_blank">Ghislaine Maxwell was given &#x27;platform to rewrite history&#x27;, say Virginia Giuffre&#x27;s family</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-24 01:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250722-Ghislaine-Maxwell-se-151p-d61f0f.jpg" alt="DOJ gave Ghislaine Maxwell &#x27;a platform to rewrite history,&#x27; Virginia Giuffre&#x27;s family says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/justice-department-gave-ghislaine-maxwell-platform-rewrite-history-fam-rcna226797" target="_blank">DOJ gave Ghislaine Maxwell &#x27;a platform to rewrite history,&#x27; Virginia Giuffre&#x27;s family says</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-24 00:12</span>
             </div>
         </div>
 </div>
@@ -293,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
