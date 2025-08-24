@@ -1,37 +1,26 @@
-<!-- Processing 54 RSS feeds at 2025-08-24 12:01:56 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-24 13:06:54 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, August 24, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, August 24, 2025 - 13:06 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +36,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1756038717182_tdy_sun_zanona_ghislaine_maxwell_250824_1920x1080-uhrqk9.jpg" alt="Family of Epstein Accuser ‘Outraged’ Over Ghislaine Maxwell Audio" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/family-of-epstein-accuser-outraged-over-ghislaine-maxwell-audio-245660229724" target="_blank">Family of Epstein Accuser ‘Outraged’ Over Ghislaine Maxwell Audio</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-24 12:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/project-force-2/2025/8/24/after-the-taliban-cut-afghan-drug-production-new-suppliers-emerge?traffic_source=rss" target="_blank">After the Taliban cut Afghan drug production, new suppliers emerge</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-24 12:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf19/live/b7b475b0-80d2-11f0-85df-4193996c50d4.jpg" alt="Zelensky vows to continue fighting as Ukraine marks independence day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,24 +88,6 @@
                 <span class="title"><a href="https://abcnews.go.com/International/russia-hits-ukraine-drones-kyiv-celebrates-independence-day/story?id=124929154" target="_blank">Russia hits Ukraine with drones as Kyiv celebrates independence day</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-24 09:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/24/newcastle-vs-liverpool-premier-league-teams-start-lineups?traffic_source=rss" target="_blank">Newcastle vs Liverpool: Premier League – team news, start time and lineups</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-24 09:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-gaza-israel_6999789.jpg?20250824102856" alt="Israel pounds outskirts of Gaza City overnight as military offensive plans continue" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/israel-pounds-outskirts-of-gaza-city-overnight-as-military-offensive-plans-continue-13417480" target="_blank">Israel pounds outskirts of Gaza City overnight as military offensive plans continue</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-24 09:21</span>
             </div>
         </div>
 </div>
@@ -175,6 +164,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/08/maui-10-preview7/en/headerimage/header-1670341892423-1755892592182.jpg" alt=".NET 10 Preview 7 Accelerates .NET MAUI with XAML Source Generator" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/maui-10-preview7/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">.NET 10 Preview 7 Accelerates .NET MAUI with XAML Source Generator</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-24 12:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -210,20 +208,20 @@
                 <span class="time">2025-08-24 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvjbiktha3gtldyfvagjl.png" alt="Sync Obsidian Across Your Devices For Free, With GitHub And A Bit Of Nerve." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/elliot_brenya/sync-obsidian-across-your-devices-for-free-with-github-and-a-bit-of-nerve-4hdm" target="_blank">Sync Obsidian Across Your Devices For Free, With GitHub And A Bit Of Nerve.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-24 04:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Technics-EAH-AZ100-2.jpg" alt="Technics EAH-AZ100 Review: Wireless Earbuds That Sound So Next Level I’m Ruined" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/technics-eah-az100-review-wireless-earbuds-that-sound-so-next-level-im-ruined-2000644438" target="_blank">Technics EAH-AZ100 Review: Wireless Earbuds That Sound So Next Level I’m Ruined</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-24 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/ganymede-jupiter-moon-infrared.jpg" alt="A Physicist Wants to Turn Jupiter’s Largest Moon Into a Gigantic Dark Matter Detector" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,15 +267,6 @@
                 <span class="time">2025-08-23 18:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/The-Batman-Robert-Pattinson.jpg" alt="Five Years Ago, ‘The Batman’ Made Its Brutal, Moody Debut" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/five-years-ago-the-batman-made-its-brutal-moody-debut-2000647060" target="_blank">Five Years Ago, ‘The Batman’ Made Its Brutal, Moody Debut</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-23 16:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,8 +286,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 13:06 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
