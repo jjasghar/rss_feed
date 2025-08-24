@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-24 11:01:36 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-24 12:01:56 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, August 24, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, August 24, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf19/live/b7b475b0-80d2-11f0-85df-4193996c50d4.jpg" alt="Zelensky vows to continue fighting as Ukraine marks independence day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czxy2v9dzgxo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky vows to continue fighting as Ukraine marks independence day</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-24 11:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/8/24/there-is-something-worse-than-starvation-in-gaza?traffic_source=rss" target="_blank">There is something worse than starvation in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-24 11:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Ukraine-flags-DB-25824_1756025475049_hpMain_4x3t_384.jpg" alt="Russia blames Ukraine for nuclear plant fire as Trump urges end to &#x27;senseless&#x27; war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/russia-hits-ukraine-drones-kyiv-celebrates-independence-day/story?id=124929154" target="_blank">Russia blames Ukraine for nuclear plant fire as Trump urges end to &#x27;senseless&#x27; war</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-24 11:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Ukraine-flags-DB-25824_1756025475049_hpMain_4x3t_384.jpg" alt="Russia hits Ukraine with drones as Kyiv celebrates independence day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,33 +99,6 @@
                 <span class="title"><a href="https://news.sky.com/story/israel-pounds-outskirts-of-gaza-city-overnight-as-military-offensive-plans-continue-13417480" target="_blank">Israel pounds outskirts of Gaza City overnight as military offensive plans continue</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-08-24 09:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/24/pakistan-foreign-minister-in-bangladesh-for-historic-visit-to-boost-ties?traffic_source=rss" target="_blank">Pakistan FM holds talks with Bangladeshi officials during ‘historic’ visit</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-24 08:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d40/live/f74a8070-8096-11f0-a34f-318be3fb0481.jpg" alt="Russia blames nuclear site attack on Ukraine as Kyiv marks independence day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czxy2v9dzgxo?at_medium=RSS&at_campaign=rss" target="_blank">Russia blames nuclear site attack on Ukraine as Kyiv marks independence day</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-24 07:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-australia-palestine_6999715.jpg?20250824081505" alt="Pro-Palestinian Australians protest after week of tension with Israel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/pro-palestine-australians-protest-after-week-of-tension-with-israel-13417435" target="_blank">Pro-Palestinian Australians protest after week of tension with Israel</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-24 07:06</span>
             </div>
         </div>
 </div>
@@ -189,6 +186,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/EDAC-Driver-ARM-Cortex-A72" target="_blank">Years Later, EDAC Linux Driver Coming For The ARM Cortex-A72</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-24 10:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://lina.sh/blog/telefonica-sabotages-me" target="_blank">A German ISP tampered with their DNS – specifically to sabotage my website</a></span>
                 <span class="feed">Hacker News</span>
@@ -213,20 +219,20 @@
                 <span class="time">2025-08-24 04:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://ghuntley.com/agent/" target="_blank">How to build a coding agent</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-24 03:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/ganymede-jupiter-moon-infrared.jpg" alt="A Physicist Wants to Turn Jupiter’s Largest Moon Into a Gigantic Dark Matter Detector" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/a-physicist-wants-to-turn-jupiters-largest-moon-into-a-gigantic-dark-matter-detector-2000645934" target="_blank">A Physicist Wants to Turn Jupiter’s Largest Moon Into a Gigantic Dark Matter Detector</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-24 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/mining.jpg" alt="A Treasure Trove of Key Minerals Is Being Wasted in the U.S., Study Claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,15 +278,6 @@
                 <span class="time">2025-08-23 16:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Tinymoose-Pencil-Pro-Plus-for-iPad-with-Wireless-Charging.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="This smooth, precise and on-sale digital pencil can take your creative vision to the next level" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/23/this-smooth-precise-and-on-sale-digital-pencil-can-take-your-creative-vision-to-the-next-level.html" target="_blank">This smooth, precise and on-sale digital pencil can take your creative vision to the next level</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-23 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -300,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
