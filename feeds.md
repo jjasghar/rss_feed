@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-24 06:01:53 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-24 07:01:43 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, August 24, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, August 24, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -69,6 +77,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/03/1920x1080/skynews-virginia-giuffre-jeffery-epstein_6872288.jpg?20250331160500" alt="Ghislaine Maxwell was given &#x27;platform to rewrite history&#x27;, say Virginia Giuffre&#x27;s family" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/ghislaine-maxwell-was-given-platform-to-rewrite-history-say-virginia-giuffres-family-13417404" target="_blank">Ghislaine Maxwell was given &#x27;platform to rewrite history&#x27;, say Virginia Giuffre&#x27;s family</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-24 01:03</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250722-Ghislaine-Maxwell-se-151p-d61f0f.jpg" alt="DOJ gave Ghislaine Maxwell &#x27;a platform to rewrite history,&#x27; Virginia Giuffre&#x27;s family says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/justice-department-gave-ghislaine-maxwell-platform-rewrite-history-fam-rcna226797" target="_blank">DOJ gave Ghislaine Maxwell &#x27;a platform to rewrite history,&#x27; Virginia Giuffre&#x27;s family says</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-24 00:12</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -77,29 +103,20 @@
                 <span class="time">2025-08-23 22:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/23/nx-s1-5513936/dhl-parcel-tariffs" target="_blank">Boxed in by shifting tariff rules, European shippers pause some U.S.-bound parcels</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-23 22:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/23/nx-s1-5513908/wildfire-california-napa-county-evacuations-oregon" target="_blank">Evacuations ordered as wildfire blazes California&#x27;s famed Napa County</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-23 19:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" alt="HP Coupon Codes and Deals: Up to 60% Off | August 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/hp-coupon-code/" target="_blank">HP Coupon Codes and Deals: Up to 60% Off | August 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-24 05:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68aa4183bf31773aefb5d8c5/master/pass/2169230846" alt="Scientists Have Identified the Origin of an Extraordinarily Powerful Outer Space Radio Wave" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,15 +160,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/08/23/the-trump-administrations-big-intel-investment-comes-from-already-awarded-grants/" target="_blank">The Trump administration’s big Intel investment comes from already awarded grants</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-08-23 16:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a9177e8e33b60b59287c3f/master/pass/The%20Best%20Hair%20Dryer%20for%20Women%20in%20STEM.png" alt="Best Hair Dryer: Rigorous Testing in Real Apartments (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-hair-dryers/" target="_blank">Best Hair Dryer: Rigorous Testing in Real Apartments (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-23 14:30</span>
             </div>
         </div>
 </div>
@@ -228,6 +236,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/onn-8.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This kid-friendly tablet is on sale for less than $100!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/23/this-kid-friendly-tablet-is-on-sale-for-less-than-100.html" target="_blank">This kid-friendly tablet is on sale for less than $100!</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-23 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2022/04/db035252532bbc24f6d808a7fd7b6177.jpg" alt="‘It’s Not Going to Slow Down’: The Tech Stock Everyone Is Watching This Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -263,15 +280,6 @@
                 <span class="time">2025-08-23 13:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2022/08/0574780fe5c9e3850d3c41d07b2d9e84.jpg" alt="‘Zipotle’: Chipotle Wants to Drop a Burrito on Your Head with New Drone Delivery" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/chipotle-delivery-zipline-drone-2000647043" target="_blank">‘Zipotle’: Chipotle Wants to Drop a Burrito on Your Head with New Drone Delivery</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-23 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -291,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
