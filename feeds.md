@@ -1,34 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-08-24 09:01:50 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-24 10:01:42 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, August 24, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, August 24, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Ukraine-flags-DB-25824_1756025475049_hpMain_4x3t_384.jpg" alt="Russia hits Ukraine with drones as Kyiv celebrates independence day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/russia-hits-ukraine-drones-kyiv-celebrates-independence-day/story?id=124929154" target="_blank">Russia hits Ukraine with drones as Kyiv celebrates independence day</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-24 09:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/24/newcastle-vs-liverpool-premier-league-teams-start-lineups?traffic_source=rss" target="_blank">Newcastle vs Liverpool: Premier League – team news, start time and lineups</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-24 09:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -63,39 +88,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-australia-palestine_6999715.jpg?20250824081505" alt="Pro-Palestinian Australians protest after week of tension with Israel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/pro-palestine-australians-protest-after-week-of-tension-with-israel-13417435" target="_blank">Pro-Palestinian Australians protest after week of tension with Israel</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-24 07:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/25/08/1920x1080/skynews-australia-palestine_6999715.jpg?20250824081505" alt="Pro-Palestine Australians protest after week of tension with Israel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
                 <span class="title"><a href="https://news.sky.com/story/pro-palestine-australians-protest-after-week-of-tension-with-israel-13417435" target="_blank">Pro-Palestine Australians protest after week of tension with Israel</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-08-24 07:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/24/barcelona-defeat-levante-with-thrilling-comeback-in-la-liga?traffic_source=rss" target="_blank">Barcelona defeat Levante with thrilling comeback in La Liga</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-24 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90d8/live/ec4ac5c0-808e-11f0-b0f3-a55f83c088bb.jpg" alt="Government plans to overhaul asylum appeals system" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cg4xp4ywk47o?at_medium=RSS&at_campaign=rss" target="_blank">Government plans to overhaul asylum appeals system</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-24 02:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/24/russia-ukraine-war-list-of-key-events-day-1277?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,277</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-24 01:57</span>
             </div>
         </div>
 </div>
@@ -172,6 +179,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/08/kubrix-idp/en/headerimage/generatedHeaderImage-1755981716793.jpg" alt="KubriX Launches as &quot;Out of the Box&quot; Internal Developer Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/kubrix-idp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">KubriX Launches as &quot;Out of the Box&quot; Internal Developer Platform</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-24 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvjbiktha3gtldyfvagjl.png" alt="Sync Obsidian Across Your Devices For Free, With GitHub And A Bit Of Nerve." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,15 +221,6 @@
                 <span class="title"><a href="https://dev.to/omochan_9dfc5afa47b4f63ed/flowerrr-m90" target="_blank">flowerrr</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-24 00:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.vincirufus.com/posts/agi-is-engineering-problem/" target="_blank">AGI is an engineering problem, not a model training problem</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-24 00:18</span>
             </div>
         </div>
 </div>
@@ -294,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
