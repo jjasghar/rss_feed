@@ -1,41 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-24 10:01:42 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-24 11:01:36 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 32 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, August 24, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, August 24, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -70,6 +69,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-gaza-israel_6999789.jpg?20250824102856" alt="Israel pounds outskirts of Gaza City overnight as military offensive plans continue" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/israel-pounds-outskirts-of-gaza-city-overnight-as-military-offensive-plans-continue-13417480" target="_blank">Israel pounds outskirts of Gaza City overnight as military offensive plans continue</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-24 09:21</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -92,15 +100,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
                 <span class="title"><a href="https://news.sky.com/story/pro-palestine-australians-protest-after-week-of-tension-with-israel-13417435" target="_blank">Pro-Palestinian Australians protest after week of tension with Israel</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-24 07:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-australia-palestine_6999715.jpg?20250824081505" alt="Pro-Palestine Australians protest after week of tension with Israel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/pro-palestine-australians-protest-after-week-of-tension-with-israel-13417435" target="_blank">Pro-Palestine Australians protest after week of tension with Israel</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-08-24 07:06</span>
             </div>
@@ -179,6 +178,24 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shiva_shanker_k/the-98-ai-deepfake-detector-thats-dividing-the-dev-community-2doa" target="_blank">The 98% AI Deepfake Detector That&#x27;s Dividing the Dev Community</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-24 10:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lina.sh/blog/telefonica-sabotages-me" target="_blank">A German ISP tampered with their DNS – specifically to sabotage my website</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-24 10:27</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/08/kubrix-idp/en/headerimage/generatedHeaderImage-1755981716793.jpg" alt="KubriX Launches as &quot;Out of the Box&quot; Internal Developer Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -205,29 +222,20 @@
                 <span class="time">2025-08-24 03:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yash_sonawane25/docker-series-episode-2-installing-docker-without-crying-cross-platform-setup-guide-45ha" target="_blank">🛳️ Docker Series: Episode 2 — Installing Docker Without Crying (Cross-Platform Setup Guide)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-24 02:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/omochan_9dfc5afa47b4f63ed/flowerrr-m90" target="_blank">flowerrr</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-24 00:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/mining.jpg" alt="A Treasure Trove of Key Minerals Is Being Wasted in the U.S., Study Claims" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/a-treasure-trove-of-key-minerals-is-being-wasted-in-the-u-s-study-claims-2000646858" target="_blank">A Treasure Trove of Key Minerals Is Being Wasted in the U.S., Study Claims</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-24 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/kingo-eternals.jpg" alt="Kumail Nanjiani Reveals His ‘Eternals’ Future That Could’ve Been" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,15 +281,6 @@
                 <span class="time">2025-08-23 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/shutterstock_2645258883.jpg?fit=1000%2C666&amp;quality=60&amp;ssl=1" alt="High a mile high club: British Airways attendant found naked in toilet pleads guilty" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/23/high-a-mile-high-club-british-airways-attendant-found-naked-in-toilet-pleads-guilty.html" target="_blank">High a mile high club: British Airways attendant found naked in toilet pleads guilty</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-23 13:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -301,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
