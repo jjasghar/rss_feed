@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-24 22:01:51 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-24 23:01:44 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, August 24, 2025 - 22:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, August 24, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/24/nx-s1-5514814/kilmar-abrego-garcia-could-be-detained-by-ice-again-attorney-says" target="_blank">Kilmar Abrego Garcia expects to be detained by ICE again, attorney says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-24 21:16</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d9d/live/3207d060-8113-11f0-a34f-318be3fb0481.jpg" alt="Inside Donetsk as residents flee attacks on Ukrainian region Putin wants to control" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c209yn1ygz6o?at_medium=RSS&at_campaign=rss" target="_blank">Inside Donetsk as residents flee attacks on Ukrainian region Putin wants to control</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-24 21:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/24/nx-s1-5514470/illinois-officials-blast-trumps-threat-to-deploy-national-guard-in-chicago" target="_blank">Illinois officials blast Trump&#x27;s threat to deploy National Guard in Chicago</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-24 17:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/24/amid-gaza-famine-palestinian-girl-struggles-to-survive?traffic_source=rss" target="_blank">Amid Gaza famine, Palestinian girl struggles to survive</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-24 17:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/8/24/ghislaine-maxwells-testimony-says-a-lot-about-our-dystopia?traffic_source=rss" target="_blank">Ghislaine Maxwell’s testimony says a lot about our dystopia</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-24 17:24</span>
             </div>
         </div>
 </div>
@@ -167,6 +166,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/music_youtube/rick-beato-unpacking-the-beatles-1965-songwriting-blueprint-2mp" target="_blank">Rick Beato: Unpacking The Beatles&#x27; 1965 Songwriting Blueprint</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-24 22:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/casperday11/day-75-when-work-becomes-mental-survival-not-motivation-1160" target="_blank">Day 75: When Work Becomes Mental Survival (Not Motivation)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-24 21:27</span>
@@ -208,20 +216,20 @@
                 <span class="time">2025-08-24 16:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://avi.im/blag/2025/sqlite-fsync/" target="_blank">SQLite (with WAL) doesn&#x27;t do `fsync` on each commit under default settings</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-24 15:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Cheerble-Ball.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="No more cat-itude! Entertain your feline for hours with this interactive toy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/24/no-more-cat-itude-entertain-your-feline-for-hours-with-this-interactive-toy.html" target="_blank">No more cat-itude! Entertain your feline for hours with this interactive toy</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-24 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/THE-TOXIC-AVENGER_9-2.jpg" alt="The Final ‘Toxic Avenger’ Trailer Is a Goofy, Retro Call to Arms" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,15 +275,6 @@
                 <span class="time">2025-08-24 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2022/06/94d1a3b9f59f1c0c002864e8defbca1b.jpg" alt="South Korean man arrested in Thailand in $50 million crypto scam" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/south-korean-man-50-million-crypto-scam-2000647369" target="_blank">South Korean man arrested in Thailand in $50 million crypto scam</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-24 14:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 41 | 📸 With Images: 283 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 41 | 📸 With Images: 281 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
