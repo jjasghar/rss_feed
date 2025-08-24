@@ -1,26 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-24 13:06:54 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-08-24 14:01:29 UTC -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 4 new posts out of 18 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, August 24, 2025 - 13:06 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, August 24, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/24/pro-palestine-protesters-rally-in-cities-across-australia?traffic_source=rss" target="_blank">Pro-Palestine protesters rally in cities across Australia</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-24 13:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/VANCE_FULL-o7raon.jpg" alt="JD Vance says Putin ‘not at all’ misleading Trump in Ukraine talks: Full interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/jd-vance-says-putin-not-at-all-misleading-trump-in-ukraine-talks-full-interview-245659717809" target="_blank">JD Vance says Putin ‘not at all’ misleading Trump in Ukraine talks: Full interview</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-24 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1756038717182_tdy_sun_zanona_ghislaine_maxwell_250824_1920x1080-uhrqk9.jpg" alt="Family of Epstein Accuser ‘Outraged’ Over Ghislaine Maxwell Audio" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,29 +100,29 @@
                 <span class="time">2025-08-24 11:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Ukraine-flags-DB-25824_1756025475049_hpMain_4x3t_384.jpg" alt="Russia blames Ukraine for nuclear plant fire as Trump urges end to &#x27;senseless&#x27; war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/russia-hits-ukraine-drones-kyiv-celebrates-independence-day/story?id=124929154" target="_blank">Russia blames Ukraine for nuclear plant fire as Trump urges end to &#x27;senseless&#x27; war</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-24 11:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Ukraine-flags-DB-25824_1756025475049_hpMain_4x3t_384.jpg" alt="Russia hits Ukraine with drones as Kyiv celebrates independence day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/russia-hits-ukraine-drones-kyiv-celebrates-independence-day/story?id=124929154" target="_blank">Russia hits Ukraine with drones as Kyiv celebrates independence day</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-24 09:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/24/elon-musk-says-xai-has-open-sourced-grok-2-5/" target="_blank">Elon Musk says xAI has open sourced Grok 2.5</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-24 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68a9542d506876fd9ae883e3/master/pass/The%20Best%20Cheap%20TVs%20Right%20Now.png" alt="The Best Cheap TVs (2025): TCL, Hisense, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-cheap-tvs/" target="_blank">The Best Cheap TVs (2025): TCL, Hisense, and More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-24 13:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" alt="HP Coupon Codes and Deals: Up to 60% Off | August 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -131,36 +159,27 @@
                 <span class="time">2025-08-23 20:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/764496/bose-tv-speaker-soundbar-8bitdo-ultimate-2-bluetooth-controller-deal-sale" target="_blank">Bose’s compact TV Speaker is more than $100 off right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-23 16:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/23/the-trump-administrations-big-intel-investment-comes-from-already-awarded-grants/" target="_blank">The Trump administration’s big Intel investment comes from already awarded grants</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-23 16:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://res.cloudinary.com/about-gitlab-com/image/upload/v1755617168/gz45eaygeb0nizf1kwyu.png" alt="The GitLab documentation site gets a major design overhaul" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-gitlab"></span>
-                <span class="title"><a href="https://about.gitlab.com/blog/blog-post-slug/" target="_blank">The GitLab documentation site gets a major design overhaul</a></span>
-                <span class="feed">GitLab</span>
-                <span class="time">2025-08-25 00:00</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/CachyOS-August-2025" target="_blank">CachyOS Introduces Packages Dashboard, GRUB+Btrfs Bootable Snapshots</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-24 13:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/" target="_blank">Dynamically patch a Python function&#x27;s source code at runtime</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-24 12:28</span>
             </div>
         </div>
 <div class="story">
@@ -197,15 +216,6 @@
                 <span class="title"><a href="https://lina.sh/blog/telefonica-sabotages-me" target="_blank">A German ISP tampered with their DNS – specifically to sabotage my website</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-24 10:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/kubrix-idp/en/headerimage/generatedHeaderImage-1755981716793.jpg" alt="KubriX Launches as &quot;Out of the Box&quot; Internal Developer Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/kubrix-idp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">KubriX Launches as &quot;Out of the Box&quot; Internal Developer Platform</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-24 09:00</span>
             </div>
         </div>
 </div>
@@ -286,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 13:06 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 41 | 📸 With Images: 288 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
