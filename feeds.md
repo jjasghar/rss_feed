@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-25 16:01:55 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-25 17:01:18 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, August 25, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, August 25, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,12 +46,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df28/live/ded555d0-81a7-11f0-bb47-d3827f7ae22f.jpg" alt="Three dead and one injured in helicopter crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c87e22ryerlo?at_medium=RSS&at_campaign=rss" target="_blank">Three dead and one injured in helicopter crash</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-25 16:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-4-epa-gmh-250825_1756135343442_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump signs orders targeting cashless bail, flag burning" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124929306" target="_blank">Trump admin live updates: Trump signs orders targeting cashless bail, flag burning</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-25 15:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/25/nx-s1-5496463/is-edinburghs-fringe-still-fringe-or-has-it-gasp-gone-mainstream" target="_blank">Is Edinburgh&#x27;s Fringe still fringe, or has it — gasp — gone mainstream?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-25 15:42</span>
             </div>
         </div>
 <div class="story">
@@ -77,29 +99,29 @@
                 <span class="time">2025-08-25 13:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/25/what-is-gbs-the-rare-paralytic-disease-in-gaza-amid-israeli-blockade?traffic_source=rss" target="_blank">What is GBS, the rare paralytic disease in Gaza amid Israeli blockade?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-25 13:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/25/bangladesh-issues-global-call-on-rohingya-crisis?traffic_source=rss" target="_blank">Bangladesh issues global call on Rohingya crisis</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-25 12:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68ac848c7f208fb5060c4e64/master/pass/Elon-Sues-Apple-Business-2217126326.jpg" alt="Elon Musk&#x27;s xAI Sues Apple and OpenAI Over App Store Rankings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/elon-musks-xai-sues-apple-and-openai-over-alleged-app-store-rigging/" target="_blank">Elon Musk&#x27;s xAI Sues Apple and OpenAI Over App Store Rankings</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-25 16:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/smart-home/765121/kwikset-halo-select-smart-lock-sonos-era-300-deal-sale" target="_blank">Our favorite smart lock is on sale for the first time today</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-25 16:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,29 +158,20 @@
                 <span class="time">2025-08-25 14:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/25/next-batch-of-startup-battlefield-200-judges-revealed/" target="_blank">Next set of VC judges locked in for Startup Battlefield 200 at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-25 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/765063/apple-iphone-air-redesign-three-year-plan" target="_blank">Apple&amp;#8217;s three-year iPhone plan is a break from the boring</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-25 13:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18575736&w=600" alt="Agent-to-Agent Protocol: Implementation and Architecture With Strands Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/agent-to-agent-protocol-strands-architecture" target="_blank">Agent-to-Agent Protocol: Implementation and Architecture With Strands Agents</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-25 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +217,6 @@
                 <span class="time">2025-08-25 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ilsa_shaikh_089e2bfab0bf4/stop-fighting-css-7-clever-hacks-for-smoother-styling-1bo3" target="_blank">🛠️ Stop Fighting CSS : 7 Clever Hacks for Smoother Styling</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-25 13:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +236,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/orange-shark-xanthism-main.jpg" alt="This Orange Shark Is the Result of a Rare Genetic Double Whammy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/this-orange-shark-is-the-result-of-a-rare-genetic-double-whammy-2000647573" target="_blank">This Orange Shark Is the Result of a Rare Genetic Double Whammy</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-25 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/plaza-hotel.jpg?fit=1200%2C787&amp;quality=60&amp;ssl=1" alt="NYC hotels pocket billions after helping push through Airbnb ban" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/25/nyc-hotels-pocket-billions-after-helping-push-through-airbnb-ban.html" target="_blank">NYC hotels pocket billions after helping push through Airbnb ban</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-25 16:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/KpopDemonHunters_ProRes422HQ_SDR_2ch_20250424.00_06_29_14_L-1.jpg" alt="My KPop Demon Hunters Singalong Crowd Did Not Pass The Vibe Check" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/kpop-demon-hunters-singalong-box-office-showtimes-songs-2000620026" target="_blank">My KPop Demon Hunters Singalong Crowd Did Not Pass The Vibe Check</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-25 16:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K3GTY9YWGMSAKPP0D5XW990R/hero-image.png" alt="The Four Best YouTube Channels to Help You Fall Asleep" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -257,33 +288,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/25/japans-creepysilent-hill-train-station.html" target="_blank">Japan&#x27;s creepy &quot;Silent Hill&quot; train station</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-25 15:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Samsung-Galaxy-Z-Fold-7-44.jpg" alt="Report Reveals Major Details About Apple’s Foldable iPhone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/report-reveals-major-details-about-apples-foldable-iphone-2000647520" target="_blank">Report Reveals Major Details About Apple’s Foldable iPhone</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-25 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/air_purifier.jpg" alt="Most Air Purifiers Haven’t Been Tested on Humans. That’s a Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/most-air-purifiers-havent-been-tested-on-humans-thats-a-problem-2000647514" target="_blank">Most Air Purifiers Haven’t Been Tested on Humans. That’s a Problem</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-25 13:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K3A3AC2ZM1TG4T576ABH0S0C/hero-image.jpg" alt="This DeWalt Drill and Driver Set Is 30% Off for Amazon’s Labor Day Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/dewalt-drill-and-driver-set-labor-day-2025-sale?utm_medium=RSS" target="_blank">This DeWalt Drill and Driver Set Is 30% Off for Amazon’s Labor Day Sale</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-25 13:30</span>
             </div>
         </div>
 </div>
@@ -323,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
