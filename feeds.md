@@ -1,42 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-25 09:02:05 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-25 10:01:45 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 34 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, August 25, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, August 25, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/muriel-bowser-20250825-ap-jh_1756064792801_hpMain_4x3t_384.jpg" alt="DC students head back to school amid Trump&#x27;s law enforcement surge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/dc-students-head-back-school-amid-trumps-law/story?id=124936372" target="_blank">DC students head back to school amid Trump&#x27;s law enforcement surge</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-25 09:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/napa-3_1755996234628_hpMain_4x3t_384.jpg" alt="California wine country wildfire nears 7,000 acres, mandatory evacuations ordered" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -97,20 +96,20 @@
                 <span class="time">2025-08-25 04:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/25/us-national-guard-troops-begin-carrying-weapons-in-washington-dc?traffic_source=rss" target="_blank">US National Guard troops begin carrying weapons in Washington, DC</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-25 03:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68a76726008a75c02662a07c/master/pass/tormenta%20geomagn%C3%A9tica%20G2%201364036630.jpg" alt="IBM and NASA Develop a Digital Twin of the Sun to Predict Future Solar Storms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ibm-and-nasa-develop-a-digital-twin-of-the-sun-to-predict-future-solar-storms/" target="_blank">IBM and NASA Develop a Digital Twin of the Sun to Predict Future Solar Storms</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-25 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,15 +153,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/08/24/iphone-17-the-thinnest-iphone-ever-and-everything-else-were-expecting-out-of-apples-hardware-event/" target="_blank">iPhone 17, the ‘thinnest iPhone ever,’ and everything else we’re expecting out of Apple’s hardware event</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-08-24 14:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/24/elon-musk-says-xai-has-open-sourced-grok-2-5/" target="_blank">Elon Musk says xAI has open sourced Grok 2.5</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-24 14:00</span>
             </div>
         </div>
 </div>
@@ -320,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 41 | 📸 With Images: 273 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
