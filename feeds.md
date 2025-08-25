@@ -1,36 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-08-25 08:01:59 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-25 09:02:05 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, August 25, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, August 25, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/napa-3_1755996234628_hpMain_4x3t_384.jpg" alt="California wine country wildfire nears 7,000 acres, mandatory evacuations ordered" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/firefighters-battle-wildfire-californias-napa-valley/story?id=124925904" target="_blank">California wine country wildfire nears 7,000 acres, mandatory evacuations ordered</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-25 08:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +104,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/25/us-national-guard-troops-begin-carrying-weapons-in-washington-dc?traffic_source=rss" target="_blank">US National Guard troops begin carrying weapons in Washington, DC</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-25 03:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-mushroom-poisoner-erin-patterson_7000697.jpg?20250825052419" alt="Mushroom murderer Erin Patterson left me &#x27;half alive&#x27;, sole survivor says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/mushroom-murderer-erin-patterson-left-me-half-alive-sole-survivor-says-13418045" target="_blank">Mushroom murderer Erin Patterson left me &#x27;half alive&#x27;, sole survivor says</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-25 03:05</span>
             </div>
         </div>
 </div>
@@ -165,6 +171,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/08/docker-content-trust-retired/en/headerimage/generatedHeaderImage-1756078468241.jpg" alt="Docker Content Trust Retired as Alternatives Flourish" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/docker-content-trust-retired/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Docker Content Trust Retired as Alternatives Flourish</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-25 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0yvqsrs6lf1lvkudmr8k.png" alt="Thoughts on using AI for software development" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sapegin/thoughts-on-using-ai-for-software-development-539b" target="_blank">Thoughts on using AI for software development</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-25 08:43</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -194,28 +218,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/canro91/is-burnout-inevitable-in-the-world-of-tech-lets-talk-about-it-30f5" target="_blank">Is Burnout Inevitable in the World of Tech? Let&#x27;s Talk About It</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-25 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://git-annex.branchable.com/" target="_blank">Git-Annex</a></span>
+                <span class="title"><a href="https://jakub.kr/components/oklch-colors" target="_blank">What are OKLCH colors?</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2025-08-25 04:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yash_sonawane25/docker-series-episode-3-images-vs-containers-explained-with-tiffin-boxes-chai-cio" target="_blank">🛳️ Docker Series: Episode 3 — Images vs Containers (Explained with Tiffin Boxes &amp; Chai)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-25 03:42</span>
+                <span class="time">2025-08-25 06:32</span>
             </div>
         </div>
 </div>
@@ -283,6 +289,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/08/25/gundammit" target="_blank">Gundammit</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-08-25 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5642.png" alt="Balance Patch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -305,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
