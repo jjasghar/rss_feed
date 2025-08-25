@@ -1,38 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-08-25 13:10:39 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-25 14:01:49 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 11 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, August 25, 2025 - 13:10 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, August 25, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +40,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/kilmar-abrego-06-rt-jef-250825_1756127452126_hpMain_4x3t_384.jpg" alt="Kilmar Abrego Garcia detained at ICE office in Maryland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/kilmar-abrego-garcia-check-ice-maryland-deportation-threat/story?id=124944566" target="_blank">Kilmar Abrego Garcia detained at ICE office in Maryland</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-25 13:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/25/nx-s1-5515422/kilmar-abrego-garcia-detained-ice" target="_blank">Kilmar Abrego Garcia detained by ICE during Baltimore check-in</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-25 13:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/25/what-is-gbs-the-rare-paralytic-disease-in-gaza-amid-israeli-blockade?traffic_source=rss" target="_blank">What is GBS, the rare paralytic disease in Gaza amid Israeli blockade?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-25 13:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,38 +94,29 @@
                 <span class="time">2025-08-25 11:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1756120406970_tdy_news_7a_gutierrez_national_guard_trump_250820_1920x1080-j92eya.jpg" alt="National Guard Troops in Washington, DC Begin Carrying Firearms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-threatens-to-send-troops-to-other-major-cities-245685317970" target="_blank">National Guard Troops in Washington, DC Begin Carrying Firearms</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-25 11:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/08/25/g-s1-84393/whatever-happened-to-the-race-to-cure-hiv-theres-promising-news" target="_blank">Whatever happened to ... the race to cure HIV? There&#x27;s promising news</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-25 10:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/muriel-bowser-20250825-ap-jh_1756064792801_hpMain_4x3t_384.jpg" alt="DC students head back to school amid Trump&#x27;s law enforcement surge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/dc-students-head-back-school-amid-trumps-law/story?id=124936372" target="_blank">DC students head back to school amid Trump&#x27;s law enforcement surge</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-25 09:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/25/next-batch-of-startup-battlefield-200-judges-revealed/" target="_blank">Next set of VC judges locked in for Startup Battlefield 200 at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-25 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/765063/apple-iphone-air-redesign-three-year-plan" target="_blank">Apple&amp;#8217;s three-year iPhone plan is a break from the boring</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-25 13:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/685f5aa9313641784030d4a6/master/pass/The%20Best%20Power%20Banks%20for%20All%20Your%20Devices_.png" alt="25 Best Power Banks (2025), I&#x27;ve Tested Countless to Find Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,29 +153,29 @@
                 <span class="time">2025-08-25 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/infinite_mirrors-500x500.jpg" alt="With AI chatbots, Big Tech is moving fast and breaking people" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/information-technology/2025/08/with-ai-chatbots-big-tech-is-moving-fast-and-breaking-people/" target="_blank">With AI chatbots, Big Tech is moving fast and breaking people</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-25 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a76726008a75c02662a07c/master/pass/tormenta%20geomagn%C3%A9tica%20G2%201364036630.jpg" alt="IBM and NASA Develop a Digital Twin of the Sun to Predict Future Solar Storms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/ibm-and-nasa-develop-a-digital-twin-of-the-sun-to-predict-future-solar-storms/" target="_blank">IBM and NASA Develop a Digital Twin of the Sun to Predict Future Solar Storms</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-25 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/08/25/making-continuous-learning-work-at-work/" target="_blank">Making continuous learning work at work</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-08-25 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ilsa_shaikh_089e2bfab0bf4/stop-fighting-css-7-clever-hacks-for-smoother-styling-1bo3" target="_blank">🛠️ Stop Fighting CSS : 7 Clever Hacks for Smoother Styling</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-25 13:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,24 +212,6 @@
                 <span class="time">2025-08-25 07:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/open-source-advantage-europe" target="_blank">69% of organizations in Europe believe adopting open source makes them more competitive – new Linux Foundation research</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-08-25 07:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa0qw2ostdwthf2zeigx1.jpeg" alt="🚀 From DSA to Deployment: What a Real Full-Stack Job Interview Looks Like in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/finalroundai/from-dsa-to-deployment-what-a-real-full-stack-job-interview-looks-like-in-2025-3ibo" target="_blank">🚀 From DSA to Deployment: What a Real Full-Stack Job Interview Looks Like in 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-25 06:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +232,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/air_purifier.jpg" alt="Most Air Purifiers Haven’t Been Tested on Humans. That’s a Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/most-air-purifiers-havent-been-tested-on-humans-thats-a-problem-2000647514" target="_blank">Most Air Purifiers Haven’t Been Tested on Humans. That’s a Problem</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-25 13:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K3A3AC2ZM1TG4T576ABH0S0C/hero-image.jpg" alt="This DeWalt Drill and Driver Set Is 30% Off for Amazon’s Labor Day Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/dewalt-drill-and-driver-set-labor-day-2025-sale?utm_medium=RSS" target="_blank">This DeWalt Drill and Driver Set Is 30% Off for Amazon’s Labor Day Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-25 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/05/d8f74d792342ce766d95cf4dfef6d184.jpg" alt="The Next Switch 2 Nintendo Direct Is Reportedly Coming Soon And Will Probably Be A Big One" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nintendo-direct-september-switch-2-mario-metroid-prime-4-date-2000619997" target="_blank">The Next Switch 2 Nintendo Direct Is Reportedly Coming Soon And Will Probably Be A Big One</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-25 13:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Screenshot-2025-08-25-at-8.02.02-AM.png?fit=1310%2C782&amp;quality=55&amp;ssl=1" alt="Generate your own Space Invaders" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/25/generate-your-own-space-invaders.html" target="_blank">Generate your own Space Invaders</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-25 12:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/shinobi_aov_hero.jpg" alt="Shinobi: Art of Vengeance: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -255,42 +283,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/24/no-more-cat-itude-entertain-your-feline-for-hours-with-this-interactive-toy.html" target="_blank">No more cat-itude! Entertain your feline for hours with this interactive toy</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-24 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/THE-TOXIC-AVENGER_9-2.jpg" alt="The Final ‘Toxic Avenger’ Trailer Is a Goofy, Retro Call to Arms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-final-toxic-avenger-trailer-is-a-goofy-retro-call-to-arms-2000647305" target="_blank">The Final ‘Toxic Avenger’ Trailer Is a Goofy, Retro Call to Arms</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-24 20:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/kpop-demon-hunters-netflix.jpg" alt="‘KPop Demon Hunters’ Could Sing to Netflix’s First Theatrical Hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/kpop-demon-hunters-could-sing-to-netflixs-first-theatrical-hit-2000647379" target="_blank">‘KPop Demon Hunters’ Could Sing to Netflix’s First Theatrical Hit</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-24 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/bokatan-mandalorian.jpg" alt="Katee Sackhoff Talks ‘The Mandalorian’ and Acting Struggles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/katee-sackhoff-the-mandalorian-bo-katan-2000647302" target="_blank">Katee Sackhoff Talks ‘The Mandalorian’ and Acting Struggles</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-24 16:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2022/08/14056498d580cb8bf8c2e0f3f0c6ba01.jpg" alt="Regulators Say Binance Must Tighten Money Laundering, Terrorism Rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/binance-australia-terrorism-2000647295" target="_blank">Regulators Say Binance Must Tighten Money Laundering, Terrorism Rules</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-24 15:39</span>
             </div>
         </div>
 </div>
@@ -330,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 84 | 📡 Total Sources: 41 | 📸 With Images: 274 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 90 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
