@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-25 11:01:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-25 12:02:06 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 1 new posts out of 23 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, August 25, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, August 25, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1756120406970_tdy_news_7a_gutierrez_national_guard_trump_250820_1920x1080-j92eya.jpg" alt="National Guard Troops in Washington, DC Begin Carrying Firearms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-threatens-to-send-troops-to-other-major-cities-245685317970" target="_blank">National Guard Troops in Washington, DC Begin Carrying Firearms</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-25 11:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +99,38 @@
                 <span class="time">2025-08-25 05:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/25/nx-s1-5515313/uk-britain-immigration-protests-asylum" target="_blank">U.K. migrant protests spark angry confrontations as government scrambles to respond</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-25 04:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/765025/first-netflix-house-opens-its-doors-on-november-12th" target="_blank">First Netflix House opens its doors on November 12th</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-25 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68ab8a6701d4defd6c7f7485/master/pass/Review-%20Pro%20by%20De%CC%81esse%20Pro.png" alt="Pro by Déesse Pro Review: Mostly a Gimmick" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/pro-by-deesse-pro/" target="_blank">Pro by Déesse Pro Review: Mostly a Gimmick</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-25 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/infinite_mirrors-500x500.jpg" alt="With AI chatbots, Big Tech is moving fast and breaking people" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/information-technology/2025/08/with-ai-chatbots-big-tech-is-moving-fast-and-breaking-people/" target="_blank">With AI chatbots, Big Tech is moving fast and breaking people</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-25 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68a76726008a75c02662a07c/master/pass/tormenta%20geomagn%C3%A9tica%20G2%201364036630.jpg" alt="IBM and NASA Develop a Digital Twin of the Sun to Predict Future Solar Storms" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -126,33 +156,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/08/24/netflixs-kpop-demon-hunters-is-probably-the-biggest-movie-in-theaters/" target="_blank">Netflix’s ‘KPop Demon Hunters’ is probably the biggest movie in theaters</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-08-24 19:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/IMG_4815-500x500.jpg" alt="Time is running out for SpaceX to make a splash with second-gen Starship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/08/whats-the-goal-of-spacexs-10th-starship-test-flight-right-the-ship/" target="_blank">Time is running out for SpaceX to make a splash with second-gen Starship</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-24 18:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/24/techcrunch-mobility-waymos-big-apple-score-and-nvidia-backs-nuro/" target="_blank">TechCrunch Mobility: Waymo’s Big Apple score and Nvidia backs Nuro</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-24 18:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/24/iphone-17-the-thinnest-iphone-ever-and-everything-else-were-expecting-out-of-apples-hardware-event/" target="_blank">iPhone 17, the ‘thinnest iPhone ever,’ and everything else we’re expecting out of Apple’s hardware event</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-24 14:14</span>
             </div>
         </div>
 </div>
@@ -220,6 +223,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/shinobi_aov_hero.jpg" alt="Shinobi: Art of Vengeance: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/shinobi-art-of-vengeance-the-kotaku-review-2000619735" target="_blank">Shinobi: Art of Vengeance: The Kotaku Review</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-25 12:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Cheerble-Ball.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="No more cat-itude! Entertain your feline for hours with this interactive toy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -264,15 +276,6 @@
                 <span class="time">2025-08-24 15:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/VoiceType-AI-Voice-to-Text.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Tired of writing emails? Speak them in seconds with VoiceType" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/24/tired-of-writing-emails-speak-them-in-seconds-with-voicetype.html" target="_blank">Tired of writing emails? Speak them in seconds with VoiceType</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-24 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 84 | 📡 Total Sources: 41 | 📸 With Images: 272 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 84 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
