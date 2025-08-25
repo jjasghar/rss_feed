@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-25 21:01:46 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-08-25 22:01:46 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, August 25, 2025 - 21:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, August 25, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/25/slain-al-jazeera-journalist-died-documenting-gazas?traffic_source=rss" target="_blank">Slain Al Jazeera journalist died documenting Gaza’s ‘suffering’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-25 21:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1756154237858_f_mo_dc_pritzker_chicago_trump_250825_1920x1080-wyngr4.jpg" alt="&#x27;Do not come to Chicago&#x27;: Pritzker on Trump plans to send troops to Illinois" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +98,20 @@
                 <span class="time">2025-08-25 18:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/25/nx-s1-5515594/kennedy-center-dance-programming" target="_blank">Kennedy Center names new director of dance programming, days after former staff firings</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-25 18:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/765254/amazon-kindle-colorsoft-16gb-e-reader-deal-sale" target="_blank">The new entry-level Kindle Colorsoft is $30 off for a limited time</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-25 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-500x500.jpg" alt="Google will block sideloading of unverified Android apps starting next year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +157,29 @@
                 <span class="time">2025-08-25 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/trump-august-2025-500x500-1756146144.jpg" alt="CBS caved to Trump—now he’s seeking punishments for ABC and NBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/08/cbs-caved-to-trump-now-hes-seeking-punishments-for-abc-and-nbc/" target="_blank">CBS caved to Trump—now he’s seeking punishments for ABC and NBC</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-25 18:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/08/open-source-ai/en/headerimage/header+%283%29-1756148185728.jpg" alt="Zemlin at Open Source Summit EU: Even in the Age of AI, the Software’s Future Is Still Open Source" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/open-source-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Zemlin at Open Source Summit EU: Even in the Age of AI, the Software’s Future Is Still Open Source</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-25 21:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/casperday11/mutiny-is-live-where-ideas-find-their-people-and-capital-finds-its-purpose-5e05" target="_blank">Mutiny is Live: Where Ideas Find Their People and Capital Finds Its Purpose</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-25 21:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -171,6 +187,15 @@
                 <span class="title"><a href="https://dev.to/theoriginalbpc/creating-your-first-repo-5bd" target="_blank">Creating Your First Repo</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-25 20:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Floppy-Disk-Cleanups-2025" target="_blank">Linux&#x27;s Floppy Disk Driver Code Sees Some Cleanups In 2025</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-25 20:03</span>
             </div>
         </div>
 <div class="story">
@@ -189,33 +214,6 @@
                 <span class="title"><a href="https://dev.to/casperday11/day-76-when-your-brain-runs-on-2-battery-but-you-keep-coding-41cf" target="_blank">Day 76: When Your Brain Runs on 2% Battery But You Keep Coding</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-25 18:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18575793&w=600" alt="A Beginner’s Guide to Hyperparameter Tuning: From Theory to Practice" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/guide-to-parameter-tuning" target="_blank">A Beginner’s Guide to Hyperparameter Tuning: From Theory to Practice</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-25 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips" target="_blank">Google&#x27;s Liquid Cooling</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-25 17:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/png-3-hdr-animated-png-support/en/headerimage/generatedHeaderImage-1756140064132.jpg" alt="Third Edition of PNG Specification Released, Adds HDR and Official APNG Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/png-3-hdr-animated-png-support/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Third Edition of PNG Specification Released, Adds HDR and Official APNG Support</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-25 17:33</span>
             </div>
         </div>
 </div>
@@ -237,6 +235,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/Gamescome.jpg" alt="6 Awesome-Looking Games That Went Under The Radar At Gamescom 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gamescom-2025-trailers-cozy-sim-jrpg-soulslike-roguelite-2000620078" target="_blank">6 Awesome-Looking Games That Went Under The Radar At Gamescom 2025</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-25 21:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K3H97X40NZT5VXCZFV68FXEB/hero-image.jpg" alt="How the iPhone Will Change Over the Next Three Years, According to Bloomberg" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apples-three-year-product-roadmap-according-to-bloomberg?utm_medium=RSS" target="_blank">How the iPhone Will Change Over the Next Three Years, According to Bloomberg</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-25 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Microsoft-Windows-11-Pro-2.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Price Drop: Make Your Gaming PC Feel Next-Gen — Windows 11 Pro $12.97" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/25/price-drop-make-your-gaming-pc-feel-next-gen-windows-11-pro-12-97.html" target="_blank">Price Drop: Make Your Gaming PC Feel Next-Gen — Windows 11 Pro $12.97</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-25 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/01/Houston-police-e1756155126656.jpeg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="How to avoid entrapment at traffic stops (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,33 +287,6 @@
                 <span class="title"><a href="https://kotaku.com/portal-2-minecraft-java-edition-mod-valve-pc-remake-2000620054" target="_blank">New Minecraft Mod Turns It Into Portal 2, Complete With A Level Editor</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-25 19:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/SWITCH-2-DEV-KITS-MAIN.jpg" alt="Nintendo Reportedly Pushing Devs To Release On Switch 1 Instead Of Sharing Switch 2 Dev Kits" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/nintendo-switch-2-dev-kits-gamescom-digital-foundry-2000620055" target="_blank">Nintendo Reportedly Pushing Devs To Release On Switch 1 Instead Of Sharing Switch 2 Dev Kits</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-25 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/shutterstock_102914510-e1755701570520.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="The wild defense system that kept this Egyptian mummy safe for millennia (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/25/the-wild-defense-system-that-kept-this-egyptian-mummy-safe-for-millennia-video.html" target="_blank">The wild defense system that kept this Egyptian mummy safe for millennia (video)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-25 18:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/pigsfarm.jpg" alt="In a First, a Human Breathed Using an Implanted Pig Lung" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/in-a-first-a-human-breathed-using-an-implanted-pig-lung-2000647500" target="_blank">In a First, a Human Breathed Using an Implanted Pig Lung</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-25 18:40</span>
             </div>
         </div>
 </div>
@@ -328,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 41 | 📸 With Images: 282 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
