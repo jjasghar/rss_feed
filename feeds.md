@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-25 02:31:15 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-25 03:22:14 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, August 25, 2025 - 02:31 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, August 25, 2025 - 03:22 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/25/south-koreas-lee-set-to-meet-trump-with-trade-and-security-high-on-agenda?traffic_source=rss" target="_blank">South Korea’s Lee set to meet Trump, with trade and security high on agenda</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-25 02:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +102,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/24/canadas-carney-meets-zelenskyy-backs-security-guarantees-for-ukraine?traffic_source=rss" target="_blank">Canada’s Carney meets Zelenskyy, backs security guarantees for Ukraine</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-24 20:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/24/nx-s1-5514467/heatwave-west-california-oregon-washington-wildfires" target="_blank">Millions in West facing dangerous heatwave amid multiple wildfires</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-24 18:56</span>
             </div>
         </div>
 </div>
@@ -184,6 +187,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://dseltzer.gitlab.io/sping/docs/" target="_blank">Show HN: Sping – An HTTP/TCP latency tool that&#x27;s easy on the eye</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-24 23:42</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F05cqcd26dehnphe2kzqh.png" alt="How I Attached and Mounted an EBS Volume to My Ubuntu EC2 Instance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -208,15 +220,6 @@
                 <span class="title"><a href="https://dev.to/casperday11/day-75-when-work-becomes-mental-survival-not-motivation-1160" target="_blank">Day 75: When Work Becomes Mental Survival (Not Motivation)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-24 21:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.spacex.com/launches/starship-flight-10" target="_blank">SpaceX Starship Orbital Flight Test 10</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-24 21:22</span>
             </div>
         </div>
 </div>
@@ -306,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 02:31 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 03:22 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
