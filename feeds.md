@@ -1,34 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-08-25 22:01:46 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-08-25 23:01:43 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, August 25, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, August 25, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +47,24 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/25/slain-al-jazeera-journalist-died-documenting-gazas?traffic_source=rss" target="_blank">Slain Al Jazeera journalist died documenting Gaza’s ‘suffering’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-25 21:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/james-comer-2-ap-gmh-250818_1755532921989_hpMain_4x3t_384.jpg" alt="House Oversight subpoenas Jeffrey Epstein estate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/house-oversight-subpoenas-jeffrey-epstein-estate/story?id=124963143" target="_blank">House Oversight subpoenas Jeffrey Epstein estate</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-25 21:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/25/nx-s1-5515480/fcc-abc-nbc-reviews" target="_blank">Trump again calls for FCC to revoke ABC and NBC licenses</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-25 21:28</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +94,20 @@
                 <span class="time">2025-08-25 20:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/25/polish-veto-risks-ukraines-crucial-starlink-access-amid-refugee-aid-row?traffic_source=rss" target="_blank">Polish veto risks Ukraine’s crucial Starlink access amid refugee aid row</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-25 19:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68e6/live/14296ba0-81e8-11f0-a34f-318be3fb0481.jpg" alt="Five journalists among 20 killed in Israeli double strike on hospital" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp89rp48246o?at_medium=RSS&at_campaign=rss" target="_blank">Five journalists among 20 killed in Israeli double strike on hospital</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-25 18:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/25/road-to-battlefield-central-eurasias-largest-startup-competition-in-history-sends-four-winners-to-techcrunch-startup-battlefield/" target="_blank">Road to Battlefield: Central Eurasia’s largest startup competition in history sends four winners to TechCrunch’s Startup Battlefield</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-25 22:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,15 +151,6 @@
                 <span class="title"><a href="https://www.wired.com/story/best-teacher-discounts/" target="_blank">Best Discounts for Teachers (2025): Deals on School Supplies, Tech, and More</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-08-25 19:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/25/bounce-launches-a-service-for-moving-accounts-between-bluesky-and-mastodon/" target="_blank">Bounce launches a service for moving accounts between Bluesky and Mastodon</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-25 19:00</span>
             </div>
         </div>
 </div>
@@ -326,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
