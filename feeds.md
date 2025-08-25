@@ -1,38 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-08-25 04:05:20 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-25 05:01:50 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, August 25, 2025 - 04:05 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, August 25, 2025 - 05:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,10 +44,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/25/nx-s1-5515313/uk-britain-immigration-protests-asylum" target="_blank">U.K. migrant protests spark angry confrontations as government scrambles to respond</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-25 04:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/25/spacex-calls-off-starship-launch-in-latest-setback-for-elon-musk?traffic_source=rss" target="_blank">SpaceX calls off Starship launch in latest setback for Elon Musk</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-25 04:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/25/us-national-guard-troops-begin-carrying-weapons-in-washington-dc?traffic_source=rss" target="_blank">US National Guard troops begin carrying weapons in Washington, DC</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-25 03:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-mushroom-poisoner-erin-patterson_7000697.jpg?20250825052419" alt="Mushroom murderer Erin Patterson left me &#x27;half alive&#x27;, sole survivor says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/mushroom-murderer-erin-patterson-left-me-half-alive-sole-survivor-says-13418045" target="_blank">Mushroom murderer Erin Patterson left me &#x27;half alive&#x27;, sole survivor says</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-25 03:05</span>
             </div>
         </div>
 <div class="story">
@@ -73,33 +93,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/8/24/has-israel-become-a-divisive-issue-in-europe?traffic_source=rss" target="_blank">Has Israel become a divisive issue in Europe?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-24 23:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c522/live/86cf1400-8037-11f0-9ef8-cb29d22fe717.png" alt="&#x27;Once-in-a-lifetime chance&#x27;: Gaza scholars await UK evacuation to pursue studies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2x16y2ppro?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Once-in-a-lifetime chance&#x27;: Gaza scholars await UK evacuation to pursue studies</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-24 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/24/nx-s1-5514814/kilmar-abrego-garcia-could-be-detained-by-ice-again-attorney-says" target="_blank">Kilmar Abrego Garcia expects to be detained by ICE again, attorney says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-24 21:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d9d/live/3207d060-8113-11f0-a34f-318be3fb0481.jpg" alt="Inside Donetsk as residents flee attacks on Ukrainian region Putin wants to control" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c209yn1ygz6o?at_medium=RSS&at_campaign=rss" target="_blank">Inside Donetsk as residents flee attacks on Ukrainian region Putin wants to control</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-24 21:04</span>
             </div>
         </div>
 </div>
@@ -170,6 +163,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/canro91/is-burnout-inevitable-in-the-world-of-tech-lets-talk-about-it-30f5" target="_blank">Is Burnout Inevitable in the World of Tech? Let&#x27;s Talk About It</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-25 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/yash_sonawane25/docker-series-episode-3-images-vs-containers-explained-with-tiffin-boxes-chai-cio" target="_blank">🛳️ Docker Series: Episode 3 — Images vs Containers (Explained with Tiffin Boxes &amp; Chai)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-25 03:42</span>
@@ -209,15 +211,6 @@
                 <span class="title"><a href="https://dev.to/goldenboy58/how-i-attached-and-mounted-an-ebs-volume-to-my-ubuntu-ec2-instance-12kl" target="_blank">How I Attached and Mounted an EBS Volume to My Ubuntu EC2 Instance</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-24 23:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/music_youtube/rick-beato-unpacking-the-beatles-1965-songwriting-blueprint-2mp" target="_blank">Rick Beato: Unpacking The Beatles&#x27; 1965 Songwriting Blueprint</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-24 22:01</span>
             </div>
         </div>
 </div>
@@ -307,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 04:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 05:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
