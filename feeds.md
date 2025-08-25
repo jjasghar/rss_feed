@@ -1,38 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-08-25 18:01:59 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-25 19:01:46 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, August 25, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, August 25, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,9 +45,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/25/nx-s1-5515594/kennedy-center-dance-programming" target="_blank">Kennedy Center names new director of dance programming, days after former staff firings</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-25 18:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/08/25/nx-s1-5515615/trump-national-guard-chicago-executive-order" target="_blank">Trump says National Guard is at the ready but hedges on Chicago plans</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-25 17:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250825-chicago-skyline-mn-1150-05f1b4.jpg" alt="Trump&#x27;s threat to deploy troops to Chicago draws criticism from city and state officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/trumps-threat-deploy-troops-chicago-draws-criticism-city-state-officia-rcna226999" target="_blank">Trump&#x27;s threat to deploy troops to Chicago draws criticism from city and state officials</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-25 17:16</span>
             </div>
         </div>
 <div class="story">
@@ -84,29 +95,29 @@
                 <span class="time">2025-08-25 15:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df28/live/ded555d0-81a7-11f0-bb47-d3827f7ae22f.jpg" alt="Four on board helicopter that crashed in field" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c87e22ryerlo?at_medium=RSS&at_campaign=rss" target="_blank">Four on board helicopter that crashed in field</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-25 14:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/kilmar-abrego-06-rt-jef-250825_1756127452126_hpMain_4x3t_384.jpg" alt="Kilmar Abrego Garcia detained at ICE office in Maryland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/kilmar-abrego-garcia-check-ice-maryland-deportation-threat/story?id=124944566" target="_blank">Kilmar Abrego Garcia detained at ICE office in Maryland</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-25 13:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/trump-august-2025-500x500-1756146144.jpg" alt="CBS caved to Trump—now he’s seeking punishments for ABC and NBC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/08/cbs-caved-to-trump-now-hes-seeking-punishments-for-abc-and-nbc/" target="_blank">CBS caved to Trump—now he’s seeking punishments for ABC and NBC</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-25 18:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68a66e69d3699f0e9647c9e6/master/pass/The%20Best%20Deals%20From%20REI%E2%80%99s%202025%20Labor%20Day%20Sale.png" alt="The 38 Best Deals From REI’s 2025 Labor Day Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/" target="_blank">The 38 Best Deals From REI’s 2025 Labor Day Sale</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-25 18:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68ac98d4813b21e1edbc82da/master/pass/The%20Best%20Back-to-School%20Deals%20on%20Gadgets%20and%20Dorm%20Gear%202.png" alt="16 Best Back-to-School Deals for 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,29 +154,29 @@
                 <span class="time">2025-08-25 15:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/25/want-to-attend-techcrunch-disrupt-2025-for-free-volunteer-but-the-clocks-ticking/" target="_blank">Volunteer opportunities still open for TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-25 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/052918-cavefish_0-500x500.jpg" alt="How the cavefish lost its eyes—again and again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/08/how-the-cavefish-lost-its-eyes-again-and-again/" target="_blank">How the cavefish lost its eyes—again and again</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-25 14:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/casperday11/day-76-when-your-brain-runs-on-2-battery-but-you-keep-coding-41cf" target="_blank">Day 76: When Your Brain Runs on 2% Battery But You Keep Coding</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-25 18:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18575793&w=600" alt="A Beginner’s Guide to Hyperparameter Tuning: From Theory to Practice" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/guide-to-parameter-tuning" target="_blank">A Beginner’s Guide to Hyperparameter Tuning: From Theory to Practice</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-25 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/08/png-3-hdr-animated-png-support/en/headerimage/generatedHeaderImage-1756140064132.jpg" alt="Third Edition of PNG Specification Released, Adds HDR and Official APNG Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -173,6 +184,15 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/08/png-3-hdr-animated-png-support/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Third Edition of PNG Specification Released, Adds HDR and Official APNG Support</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-08-25 17:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/security/vulnerability-research/safeguarding-vs-code-against-prompt-injections/" target="_blank">Safeguarding VS Code against prompt injections</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-08-25 16:01</span>
             </div>
         </div>
 <div class="story">
@@ -191,33 +211,6 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/08/25/making-continuous-learning-work-at-work/" target="_blank">Making continuous learning work at work</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-08-25 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://menial.co.uk/base/" target="_blank">Show HN: Base, an SQLite database editor for macOS</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-25 14:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/spring-ai-framework/en/mediumimage/loiane-groner-medium-1755598697791.jpeg" alt="Presentation: Orchestrating AI Services with the Spring AI Framework" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/spring-ai-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Orchestrating AI Services with the Spring AI Framework</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-25 14:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/linux-515-617-performance" target="_blank">Linux 5.15 LTS To 6.17 Benchmarks: Four Years Of Kernel Improvement Net 37% Improvement On AMD EPYC</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-25 14:06</span>
             </div>
         </div>
 </div>
@@ -240,6 +233,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/SWITCH-2-DEV-KITS-MAIN.jpg" alt="Nintendo Reportedly Pushing Devs To Release On Switch 1 Instead Of Sharing Switch 2 Dev Kits" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nintendo-switch-2-dev-kits-gamescom-digital-foundry-2000620055" target="_blank">Nintendo Reportedly Pushing Devs To Release On Switch 1 Instead Of Sharing Switch 2 Dev Kits</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-25 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/shutterstock_102914510-e1755701570520.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="The wild defense system that kept this Egyptian mummy safe for millennia (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/25/the-wild-defense-system-that-kept-this-egyptian-mummy-safe-for-millennia-video.html" target="_blank">The wild defense system that kept this Egyptian mummy safe for millennia (video)</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-25 18:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/pigsfarm.jpg" alt="In a First, a Human Breathed Using an Implanted Pig Lung" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/in-a-first-a-human-breathed-using-an-implanted-pig-lung-2000647500" target="_blank">In a First, a Human Breathed Using an Implanted Pig Lung</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-25 18:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K3H4MVWK1RK3TR95RVSH1SDB/hero-image.png" alt="These Are the Best Labor Day Tech Deals on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/amazon-tech-deals-labor-day-2025?utm_medium=RSS" target="_blank">These Are the Best Labor Day Tech Deals on Amazon</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-25 18:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/08/A-bitcoin-token.jpg" alt="Bitcoin Flash Crash Roils Crypto Market" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -255,42 +284,6 @@
                 <span class="title"><a href="https://gizmodo.com/this-orange-shark-is-the-result-of-a-rare-genetic-double-whammy-2000647573" target="_blank">This Orange Shark Is the Result of a Rare Genetic Double Whammy</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-25 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/plaza-hotel.jpg?fit=1200%2C787&amp;quality=60&amp;ssl=1" alt="NYC hotels pocket billions after helping push through Airbnb ban" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/25/nyc-hotels-pocket-billions-after-helping-push-through-airbnb-ban.html" target="_blank">NYC hotels pocket billions after helping push through Airbnb ban</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-25 16:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/KpopDemonHunters_ProRes422HQ_SDR_2ch_20250424.00_06_29_14_L-1.jpg" alt="My KPop Demon Hunters Singalong Crowd Did Not Pass The Vibe Check" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/kpop-demon-hunters-singalong-box-office-showtimes-songs-2000620026" target="_blank">My KPop Demon Hunters Singalong Crowd Did Not Pass The Vibe Check</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-25 16:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K3GTY9YWGMSAKPP0D5XW990R/hero-image.png" alt="The Four Best YouTube Channels to Help You Fall Asleep" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-youtube-channels-to-help-you-fall-asleep?utm_medium=RSS" target="_blank">The Four Best YouTube Channels to Help You Fall Asleep</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-25 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/05/07fd4c2cfd8f191d384e9f4db40157fd.jpg" alt="Pokémon Go Gets First Big Level Cap Increase Since 2020" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-go-level-cap-increase-50-80-october-jacket-rewards-niantic-2000620010" target="_blank">Pokémon Go Gets First Big Level Cap Increase Since 2020</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-25 15:18</span>
             </div>
         </div>
 </div>
@@ -330,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
