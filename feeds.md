@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-25 10:01:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-25 11:01:45 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 1 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, August 25, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, August 25, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/08/25/g-s1-84393/whatever-happened-to-the-race-to-cure-hiv-theres-promising-news" target="_blank">Whatever happened to ... the race to cure HIV? There&#x27;s promising news</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-25 10:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/muriel-bowser-20250825-ap-jh_1756064792801_hpMain_4x3t_384.jpg" alt="DC students head back to school amid Trump&#x27;s law enforcement surge" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,15 +94,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/25/nx-s1-5515313/uk-britain-immigration-protests-asylum" target="_blank">U.K. migrant protests spark angry confrontations as government scrambles to respond</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-25 04:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/25/spacex-calls-off-starship-launch-in-latest-setback-for-elon-musk?traffic_source=rss" target="_blank">SpaceX calls off Starship launch in latest setback for Elon Musk</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-25 04:10</span>
             </div>
         </div>
 </div>
@@ -310,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 41 | 📸 With Images: 273 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 84 | 📡 Total Sources: 41 | 📸 With Images: 272 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
