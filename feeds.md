@@ -1,40 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-25 03:22:14 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-25 04:05:20 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, August 25, 2025 - 03:22 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, August 25, 2025 - 04:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/25/us-national-guard-troops-begin-carrying-weapons-in-washington-dc?traffic_source=rss" target="_blank">US National Guard troops begin carrying weapons in Washington, DC</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-25 03:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +100,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c209yn1ygz6o?at_medium=RSS&at_campaign=rss" target="_blank">Inside Donetsk as residents flee attacks on Ukrainian region Putin wants to control</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-24 21:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/24/canadas-carney-meets-zelenskyy-backs-security-guarantees-for-ukraine?traffic_source=rss" target="_blank">Canada’s Carney meets Zelenskyy, backs security guarantees for Ukraine</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-24 20:44</span>
             </div>
         </div>
 </div>
@@ -169,6 +167,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yash_sonawane25/docker-series-episode-3-images-vs-containers-explained-with-tiffin-boxes-chai-cio" target="_blank">🛳️ Docker Series: Episode 3 — Images vs Containers (Explained with Tiffin Boxes &amp; Chai)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-25 03:42</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/08/spring-news-roundup-aug18-2025/en/headerimage/java-istock-image-01-1755947732377.jpg" alt="Spring News Roundup: Second Milestone Releases of Boot, Security, Auth Server, Session, Integration" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -211,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/music_youtube/rick-beato-unpacking-the-beatles-1965-songwriting-blueprint-2mp" target="_blank">Rick Beato: Unpacking The Beatles&#x27; 1965 Songwriting Blueprint</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-24 22:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/casperday11/day-75-when-work-becomes-mental-survival-not-motivation-1160" target="_blank">Day 75: When Work Becomes Mental Survival (Not Motivation)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-24 21:27</span>
             </div>
         </div>
 </div>
@@ -309,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 03:22 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 04:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
