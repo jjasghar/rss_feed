@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-25 14:01:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-25 15:01:50 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 21 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, August 25, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, August 25, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df28/live/ded555d0-81a7-11f0-bb47-d3827f7ae22f.jpg" alt="Four on board helicopter that crashed in field" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c87e22ryerlo?at_medium=RSS&at_campaign=rss" target="_blank">Four on board helicopter that crashed in field</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-25 14:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/kilmar-abrego-06-rt-jef-250825_1756127452126_hpMain_4x3t_384.jpg" alt="Kilmar Abrego Garcia detained at ICE office in Maryland" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,20 +99,38 @@
                 <span class="time">2025-08-25 12:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/25/g-s1-85037/up-first-newsletter-chicago-national-guard-john-bolton-ghislaine-maxwell-south-korea" target="_blank">Trump threatens Chicago with National Guard. And, lessons from Katrina, 20 years later</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-25 11:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/25/want-to-attend-techcrunch-disrupt-2025-for-free-volunteer-but-the-clocks-ticking/" target="_blank">Volunteer opportunities still open for TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-25 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/052918-cavefish_0-500x500.jpg" alt="How the cavefish lost its eyes—again and again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/08/how-the-cavefish-lost-its-eyes-again-and-again/" target="_blank">How the cavefish lost its eyes—again and again</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-25 14:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/676075/switch-2-microsd-express-cards-where-to-buy" target="_blank">Here’s where you can buy microSD Express cards for the Switch 2</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-25 14:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -126,33 +158,6 @@
                 <span class="time">2025-08-25 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/reviews/764829/fastest-power-bank-review-ecoflow-rapid" target="_blank">EcoFlow’s Rapid power bank is the fastest yet</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-25 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/765025/first-netflix-house-opens-its-doors-on-november-12th" target="_blank">First Netflix House opens its doors on November 12th</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-25 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68ab8a6701d4defd6c7f7485/master/pass/Review-%20Pro%20by%20De%CC%81esse%20Pro.png" alt="Pro by Déesse Pro Review: Mostly a Gimmick" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/pro-by-deesse-pro/" target="_blank">Pro by Déesse Pro Review: Mostly a Gimmick</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-25 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,46 +175,46 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ilsa_shaikh_089e2bfab0bf4/stop-fighting-css-7-clever-hacks-for-smoother-styling-1bo3" target="_blank">🛠️ Stop Fighting CSS : 7 Clever Hacks for Smoother Styling</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-25 13:49</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://menial.co.uk/base/" target="_blank">Show HN: Base, an SQLite database editor for macOS</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-25 14:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/spring-ai-framework/en/mediumimage/loiane-groner-medium-1755598697791.jpeg" alt="Presentation: Orchestrating AI Services with the Spring AI Framework" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/spring-ai-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Orchestrating AI Services with the Spring AI Framework</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-25 14:10</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Red-Hat-TuneD-2.26" target="_blank">Red Hat Releases TuneD 2.26 For Adaptively Tuning Linux Systems</a></span>
+                <span class="title"><a href="https://www.phoronix.com/review/linux-515-617-performance" target="_blank">Linux 5.15 LTS To 6.17 Benchmarks: Four Years Of Kernel Improvement Net 37% Improvement On AMD EPYC</a></span>
                 <span class="feed">Phoronix</span>
-                <span class="time">2025-08-25 12:10</span>
+                <span class="time">2025-08-25 14:06</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/news/2025/08/docker-content-trust-retired/en/headerimage/generatedHeaderImage-1756078468241.jpg" alt="Docker Content Trust Retired as Alternatives Flourish" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18575706&w=600" alt="The Ephemeral Cloud: A New Blueprint for Infrastructure Efficiency With Crossplane and kube-green" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/docker-content-trust-retired/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Docker Content Trust Retired as Alternatives Flourish</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-25 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0yvqsrs6lf1lvkudmr8k.png" alt="Thoughts on using AI for software development" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sapegin/thoughts-on-using-ai-for-software-development-539b" target="_blank">Thoughts on using AI for software development</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-25 08:43</span>
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/infrastructure-crossplane-kube-green" target="_blank">The Ephemeral Cloud: A New Blueprint for Infrastructure Efficiency With Crossplane and kube-green</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-25 14:00</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devshefali/19-javascript-one-liners-thatll-blow-your-mind-15cn" target="_blank">19 JavaScript One-Liners That’ll Blow Your Mind</a></span>
+                <span class="title"><a href="https://dev.to/ilsa_shaikh_089e2bfab0bf4/stop-fighting-css-7-clever-hacks-for-smoother-styling-1bo3" target="_blank">🛠️ Stop Fighting CSS : 7 Clever Hacks for Smoother Styling</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2025-08-25 07:46</span>
+                <span class="time">2025-08-25 13:49</span>
             </div>
         </div>
 </div>
@@ -231,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Samsung-Galaxy-Z-Fold-7-44.jpg" alt="Report Reveals Major Details About Apple’s Foldable iPhone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/report-reveals-major-details-about-apples-foldable-iphone-2000647520" target="_blank">Report Reveals Major Details About Apple’s Foldable iPhone</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-25 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/air_purifier.jpg" alt="Most Air Purifiers Haven’t Been Tested on Humans. That’s a Problem" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +290,6 @@
                 <span class="time">2025-08-25 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Cheerble-Ball.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="No more cat-itude! Entertain your feline for hours with this interactive toy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/24/no-more-cat-itude-entertain-your-feline-for-hours-with-this-interactive-toy.html" target="_blank">No more cat-itude! Entertain your feline for hours with this interactive toy</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-24 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 90 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
