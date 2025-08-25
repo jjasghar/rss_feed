@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-24 23:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-25 00:05:01 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, August 24, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, August 25, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/8/24/has-israel-become-a-divisive-issue-in-europe?traffic_source=rss" target="_blank">Has Israel become a divisive issue in Europe?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-24 23:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c522/live/86cf1400-8037-11f0-9ef8-cb29d22fe717.png" alt="&#x27;Once-in-a-lifetime chance&#x27;: Gaza scholars await UK evacuation to pursue studies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2x16y2ppro?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Once-in-a-lifetime chance&#x27;: Gaza scholars await UK evacuation to pursue studies</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-24 23:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/24/nx-s1-5514467/heatwave-west-california-oregon-washington-wildfires" target="_blank">Millions in West facing dangerous heatwave amid multiple wildfires</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-24 18:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-30-epa-gmh-250822_1755889583796_hpMain_4x3t_384.jpg" alt="Vance says Russia has made &#x27;significant concessions&#x27; on Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/vance-russia-made-significant-concessions-ukraine/story?id=124934139" target="_blank">Vance says Russia has made &#x27;significant concessions&#x27; on Ukraine</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-24 18:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/24/nx-s1-5514470/illinois-officials-blast-trumps-threat-to-deploy-national-guard-in-chicago" target="_blank">Illinois officials blast Trump&#x27;s threat to deploy National Guard in Chicago</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-24 17:58</span>
             </div>
         </div>
 </div>
@@ -163,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F05cqcd26dehnphe2kzqh.png" alt="How I Attached and Mounted an EBS Volume to My Ubuntu EC2 Instance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/goldenboy58/how-i-attached-and-mounted-an-ebs-volume-to-my-ubuntu-ec2-instance-12kl" target="_blank">How I Attached and Mounted an EBS Volume to My Ubuntu EC2 Instance</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-24 23:38</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,15 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-rc3-Released" target="_blank">Linux 6.17-rc3 Released: &quot;A Bit Larger Than Usual&quot;</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-24 17:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/trojanmocx/when-code-starts-talking-back-a-love-hate-story-3ml" target="_blank">When Code Starts Talking Back: A Love-Hate Story</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-24 16:24</span>
             </div>
         </div>
 </div>
@@ -294,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 41 | 📸 With Images: 281 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
