@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-26 20:01:54 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-26 21:01:27 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 27 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, August 26, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, August 26, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/26/nx-s1-5518202/nea-cancels-creative-writing-fellowship" target="_blank">NEA cancels decades-long creative writing fellowship</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-26 20:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +100,29 @@
                 <span class="time">2025-08-26 18:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/26/what-are-double-tap-strikes-that-israel-used-to-hit-a-hospital?traffic_source=rss" target="_blank">What are double-tap strikes that Israel used to hit a hospital?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-26 17:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/765671/best-rei-labor-day-sale-deals-2025" target="_blank">Here are 30 of our favorite deals from REI’s ongoing Labor Day sale</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-26 20:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/26/anthropic-launches-a-claude-ai-agent-that-lives-in-chrome/" target="_blank">Anthropic launches a Claude AI agent that lives in Chrome</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-26 20:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68adfa76d6e72970f29826e0/master/pass/GettyImages-2229149370.jpg" alt="Anthropic Settles High-Profile AI Copyright Lawsuit Brought by Book Authors" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,24 +159,6 @@
                 <span class="time">2025-08-26 18:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a5724e2813b477fc9a5eda/master/pass/The%20Best%20Early%20Labor%20Day%20Deals%20and%20Sales.png" alt="31 Best Early Labor Day Sales on WIRED-Tested Gear (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-labor-day-sales-deals-2025/" target="_blank">31 Best Early Labor Day Sales on WIRED-Tested Gear (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-26 17:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/684cd931d924193be758a72d/master/pass/The%20Best%20Smart%20Bird%20Feeders%20for%20Backyard%20Birding.png" alt="Best Bird Feeders With Cameras, Tested and Reviewed (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-smart-bird-feeders/" target="_blank">Best Bird Feeders With Cameras, Tested and Reviewed (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-26 16:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +171,15 @@
                 <span class="title"><a href="https://dev.to/ahmad_alhafi/angular-19-whats-up-with-signals-2h80" target="_blank">Angular 19 — What’s up with Signals?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-26 19:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.anthropic.com/news/claude-for-chrome" target="_blank">Claude for Chrome</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-26 19:01</span>
             </div>
         </div>
 <div class="story">
@@ -208,15 +218,6 @@
                 <span class="time">2025-08-26 17:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fassets.dev.to%2Fassets%2Fgithub-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="This week&#x27;s ship: Expensely 🪙" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shravzzv/this-weeks-ship-expensely-5d7f" target="_blank">This week&#x27;s ship: Expensely 🪙</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-26 16:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +246,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2019/12/wp7694vvns7pufcqjywc.gif" alt="Google’s AI Weather Model Nailed Its First Major Storm Forecast" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/googles-ai-weather-model-nailed-its-first-major-storm-forecast-2000648393" target="_blank">Google’s AI Weather Model Nailed Its First Major Storm Forecast</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-26 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/delayed.jpg" alt="Every Game Delayed By Silksong" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/every-game-delayed-silksong-hollowknight-demonschool-baby-steps-cloverpit-2000620407" target="_blank">Every Game Delayed By Silksong</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-26 20:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/BYTE-Magazine_2C-laid-page-to-page.jpg?fit=1080%2C624&amp;quality=60&amp;ssl=1" alt="Zoom in to a visual archive of Byte, the small systems journal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,24 +300,6 @@
                 <span class="time">2025-08-26 17:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/farmer.jpeg?fit=1080%2C601&amp;quality=60&amp;ssl=1" alt="Missouri farmer to congressman&#x27;s face: &quot;Take your head out of Trump&#x27;s ass&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/26/missouri-farmer-slams-congressman-to-his-face-you-need-to-take-your-head-out-of-trumps-ass.html" target="_blank">Missouri farmer to congressman&#x27;s face: &quot;Take your head out of Trump&#x27;s ass&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-26 17:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K3KKD75B53KK0CT94WH2K4WP/hero-image.jpg" alt="Here&#x27;s When You Can Watch Apple Announce the iPhone 17" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-watch-apple-announce-the-iphone-17?utm_medium=RSS" target="_blank">Here&#x27;s When You Can Watch Apple Announce the iPhone 17</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-26 17:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,22 +332,13 @@
                 <span class="time">2025-08-26 01:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/08/25/gundammit" target="_blank">Gundammit</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-08-25 20:28</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
