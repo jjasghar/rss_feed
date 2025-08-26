@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-26 02:30:11 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-26 03:18:36 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, August 26, 2025 - 02:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, August 26, 2025 - 03:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/26/russia-ukraine-war-list-of-key-events-day-1279?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,279</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-26 02:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/25/slain-al-jazeera-journalist-died-documenting-gazas?traffic_source=rss" target="_blank">Slain Al Jazeera journalist died documenting Gaza’s ‘suffering’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-25 21:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/james-comer-2-ap-gmh-250818_1755532921989_hpMain_4x3t_384.jpg" alt="House Oversight subpoenas Jeffrey Epstein estate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/house-oversight-subpoenas-jeffrey-epstein-estate/story?id=124963143" target="_blank">House Oversight subpoenas Jeffrey Epstein estate</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-25 21:32</span>
             </div>
         </div>
 </div>
@@ -167,6 +161,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rajesh_mondal_cded2f82459/discord-fonts-generator-3i4f" target="_blank">Discord Fonts Generator</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-26 02:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/08/java-news-roundup-aug18-2025/en/headerimage/java-istock-image-01-1756065809599.jpg" alt="Java News Roundup: JDK 25-RC2, Eclipse JNoSQL, Quarkus, Apache TomEE, Apache Camel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/java-news-roundup-aug18-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: JDK 25-RC2, Eclipse JNoSQL, Quarkus, Apache TomEE, Apache Camel</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-26 02:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvw8fztidohnp63u6xin3.png" alt="From Zero to Secure: EC2 + Nginx with the Right Subnet, AZ &amp; Security Groups" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,24 +212,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/zen-browser-is-what-mozilla-firefox-should-be" target="_blank">Zen Browser is What Mozilla Firefox Should Be</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-08-25 22:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/open-source-ai/en/headerimage/header+%283%29-1756148185728.jpg" alt="Zemlin at Open Source Summit EU: Even in the Age of AI, the Software’s Future Is Still Open Source" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/open-source-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Zemlin at Open Source Summit EU: Even in the Age of AI, the Software’s Future Is Still Open Source</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-25 21:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/casperday11/mutiny-is-live-where-ideas-find-their-people-and-capital-finds-its-purpose-5e05" target="_blank">Mutiny is Live: Where Ideas Find Their People and Capital Finds Its Purpose</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-25 21:33</span>
             </div>
         </div>
 </div>
@@ -339,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 02:30 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 03:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
