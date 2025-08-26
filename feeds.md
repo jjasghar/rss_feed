@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-26 21:01:27 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-26 22:01:32 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, August 26, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, August 26, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,10 +51,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/26/day-of-disruption-families-supporters-of-israeli-gaza-captives-protest?traffic_source=rss" target="_blank">‘Day of Disruption’: Families, supporters of Israeli Gaza captives protest</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-26 21:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/26/g-s1-85388/texas-company-pleads-guilty-to-2021-construction-worker-trench-death" target="_blank">Texas company pleads guilty to 2021 construction worker trench death</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-26 21:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/08/26/nx-s1-5518202/nea-cancels-creative-writing-fellowship" target="_blank">NEA cancels decades-long creative writing fellowship</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-26 20:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-tel-aviv-protest-israel_7002180.jpg?20250826214701" alt="Protesters demand Netanyahu does whatever it takes to bring hostages home - but is he listening?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/israeli-protesters-demand-netanyahu-does-whatever-it-takes-to-bring-hostages-home-but-is-he-listening-13418951" target="_blank">Protesters demand Netanyahu does whatever it takes to bring hostages home - but is he listening?</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-26 20:19</span>
             </div>
         </div>
 <div class="story">
@@ -73,38 +102,20 @@
                 <span class="time">2025-08-26 19:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/cabinet-4-gty-gmh-250826_1756225632996_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump says he will seek death penalty for murders in DC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124929306" target="_blank">Trump admin live updates: Trump says he will seek death penalty for murders in DC</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-26 18:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/26/dr-congo-m23-rebels-resume-talks-in-qatar-after-renewed-violence-in-east?traffic_source=rss" target="_blank">DR Congo, M23 rebels resume talks in Qatar after renewed violence in east</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-26 18:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/26/nx-s1-5517977/social-security-doge-privacy" target="_blank">Whistleblower says Trump officials copied millions of Social Security numbers</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-26 18:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/766324/microsoft-building-34-lockdown-protesters-brad-smith-office" target="_blank">Microsoft locks down a building after protesters get inside president&amp;#8217;s office</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-26 21:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +161,20 @@
                 <span class="time">2025-08-26 18:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/09/getty-att-logo-500x500-1756231111.jpg" alt="FCC chairman helps AT&amp;T cement dominance with $23 billion spectrum deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/08/att-to-buy-echostar-spectrum-for-23b-further-entrenching-big-3-oligopoly/" target="_blank">FCC chairman helps AT&amp;T cement dominance with $23 billion spectrum deal</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-26 18:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/oclcode/ai-ai-aie-la-tragedie-des-youtubeurs-6di" target="_blank">AI, AÏ, aïe, la tragédie des youtubeurs...</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-26 21:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +220,6 @@
                 <span class="time">2025-08-26 18:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/laradissouza99/unlocking-new-revenue-streams-how-network-apis-are-monetizing-the-digital-economy-30o0" target="_blank">Unlocking New Revenue Streams: How Network APIs are Monetizing the Digital Economy</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-26 17:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,12 +249,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/oz-2.jpg" alt="Amazon’s New ‘Wicked of Oz’ Reimagining Sounds Like a Disaster Waiting to Happen" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/amazons-new-wicked-of-oz-reimagining-sounds-like-a-disaster-waiting-to-happen-2000648336" target="_blank">Amazon’s New ‘Wicked of Oz’ Reimagining Sounds Like a Disaster Waiting to Happen</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-26 21:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/art.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Nazi-looted masterpiece found hanging in Argentinian home listing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/26/nazi-looted-masterpiece-found-hanging-in-argentinian-home-listing.html" target="_blank">Nazi-looted masterpiece found hanging in Argentinian home listing</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-26 21:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2019/12/wp7694vvns7pufcqjywc.gif" alt="Google’s AI Weather Model Nailed Its First Major Storm Forecast" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/googles-ai-weather-model-nailed-its-first-major-storm-forecast-2000648393" target="_blank">Google’s AI Weather Model Nailed Its First Major Storm Forecast</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-26 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K3KTZAJ98S1BM9ZWP6HD8CRK/hero-image.png" alt="These Are the Best Labor Day Tech Deals at Walmart" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/best-walmart-labor-day-sales-2025?utm_medium=RSS" target="_blank">These Are the Best Labor Day Tech Deals at Walmart</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-26 20:30</span>
             </div>
         </div>
 <div class="story">
@@ -271,33 +300,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/26/zoom-in-to-a-visual-archive-of-byte-the-small-systems-journal.html" target="_blank">Zoom in to a visual archive of Byte, the small systems journal</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-26 19:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K3KVABJEEQAFE3AAPXHHA2R0/hero-image.jpg" alt="These Smart Rings Are Being Pulled From the Market" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/ultrahuman-ringconn-smart-rings-pulled-from-market-oura-lawsuit?utm_medium=RSS" target="_blank">These Smart Rings Are Being Pulled From the Market</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-26 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Kanye.jpg" alt="Kanye’s Crypto Journey Gets Significantly Weirder" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/kanyes-crypto-journey-gets-significantly-weirder-2000648296" target="_blank">Kanye’s Crypto Journey Gets Significantly Weirder</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-26 18:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/nightreign.jpg" alt="Elden Ring Nightreign‘s Secret New Mode Hasn’t Even Been Announced Yet And Fans Are Already Playing It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/elden-ring-nightreign-hard-mode-deep-night-ranked-2000620376" target="_blank">Elden Ring Nightreign‘s Secret New Mode Hasn’t Even Been Announced Yet And Fans Are Already Playing It</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-26 17:38</span>
             </div>
         </div>
 </div>
@@ -337,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 260 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
