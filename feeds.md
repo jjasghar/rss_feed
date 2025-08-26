@@ -1,31 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-08-26 13:11:07 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-26 14:01:44 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, August 26, 2025 - 13:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, August 26, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +54,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-stream/2025/8/26/is-misogyny-on-the-rise-among-young-boys-in-schools?traffic_source=rss" target="_blank">Is misogyny on the rise among young boys in schools?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-26 13:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +108,6 @@
                 <span class="time">2025-08-26 10:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/26/despite-huge-manpower-losses-how-is-russia-replenishing-its-military?traffic_source=rss" target="_blank">Despite huge manpower losses, how is Russia replenishing its military?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-26 10:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -104,9 +117,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/764259/marshall-bromley-750-bluetooth-wireless-party-speaker" target="_blank">Marshall’s first Bluetooth party speaker has a hidden light show</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-26 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/uncategorized/765482/fujifilm-x-half-sigma-bf-petapixel-chris-jordan-iphone-mini" target="_blank">Zooming in on weird cameras</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-08-26 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68acd952d623fdff1ed637f2/master/pass/The%20Lenovo%20IdeaPad%205i%202-in-1%20Is%20a%20Budget%2016-Inch%20Laptop%20That%20Barely%20Squeaks%20By.png" alt="Lenovo IdeaPad 5i 2-in-1 Review: Barely Squeaking By" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/lenovo-ideapad-5i-2-in-1/" target="_blank">Lenovo IdeaPad 5i 2-in-1 Review: Barely Squeaking By</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-26 12:30</span>
             </div>
         </div>
 <div class="story">
@@ -136,29 +167,47 @@
                 <span class="time">2025-08-26 10:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a7736bf532a4a7bcd744a6/master/pass/UV-Big-Interview-Alexis-Ohanian-2.jpg" alt="Alexis Ohanian’s Next Social Platform Has One Rule: Don’t Act Like an Asshole" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-big-interview-alexis-ohanian/" target="_blank">Alexis Ohanian’s Next Social Platform Has One Rule: Don’t Act Like an Asshole</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-26 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/765663/fox-news-sports-youtube-tv-fox-one-carriage-dispute" target="_blank">YouTube TV could lose Fox channels this week</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-26 00:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/broadcom-and-canonical-expand-partnership-to-optimize-vmware-cloud-foundation-for-modern-container-and-ai-workloads" target="_blank">Broadcom and Canonical expand partnership to optimize VMware Cloud Foundation for modern container and AI workloads</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-08-26 13:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Radeon-R300-Mem-Info-GL" target="_blank">Open-Source R300 Driver Adds New OpenGL Extensions For Two Decade Old Radeon GPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-26 13:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/08/qwen-image-model/en/headerimage/generatedHeaderImage-1755955306746.jpg" alt="Qwen Team Open Sources State-of-the-Art Image Model Qwen-Image" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/qwen-image-model/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Qwen Team Open Sources State-of-the-Art Image Model Qwen-Image</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-26 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.chrislockard.net/posts/ssl-cert-requirements-obnoxious/" target="_blank">SSL certificate requirements are becoming obnoxious</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-26 12:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/presentations/systems-thinking-building-resilient-organizations/en/mediumimage/michelle-alexander-medium-1755672152967.jpeg" alt="Presentation: Systems Thinking for Building Resilient Engineering Organizations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -175,42 +224,6 @@
                 <span class="title"><a href="https://dzone.com/articles/kill-switch-feature-flags-spring-boot" target="_blank">How to Implement Kill Switch Feature Flags in a Spring Boot Application</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-08-26 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mir-2.22-Released" target="_blank">Mir 2.22 Released With Tackling NVIDIA Support, Initial Rust Scaffolding</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-26 10:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://markdown-ui.com/" target="_blank">Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-26 10:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fivkqv5amawlv8whnsco1.png" alt="Best Free Digital Business Cards in 2025: Top Platforms Compared" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/joywinter90/best-free-digital-business-cards-in-2025-top-platforms-compared-l3a" target="_blank">Best Free Digital Business Cards in 2025: Top Platforms Compared</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-26 09:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/maksim_matlakhov/phase-45-spec-as-source-of-truth-rethinking-development-workflow-40om" target="_blank">Phase 4.5: Spec as Source of Truth - Rethinking Development Workflow</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-26 08:50</span>
             </div>
         </div>
 </div>
@@ -233,12 +246,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/sh-figuarts-gamerverse-spider-man-marvel-vs-capcom.jpg" alt="God Damn, Just Look at This Spider-Man Action Figure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/sh-figuarts-spider-man-marvel-vs-capcom-price-release-date-gamerverse-2000648135" target="_blank">God Damn, Just Look at This Spider-Man Action Figure</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-26 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/hp-17-laptop-windows.jpg" alt="This Powerful HP Laptop Is $3,000 Off on Amazon, Going With No Profit for Back to School" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-powerful-hp-laptop-is-3000-off-on-amazon-going-with-no-profit-for-back-to-school-2000620315" target="_blank">This Powerful HP Laptop Is $3,000 Off on Amazon, Going With No Profit for Back to School</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-26 13:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/lenovo-ideapad-15-2025.jpg" alt="This Lenovo Laptop (12GB RAM, 512GB SSD, Office 365) Is 85% Off, Amazon Clears Inventory for Summer’s End" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/this-lenovo-laptop-12gb-ram-512gb-ssd-office-365-is-85-off-amazon-clears-inventory-for-summers-end-2000620309" target="_blank">This Lenovo Laptop (12GB RAM, 512GB SSD, Office 365) Is 85% Off, Amazon Clears Inventory for Summer’s End</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-26 13:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K3J084NJDJZADB29CEQGPPJ4/hero-image.jpg" alt="What People Are Getting Wrong This Week: Declaring Bankruptcy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-bankruptcy?utm_medium=RSS" target="_blank">What People Are Getting Wrong This Week: Declaring Bankruptcy</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-26 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -257,33 +297,6 @@
                 <span class="title"><a href="https://gizmodo.com/nvidia-unveils-high-tech-brain-for-humanoid-robots-and-self-driving-cars-2000647946" target="_blank">Nvidia Unveils High-Tech ‘Brain’ for Humanoid Robots and Self-Driving Cars</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-26 00:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/trump-barron.jpg?fit=1200%2C750&amp;quality=60&amp;ssl=1" alt="Trump amazed by son&#x27;s ability to restart computer — an &quot;unbelievable aptitude in technology&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/25/trump-amazed-by-sons-ability-to-restart-computer-an-unbelievable-aptitude-in-technology.html" target="_blank">Trump amazed by son&#x27;s ability to restart computer — an &quot;unbelievable aptitude in technology&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-26 00:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/Gamescome.jpg" alt="6 Awesome-Looking Games That Went Under The Radar At Gamescom 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gamescom-2025-trailers-cozy-sim-jrpg-soulslike-roguelite-2000620078" target="_blank">6 Awesome-Looking Games That Went Under The Radar At Gamescom 2025</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-25 21:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K3H97X40NZT5VXCZFV68FXEB/hero-image.jpg" alt="How the iPhone Will Change Over the Next Three Years, According to Bloomberg" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apples-three-year-product-roadmap-according-to-bloomberg?utm_medium=RSS" target="_blank">How the iPhone Will Change Over the Next Three Years, According to Bloomberg</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-25 21:00</span>
             </div>
         </div>
 </div>
@@ -323,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 13:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
