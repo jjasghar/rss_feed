@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-26 09:02:09 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-26 10:01:56 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, August 26, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, August 26, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/26/nx-s1-5515666/hurricane-katrina-lost-id-returned-20-years-later" target="_blank">ID lost to Hurricane Katrina is returned 20 years later</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-26 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +96,20 @@
                 <span class="time">2025-08-26 07:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/26/australia-japan-join-countries-suspending-some-parcel-shipments-to-the-us?traffic_source=rss" target="_blank">Australia, Japan join countries suspending some parcel shipments to the US</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-26 05:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68a7736bf532a4a7bcd744a6/master/pass/UV-Big-Interview-Alexis-Ohanian-2.jpg" alt="Alexis Ohanian’s Next Social Platform Has One Rule: Don’t Act Like an Asshole" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-big-interview-alexis-ohanian/" target="_blank">Alexis Ohanian’s Next Social Platform Has One Rule: Don’t Act Like an Asshole</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-26 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +155,20 @@
                 <span class="time">2025-08-25 20:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a7a538e548f80c7e2294cf/master/pass/Uncanny-Valley-WIRED-Recap-Chip-Deals-Business-2215609714.jpg" alt="WIRED Roundup: The US Chip Manufacturers’ Bonanza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uncannny-valley-wired-roundup-us-chip-manufacturers-bonanza/" target="_blank">WIRED Roundup: The US Chip Manufacturers’ Bonanza</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-25 20:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fivkqv5amawlv8whnsco1.png" alt="Best Free Digital Business Cards in 2025: Top Platforms Compared" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/joywinter90/best-free-digital-business-cards-in-2025-top-platforms-compared-l3a" target="_blank">Best Free Digital Business Cards in 2025: Top Platforms Compared</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-26 09:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +212,6 @@
                 <span class="title"><a href="https://becca.ooo/blog/macos-dotfiles/" target="_blank">macOS dotfiles should not go in –/Library/Application Support</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-26 04:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vaibhav_shakya_e6b352bfc4/target-sdk-updates-are-breaking-apps-in-2025-heres-the-fix-google-wont-tell-you-2mi6" target="_blank">Target SDK Updates Are Breaking Apps in 2025 — Here’s the Fix Google Won’t Tell You</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-26 04:48</span>
             </div>
         </div>
 </div>
@@ -326,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
