@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-26 15:02:07 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-26 16:02:05 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
 <!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, August 26, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, August 26, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e392/live/85785c70-828e-11f0-a34f-318be3fb0481.jpg" alt="Reform prepared to deport 600,000 under migration plans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5yk4r5e514o?at_medium=RSS&at_campaign=rss" target="_blank">Reform prepared to deport 600,000 under migration plans</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-26 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/26/nx-s1-5515631/dnc-democrats-ken-martin-trump-facism" target="_blank">DNC chair says he&#x27;s tired of Democrats bringing &#x27;pencil to a knife fight&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-26 15:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/26/lebanon-to-present-hezbollah-disarmament-plan-in-coming-days-us-envoy?traffic_source=rss" target="_blank">Lebanon to present Hezbollah disarmament plan in coming days: US envoy</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-26 15:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,38 +102,20 @@
                 <span class="time">2025-08-26 13:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/8/26/australia-accuses-iran-of-attacking-jewish?traffic_source=rss" target="_blank">Australia accuses Iran of attacking “Jewish targets”</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-26 12:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/08/26/g-s1-84381/optimist-games-music-dance-hugs" target="_blank">Whatever happened to ... the optimist who thinks games and music can change the world</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-26 12:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/26/palestinians-injured-as-israeli-forces-raid-ramallah?traffic_source=rss" target="_blank">Palestinians injured as Israeli forces raid Ramallah</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-26 11:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/26/google-translate-takes-on-duolingo-with-new-language-learning-tools/" target="_blank">Google Translate takes on Duolingo with new language learning tools</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-26 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/20252281710_GOES19-ABI-taw-GEOCOLOR-1800x1080-1-500x500.jpg" alt="Google’s AI model just nailed the forecast for the strongest Atlantic storm this year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +161,29 @@
                 <span class="time">2025-08-26 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/26/spotify-launches-a-messages-feature-in-a-bid-to-become-more-social/" target="_blank">Spotify launches a messaging feature in a bid to become more social</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-26 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/getstreamhq/talkjs-alternatives-comparing-the-top-7-competitors-3gde" target="_blank">TalkJS Alternatives – Comparing the Top 7 Competitors</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-26 15:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18578098&w=600" alt="Java 21 Virtual Threads vs Cached and Fixed Threads" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/java-concurrency-evolution-virtual-threads-java21" target="_blank">Java 21 Virtual Threads vs Cached and Fixed Threads</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-26 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,29 +220,20 @@
                 <span class="time">2025-08-26 13:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/qwen-image-model/en/headerimage/generatedHeaderImage-1755955306746.jpg" alt="Qwen Team Open Sources State-of-the-Art Image Model Qwen-Image" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/qwen-image-model/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Qwen Team Open Sources State-of-the-Art Image Model Qwen-Image</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-26 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.chrislockard.net/posts/ssl-cert-requirements-obnoxious/" target="_blank">SSL certificate requirements are becoming obnoxious</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-26 12:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/" target="_blank">DSLRoot, Proxies, and the Threat of ‘Legal Botnets’</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-08-26 14:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -300,6 +308,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1755734350-20250826.png" alt="Saturday Morning Breakfast Cereal - Standards" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/standards" target="_blank">Saturday Morning Breakfast Cereal - Standards</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-08-26 15:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5643.png" alt="Skating Hazard" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -317,22 +334,13 @@
                 <span class="time">2025-08-25 20:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1755734265-20250825.png" alt="Saturday Morning Breakfast Cereal - Nigh" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/nigh" target="_blank">Saturday Morning Breakfast Cereal - Nigh</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-08-25 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
