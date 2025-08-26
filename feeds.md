@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-26 18:02:07 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-26 19:02:07 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, August 26, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, August 26, 2025 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/26/dr-congo-m23-rebels-resume-talks-in-qatar-after-renewed-violence-in-east?traffic_source=rss" target="_blank">DR Congo, M23 rebels resume talks in Qatar after renewed violence in east</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-26 18:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/26/nx-s1-5517977/social-security-doge-privacy" target="_blank">Whistleblower says Trump officials copied millions of Social Security numbers</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-26 18:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,28 +97,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/26/nx-s1-5515631/dnc-democrats-ken-martin-trump-facism" target="_blank">DNC chair says he&#x27;s tired of Democrats bringing &#x27;pencil to a knife fight&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-26 15:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/26/lebanon-to-present-hezbollah-disarmament-plan-in-coming-days-us-envoy?traffic_source=rss" target="_blank">Lebanon to present Hezbollah disarmament plan in coming days: US envoy</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-26 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/26/g-s1-84215/doj-federal-district-judges-maryland" target="_blank">The DOJ sued the federal district bench in Maryland. A judge just dismissed the case</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-26 15:00</span>
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/26/botswana-president-declares-public-health-emergency-medicine-supply-shortages" target="_blank">Botswana’s president declares health emergency over supply shortages</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-08-26 15:57</span>
             </div>
         </div>
 </div>
@@ -104,6 +108,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/766161/framework-egpu-haptic-touchpad-trackpoint-nub" target="_blank">Framework is working on a giant haptic touchpad, Trackpoint nub, and eGPU for its laptops</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-26 18:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/09/getty-att-logo-500x500-1756231111.jpg" alt="FCC chairman helps AT&amp;T cement dominance with $23 billion spectrum deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/08/att-to-buy-echostar-spectrum-for-23b-further-entrenching-big-3-oligopoly/" target="_blank">FCC chairman helps AT&amp;T cement dominance with $23 billion spectrum deal</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-26 18:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68a5724e2813b477fc9a5eda/master/pass/The%20Best%20Early%20Labor%20Day%20Deals%20and%20Sales.png" alt="31 Best Early Labor Day Sales on WIRED-Tested Gear (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +162,20 @@
                 <span class="time">2025-08-26 16:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/26/google-translate-takes-on-duolingo-with-new-language-learning-tools/" target="_blank">Google Translate takes on Duolingo with new language learning tools</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-26 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/20252281710_GOES19-ABI-taw-GEOCOLOR-1800x1080-1-500x500.jpg" alt="Google’s AI model just nailed the forecast for the strongest Atlantic storm this year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/08/googles-ai-model-just-nailed-the-forecast-for-the-strongest-atlantic-storm-this-year/" target="_blank">Google’s AI model just nailed the forecast for the strongest Atlantic storm this year</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-26 14:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/angu10/student-teacher-distillation-a-complete-guide-for-model-compression-37ed" target="_blank">Student-Teacher Distillation: A Complete Guide for Model Compression</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-26 18:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,28 +206,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/getstreamhq/talkjs-alternatives-comparing-the-top-7-competitors-3gde" target="_blank">TalkJS Alternatives – Comparing the Top 7 Competitors</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-26 15:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18578098&w=600" alt="Java 21 Virtual Threads vs Cached and Fixed Threads" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/java-concurrency-evolution-virtual-threads-java21" target="_blank">Java 21 Virtual Threads vs Cached and Fixed Threads</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-26 15:00</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/intel-battlemage-rusticl" target="_blank">Rusticl vs. Intel Compute Runtime Performance For OpenCL On Battlemage</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-26 16:00</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/LLVM-21.1-Released" target="_blank">LLVM 21.1 Released With AMD GFX1250 Target, Improved RISC-V, New C/C++ Features</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-26 14:28</span>
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/getstreamhq/talkjs-alternatives-comparing-the-top-7-competitors-3gde" target="_blank">TalkJS Alternatives – Comparing the Top 7 Competitors</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-26 15:42</span>
             </div>
         </div>
 </div>
@@ -245,6 +249,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Kanye.jpg" alt="Kanye’s Crypto Journey Gets Significantly Weirder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/kanyes-crypto-journey-gets-significantly-weirder-2000648296" target="_blank">Kanye’s Crypto Journey Gets Significantly Weirder</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-26 18:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/nightreign.jpg" alt="Elden Ring Nightreign‘s Secret New Mode Hasn’t Even Been Announced Yet And Fans Are Already Playing It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,15 +301,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/26/teslas-bullying-cost-the-shareholders-an-extra-183-million.html" target="_blank">Tesla&#x27;s bullying cost the shareholders an extra $183 million</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-26 16:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/GoW_Reloaded_Curbstomp_Drone_Fin.jpg" alt="A Review Of Gears Of War: Reloaded And The State Of The Franchise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/a-review-of-gears-of-war-reloaded-and-the-state-of-the-franchise-2000620106" target="_blank">A Review Of Gears Of War: Reloaded And The State Of The Franchise</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-26 15:00</span>
             </div>
         </div>
 </div>
@@ -345,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
