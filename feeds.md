@@ -1,30 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-25 23:01:43 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-08-26 00:04:35 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, August 25, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, August 26, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +113,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/25/tesla-could-have-avoided-that-242-5m-autopilot-verdict-filings-show/" target="_blank">Tesla could have avoided that $242.5M Autopilot verdict, filings show</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-25 23:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/08/25/road-to-battlefield-central-eurasias-largest-startup-competition-in-history-sends-four-winners-to-techcrunch-startup-battlefield/" target="_blank">Road to Battlefield: Central Eurasia’s largest startup competition in history sends four winners to TechCrunch’s Startup Battlefield</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-08-25 22:27</span>
@@ -144,20 +163,20 @@
                 <span class="time">2025-08-25 20:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66b646c6b2cedabe96708bc3/master/pass/Sale-tags-discount-green-orange-GettyImages-1349824744-Hector-Roqueta-Rivero-(cropped).jpg" alt="Best Discounts for Teachers (2025): Deals on School Supplies, Tech, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-teacher-discounts/" target="_blank">Best Discounts for Teachers (2025): Deals on School Supplies, Tech, and More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-25 19:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arbab529/expose-localhost-to-the-network-using-cloudflare-tunnel-33ge" target="_blank">Expose localhost to the network using Cloudflare Tunnel</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-25 23:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/08/open-source-ai/en/headerimage/header+%283%29-1756148185728.jpg" alt="Zemlin at Open Source Summit EU: Even in the Age of AI, the Software’s Future Is Still Open Source" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,15 +220,6 @@
                 <span class="title"><a href="https://dzone.com/articles/ml-categorization-bug-tracing-jaeger" target="_blank">Debugging Distributed ML Systems</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-08-25 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/casperday11/day-76-when-your-brain-runs-on-2-battery-but-you-keep-coding-41cf" target="_blank">Day 76: When Your Brain Runs on 2% Battery But You Keep Coding</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-25 18:44</span>
             </div>
         </div>
 </div>
@@ -291,6 +301,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/08/25/gundammit" target="_blank">Gundammit</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-08-25 20:28</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1755734265-20250825.png" alt="Saturday Morning Breakfast Cereal - Nigh" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -322,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
