@@ -1,39 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-26 11:01:28 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-26 12:02:17 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, August 26, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, August 26, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/26/palestinians-injured-as-israeli-forces-raid-ramallah?traffic_source=rss" target="_blank">Palestinians injured as Israeli forces raid Ramallah</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-26 11:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1756206990390_tdy_news_7a_gabe_trump_cook_250826_1920x1080-ngg8mb.jpg" alt="Fed Governor Lisa Cook Responds After Trump Fires Her" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-fires-fed-governor-lisa-cook-in-truth-social-post-245774917831" target="_blank">Fed Governor Lisa Cook Responds After Trump Fires Her</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-26 11:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f060/live/7156ea20-8263-11f0-ba76-2552413beb48.jpg" alt="Reform UK would pay countries for migrant return deals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,29 +103,20 @@
                 <span class="time">2025-08-26 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/26/nx-s1-5464832/a-mom-draws-what-its-like-to-have-intrusive-thoughts-and-how-to-cope" target="_blank">A mom draws what it&#x27;s like to have intrusive thoughts — and how to cope</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-26 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/summit-65-rt-gmh-250815_1755300526784_hpMain_4x3t_384.jpg" alt="Russian drones strike Ukraine after Trump expresses anger at attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/trump-angry-putin-ukraine-strikes-continue-despite-peace/story?id=124977411" target="_blank">Russian drones strike Ukraine after Trump expresses anger at attacks</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-26 08:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/26/frontier-buys-31m-worth-of-antacids-for-the-ocean/" target="_blank">Frontier buys $31M worth of antacids for the ocean</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-26 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +162,47 @@
                 <span class="time">2025-08-25 23:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/25/road-to-battlefield-central-eurasias-largest-startup-competition-in-history-sends-four-winners-to-techcrunch-startup-battlefield/" target="_blank">Road to Battlefield: Central Eurasia’s largest startup competition in history sends four winners to TechCrunch’s Startup Battlefield</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-25 22:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/systems-thinking-building-resilient-organizations/en/mediumimage/michelle-alexander-medium-1755672152967.jpeg" alt="Presentation: Systems Thinking for Building Resilient Engineering Organizations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/systems-thinking-building-resilient-organizations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Systems Thinking for Building Resilient Engineering Organizations</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-26 11:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18574111&w=600" alt="How to Implement Kill Switch Feature Flags in a Spring Boot Application" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/kill-switch-feature-flags-spring-boot" target="_blank">How to Implement Kill Switch Feature Flags in a Spring Boot Application</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-26 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mir-2.22-Released" target="_blank">Mir 2.22 Released With Tackling NVIDIA Support, Initial Rust Scaffolding</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-26 10:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://markdown-ui.com/" target="_blank">Show HN: Turn Markdown into React/Svelte/Vue UI at runtime, zero build step</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-26 10:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fivkqv5amawlv8whnsco1.png" alt="Best Free Digital Business Cards in 2025: Top Platforms Compared" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -185,42 +221,6 @@
                 <span class="time">2025-08-26 08:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/08/26/svelte-was-built-on-slinging-code-for-the-sheer-love-of-it/" target="_blank">Svelte was built on “slinging code for the sheer love of it”</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-08-26 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ravi_teja_4/innovative-case-studies-of-generative-ai-transforming-healthcare-services-1n39" target="_blank">Innovative Case Studies of Generative AI Transforming Healthcare Services</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-26 07:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/alpha-earth/en/headerimage/generatedHeaderImage-1756144131026.jpg" alt="Google DeepMind Unveils AlphaEarth Foundations Model for Global Mapping" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/alpha-earth/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google DeepMind Unveils AlphaEarth Foundations Model for Global Mapping</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-26 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://becca.ooo/blog/macos-dotfiles/" target="_blank">macOS dotfiles should not go in –/Library/Application Support</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-26 04:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,9 +230,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/poor-password-choices.html" target="_blank">Poor Password Choices</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/encryption-backdoor-in-military-police-radios.html" target="_blank">Encryption Backdoor in Military/Police Radios</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2025-08-25 11:03</span>
+                <span class="time">2025-08-26 11:06</span>
             </div>
         </div>
 </div>
@@ -331,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
