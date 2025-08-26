@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-26 06:02:04 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-26 07:01:49 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Error processing https://arstechnica.com/feed/: The read operation timed out -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, August 26, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, August 26, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +54,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/26/australia-japan-join-countries-suspending-some-parcel-shipments-to-the-us?traffic_source=rss" target="_blank">Australia, Japan join countries suspending some parcel shipments to the US</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-26 05:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/26/nx-s1-5517800/drug-lord-el-mayo-zambada-plea" target="_blank">Long-elusive Mexican drug lord Ismael &#x27;El Mayo&#x27; Zambada pleads guilty in U.S.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-26 05:03</span>
             </div>
         </div>
 <div class="story">
@@ -87,15 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/25/nx-s1-5517335/trump-federal-reserve-governor-lisa-cook" target="_blank">Trump seeks to fire Fed governor Lisa Cook</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-26 00:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1756168802835_now_staytuned_lisa_cook_trump_250825_1920x1080-1pf0p8.jpg" alt="Trump says he will remove Federal Reserve Gov. Lisa Cook" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-says-he-will-remove-federal-reserve-gov-lisa-cook-245758533737" target="_blank">Trump says he will remove Federal Reserve Gov. Lisa Cook</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-26 00:40</span>
             </div>
         </div>
 </div>
@@ -183,6 +186,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://becca.ooo/blog/macos-dotfiles/" target="_blank">macOS dotfiles should not go in –/Library/Application Support</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-26 04:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/vaibhav_shakya_e6b352bfc4/target-sdk-updates-are-breaking-apps-in-2025-heres-the-fix-google-wont-tell-you-2mi6" target="_blank">Target SDK Updates Are Breaking Apps in 2025 — Here’s the Fix Google Won’t Tell You</a></span>
                 <span class="feed">DEV Community</span>
@@ -205,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/rajesh_mondal_cded2f82459/discord-fonts-generator-3i4f" target="_blank">Discord Fonts Generator</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-26 02:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/java-news-roundup-aug18-2025/en/headerimage/java-istock-image-01-1756065809599.jpg" alt="Java News Roundup: JDK 25-RC2, Eclipse JNoSQL, Quarkus, Apache TomEE, Apache Camel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/java-news-roundup-aug18-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: JDK 25-RC2, Eclipse JNoSQL, Quarkus, Apache TomEE, Apache Camel</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-26 02:30</span>
             </div>
         </div>
 </div>
@@ -321,22 +324,13 @@
                 <span class="time">2025-08-25 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/08/25/gundammit" target="_blank">Gundammit</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-08-25 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
