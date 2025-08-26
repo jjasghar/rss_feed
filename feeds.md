@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-26 17:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-26 18:02:07 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, August 26, 2025 - 17:01 UTC</div>
+    <div class="newspaper-date">Tuesday, August 26, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/26/what-are-double-tap-strikes-that-israel-used-to-hit-a-hospital?traffic_source=rss" target="_blank">What are double-tap strikes that Israel used to hit a hospital?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-26 17:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,20 +99,20 @@
                 <span class="time">2025-08-26 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/26/legal-expert-calls-for-investigation-into-gaza-hospital-attack?traffic_source=rss" target="_blank">Legal expert calls for investigation into Gaza hospital attack</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-26 14:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68a5724e2813b477fc9a5eda/master/pass/The%20Best%20Early%20Labor%20Day%20Deals%20and%20Sales.png" alt="31 Best Early Labor Day Sales on WIRED-Tested Gear (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-labor-day-sales-deals-2025/" target="_blank">31 Best Early Labor Day Sales on WIRED-Tested Gear (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-26 17:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/684cd931d924193be758a72d/master/pass/The%20Best%20Smart%20Bird%20Feeders%20for%20Backyard%20Birding.png" alt="Best Bird Feeders With Cameras, Tested and Reviewed (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +158,20 @@
                 <span class="time">2025-08-26 14:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/764259/marshall-bromley-750-bluetooth-wireless-party-speaker" target="_blank">Marshall’s first Bluetooth party speaker has a hidden light show</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-26 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/laradissouza99/unlocking-new-revenue-streams-how-network-apis-are-monetizing-the-digital-economy-30o0" target="_blank">Unlocking New Revenue Streams: How Network APIs are Monetizing the Digital Economy</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-26 17:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fassets.dev.to%2Fassets%2Fgithub-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="This week&#x27;s ship: Expensely 🪙" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -169,6 +179,15 @@
                 <span class="title"><a href="https://dev.to/shravzzv/this-weeks-ship-expensely-5d7f" target="_blank">This week&#x27;s ship: Expensely 🪙</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-26 16:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substackcdn.com/image/fetch/$s_!8W1a!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1f08ae4-7d7f-4a8d-98ab-8ccfbf26acda_1600x1200.jpeg" alt="How experienced engineers get unstuck in coding interviews" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/how-to-get-unstuck-during-coding-interviews" target="_blank">How experienced engineers get unstuck in coding interviews</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-08-26 16:33</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/LLVM-21.1-Released" target="_blank">LLVM 21.1 Released With AMD GFX1250 Target, Improved RISC-V, New C/C++ Features</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-26 14:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://deepmind.google/models/gemini/image/" target="_blank">Gemini 2.5 Flash Image</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-26 14:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/broadcom-and-canonical-expand-partnership-to-optimize-vmware-cloud-foundation-for-modern-container-and-ai-workloads" target="_blank">Broadcom and Canonical expand partnership to optimize VMware Cloud Foundation for modern container and AI workloads</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-08-26 13:09</span>
             </div>
         </div>
 </div>
@@ -245,6 +246,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/nightreign.jpg" alt="Elden Ring Nightreign‘s Secret New Mode Hasn’t Even Been Announced Yet And Fans Are Already Playing It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/elden-ring-nightreign-hard-mode-deep-night-ranked-2000620376" target="_blank">Elden Ring Nightreign‘s Secret New Mode Hasn’t Even Been Announced Yet And Fans Are Already Playing It</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-26 17:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/farmer.jpeg?fit=1080%2C601&amp;quality=60&amp;ssl=1" alt="Missouri farmer to congressman&#x27;s face: &quot;Take your head out of Trump&#x27;s ass&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/26/missouri-farmer-slams-congressman-to-his-face-you-need-to-take-your-head-out-of-trumps-ass.html" target="_blank">Missouri farmer to congressman&#x27;s face: &quot;Take your head out of Trump&#x27;s ass&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-26 17:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K3KKD75B53KK0CT94WH2K4WP/hero-image.jpg" alt="Here&#x27;s When You Can Watch Apple Announce the iPhone 17" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-to-watch-apple-announce-the-iphone-17?utm_medium=RSS" target="_blank">Here&#x27;s When You Can Watch Apple Announce the iPhone 17</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-26 17:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/04/ff82b6491738834542ce014789294b8f.jpg" alt="EA’s Long Awaited Skate Reboot Is Launching Next Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -271,38 +299,20 @@
                 <span class="time">2025-08-26 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K3HMVHTN2EW5YQP5QYZ1S07S/hero-image.png" alt="The Google Pixel Tablet Is 38% Off for Labor Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-pixel-tablet-sale-labor-day-2025?utm_medium=RSS" target="_blank">The Google Pixel Tablet Is 38% Off for Labor Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-26 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/sh-figuarts-gamerverse-spider-man-marvel-vs-capcom.jpg" alt="God Damn, Just Look at This Spider-Man Action Figure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/sh-figuarts-spider-man-marvel-vs-capcom-price-release-date-gamerverse-2000648135" target="_blank">God Damn, Just Look at This Spider-Man Action Figure</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-26 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/hp-17-laptop-windows.jpg" alt="This Powerful HP Laptop Is $3,000 Off on Amazon, Going With No Profit for Back to School" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-powerful-hp-laptop-is-3000-off-on-amazon-going-with-no-profit-for-back-to-school-2000620315" target="_blank">This Powerful HP Laptop Is $3,000 Off on Amazon, Going With No Profit for Back to School</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-26 13:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/sun-face/" target="_blank">Sun Face</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2025-08-26 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1755734350-20250826.png" alt="Saturday Morning Breakfast Cereal - Standards" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -335,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
