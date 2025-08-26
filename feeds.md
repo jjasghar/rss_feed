@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-26 10:01:56 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-08-26 11:01:28 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, August 26, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, August 26, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f060/live/7156ea20-8263-11f0-ba76-2552413beb48.jpg" alt="Reform UK would pay countries for migrant return deals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5yk4r5e514o?at_medium=RSS&at_campaign=rss" target="_blank">Reform UK would pay countries for migrant return deals</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-26 10:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/26/despite-huge-manpower-losses-how-is-russia-replenishing-its-military?traffic_source=rss" target="_blank">Despite huge manpower losses, how is Russia replenishing its military?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-26 10:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/26/nx-s1-5467727/hurricane-katrina-pets-animal-rescue-disaster" target="_blank">A lesson learned after pets were left behind in Hurricane Katrina: Save the animals</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-26 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,38 +103,29 @@
                 <span class="time">2025-08-26 08:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/8/26/death-toll-from-typhoon-kajiki-rises-in-vietnam?traffic_source=rss" target="_blank">Death toll from Typhoon Kajiki rises in Vietnam</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-26 08:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/26/nx-s1-5517826/australia-iran-antisemitic-attacks-expels-ambassador" target="_blank">Australia accuses Iran of organizing antisemitic attacks and expels ambassador</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-26 07:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/8/26/japan-lodges-protest-with-china-over-installation-in-east-china-sea?traffic_source=rss" target="_blank">Japan lodges protest with China over ‘installation’ in East China Sea</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-26 07:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/26/spotify-launches-a-messages-feature-in-a-bid-to-become-more-social/" target="_blank">Spotify launches a messaging feature in a bid to become more social</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-26 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68ac8fcdca294fccf730b7b5/master/pass/GettyImages-200010280-001.jpg" alt="How They Make the Mario Kart-Style &#x27;Ghost Car&#x27; for Auto Racing Broadcasts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/mario-kart-ghost-car-formula-1-nascar-indycar/" target="_blank">How They Make the Mario Kart-Style &#x27;Ghost Car&#x27; for Auto Racing Broadcasts</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-26 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68a7736bf532a4a7bcd744a6/master/pass/UV-Big-Interview-Alexis-Ohanian-2.jpg" alt="Alexis Ohanian’s Next Social Platform Has One Rule: Don’t Act Like an Asshole" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,24 +160,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/08/25/road-to-battlefield-central-eurasias-largest-startup-competition-in-history-sends-four-winners-to-techcrunch-startup-battlefield/" target="_blank">Road to Battlefield: Central Eurasia’s largest startup competition in history sends four winners to TechCrunch’s Startup Battlefield</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-08-25 22:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/765254/amazon-kindle-colorsoft-16gb-e-reader-deal-sale" target="_blank">The new entry-level Kindle Colorsoft is $30 off for a limited time</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-25 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/Android-statue-500x500.jpg" alt="Google will block sideloading of unverified Android apps starting next year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/08/google-will-block-sideloading-of-unverified-android-apps-starting-next-year/" target="_blank">Google will block sideloading of unverified Android apps starting next year</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-25 20:52</span>
             </div>
         </div>
 </div>
@@ -324,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
