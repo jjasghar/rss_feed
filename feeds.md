@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-26 08:02:06 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-26 09:02:09 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, August 26, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, August 26, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/26/nx-s1-5464832/a-mom-draws-what-its-like-to-have-intrusive-thoughts-and-how-to-cope" target="_blank">A mom draws what it&#x27;s like to have intrusive thoughts — and how to cope</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-26 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/summit-65-rt-gmh-250815_1755300526784_hpMain_4x3t_384.jpg" alt="Russian drones strike Ukraine after Trump expresses anger at attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/trump-angry-putin-ukraine-strikes-continue-despite-peace/story?id=124977411" target="_blank">Russian drones strike Ukraine after Trump expresses anger at attacks</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-26 08:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/8/26/death-toll-from-typhoon-kajiki-rises-in-vietnam?traffic_source=rss" target="_blank">Death toll from Typhoon Kajiki rises in Vietnam</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-26 08:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,33 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/26/australia-japan-join-countries-suspending-some-parcel-shipments-to-the-us?traffic_source=rss" target="_blank">Australia, Japan join countries suspending some parcel shipments to the US</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-26 05:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/26/nx-s1-5517800/drug-lord-el-mayo-zambada-plea" target="_blank">Long-elusive Mexican drug lord Ismael &#x27;El Mayo&#x27; Zambada pleads guilty in U.S.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-26 05:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cd0/live/7ef59270-8246-11f0-bccb-316957b7965d.jpg" alt="Domestic abuse screening tool doesn&#x27;t work, minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr4e7yrxkgvo?at_medium=RSS&at_campaign=rss" target="_blank">Domestic abuse screening tool doesn&#x27;t work, minister says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-26 05:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/26/australia-accuses-iran-of-directing-antisemitic-attacks-expels-envoy?traffic_source=rss" target="_blank">Australia accuses Iran of directing anti-Semitic attacks, expels envoy</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-26 03:18</span>
             </div>
         </div>
 </div>
@@ -168,6 +165,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/maksim_matlakhov/phase-45-spec-as-source-of-truth-rethinking-development-workflow-40om" target="_blank">Phase 4.5: Spec as Source of Truth - Rethinking Development Workflow</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-26 08:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2025/08/26/svelte-was-built-on-slinging-code-for-the-sheer-love-of-it/" target="_blank">Svelte was built on “slinging code for the sheer love of it”</a></span>
                 <span class="feed">Stack Overflow Blog</span>
@@ -208,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/vaibhav_shakya_e6b352bfc4/target-sdk-updates-are-breaking-apps-in-2025-heres-the-fix-google-wont-tell-you-2mi6" target="_blank">Target SDK Updates Are Breaking Apps in 2025 — Here’s the Fix Google Won’t Tell You</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-26 04:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cblitz/walter-writes-ai-review-3i1l" target="_blank">Walter Writes AI Review</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-26 03:21</span>
             </div>
         </div>
 </div>
@@ -329,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
