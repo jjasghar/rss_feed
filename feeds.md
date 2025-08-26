@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-26 22:01:32 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-26 23:01:36 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, August 26, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, August 26, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e30/live/c7d783c0-82ca-11f0-ae2d-916d63627276.jpg" alt="Sheff Wed show &#x27;togetherness&#x27; amid protests at owner" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/sport/football/articles/cwy5e1n5zwgo?at_medium=RSS&at_campaign=rss" target="_blank">Sheff Wed show &#x27;togetherness&#x27; amid protests at owner</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-26 22:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/26/brazilian-high-court-requests-increased-security-for-bolsonaro?traffic_source=rss" target="_blank">Brazilian high court requests increased security for Bolsonaro</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-26 22:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +99,6 @@
                 <span class="title"><a href="https://news.sky.com/story/israeli-protesters-demand-netanyahu-does-whatever-it-takes-to-bring-hostages-home-but-is-he-listening-13418951" target="_blank">Protesters demand Netanyahu does whatever it takes to bring hostages home - but is he listening?</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-08-26 20:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/26/nx-s1-5518192/taylor-swift-engaged-travis-kelce" target="_blank">Taylor Swift and Travis Kelce are in their engagement era</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-26 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/8/26/has-the-world-forgotten-about-the-plight-of-the-rohingya?traffic_source=rss" target="_blank">Has the world forgotten about the plight of the Rohingya?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-26 19:33</span>
             </div>
         </div>
 </div>
@@ -258,6 +257,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K3M3RBQAG7YCNNKK49DVQZ7F/hero-image.png" alt="These Are the Best Deals From Home Depot&#x27;s Labor Day Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/best-deals-from-home-depot-labor-day-sale-2025?utm_medium=RSS" target="_blank">These Are the Best Deals From Home Depot&#x27;s Labor Day Sale</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-26 21:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/art.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Nazi-looted masterpiece found hanging in Argentinian home listing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -291,15 +299,6 @@
                 <span class="title"><a href="https://kotaku.com/every-game-delayed-silksong-hollowknight-demonschool-baby-steps-cloverpit-2000620407" target="_blank">Every Game Delayed By Silksong</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-26 20:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/BYTE-Magazine_2C-laid-page-to-page.jpg?fit=1080%2C624&amp;quality=60&amp;ssl=1" alt="Zoom in to a visual archive of Byte, the small systems journal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/26/zoom-in-to-a-visual-archive-of-byte-the-small-systems-journal.html" target="_blank">Zoom in to a visual archive of Byte, the small systems journal</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-26 19:43</span>
             </div>
         </div>
 </div>
@@ -339,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 260 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
