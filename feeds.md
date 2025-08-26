@@ -1,32 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-08-26 03:18:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-26 04:02:22 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, August 26, 2025 - 03:18 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, August 26, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -164,6 +163,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cblitz/walter-writes-ai-review-3i1l" target="_blank">Walter Writes AI Review</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-26 03:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/rajesh_mondal_cded2f82459/discord-fonts-generator-3i4f" target="_blank">Discord Fonts Generator</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-26 02:36</span>
@@ -205,15 +213,6 @@
                 <span class="time">2025-08-25 23:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/zen-browser.jpg?resize=406%2C232&amp;ssl=1" alt="Zen Browser is What Mozilla Firefox Should Be" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/zen-browser-is-what-mozilla-firefox-should-be" target="_blank">Zen Browser is What Mozilla Firefox Should Be</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-25 22:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +239,15 @@
                 <span class="title"><a href="https://gizmodo.com/nvidia-unveils-high-tech-brain-for-humanoid-robots-and-self-driving-cars-2000647946" target="_blank">Nvidia Unveils High-Tech ‘Brain’ for Humanoid Robots and Self-Driving Cars</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-26 00:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/trump-barron.jpg?fit=1200%2C750&amp;quality=60&amp;ssl=1" alt="Trump amazed by son&#x27;s ability to restart computer — an &quot;unbelievable aptitude in technology&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/25/trump-amazed-by-sons-ability-to-restart-computer-an-unbelievable-aptitude-in-technology.html" target="_blank">Trump amazed by son&#x27;s ability to restart computer — an &quot;unbelievable aptitude in technology&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-26 00:25</span>
             </div>
         </div>
 <div class="story">
@@ -276,15 +284,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/25/how-to-avoid-entrapment-at-traffic-stops-video.html" target="_blank">How to avoid entrapment at traffic stops (video)</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-25 20:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K3HBR00TM08XY92MMNRWT3B9/hero-image.png" alt="Four Ways to More Seamlessly Set Up Multiple Monitors for Your Mac" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-set-up-multiple-monitors-on-mac?utm_medium=RSS" target="_blank">Four Ways to More Seamlessly Set Up Multiple Monitors for Your Mac</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-25 20:30</span>
             </div>
         </div>
 </div>
@@ -333,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 03:18 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
