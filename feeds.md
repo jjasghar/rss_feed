@@ -1,40 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-26 00:04:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-26 01:29:11 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, August 26, 2025 - 00:04 UTC</div>
+    <div class="newspaper-date">Tuesday, August 26, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/25/nx-s1-5517335/trump-federal-reserve-governor-lisa-cook" target="_blank">Trump seeks to fire Fed governor Lisa Cook</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-26 00:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1756168802835_now_staytuned_lisa_cook_trump_250825_1920x1080-1pf0p8.jpg" alt="Trump says he will remove Federal Reserve Gov. Lisa Cook" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-says-he-will-remove-federal-reserve-gov-lisa-cook-245758533737" target="_blank">Trump says he will remove Federal Reserve Gov. Lisa Cook</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-26 00:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/lisa-cook-gty-jef-250820_1755698041319_hpMain_4x3t_384.jpg" alt="Trump says he&#x27;s firing Fed Reserve Board Governor Lisa Cook" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-firing-fed-reserve-board-governor-lisa-cook/story?id=124971912" target="_blank">Trump says he&#x27;s firing Fed Reserve Board Governor Lisa Cook</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-26 00:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,38 +103,20 @@
                 <span class="time">2025-08-25 21:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1756154237858_f_mo_dc_pritzker_chicago_trump_250825_1920x1080-wyngr4.jpg" alt="&#x27;Do not come to Chicago&#x27;: Pritzker on Trump plans to send troops to Illinois" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/illinois-gov-pritzker-warns-trump-not-to-send-troops-to-chicago-245738565963" target="_blank">&#x27;Do not come to Chicago&#x27;: Pritzker on Trump plans to send troops to Illinois</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-25 20:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/8/25/why-has-donald-trump-not-spoken-out-about-the-famine-in-gaza?traffic_source=rss" target="_blank">Why has Donald Trump not spoken out about the famine in Gaza?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-25 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/25/nx-s1-5515630/israel-gaza-journalists-killed-hospital" target="_blank">Israeli strikes kill 22, including 5 journalists, in a Gaza hospital</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-25 20:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/765663/fox-news-sports-youtube-tv-fox-one-carriage-dispute" target="_blank">YouTube TV could lose Fox channels this week</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-26 00:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,15 +162,6 @@
                 <span class="time">2025-08-25 20:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025" target="_blank">The 58 best Labor Day deals we’ve found so far</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-25 20:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +174,15 @@
                 <span class="title"><a href="https://dev.to/arbab529/expose-localhost-to-the-network-using-cloudflare-tunnel-33ge" target="_blank">Expose localhost to the network using Cloudflare Tunnel</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-25 23:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/zen-browser.jpg?resize=406%2C232&amp;ssl=1" alt="Zen Browser is What Mozilla Firefox Should Be" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/zen-browser-is-what-mozilla-firefox-should-be" target="_blank">Zen Browser is What Mozilla Firefox Should Be</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-25 22:49</span>
             </div>
         </div>
 <div class="story">
@@ -213,15 +221,6 @@
                 <span class="time">2025-08-25 20:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18582536&w=600" alt="Debugging Distributed ML Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ml-categorization-bug-tracing-jaeger" target="_blank">Debugging Distributed ML Systems</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-25 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/01/Nvidia-CEO-Jensen-Huang-RTX-50-Series-GPU-1.jpg" alt="Nvidia Unveils High-Tech ‘Brain’ for Humanoid Robots and Self-Driving Cars" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/nvidia-unveils-high-tech-brain-for-humanoid-robots-and-self-driving-cars-2000647946" target="_blank">Nvidia Unveils High-Tech ‘Brain’ for Humanoid Robots and Self-Driving Cars</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-26 00:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/Gamescome.jpg" alt="6 Awesome-Looking Games That Went Under The Radar At Gamescom 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +294,6 @@
                 <span class="time">2025-08-25 20:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/minecrapofrt.jpg" alt="New Minecraft Mod Turns It Into Portal 2, Complete With A Level Editor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/portal-2-minecraft-java-edition-mod-valve-pc-remake-2000620054" target="_blank">New Minecraft Mod Turns It Into Portal 2, Complete With A Level Editor</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-25 19:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,22 +326,13 @@
                 <span class="time">2025-08-25 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5642.png" alt="Balance Patch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5642" target="_blank">Balance Patch</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-08-25 01:05</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
