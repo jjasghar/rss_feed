@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-26 19:02:07 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-26 20:01:54 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, August 26, 2025 - 19:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, August 26, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/26/nx-s1-5518192/taylor-swift-engaged-travis-kelce" target="_blank">Taylor Swift and Travis Kelce are in their engagement era</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-26 19:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/8/26/has-the-world-forgotten-about-the-plight-of-the-rohingya?traffic_source=rss" target="_blank">Has the world forgotten about the plight of the Rohingya?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-26 19:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/cabinet-4-gty-gmh-250826_1756225632996_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump says he will seek death penalty for murders in DC" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124929306" target="_blank">Trump admin live updates: Trump says he will seek death penalty for murders in DC</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-26 18:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,38 +99,29 @@
                 <span class="time">2025-08-26 17:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/witness/2025/8/26/healing-haitis-children-inside-one-of-port-au-princes-last-hospitals?traffic_source=rss" target="_blank">Healing Haiti’s Children: Inside one of Port-au-Prince’s last hospitals</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-26 16:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e392/live/85785c70-828e-11f0-a34f-318be3fb0481.jpg" alt="Reform prepared to deport 600,000 under migration plans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5yk4r5e514o?at_medium=RSS&at_campaign=rss" target="_blank">Reform prepared to deport 600,000 under migration plans</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-26 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/26/botswana-president-declares-public-health-emergency-medicine-supply-shortages" target="_blank">Botswana’s president declares health emergency over supply shortages</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-08-26 15:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68adfa76d6e72970f29826e0/master/pass/GettyImages-2229149370.jpg" alt="Anthropic Settles High-Profile AI Copyright Lawsuit Brought by Book Authors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/anthropic-settles-copyright-lawsuit-authors/" target="_blank">Anthropic Settles High-Profile AI Copyright Lawsuit Brought by Book Authors</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-26 19:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/Matt-and-Adam-Raine-via-Edelson-PC-500x500.jpeg" alt="“ChatGPT killed my son”: Parents’ lawsuit describes suicide notes in chat logs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/08/chatgpt-helped-teen-plan-suicide-after-safeguards-failed-openai-admits/" target="_blank">“ChatGPT killed my son”: Parents’ lawsuit describes suicide notes in chat logs</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-26 19:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,24 +158,6 @@
                 <span class="time">2025-08-26 16:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/766038/dish-echostar-spectrum-att-sale-fourth-carrier" target="_blank">Dish gives up on becoming the fourth major wireless carrier</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-26 16:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/04/Gemini-1-500x500-1743791269.jpg" alt="Google improves Gemini AI image editing with “nano banana” model" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/08/google-improves-gemini-ai-image-editing-with-nano-banana-model/" target="_blank">Google improves Gemini AI image editing with “nano banana” model</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-26 16:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,9 +167,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ahmad_alhafi/angular-19-whats-up-with-signals-2h80" target="_blank">Angular 19 — What’s up with Signals?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-26 19:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://claude.ai/chrome" target="_blank">Claude for Chrome</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-26 19:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/angu10/student-teacher-distillation-a-complete-guide-for-model-compression-37ed" target="_blank">Student-Teacher Distillation: A Complete Guide for Model Compression</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-26 18:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/04/parallels-linux-1.jpg?resize=406%2C232&amp;ssl=1" alt="Parallels Desktop 26 Update Improves Ubuntu VMs on macOS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/parallels-desktop-26-better-ubuntu-vm-macos" target="_blank">Parallels Desktop 26 Update Improves Ubuntu VMs on macOS</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-26 18:24</span>
             </div>
         </div>
 <div class="story">
@@ -192,33 +215,6 @@
                 <span class="title"><a href="https://dev.to/shravzzv/this-weeks-ship-expensely-5d7f" target="_blank">This week&#x27;s ship: Expensely 🪙</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-26 16:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substackcdn.com/image/fetch/$s_!8W1a!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1f08ae4-7d7f-4a8d-98ab-8ccfbf26acda_1600x1200.jpeg" alt="How experienced engineers get unstuck in coding interviews" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/how-to-get-unstuck-during-coding-interviews" target="_blank">How experienced engineers get unstuck in coding interviews</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-08-26 16:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/intel-battlemage-rusticl" target="_blank">Rusticl vs. Intel Compute Runtime Performance For OpenCL On Battlemage</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-26 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/getstreamhq/talkjs-alternatives-comparing-the-top-7-competitors-3gde" target="_blank">TalkJS Alternatives – Comparing the Top 7 Competitors</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-26 15:42</span>
             </div>
         </div>
 </div>
@@ -249,6 +245,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/BYTE-Magazine_2C-laid-page-to-page.jpg?fit=1080%2C624&amp;quality=60&amp;ssl=1" alt="Zoom in to a visual archive of Byte, the small systems journal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/26/zoom-in-to-a-visual-archive-of-byte-the-small-systems-journal.html" target="_blank">Zoom in to a visual archive of Byte, the small systems journal</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-26 19:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K3KVABJEEQAFE3AAPXHHA2R0/hero-image.jpg" alt="These Smart Rings Are Being Pulled From the Market" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/ultrahuman-ringconn-smart-rings-pulled-from-market-oura-lawsuit?utm_medium=RSS" target="_blank">These Smart Rings Are Being Pulled From the Market</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-26 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Kanye.jpg" alt="Kanye’s Crypto Journey Gets Significantly Weirder" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,24 +297,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/how-to-watch-apple-announce-the-iphone-17?utm_medium=RSS" target="_blank">Here&#x27;s When You Can Watch Apple Announce the iPhone 17</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-26 17:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/04/ff82b6491738834542ce014789294b8f.jpg" alt="EA’s Long Awaited Skate Reboot Is Launching Next Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/skate-4-reboot-ea-launch-date-september-xbox-ps5-pc-trailer-2000620375" target="_blank">EA’s Long Awaited Skate Reboot Is Launching Next Month</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-26 16:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/07/musk-shutterstock_2308410015-e1756227171541.jpg?fit=768%2C576&amp;quality=60&amp;ssl=1" alt="Tesla&#x27;s bullying cost the shareholders an extra $183 million" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/26/teslas-bullying-cost-the-shareholders-an-extra-183-million.html" target="_blank">Tesla&#x27;s bullying cost the shareholders an extra $183 million</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-26 16:53</span>
             </div>
         </div>
 </div>
@@ -349,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
