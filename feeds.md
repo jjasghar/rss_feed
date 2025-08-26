@@ -1,31 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-26 04:02:22 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing 54 RSS feeds at 2025-08-26 05:01:49 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, August 26, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, August 26, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/26/australia-accuses-iran-of-directing-antisemitic-attacks-expels-envoy?traffic_source=rss" target="_blank">Australia accuses Iran of directing anti-Semitic attacks, expels envoy</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-26 03:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,15 +96,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/trump-firing-fed-reserve-board-governor-lisa-cook/story?id=124971912" target="_blank">Trump says he&#x27;s firing Fed Reserve Board Governor Lisa Cook</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-26 00:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/25/slain-al-jazeera-journalist-died-documenting-gazas?traffic_source=rss" target="_blank">Slain Al Jazeera journalist died documenting Gaza’s ‘suffering’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-25 21:36</span>
             </div>
         </div>
 </div>
@@ -162,6 +165,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/08/26/svelte-was-built-on-slinging-code-for-the-sheer-love-of-it/" target="_blank">Svelte was built on “slinging code for the sheer love of it”</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-08-26 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/08/alpha-earth/en/headerimage/generatedHeaderImage-1756144131026.jpg" alt="Google DeepMind Unveils AlphaEarth Foundations Model for Global Mapping" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/alpha-earth/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google DeepMind Unveils AlphaEarth Foundations Model for Global Mapping</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-26 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vaibhav_shakya_e6b352bfc4/target-sdk-updates-are-breaking-apps-in-2025-heres-the-fix-google-wont-tell-you-2mi6" target="_blank">Target SDK Updates Are Breaking Apps in 2025 — Here’s the Fix Google Won’t Tell You</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-26 04:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/cblitz/walter-writes-ai-review-3i1l" target="_blank">Walter Writes AI Review</a></span>
                 <span class="feed">DEV Community</span>
@@ -184,33 +214,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/08/java-news-roundup-aug18-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: JDK 25-RC2, Eclipse JNoSQL, Quarkus, Apache TomEE, Apache Camel</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-08-26 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvw8fztidohnp63u6xin3.png" alt="From Zero to Secure: EC2 + Nginx with the Right Subnet, AZ &amp; Security Groups" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/peter_samuel_052b9056e236/from-zero-to-secure-ec2-nginx-with-the-right-subnet-az-security-groups-33a0" target="_blank">From Zero to Secure: EC2 + Nginx with the Right Subnet, AZ &amp; Security Groups</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-26 02:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GhostBSD-Gershwin-Desktop" target="_blank">GhostBSD Ships &quot;Gershwin&quot; Desktop Environment For A macOS Like Experience</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-26 00:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arbab529/expose-localhost-to-the-network-using-cloudflare-tunnel-33ge" target="_blank">Expose localhost to the network using Cloudflare Tunnel</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-25 23:41</span>
             </div>
         </div>
 </div>
@@ -332,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
