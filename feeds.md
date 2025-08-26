@@ -1,44 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-26 14:01:44 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-26 15:02:07 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 34 feeds processed -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, August 26, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, August 26, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/26/g-s1-84215/doj-federal-district-judges-maryland" target="_blank">The DOJ sued the federal district bench in Maryland. A judge just dismissed the case</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-26 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/26/legal-expert-calls-for-investigation-into-gaza-hospital-attack?traffic_source=rss" target="_blank">Legal expert calls for investigation into Gaza hospital attack</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-26 14:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,29 +103,20 @@
                 <span class="time">2025-08-26 11:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1756206990390_tdy_news_7a_gabe_trump_cook_250826_1920x1080-ngg8mb.jpg" alt="Fed Governor Lisa Cook Responds After Trump Fires Her" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-fires-fed-governor-lisa-cook-in-truth-social-post-245774917831" target="_blank">Fed Governor Lisa Cook Responds After Trump Fires Her</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-26 11:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f060/live/7156ea20-8263-11f0-ba76-2552413beb48.jpg" alt="Reform UK would pay countries for migrant return deals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5yk4r5e514o?at_medium=RSS&at_campaign=rss" target="_blank">Reform UK would pay countries for migrant return deals</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-26 10:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/20252281710_GOES19-ABI-taw-GEOCOLOR-1800x1080-1-500x500.jpg" alt="Google’s AI model just nailed the forecast for the strongest Atlantic storm this year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/08/googles-ai-model-just-nailed-the-forecast-for-the-strongest-atlantic-storm-this-year/" target="_blank">Google’s AI model just nailed the forecast for the strongest Atlantic storm this year</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-26 14:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -158,20 +162,29 @@
                 <span class="time">2025-08-26 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68ac8fcdca294fccf730b7b5/master/pass/GettyImages-200010280-001.jpg" alt="How They Make the Mario Kart-Style &#x27;Ghost Car&#x27; for Auto Racing Broadcasts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/mario-kart-ghost-car-formula-1-nascar-indycar/" target="_blank">How They Make the Mario Kart-Style &#x27;Ghost Car&#x27; for Auto Racing Broadcasts</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-26 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/LLVM-21.1-Released" target="_blank">LLVM 21.1 Released With AMD GFX1250 Target, Improved RISC-V, New C/C++ Features</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-26 14:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://deepmind.google/models/gemini/image/" target="_blank">Gemini 2.5 Flash Image</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-26 14:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,24 +221,6 @@
                 <span class="time">2025-08-26 12:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/systems-thinking-building-resilient-organizations/en/mediumimage/michelle-alexander-medium-1755672152967.jpeg" alt="Presentation: Systems Thinking for Building Resilient Engineering Organizations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/systems-thinking-building-resilient-organizations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Systems Thinking for Building Resilient Engineering Organizations</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-26 11:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18574111&w=600" alt="How to Implement Kill Switch Feature Flags in a Spring Boot Application" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/kill-switch-feature-flags-spring-boot" target="_blank">How to Implement Kill Switch Feature Flags in a Spring Boot Application</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-26 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +241,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/GoW_Reloaded_Curbstomp_Drone_Fin.jpg" alt="A Review Of Gears Of War: Reloaded And The State Of The Franchise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/a-review-of-gears-of-war-reloaded-and-the-state-of-the-franchise-2000620106" target="_blank">A Review Of Gears Of War: Reloaded And The State Of The Franchise</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-26 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K3HMVHTN2EW5YQP5QYZ1S07S/hero-image.png" alt="The Google Pixel Tablet Is 38% Off for Labor Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-pixel-tablet-sale-labor-day-2025?utm_medium=RSS" target="_blank">The Google Pixel Tablet Is 38% Off for Labor Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-26 14:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/sh-figuarts-gamerverse-spider-man-marvel-vs-capcom.jpg" alt="God Damn, Just Look at This Spider-Man Action Figure" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -264,39 +277,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Screenshot-Aaron-Christophel-.jpg?fit=1080%2C631&amp;quality=60&amp;ssl=1" alt="You can play Doom on an Anker power charger" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/26/you-can-play-doom-on-an-anker-power-charger.html" target="_blank">You can play Doom on an Anker power charger</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-26 13:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/lenovo-ideapad-15-2025.jpg" alt="This Lenovo Laptop (12GB RAM, 512GB SSD, Office 365) Is 85% Off, Amazon Clears Inventory for Summer’s End" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/this-lenovo-laptop-12gb-ram-512gb-ssd-office-365-is-85-off-amazon-clears-inventory-for-summers-end-2000620309" target="_blank">This Lenovo Laptop (12GB RAM, 512GB SSD, Office 365) Is 85% Off, Amazon Clears Inventory for Summer’s End</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-26 13:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K3J084NJDJZADB29CEQGPPJ4/hero-image.jpg" alt="What People Are Getting Wrong This Week: Declaring Bankruptcy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/what-people-are-getting-wrong-this-week-bankruptcy?utm_medium=RSS" target="_blank">What People Are Getting Wrong This Week: Declaring Bankruptcy</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-26 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/Rouge-Air-Trick.jpg" alt="In Sonic Racing: Crossworlds, Sega Does What Nintendon’t" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/sonic-racing-crossworlds-mario-kart-preview-shadow-2000620065" target="_blank">In Sonic Racing: Crossworlds, Sega Does What Nintendon’t</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-26 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/01/Nvidia-CEO-Jensen-Huang-RTX-50-Series-GPU-1.jpg" alt="Nvidia Unveils High-Tech ‘Brain’ for Humanoid Robots and Self-Driving Cars" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/nvidia-unveils-high-tech-brain-for-humanoid-robots-and-self-driving-cars-2000647946" target="_blank">Nvidia Unveils High-Tech ‘Brain’ for Humanoid Robots and Self-Driving Cars</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-26 00:29</span>
             </div>
         </div>
 </div>
@@ -336,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
