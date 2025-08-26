@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-26 16:02:05 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-26 17:01:40 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, August 26, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, August 26, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/witness/2025/8/26/healing-haitis-children-inside-one-of-port-au-princes-last-hospitals?traffic_source=rss" target="_blank">Healing Haiti’s Children: Inside one of Port-au-Prince’s last hospitals</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-26 16:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e392/live/85785c70-828e-11f0-a34f-318be3fb0481.jpg" alt="Reform prepared to deport 600,000 under migration plans" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,20 +98,38 @@
                 <span class="time">2025-08-26 14:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-stream/2025/8/26/is-misogyny-on-the-rise-among-young-boys-in-schools?traffic_source=rss" target="_blank">Is misogyny on the rise among young boys in schools?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-26 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/684cd931d924193be758a72d/master/pass/The%20Best%20Smart%20Bird%20Feeders%20for%20Backyard%20Birding.png" alt="Best Bird Feeders With Cameras, Tested and Reviewed (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-smart-bird-feeders/" target="_blank">Best Bird Feeders With Cameras, Tested and Reviewed (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-26 16:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/766038/dish-echostar-spectrum-att-sale-fourth-carrier" target="_blank">Dish gives up on becoming the fourth major wireless carrier</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-26 16:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/04/Gemini-1-500x500-1743791269.jpg" alt="Google improves Gemini AI image editing with “nano banana” model" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/08/google-improves-gemini-ai-image-editing-with-nano-banana-model/" target="_blank">Google improves Gemini AI image editing with “nano banana” model</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-26 16:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,38 +157,20 @@
                 <span class="time">2025-08-26 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/uncategorized/765482/fujifilm-x-half-sigma-bf-petapixel-chris-jordan-iphone-mini" target="_blank">Zooming in on weird cameras</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-26 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68acd952d623fdff1ed637f2/master/pass/The%20Lenovo%20IdeaPad%205i%202-in-1%20Is%20a%20Budget%2016-Inch%20Laptop%20That%20Barely%20Squeaks%20By.png" alt="Lenovo IdeaPad 5i 2-in-1 Review: Barely Squeaking By" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/lenovo-ideapad-5i-2-in-1/" target="_blank">Lenovo IdeaPad 5i 2-in-1 Review: Barely Squeaking By</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-26 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/26/frontier-buys-31m-worth-of-antacids-for-the-ocean/" target="_blank">Frontier buys $31M worth of antacids for the ocean</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-26 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fassets.dev.to%2Fassets%2Fgithub-logo-5a155e1f9a670af7944dd5e12375bc76ed542ea80224905ecaf878b9157cdefc.svg" alt="This week&#x27;s ship: Expensely 🪙" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shravzzv/this-weeks-ship-expensely-5d7f" target="_blank">This week&#x27;s ship: Expensely 🪙</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-26 16:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +216,6 @@
                 <span class="time">2025-08-26 13:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Radeon-R300-Mem-Info-GL" target="_blank">Open-Source R300 Driver Adds New OpenGL Extensions For Two Decade Old Radeon GPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-26 13:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +244,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/04/ff82b6491738834542ce014789294b8f.jpg" alt="EA’s Long Awaited Skate Reboot Is Launching Next Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/skate-4-reboot-ea-launch-date-september-xbox-ps5-pc-trailer-2000620375" target="_blank">EA’s Long Awaited Skate Reboot Is Launching Next Month</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-26 16:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/07/musk-shutterstock_2308410015-e1756227171541.jpg?fit=768%2C576&amp;quality=60&amp;ssl=1" alt="Tesla&#x27;s bullying cost the shareholders an extra $183 million" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/26/teslas-bullying-cost-the-shareholders-an-extra-183-million.html" target="_blank">Tesla&#x27;s bullying cost the shareholders an extra $183 million</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-26 16:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/GoW_Reloaded_Curbstomp_Drone_Fin.jpg" alt="A Review Of Gears Of War: Reloaded And The State Of The Franchise" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,24 +296,6 @@
                 <span class="title"><a href="https://kotaku.com/this-powerful-hp-laptop-is-3000-off-on-amazon-going-with-no-profit-for-back-to-school-2000620315" target="_blank">This Powerful HP Laptop Is $3,000 Off on Amazon, Going With No Profit for Back to School</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-26 13:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Screenshot-Aaron-Christophel-.jpg?fit=1080%2C631&amp;quality=60&amp;ssl=1" alt="You can play Doom on an Anker power charger" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/26/you-can-play-doom-on-an-anker-power-charger.html" target="_blank">You can play Doom on an Anker power charger</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-26 13:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/lenovo-ideapad-15-2025.jpg" alt="This Lenovo Laptop (12GB RAM, 512GB SSD, Office 365) Is 85% Off, Amazon Clears Inventory for Summer’s End" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-lenovo-laptop-12gb-ram-512gb-ssd-office-365-is-85-off-amazon-clears-inventory-for-summers-end-2000620309" target="_blank">This Lenovo Laptop (12GB RAM, 512GB SSD, Office 365) Is 85% Off, Amazon Clears Inventory for Summer’s End</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-26 13:10</span>
             </div>
         </div>
 </div>
@@ -339,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
