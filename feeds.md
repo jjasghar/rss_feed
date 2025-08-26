@@ -1,39 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-08-26 12:02:17 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-26 13:11:07 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, August 26, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, August 26, 2025 - 13:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/8/26/australia-accuses-iran-of-attacking-jewish?traffic_source=rss" target="_blank">Australia accuses Iran of attacking “Jewish targets”</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-26 12:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/08/26/g-s1-84381/optimist-games-music-dance-hugs" target="_blank">Whatever happened to ... the optimist who thinks games and music can change the world</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-26 12:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +95,20 @@
                 <span class="time">2025-08-26 10:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/26/nx-s1-5467727/hurricane-katrina-pets-animal-rescue-disaster" target="_blank">A lesson learned after pets were left behind in Hurricane Katrina: Save the animals</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-26 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/26/nx-s1-5515666/hurricane-katrina-lost-id-returned-20-years-later" target="_blank">ID lost to Hurricane Katrina is returned 20 years later</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-26 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/uncategorized/765482/fujifilm-x-half-sigma-bf-petapixel-chris-jordan-iphone-mini" target="_blank">Zooming in on weird cameras</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-26 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,15 +152,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/765663/fox-news-sports-youtube-tv-fox-one-carriage-dispute" target="_blank">YouTube TV could lose Fox channels this week</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-08-26 00:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/25/tesla-could-have-avoided-that-242-5m-autopilot-verdict-filings-show/" target="_blank">Tesla could have avoided that $242.5M Autopilot verdict, filings show</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-25 23:32</span>
             </div>
         </div>
 </div>
@@ -241,6 +233,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/lenovo-ideapad-15-2025.jpg" alt="This Lenovo Laptop (12GB RAM, 512GB SSD, Office 365) Is 85% Off, Amazon Clears Inventory for Summer’s End" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-lenovo-laptop-12gb-ram-512gb-ssd-office-365-is-85-off-amazon-clears-inventory-for-summers-end-2000620309" target="_blank">This Lenovo Laptop (12GB RAM, 512GB SSD, Office 365) Is 85% Off, Amazon Clears Inventory for Summer’s End</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-26 13:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/Rouge-Air-Trick.jpg" alt="In Sonic Racing: Crossworlds, Sega Does What Nintendon’t" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -285,15 +286,6 @@
                 <span class="time">2025-08-25 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Microsoft-Windows-11-Pro-2.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Price Drop: Make Your Gaming PC Feel Next-Gen — Windows 11 Pro $12.97" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/25/price-drop-make-your-gaming-pc-feel-next-gen-windows-11-pro-12-97.html" target="_blank">Price Drop: Make Your Gaming PC Feel Next-Gen — Windows 11 Pro $12.97</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-25 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 13:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
