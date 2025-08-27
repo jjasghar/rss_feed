@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-27 08:02:01 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-27 09:01:58 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, August 27, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, August 27, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -63,6 +62,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250827-Ajmer-rs-a1232a.jpg" alt="Trump hits India with punishing 50% tariffs for buying Russian oil" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/india/trumps-tariffs-india-rise-50-punishment-buying-russian-oil-rcna227426" target="_blank">Trump hits India with punishing 50% tariffs for buying Russian oil</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-27 06:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250827-Ajmer-rs-a1232a.jpg" alt="Trump&#x27;s tariffs on India rise to 50% in punishment for buying Russian oil" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -87,15 +95,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2025/aug/27/attempt-to-partner-african-countries-with-japanese-cities-triggers-xenophobic-backlash" target="_blank">Attempt to partner African countries with Japanese cities triggers xenophobic backlash</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-08-27 05:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/27/north-korea-blasts-south-koreas-lee-as-confrontation-maniac?traffic_source=rss" target="_blank">North Korea blasts South Korea’s Lee as ‘confrontation maniac’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-27 04:48</span>
             </div>
         </div>
 </div>
@@ -172,6 +171,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://thedailywtf.com/articles/the-therac-25-incident" target="_blank">The Therac-25 Incident</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-27 06:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbwoviqlb4do1ylxkbbm3.png" alt="SynthWorks – Why Should Our Team be Using VHDL + OSVVM for Verification" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,15 +215,6 @@
                 <span class="time">2025-08-27 04:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/garvit_khamesra/code-101-sort-an-array-using-recursion-3i79" target="_blank">Code 101: Sort an Array using Recursion</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-27 03:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Gemini-North-3I-ATLAS.jpg" alt="This Visiting Interstellar Comet Just Keeps Getting Weirder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/this-visiting-interstellar-comet-just-keeps-getting-weirder-2000648450" target="_blank">This Visiting Interstellar Comet Just Keeps Getting Weirder</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-27 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/04/rfk-kook-e1739476252778.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Trump and RFK Jr blame &quot;a drug or something&quot; for autism" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +297,6 @@
                 <span class="time">2025-08-26 21:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/art.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Nazi-looted masterpiece found hanging in Argentinian home listing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/26/nazi-looted-masterpiece-found-hanging-in-argentinian-home-listing.html" target="_blank">Nazi-looted masterpiece found hanging in Argentinian home listing</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-26 21:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -335,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
