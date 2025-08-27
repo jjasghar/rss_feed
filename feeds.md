@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-27 13:08:46 UTC -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2025-08-27 14:01:49 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, August 27, 2025 - 13:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, August 27, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -95,10 +91,10 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-australia-gunman-shooter_7002564.jpg?20250827121610" alt="Australia shooting suspect identified as manhunt continues into a second day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-australia-gunman-shooter_7002564.jpg?20250827121610" alt="Australia shooting suspect and dead officers identified as manhunt continues into a second day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/australia-shooting-suspect-identified-as-manhunt-continues-into-a-second-day-13419192" target="_blank">Australia shooting suspect identified as manhunt continues into a second day</a></span>
+                <span class="title"><a href="https://news.sky.com/story/australia-shooting-suspect-identified-as-manhunt-continues-into-a-second-day-13419192" target="_blank">Australia shooting suspect and dead officers identified as manhunt continues into a second day</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-08-27 08:05</span>
             </div>
@@ -108,6 +104,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68aefdae4b0fdc15004a4c5a/master/pass/spacex.jpg" alt="SpaceX Starship Finally Pulls Off a Successful Test Flight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/spacex-starship-successful-test-flight/" target="_blank">SpaceX Starship Finally Pulls Off a Successful Test Flight</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-27 13:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/766417/google-pixel-tablet-apple-airpods-4-deal-sale" target="_blank">Google’s Pixel Tablet is up to $170 off ahead of Labor Day weekend</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-27 13:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/tow2-4-500x500-1756237631.jpg" alt="The Outer Worlds 2 wants you to join the space police" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,29 +158,20 @@
                 <span class="time">2025-08-27 07:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/26/spacex-notches-major-wins-during-tenth-starship-test/" target="_blank">SpaceX notches major wins during 10th Starship test</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-27 01:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/26/spacex-notches-major-wins-during-tenth-starship-test/" target="_blank">SpaceX notches major wins during tenth Starship test</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-27 01:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18573066&w=600" alt="Understanding Memory Page Sizes on Arm64" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/understanding-memory-page-sizes-on-arm64" target="_blank">Understanding Memory Page Sizes on Arm64</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-27 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/presentations/ai-food-image-generation/en/mediumimage/iaroslav-amerkhanov-medium-1755673680242.jpg" alt="Presentation: AI for Food Image Generation in Production: How &amp; Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -212,15 +217,6 @@
                 <span class="time">2025-08-27 11:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://monodraw.helftone.com/" target="_blank">Monodraw</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-27 10:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -259,6 +255,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K3M0AQTVMA2RTMC49EA6C86A/hero-image.png" alt="The Best Labor Day Deals on Phone, Laptops, TVs, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/phone-laptop-tv-headphones-sales-labor-day-2025?utm_medium=RSS" target="_blank">The Best Labor Day Deals on Phone, Laptops, TVs, and More</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-27 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K3N10P8EW0RFS1CF9DSKXZ3K/hero-image.png" alt="This Blink Video Doorbell and Mini 2 Bundle Are $60 for Labor Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -292,15 +297,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/26/trump-and-rfk-jr-blame-a-drug-or-something-for-autism.html" target="_blank">Trump and RFK Jr blame &quot;a drug or something&quot; for autism</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-26 23:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/cougar.jpg?fit=1200%2C807&amp;quality=60&amp;ssl=1" alt="&quot;Always fight back&quot;: Canadian man punches cougar in face to escape attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/26/always-fight-back-canadian-man-punches-cougar-in-face-to-escape-attack.html" target="_blank">&quot;Always fight back&quot;: Canadian man punches cougar in face to escape attack</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-26 23:16</span>
             </div>
         </div>
 </div>
@@ -349,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 13:09 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
