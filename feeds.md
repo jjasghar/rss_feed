@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-27 09:01:58 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-27 10:01:57 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, August 27, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, August 27, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/27/nx-s1-5518151/flag-burning-executive-order" target="_blank">Flag burning has a long history in the U.S. — and legal protections from the Supreme Court</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-27 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0512/live/2f978ef0-831c-11f0-848b-c1258325c24c.jpg" alt="Denmark summons top US diplomat over alleged Greenland influence operation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0j9l08902eo?at_medium=RSS&at_campaign=rss" target="_blank">Denmark summons top US diplomat over alleged Greenland influence operation</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-27 08:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbb4/live/dc055250-831a-11f0-a34f-318be3fb0481.jpg" alt="Energy bills to rise by more than expected ahead of winter" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,24 +100,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/world/india/trumps-tariffs-india-rise-50-punishment-buying-russian-oil-rcna227426" target="_blank">Trump&#x27;s tariffs on India rise to 50% in punishment for buying Russian oil</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-08-27 06:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/27/easy-wins-for-sinner-swiatek-but-gauff-struggles-at-us-open?traffic_source=rss" target="_blank">Easy wins for Sinner, Swiatek but Gauff struggles at US Open</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-27 06:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/27/attempt-to-partner-african-countries-with-japanese-cities-triggers-xenophobic-backlash" target="_blank">Attempt to partner African countries with Japanese cities triggers xenophobic backlash</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-08-27 05:01</span>
             </div>
         </div>
 </div>
@@ -173,6 +178,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/install-fedora/" target="_blank">Installing Fedora Linux in the Simplest Possible Way</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-08-27 07:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://thedailywtf.com/articles/the-therac-25-incident" target="_blank">The Therac-25 Incident</a></span>
                 <span class="feed">Hacker News</span>
@@ -204,15 +218,6 @@
                 <span class="title"><a href="https://commonsware.com/blog/2025/08/26/uncomfortable-questions-android-developer-verification.html" target="_blank">Uncomfortable Questions About Android Developer Verification</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-27 05:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/08/27/from-punch-cards-to-prompts-a-history-of-how-software-got-better/" target="_blank">From punch cards to prompts: a history of how software got better</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-08-27 04:40</span>
             </div>
         </div>
 </div>
@@ -334,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
