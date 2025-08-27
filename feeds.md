@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-08-27 17:01:27 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-27 18:01:56 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 9 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, August 27, 2025 - 17:01 UTC</div>
+    <div class="newspaper-date">Wednesday, August 27, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/minneapolis-shooting-05-gty-jef-250827_1756308743300_hpMain_4x3t_384.jpg" alt="2 children killed, 17 hurt in mass shooting at Catholic school church" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/shooting-reported-catholic-school-minneapolis-governor/story?id=125022493" target="_blank">2 children killed, 17 hurt in mass shooting at Catholic school church</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-27 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/8/27/anthropic-launches-ai-advisory-council-to-boost-ties-with-washington?traffic_source=rss" target="_blank">Anthropic launches AI advisory council to boost ties with Washington</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-27 16:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  2 children killed in Minneapolis school shooting: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,24 +93,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Officials provide update on deadly Minneapolis school shooting: ABC News Live</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-27 15:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/people-power/2025/8/27/the-cost-of-control?traffic_source=rss" target="_blank">The Cost of Control</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-27 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ac8/live/ca4f5590-834e-11f0-8a9a-613339b7e5c3.png" alt="Gaza City evacuation inevitable, Israeli army warns Palestinians" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gmrxd8ryno?at_medium=RSS&at_campaign=rss" target="_blank">Gaza City evacuation inevitable, Israeli army warns Palestinians</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-27 15:02</span>
             </div>
         </div>
 </div>
@@ -166,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18581619&w=600" alt="Optimizing Docker Container Logging: Strategies for Scalability and Performance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/docker-logging-optimization-scalability-performance" target="_blank">Optimizing Docker Container Logging: Strategies for Scalability and Performance</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-27 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18580794&w=600" alt="Seamless Storage: Configuring Kubernetes PVC for Windows Shared Folders With SMB" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -210,15 +213,6 @@
                 <span class="time">2025-08-27 13:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18573066&w=600" alt="Understanding Memory Page Sizes on Arm64" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/understanding-memory-page-sizes-on-arm64" target="_blank">Understanding Memory Page Sizes on Arm64</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-27 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +232,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/NicolasCageJesus.jpg" alt="Our First Look at Nicolas Cage’s Jesus Horror Movie Is 20 Seconds of Agony" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/our-first-look-at-nicolas-cages-jesus-horror-movie-is-20-seconds-of-agony-2000649083" target="_blank">Our First Look at Nicolas Cage’s Jesus Horror Movie Is 20 Seconds of Agony</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-27 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K3P5GDYZSSWV38XDPAJDXWA2/hero-image.png" alt="Every Apple iPad Is on Sale for Labor Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/ipad-sale-labor-day-2025?utm_medium=RSS" target="_blank">Every Apple iPad Is on Sale for Labor Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-27 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/04/3c47dee000fbb088dc2974718baf3c47.jpg" alt="Stardew Valley And Two Other Great Games Will Be Free On PlayStation Plus Next Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/stardew-valley-and-two-other-great-games-will-be-free-on-playstation-plus-next-week-2000620727" target="_blank">Stardew Valley And Two Other Great Games Will Be Free On PlayStation Plus Next Week</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-27 17:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/RFK2.jpg" alt="RFK Jr. Promises to Reveal the ‘Cause’ of Autism Next Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,38 +286,20 @@
                 <span class="time">2025-08-27 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/glow-in-the-dark-succulents-rainbow.jpg" alt="Glow-in-the-Dark Succulents Could Be the Future of Ambient Lighting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/glow-in-the-dark-succulents-could-be-the-future-of-ambient-lighting-2000648920" target="_blank">Glow-in-the-Dark Succulents Could Be the Future of Ambient Lighting</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-27 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/morningcheckpointelden.jpg" alt="Alex Garland Wrote 160-Page Elden Ring Movie Script From Scratch To Win Miyazaki’s Approval" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/elden-ring-movie-alex-garland-hidetaka-miyazaki-atari-2000620675" target="_blank">Alex Garland Wrote 160-Page Elden Ring Movie Script From Scratch To Win Miyazaki’s Approval</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-27 14:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K3NQWKRC8KEEC1GA609Z5VAQ/hero-image.jpg" alt="Three Ways to Make It Easier to Use Your Android Phone One-Handed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/make-it-easier-to-use-android-phone-one-handed?utm_medium=RSS" target="_blank">Three Ways to Make It Easier to Use Your Android Phone One-Handed</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-27 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1756236873-20250827.png" alt="Saturday Morning Breakfast Cereal - Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/work-3" target="_blank">Saturday Morning Breakfast Cereal - Work</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-08-27 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -320,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 272 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
