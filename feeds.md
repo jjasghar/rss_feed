@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-27 12:02:13 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-08-27 13:08:46 UTC -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, August 27, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, August 27, 2025 - 13:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/27/g-s1-85342/planet-money-summer-school-quiz-political-economy" target="_blank">Take The Planet Money Summer School Quiz In Political Economy</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-27 11:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/Greenland-DB-250827_1756285573154_hpMain_4x3t_384.jpg" alt="Denmark summons US envoy over alleged influence operations in Greenland" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,6 +86,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/india_factory-ncesku.jpg" alt="India’s exporters eye other markets as Trump’s 50% tariffs take effect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/india-s-exporters-eye-other-markets-as-trump-s-50-tariffs-take-effect-245860421741" target="_blank">India’s exporters eye other markets as Trump’s 50% tariffs take effect</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-27 08:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/25/08/1920x1080/skynews-australia-gunman-shooter_7002564.jpg?20250827121610" alt="Australia shooting suspect identified as manhunt continues into a second day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -81,29 +103,38 @@
                 <span class="time">2025-08-27 08:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbb4/live/dc055250-831a-11f0-a34f-318be3fb0481.jpg" alt="Energy bills to rise by more than expected ahead of winter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c78zgz7j576o?at_medium=RSS&at_campaign=rss" target="_blank">Energy bills to rise by more than expected ahead of winter</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-27 07:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/27/building-collapses-into-overflowing-river-during-india-floods?traffic_source=rss" target="_blank">Building collapses into overflowing river during India floods</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-27 07:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/tow2-4-500x500-1756237631.jpg" alt="The Outer Worlds 2 wants you to join the space police" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2025/08/the-outer-worlds-2-wants-you-to-join-the-space-police/" target="_blank">The Outer Worlds 2 wants you to join the space police</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-27 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68ae81827cf142253a0a0219/master/pass/Review-%20Elehear%20Beyond%20Pro_.png" alt="Elehear Beyond Pro Review: Big Hearing Aids" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/elehear-beyond-pro/" target="_blank">Elehear Beyond Pro Review: Big Hearing Aids</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-27 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/765085/pet-gadgets-dog-cat-fish-favorites" target="_blank">The Verge’s favorite pet gear for 2025</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-27 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68aea79a31f3a92835820214/master/pass/Google%20Pixel%2010%20Pro%20SOURCE%202x%20digital%20zoom%20SOURCE%20Julian%20Chokkattu.jpg" alt="Review: Google Pixel 10 Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -131,38 +162,38 @@
                 <span class="time">2025-08-27 01:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/microsoft/766429/microsoft-emergency-press-conference-palestine-protest" target="_blank">Microsoft hosts emergency press conference after protesters &amp;#8216;storm a building&amp;#8217;</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-27 00:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/26/microsoft-headquarters-go-into-lockdown-after-activists-take-over-brad-smiths-office/" target="_blank">Microsoft headquarters go into lockdown after activists take over Brad Smith’s office</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-26 23:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2227254922-500x500.jpg" alt="Authors celebrate “historic” settlement coming soon in Anthropic class action" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/08/authors-celebrate-historic-settlement-coming-soon-in-anthropic-class-action/" target="_blank">Authors celebrate “historic” settlement coming soon in Anthropic class action</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-26 22:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/ai-food-image-generation/en/mediumimage/iaroslav-amerkhanov-medium-1755673680242.jpg" alt="Presentation: AI for Food Image Generation in Production: How &amp; Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/ai-food-image-generation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: AI for Food Image Generation in Production: How &amp; Why</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-27 12:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/RADV-Untyped-Pointers" target="_blank">RADV Vulkan Driver Lands Untyped Pointers Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-27 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18577230&w=600" alt="Data Splits in Machine Learning: Training, Validation, and Test Sets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/data-splits-machine-learning-training-validation-test" target="_blank">Data Splits in Machine Learning: Training, Validation, and Test Sets</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-27 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8nxt16s3gr64cogk7ydh.png" alt="The agentic runtime is a crystal ball" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -188,33 +219,6 @@
                 <span class="title"><a href="https://monodraw.helftone.com/" target="_blank">Monodraw</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-27 10:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AI-Help-Backporting-Linux-Patch" target="_blank">AI Is Now Being Used To Help Determine Patches For Backporting In The Linux Kernel</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-27 10:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nabhaas/oracle-sql-plan-management-23ai-features-backported-to-1922-2p51" target="_blank">Oracle SQL Plan Management - 23ai features backported to 19.22</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-27 07:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/install-fedora/" target="_blank">Installing Fedora Linux in the Simplest Possible Way</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-08-27 07:02</span>
             </div>
         </div>
 </div>
@@ -245,6 +249,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Doompool.jpg" alt="Robert Downey, Jr. Rumored to Clash With Ryan Reynolds on Set of ‘Avengers: Doomsday’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/robert-downey-jr-rumored-clash-ryan-reynolds-avengers-doomsday-2000648793" target="_blank">Robert Downey, Jr. Rumored to Clash With Ryan Reynolds on Set of ‘Avengers: Doomsday’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-27 13:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K3N10P8EW0RFS1CF9DSKXZ3K/hero-image.png" alt="This Blink Video Doorbell and Mini 2 Bundle Are $60 for Labor Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/blink-video-doorbell-labor-day-sale-2025?utm_medium=RSS" target="_blank">This Blink Video Doorbell and Mini 2 Bundle Are $60 for Labor Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-27 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/big-sale-GOG.jpg" alt="Over 7,000 PC Games Are On Sale Right Now On GOG" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,24 +301,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/26/always-fight-back-canadian-man-punches-cougar-in-face-to-escape-attack.html" target="_blank">&quot;Always fight back&quot;: Canadian man punches cougar in face to escape attack</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-26 23:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/oz-2.jpg" alt="Amazon’s New ‘Wicked of Oz’ Reimagining Sounds Like a Disaster Waiting to Happen" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/amazons-new-wicked-of-oz-reimagining-sounds-like-a-disaster-waiting-to-happen-2000648336" target="_blank">Amazon’s New ‘Wicked of Oz’ Reimagining Sounds Like a Disaster Waiting to Happen</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-26 21:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K3M3RBQAG7YCNNKK49DVQZ7F/hero-image.png" alt="These Are the Best Deals From Home Depot&#x27;s Labor Day Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/best-deals-from-home-depot-labor-day-sale-2025?utm_medium=RSS" target="_blank">These Are the Best Deals From Home Depot&#x27;s Labor Day Sale</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-26 21:33</span>
             </div>
         </div>
 </div>
@@ -345,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 13:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
