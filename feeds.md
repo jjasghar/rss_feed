@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-27 10:01:57 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-27 11:01:24 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, August 27, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, August 27, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Greenland-DB-250827_1756285573154_hpMain_4x3t_384.jpg" alt="Denmark summons US envoy over alleged influence operations in Greenland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/denmark-summons-us-envoy-alleged-influence-operations-greenland/story?id=125012946" target="_blank">Denmark summons US envoy over alleged influence operations in Greenland</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-27 10:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +97,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/world/india/trumps-tariffs-india-rise-50-punishment-buying-russian-oil-rcna227426" target="_blank">Trump hits India with punishing 50% tariffs for buying Russian oil</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-27 06:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250827-Ajmer-rs-a1232a.jpg" alt="Trump&#x27;s tariffs on India rise to 50% in punishment for buying Russian oil" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/india/trumps-tariffs-india-rise-50-punishment-buying-russian-oil-rcna227426" target="_blank">Trump&#x27;s tariffs on India rise to 50% in punishment for buying Russian oil</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-08-27 06:35</span>
             </div>
@@ -169,6 +168,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AI-Help-Backporting-Linux-Patch" target="_blank">AI Is Now Being Used To Help Determine Patches For Backporting In The Linux Kernel</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-27 10:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/nabhaas/oracle-sql-plan-management-23ai-features-backported-to-1922-2p51" target="_blank">Oracle SQL Plan Management - 23ai features backported to 19.22</a></span>
                 <span class="feed">DEV Community</span>
@@ -209,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/latchudevops/part-27-google-cloud-hyperdisk-and-storage-pools-a-hands-on-guide-3ig8" target="_blank">Part-27: 🚀 Google Cloud Hyperdisk and Storage Pools – A Hands-On Guide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-27 05:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://commonsware.com/blog/2025/08/26/uncomfortable-questions-android-developer-verification.html" target="_blank">Uncomfortable Questions About Android Developer Verification</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-27 05:14</span>
             </div>
         </div>
 </div>
@@ -308,6 +307,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/08/27/unphased" target="_blank">Unphased</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-08-27 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5644.png" alt="Yay, Explaining" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -339,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
