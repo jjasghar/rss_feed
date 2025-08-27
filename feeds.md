@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-27 07:01:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-27 08:02:01 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, August 27, 2025 - 07:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, August 27, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbb4/live/dc055250-831a-11f0-a34f-318be3fb0481.jpg" alt="Energy bills to rise by more than expected ahead of winter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c78zgz7j576o?at_medium=RSS&at_campaign=rss" target="_blank">Energy bills to rise by more than expected ahead of winter</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-27 07:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/27/building-collapses-into-overflowing-river-during-india-floods?traffic_source=rss" target="_blank">Building collapses into overflowing river during India floods</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-27 07:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250827-Ajmer-rs-a1232a.jpg" alt="Trump&#x27;s tariffs on India rise to 50% in punishment for buying Russian oil" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/india/trumps-tariffs-india-rise-50-punishment-buying-russian-oil-rcna227426" target="_blank">Trump&#x27;s tariffs on India rise to 50% in punishment for buying Russian oil</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-27 06:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,38 +98,29 @@
                 <span class="time">2025-08-27 04:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/26/g-s1-85541/starship-space-x-tenth-flight" target="_blank">Starship&#x27;s 10th flight breaks streak of bad luck</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-27 01:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/27/russia-ukraine-war-list-of-key-events-day-1280?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,280</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-27 00:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/26/nx-s1-5518308/haboob-explained-phoenix-arizona" target="_blank">A haboob covered central Arizona in dust. But what exactly is it?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-27 00:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68aea79a31f3a92835820214/master/pass/Google%20Pixel%2010%20Pro%20SOURCE%202x%20digital%20zoom%20SOURCE%20Julian%20Chokkattu.jpg" alt="Review: Google Pixel 10 Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/review-google-pixel-10-series/" target="_blank">Review: Google Pixel 10 Series</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-27 07:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/26/spacex-notches-major-wins-during-tenth-starship-test/" target="_blank">SpaceX notches major wins during 10th Starship test</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-27 01:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +157,20 @@
                 <span class="time">2025-08-26 22:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68adde3ea4b1e91fc828020a/master/pass/GettyImages-2225304400.jpg" alt="Google Will Make All Android App Developers Verify Their Identity Starting Next Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/google-will-prevent-sideloading-of-unverified-android-apps-from-next-year/" target="_blank">Google Will Make All Android App Developers Verify Their Identity Starting Next Year</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-26 21:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/766324/microsoft-building-34-lockdown-protesters-brad-smith-office" target="_blank">Microsoft locks down a building after protesters get inside president&amp;#8217;s office</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-26 21:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nabhaas/oracle-sql-plan-management-23ai-features-backported-to-1922-2p51" target="_blank">Oracle SQL Plan Management - 23ai features backported to 19.22</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-27 07:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbwoviqlb4do1ylxkbbm3.png" alt="SynthWorks – Why Should Our Team be Using VHDL + OSVVM for Verification" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/garvit_khamesra/code-101-sort-an-array-using-recursion-3i79" target="_blank">Code 101: Sort an Array using Recursion</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-27 03:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/Thunderbird-142.jpg?resize=406%2C232&amp;ssl=1" alt="Thunderbird 142 Lets You Add Signatures to PDFs In-App" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/thunderbird-142-add-signatures-to-pdf-files" target="_blank">Thunderbird 142 Lets You Add Signatures to PDFs In-App</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-27 02:50</span>
             </div>
         </div>
 </div>
@@ -337,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 07:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
