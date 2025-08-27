@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-27 00:05:12 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-27 01:29:12 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 32 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, August 27, 2025 - 00:05 UTC</div>
+    <div class="newspaper-date">Wednesday, August 27, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/27/russia-ukraine-war-list-of-key-events-day-1280?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,280</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-27 00:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/26/nx-s1-5518308/haboob-explained-phoenix-arizona" target="_blank">A haboob covered central Arizona in dust. But what exactly is it?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-27 00:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1756250419189_nn_gha_trump_fed_governor_firing_attempt_250826_1920x1080-caz8j1.jpg" alt="Trump faces new legal battle after firing Fed Governor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-faces-new-legal-battle-after-firing-fed-governor-245832773714" target="_blank">Trump faces new legal battle after firing Fed Governor</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-26 23:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,38 +99,20 @@
                 <span class="time">2025-08-26 22:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/26/brazilian-high-court-requests-increased-security-for-bolsonaro?traffic_source=rss" target="_blank">Brazilian high court requests increased security for Bolsonaro</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-26 22:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/26/day-of-disruption-families-supporters-of-israeli-gaza-captives-protest?traffic_source=rss" target="_blank">‘Day of Disruption’: Families, supporters of Israeli Gaza captives protest</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-26 21:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/26/g-s1-85388/texas-company-pleads-guilty-to-2021-construction-worker-trench-death" target="_blank">Texas company pleads guilty to 2021 construction worker trench death</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-26 21:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/26/spacex-notches-major-wins-during-tenth-starship-test/" target="_blank">SpaceX notches major wins during tenth Starship test</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-27 01:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,15 +158,6 @@
                 <span class="time">2025-08-26 20:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68adfa76d6e72970f29826e0/master/pass/GettyImages-2229149370.jpg" alt="Anthropic Settles High-Profile AI Copyright Lawsuit Brought by Book Authors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/anthropic-settles-copyright-lawsuit-authors/" target="_blank">Anthropic Settles High-Profile AI Copyright Lawsuit Brought by Book Authors</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-26 19:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -184,6 +179,15 @@
                 <span class="title"><a href="https://www.spacex.com/" target="_blank">Starship 10T minus 10 min</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-26 23:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/bazaar-frontpage.jpg?resize=406%2C232&amp;ssl=1" alt="Bazaar is a Slick New Desktop Flathub Frontend" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/bazaar-new-flatpak-app-store-gnome-linux" target="_blank">Bazaar is a Slick New Desktop Flathub Frontend</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-26 22:30</span>
             </div>
         </div>
 <div class="story">
@@ -211,15 +215,6 @@
                 <span class="title"><a href="https://dzone.com/articles/aws-s3-benchmarking-python-latency-throughput" target="_blank">Benchmarking Storage Performance (Latency, Throughput) Using Python</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-08-26 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ahmad_alhafi/angular-19-whats-up-with-signals-2h80" target="_blank">Angular 19 — What’s up with Signals?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-26 19:47</span>
             </div>
         </div>
 </div>
@@ -250,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/cougar.jpg?fit=1200%2C807&amp;quality=60&amp;ssl=1" alt="&quot;Always fight back&quot;: Canadian man punches cougar in face to escape attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/26/always-fight-back-canadian-man-punches-cougar-in-face-to-escape-attack.html" target="_blank">&quot;Always fight back&quot;: Canadian man punches cougar in face to escape attack</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-26 23:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/oz-2.jpg" alt="Amazon’s New ‘Wicked of Oz’ Reimagining Sounds Like a Disaster Waiting to Happen" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -295,20 +299,20 @@
                 <span class="time">2025-08-26 20:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K3KTZAJ98S1BM9ZWP6HD8CRK/hero-image.png" alt="These Are the Best Labor Day Tech Deals at Walmart" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/best-walmart-labor-day-sales-2025?utm_medium=RSS" target="_blank">These Are the Best Labor Day Tech Deals at Walmart</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-26 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5644.png" alt="Yay, Explaining" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5644" target="_blank">Yay, Explaining</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-08-27 00:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -327,22 +331,13 @@
                 <span class="time">2025-08-26 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5643.png" alt="Skating Hazard" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5643" target="_blank">Skating Hazard</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-08-26 01:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
