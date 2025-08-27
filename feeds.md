@@ -1,31 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-27 18:01:56 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-27 19:01:33 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 22 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, August 27, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, August 27, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250827-church-shooting-ch-1442-9e33a1.jpg" alt="What we know about the shooter in the Minneapolis Catholic school shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/minneapolis-catholic-school-shooting-rcna227591" target="_blank">What we know about the shooter in the Minneapolis Catholic school shooting</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-27 18:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/8/27/brazil-mulls-legal-challenges-to-tariffs-as-impacts-weigh-on-us-consumers?traffic_source=rss" target="_blank">Brazil mulls legal challenges to tariffs as impacts weigh on US consumers</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-27 18:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ac8/live/ca4f5590-834e-11f0-8a9a-613339b7e5c3.png" alt="Blair joins White House meeting with Trump on post-war Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gmrxd8ryno?at_medium=RSS&at_campaign=rss" target="_blank">Blair joins White House meeting with Trump on post-war Gaza</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-27 18:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/minneapolis-shooting-05-gty-jef-250827_1756308743300_hpMain_4x3t_384.jpg" alt="2 children killed, 17 hurt in mass shooting at Catholic school church" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -66,33 +101,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  2 children killed in Minneapolis school shooting: ABC News Live</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-27 16:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1756310934452_nbc_spec_minneapolis_chief_timeline_250827_1920x1080-pfv92r.jpg" alt="Minneapolis police chief gives timeline of Annunciation Church shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/minneapolis-police-chief-gives-timeline-of-annunciation-church-shooting-245880389705" target="_blank">Minneapolis police chief gives timeline of Annunciation Church shooting</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-27 16:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/27/nx-s1-5519268/minneapolis-school-shooting-annunciation-church-minnesota" target="_blank">2 children are dead, 17 people injured in Minneapolis school shooting</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-27 16:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Officials provide update on deadly Minneapolis school shooting: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Officials provide update on deadly Minneapolis school shooting: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-27 15:57</span>
             </div>
         </div>
 </div>
@@ -160,6 +168,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18606667&w=600" alt="Blockchain, AI, and Edge Computing: Redefining Modern App Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/blockchain-ai-and-edge-computing" target="_blank">Blockchain, AI, and Edge Computing: Redefining Modern App Development</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-27 18:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.1.9-Released" target="_blank">Mesa 25.1.9 Released To End Out The Mesa 25.1 Series</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-27 18:42</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18581619&w=600" alt="Optimizing Docker Container Logging: Strategies for Scalability and Performance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -195,24 +221,6 @@
                 <span class="time">2025-08-27 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/framework-desktop-mode" target="_blank">Framework Desktop Power Mode Tuning For Better Performance Or Power Efficiency</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-27 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-USB-Rust-Drivers" target="_blank">Patches Posted To Allow Writing USB Rust Drivers For Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-27 13:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/het-geroofde-schilderij-van-de-italiaanse-kunstenaar-vittore-ghislandi-in-een-woonkamer-in-een-argentijnse-kustplaats.jpg" alt="Famous Painting Looted by Nazis Spotted on Real Estate Website, Disappears Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/painting-looted-nazis-real-estate-website-disappears-2000649050" target="_blank">Famous Painting Looted by Nazis Spotted on Real Estate Website, Disappears Again</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-27 18:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/NicolasCageJesus.jpg" alt="Our First Look at Nicolas Cage’s Jesus Horror Movie Is 20 Seconds of Agony" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,30 +277,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/allison.jpeg?fit=720%2C405&amp;quality=60&amp;ssl=1" alt="Nursing student chooses deportation after months in ICE detention" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/27/nursing-student-chooses-deportation-after-months-in-ice-detention.html" target="_blank">Nursing student chooses deportation after months in ICE detention</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-27 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/RFK2.jpg" alt="RFK Jr. Promises to Reveal the ‘Cause’ of Autism Next Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/rfk-jr-promises-to-reveal-the-cause-of-autism-next-month-2000648934" target="_blank">RFK Jr. Promises to Reveal the ‘Cause’ of Autism Next Month</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-27 15:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K3NVS1B2KZ4EW9BFVXCA7NPJ/hero-image.png" alt="How to Bring Back Vertical Swipe-to-Answer in Google Phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-bring-back-vertical-swipe-answer-google-phone?utm_medium=RSS" target="_blank">How to Bring Back Vertical Swipe-to-Answer in Google Phone</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-27 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/01A_Mario_WaluigiPinball_png_jpgcopy-1.jpg" alt="Two Consoles And One Sequel Later, Fans Refuse To Stop Buying Mario Kart 8" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/switch-2-sales-mario-kart-world-mk8-2000620694" target="_blank">Two Consoles And One Sequel Later, Fans Refuse To Stop Buying Mario Kart 8</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-27 15:20</span>
             </div>
         </div>
 </div>
@@ -323,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 272 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
