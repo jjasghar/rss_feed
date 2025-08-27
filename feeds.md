@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-27 02:28:08 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-27 03:15:44 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, August 27, 2025 - 02:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, August 27, 2025 - 03:16 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -117,10 +115,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/microsoft/766429/microsoft-emergency-press-conference-palestine-protest" target="_blank">Microsoft hosts emergency press conference after protesters &amp;#8216;storm a building&amp;#8217;</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-27 00:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/08/26/microsoft-headquarters-go-into-lockdown-after-activists-take-over-brad-smiths-office/" target="_blank">Microsoft headquarters go into lockdown after activists take over Brad Smith’s office</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-08-26 23:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2227254922-500x500.jpg" alt="Authors celebrate “historic” settlement coming soon in Anthropic class action" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/08/authors-celebrate-historic-settlement-coming-soon-in-anthropic-class-action/" target="_blank">Authors celebrate “historic” settlement coming soon in Anthropic class action</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-26 22:26</span>
             </div>
         </div>
 <div class="story">
@@ -141,29 +157,20 @@
                 <span class="time">2025-08-26 21:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/765671/best-rei-labor-day-sale-deals-2025" target="_blank">Here are 30 of our favorite deals from REI’s ongoing Labor Day sale</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-26 20:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/26/anthropic-launches-a-claude-ai-agent-that-lives-in-chrome/" target="_blank">Anthropic launches a Claude AI agent that lives in Chrome</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-26 20:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/garvit_khamesra/code-101-sort-an-array-using-recursion-3i79" target="_blank">Code 101: Sort an Array using Recursion</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-27 03:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A2400%2F1%2AhuH45ks-6laHlsrgySBVUQ.jpeg" alt="🔒 Angular Security Best Practices Every Developer Should Know (With Examples)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -171,6 +178,15 @@
                 <span class="title"><a href="https://dev.to/rohit_singh_ee84e64941db7/angular-security-best-practices-every-developer-should-know-with-examples-5hdd" target="_blank">🔒 Angular Security Best Practices Every Developer Should Know (With Examples)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-27 02:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Rosenzweig-Leaving-Apple-Asahi" target="_blank">With Apple M1/M2 Graphics Driver Code Working, Alyssa Rosenzweig Stepping Away From Asahi Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-27 00:30</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +214,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/bazaar-new-flatpak-app-store-gnome-linux" target="_blank">Bazaar is a Slick New Desktop Flathub Frontend</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-08-26 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/oclcode/ai-ai-aie-la-tragedie-des-youtubeurs-6di" target="_blank">AI, AÏ, aïe, la tragédie des youtubeurs...</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-26 21:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fedora-43-Changes-Delayed" target="_blank">A Number Of Fedora 43 Features/Changes Delayed To Fedora 44</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-26 20:43</span>
             </div>
         </div>
 </div>
@@ -337,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 02:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 03:16 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
