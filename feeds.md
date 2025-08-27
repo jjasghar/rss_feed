@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-27 11:01:24 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-27 12:02:13 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, August 27, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, August 27, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -75,6 +73,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-australia-gunman-shooter_7002564.jpg?20250827121610" alt="Australia shooting suspect identified as manhunt continues into a second day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/australia-shooting-suspect-identified-as-manhunt-continues-into-a-second-day-13419192" target="_blank">Australia shooting suspect identified as manhunt continues into a second day</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-27 08:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbb4/live/dc055250-831a-11f0-a34f-318be3fb0481.jpg" alt="Energy bills to rise by more than expected ahead of winter" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -90,15 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/27/building-collapses-into-overflowing-river-during-india-floods?traffic_source=rss" target="_blank">Building collapses into overflowing river during India floods</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-27 07:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250827-Ajmer-rs-a1232a.jpg" alt="Trump hits India with punishing 50% tariffs for buying Russian oil" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/india/trumps-tariffs-india-rise-50-punishment-buying-russian-oil-rcna227426" target="_blank">Trump hits India with punishing 50% tariffs for buying Russian oil</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-27 06:35</span>
             </div>
         </div>
 </div>
@@ -166,6 +164,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8nxt16s3gr64cogk7ydh.png" alt="The agentic runtime is a crystal ball" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arnons1/the-agentic-runtime-is-a-crystal-ball-46pd" target="_blank">The agentic runtime is a crystal ball</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-27 11:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/nvidia-jetson-thor-ubuntu-support" target="_blank">Canonical’s Ubuntu to be supported on NVIDIA Jetson Thor</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-08-27 11:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://monodraw.helftone.com/" target="_blank">Monodraw</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-27 10:54</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -192,38 +217,20 @@
                 <span class="time">2025-08-27 07:02</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://thedailywtf.com/articles/the-therac-25-incident" target="_blank">The Therac-25 Incident</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-27 06:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbwoviqlb4do1ylxkbbm3.png" alt="SynthWorks – Why Should Our Team be Using VHDL + OSVVM for Verification" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alpinumblogs/synthworks-why-should-our-team-be-using-vhdl-osvvm-for-verification-408m" target="_blank">SynthWorks – Why Should Our Team be Using VHDL + OSVVM for Verification</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-27 06:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/latchudevops/part-27-google-cloud-hyperdisk-and-storage-pools-a-hands-on-guide-3ig8" target="_blank">Part-27: 🚀 Google Cloud Hyperdisk and Storage Pools – A Hands-On Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-27 05:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/we-are-still-unable-to-secure-llms-from-malicious-inputs.html" target="_blank">We Are Still Unable to Secure LLMs from Malicious Inputs</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-08-27 11:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -233,20 +240,20 @@
                 <span class="time">2025-08-26 14:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/encryption-backdoor-in-military-police-radios.html" target="_blank">Encryption Backdoor in Military/Police Radios</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-08-26 11:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/big-sale-GOG.jpg" alt="Over 7,000 PC Games Are On Sale Right Now On GOG" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gog-back-to-school-sale-classic-pc-games-best-deals-witcher-fallout-cyberpunk-2000620421" target="_blank">Over 7,000 PC Games Are On Sale Right Now On GOG</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-27 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Gemini-North-3I-ATLAS.jpg" alt="This Visiting Interstellar Comet Just Keeps Getting Weirder" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +297,6 @@
                 <span class="title"><a href="https://lifehacker.com/money/best-deals-from-home-depot-labor-day-sale-2025?utm_medium=RSS" target="_blank">These Are the Best Deals From Home Depot&#x27;s Labor Day Sale</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-26 21:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/07/b15c9b4d5e4ad7d64aa6518f6c67d208.jpg" alt="Final Fantasy 14 Is Running Out Of Room On PS4" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/final-fantasy-14-ps4-fanfest-2026-8-0-expansion-2000620418" target="_blank">Final Fantasy 14 Is Running Out Of Room On PS4</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-26 21:24</span>
             </div>
         </div>
 </div>
@@ -347,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
