@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-27 19:01:33 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-27 20:02:06 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, August 27, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, August 27, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/08/27/nx-s1-5515503/fda-covid-vaccines-restricted" target="_blank">The latest COVID vaccines come with new FDA limits</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-27 19:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250827-church-shooting-ch-1442-9e33a1.jpg" alt="What we know about the shooter in the Minneapolis Catholic school shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,20 +98,29 @@
                 <span class="time">2025-08-27 16:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  2 children killed in Minneapolis school shooting: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  2 children killed in Minneapolis school shooting: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-27 16:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025" target="_blank">The 75 best Labor Day deals we’ve found so far</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-27 19:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68af3c2fb2c1b7feabbe5e12/master/pass/Nothing%20Headphones%20Deal_.png" alt="Save 20 Percent on Our Favorite Android Earbuds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nothing-ear-a-deal/" target="_blank">Save 20 Percent on Our Favorite Android Earbuds</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-27 17:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,29 +157,29 @@
                 <span class="time">2025-08-27 14:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/electric-cars/766609/ev-sales-increase-trump-tax-credit-expire" target="_blank">EVs are getting a temporary Trump bump thanks to expiring incentives</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-27 14:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68aefdae4b0fdc15004a4c5a/master/pass/spacex.jpg" alt="SpaceX Starship Finally Pulls Off a Successful Test Flight" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/spacex-starship-successful-test-flight/" target="_blank">SpaceX Starship Finally Pulls Off a Successful Test Flight</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-27 13:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/leocoding0326/made-some-upgrades-to-my-little-newbie-project-while-at-work-1fen" target="_blank">Made some upgrades to my little “newbie project” … while at work! 🤫💻</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-27 19:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18606676&w=600" alt="Implementing Scalable IoT Architectures on Azure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/implementing-scalable-iot-architectures-azure" target="_blank">Implementing Scalable IoT Architectures on Azure</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-27 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18606667&w=600" alt="Blockchain, AI, and Edge Computing: Redefining Modern App Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -186,39 +199,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.nordbayern.de/news-in-english/paypal-security-systems-down-german-banks-block-payments-in-the-billions-1.14811187" target="_blank">A failure of security systems at PayPal is causing concern for German banks</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-27 17:28</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18581619&w=600" alt="Optimizing Docker Container Logging: Strategies for Scalability and Performance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/docker-logging-optimization-scalability-performance" target="_blank">Optimizing Docker Container Logging: Strategies for Scalability and Performance</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-08-27 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18580794&w=600" alt="Seamless Storage: Configuring Kubernetes PVC for Windows Shared Folders With SMB" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/kubernetes-pvc-windows-shared-folders-smb" target="_blank">Seamless Storage: Configuring Kubernetes PVC for Windows Shared Folders With SMB</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-27 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-on-github-com-a-power-users-guide/" target="_blank">How to use GitHub Copilot on github.com: A power user’s guide</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-08-27 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18581562&w=600" alt="Scaling Real-Time Data Systems With DataOps: Principles, Practices, and Use Cases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/real-time-dataops-principles-practices-use-cases" target="_blank">Scaling Real-Time Data Systems With DataOps: Principles, Practices, and Use Cases</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-27 15:00</span>
             </div>
         </div>
 </div>
@@ -240,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/1600_Cassidy.jpg" alt="Overwatch 2 Broke The Cowboy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/overwatch-2-season-18-patch-cassidy-wrecking-ball-bug-2000620763" target="_blank">Overwatch 2 Broke The Cowboy</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-27 19:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K3PCQK7RQCJP114H5KPKWDPV/hero-image.png" alt="These MacBook-Style PC Laptops Are on Sale for Labor Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/macbook-style-pc-laptops-labor-day-sale-2025?utm_medium=RSS" target="_blank">These MacBook-Style PC Laptops Are on Sale for Labor Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-27 19:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/het-geroofde-schilderij-van-de-italiaanse-kunstenaar-vittore-ghislandi-in-een-woonkamer-in-een-argentijnse-kustplaats.jpg" alt="Famous Painting Looted by Nazis Spotted on Real Estate Website, Disappears Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +287,6 @@
                 <span class="title"><a href="https://kotaku.com/stardew-valley-and-two-other-great-games-will-be-free-on-playstation-plus-next-week-2000620727" target="_blank">Stardew Valley And Two Other Great Games Will Be Free On PlayStation Plus Next Week</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-27 17:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/allison.jpeg?fit=720%2C405&amp;quality=60&amp;ssl=1" alt="Nursing student chooses deportation after months in ICE detention" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/27/nursing-student-chooses-deportation-after-months-in-ice-detention.html" target="_blank">Nursing student chooses deportation after months in ICE detention</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-27 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/RFK2.jpg" alt="RFK Jr. Promises to Reveal the ‘Cause’ of Autism Next Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/rfk-jr-promises-to-reveal-the-cause-of-autism-next-month-2000648934" target="_blank">RFK Jr. Promises to Reveal the ‘Cause’ of Autism Next Month</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-27 15:55</span>
             </div>
         </div>
 </div>
@@ -331,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
