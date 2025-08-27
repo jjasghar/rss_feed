@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-27 05:02:00 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-27 06:02:07 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 31 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, August 27, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, August 27, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/27/attempt-to-partner-african-countries-with-japanese-cities-triggers-xenophobic-backlash" target="_blank">Attempt to partner African countries with Japanese cities triggers xenophobic backlash</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-08-27 05:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +95,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-faces-new-legal-battle-after-firing-fed-governor-245832773714" target="_blank">Trump faces new legal battle after firing Fed Governor</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-08-26 23:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71d8/live/5cdc9ea0-82d6-11f0-a34f-318be3fb0481.jpg" alt="Energy prices expected to rise ahead of winter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c78zgz7j576o?at_medium=RSS&at_campaign=rss" target="_blank">Energy prices expected to rise ahead of winter</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-26 23:00</span>
             </div>
         </div>
 </div>
@@ -172,9 +165,45 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/latchudevops/part-27-google-cloud-hyperdisk-and-storage-pools-a-hands-on-guide-3ig8" target="_blank">Part-27: 🚀 Google Cloud Hyperdisk and Storage Pools – A Hands-On Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-27 05:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://commonsware.com/blog/2025/08/26/uncomfortable-questions-android-developer-verification.html" target="_blank">Uncomfortable Questions About Android Developer Verification</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-27 05:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/08/27/from-punch-cards-to-prompts-a-history-of-how-software-got-better/" target="_blank">From punch cards to prompts: a history of how software got better</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-08-27 04:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/garvit_khamesra/code-101-sort-an-array-using-recursion-3i79" target="_blank">Code 101: Sort an Array using Recursion</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-27 03:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/Thunderbird-142.jpg?resize=406%2C232&amp;ssl=1" alt="Thunderbird 142 Lets You Add Signatures to PDFs In-App" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/thunderbird-142-add-signatures-to-pdf-files" target="_blank">Thunderbird 142 Lets You Add Signatures to PDFs In-App</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-27 02:50</span>
             </div>
         </div>
 <div class="story">
@@ -184,42 +213,6 @@
                 <span class="title"><a href="https://dev.to/rohit_singh_ee84e64941db7/angular-security-best-practices-every-developer-should-know-with-examples-5hdd" target="_blank">🔒 Angular Security Best Practices Every Developer Should Know (With Examples)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-27 02:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Rosenzweig-Leaving-Apple-Asahi" target="_blank">With Apple M1/M2 Graphics Driver Code Working, Alyssa Rosenzweig Stepping Away From Asahi Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-27 00:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-return-to-silent-hill-official-teaser-trailer-2025-jeremy-irvine-hannah-emily-anderson-36p" target="_blank">IGN: Return to Silent Hill - Official Teaser Trailer (2025) Jeremy Irvine, Hannah Emily Anderson</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-27 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.spacex.com/" target="_blank">Starship 10T minus 10 min</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-26 23:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/bazaar-frontpage.jpg?resize=406%2C232&amp;ssl=1" alt="Bazaar is a Slick New Desktop Flathub Frontend" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/bazaar-new-flatpak-app-store-gnome-linux" target="_blank">Bazaar is a Slick New Desktop Flathub Frontend</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-26 22:30</span>
             </div>
         </div>
 </div>
@@ -341,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
