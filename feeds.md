@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-27 21:01:46 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-27 22:01:57 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, August 27, 2025 - 21:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, August 27, 2025 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -67,6 +69,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-gaza-city-gaza-displaced_7002760.jpg?20250827162350" alt="All members of UN Security Council except US say Gaza famine is &#x27;manmade crisis&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/all-members-of-un-security-council-except-us-say-gaza-famine-is-manmade-crisis-13419578" target="_blank">All members of UN Security Council except US say Gaza famine is &#x27;manmade crisis&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-27 19:59</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -93,20 +104,38 @@
                 <span class="time">2025-08-27 18:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/8/27/brazil-mulls-legal-challenges-to-tariffs-as-impacts-weigh-on-us-consumers?traffic_source=rss" target="_blank">Brazil mulls legal challenges to tariffs as impacts weigh on US consumers</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-27 18:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2222107417-500x500.jpg" alt="CDC director has been ousted just weeks after Senate confirmation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/08/report-cdc-director-being-ousted-just-weeks-after-senate-confirmation/" target="_blank">CDC director has been ousted just weeks after Senate confirmation</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-27 21:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/27/nvidia-reports-record-sales-as-the-ai-boom-continues/" target="_blank">Nvidia reports record sales as the AI boom continues</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-27 21:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/social/767063/4chan-kiwi-farms-lawsuit-uk-ofcom" target="_blank">4Chan and Kiwi Farms file joint lawsuit against the UK</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-27 21:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,38 +163,20 @@
                 <span class="time">2025-08-27 19:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68af3c2fb2c1b7feabbe5e12/master/pass/Nothing%20Headphones%20Deal_.png" alt="Save 20 Percent on Our Favorite Android Earbuds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nothing-ear-a-deal/" target="_blank">Save 20 Percent on Our Favorite Android Earbuds</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-27 17:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/27/pixel-10-pro-early-impressions-of-googles-latest-ai-flagship-phone/" target="_blank">Pixel 10 Pro review: familiar hardware, filled with Google’s AI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-27 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2177041820-500x500.jpg" alt="Intel details everything that could go wrong with US taking a 10% stake" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/08/intel-details-everything-that-could-go-wrong-with-us-taking-a-10-stake/" target="_blank">Intel details everything that could go wrong with US taking a 10% stake</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-27 16:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/LF-Networking-Essedum-1.0" target="_blank">Linux Foundation Networking Releases Essedum 1.0 For AI-Native Network Apps</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-27 21:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -185,6 +196,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/ubuntu-questing.jpg?resize=406%2C232&amp;ssl=1" alt="New Apps Arrive in Ubuntu 25.10 Dev Builds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/new-apps-arrive-in-ubuntu-25-10-daily-builds" target="_blank">New Apps Arrive in Ubuntu 25.10 Dev Builds</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-27 20:02</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -200,24 +220,6 @@
                 <span class="title"><a href="https://dev.to/leocoding0326/made-some-upgrades-to-my-little-newbie-project-while-at-work-1fen" target="_blank">Made some upgrades to my little “newbie project” … while at work! 🤫💻</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-27 19:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18606676&w=600" alt="Implementing Scalable IoT Architectures on Azure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/implementing-scalable-iot-architectures-azure" target="_blank">Implementing Scalable IoT Architectures on Azure</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-27 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18606667&w=600" alt="Blockchain, AI, and Edge Computing: Redefining Modern App Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/blockchain-ai-and-edge-computing" target="_blank">Blockchain, AI, and Edge Computing: Redefining Modern App Development</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-27 18:45</span>
             </div>
         </div>
 </div>
@@ -240,12 +242,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Weapons-Gladys-Amy-Madigan.jpg" alt="One of the Most Shocking Scenes in ‘Weapons’ Is Now Online" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/one-of-the-most-shocking-scenes-in-weapons-is-now-online-2000649400" target="_blank">One of the Most Shocking Scenes in ‘Weapons’ Is Now Online</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-27 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K3PKVCJ75CWN8W8W5EMZ841C/hero-image.png" alt="These Sonos Speakers Are on Sale for Labor Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/sonos-speakers-labor-day-sale-2025?utm_medium=RSS" target="_blank">These Sonos Speakers Are on Sale for Labor Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-27 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/hurricane-katrina.jpg" alt="FEMA Staffers Warned of Looming ‘Katrina-Level’ Disaster, Then Got Suspended" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/fema-staffers-warned-of-looming-katrina-level-disaster-then-got-suspended-2000649312" target="_blank">FEMA Staffers Warned of Looming ‘Katrina-Level’ Disaster, Then Got Suspended</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-27 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/spiderermerna.jpg" alt="Oh Wow, Spider-Man Multiplayer Is Here And It Looks Amazing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/spider-man-ps4-pc-multiplayer-mod-great-web-insomniac-2000620767" target="_blank">Oh Wow, Spider-Man Multiplayer Is Here And It Looks Amazing</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-27 20:45</span>
             </div>
         </div>
 <div class="story">
@@ -264,33 +293,6 @@
                 <span class="title"><a href="https://kotaku.com/overwatch-2-season-18-patch-cassidy-wrecking-ball-bug-2000620763" target="_blank">Overwatch 2 Broke The Cowboy</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-27 19:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K3PCQK7RQCJP114H5KPKWDPV/hero-image.png" alt="These MacBook-Style PC Laptops Are on Sale for Labor Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/macbook-style-pc-laptops-labor-day-sale-2025?utm_medium=RSS" target="_blank">These MacBook-Style PC Laptops Are on Sale for Labor Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-27 19:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/het-geroofde-schilderij-van-de-italiaanse-kunstenaar-vittore-ghislandi-in-een-woonkamer-in-een-argentijnse-kustplaats.jpg" alt="Famous Painting Looted by Nazis Spotted on Real Estate Website, Disappears Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/painting-looted-nazis-real-estate-website-disappears-2000649050" target="_blank">Famous Painting Looted by Nazis Spotted on Real Estate Website, Disappears Again</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-27 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/NicolasCageJesus.jpg" alt="Our First Look at Nicolas Cage’s Jesus Horror Movie Is 20 Seconds of Agony" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/our-first-look-at-nicolas-cages-jesus-horror-movie-is-20-seconds-of-agony-2000649083" target="_blank">Our First Look at Nicolas Cage’s Jesus Horror Movie Is 20 Seconds of Agony</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-27 18:00</span>
             </div>
         </div>
 </div>
@@ -339,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
