@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-27 01:29:12 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-27 02:28:08 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, August 27, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, August 27, 2025 - 02:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/26/g-s1-85541/starship-space-x-tenth-flight" target="_blank">Starship&#x27;s 10th flight breaks streak of bad luck</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-27 01:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,30 +83,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71d8/live/5cdc9ea0-82d6-11f0-a34f-318be3fb0481.jpg" alt="Energy prices expected to rise ahead of winter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c78zgz7j576o?at_medium=RSS&at_campaign=rss" target="_blank">Energy prices expected to rise ahead of winter</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-26 23:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/26/six-syrian-soldiers-killed-in-israeli-strikes-near-damascus-state-media?traffic_source=rss" target="_blank">Six Syrian soldiers killed in Israeli strikes near Damascus: State media</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-26 22:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e30/live/c7d783c0-82ca-11f0-ae2d-916d63627276.jpg" alt="Sheff Wed show &#x27;togetherness&#x27; amid protests at owner" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/sport/football/articles/cwy5e1n5zwgo?at_medium=RSS&at_campaign=rss" target="_blank">Sheff Wed show &#x27;togetherness&#x27; amid protests at owner</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-26 22:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/kilmar-abrego-02-rt-jef-250825_1756122262565_hpMain_4x3t_384.jpg" alt="Abrego Garcia&#x27;s attorneys ask to reopen his immigration case to seek asylum" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/abrego-garcias-attorneys-blast-government-unilaterally-rearresting/story?id=124991217" target="_blank">Abrego Garcia&#x27;s attorneys ask to reopen his immigration case to seek asylum</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-26 22:25</span>
             </div>
         </div>
 </div>
@@ -164,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A2400%2F1%2AhuH45ks-6laHlsrgySBVUQ.jpeg" alt="🔒 Angular Security Best Practices Every Developer Should Know (With Examples)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rohit_singh_ee84e64941db7/angular-security-best-practices-every-developer-should-know-with-examples-5hdd" target="_blank">🔒 Angular Security Best Practices Every Developer Should Know (With Examples)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-27 02:17</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -206,15 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Fedora-43-Changes-Delayed" target="_blank">A Number Of Fedora 43 Features/Changes Delayed To Fedora 44</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-26 20:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18580697&w=600" alt="Benchmarking Storage Performance (Latency, Throughput) Using Python" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/aws-s3-benchmarking-python-latency-throughput" target="_blank">Benchmarking Storage Performance (Latency, Throughput) Using Python</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-26 20:00</span>
             </div>
         </div>
 </div>
@@ -336,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 02:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
