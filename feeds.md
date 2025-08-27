@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-08-27 14:01:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-27 15:02:03 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, August 27, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, August 27, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +100,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/electric-cars/766609/ev-sales-increase-trump-tax-credit-expire" target="_blank">EVs are getting a temporary Trump bump thanks to expiring incentives</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-27 14:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/68aefdae4b0fdc15004a4c5a/master/pass/spacex.jpg" alt="SpaceX Starship Finally Pulls Off a Successful Test Flight" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -149,20 +153,20 @@
                 <span class="time">2025-08-27 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68aea79a31f3a92835820214/master/pass/Google%20Pixel%2010%20Pro%20SOURCE%202x%20digital%20zoom%20SOURCE%20Julian%20Chokkattu.jpg" alt="Review: Google Pixel 10 Series" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/review-google-pixel-10-series/" target="_blank">Review: Google Pixel 10 Series</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-27 07:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-USB-Rust-Drivers" target="_blank">Patches Posted To Allow Writing USB Rust Drivers For Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-27 13:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18573066&w=600" alt="Understanding Memory Page Sizes on Arm64" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +212,6 @@
                 <span class="time">2025-08-27 11:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/nvidia-jetson-thor-ubuntu-support" target="_blank">Canonical’s Ubuntu to be supported on NVIDIA Jetson Thor</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-08-27 11:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,20 +226,38 @@
                 <span class="time">2025-08-27 11:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/" target="_blank">DSLRoot, Proxies, and the Threat of ‘Legal Botnets’</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-08-26 14:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/glow-in-the-dark-succulents-rainbow.jpg" alt="Glow-in-the-Dark Succulents Could Be the Future of Ambient Lighting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/glow-in-the-dark-succulents-could-be-the-future-of-ambient-lighting-2000648920" target="_blank">Glow-in-the-Dark Succulents Could Be the Future of Ambient Lighting</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-27 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/morningcheckpointelden.jpg" alt="Alex Garland Wrote 160-Page Elden Ring Movie Script From Scratch To Win Miyazaki’s Approval" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/elden-ring-movie-alex-garland-hidetaka-miyazaki-atari-2000620675" target="_blank">Alex Garland Wrote 160-Page Elden Ring Movie Script From Scratch To Win Miyazaki’s Approval</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-27 14:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K3NQWKRC8KEEC1GA609Z5VAQ/hero-image.jpg" alt="Three Ways to Make It Easier to Use Your Android Phone One-Handed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/make-it-easier-to-use-android-phone-one-handed?utm_medium=RSS" target="_blank">Three Ways to Make It Easier to Use Your Android Phone One-Handed</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-27 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Doompool.jpg" alt="Robert Downey, Jr. Rumored to Clash With Ryan Reynolds on Set of ‘Avengers: Doomsday’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,33 +283,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/blink-video-doorbell-labor-day-sale-2025?utm_medium=RSS" target="_blank">This Blink Video Doorbell and Mini 2 Bundle Are $60 for Labor Day</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-27 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/big-sale-GOG.jpg" alt="Over 7,000 PC Games Are On Sale Right Now On GOG" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gog-back-to-school-sale-classic-pc-games-best-deals-witcher-fallout-cyberpunk-2000620421" target="_blank">Over 7,000 PC Games Are On Sale Right Now On GOG</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-27 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Gemini-North-3I-ATLAS.jpg" alt="This Visiting Interstellar Comet Just Keeps Getting Weirder" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/this-visiting-interstellar-comet-just-keeps-getting-weirder-2000648450" target="_blank">This Visiting Interstellar Comet Just Keeps Getting Weirder</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-27 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/04/rfk-kook-e1739476252778.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Trump and RFK Jr blame &quot;a drug or something&quot; for autism" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/26/trump-and-rfk-jr-blame-a-drug-or-something-for-autism.html" target="_blank">Trump and RFK Jr blame &quot;a drug or something&quot; for autism</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-26 23:38</span>
             </div>
         </div>
 </div>
@@ -345,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
