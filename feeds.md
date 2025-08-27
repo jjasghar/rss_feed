@@ -1,41 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-27 16:02:03 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-27 17:01:27 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 32 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, August 27, 2025 - 16:02 UTC</div>
+    <div class="newspaper-date">Wednesday, August 27, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  2 children killed in Minneapolis school shooting: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  2 children killed in Minneapolis school shooting: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-27 16:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1756310934452_nbc_spec_minneapolis_chief_timeline_250827_1920x1080-pfv92r.jpg" alt="Minneapolis police chief gives timeline of Annunciation Church shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/minneapolis-police-chief-gives-timeline-of-annunciation-church-shooting-245880389705" target="_blank">Minneapolis police chief gives timeline of Annunciation Church shooting</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-27 16:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/27/nx-s1-5519268/minneapolis-school-shooting-annunciation-church-minnesota" target="_blank">2 children are dead, 17 people injured in Minneapolis school shooting</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-27 16:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Officials provide update on deadly Minneapolis school shooting: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,39 +93,12 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/27/g-s1-85342/planet-money-summer-school-quiz-political-economy" target="_blank">Take The Planet Money Summer School Quiz In Political Economy</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-27 11:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Greenland-DB-250827_1756285573154_hpMain_4x3t_384.jpg" alt="Denmark summons US envoy over alleged influence operations in Greenland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/denmark-summons-us-envoy-alleged-influence-operations-greenland/story?id=125012946" target="_blank">Denmark summons US envoy over alleged influence operations in Greenland</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-27 10:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/27/nx-s1-5518151/flag-burning-executive-order" target="_blank">Flag burning has a long history in the U.S. — and legal protections from the Supreme Court</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-27 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0512/live/2f978ef0-831c-11f0-848b-c1258325c24c.jpg" alt="Denmark summons top US diplomat over alleged Greenland influence operation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ac8/live/ca4f5590-834e-11f0-8a9a-613339b7e5c3.png" alt="Gaza City evacuation inevitable, Israeli army warns Palestinians" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0j9l08902eo?at_medium=RSS&at_campaign=rss" target="_blank">Denmark summons top US diplomat over alleged Greenland influence operation</a></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gmrxd8ryno?at_medium=RSS&at_campaign=rss" target="_blank">Gaza City evacuation inevitable, Israeli army warns Palestinians</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2025-08-27 08:51</span>
+                <span class="time">2025-08-27 15:02</span>
             </div>
         </div>
 </div>
@@ -110,6 +106,33 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/27/pixel-10-pro-early-impressions-of-googles-latest-ai-flagship-phone/" target="_blank">Pixel 10 Pro review: familiar hardware, filled with Google’s AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-27 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2177041820-500x500.jpg" alt="Intel details everything that could go wrong with US taking a 10% stake" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/08/intel-details-everything-that-could-go-wrong-with-us-taking-a-10-stake/" target="_blank">Intel details everything that could go wrong with US taking a 10% stake</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-27 16:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/686bfe6f504485a8dea06093/master/pass/The%20Best%20Window%20Air%20Conditioners.png" alt="Best Window Air Conditioners 2025: 11 Picks to Cool You for Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-window-air-conditioners/" target="_blank">Best Window Air Conditioners 2025: 11 Picks to Cool You for Years</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-27 15:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/ship37splash-500x500.jpg" alt="Under pressure after setbacks, SpaceX’s huge rocket finally goes the distance" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,38 +160,20 @@
                 <span class="time">2025-08-27 13:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/766417/google-pixel-tablet-apple-airpods-4-deal-sale" target="_blank">Google’s Pixel Tablet is up to $170 off ahead of Labor Day weekend</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-27 13:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/tow2-4-500x500-1756237631.jpg" alt="The Outer Worlds 2 wants you to join the space police" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2025/08/the-outer-worlds-2-wants-you-to-join-the-space-police/" target="_blank">The Outer Worlds 2 wants you to join the space police</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-27 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68ae81827cf142253a0a0219/master/pass/Review-%20Elehear%20Beyond%20Pro_.png" alt="Elehear Beyond Pro Review: Big Hearing Aids" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/elehear-beyond-pro/" target="_blank">Elehear Beyond Pro Review: Big Hearing Aids</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-27 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18580794&w=600" alt="Seamless Storage: Configuring Kubernetes PVC for Windows Shared Folders With SMB" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/kubernetes-pvc-windows-shared-folders-smb" target="_blank">Seamless Storage: Configuring Kubernetes PVC for Windows Shared Folders With SMB</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-27 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +217,6 @@
                 <span class="title"><a href="https://dzone.com/articles/understanding-memory-page-sizes-on-arm64" target="_blank">Understanding Memory Page Sizes on Arm64</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-08-27 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/ai-food-image-generation/en/mediumimage/iaroslav-amerkhanov-medium-1755673680242.jpg" alt="Presentation: AI for Food Image Generation in Production: How &amp; Why" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/ai-food-image-generation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: AI for Food Image Generation in Production: How &amp; Why</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-27 12:33</span>
             </div>
         </div>
 </div>
@@ -324,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
