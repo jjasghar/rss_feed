@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-28 09:01:59 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-08-28 10:02:02 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, August 28, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, August 28, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/28/nx-s1-5520519/denmark-us-envoy-interference-greenland" target="_blank">Denmark summons U.S. envoy over claims of interference in Greenland</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-28 09:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/28/mexico-to-suspend-package-shipments-to-us-as-tariff-exemption-set-to-expire?traffic_source=rss" target="_blank">Mexico to suspend package shipments to US as tariff exemption set to expire</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-28 09:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +98,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/multiple-minneapolis-shooting-victims-released-hospital-police-chief/story?id=125049583" target="_blank">Multiple Minneapolis shooting victims released from hospital, police chief says</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-28 07:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/28/nx-s1-5518838/denmark-us-envoy-interference-greenland" target="_blank">Denmark summons US envoy over claims of interference in Greenland</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-28 06:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e83/live/2bb0d180-8361-11f0-b3de-c13d348c14aa.jpg" alt="Starmer to replace third top aide in less than a year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czr6zmd5d0ro?at_medium=RSS&at_campaign=rss" target="_blank">Starmer to replace third top aide in less than a year</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-28 05:31</span>
             </div>
         </div>
 </div>
@@ -162,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhhx9zf5jbizqysmu4vmw.gif" alt="New feature: Content scheduling in Flotiq" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/flotiq/new-feature-content-scheduling-in-flotiq-5hdj" target="_blank">New feature: Content scheduling in Flotiq</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-28 09:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/articles/virtual-think-tank/en/headerimage/virtual-think-tank-header-1756195695462.jpg" alt="Article: The Virtual Think Tank: Using LLMs to Get a Multitude of Perspectives" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -204,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/aws-builders/aws-savings-plans-doesnt-assure-cost-savings-tracking-amending-with-aws-budgets-does--261i" target="_blank">AWS Savings Plans doesn&#x27;t assure cost savings; Tracking &amp; Amending with AWS Budgets does !!</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-28 02:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yc_lee_53e583a776a9c56e3/taskcreate-etl-pipeline-service-skeleton-2mpd" target="_blank">Task:Create ETL pipeline service skeleton</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-28 01:05</span>
             </div>
         </div>
 </div>
@@ -325,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
