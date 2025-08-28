@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-28 21:01:55 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-28 22:01:54 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, August 28, 2025 - 21:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Thursday, August 28, 2025 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +43,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/28/nx-s1-5519337/public-media-emergency-alert-funding" target="_blank">Public media stations in rural America say emergency-alert funding is in jeopardy</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-28 21:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/28/russian-air-attack-on-kyiv-kills-children-and-damages-eu-building?traffic_source=rss" target="_blank">Russian air attack on Kyiv kills children and damages EU building</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-28 21:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-fletcher-merkel-minneapolis_7004074.jpg?20250828222653" alt="Boy, 8, killed in US Catholic school shooting named - as victim&#x27;s father brands attacker &#x27;a coward&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/boy-8-killed-in-us-catholic-school-shooting-named-as-victims-father-brands-attacker-a-coward-13420257" target="_blank">Boy, 8, killed in US Catholic school shooting named - as victim&#x27;s father brands attacker &#x27;a coward&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-28 21:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,38 +97,38 @@
                 <span class="time">2025-08-28 18:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/28/nx-s1-5520588/dc-union-station-federal-government" target="_blank">The federal government is taking over D.C.&#x27;s Union Station. What does that mean?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-28 18:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/08/28/g-s1-85967/water-drink-safe-sanitation-toilet" target="_blank">Water, water, everywhere! Why can&#x27;t billions of folks get a drink or flush a toilet?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-28 17:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/8/28/federal-reserve-governor-lisa-cook-sues-trump-for-his-attempt-to-fire-her?traffic_source=rss" target="_blank">Federal Reserve Governor Lisa Cook sues Trump for his attempt to fire her</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-28 17:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1232186902-500x500.jpg" alt="Genetically, Central American mammoths were weird" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/08/genetically-central-american-mammoths-were-weird/" target="_blank">Genetically, Central American mammoths were weird</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-28 21:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/28/trump-administrations-deal-is-structured-to-prevent-intel-from-selling-foundry-unit/" target="_blank">Trump administration’s deal is structured to prevent Intel from selling foundry unit</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-28 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68a8988e3d3340e9212647fe/master/pass/Back%20to%20School%20Livestream%20Top%20Art.png" alt="Watch Our Livestream Replay: Back to School in the Age of AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/livestream-back-to-school-in-the-age-of-ai/" target="_blank">Watch Our Livestream Replay: Back to School in the Age of AI</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-28 21:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,33 +154,6 @@
                 <span class="title"><a href="https://www.wired.com/story/best-apple-tv-plus-movies/" target="_blank">The 29 Best Movies on Apple TV+ Right Now (September 2025)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-08-28 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/07/password-login-500x500.jpeg" alt="High-severity vulnerability in Passwordstate credential manager. Patch now." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2025/08/high-severity-vulnerability-in-passwordstate-credential-manager-patch-now/" target="_blank">High-severity vulnerability in Passwordstate credential manager. Patch now.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-28 18:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/767711/google-pixel-care-plus-free-screen-and-battery-repair" target="_blank">Google’s Pixel Care Plus includes free screen and battery repair</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-28 18:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68af4c85d3d0e2d6104b9c13/master/pass/Uncanny-Valley-Doomscrolling-Toxic-Internet-Culture-2178482298.jpg" alt="This Is How You Log Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-this-is-how-you-log-off/" target="_blank">This Is How You Log Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-28 17:47</span>
             </div>
         </div>
 </div>
@@ -250,11 +244,29 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/ncaa.jpg" alt="EA And 2K Games Are Beefing Over NCAA College Basketball Exclusivity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ea-college-basketball-ncaa-2k-hoops-ucla-2000621071" target="_blank">EA And 2K Games Are Beefing Over NCAA College Basketball Exclusivity</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-28 21:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Harris.jpg" alt="A Small Army of Overpaid TikTokers Is Not Going to Save the Democratic Party" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/a-small-army-of-overpaid-tiktokers-is-not-going-to-save-the-democratic-party-2000649770" target="_blank">A Small Army of Overpaid TikTokers Is Not Going to Save the Democratic Party</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-28 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Tinymoose-Pencil-Pro-Plus-for-iPad-with-Wireless-Charging-1.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="This $30 stylus slaps harder than your overpriced Apple Pencil" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/28/this-30-stylus-slaps-harder-than-your-overpriced-apple-pencil.html" target="_blank">This $30 stylus slaps harder than your overpriced Apple Pencil</a></span>
+                <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-28 21:00</span>
             </div>
         </div>
@@ -285,24 +297,6 @@
                 <span class="time">2025-08-28 18:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/kamrui-mini-pc-512.jpg" alt="This Kamrui Mini PC (16GB RAM, 512GB) Is Going Like Hotcakes, Amazon Slashes It to a Record Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-kamrui-mini-pc-16gb-ram-512gb-is-going-like-hotcakes-amazon-slashes-it-to-a-record-low-2000620946" target="_blank">This Kamrui Mini PC (16GB RAM, 512GB) Is Going Like Hotcakes, Amazon Slashes It to a Record Low</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-28 18:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K3RRYBXWQW081EAW6S0J9ZT3/hero-image.png" alt="My Favorite Amazon Deal of the Day: The Hisense 100&quot; Class U8 TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/hisense-class-u8-tv-amazon-deal-of-the-day?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: The Hisense 100&quot; Class U8 TV</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-28 17:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
