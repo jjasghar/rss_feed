@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-28 15:02:05 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-28 16:02:00 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, August 28, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, August 28, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/28/israel-steps-up-bombardment-of-gaza-city-killing-at-least-24-people?traffic_source=rss" target="_blank">Israel steps up bombardment of Gaza City, killing at least 24 people</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-28 15:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/28/nx-s1-5520698/alligator-alcatraz-detention-facility-empty" target="_blank">Florida&#x27;s &#x27;Alligator Alcatraz&#x27; detention facility to be empty &#x27;within a few days&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-28 15:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +103,20 @@
                 <span class="time">2025-08-28 13:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/minneapolis-shooting-scene-rt-jef-250828_1756381281521_hpMain_4x3t_384.jpg" alt="Girl shot in head asked bystander, &#x27;Please just hold my hand&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/minneapolis-man-raced-church-shooting-victims-recalls-scene/story?id=125051456" target="_blank">Girl shot in head asked bystander, &#x27;Please just hold my hand&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-28 12:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/28/at-least-24-killed-in-rsf-attack-on-sudans-el-fasher-doctors-group?traffic_source=rss" target="_blank">At least 24 killed in RSF attack on Sudan’s el-Fasher : Doctors’ group</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-28 12:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/28/mathgpt-the-cheat-proof-ai-tutor-and-teaching-assistant-expands-to-over-50-institutions/" target="_blank">MathGPT, the ‘cheat-proof’ AI tutor and teaching assistant, expands to over 50 institutions</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-28 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +162,6 @@
                 <span class="time">2025-08-28 12:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/766156/chargepoint-dc-fast-charging-600-kw-megawatt" target="_blank">ChargePoint’s new megawatt EV chargers could level the playing field with China</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-28 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -180,6 +186,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/presentations/platform-observability/en/mediumimage/brian-martin-medium-1755673238611.jpg" alt="Presentation: High-Resolution Platform Observability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/platform-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: High-Resolution Platform Observability</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-28 14:45</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -189,30 +204,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.jeffgeerling.com/blog/2025/how-install-truenas-on-raspberry-pi" target="_blank">How to Install TrueNAS on a Raspberry Pi</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-28 14:14</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18582517&w=600" alt="Cry and Authenticate How AI is Changing Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/ai-psychology-future-authentication" target="_blank">Cry and Authenticate How AI is Changing Security</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-08-28 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsfy4y5grw158vq3kxohs.png" alt="Unleash the Neovim Beast: Master Your LazyVim Setup with Real Developer Workflows (Part 3)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/crafts69guy/unleash-the-neovim-beast-master-your-lazyvim-setup-with-real-developer-workflows-part-3-1cmc" target="_blank">Unleash the Neovim Beast: Master Your LazyVim Setup with Real Developer Workflows (Part 3)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-28 13:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.jeffschomay.com/rendering-a-game-in-real-time-with-ai" target="_blank">Rendering a Game in Real-Time with AI</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-28 12:10</span>
             </div>
         </div>
 </div>
@@ -234,6 +240,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/website-stock.jpg" alt="Figma-Killer Framer Valued at $2B in New Funding Round As No-Code Heats Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/framer-figma-killer-2000649692" target="_blank">Figma-Killer Framer Valued at $2B in New Funding Round As No-Code Heats Up</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-28 15:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K3RGSYYD9Y2XGTSTAAD7B0CB/hero-image.jpg" alt="Insta360&#x27;s 4K Gimbal Webcam Is $50 Off for Labor Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/insta360-4k-gimbal-webcam-sale-labor-day-2025?utm_medium=RSS" target="_blank">Insta360&#x27;s 4K Gimbal Webcam Is $50 Off for Labor Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-28 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/morncheckp.jpg" alt="Capcom Has Reportedly Tried And Failed To Remake Dino Crisis A Few Times" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dino-crisis-remake-capcom-2000620968" target="_blank">Capcom Has Reportedly Tried And Failed To Remake Dino Crisis A Few Times</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-28 15:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01HF2GHC3JQ57NNDZ7DW84E4GG/hero-image.jpg" alt="The 30 Best Original Shows Streaming on HBO Max Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,38 +294,20 @@
                 <span class="time">2025-08-28 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Spider-Man.jpg" alt="Jackie Chan’s Stunt Team Join ‘Spider-Man: Brand New Day’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/jackie-chans-stunt-team-join-spider-man-brand-new-day-2000649559" target="_blank">Jackie Chan’s Stunt Team Join ‘Spider-Man: Brand New Day’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-28 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/hp-14-laptop-intel-celeron.jpg" alt="This HP Laptop with Office 365 Is Cheaper Than Buying Office Alone, Amazon Clears Out Stock for Labor Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-hp-laptop-with-office-365-is-cheaper-than-buying-office-alone-amazon-clears-out-stock-for-labor-day-2000620926" target="_blank">This HP Laptop with Office 365 Is Cheaper Than Buying Office Alone, Amazon Clears Out Stock for Labor Day</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-28 12:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/11/Jensen-Huang-Nvidia-1.jpg" alt="Did Nvidia Just Pop an AI Bubble? Here’s What the Market Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/did-nvidia-just-pop-an-ai-bubble-heres-what-the-market-says-2000649432" target="_blank">Did Nvidia Just Pop an AI Bubble? Here’s What the Market Says</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-28 10:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1756236933-20250828.png" alt="Saturday Morning Breakfast Cereal - Petals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/petals" target="_blank">Saturday Morning Breakfast Cereal - Petals</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-08-28 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5645.png" alt="The Least Firm Handshake Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -311,22 +326,13 @@
                 <span class="time">2025-08-27 18:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1756236873-20250827.png" alt="Saturday Morning Breakfast Cereal - Work" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/work-3" target="_blank">Saturday Morning Breakfast Cereal - Work</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-08-27 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
