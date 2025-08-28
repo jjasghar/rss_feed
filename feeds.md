@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-28 03:15:24 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-28 04:01:58 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, August 28, 2025 - 03:15 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, August 28, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -119,6 +112,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/68af9c96e6c7cf6a61f4af2f/master/pass/2222107417" alt="Top CDC Officials Resign After Director Is Pushed Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/centers-for-disease-control-prevention-cdc-resignations/" target="_blank">Top CDC Officials Resign After Director Is Pushed Out</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-28 01:08</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -154,20 +156,20 @@
                 <span class="time">2025-08-27 21:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/social/767063/4chan-kiwi-farms-lawsuit-uk-ofcom" target="_blank">4Chan and Kiwi Farms file joint lawsuit against the UK</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-27 21:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="A single word, tone shift, or framing in the prompt can completely change the quality of your output. That’s the psychology of prompts, and mastering it is what separates casual users from experts." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jaideepparashar/a-single-word-tone-shift-or-framing-in-the-prompt-can-completely-change-the-quality-of-your-26kk" target="_blank">A single word, tone shift, or framing in the prompt can completely change the quality of your output. That’s the psychology of prompts, and mastering it is what separates casual users from experts.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-28 03:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fccbzen180ik7d4vmk98g.png" alt="AWS Savings Plans doesn&#x27;t assure cost savings; Tracking &amp; Amending with AWS Budgets does !!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -213,15 +215,6 @@
                 <span class="time">2025-08-27 22:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/LF-Networking-Essedum-1.0" target="_blank">Linux Foundation Networking Releases Essedum 1.0 For AI-Native Network Apps</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-27 21:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/whale-shark.jpg" alt="Nearly Every Whale Shark at This Tourist Destination Bears Human-Made Scars" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/whale-sharks-are-getting-brutalized-by-tourists-and-fishers-2000649071" target="_blank">Nearly Every Whale Shark at This Tourist Destination Bears Human-Made Scars</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-28 04:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/59be76c0-81ba-11f0-a34f-318be3fb0481.jpg.webp?fit=1536%2C1152&amp;quality=55&amp;ssl=1" alt="Punk ankylosaurus discovered" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +288,6 @@
                 <span class="time">2025-08-27 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K3PKVCJ75CWN8W8W5EMZ841C/hero-image.png" alt="These Sonos Speakers Are on Sale for Labor Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/sonos-speakers-labor-day-sale-2025?utm_medium=RSS" target="_blank">These Sonos Speakers Are on Sale for Labor Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-27 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -336,22 +329,13 @@
                 <span class="time">2025-08-27 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/wavefunction_collapse.png" alt="Wavefunction Collapse" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3134/" target="_blank">Wavefunction Collapse</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-08-27 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 03:15 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
