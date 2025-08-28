@@ -1,30 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-28 12:02:16 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-28 13:09:12 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Generated 14 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, August 28, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, August 28, 2025 - 13:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,12 +44,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/minneapolis-shooting-scene-rt-jef-250828_1756381281521_hpMain_4x3t_384.jpg" alt="Girl shot in head asked bystander, &#x27;Please just hold my hand&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/minneapolis-man-raced-church-shooting-victims-recalls-scene/story?id=125051456" target="_blank">Girl shot in head asked bystander, &#x27;Please just hold my hand&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-28 12:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/28/at-least-24-killed-in-rsf-attack-on-sudans-el-fasher-doctors-group?traffic_source=rss" target="_blank">At least 24 killed in RSF attack on Sudan’s el-Fasher : Doctors’ group</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-28 12:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5e0/live/319334d0-8401-11f0-a3f8-9b56bf5c3841.jpg" alt="Epping hotel case could set precedent, court told" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cpqv01lxvyro?at_medium=RSS&at_campaign=rss" target="_blank">Epping hotel case could set precedent, court told</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-28 11:56</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/watch-your-language/2025/8/28/idiotic-idioms?traffic_source=rss" target="_blank">Idiotic Idioms</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-28 11:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1756380344952_tdy_news_7a_minneapolis_police_chief_250828_1920x1080-lucpt3.jpg" alt="Minneapolis Police Chief Shares Update on Church Shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/minneapolis-police-chief-shares-update-on-church-shooting-245957701535" target="_blank">Minneapolis Police Chief Shares Update on Church Shooting</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-28 11:25</span>
             </div>
         </div>
 <div class="story">
@@ -58,47 +97,38 @@
                 <span class="time">2025-08-28 10:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/28/nx-s1-5520519/denmark-us-envoy-interference-greenland" target="_blank">Denmark summons U.S. envoy over claims of interference in Greenland</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-28 09:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/28/mexico-to-suspend-package-shipments-to-us-as-tariff-exemption-set-to-expire?traffic_source=rss" target="_blank">Mexico to suspend package shipments to US as tariff exemption set to expire</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-28 09:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/28/rwanda-accepts-seven-people-us-deportation-deal" target="_blank">Rwanda accepts seven people from US as part of deportation deal</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-08-28 09:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/8/28/from-anti-wokeness-to-the-confederate-states-of-america?traffic_source=rss" target="_blank">From Anti-Wokeness to the Confederate States of America</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-28 08:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68563692fd268ad4c81d6dc3/master/pass/The%2014%20Best%20Office%20Chairs.png" alt="14 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-office-chairs/" target="_blank">14 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-28 12:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/766156/chargepoint-dc-fast-charging-600-kw-megawatt" target="_blank">ChargePoint’s new megawatt EV chargers could level the playing field with China</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-28 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/28/how-a-16-year-old-company-is-easing-small-businesses-into-ai/" target="_blank">How a 16-year-old company is easing small businesses into AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-28 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68af84fadad329262ceb83de/master/pass/Review-%20Kindle%20Colorsoft%20Kids.png" alt="Kindle Colorsoft Kids Review (2025): Great for All Ages" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -126,38 +156,38 @@
                 <span class="time">2025-08-28 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/767251/microsoft-fires-two-employees-building-34-brad-smith-office-protest" target="_blank">Microsoft fires two employee protesters who occupied its president&amp;#8217;s office</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-28 01:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68af9c96e6c7cf6a61f4af2f/master/pass/2222107417" alt="Top CDC Officials Resign After Director Is Pushed Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/centers-for-disease-control-prevention-cdc-resignations/" target="_blank">Top CDC Officials Resign After Director Is Pushed Out</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-28 01:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/27/with-indias-corporate-banking-lagging-decades-behind-consumer-fintech-transbnk-raises-25m-to-bridge-the-gap/" target="_blank">With India’s corporate banking lagging decades behind consumer fintech, TransBnk raises $25M to bridge the gap</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-28 00:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/08/28/moving-the-public-stack-overflow-sites-to-the-cloud-part-1/" target="_blank">Moving the public Stack Overflow sites to the cloud: Part 1</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-08-28 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18581602&w=600" alt="How Healthy Is Your Data in the Age of AI? An In-Depth Checklist to Assess Data Accuracy, Governance, and AI Readiness" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/healthy-data-ai-checklist" target="_blank">How Healthy Is Your Data in the Age of AI? An In-Depth Checklist to Assess Data Accuracy, Governance, and AI Readiness</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-28 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/08/AI-learning-experiences-QCon/en/headerimage/ai-learning-experiences-QCon-header-1756105812788.jpg" alt="An AI-Driven Approach to Creating Effective Learning Experiences at QCon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/AI-learning-experiences-QCon/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">An AI-Driven Approach to Creating Effective Learning Experiences at QCon</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-28 11:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18578153&w=600" alt="Reclaiming Oracle Tablespace Space Using HWM Logic: On-Prem and Cloud-Aware Automation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -185,33 +215,6 @@
                 <span class="time">2025-08-28 10:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/openyurt-cncf-incubation/en/headerimage/header-1756153020991.jpeg" alt="CNCF Incubates OpenYurt for Kubernetes at the Edge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/openyurt-cncf-incubation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">CNCF Incubates OpenYurt for Kubernetes at the Edge</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-28 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhhx9zf5jbizqysmu4vmw.gif" alt="New feature: Content scheduling in Flotiq" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/flotiq/new-feature-content-scheduling-in-flotiq-5hdj" target="_blank">New feature: Content scheduling in Flotiq</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-28 09:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/cis-hardened-ubuntu-pro-minimal-available-on-aws" target="_blank">Ubuntu Pro Minimal 22.04 LTS with CIS hardening is now generally available on AWS</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-08-28 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Spider-Man.jpg" alt="Jackie Chan’s Stunt Team Join ‘Spider-Man: Brand New Day’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/jackie-chans-stunt-team-join-spider-man-brand-new-day-2000649559" target="_blank">Jackie Chan’s Stunt Team Join ‘Spider-Man: Brand New Day’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-28 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/hp-14-laptop-intel-celeron.jpg" alt="This HP Laptop with Office 365 Is Cheaper Than Buying Office Alone, Amazon Clears Out Stock for Labor Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-hp-laptop-with-office-365-is-cheaper-than-buying-office-alone-amazon-clears-out-stock-for-labor-day-2000620926" target="_blank">This HP Laptop with Office 365 Is Cheaper Than Buying Office Alone, Amazon Clears Out Stock for Labor Day</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-28 12:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/11/Jensen-Huang-Nvidia-1.jpg" alt="Did Nvidia Just Pop an AI Bubble? Here’s What the Market Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,24 +286,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/27/punk-ankylosaurus-discovered.html" target="_blank">Punk ankylosaurus discovered</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-28 01:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Susan-Monarez.jpg" alt="CDC Director Denies Report She’s Been Fired by Trump Regime (HHS Says She’s Out)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/cdc-resignations-susan-monarez-denial-rfk-vaccines-2000649469" target="_blank">CDC Director Denies Report She’s Been Fired by Trump Regime (HHS Says She’s Out)</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-28 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K3M0AQTVMA2RTMC49EA6C86A/hero-image.png" alt="The Best Labor Day Deals on Phones, Laptops, TVs, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/phone-laptop-tv-headphones-sales-labor-day-2025?utm_medium=RSS" target="_blank">The Best Labor Day Deals on Phones, Laptops, TVs, and More</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-27 22:30</span>
             </div>
         </div>
 </div>
@@ -322,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 280 |
+        🔄 Last Updated: 13:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
