@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-28 17:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-28 18:01:59 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 12 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, August 28, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, August 28, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/08/28/g-s1-85967/water-drink-safe-sanitation-toilet" target="_blank">Water, water, everywhere! Why can&#x27;t billions of folks get a drink or flush a toilet?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-28 17:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/8/28/federal-reserve-governor-lisa-cook-sues-trump-for-his-attempt-to-fire-her?traffic_source=rss" target="_blank">Federal Reserve Governor Lisa Cook sues Trump for his attempt to fire her</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-28 17:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +103,20 @@
                 <span class="time">2025-08-28 15:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/28/pakistan-out-of-asia-cup-2025-as-hockey-tournament-begins-in-india?traffic_source=rss" target="_blank">Pakistan out of Asia Cup 2025 as hockey tournament begins in India</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-28 14:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9641/live/e657edf0-83ef-11f0-ab3e-bd52082cd0ae.jpg" alt="European leaders outraged after Russian strikes kill 18 and damage EU&#x27;s HQ" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg3y7m2gz0o?at_medium=RSS&at_campaign=rss" target="_blank">European leaders outraged after Russian strikes kill 18 and damage EU&#x27;s HQ</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-28 14:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/electric-cars/767535/gms-new-adapters-reflect-increasingly-confused-world-ev-charging" target="_blank">GM’s new adapters reflect the increasingly confused reality of EV charging</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-28 17:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +162,56 @@
                 <span class="time">2025-08-28 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/945-500x500.jpg" alt="As GM prepares to switch its EVs to NACS, it has some new adapters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/08/gm-announces-new-nacs-and-ccs1-adapters-coming-next-week/" target="_blank">As GM prepares to switch its EVs to NACS, it has some new adapters</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-28 13:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bezal_benny_68a567103f98c/most-affordable-website-design-companies-in-edmonton-2025-pricing-comparison-h6o" target="_blank">Most Affordable Website Design Companies in Edmonton (2025 Pricing Comparison)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-28 17:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/stk-evolution.jpg?resize=406%2C232&amp;ssl=1" alt="SuperTuxKart Evolution Aims to Accelerate Development of Iconic Racing Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/supertuxkarts-stable-release-pitstop-opens-up-potential" target="_blank">SuperTuxKart Evolution Aims to Accelerate Development of Iconic Racing Game</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-28 17:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-we-accelerated-secret-protection-engineering-with-copilot/" target="_blank">How we accelerated Secret Protection engineering with Copilot</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-08-28 17:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://www.youtube.com/watch?v=GfH4QL4VqJ0" target="_blank">Python: The Documentary, An origin story</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-08-28 17:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18582616&w=600" alt="Practical Guide to Snowflake Performance Tuning With SQL and AI Enhancements" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/optimize-snowflake-performance" target="_blank">Practical Guide to Snowflake Performance Tuning With SQL and AI Enhancements</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-28 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://substack-post-media.s3.amazonaws.com/public/images/5416b4b5-fa65-491d-973d-a0e7a942ebcf_420x300.png" alt="The Pulse #144: Rare look into AWS’s PR/FAQ process" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -168,51 +219,6 @@
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-144" target="_blank">The Pulse #144: Rare look into AWS’s PR/FAQ process</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
                 <span class="time">2025-08-28 16:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18582329&w=600" alt="Designing Scalable Ingestion and Access Layers for Policy and Enforcement Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/scalable-data-ingestion-access-policy-enforcement" target="_blank">Designing Scalable Ingestion and Access Layers for Policy and Enforcement Data</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-28 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/08/28/moving-the-public-stack-overflow-sites-to-the-cloud-part-1/" target="_blank">Moving the public Stack Overflow sites to the cloud: Part 1</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-08-28 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd6mjq5wzxlyffc751r3g.png" alt="Healthcare Meets Blockchain: Why HIPAA-Compliant DApps Need More Than Encryption" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/savvysid/healthcare-meets-blockchain-why-hipaa-compliant-dapps-need-more-than-encryption-5cbk" target="_blank">Healthcare Meets Blockchain: Why HIPAA-Compliant DApps Need More Than Encryption</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-28 14:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/platform-observability/en/mediumimage/brian-martin-medium-1755673238611.jpg" alt="Presentation: High-Resolution Platform Observability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/platform-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: High-Resolution Platform Observability</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-28 14:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Apple-M2-Pro-Max-Ultra-DT" target="_blank">Apple M2 Pro / Max / Ultra Device Trees Under Review For The Linux Kernel</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-28 14:43</span>
             </div>
         </div>
 </div>
@@ -234,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K3RRYBXWQW081EAW6S0J9ZT3/hero-image.png" alt="My Favorite Amazon Deal of the Day: The Hisense 100&quot; Class U8 TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/hisense-class-u8-tv-amazon-deal-of-the-day?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: The Hisense 100&quot; Class U8 TV</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-28 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/06/giphy-8.gif?fit=320%2C213&amp;ssl=1" alt="RFK Jr thinks school shootings due to an overabundance of mental healthcare" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/28/rfk-jr-thinks-school-shootings-due-to-an-overabundance-of-mental-healthcare.html" target="_blank">RFK Jr thinks school shootings due to an overabundance of mental healthcare</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-28 17:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/website-stock.jpg" alt="Figma-Killer Framer Valued at $2B in New Funding Round As No-Code Heats Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +292,6 @@
                 <span class="title"><a href="https://lifehacker.com/best-max-original-shows?utm_medium=RSS" target="_blank">The 30 Best Original Shows Streaming on HBO Max Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-28 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/mnn-portable-monitor-fhd.jpg" alt="This 15″ Portable Gaming Monitor Now Costs Peanuts, Amazon Goes Big for Labor Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-15-portable-gaming-monitor-now-costs-peanuts-amazon-goes-big-for-labor-day-2000620939" target="_blank">This 15″ Portable Gaming Monitor Now Costs Peanuts, Amazon Goes Big for Labor Day</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-28 13:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K3QK49GH31YP5NMCVCJ4C6EH/hero-image.png" alt="Roku&#x27;s Streaming Stick Plus Is at Its Lowest Price Ever for Labor Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/roku-streaming-stick-plus-sale-labor-day-2025?utm_medium=RSS" target="_blank">Roku&#x27;s Streaming Stick Plus Is at Its Lowest Price Ever for Labor Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-28 13:30</span>
             </div>
         </div>
 </div>
@@ -325,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
