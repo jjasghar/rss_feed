@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-28 10:02:02 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-28 11:01:53 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, August 28, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, August 28, 2025 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/717b/live/716dbea0-83f1-11f0-b391-6936825093bd.jpg" alt="&#x27;My friend got hit in the back&#x27;: Witnesses describe terror of US school shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cev2w1elx7wo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;My friend got hit in the back&#x27;: Witnesses describe terror of US school shooting</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-28 10:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -67,6 +78,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/aug/28/rwanda-accepts-seven-people-us-deportation-deal" target="_blank">Rwanda accepts seven people from US as part of deportation deal</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-08-28 09:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/opinions/2025/8/28/from-anti-wokeness-to-the-confederate-states-of-america?traffic_source=rss" target="_blank">From Anti-Wokeness to the Confederate States of America</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -82,29 +102,20 @@
                 <span class="time">2025-08-28 07:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/28/nx-s1-5520503/russian-drone-attack-kills-10-ukraine-kyiv" target="_blank">Two children among dead in Russian drone attack on Kyiv, dozens injured</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-28 07:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/MN-shooting-candles-DB-250828_1756364541656_hpMain_4x3t_384.jpg" alt="Multiple Minneapolis shooting victims released from hospital, police chief says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/multiple-minneapolis-shooting-victims-released-hospital-police-chief/story?id=125049583" target="_blank">Multiple Minneapolis shooting victims released from hospital, police chief says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-28 07:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/28/more-than-10-european-startups-became-unicorns-this-year/" target="_blank">More than 10 European startups became unicorns this year</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-28 09:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +161,38 @@
                 <span class="time">2025-08-27 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2222107417-500x500.jpg" alt="CDC director has been ousted just weeks after Senate confirmation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/08/report-cdc-director-being-ousted-just-weeks-after-senate-confirmation/" target="_blank">CDC director has been ousted just weeks after Senate confirmation</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-27 21:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1155%2F1%2AoHpNq3hmDPAXSVaF6qRwgw.png" alt="The complete guide to Docker Offload. Beta mode was just launched." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dev_tips/the-complete-guide-to-docker-offload-beta-mode-was-just-launched-1ik8" target="_blank">The complete guide to Docker Offload. Beta mode was just launched.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-28 10:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Arch-Optimized-BLAKE2s-Default" target="_blank">Linux Patches To Unconditionally Enable Architecture-Optimized BLAKE2s Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-28 10:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/08/openyurt-cncf-incubation/en/headerimage/header-1756153020991.jpeg" alt="CNCF Incubates OpenYurt for Kubernetes at the Edge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/openyurt-cncf-incubation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">CNCF Incubates OpenYurt for Kubernetes at the Edge</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-28 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhhx9zf5jbizqysmu4vmw.gif" alt="New feature: Content scheduling in Flotiq" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -174,48 +203,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/cis-hardened-ubuntu-pro-minimal-available-on-aws" target="_blank">Ubuntu Pro Minimal 22.04 LTS with CIS hardening is now generally available on AWS</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-08-28 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/articles/virtual-think-tank/en/headerimage/virtual-think-tank-header-1756195695462.jpg" alt="Article: The Virtual Think Tank: Using LLMs to Get a Multitude of Perspectives" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
                 <span class="title"><a href="https://www.infoq.com/articles/virtual-think-tank/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: The Virtual Think Tank: Using LLMs to Get a Multitude of Perspectives</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-08-28 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-35/" target="_blank">FOSS Weekly #25.35: New Gerhwin DE, grep Command, Nitro init system, KDE Customization and More Linux Stuff</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-08-28 05:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon" target="_blank">The Deletion of Docker.io/Bitnami</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-28 04:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="A single word, tone shift, or framing in the prompt can completely change the quality of your output. That’s the psychology of prompts, and mastering it is what separates casual users from experts." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jaideepparashar/a-single-word-tone-shift-or-framing-in-the-prompt-can-completely-change-the-quality-of-your-26kk" target="_blank">A single word, tone shift, or framing in the prompt can completely change the quality of your output. That’s the psychology of prompts, and mastering it is what separates casual users from experts.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-28 03:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fccbzen180ik7d4vmk98g.png" alt="AWS Savings Plans doesn&#x27;t assure cost savings; Tracking &amp; Amending with AWS Budgets does !!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/aws-savings-plans-doesnt-assure-cost-savings-tracking-amending-with-aws-budgets-does--261i" target="_blank">AWS Savings Plans doesn&#x27;t assure cost savings; Tracking &amp; Amending with AWS Budgets does !!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-28 02:18</span>
             </div>
         </div>
 </div>
@@ -237,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/11/Jensen-Huang-Nvidia-1.jpg" alt="Did Nvidia Just Pop an AI Bubble? Here’s What the Market Says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/did-nvidia-just-pop-an-ai-bubble-heres-what-the-market-says-2000649432" target="_blank">Did Nvidia Just Pop an AI Bubble? Here’s What the Market Says</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-28 10:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/whale-shark.jpg" alt="Nearly Every Whale Shark at This Tourist Destination Bears Human-Made Scars" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +293,6 @@
                 <span class="time">2025-08-27 22:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Weapons-Gladys-Amy-Madigan.jpg" alt="One of the Most Shocking Scenes in ‘Weapons’ Is Now Online" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/one-of-the-most-shocking-scenes-in-weapons-is-now-online-2000649400" target="_blank">One of the Most Shocking Scenes in ‘Weapons’ Is Now Online</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-27 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
