@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-28 19:01:40 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-28 20:02:07 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 13 new posts out of 32 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, August 28, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, August 28, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/minneapolis-shooting-memorial-02-ap-jef-250828_1756388822847_hpMain_4x3t_384.jpg" alt="Minneapolis shooter &#x27;expressed hate towards almost every group imaginable&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/multiple-minneapolis-shooting-victims-released-hospital-police-chief/story?id=125049583" target="_blank">Minneapolis shooter &#x27;expressed hate towards almost every group imaginable&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-28 19:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +98,20 @@
                 <span class="time">2025-08-28 16:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/28/israel-steps-up-bombardment-of-gaza-city-killing-at-least-24-people?traffic_source=rss" target="_blank">Israel steps up bombardment of Gaza City, killing at least 24 people</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-28 15:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68a759e0f037868f363f87b9/master/pass/Apple-Movie-Guide-Culture-Highest_2_Lowest_Photo_0101.jpg" alt="The 29 Best Movies on Apple TV+ Right Now (September 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-apple-tv-plus-movies/" target="_blank">The 29 Best Movies on Apple TV+ Right Now (September 2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-28 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/07/password-login-500x500.jpeg" alt="High-severity vulnerability in Passwordstate credential manager. Patch now." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,20 +157,47 @@
                 <span class="time">2025-08-28 17:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/28/mathgpt-the-cheat-proof-ai-tutor-and-teaching-assistant-expands-to-over-50-institutions/" target="_blank">MathGPT, the ‘cheat-proof’ AI tutor and teaching assistant, expands to over 50 institutions</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-28 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/uno-platform/10-common-xaml-ui-problems-and-how-hot-design-fixes-them-5a0f" target="_blank">10 Common XAML UI Problems (and How Hot Design Fixes Them)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-28 19:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://notebooks.manganiello.tech/fabio/wealth-inequality.ipynb" target="_blank">Simulating wealth distribution in an agent-based system</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-08-28 19:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/maintainers/how-github-models-can-help-open-source-maintainers-focus-on-what-matters/" target="_blank">How GitHub Models can help open source maintainers focus on what matters</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-08-28 19:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18582655&w=600" alt="Beyond Keys and Values: Structuring Data in Redis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/designing-redis-keys-and-data-structure" target="_blank">Beyond Keys and Values: Structuring Data in Redis</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-28 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -186,47 +216,20 @@
                 <span class="time">2025-08-28 18:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18582644&w=600" alt="Building Recommendation Engines With AI and SQL" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-recommendation-engines-with-your-data-wit" target="_blank">Building Recommendation Engines With AI and SQL</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-28 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bezal_benny_68a567103f98c/most-affordable-website-design-companies-in-edmonton-2025-pricing-comparison-h6o" target="_blank">Most Affordable Website Design Companies in Edmonton (2025 Pricing Comparison)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-28 17:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/stk-evolution.jpg?resize=406%2C232&amp;ssl=1" alt="SuperTuxKart Evolution Aims to Accelerate Development of Iconic Racing Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/supertuxkarts-stable-release-pitstop-opens-up-potential" target="_blank">SuperTuxKart Evolution Aims to Accelerate Development of Iconic Racing Game</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-28 17:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-we-accelerated-secret-protection-engineering-with-copilot/" target="_blank">How we accelerated Secret Protection engineering with Copilot</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-08-28 17:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/" target="_blank">Affiliates Flock to ‘Soulless’ Scam Gambling Machine</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-08-28 17:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -241,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/GDTtopart.jpg" alt="10 Creepy-Cool Items You Can Buy From Guillermo del Toro’s Collection" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/10-creepy-cool-items-you-can-buy-from-guillermo-del-toros-collection-2000649891" target="_blank">10 Creepy-Cool Items You Can Buy From Guillermo del Toro’s Collection</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-28 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/09/ast-spacemobile-bluewalker-satellite.jpg" alt="Satellite Companies Like SpaceX Are Ignoring Astronomers’ Calls to Save the Night Sky" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +298,6 @@
                 <span class="time">2025-08-28 17:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/website-stock.jpg" alt="Figma-Killer Framer Valued at $2B in New Funding Round As No-Code Heats Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/framer-figma-killer-2000649692" target="_blank">Figma-Killer Framer Valued at $2B in New Funding Round As No-Code Heats Up</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-28 15:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
