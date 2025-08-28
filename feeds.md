@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-27 23:02:02 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-28 00:04:49 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, August 27, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, August 28, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/principal-presser-ap-jt-250827_1756331532546_hpMain_4x3t_384.jpg" alt="Catholic school principal begs for action after mass shooting: &#x27;Never again&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/GMA/News/principal-speaks-after-minnesota-catholic-school-shooting/story?id=125039128" target="_blank">Catholic school principal begs for action after mass shooting: &#x27;Never again&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-27 23:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1756336241108_nn_mve_investigtors_identify_shooter_in_minneapolis_church_shooting_250827_1920x1080-32rac1.jpg" alt="Investigators identify shooter in Minneapolis church shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/investigators-identify-shooter-in-minneapolis-church-shooting-245925445525" target="_blank">Investigators identify shooter in Minneapolis church shooting</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-27 23:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +97,6 @@
                 <span class="title"><a href="https://news.sky.com/story/all-members-of-un-security-council-except-us-say-gaza-famine-is-manmade-crisis-13419578" target="_blank">All members of UN Security Council except US say Gaza famine is &#x27;manmade crisis&#x27;</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-08-27 19:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/08/27/nx-s1-5515503/fda-covid-vaccines-restricted" target="_blank">The latest COVID vaccines come with new FDA limits</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-27 19:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/8/27/will-a-un-funding-shortfall-affect-investigations-into-israels-crimes?traffic_source=rss" target="_blank">Will a UN funding shortfall affect investigations into Israel’s crimes?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-27 19:34</span>
             </div>
         </div>
 </div>
@@ -172,12 +173,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/08/remix-run-v3-drops-react/en/headerimage/generatedHeaderImage-1756331088916.jpg" alt="Remix Reimagined: V3 Will Drop React for a Fork of Preact" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/remix-run-v3-drops-react/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Remix Reimagined: V3 Will Drop React for a Fork of Preact</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-27 22:41</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/LF-Networking-Essedum-1.0" target="_blank">Linux Foundation Networking Releases Essedum 1.0 For AI-Native Network Apps</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-27 21:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://yamanot.es/" target="_blank">Yamanot.es: A music box of train station melodies from the JR Yamanote Line</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-27 21:08</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +215,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/08/agents-md/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AGENTS.md Emerges as Open Standard for AI Coding Agents</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-08-27 20:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/ubuntu-questing.jpg?resize=406%2C232&amp;ssl=1" alt="New Apps Arrive in Ubuntu 25.10 Dev Builds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/new-apps-arrive-in-ubuntu-25-10-daily-builds" target="_blank">New Apps Arrive in Ubuntu 25.10 Dev Builds</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-27 20:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/x86-EAG-FRED-AVX10-APX" target="_blank">x86 Ecosystem Advisory Group Aligning On FRED, AVX10 &amp; APX</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-27 19:58</span>
             </div>
         </div>
 </div>
@@ -235,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Susan-Monarez.jpg" alt="CDC Director Denies Report She’s Been Fired by Trump Regime (HHS Says She’s Out)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/cdc-resignations-susan-monarez-denial-rfk-vaccines-2000649469" target="_blank">CDC Director Denies Report She’s Been Fired by Trump Regime (HHS Says She’s Out)</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-28 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K3M0AQTVMA2RTMC49EA6C86A/hero-image.png" alt="The Best Labor Day Deals on Phones, Laptops, TVs, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/phone-laptop-tv-headphones-sales-labor-day-2025?utm_medium=RSS" target="_blank">The Best Labor Day Deals on Phones, Laptops, TVs, and More</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-27 22:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Weapons-Gladys-Amy-Madigan.jpg" alt="One of the Most Shocking Scenes in ‘Weapons’ Is Now Online" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +288,6 @@
                 <span class="title"><a href="https://kotaku.com/spider-man-ps4-pc-multiplayer-mod-great-web-insomniac-2000620767" target="_blank">Oh Wow, Spider-Man Multiplayer Is Here And It Looks Amazing</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-08-27 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/cannabis.jpg?fit=1500%2C1071&amp;quality=60&amp;ssl=1" alt="FBI and Secret Service agents deployed to handle $25 weed buys in DC" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/27/fbi-and-secret-service-agents-deployed-to-handle-25-weed-buys-in-dc.html" target="_blank">FBI and Secret Service agents deployed to handle $25 weed buys in DC</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-27 20:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/1600_Cassidy.jpg" alt="Overwatch 2 Broke The Cowboy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/overwatch-2-season-18-patch-cassidy-wrecking-ball-bug-2000620763" target="_blank">Overwatch 2 Broke The Cowboy</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-27 19:44</span>
             </div>
         </div>
 </div>
@@ -335,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
