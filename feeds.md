@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-28 00:04:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-28 01:29:03 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, August 28, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, August 28, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/27/g-s1-85911/cdc-director-susan-monarez-ousted-leaders-resign" target="_blank">CDC director is out after less than a month; other agency leaders resign</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-28 00:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/GMA/principal-presser-ap-jt-250827_1756331532546_hpMain_4x3t_384.jpg" alt="Catholic school principal begs for action after mass shooting: &#x27;Never again&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +100,20 @@
                 <span class="time">2025-08-27 20:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-gaza-city-gaza-displaced_7002760.jpg?20250827162350" alt="All members of UN Security Council except US say Gaza famine is &#x27;manmade crisis&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/all-members-of-un-security-council-except-us-say-gaza-famine-is-manmade-crisis-13419578" target="_blank">All members of UN Security Council except US say Gaza famine is &#x27;manmade crisis&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-27 19:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/27/with-indias-corporate-banking-lagging-decades-behind-consumer-fintech-transbnk-raises-25m-to-bridge-the-gap/" target="_blank">With India’s corporate banking lagging decades behind consumer fintech, TransBnk raises $25M to bridge the gap</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-28 00:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +159,20 @@
                 <span class="time">2025-08-27 20:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2014/01/SALMON_1-500x500.jpg" alt="CDC slashed food safety surveillance, now tracks only 2 of 8 top infections" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/08/cdc-stopped-actively-tracking-6-foodborne-infections-amid-budget-cuts/" target="_blank">CDC slashed food safety surveillance, now tracks only 2 of 8 top infections</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-27 20:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yc_lee_53e583a776a9c56e3/taskcreate-etl-pipeline-service-skeleton-2mpd" target="_blank">Task:Create ETL pipeline service skeleton</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-28 01:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/shohams/gpu-container-checkpointrestore-with-criugpu-zero-downtime-live-migration-for-ml-workloads-342a" target="_blank">GPU Container Checkpoint/Restore with CRIUgpu: Zero-Downtime Live Migration for ML Workloads</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-27 20:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/agents-md/en/headerimage/generatedHeaderImage-1756326090568.jpg" alt="AGENTS.md Emerges as Open Standard for AI Coding Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/agents-md/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AGENTS.md Emerges as Open Standard for AI Coding Agents</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-27 20:40</span>
             </div>
         </div>
 </div>
@@ -264,6 +265,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Internxt-Cloud-Storage.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Dump your cloud subscription like a bad situationship—Internxt&#x27;s 20TB cloud is the one you need" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/27/dump-your-cloud-subscription-like-a-bad-situationship-internxts-20tb-cloud-is-the-one-you-need.html" target="_blank">Dump your cloud subscription like a bad situationship—Internxt&#x27;s 20TB cloud is the one you need</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-27 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K3PKVCJ75CWN8W8W5EMZ841C/hero-image.png" alt="These Sonos Speakers Are on Sale for Labor Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -279,15 +289,6 @@
                 <span class="title"><a href="https://gizmodo.com/fema-staffers-warned-of-looming-katrina-level-disaster-then-got-suspended-2000649312" target="_blank">FEMA Staffers Warned of Looming ‘Katrina-Level’ Disaster, Then Got Suspended</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-27 20:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/spiderermerna.jpg" alt="Oh Wow, Spider-Man Multiplayer Is Here And It Looks Amazing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/spider-man-ps4-pc-multiplayer-mod-great-web-insomniac-2000620767" target="_blank">Oh Wow, Spider-Man Multiplayer Is Here And It Looks Amazing</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-27 20:45</span>
             </div>
         </div>
 </div>
@@ -322,22 +323,13 @@
                 <span class="time">2025-08-27 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5644.png" alt="Yay, Explaining" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5644" target="_blank">Yay, Explaining</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-08-27 00:17</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
