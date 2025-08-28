@@ -1,40 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-28 05:01:54 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-28 06:02:12 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 32 feeds processed -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, August 28, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, August 28, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/28/north-koreas-kim-putin-to-attend-parade-in-china-marking-end-of-wwii?traffic_source=rss" target="_blank">North Korea’s Kim, Putin to attend parade in China marking end of WWII</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-28 05:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +100,6 @@
                 <span class="title"><a href="https://abcnews.go.com/GMA/News/principal-speaks-after-minnesota-catholic-school-shooting/story?id=125039128" target="_blank">Catholic school principal begs for action after mass shooting: &#x27;Never again&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-27 23:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1756336241108_nn_mve_investigtors_identify_shooter_in_minneapolis_church_shooting_250827_1920x1080-32rac1.jpg" alt="Investigators identify shooter in Minneapolis church shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/investigators-identify-shooter-in-minneapolis-church-shooting-245925445525" target="_blank">Investigators identify shooter in Minneapolis church shooting</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-27 23:10</span>
             </div>
         </div>
 </div>
@@ -169,6 +167,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://community.broadcom.com/tanzu/blogs/beltran-rueda-borrego/2025/08/18/how-to-prepare-for-the-bitnami-changes-coming-soon" target="_blank">The Deletion of Docker.io/Bitnami</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-28 04:37</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="A single word, tone shift, or framing in the prompt can completely change the quality of your output. That’s the psychology of prompts, and mastering it is what separates casual users from experts." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -213,15 +220,6 @@
                 <span class="time">2025-08-27 22:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/remix-run-v3-drops-react/en/headerimage/generatedHeaderImage-1756331088916.jpg" alt="Remix Reimagined: V3 Will Drop React for a Fork of Preact" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/remix-run-v3-drops-react/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Remix Reimagined: V3 Will Drop React for a Fork of Preact</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-27 22:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -248,6 +246,15 @@
                 <span class="title"><a href="https://gizmodo.com/whale-sharks-are-getting-brutalized-by-tourists-and-fishers-2000649071" target="_blank">Nearly Every Whale Shark at This Tourist Destination Bears Human-Made Scars</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-28 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/shutterstock_1362180764.jpg?fit=1000%2C664&amp;quality=60&amp;ssl=1" alt="Cops now watching Florida&#x27;s painted-over Pride crosswalks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/27/cops-now-watching-floridas-painted-over-pride-crosswalks.html" target="_blank">Cops now watching Florida&#x27;s painted-over Pride crosswalks</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-28 01:42</span>
             </div>
         </div>
 <div class="story">
@@ -284,15 +291,6 @@
                 <span class="title"><a href="https://gizmodo.com/one-of-the-most-shocking-scenes-in-weapons-is-now-online-2000649400" target="_blank">One of the Most Shocking Scenes in ‘Weapons’ Is Now Online</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-27 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Internxt-Cloud-Storage.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Dump your cloud subscription like a bad situationship—Internxt&#x27;s 20TB cloud is the one you need" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/27/dump-your-cloud-subscription-like-a-bad-situationship-internxts-20tb-cloud-is-the-one-you-need.html" target="_blank">Dump your cloud subscription like a bad situationship—Internxt&#x27;s 20TB cloud is the one you need</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-27 21:00</span>
             </div>
         </div>
 </div>
@@ -342,7 +340,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 05:02 UTC
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
