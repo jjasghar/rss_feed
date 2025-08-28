@@ -1,28 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-28 08:02:07 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2025-08-28 09:01:59 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 20 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, August 28, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, August 28, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/8/28/from-anti-wokeness-to-the-confederate-states-of-america?traffic_source=rss" target="_blank">From Anti-Wokeness to the Confederate States of America</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-28 08:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,15 +95,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/czr6zmd5d0ro?at_medium=RSS&at_campaign=rss" target="_blank">Starmer to replace third top aide in less than a year</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-28 05:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/28/north-koreas-kim-putin-to-attend-parade-in-china-marking-end-of-wwii?traffic_source=rss" target="_blank">North Korea’s Kim, Putin to attend parade in China marking end of WWII</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-28 05:19</span>
             </div>
         </div>
 </div>
@@ -157,6 +162,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/articles/virtual-think-tank/en/headerimage/virtual-think-tank-header-1756195695462.jpg" alt="Article: The Virtual Think Tank: Using LLMs to Get a Multitude of Perspectives" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/virtual-think-tank/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: The Virtual Think Tank: Using LLMs to Get a Multitude of Perspectives</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-28 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-35/" target="_blank">FOSS Weekly #25.35: New Gerhwin DE, grep Command, Nitro init system, KDE Customization and More Linux Stuff</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-08-28 05:50</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -190,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/yc_lee_53e583a776a9c56e3/taskcreate-etl-pipeline-service-skeleton-2mpd" target="_blank">Task:Create ETL pipeline service skeleton</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-28 01:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329411" target="_blank">Altered states of consciousness induced by breathwork accompanied by music</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-28 00:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/asx/dev-log-12-4c0f" target="_blank">Dev Log 12</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-27 22:42</span>
             </div>
         </div>
 </div>
@@ -320,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
