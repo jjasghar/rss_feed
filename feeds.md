@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-28 06:02:12 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-08-28 07:01:44 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, August 28, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, August 28, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/28/nx-s1-5518838/denmark-us-envoy-interference-greenland" target="_blank">Denmark summons US envoy over claims of interference in Greenland</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-28 06:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e83/live/2bb0d180-8361-11f0-b3de-c13d348c14aa.jpg" alt="Starmer to replace third top aide in less than a year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czr6zmd5d0ro?at_medium=RSS&at_campaign=rss" target="_blank">Starmer to replace third top aide in less than a year</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-28 05:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,30 +91,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b702/live/6e619c40-8392-11f0-ab3e-bd52082cd0ae.jpg" alt="FBI investigates Minneapolis school shooting as anti-Catholic hate crime" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/8/28/chip-giant-nvidias-sales-rise-56-in-boost-for-ai-boom?traffic_source=rss" target="_blank">Chip giant Nvidia’s sales rise 56% in boost for AI boom</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-28 01:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/27/g-s1-85911/cdc-director-susan-monarez-ousted-leaders-resign" target="_blank">CDC director is out after less than a month; other agency leaders resign</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-28 00:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/principal-presser-ap-jt-250827_1756331532546_hpMain_4x3t_384.jpg" alt="Catholic school principal begs for action after mass shooting: &#x27;Never again&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/GMA/News/principal-speaks-after-minnesota-catholic-school-shooting/story?id=125039128" target="_blank">Catholic school principal begs for action after mass shooting: &#x27;Never again&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-27 23:24</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c7760x87r4po?at_medium=RSS&at_campaign=rss" target="_blank">FBI investigates Minneapolis school shooting as anti-Catholic hate crime</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-28 02:28</span>
             </div>
         </div>
 </div>
@@ -107,6 +104,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/27/maisa-ai-gets-25m-to-fix-enterprise-ais-95-failure-rate/" target="_blank">Maisa AI gets $25M to fix enterprise AI’s 95% failure rate</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-28 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +156,6 @@
                 <span class="title"><a href="https://arstechnica.com/health/2025/08/report-cdc-director-being-ousted-just-weeks-after-senate-confirmation/" target="_blank">CDC director has been ousted just weeks after Senate confirmation</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-08-27 21:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/27/nvidia-reports-record-sales-as-the-ai-boom-continues/" target="_blank">Nvidia reports record sales as the AI boom continues</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-27 21:18</span>
             </div>
         </div>
 </div>
@@ -325,22 +322,13 @@
                 <span class="time">2025-08-27 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/08/27/unphased" target="_blank">Unphased</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-08-27 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
