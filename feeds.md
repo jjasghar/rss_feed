@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-08-28 01:29:03 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-28 02:28:18 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, August 28, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, August 28, 2025 - 02:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/8/28/chip-giant-nvidias-sales-rise-56-in-boost-for-ai-boom?traffic_source=rss" target="_blank">Chip giant Nvidia’s sales rise 56% in boost for AI boom</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-28 01:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,6 +78,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45a5/live/7ce93c70-835e-11f0-a34f-318be3fb0481.jpg" alt="A charity is giving people money to stop homelessness - and it says it&#x27;s working" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce83716edj1o?at_medium=RSS&at_campaign=rss" target="_blank">A charity is giving people money to stop homelessness - and it says it&#x27;s working</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-27 23:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -82,29 +95,20 @@
                 <span class="time">2025-08-27 22:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/27/nx-s1-5498669/trump-college-international-student-visa" target="_blank">Colleges see significant drop in international students as fall semester begins</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-27 20:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1756325265056_nbc_spec_yt_manifesto_250827_1920x1080-xu4yvq.jpg" alt="Minneapolis shooter had manifesto timed to post on YouTube, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/minneapolis-shooter-had-manifesto-timed-to-post-on-youtube-officials-say-245894725993" target="_blank">Minneapolis shooter had manifesto timed to post on YouTube, officials say</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-27 20:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/767251/microsoft-fires-two-employees-building-34-brad-smith-office-protest" target="_blank">Microsoft fires two employee protesters who occupied its president&amp;#8217;s office</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-28 01:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +154,20 @@
                 <span class="time">2025-08-27 21:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/27/google-launches-new-device-protection-program-called-pixel-care/" target="_blank">Google launches new device protection program called Pixel Care+</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-27 20:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fccbzen180ik7d4vmk98g.png" alt="AWS Savings Plans doesn&#x27;t assure cost savings; Tracking &amp; Amending with AWS Budgets does !!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/aws-savings-plans-doesnt-assure-cost-savings-tracking-amending-with-aws-budgets-does--261i" target="_blank">AWS Savings Plans doesn&#x27;t assure cost savings; Tracking &amp; Amending with AWS Budgets does !!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-28 02:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +211,6 @@
                 <span class="title"><a href="https://yamanot.es/" target="_blank">Yamanot.es: A music box of train station melodies from the JR Yamanote Line</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-27 21:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shohams/gpu-container-checkpointrestore-with-criugpu-zero-downtime-live-migration-for-ml-workloads-342a" target="_blank">GPU Container Checkpoint/Restore with CRIUgpu: Zero-Downtime Live Migration for ML Workloads</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-27 20:52</span>
             </div>
         </div>
 </div>
@@ -323,13 +318,22 @@
                 <span class="time">2025-08-27 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/wavefunction_collapse.png" alt="Wavefunction Collapse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3134/" target="_blank">Wavefunction Collapse</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-08-27 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 272 |
+        🔄 Last Updated: 02:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
