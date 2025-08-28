@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-28 16:02:00 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-28 17:01:37 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, August 28, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, August 28, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/28/un-security-council-renews-unifil-mission-in-lebanon-until-end-of-2026?traffic_source=rss" target="_blank">UN Security Council votes to wind down UNIFIL mission in Lebanon after 2026</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-28 16:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9641/live/e657edf0-83ef-11f0-ab3e-bd52082cd0ae.jpg" alt="European leaders outraged after Russian strikes kill 19 and damage EU&#x27;s HQ" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvg3y7m2gz0o?at_medium=RSS&at_campaign=rss" target="_blank">European leaders outraged after Russian strikes kill 19 and damage EU&#x27;s HQ</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-28 16:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +97,20 @@
                 <span class="time">2025-08-28 14:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/longform/2025/8/28/a-finger-on-the-scale-inside-the-us-supreme-courts-shadow-docket?traffic_source=rss" target="_blank">‘A finger on the scale’? Inside the US Supreme Court’s ‘shadow docket’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-28 13:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5e0/live/319334d0-8401-11f0-a3f8-9b56bf5c3841.jpg" alt="Epping hotel order could spark protests, court told" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cpqv01lxvyro?at_medium=RSS&at_campaign=rss" target="_blank">Epping hotel order could spark protests, court told</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-28 13:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/28/threads-tests-a-way-to-share-long-form-text-on-the-platform/" target="_blank">Threads tests a way to share long-form text on the platform</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-28 17:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +156,29 @@
                 <span class="time">2025-08-28 13:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68563692fd268ad4c81d6dc3/master/pass/The%2014%20Best%20Office%20Chairs.png" alt="14 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-office-chairs/" target="_blank">14 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-28 12:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/5416b4b5-fa65-491d-973d-a0e7a942ebcf_420x300.png" alt="The Pulse #144: Rare look into AWS’s PR/FAQ process" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-144" target="_blank">The Pulse #144: Rare look into AWS’s PR/FAQ process</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-08-28 16:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18582329&w=600" alt="Designing Scalable Ingestion and Access Layers for Policy and Enforcement Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/scalable-data-ingestion-access-policy-enforcement" target="_blank">Designing Scalable Ingestion and Access Layers for Policy and Enforcement Data</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-28 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Apple-M2-Pro-Max-Ultra-DT" target="_blank">Apple M2 Pro / Max / Ultra Device Trees Under Review For The Linux Kernel</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-28 14:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.jeffgeerling.com/blog/2025/how-install-truenas-on-raspberry-pi" target="_blank">How to Install TrueNAS on a Raspberry Pi</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-28 14:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18582517&w=600" alt="Cry and Authenticate How AI is Changing Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-psychology-future-authentication" target="_blank">Cry and Authenticate How AI is Changing Security</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-28 14:00</span>
             </div>
         </div>
 </div>
@@ -331,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
