@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-28 18:01:59 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-28 19:01:40 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 31 feeds processed -->
+<!-- Generated 13 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, August 28, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, August 28, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/28/nx-s1-5520588/dc-union-station-federal-government" target="_blank">The federal government is taking over D.C.&#x27;s Union Station. What does that mean?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-28 18:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +104,38 @@
                 <span class="time">2025-08-28 15:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/28/nx-s1-5520698/alligator-alcatraz-detention-facility-empty" target="_blank">Florida&#x27;s &#x27;Alligator Alcatraz&#x27; detention facility to be empty &#x27;within a few days&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-28 15:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/07/password-login-500x500.jpeg" alt="High-severity vulnerability in Passwordstate credential manager. Patch now." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/08/high-severity-vulnerability-in-passwordstate-credential-manager-patch-now/" target="_blank">High-severity vulnerability in Passwordstate credential manager. Patch now.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-28 18:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/767711/google-pixel-care-plus-free-screen-and-battery-repair" target="_blank">Google’s Pixel Care Plus includes free screen and battery repair</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-28 18:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68af4c85d3d0e2d6104b9c13/master/pass/Uncanny-Valley-Doomscrolling-Toxic-Internet-Culture-2178482298.jpg" alt="This Is How You Log Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-this-is-how-you-log-off/" target="_blank">This Is How You Log Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-28 17:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,38 +163,38 @@
                 <span class="time">2025-08-28 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/767156/gaming-grief" target="_blank">My gaming buddy</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-28 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/28/ai-hires-or-human-hustle-inside-the-next-frontier-of-startup-operations-at-techcrunch-disrupt-2025/" target="_blank">AI hires or human hustle? Inside the next frontier of startup operations at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-28 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68af82aa07d23a796916eba5/master/pass/UPDATE-%20Best%20Red%20Light%20Therapy%20Masks_.png_.png" alt="4 Best Red-Light Therapy Masks and LED Devices of 2025, Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/led-face-masks-and-red-light-therapy/" target="_blank">4 Best Red-Light Therapy Masks and LED Devices of 2025, Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-28 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kevinasutton/how-do-you-see-ai-tools-like-github-copilot-changing-the-role-of-developers-over-the-next-5-years-4a86" target="_blank">How do you see AI tools like GitHub Copilot changing the role of developers over the next 5 years?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-28 18:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/dowload-now-questing.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Snapshot 4 is Available to Download" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/ubuntu-25-10-snapshot-4-is-available-to-download" target="_blank">Ubuntu 25.10 Snapshot 4 is Available to Download</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-28 18:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18582644&w=600" alt="Building Recommendation Engines With AI and SQL" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-recommendation-engines-with-your-data-wit" target="_blank">Building Recommendation Engines With AI and SQL</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-28 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,33 +222,6 @@
                 <span class="time">2025-08-28 17:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://www.youtube.com/watch?v=GfH4QL4VqJ0" target="_blank">Python: The Documentary, An origin story</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-08-28 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18582616&w=600" alt="Practical Guide to Snowflake Performance Tuning With SQL and AI Enhancements" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/optimize-snowflake-performance" target="_blank">Practical Guide to Snowflake Performance Tuning With SQL and AI Enhancements</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-28 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/5416b4b5-fa65-491d-973d-a0e7a942ebcf_420x300.png" alt="The Pulse #144: Rare look into AWS’s PR/FAQ process" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-144" target="_blank">The Pulse #144: Rare look into AWS’s PR/FAQ process</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-08-28 16:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +241,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/09/ast-spacemobile-bluewalker-satellite.jpg" alt="Satellite Companies Like SpaceX Are Ignoring Astronomers’ Calls to Save the Night Sky" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/satellite-companies-like-spacex-are-ignoring-astronomers-calls-to-save-the-night-sky-2000649645" target="_blank">Satellite Companies Like SpaceX Are Ignoring Astronomers’ Calls to Save the Night Sky</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-28 18:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/sqinks.jpeg?fit=1200%2C875&amp;quality=60&amp;ssl=1" alt="Cyberpunk pioneer Rudy Rucker is back with &quot;Sqinks,&quot; a novel about AI-like aliens replacing human brains." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/28/rudy-rucker-sqinks.html" target="_blank">Cyberpunk pioneer Rudy Rucker is back with &quot;Sqinks,&quot; a novel about AI-like aliens replacing human brains.</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-28 18:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/kamrui-mini-pc-512.jpg" alt="This Kamrui Mini PC (16GB RAM, 512GB) Is Going Like Hotcakes, Amazon Slashes It to a Record Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-kamrui-mini-pc-16gb-ram-512gb-is-going-like-hotcakes-amazon-slashes-it-to-a-record-low-2000620946" target="_blank">This Kamrui Mini PC (16GB RAM, 512GB) Is Going Like Hotcakes, Amazon Slashes It to a Record Low</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-28 18:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K3RRYBXWQW081EAW6S0J9ZT3/hero-image.png" alt="My Favorite Amazon Deal of the Day: The Hisense 100&quot; Class U8 TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,33 +295,6 @@
                 <span class="time">2025-08-28 15:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K3RGSYYD9Y2XGTSTAAD7B0CB/hero-image.jpg" alt="Insta360&#x27;s 4K Gimbal Webcam Is $50 Off for Labor Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/insta360-4k-gimbal-webcam-sale-labor-day-2025?utm_medium=RSS" target="_blank">Insta360&#x27;s 4K Gimbal Webcam Is $50 Off for Labor Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-28 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/morncheckp.jpg" alt="Capcom Has Reportedly Tried And Failed To Remake Dino Crisis A Few Times" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dino-crisis-remake-capcom-2000620968" target="_blank">Capcom Has Reportedly Tried And Failed To Remake Dino Crisis A Few Times</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-28 15:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2GHC3JQ57NNDZ7DW84E4GG/hero-image.jpg" alt="The 30 Best Original Shows Streaming on HBO Max Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/best-max-original-shows?utm_medium=RSS" target="_blank">The 30 Best Original Shows Streaming on HBO Max Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-28 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,22 +318,13 @@
                 <span class="time">2025-08-28 01:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/08/27/pax-west-2025-catalogue" target="_blank">PAX West 2025 Catalog!</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-08-27 18:21</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
