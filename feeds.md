@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-28 22:01:54 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-28 23:01:47 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Thursday, August 28, 2025 - 22:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, August 28, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/28/nx-s1-5521340/kids-children-heroism-church-shooting-minneapolis" target="_blank">Middle schoolers are lauded for protecting younger kids during church shooting</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-28 22:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +100,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/multiple-minneapolis-shooting-victims-released-hospital-police-chief/story?id=125049583" target="_blank">Minneapolis shooter &#x27;expressed hate towards almost every group imaginable&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-28 19:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9641/live/e657edf0-83ef-11f0-ab3e-bd52082cd0ae.jpg" alt="European leaders outraged after Russian strikes kill 21 and damage EU&#x27;s HQ" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvg3y7m2gz0o?at_medium=RSS&at_campaign=rss" target="_blank">European leaders outraged after Russian strikes kill 21 and damage EU&#x27;s HQ</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-28 18:51</span>
             </div>
         </div>
 </div>
@@ -165,9 +170,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jackie-yins/semantic-html-3i0i" target="_blank">SEMANTIC HTML</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-28 22:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/farhan_khan_41ec7ff11ac1d/langgraph-core-concepts-45e8" target="_blank">LangGraph: Core Concepts</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-28 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-AMD-EPYC-Turin" target="_blank">Linux 6.17 Showing Off Some Nice Gains For 5th Gen AMD EPYC &quot;Turin&quot; Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-28 20:37</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +218,6 @@
                 <span class="title"><a href="https://github.blog/open-source/maintainers/how-github-models-can-help-open-source-maintainers-focus-on-what-matters/" target="_blank">How GitHub Models can help open source maintainers focus on what matters</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2025-08-28 19:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18582655&w=600" alt="Beyond Keys and Values: Structuring Data in Redis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/designing-redis-keys-and-data-structure" target="_blank">Beyond Keys and Values: Structuring Data in Redis</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-28 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kevinasutton/how-do-you-see-ai-tools-like-github-copilot-changing-the-role-of-developers-over-the-next-5-years-4a86" target="_blank">How do you see AI tools like GitHub Copilot changing the role of developers over the next 5 years?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-28 18:49</span>
             </div>
         </div>
 </div>
@@ -253,6 +258,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/somepig-e1756416880781.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Pig lung transplanted into brain-dead human" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/28/pig-lung-transplanted-into-brain-dead-human.html" target="_blank">Pig lung transplanted into brain-dead human</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-28 21:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Harris.jpg" alt="A Small Army of Overpaid TikTokers Is Not Going to Save the Democratic Party" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -288,15 +302,6 @@
                 <span class="time">2025-08-28 18:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/sqinks.jpeg?fit=1200%2C875&amp;quality=60&amp;ssl=1" alt="Cyberpunk pioneer Rudy Rucker is back with &quot;Sqinks,&quot; a novel about AI-like aliens replacing human brains." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/28/rudy-rucker-sqinks.html" target="_blank">Cyberpunk pioneer Rudy Rucker is back with &quot;Sqinks,&quot; a novel about AI-like aliens replacing human brains.</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-28 18:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
