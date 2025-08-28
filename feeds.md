@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-28 13:09:12 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-28 14:01:46 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 14 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, August 28, 2025 - 13:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, August 28, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/longform/2025/8/28/a-finger-on-the-scale-inside-the-us-supreme-courts-shadow-docket?traffic_source=rss" target="_blank">‘A finger on the scale’? Inside the US Supreme Court’s ‘shadow docket’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-28 13:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5e0/live/319334d0-8401-11f0-a3f8-9b56bf5c3841.jpg" alt="Epping hotel order could spark protests, court told" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cpqv01lxvyro?at_medium=RSS&at_campaign=rss" target="_blank">Epping hotel order could spark protests, court told</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-28 13:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/minneapolis-shooting-scene-rt-jef-250828_1756381281521_hpMain_4x3t_384.jpg" alt="Girl shot in head asked bystander, &#x27;Please just hold my hand&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,29 +96,38 @@
                 <span class="time">2025-08-28 11:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1756380344952_tdy_news_7a_minneapolis_police_chief_250828_1920x1080-lucpt3.jpg" alt="Minneapolis Police Chief Shares Update on Church Shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/minneapolis-police-chief-shares-update-on-church-shooting-245957701535" target="_blank">Minneapolis Police Chief Shares Update on Church Shooting</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-28 11:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/717b/live/716dbea0-83f1-11f0-b391-6936825093bd.jpg" alt="&#x27;My friend got hit in the back&#x27;: Witnesses describe terror of US school shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cev2w1elx7wo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;My friend got hit in the back&#x27;: Witnesses describe terror of US school shooting</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-28 10:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/767156/gaming-grief" target="_blank">My gaming buddy</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-28 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/28/ai-hires-or-human-hustle-inside-the-next-frontier-of-startup-operations-at-techcrunch-disrupt-2025/" target="_blank">AI hires or human hustle? Inside the next frontier of startup operations at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-28 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/945-500x500.jpg" alt="As GM prepares to switch its EVs to NACS, it has some new adapters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/08/gm-announces-new-nacs-and-ccs1-adapters-coming-next-week/" target="_blank">As GM prepares to switch its EVs to NACS, it has some new adapters</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-28 13:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68563692fd268ad4c81d6dc3/master/pass/The%2014%20Best%20Office%20Chairs.png" alt="14 Best Office Chairs of 2025— I’ve Tested Nearly 60 to Pick Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -129,33 +155,6 @@
                 <span class="time">2025-08-28 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68af84fadad329262ceb83de/master/pass/Review-%20Kindle%20Colorsoft%20Kids.png" alt="Kindle Colorsoft Kids Review (2025): Great for All Ages" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/kindle-colorsoft-kids-2025/" target="_blank">Kindle Colorsoft Kids Review (2025): Great for All Ages</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-28 11:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/28/more-than-10-european-startups-became-unicorns-this-year/" target="_blank">More than 10 European startups became unicorns this year</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-28 09:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/27/maisa-ai-gets-25m-to-fix-enterprise-ais-95-failure-rate/" target="_blank">Maisa AI gets $25M to fix enterprise AI’s 95% failure rate</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-28 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +167,24 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/08/28/moving-the-public-stack-overflow-sites-to-the-cloud-part-1/" target="_blank">Moving the public Stack Overflow sites to the cloud: Part 1</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-08-28 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsfy4y5grw158vq3kxohs.png" alt="Unleash the Neovim Beast: Master Your LazyVim Setup with Real Developer Workflows (Part 3)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/crafts69guy/unleash-the-neovim-beast-master-your-lazyvim-setup-with-real-developer-workflows-part-3-1cmc" target="_blank">Unleash the Neovim Beast: Master Your LazyVim Setup with Real Developer Workflows (Part 3)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-28 13:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.jeffschomay.com/rendering-a-game-in-real-time-with-ai" target="_blank">Rendering a Game in Real-Time with AI</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-28 12:10</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +214,6 @@
                 <span class="time">2025-08-28 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1155%2F1%2AoHpNq3hmDPAXSVaF6qRwgw.png" alt="The complete guide to Docker Offload. Beta mode was just launched." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dev_tips/the-complete-guide-to-docker-offload-beta-mode-was-just-launched-1ik8" target="_blank">The complete guide to Docker Offload. Beta mode was just launched.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-28 10:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Arch-Optimized-BLAKE2s-Default" target="_blank">Linux Patches To Unconditionally Enable Architecture-Optimized BLAKE2s Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-28 10:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/mnn-portable-monitor-fhd.jpg" alt="This 15″ Portable Gaming Monitor Now Costs Peanuts, Amazon Goes Big for Labor Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-15-portable-gaming-monitor-now-costs-peanuts-amazon-goes-big-for-labor-day-2000620939" target="_blank">This 15″ Portable Gaming Monitor Now Costs Peanuts, Amazon Goes Big for Labor Day</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-28 13:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K3QK49GH31YP5NMCVCJ4C6EH/hero-image.png" alt="Roku&#x27;s Streaming Stick Plus Is at Its Lowest Price Ever for Labor Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/roku-streaming-stick-plus-sale-labor-day-2025?utm_medium=RSS" target="_blank">Roku&#x27;s Streaming Stick Plus Is at Its Lowest Price Ever for Labor Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-28 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Spider-Man.jpg" alt="Jackie Chan’s Stunt Team Join ‘Spider-Man: Brand New Day’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +285,6 @@
                 <span class="title"><a href="https://gizmodo.com/whale-sharks-are-getting-brutalized-by-tourists-and-fishers-2000649071" target="_blank">Nearly Every Whale Shark at This Tourist Destination Bears Human-Made Scars</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-28 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/shutterstock_1362180764.jpg?fit=1000%2C664&amp;quality=60&amp;ssl=1" alt="Cops now watching Florida&#x27;s painted-over Pride crosswalks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/27/cops-now-watching-floridas-painted-over-pride-crosswalks.html" target="_blank">Cops now watching Florida&#x27;s painted-over Pride crosswalks</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-28 01:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/59be76c0-81ba-11f0-a34f-318be3fb0481.jpg.webp?fit=1536%2C1152&amp;quality=55&amp;ssl=1" alt="Punk ankylosaurus discovered" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/27/punk-ankylosaurus-discovered.html" target="_blank">Punk ankylosaurus discovered</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-28 01:18</span>
             </div>
         </div>
 </div>
@@ -325,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 280 |
-        🔄 Last Updated: 13:09 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
