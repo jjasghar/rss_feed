@@ -1,39 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-29 09:01:48 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-29 10:01:53 UTC -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, August 29, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, August 29, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,9 +46,45 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/29/uk-bans-israeli-officials-from-major-arms-exhibition?traffic_source=rss" target="_blank">UK bans Israeli officials from major arms exhibition</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-29 09:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e802/live/fec42080-8231-11f0-9f3c-119cd82e5d28.jpg" alt="How a leaked phone call derailed the Thai PM&#x27;s career - and the Shinawatra dynasty" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cdrkvy2pn87o?at_medium=RSS&at_campaign=rss" target="_blank">How a leaked phone call derailed the Thai PM&#x27;s career - and the Shinawatra dynasty</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-29 09:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/29/g-s1-85902/oil-china-taliban-contract-breach-dispute-afghanistan" target="_blank">Contract breach or banditry? Inside the collapse of the Taliban&#x27;s oil deal with China</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-29 09:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/29/thai-court-removes-prime-minister-paetongtarn-shinawatra-from-office?traffic_source=rss" target="_blank">Thai court removes Prime Minister Paetongtarn Shinawatra from office</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-29 08:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-paetongtarn-shinawatra_6954313.jpg?20250701103359" alt="Thai prime minister sacked after leaked phone call" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/thai-prime-minister-paetongtarn-shinawatra-sacked-for-ethics-violation-after-leaked-phone-call-13420382" target="_blank">Thai prime minister sacked after leaked phone call</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-29 08:47</span>
             </div>
         </div>
 <div class="story">
@@ -67,47 +96,29 @@
                 <span class="time">2025-08-29 07:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/29/microsoft-fires-four-workers-over-protests-against-firms-ties-to-israel?traffic_source=rss" target="_blank">Microsoft fires four workers over protests against firm’s ties to Israel</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-29 07:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/29/nx-s1-5521857/trial-memphis-police-tyre-nichols" target="_blank">New trial ordered for 3 Memphis ex-officers in connection with death of Tyre Nichols</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-29 05:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/29/china-seeks-stronger-ties-with-brazil-to-resist-bullying-on-world?traffic_source=rss" target="_blank">China seeks stronger ties with Brazil to resist ‘bullying’ on world stage</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-29 05:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/29/us-ends-tariff-exemption-for-delivery-packages-valued-at-800-or-less?traffic_source=rss" target="_blank">US ends tariff exemption for delivery packages valued at $800 or less</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-29 03:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68b104f44074f86213509a1d/master/pass/Review-%20DJI%20Mic%203.png" alt="DJI Mic 3 Review: The Best Wireless Mic Gets Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/dji-mic-3/" target="_blank">DJI Mic 3 Review: The Best Wireless Mic Gets Better</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-29 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/29/vocal-image-is-using-ai-to-help-people-communicate-better/" target="_blank">Vocal Image is using AI to help people communicate better</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-29 08:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg" alt="Dyson Promo Codes: 20% Off | September 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,24 +155,6 @@
                 <span class="time">2025-08-28 21:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/28/trump-administrations-deal-is-structured-to-prevent-intel-from-selling-foundry-unit/" target="_blank">Trump administration’s deal is structured to prevent Intel from selling foundry unit</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-28 21:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a8988e3d3340e9212647fe/master/pass/Back%20to%20School%20Livestream%20Top%20Art.png" alt="Watch Our Livestream Replay: Back to School in the Age of AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/livestream-back-to-school-in-the-age-of-ai/" target="_blank">Watch Our Livestream Replay: Back to School in the Age of AI</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-28 21:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +167,15 @@
                 <span class="title"><a href="https://www.infoq.com/articles/mcp-connector-for-building-smarter-modular-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: MCP: The Universal Connector for Building Smarter, Modular AI Agents</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-08-29 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Qualcomm-PPE-Driver-Linux-6.18" target="_blank">Qualcomm Packet Processing Engine &quot;PPE&quot; Going Upstream For Linux 6.18</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-29 08:51</span>
             </div>
         </div>
 <div class="story">
@@ -210,15 +212,6 @@
                 <span class="title"><a href="https://lowendbox.com/blog/they-used-to-be-good-but-now-theyve-turned-to-evil-the-synology-end-game/" target="_blank">The Synology End Game</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-29 06:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/manas_tole_039/beyond-cap-understanding-the-pacelc-theorem-in-distributed-systems-kn3" target="_blank">Beyond CAP: Understanding the PACELC Theorem in Distributed Systems</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-29 04:50</span>
             </div>
         </div>
 </div>
@@ -340,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
