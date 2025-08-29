@@ -1,30 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-29 08:01:56 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-29 09:01:48 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, August 29, 2025 - 08:02 UTC</div>
+    <div class="newspaper-date">Friday, August 29, 2025 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/29/thai-court-removes-prime-minister-paetongtarn-shinawatra-from-office?traffic_source=rss" target="_blank">Thai court removes Prime Minister Paetongtarn Shinawatra from office</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-29 08:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/157e/live/f5f48910-8496-11f0-b8ce-c55914c35afe.jpg" alt="Children to be offered chickenpox vaccine on NHS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c860n445vyxo?at_medium=RSS&at_campaign=rss" target="_blank">Children to be offered chickenpox vaccine on NHS</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-29 07:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,24 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/29/us-ends-tariff-exemption-for-delivery-packages-valued-at-800-or-less?traffic_source=rss" target="_blank">US ends tariff exemption for delivery packages valued at $800 or less</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-29 03:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/29/venezuelas-maduro-says-no-way-us-can-invade-as-trump-deploys-naval-force?traffic_source=rss" target="_blank">Venezuela’s Maduro says ‘no way’ US can invade as Trump deploys naval force</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-29 02:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1756424397787_nn_ath_cdc_staff_protest_firing_of_director_250828_1920x1080-w8uppj.jpg" alt="CDC staff protest Trump’s firing of agency’s director" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/cdc-staff-protest-trump-s-firing-of-agency-s-director-246035013720" target="_blank">CDC staff protest Trump’s firing of agency’s director</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-28 23:40</span>
             </div>
         </div>
 </div>
@@ -159,12 +168,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/articles/mcp-connector-for-building-smarter-modular-ai-agents/en/headerimage/mcp-connector-for-building-smarter-modular-ai-agents-header-1756277862571.jpg" alt="Article: MCP: The Universal Connector for Building Smarter, Modular AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/mcp-connector-for-building-smarter-modular-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: MCP: The Universal Connector for Building Smarter, Modular AI Agents</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-29 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fftt77vng9gqfush4cvz3.png" alt="Platform Engineering for the uninitiated" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/chiranjib_b/platform-engineering-for-the-uninitiated-1ifo" target="_blank">Platform Engineering for the uninitiated</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-29 07:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/08/29/open-source-is-for-the-people-by-the-people/" target="_blank">Open-source is for the people, by the people</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-08-29 07:40</span>
             </div>
         </div>
 <div class="story">
@@ -179,37 +206,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lowendbox.com/blog/they-used-to-be-good-but-now-theyve-turned-to-evil-the-synology-end-game/" target="_blank">The Synology End Game</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-29 06:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/manas_tole_039/beyond-cap-understanding-the-pacelc-theorem-in-distributed-systems-kn3" target="_blank">Beyond CAP: Understanding the PACELC Theorem in Distributed Systems</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-29 04:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://sites.google.com/site/oh6dccw/strangecwkeys" target="_blank">Strange CW Keys</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-29 04:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tkouleris/tech-heroes-10-eric-s-raymond-59di" target="_blank">Tech Heroes #10: Eric S. Raymond</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-29 03:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/vs-code-themes/" target="_blank">19 Beautiful Themes to Get a Better Visual Experience With VS Code</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-08-29 03:43</span>
             </div>
         </div>
 </div>
@@ -240,6 +249,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/palisades-fire.jpg" alt="Infamous ‘Erin Brockovich’ Toxin Polluted Air for Months After LA Fires" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/infamous-erin-brockovich-toxin-polluted-air-for-months-after-la-fires-2000650102" target="_blank">Infamous ‘Erin Brockovich’ Toxin Polluted Air for Months After LA Fires</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-29 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/wednesday-netflix.jpg" alt="Don’t Worry, ‘Wednesday’ Fans, the Coma Is Almost Over" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +303,6 @@
                 <span class="time">2025-08-28 21:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Harris.jpg" alt="A Small Army of Overpaid TikTokers Is Not Going to Save the Democratic Party" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-small-army-of-overpaid-tiktokers-is-not-going-to-save-the-democratic-party-2000649770" target="_blank">A Small Army of Overpaid TikTokers Is Not Going to Save the Democratic Party</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-28 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
