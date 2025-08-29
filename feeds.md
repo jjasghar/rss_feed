@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-29 18:01:59 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-29 19:01:49 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, August 29, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, August 29, 2025 - 19:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/08/29/nx-s1-5522036/cdc-rfk-hhs-monarez-jim-oneill-leadership" target="_blank">It&#x27;s been a week of chaos at the CDC. Here are 5 things to know</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-29 18:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/EmmanuelMacron-4-ap-gmh-250829_1756485348015_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Macron says Putin &#x27;playing&#x27; Trump if no Zelenskyy meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124929306" target="_blank">Trump admin live updates: Macron says Putin &#x27;playing&#x27; Trump if no Zelenskyy meeting</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-29 18:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f846/live/00c15370-84cc-11f0-9a8e-b57ad0129150.jpg" alt="Asylum seekers to stay at Epping hotel after government wins appeal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8e1zd98k9no?at_medium=RSS&at_campaign=rss" target="_blank">Asylum seekers to stay at Epping hotel after government wins appeal</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-29 18:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +101,29 @@
                 <span class="time">2025-08-29 16:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f846/live/00c15370-84cc-11f0-9a8e-b57ad0129150.jpg" alt="Asylum seekers to remain at hotel after appeal win" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8e1zd98k9no?at_medium=RSS&at_campaign=rss" target="_blank">Asylum seekers to remain at hotel after appeal win</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-29 15:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/8/29/sri-lankas-crisis-shows-how-debt-is-devouring-the-global-south?traffic_source=rss" target="_blank">Sri Lanka’s crisis shows how debt is devouring the Global South</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-29 15:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/29/man-utds-amorim-he-admits-sometimes-hates-his-players-and-wants-to-quit?traffic_source=rss" target="_blank">Man Utd’s Amorim admits he sometimes ‘hates his players’ and wants to quit</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-29 14:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/06/haX0r-500x500.jpg" alt="Tesla denied having fatal crash data until a hacker found it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/08/how-a-hacker-helped-win-a-wrongful-death-lawsuit-against-tesla/" target="_blank">Tesla denied having fatal crash data until a hacker found it</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-29 18:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68b1dd3b9bb6bcd03e004618/master/pass/The%20Best%20Labor%20Day%20Deals%20and%20Sales.png" alt="41 Best Labor Day Sales on WIRED-Tested Gear (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-labor-day-sales-deals-2025-1/" target="_blank">41 Best Labor Day Sales on WIRED-Tested Gear (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-29 17:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +160,38 @@
                 <span class="time">2025-08-29 15:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/29/host-an-event-beyond-the-main-event-apply-to-host-a-side-event-at-techcrunch-disrupt-2025/" target="_blank">Host an event beyond the main event: Apply to host a Side Event at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-29 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/Google-Pixel-10-4-500x500.jpg" alt="Google Pixel 10 series review: Don’t call it an Android" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/08/google-pixel-10-series-review-dont-call-it-an-android/" target="_blank">Google Pixel 10 series review: Don’t call it an Android</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-29 14:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aaron_rose_0787cc8b4775a0/javascript-one-liners-that-actually-slap-and-one-that-doesnt--20g6" target="_blank">JavaScript One-Liners That Actually Slap 🚀 (And One That Doesn&#x27;t 👀)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-29 18:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Bcachefs-Externally-Maintained" target="_blank">Linus Torvalds Marks Bcachefs As Now &quot;Externally Maintained&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-29 18:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18586288&w=600" alt="The Death of Static Rules: Making Microservices Smart, Flexible and Easy to Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/the-death-of-static-rules-making-microservices-sma" target="_blank">The Death of Static Rules: Making Microservices Smart, Flexible and Easy to Change</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-29 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -187,33 +217,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/netpeek-linux-network-scanner-gui-alternative-nmap" target="_blank">NetPeek is a New, User-Friendly Network Scanner for Linux</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-08-29 16:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf" target="_blank">Essential Coding Theory [pdf]</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-29 15:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mrpunkdasilva/destrua-a-complexidade-tetris-do-zero-em-c-com-sfml-2p52" target="_blank">Destrua a complexidade: Tetris do zero em C++ com SFML</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-29 15:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lmsys.org/blog/2025-05-05-large-scale-ep/" target="_blank">Deploying DeepSeek on 96 H100 GPUs</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-29 14:07</span>
             </div>
         </div>
 </div>
@@ -242,6 +245,15 @@
                 <span class="title"><a href="https://gizmodo.com/our-best-look-yet-a-solar-flare-reveals-the-suns-wilder-side-2000650618" target="_blank">Our Best Look Yet at a Solar Flare Reveals the Sun’s Wilder Side</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-29 17:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K3VE4EJ8595C7Z245310NGNM/hero-image.png" alt="Samsung&#x27;s Ultrawide Odyssey G9 Monitors Are Down to Their Lowest Prices Ever for Labor Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-ultrawide-odyssey-g9-monitors-labor-day-sales-2025?utm_medium=RSS" target="_blank">Samsung&#x27;s Ultrawide Odyssey G9 Monitors Are Down to Their Lowest Prices Ever for Labor Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-29 17:54</span>
             </div>
         </div>
 <div class="story">
@@ -278,15 +290,6 @@
                 <span class="title"><a href="https://gizmodo.com/peacemaker-finally-gave-its-best-boy-his-big-hero-moment-2000649159" target="_blank">‘Peacemaker’ Finally Gave Its Best Boy His Big Hero Moment</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-29 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Braxton-in-a-handout-photo.jpg?fit=1080%2C981&amp;quality=60&amp;ssl=1" alt="Tiny town&#x27;s first black mayor, locked out of office by white clique, wins in landslide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/29/alabama-towns-first-black-mayor-locked-out-of-town-hall-by-white-clique-wins-reelection.html" target="_blank">Tiny town&#x27;s first black mayor, locked out of office by white clique, wins in landslide</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-29 14:37</span>
             </div>
         </div>
 </div>
@@ -326,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 281 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 283 |
+        🔄 Last Updated: 19:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
