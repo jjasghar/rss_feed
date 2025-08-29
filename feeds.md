@@ -1,29 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-29 22:02:00 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-29 23:01:53 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 21 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, August 29, 2025 - 22:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, August 29, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/29/us-appeals-court-rules-trumps-foreign-tariff-campaign-is-largely-illegal?traffic_source=rss" target="_blank">US appeals court rules Trump’s foreign tariff campaign is largely illegal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-29 22:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1756505349953_now_hallie_illegal_tariffs_250829_1920x1080-8o7fih.jpg" alt="U.S. appeals court rules Trump&#x27;s global tariffs are illegal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/u-s-appeals-court-rules-trump-s-global-tariffs-are-illegal-246140997507" target="_blank">U.S. appeals court rules Trump&#x27;s global tariffs are illegal</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-29 22:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/29/nx-s1-5522457/tariffs-trump-trade-supreme-court" target="_blank">Most of President Trump&#x27;s tariffs are illegal, U.S. court rules</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-29 22:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -66,38 +102,20 @@
                 <span class="time">2025-08-29 20:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Hospital-Vigil-2-ht-gmh-250829_1756485687440_hpMain_4x3t_384.jpg" alt="Grief turns to hope as Minneapolis rallies behind kids hurt in school shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/grief-turns-hope-minneapolis-rallies-kids-hurt-school/story?id=125091070" target="_blank">Grief turns to hope as Minneapolis rallies behind kids hurt in school shooting</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-29 20:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/29/texas-governor-greg-abbott-signs-trump-backed-redistricting-bill?traffic_source=rss" target="_blank">Texas Governor Greg Abbott signs Trump-backed redistricting bill</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-29 19:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/08/29/nx-s1-5522036/cdc-rfk-hhs-monarez-jim-oneill-leadership" target="_blank">It&#x27;s been a week of chaos at the CDC. Here are 5 things to know</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-29 18:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68b2140793c9308bcfbdfe78/master/pass/politics_socialsecurityleak_GettyImages-2207558225.jpg" alt="SSA Whistleblower’s Resignation Email Mysteriously Disappeared From Inboxes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/charles-borges-resignation-email-disappearance/" target="_blank">SSA Whistleblower’s Resignation Email Mysteriously Disappeared From Inboxes</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-29 22:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1426070870-500x500.jpg" alt="“I like plaintiff’s chances”: Prime Video back in court over using the word “buy”" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,15 +159,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/08/29/tiktok-now-lets-users-send-voice-notes-and-images-in-dms/" target="_blank">TikTok now lets users send voice notes and images in DMs</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-08-29 19:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2020/06/haX0r-500x500.jpg" alt="Tesla denied having fatal crash data until a hacker found it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/08/how-a-hacker-helped-win-a-wrongful-death-lawsuit-against-tesla/" target="_blank">Tesla denied having fatal crash data until a hacker found it</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-29 18:48</span>
             </div>
         </div>
 </div>
@@ -231,6 +240,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Fallout-vault-.jpg" alt="Peek Inside the ‘Fallout’ Vault at Universal Studios’ Halloween Horror Nights Hollywood" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/peek-inside-the-fallout-vault-at-universal-studios-halloween-horror-nights-hollywood-2000650788" target="_blank">Peek Inside the ‘Fallout’ Vault at Universal Studios’ Halloween Horror Nights Hollywood</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-29 22:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/rfk-jr.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="&quot;Dangerous buffoon&quot; RFK Jr. flat-out lies that CDC lists abortion as a top medical advance during Fox News interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/29/kennedy-abortion-lies.html" target="_blank">&quot;Dangerous buffoon&quot; RFK Jr. flat-out lies that CDC lists abortion as a top medical advance during Fox News interview</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-29 21:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Jaws-Poster-art.jpg" alt="The 10 Best Moments in ‘Jaws’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -264,24 +291,6 @@
                 <span class="title"><a href="https://gizmodo.com/lego-will-no-longer-ship-individual-pieces-thanks-to-trump-tariffs-2000650637" target="_blank">Lego Will No Longer Ship Individual Pieces Thanks to Trump Tariffs</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-29 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Mechazilla.jpg" alt="SpaceX’s Next Big Trick: Catch the Starship Upper Stage With ‘Chopsticks’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/spacexs-next-big-trick-catch-the-starship-upper-stage-with-chopsticks-2000650708" target="_blank">SpaceX’s Next Big Trick: Catch the Starship Upper Stage With ‘Chopsticks’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-29 19:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K3VCJTRFEPNV6NV86N9EFBGJ/hero-image.jpg" alt="11 Ways to Make Your Hulu Experience Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/ways-to-make-hulu-better?utm_medium=RSS" target="_blank">11 Ways to Make Your Hulu Experience Better</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-29 19:30</span>
             </div>
         </div>
 </div>
@@ -321,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 283 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
