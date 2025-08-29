@@ -1,29 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-29 15:01:30 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-29 16:01:58 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 20 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, August 29, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, August 29, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,9 +52,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/8/29/sri-lankas-crisis-shows-how-debt-is-devouring-the-global-south?traffic_source=rss" target="_blank">Sri Lanka’s crisis shows how debt is devouring the Global South</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-29 15:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/29/man-utds-amorim-he-admits-sometimes-hates-his-players-and-wants-to-quit?traffic_source=rss" target="_blank">Man Utd’s Amorim admits he sometimes ‘hates his players’ and wants to quit</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-29 14:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/29/nx-s1-5521952/minnesota-witnesses-catholic-school-shooting-minneapolis" target="_blank">Witnesses describe terror and courage during the Minneapolis school shooting</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-29 13:34</span>
             </div>
         </div>
 <div class="story">
@@ -75,29 +102,29 @@
                 <span class="time">2025-08-29 11:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/29/g-s1-86278/up-first-newsletter-minneapolis-shooting-victim-family-cdc-director-china-russia-north-korea-meet" target="_blank">Father of Minneapolis shooting victim speaks out. And, CDC announces new leadership</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-29 11:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/1bbe1f30-84bf-11f0-acf0-71f4294565e0.jpg" alt="Thai court removes PM over leaked phone call with Cambodian leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckgeqlw05rzo?at_medium=RSS&at_campaign=rss" target="_blank">Thai court removes PM over leaked phone call with Cambodian leader</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-29 11:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/29/mastodon-says-it-doesnt-have-the-means-to-comply-with-age-verification-laws/" target="_blank">Mastodon says it doesn’t ‘have the means’ to comply with age verification laws</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-29 15:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/768068/tesla-wrongful-death-verdict-court-toss" target="_blank">Tesla asks court to toss wrongful death verdict that cost it $243 million</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-29 15:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,29 +161,29 @@
                 <span class="time">2025-08-29 13:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/767944/diablo-developers-form-union-blizzard-entertainment" target="_blank">Blizzard’s Diablo team has unionized</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-29 12:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/IMG_9216-1-500x500.jpg" alt="Rocket Report: SpaceX achieved daily launch this week; ULA recovers booster" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/08/rocket-report-spacex-achieved-daily-launch-this-week-ula-recovers-booster/" target="_blank">Rocket Report: SpaceX achieved daily launch this week; ULA recovers booster</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-29 12:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mrpunkdasilva/destrua-a-complexidade-tetris-do-zero-em-c-com-sfml-2p52" target="_blank">Destrua a complexidade: Tetris do zero em C++ com SFML</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-29 15:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lmsys.org/blog/2025-05-05-large-scale-ep/" target="_blank">Deploying DeepSeek on 96 H100 GPUs</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-29 14:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/08/ubereats-inca-inventory-catalog/en/headerimage/ubereats_inca_header-1756138099717.jpg" alt="Uber Eats Introduces INCA to Scale Catalog Management from Restaurants to Retail" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -193,24 +220,6 @@
                 <span class="time">2025-08-29 11:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.perplexity.ai/page/anthropic-reverses-privacy-sta-xH4KWU9nS3KH4Aj9F12dvQ" target="_blank">Anthropic reverses privacy stance, will train on Claude chats</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-29 11:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/araldhafeeri/designing-and-implementing-a-simple-yet-powerful-distributed-job-scheduler-25fh" target="_blank">Designing and Implementing a Simple, Yet Powerful, Distributed Job Scheduler</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-29 10:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,12 +249,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Peacemaker-TV-Recap.jpg" alt="‘Peacemaker’ Finally Gave Its Best Boy His Big Hero Moment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/peacemaker-finally-gave-its-best-boy-his-big-hero-moment-2000649159" target="_blank">‘Peacemaker’ Finally Gave Its Best Boy His Big Hero Moment</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-29 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Braxton-in-a-handout-photo.jpg?fit=1080%2C981&amp;quality=60&amp;ssl=1" alt="Tiny town&#x27;s first black mayor, locked out of office by white clique, wins in landslide" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2025/08/29/alabama-towns-first-black-mayor-locked-out-of-town-hall-by-white-clique-wins-reelection.html" target="_blank">Tiny town&#x27;s first black mayor, locked out of office by white clique, wins in landslide</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-29 14:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/Kojima-Morncheck.jpg" alt="Hideo Kojima Says AI Will Be Just As Important To Games As The Leap To 3D" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hideo-kojima-ai-important-3d-ps6-portable-space-marine-last-of-us-2000621087" target="_blank">Hideo Kojima Says AI Will Be Just As Important To Games As The Leap To 3D</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-29 14:29</span>
             </div>
         </div>
 <div class="story">
@@ -275,24 +302,6 @@
                 <span class="time">2025-08-29 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Gizmodo-Featured-Image-Live.jpg" alt="Live Updates From IFA 2025 in Berlin 🔴" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/live-updates-from-ifa-2025-in-berlin-%f0%9f%94%b4-2000649907" target="_blank">Live Updates From IFA 2025 in Berlin 🔴</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-29 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/palisades-fire.jpg" alt="Infamous ‘Erin Brockovich’ Toxin Polluted Air for Months After LA Fires" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/infamous-erin-brockovich-toxin-polluted-air-for-months-after-la-fires-2000650102" target="_blank">Infamous ‘Erin Brockovich’ Toxin Polluted Air for Months After LA Fires</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-29 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,22 +325,13 @@
                 <span class="time">2025-08-29 01:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1756236933-20250828.png" alt="Saturday Morning Breakfast Cereal - Petals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/petals" target="_blank">Saturday Morning Breakfast Cereal - Petals</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-08-28 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
