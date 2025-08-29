@@ -1,30 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-29 17:01:50 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-29 18:01:59 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 22 feeds processed -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, August 29, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, August 29, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/29/trump-seeks-to-cut-5bn-in-congressionally-approved-foreign-aid?traffic_source=rss" target="_blank">Trump seeks to cut $5bn in congressionally approved foreign aid</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-29 17:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +98,20 @@
                 <span class="time">2025-08-29 14:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/29/nx-s1-5521952/minnesota-witnesses-catholic-school-shooting-minneapolis" target="_blank">Witnesses describe terror and courage during the Minneapolis school shooting</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-29 13:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/29/meta-updates-chatbot-rules-to-avoid-inappropriate-topics-with-teen-users/" target="_blank">Meta updates chatbot rules to avoid inappropriate topics with teen users</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-29 17:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,15 +157,6 @@
                 <span class="time">2025-08-29 14:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68af76dfee300be2a93ac1ee/master/pass/pol_femachaos_GettyImages-2176966174.jpg" alt="FEMA’s Chaotic Summer Has Gone From Bad to Worse" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/fema-funding-dhs-agency-punishment/" target="_blank">FEMA’s Chaotic Summer Has Gone From Bad to Worse</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-29 14:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -188,6 +192,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf" target="_blank">Essential Coding Theory [pdf]</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-29 15:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mrpunkdasilva/destrua-a-complexidade-tetris-do-zero-em-c-com-sfml-2p52" target="_blank">Destrua a complexidade: Tetris do zero em C++ com SFML</a></span>
                 <span class="feed">DEV Community</span>
@@ -201,15 +214,6 @@
                 <span class="title"><a href="https://lmsys.org/blog/2025-05-05-large-scale-ep/" target="_blank">Deploying DeepSeek on 96 H100 GPUs</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-29 14:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/ubereats-inca-inventory-catalog/en/headerimage/ubereats_inca_header-1756138099717.jpg" alt="Uber Eats Introduces INCA to Scale Catalog Management from Restaurants to Retail" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/ubereats-inca-inventory-catalog/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uber Eats Introduces INCA to Scale Catalog Management from Restaurants to Retail</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-29 14:00</span>
             </div>
         </div>
 </div>
@@ -226,20 +230,38 @@
                 <span class="time">2025-08-29 11:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/" target="_blank">Affiliates Flock to ‘Soulless’ Scam Gambling Machine</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-08-28 17:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/inouye-solar-flare-250829-x-class-main.jpg" alt="Our Best Look Yet at a Solar Flare Reveals the Sun’s Wilder Side" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/our-best-look-yet-a-solar-flare-reveals-the-suns-wilder-side-2000650618" target="_blank">Our Best Look Yet at a Solar Flare Reveals the Sun’s Wilder Side</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-29 17:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/VS-YouTube-Pragmata-FirstContactTrailerPS5Games-151-1.jpg" alt="Capcom Producer Laughed And Said No When Asked If Pragmata Is A Secret Mega Man Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/capcom-pragmata-mega-man-conspiracy-theory-debunked-2000621414" target="_blank">Capcom Producer Laughed And Said No When Asked If Pragmata Is A Secret Mega Man Game</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-29 17:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/shutterstock_2639942717-e1756488851256.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="When ICE isn&#x27;t tearing families apart, it&#x27;s pulling first responders off the job" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/29/when-ice-isnt-tearing-families-apart-its-pulling-first-responders-off-the-job.html" target="_blank">When ICE isn&#x27;t tearing families apart, it&#x27;s pulling first responders off the job</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-29 17:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JVDDXB6Y9VRFRXJMA2XWDA2E/hero-image.png" alt="You Should Be &#x27;Stacking&#x27; Your Peloton Classes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,38 +289,20 @@
                 <span class="time">2025-08-29 14:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/Kojima-Morncheck.jpg" alt="Hideo Kojima Says AI Will Be Just As Important To Games As The Leap To 3D" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hideo-kojima-ai-important-3d-ps6-portable-space-marine-last-of-us-2000621087" target="_blank">Hideo Kojima Says AI Will Be Just As Important To Games As The Leap To 3D</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-29 14:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K3RX0XJ8JZK717G7KP860APW/hero-image.jpg" alt="That Phone Call From Google Is Probably a Scam" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/that-phone-call-from-google-is-probably-a-scam?utm_medium=RSS" target="_blank">That Phone Call From Google Is Probably a Scam</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-29 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/Seagate-Portable-2TB-External-Hard-Drive-HDD.jpg" alt="Seagate’s Portable 2TB Hard Drive Is Just $5 More Than the 1TB, Almost Free Insurance Policy for Gamers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/seagates-portable-2tb-hard-drive-is-just-5-more-than-the-1tb-almost-free-insurance-policy-for-gamers-2000621088" target="_blank">Seagate’s Portable 2TB Hard Drive Is Just $5 More Than the 1TB, Almost Free Insurance Policy for Gamers</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-29 12:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1756237014-20250829.png" alt="Saturday Morning Breakfast Cereal - Stop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/stop-3" target="_blank">Saturday Morning Breakfast Cereal - Stop</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-08-29 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://assets.penny-arcade.com/news/pax3.SbZkXH4P.png" alt="The Name of The Wind (Greg)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -322,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 278 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 281 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
