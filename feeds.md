@@ -1,32 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-08-29 10:01:53 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-29 11:01:30 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: DZone -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, August 29, 2025 - 10:02 UTC</div>
+    <div class="newspaper-date">Friday, August 29, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +54,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/29/nx-s1-5521908/thai-court-dismisses-prime-minister-compromising-phone-call-cambodia" target="_blank">Thai court dismisses prime minister over compromising phone call with Cambodian leader</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-29 10:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +106,6 @@
                 <span class="title"><a href="https://news.sky.com/story/thai-prime-minister-paetongtarn-shinawatra-sacked-for-ethics-violation-after-leaked-phone-call-13420382" target="_blank">Thai prime minister sacked after leaked phone call</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-08-29 08:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/157e/live/f5f48910-8496-11f0-b8ce-c55914c35afe.jpg" alt="Children to be offered chickenpox vaccine on NHS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c860n445vyxo?at_medium=RSS&at_campaign=rss" target="_blank">Children to be offered chickenpox vaccine on NHS</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-29 07:54</span>
             </div>
         </div>
 </div>
@@ -161,6 +173,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/araldhafeeri/designing-and-implementing-a-simple-yet-powerful-distributed-job-scheduler-25fh" target="_blank">Designing and Implementing a Simple, Yet Powerful, Distributed Job Scheduler</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-29 10:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="AWS Launches Memory-Optimized EC2 R8i and R8i-flex Instances with Custom Intel Xeon 6 Processors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/ec2-r8i-intel-xeon-six/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Launches Memory-Optimized EC2 R8i and R8i-flex Instances with Custom Intel Xeon 6 Processors</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-29 10:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/articles/mcp-connector-for-building-smarter-modular-ai-agents/en/headerimage/mcp-connector-for-building-smarter-modular-ai-agents-header-1756277862571.jpg" alt="Article: MCP: The Universal Connector for Building Smarter, Modular AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -196,29 +226,20 @@
                 <span class="time">2025-08-29 07:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo4x18gltzsdq4essg5vj.jpg" alt="WebdriverIO Visual Click Service" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/agileactors/webdriverio-visual-click-service-bpe" target="_blank">WebdriverIO Visual Click Service</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-29 06:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lowendbox.com/blog/they-used-to-be-good-but-now-theyve-turned-to-evil-the-synology-end-game/" target="_blank">The Synology End Game</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-29 06:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/baggage-tag-scam.html" target="_blank">Baggage Tag Scam</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-08-29 11:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -228,20 +249,20 @@
                 <span class="time">2025-08-28 17:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/the-uk-may-be-dropping-its-backdoor-mandate.html" target="_blank">The UK May Be Dropping Its Backdoor Mandate</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-08-28 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Gizmodo-Featured-Image-Live.jpg" alt="Live Updates From IFA 2025 in Berlin 🔴" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/live-updates-from-ifa-2025-in-berlin-%f0%9f%94%b4-2000649907" target="_blank">Live Updates From IFA 2025 in Berlin 🔴</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-29 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/palisades-fire.jpg" alt="Infamous ‘Erin Brockovich’ Toxin Polluted Air for Months After LA Fires" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +308,6 @@
                 <span class="time">2025-08-28 21:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/somepig-e1756416880781.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="Pig lung transplanted into brain-dead human" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/28/pig-lung-transplanted-into-brain-dead-human.html" target="_blank">Pig lung transplanted into brain-dead human</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-28 21:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
