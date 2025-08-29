@@ -1,38 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-08-29 14:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-29 15:01:30 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 6 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, August 29, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, August 29, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/29/man-utds-amorim-he-admits-sometimes-hates-his-players-and-wants-to-quit?traffic_source=rss" target="_blank">Man Utd’s Amorim admits he sometimes ‘hates his players’ and wants to quit</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-29 14:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/kamala-harris-2-gty-gmh-250829_1756471052706_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump revokes Kamala Harris’ Secret Service detail" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,20 +93,38 @@
                 <span class="time">2025-08-29 11:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1756466961868_tdy_news_7a_gutierrez_cdc_shakeup_250829_1920x1080-haoul1.jpg" alt="Protesters Rally at CDC: &#x27;Let&#x27;s Get the Politics Out of Public Health&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/white-house-taps-longtime-vaccine-skeptic-as-cdc-interim-head-246079045705" target="_blank">Protesters Rally at CDC: &#x27;Let&#x27;s Get the Politics Out of Public Health&#x27;</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-29 11:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/29/host-an-event-beyond-the-main-event-apply-to-host-a-side-event-at-techcrunch-disrupt-2025/" target="_blank">Host an event beyond the main event: Apply to host a Side Event at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-29 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/Google-Pixel-10-4-500x500.jpg" alt="Google Pixel 10 series review: Don’t call it an Android" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/08/google-pixel-10-series-review-dont-call-it-an-android/" target="_blank">Google Pixel 10 series review: Don’t call it an Android</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-29 14:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68af76dfee300be2a93ac1ee/master/pass/pol_femachaos_GettyImages-2176966174.jpg" alt="FEMA&#x27;s Chaotic Summer Has Gone From Bad to Worse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/fema-funding-dhs-agency-punishment/" target="_blank">FEMA&#x27;s Chaotic Summer Has Gone From Bad to Worse</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-29 14:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/685a17bf2fdddf15e6592e28/master/pass/best%20kindles.png" alt="The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -132,33 +150,6 @@
                 <span class="title"><a href="https://arstechnica.com/space/2025/08/rocket-report-spacex-achieved-daily-launch-this-week-ula-recovers-booster/" target="_blank">Rocket Report: SpaceX achieved daily launch this week; ULA recovers booster</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-08-29 12:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/767940/lenovo-rotating-display-laptop-concept-project-pivo-leak" target="_blank">Lenovo leaks show concept laptop with rotating display</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-29 11:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68b104f44074f86213509a1d/master/pass/Review-%20DJI%20Mic%203.png" alt="DJI Mic 3 Review: The Best Wireless Mic Gets Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/dji-mic-3/" target="_blank">DJI Mic 3 Review: The Best Wireless Mic Gets Better</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-29 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/29/vocal-image-is-using-ai-to-help-people-communicate-better/" target="_blank">Vocal Image is using AI to help people communicate better</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-29 08:34</span>
             </div>
         </div>
 </div>
@@ -249,6 +240,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Braxton-in-a-handout-photo.jpg?fit=1080%2C981&amp;quality=60&amp;ssl=1" alt="Tiny town&#x27;s first black mayor, locked out of office by white clique, wins in landslide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/29/alabama-towns-first-black-mayor-locked-out-of-town-hall-by-white-clique-wins-reelection.html" target="_blank">Tiny town&#x27;s first black mayor, locked out of office by white clique, wins in landslide</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-29 14:37</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K3RX0XJ8JZK717G7KP860APW/hero-image.jpg" alt="That Phone Call From Google Is Probably a Scam" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -293,15 +293,6 @@
                 <span class="time">2025-08-29 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/wednesday-netflix.jpg" alt="Don’t Worry, ‘Wednesday’ Fans, the Coma Is Almost Over" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/dont-worry-wednesday-fans-the-coma-is-almost-over-2000650157" target="_blank">Don’t Worry, ‘Wednesday’ Fans, the Coma Is Almost Over</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-29 00:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -339,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
