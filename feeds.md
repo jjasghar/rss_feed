@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-29 03:15:26 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-29 04:01:54 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 2 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, August 29, 2025 - 03:15 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, August 29, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/29/us-ends-tariff-exemption-for-delivery-packages-valued-at-800-or-less?traffic_source=rss" target="_blank">US ends tariff exemption for delivery packages valued at $800 or less</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-29 03:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,15 +100,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/28/nx-s1-5521340/kids-children-heroism-church-shooting-minneapolis" target="_blank">Middle schoolers are lauded for protecting younger kids during church shooting</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-28 22:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/28/nx-s1-5519337/public-media-emergency-alert-funding" target="_blank">Public media stations in rural America say emergency-alert funding is in jeopardy</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-28 21:26</span>
             </div>
         </div>
 </div>
@@ -171,6 +170,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tkouleris/tech-heroes-10-eric-s-raymond-59di" target="_blank">Tech Heroes #10: Eric S. Raymond</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-29 03:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/yash_sonawane25/docker-series-episode-7-docker-networking-how-containers-talk-behind-the-scenes-5aak" target="_blank">🛳️ Docker Series: Episode 7 — Docker Networking: How Containers Talk Behind the Scenes</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-29 03:09</span>
@@ -210,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/samueladeduntan/a-personal-journey-understanding-reflected-xss-through-my-dvwa-setup-16d1" target="_blank">A Personal Journey: Understanding Reflected XSS Through My DVWA Setup</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-28 23:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lwn.net/Articles/1035537/" target="_blank">Python: The Documentary</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-28 23:27</span>
             </div>
         </div>
 </div>
@@ -332,7 +331,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 03:15 UTC
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
