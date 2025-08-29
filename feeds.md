@@ -1,38 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-08-29 16:01:58 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-29 17:01:50 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, August 29, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, August 29, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +40,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/29/nx-s1-5522066/kamala-harris-secret-service" target="_blank">Trump ends Harris&#x27; Secret Service detail</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-29 16:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-5-gty-gmh-250828_1756385399229_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump cuts billions of foreign aid money" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124929306" target="_blank">Trump admin live updates: Trump cuts billions of foreign aid money</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-29 16:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f846/live/00c15370-84cc-11f0-9a8e-b57ad0129150.jpg" alt="Asylum seekers to remain at hotel after appeal win" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8e1zd98k9no?at_medium=RSS&at_campaign=rss" target="_blank">Asylum seekers to remain at hotel after appeal win</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-29 15:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,38 +94,20 @@
                 <span class="time">2025-08-29 13:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/kamala-harris-2-gty-gmh-250829_1756471052706_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump revokes Kamala Harris’ Secret Service detail" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124929306" target="_blank">Trump admin live updates: Trump revokes Kamala Harris’ Secret Service detail</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-29 13:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/29/how-trumps-newfound-love-for-chinese-students-is-drawing-maga-backlash?traffic_source=rss" target="_blank">How Trump’s newfound love for Chinese students is drawing MAGA backlash</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-29 12:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/29/israeli-military-says-it-has-begun-initial-stages-of-attack-on-gaza-city?traffic_source=rss" target="_blank">Israeli military says it has begun ‘initial stages’ of attack on Gaza City</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-29 11:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/768083/framework-actually-did-it-i-upgraded-a-laptops-entire-gpu-in-just-three-minutes" target="_blank">Framework actually did it: I upgraded a laptop’s entire GPU in just three minutes</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-29 16:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,21 +145,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media.wired.com/photos/68af76dfee300be2a93ac1ee/master/pass/pol_femachaos_GettyImages-2176966174.jpg" alt="FEMA&#x27;s Chaotic Summer Has Gone From Bad to Worse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media.wired.com/photos/68af76dfee300be2a93ac1ee/master/pass/pol_femachaos_GettyImages-2176966174.jpg" alt="FEMA’s Chaotic Summer Has Gone From Bad to Worse" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/fema-funding-dhs-agency-punishment/" target="_blank">FEMA&#x27;s Chaotic Summer Has Gone From Bad to Worse</a></span>
+                <span class="title"><a href="https://www.wired.com/story/fema-funding-dhs-agency-punishment/" target="_blank">FEMA’s Chaotic Summer Has Gone From Bad to Worse</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-08-29 14:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685a17bf2fdddf15e6592e28/master/pass/best%20kindles.png" alt="The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-kindle/" target="_blank">The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-29 13:34</span>
             </div>
         </div>
 </div>
@@ -166,6 +158,33 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers" target="_blank">The web does not need gatekeepers (Cloudflare)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-29 16:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/under-the-hood-exploring-the-ai-models-powering-github-copilot/" target="_blank">Under the hood: Exploring the AI models powering GitHub Copilot</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-08-29 16:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/netpeek.jpg?resize=406%2C232&amp;ssl=1" alt="NetPeek is a New, User-Friendly Network Scanner for Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/netpeek-linux-network-scanner-gui-alternative-nmap" target="_blank">NetPeek is a New, User-Friendly Network Scanner for Linux</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-29 16:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -191,33 +210,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/08/ubereats-inca-inventory-catalog/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uber Eats Introduces INCA to Scale Catalog Management from Restaurants to Retail</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-08-29 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18584790&w=600" alt="Development of System Configuration Management: Handling Exclusive Configurations and Associated Templates" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/system-configuration-management-exclusive-configs-templates" target="_blank">Development of System Configuration Management: Handling Exclusive Configurations and Associated Templates</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-29 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fwupd-2.0.14-Released" target="_blank">Fwupd 2.0.14 Brings New Framework &amp; SteelSeries Hardware Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-29 12:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/b_myers/microservices-are-dead-long-live-microservices-35md" target="_blank">Microservices are Dead! Long Live Microservices</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-29 11:58</span>
             </div>
         </div>
 </div>
@@ -248,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JVDDXB6Y9VRFRXJMA2XWDA2E/hero-image.png" alt="You Should Be &#x27;Stacking&#x27; Your Peloton Classes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/how-to-stack-peloton-classes?utm_medium=RSS" target="_blank">You Should Be &#x27;Stacking&#x27; Your Peloton Classes</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-29 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Peacemaker-TV-Recap.jpg" alt="‘Peacemaker’ Finally Gave Its Best Boy His Big Hero Moment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -293,15 +294,6 @@
                 <span class="time">2025-08-29 12:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K3T83N3Q2QAYR0Z0PFYAC00B/hero-image.png" alt="This Eight-Piece Ring Home Security Bundle Is $275 for Labor Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/ring-home-security-bundle-labor-day-sale-2025?utm_medium=RSS" target="_blank">This Eight-Piece Ring Home Security Bundle Is $275 for Labor Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-29 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 41 | 📸 With Images: 278 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
