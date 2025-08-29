@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-29 01:28:59 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-29 02:28:06 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, August 29, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, August 29, 2025 - 02:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/29/venezuelas-maduro-says-no-way-us-can-invade-as-trump-deploys-naval-force?traffic_source=rss" target="_blank">Venezuela’s Maduro says ‘no way’ US can invade as Trump deploys naval force</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-29 02:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1756424397787_nn_ath_cdc_staff_protest_firing_of_director_250828_1920x1080-w8uppj.jpg" alt="CDC staff protest Trump’s firing of agency’s director" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/cdc-staff-protest-trump-s-firing-of-agency-s-director-246035013720" target="_blank">CDC staff protest Trump’s firing of agency’s director</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-28 23:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/fletcher-harper-01-ht-jt-250828_1756422536852_hpMain_4x3t_384.jpg" alt="Parents of children killed in Minneapolis school shooting speak out" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,24 +99,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/28/nx-s1-5519337/public-media-emergency-alert-funding" target="_blank">Public media stations in rural America say emergency-alert funding is in jeopardy</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-28 21:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/28/russian-air-attack-on-kyiv-kills-children-and-damages-eu-building?traffic_source=rss" target="_blank">Russian air attack on Kyiv kills children and damages EU building</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-28 21:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-fletcher-merkel-minneapolis_7004074.jpg?20250828222653" alt="Boy killed in US Catholic school shooting named" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/boy-8-killed-in-us-catholic-school-shooting-named-as-victims-father-brands-attacker-a-coward-13420257" target="_blank">Boy killed in US Catholic school shooting named</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-28 21:20</span>
             </div>
         </div>
 </div>
@@ -174,6 +175,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-august-29-2025" target="_blank">Friday Five — August 29, 2025</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2025-08-29 00:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqkb8yrtavhcvy13kgpcg.png" alt="A Personal Journey: Understanding Reflected XSS Through My DVWA Setup" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/farhan_khan_41ec7ff11ac1d/langgraph-core-concepts-45e8" target="_blank">LangGraph: Core Concepts</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-28 20:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-AMD-EPYC-Turin" target="_blank">Linux 6.17 Showing Off Some Nice Gains For 5th Gen AMD EPYC &quot;Turin&quot; Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-28 20:37</span>
             </div>
         </div>
 </div>
@@ -328,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 02:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
