@@ -1,44 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-29 00:04:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-29 01:28:59 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 34 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, August 29, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, August 29, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/fletcher-harper-01-ht-jt-250828_1756422536852_hpMain_4x3t_384.jpg" alt="Parents of children killed in Minneapolis school shooting speak out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/minneapolis-school-shooting-victims/story?id=125056096" target="_blank">Parents of children killed in Minneapolis school shooting speak out</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-28 23:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f56/live/8d18c1c0-8452-11f0-b9ad-e5f9f0d91f43.jpg" alt="Minneapolis school attacker &#x27;obsessed with idea of killing children&#x27;, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4g0lyny7ydo?at_medium=RSS&at_campaign=rss" target="_blank">Minneapolis school attacker &#x27;obsessed with idea of killing children&#x27;, officials say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-28 22:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,30 +92,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-fletcher-merkel-minneapolis_7004074.jpg?20250828222653" alt="Boy, 8, killed in US Catholic school shooting named - as victim&#x27;s father brands attacker &#x27;a coward&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-fletcher-merkel-minneapolis_7004074.jpg?20250828222653" alt="Boy killed in US Catholic school shooting named" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/boy-8-killed-in-us-catholic-school-shooting-named-as-victims-father-brands-attacker-a-coward-13420257" target="_blank">Boy, 8, killed in US Catholic school shooting named - as victim&#x27;s father brands attacker &#x27;a coward&#x27;</a></span>
+                <span class="title"><a href="https://news.sky.com/story/boy-8-killed-in-us-catholic-school-shooting-named-as-victims-father-brands-attacker-a-coward-13420257" target="_blank">Boy killed in US Catholic school shooting named</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-08-28 21:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/the-picture-show/2025/08/28/nx-s1-5519779/video-echoes-of-katrina-two-decades-of-struggle-and-strength" target="_blank">Video: Echoes of Katrina - Two decades of struggle and strength</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-28 20:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/minneapolis-shooting-memorial-02-ap-jef-250828_1756388822847_hpMain_4x3t_384.jpg" alt="Minneapolis shooter &#x27;expressed hate towards almost every group imaginable&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/multiple-minneapolis-shooting-victims-released-hospital-police-chief/story?id=125049583" target="_blank">Minneapolis shooter &#x27;expressed hate towards almost every group imaginable&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-28 19:52</span>
             </div>
         </div>
 </div>
@@ -173,12 +165,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/Firefox-Ai.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox’s On-Device AI Features Now Up to 10x Faster" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/firefoxs-on-device-ai-features-are-now-up-to-10x-faster" target="_blank">Firefox’s On-Device AI Features Now Up to 10x Faster</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-29 01:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqkb8yrtavhcvy13kgpcg.png" alt="A Personal Journey: Understanding Reflected XSS Through My DVWA Setup" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/samueladeduntan/a-personal-journey-understanding-reflected-xss-through-my-dvwa-setup-16d1" target="_blank">A Personal Journey: Understanding Reflected XSS Through My DVWA Setup</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-28 23:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lwn.net/Articles/1035537/" target="_blank">Python: The Documentary</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-28 23:27</span>
             </div>
         </div>
 <div class="story">
@@ -206,24 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-AMD-EPYC-Turin" target="_blank">Linux 6.17 Showing Off Some Nice Gains For 5th Gen AMD EPYC &quot;Turin&quot; Performance</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-28 20:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/uno-platform/10-common-xaml-ui-problems-and-how-hot-design-fixes-them-5a0f" target="_blank">10 Common XAML UI Problems (and How Hot Design Fixes Them)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-28 19:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://notebooks.manganiello.tech/fabio/wealth-inequality.ipynb" target="_blank">Simulating wealth distribution in an agent-based system</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-08-28 19:08</span>
             </div>
         </div>
 </div>
@@ -254,6 +246,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/wednesday-netflix.jpg" alt="Don’t Worry, ‘Wednesday’ Fans, the Coma Is Almost Over" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/dont-worry-wednesday-fans-the-coma-is-almost-over-2000650157" target="_blank">Don’t Worry, ‘Wednesday’ Fans, the Coma Is Almost Over</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-29 00:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Warner-Bros.-Oz-Zaslav.jpg" alt="‘The Wizard of Oz’ at the Sphere Has a Shocking 2-Second Cameo: David Zaslav" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -299,20 +300,20 @@
                 <span class="time">2025-08-28 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/GDTtopart.jpg" alt="10 Creepy-Cool Items You Can Buy From Guillermo del Toro’s Collection" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/10-creepy-cool-items-you-can-buy-from-guillermo-del-toros-collection-2000649891" target="_blank">10 Creepy-Cool Items You Can Buy From Guillermo del Toro’s Collection</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-28 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5646.png" alt="They&#x27;ve Changed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5646" target="_blank">They&#x27;ve Changed</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-08-29 01:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1756236933-20250828.png" alt="Saturday Morning Breakfast Cereal - Petals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -322,22 +323,13 @@
                 <span class="time">2025-08-28 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5645.png" alt="The Least Firm Handshake Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5645" target="_blank">The Least Firm Handshake Ever</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-08-28 01:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
