@@ -1,44 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-29 11:01:30 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-29 12:02:13 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 35 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, August 29, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, August 29, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/29/israeli-military-says-it-has-begun-initial-stages-of-attack-on-gaza-city?traffic_source=rss" target="_blank">Israeli military says it has begun ‘initial stages’ of attack on Gaza City</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-29 11:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/29/g-s1-86278/up-first-newsletter-minneapolis-shooting-victim-family-cdc-director-china-russia-north-korea-meet" target="_blank">Father of Minneapolis shooting victim speaks out. And, CDC announces new leadership</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-29 11:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,29 +100,20 @@
                 <span class="time">2025-08-29 09:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/29/thai-court-removes-prime-minister-paetongtarn-shinawatra-from-office?traffic_source=rss" target="_blank">Thai court removes Prime Minister Paetongtarn Shinawatra from office</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-29 08:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/07/1920x1080/skynews-paetongtarn-shinawatra_6954313.jpg?20250701103359" alt="Thai prime minister sacked after leaked phone call" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/thai-prime-minister-paetongtarn-shinawatra-sacked-for-ethics-violation-after-leaked-phone-call-13420382" target="_blank">Thai prime minister sacked after leaked phone call</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-29 08:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/767940/lenovo-rotating-display-laptop-concept-project-pivo-leak" target="_blank">Lenovo leaks show concept laptop with rotating display</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-29 11:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68b104f44074f86213509a1d/master/pass/Review-%20DJI%20Mic%203.png" alt="DJI Mic 3 Review: The Best Wireless Mic Gets Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -158,20 +159,29 @@
                 <span class="time">2025-08-28 22:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1232186902-500x500.jpg" alt="Genetically, Central American mammoths were weird" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/08/genetically-central-american-mammoths-were-weird/" target="_blank">Genetically, Central American mammoths were weird</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-28 21:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/b_myers/microservices-are-dead-long-live-microservices-35md" target="_blank">Microservices are Dead! Long Live Microservices</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-29 11:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.perplexity.ai/page/anthropic-reverses-privacy-sta-xH4KWU9nS3KH4Aj9F12dvQ" target="_blank">Anthropic reverses privacy stance, will train on Claude chats</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-29 11:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,24 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Qualcomm-PPE-Driver-Linux-6.18" target="_blank">Qualcomm Packet Processing Engine &quot;PPE&quot; Going Upstream For Linux 6.18</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-29 08:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fftt77vng9gqfush4cvz3.png" alt="Platform Engineering for the uninitiated" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/chiranjib_b/platform-engineering-for-the-uninitiated-1ifo" target="_blank">Platform Engineering for the uninitiated</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-29 07:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/08/29/open-source-is-for-the-people-by-the-people/" target="_blank">Open-source is for the people, by the people</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-08-29 07:40</span>
             </div>
         </div>
 </div>
@@ -345,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
