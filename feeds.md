@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-29 04:01:54 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-29 05:01:49 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, August 29, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, August 29, 2025 - 05:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +105,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/68a715a7a8ad5d95b47a30cb/master/pass/GettyImages-2205148126.jpg" alt="How to See the Total Lunar Eclipse and Blood Moon on September 7" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-see-the-total-lunar-eclipse-and-blood-moon-on-september-7/" target="_blank">How to See the Total Lunar Eclipse and Blood Moon on September 7</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-29 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1232186902-500x500.jpg" alt="Genetically, Central American mammoths were weird" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -152,15 +158,6 @@
                 <span class="time">2025-08-28 20:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a759e0f037868f363f87b9/master/pass/Apple-Movie-Guide-Culture-Highest_2_Lowest_Photo_0101.jpg" alt="The 29 Best Movies on Apple TV+ Right Now (September 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-apple-tv-plus-movies/" target="_blank">The 29 Best Movies on Apple TV+ Right Now (September 2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-28 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,9 +167,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/manas_tole_039/beyond-cap-understanding-the-pacelc-theorem-in-distributed-systems-kn3" target="_blank">Beyond CAP: Understanding the PACELC Theorem in Distributed Systems</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-29 04:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/tkouleris/tech-heroes-10-eric-s-raymond-59di" target="_blank">Tech Heroes #10: Eric S. Raymond</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-29 03:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/vs-code-themes/" target="_blank">19 Beautiful Themes to Get a Better Visual Experience With VS Code</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-08-29 03:43</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +215,6 @@
                 <span class="title"><a href="https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes" target="_blank">Claude Sonnet Will Ship in Xcode</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-29 00:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-august-29-2025" target="_blank">Friday Five — August 29, 2025</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2025-08-29 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqkb8yrtavhcvy13kgpcg.png" alt="A Personal Journey: Understanding Reflected XSS Through My DVWA Setup" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/samueladeduntan/a-personal-journey-understanding-reflected-xss-through-my-dvwa-setup-16d1" target="_blank">A Personal Journey: Understanding Reflected XSS Through My DVWA Setup</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-28 23:57</span>
             </div>
         </div>
 </div>
@@ -258,6 +255,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/Leavitt-1.jpeg?fit=1080%2C592&amp;quality=60&amp;ssl=1" alt="Women are not people, and Karoline Leavitt is just fine with it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/28/women-are-not-people-and-karoline-leavitt-is-just-fine-with-it.html" target="_blank">Women are not people, and Karoline Leavitt is just fine with it</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-28 23:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Warner-Bros.-Oz-Zaslav.jpg" alt="‘The Wizard of Oz’ at the Sphere Has a Shocking 2-Second Cameo: David Zaslav" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -293,15 +299,6 @@
                 <span class="time">2025-08-28 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Tinymoose-Pencil-Pro-Plus-for-iPad-with-Wireless-Charging-1.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="This $30 stylus slaps harder than your overpriced Apple Pencil" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/28/this-30-stylus-slaps-harder-than-your-overpriced-apple-pencil.html" target="_blank">This $30 stylus slaps harder than your overpriced Apple Pencil</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-28 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 05:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
