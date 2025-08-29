@@ -1,36 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-08-29 12:02:13 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-29 13:08:04 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, August 29, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, August 29, 2025 - 13:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/kamala-harris-2-gty-gmh-250829_1756471052706_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump revokes Kamala Harris’ Secret Service detail" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124929306" target="_blank">Trump admin live updates: Trump revokes Kamala Harris’ Secret Service detail</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-29 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/29/how-trumps-newfound-love-for-chinese-students-is-drawing-maga-backlash?traffic_source=rss" target="_blank">How Trump’s newfound love for Chinese students is drawing MAGA backlash</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-29 12:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -65,39 +88,21 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/29/nx-s1-5521908/thai-court-dismisses-prime-minister-compromising-phone-call-cambodia" target="_blank">Thai court dismisses prime minister over compromising phone call with Cambodian leader</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-29 10:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/29/uk-bans-israeli-officials-from-major-arms-exhibition?traffic_source=rss" target="_blank">UK bans Israeli officials from major arms exhibition</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-29 09:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e802/live/fec42080-8231-11f0-9f3c-119cd82e5d28.jpg" alt="How a leaked phone call derailed the Thai PM&#x27;s career - and the Shinawatra dynasty" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/1bbe1f30-84bf-11f0-acf0-71f4294565e0.jpg" alt="Thai court removes PM over leaked phone call with Cambodian leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cdrkvy2pn87o?at_medium=RSS&at_campaign=rss" target="_blank">How a leaked phone call derailed the Thai PM&#x27;s career - and the Shinawatra dynasty</a></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckgeqlw05rzo?at_medium=RSS&at_campaign=rss" target="_blank">Thai court removes PM over leaked phone call with Cambodian leader</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2025-08-29 09:18</span>
+                <span class="time">2025-08-29 11:33</span>
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1756466961868_tdy_news_7a_gutierrez_cdc_shakeup_250829_1920x1080-haoul1.jpg" alt="Protesters Rally at CDC: &#x27;Let&#x27;s Get the Politics Out of Public Health&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/29/g-s1-85902/oil-china-taliban-contract-breach-dispute-afghanistan" target="_blank">Contract breach or banditry? Inside the collapse of the Taliban&#x27;s oil deal with China</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-29 09:03</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/white-house-taps-longtime-vaccine-skeptic-as-cdc-interim-head-246079045705" target="_blank">Protesters Rally at CDC: &#x27;Let&#x27;s Get the Politics Out of Public Health&#x27;</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-29 11:29</span>
             </div>
         </div>
 </div>
@@ -105,6 +110,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/767944/diablo-developers-form-union-blizzard-entertainment" target="_blank">Blizzard’s Diablo team has unionized</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-29 12:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +164,29 @@
                 <span class="time">2025-08-29 04:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/microsoft/767841/microsoft-fires-two-more-protesters-no-azure-for-apartheid" target="_blank">Microsoft fires two more employees for participating in Palestine protests on campus</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-28 22:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18584790&w=600" alt="Development of System Configuration Management: Handling Exclusive Configurations and Associated Templates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/system-configuration-management-exclusive-configs-templates" target="_blank">Development of System Configuration Management: Handling Exclusive Configurations and Associated Templates</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-29 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fwupd-2.0.14-Released" target="_blank">Fwupd 2.0.14 Brings New Framework &amp; SteelSeries Hardware Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-29 12:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +223,6 @@
                 <span class="time">2025-08-29 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/mcp-connector-for-building-smarter-modular-ai-agents/en/headerimage/mcp-connector-for-building-smarter-modular-ai-agents-header-1756277862571.jpg" alt="Article: MCP: The Universal Connector for Building Smarter, Modular AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/mcp-connector-for-building-smarter-modular-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: MCP: The Universal Connector for Building Smarter, Modular AI Agents</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-29 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Qualcomm-PPE-Driver-Linux-6.18" target="_blank">Qualcomm Packet Processing Engine &quot;PPE&quot; Going Upstream For Linux 6.18</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-29 08:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +251,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/Seagate-Portable-2TB-External-Hard-Drive-HDD.jpg" alt="Seagate’s Portable 2TB Hard Drive Is Just $5 More Than the 1TB, Almost Free Insurance Policy for Gamers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/seagates-portable-2tb-hard-drive-is-just-5-more-than-the-1tb-almost-free-insurance-policy-for-gamers-2000621088" target="_blank">Seagate’s Portable 2TB Hard Drive Is Just $5 More Than the 1TB, Almost Free Insurance Policy for Gamers</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-29 12:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K3T83N3Q2QAYR0Z0PFYAC00B/hero-image.png" alt="This Eight-Piece Ring Home Security Bundle Is $275 for Labor Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/ring-home-security-bundle-labor-day-sale-2025?utm_medium=RSS" target="_blank">This Eight-Piece Ring Home Security Bundle Is $275 for Labor Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-29 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Gizmodo-Featured-Image-Live.jpg" alt="Live Updates From IFA 2025 in Berlin 🔴" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,24 +303,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/28/women-are-not-people-and-karoline-leavitt-is-just-fine-with-it.html" target="_blank">Women are not people, and Karoline Leavitt is just fine with it</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-28 23:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Warner-Bros.-Oz-Zaslav.jpg" alt="‘The Wizard of Oz’ at the Sphere Has a Shocking 2-Second Cameo: David Zaslav" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-wizard-of-oz-at-the-sphere-has-a-shocking-2-second-cameo-david-zaslav-2000650163" target="_blank">‘The Wizard of Oz’ at the Sphere Has a Shocking 2-Second Cameo: David Zaslav</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-28 23:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/ncaa.jpg" alt="EA And 2K Games Are Beefing Over NCAA College Basketball Exclusivity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ea-college-basketball-ncaa-2k-hoops-ucla-2000621071" target="_blank">EA And 2K Games Are Beefing Over NCAA College Basketball Exclusivity</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-28 21:43</span>
             </div>
         </div>
 </div>
@@ -337,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 13:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
