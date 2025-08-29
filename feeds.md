@@ -1,31 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-29 20:01:57 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-29 21:01:35 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, August 29, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, August 29, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/29/reaction-to-us-visa-ban-on-palestinian-officials-ahead-of-unga?traffic_source=rss" target="_blank">Reaction to US visa ban on Palestinian officials ahead of UNGA</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-29 20:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Hospital-Vigil-2-ht-gmh-250829_1756485687440_hpMain_4x3t_384.jpg" alt="Grief turns to hope as Minneapolis rallies behind kids hurt in school shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/grief-turns-hope-minneapolis-rallies-kids-hurt-school/story?id=125091070" target="_blank">Grief turns to hope as Minneapolis rallies behind kids hurt in school shooting</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-29 20:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,29 +104,20 @@
                 <span class="time">2025-08-29 18:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/29/trump-seeks-to-cut-5bn-in-congressionally-approved-foreign-aid?traffic_source=rss" target="_blank">Trump seeks to cut $5bn in congressionally approved foreign aid</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-29 17:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/29/nx-s1-5522066/kamala-harris-secret-service" target="_blank">Trump ends Harris&#x27; Secret Service detail</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-29 16:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/762594/fable-showrunner-edwatch-saatchi-interview" target="_blank">Showrunner wants to turn you into a happy little content prompter for the &amp;#8216;Netflix of AI&amp;#8217;</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-29 20:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/11/copilot_logo3-500x500.jpg" alt="With new in-house models, Microsoft lays the groundwork for independence from OpenAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,20 +163,29 @@
                 <span class="time">2025-08-29 17:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/768083/framework-actually-did-it-i-upgraded-a-laptops-entire-gpu-in-just-three-minutes" target="_blank">Framework actually did it: I upgraded a laptop’s entire GPU in just three minutes</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-29 16:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Josef-Bacik-Leaves-Meta" target="_blank">Btrfs Developer Josef Bacik Leaving Meta &amp; Stepping Back From Kernel Development</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-29 20:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/" target="_blank">Do the simplest thing that could possibly work</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-29 19:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +222,6 @@
                 <span class="time">2025-08-29 16:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/under-the-hood-exploring-the-ai-models-powering-github-copilot/" target="_blank">Under the hood: Exploring the AI models powering GitHub Copilot</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-08-29 16:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/netpeek.jpg?resize=406%2C232&amp;ssl=1" alt="NetPeek is a New, User-Friendly Network Scanner for Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/netpeek-linux-network-scanner-gui-alternative-nmap" target="_blank">NetPeek is a New, User-Friendly Network Scanner for Linux</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-29 16:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Image-Framework.jpg?fit=1080%2C788&amp;quality=60&amp;ssl=1" alt="Framework adds powerful RTX 5070 GPU to modular laptop options" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/29/framework-adds-powerful-rtx-5070-gpu-to-modular-laptop-options.html" target="_blank">Framework adds powerful RTX 5070 GPU to modular laptop options</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-29 20:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Lego-Legos.jpg" alt="Lego Will No Longer Ship Individual Pieces Thanks to Trump Tariffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/lego-will-no-longer-ship-individual-pieces-thanks-to-trump-tariffs-2000650637" target="_blank">Lego Will No Longer Ship Individual Pieces Thanks to Trump Tariffs</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-29 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Mechazilla.jpg" alt="SpaceX’s Next Big Trick: Catch the Starship Upper Stage With ‘Chopsticks’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,24 +293,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/samsung-ultrawide-odyssey-g9-monitors-labor-day-sales-2025?utm_medium=RSS" target="_blank">Samsung&#x27;s Ultrawide Odyssey G9 Monitors Are Down to Their Lowest Prices Ever for Labor Day</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-08-29 17:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/VS-YouTube-Pragmata-FirstContactTrailerPS5Games-151-1.jpg" alt="Capcom Producer Laughed And Said No When Asked If Pragmata Is A Secret Mega Man Game" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/capcom-pragmata-mega-man-conspiracy-theory-debunked-2000621414" target="_blank">Capcom Producer Laughed And Said No When Asked If Pragmata Is A Secret Mega Man Game</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-29 17:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/shutterstock_2639942717-e1756488851256.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="When ICE isn&#x27;t tearing families apart, it&#x27;s pulling first responders off the job" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/29/when-ice-isnt-tearing-families-apart-its-pulling-first-responders-off-the-job.html" target="_blank">When ICE isn&#x27;t tearing families apart, it&#x27;s pulling first responders off the job</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-29 17:37</span>
             </div>
         </div>
 </div>
@@ -323,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
