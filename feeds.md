@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-29 05:01:49 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-29 06:02:07 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, August 29, 2025 - 05:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, August 29, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/29/nx-s1-5521857/trial-memphis-police-tyre-nichols" target="_blank">New trial ordered for 3 Memphis ex-officers in connection with death of Tyre Nichols</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-29 05:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/29/china-seeks-stronger-ties-with-brazil-to-resist-bullying-on-world?traffic_source=rss" target="_blank">China seeks stronger ties with Brazil to resist ‘bullying’ on world stage</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-29 05:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +99,20 @@
                 <span class="time">2025-08-28 23:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f56/live/8d18c1c0-8452-11f0-b9ad-e5f9f0d91f43.jpg" alt="Minneapolis school attacker &#x27;obsessed with idea of killing children&#x27;, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4g0lyny7ydo?at_medium=RSS&at_campaign=rss" target="_blank">Minneapolis school attacker &#x27;obsessed with idea of killing children&#x27;, officials say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-28 22:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/28/nx-s1-5521340/kids-children-heroism-church-shooting-minneapolis" target="_blank">Middle schoolers are lauded for protecting younger kids during church shooting</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-28 22:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg" alt="Dyson Promo Codes: 20% Off | September 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/dyson-cordless-vacuum-promo-code/" target="_blank">Dyson Promo Codes: 20% Off | September 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-29 05:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68a715a7a8ad5d95b47a30cb/master/pass/GettyImages-2205148126.jpg" alt="How to See the Total Lunar Eclipse and Blood Moon on September 7" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,15 +158,6 @@
                 <span class="time">2025-08-28 20:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68b0b3aaaabb24a7fecf68ff/master/pass/Take%20$150%20off%20our%20Favorite%20GoPro.png" alt="Our Favorite GoPro Is $150 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/gopro-hero-black-deal/" target="_blank">Our Favorite GoPro Is $150 Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-28 20:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +170,15 @@
                 <span class="title"><a href="https://dev.to/manas_tole_039/beyond-cap-understanding-the-pacelc-theorem-in-distributed-systems-kn3" target="_blank">Beyond CAP: Understanding the PACELC Theorem in Distributed Systems</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-29 04:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://sites.google.com/site/oh6dccw/strangecwkeys" target="_blank">Strange CW Keys</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-29 04:22</span>
             </div>
         </div>
 <div class="story">
@@ -206,15 +215,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/firefoxs-on-device-ai-features-are-now-up-to-10x-faster" target="_blank">Firefox’s On-Device AI Features Now Up to 10x Faster</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-08-29 01:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://developer.apple.com/documentation/xcode-release-notes/xcode-26-release-notes" target="_blank">Claude Sonnet Will Ship in Xcode</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-29 00:44</span>
             </div>
         </div>
 </div>
@@ -327,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 05:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
