@@ -1,41 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-08-29 13:08:04 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-29 14:01:41 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 32 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, August 29, 2025 - 13:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, August 29, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,12 +108,30 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/685a17bf2fdddf15e6592e28/master/pass/best%20kindles.png" alt="The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-kindle/" target="_blank">The Best Kindle of 2025: Paperwhite, Scribe, or Colorsoft?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-29 13:34</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/767944/diablo-developers-form-union-blizzard-entertainment" target="_blank">Blizzard’s Diablo team has unionized</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-08-29 12:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/IMG_9216-1-500x500.jpg" alt="Rocket Report: SpaceX achieved daily launch this week; ULA recovers booster" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/08/rocket-report-spacex-achieved-daily-launch-this-week-ula-recovers-booster/" target="_blank">Rocket Report: SpaceX achieved daily launch this week; ULA recovers booster</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-29 12:39</span>
             </div>
         </div>
 <div class="story">
@@ -146,29 +161,20 @@
                 <span class="time">2025-08-29 08:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg" alt="Dyson Promo Codes: 20% Off | September 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/dyson-cordless-vacuum-promo-code/" target="_blank">Dyson Promo Codes: 20% Off | September 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-29 05:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a715a7a8ad5d95b47a30cb/master/pass/GettyImages-2205148126.jpg" alt="How to See the Total Lunar Eclipse and Blood Moon on September 7" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-to-see-the-total-lunar-eclipse-and-blood-moon-on-september-7/" target="_blank">How to See the Total Lunar Eclipse and Blood Moon on September 7</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-29 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/08/ubereats-inca-inventory-catalog/en/headerimage/ubereats_inca_header-1756138099717.jpg" alt="Uber Eats Introduces INCA to Scale Catalog Management from Restaurants to Retail" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/ubereats-inca-inventory-catalog/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Uber Eats Introduces INCA to Scale Catalog Management from Restaurants to Retail</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-29 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18584790&w=600" alt="Development of System Configuration Management: Handling Exclusive Configurations and Associated Templates" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -214,15 +220,6 @@
                 <span class="time">2025-08-29 10:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="AWS Launches Memory-Optimized EC2 R8i and R8i-flex Instances with Custom Intel Xeon 6 Processors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/ec2-r8i-intel-xeon-six/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Launches Memory-Optimized EC2 R8i and R8i-flex Instances with Custom Intel Xeon 6 Processors</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-29 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -251,6 +248,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K3RX0XJ8JZK717G7KP860APW/hero-image.jpg" alt="That Phone Call From Google Is Probably a Scam" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/that-phone-call-from-google-is-probably-a-scam?utm_medium=RSS" target="_blank">That Phone Call From Google Is Probably a Scam</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-29 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/Seagate-Portable-2TB-External-Hard-Drive-HDD.jpg" alt="Seagate’s Portable 2TB Hard Drive Is Just $5 More Than the 1TB, Almost Free Insurance Policy for Gamers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -296,15 +302,6 @@
                 <span class="time">2025-08-29 00:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/Leavitt-1.jpeg?fit=1080%2C592&amp;quality=60&amp;ssl=1" alt="Women are not people, and Karoline Leavitt is just fine with it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/28/women-are-not-people-and-karoline-leavitt-is-just-fine-with-it.html" target="_blank">Women are not people, and Karoline Leavitt is just fine with it</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-28 23:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -342,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 13:08 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
