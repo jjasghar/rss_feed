@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-30 18:01:53 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-30 19:01:31 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, August 30, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, August 30, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -63,6 +62,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-thunberg-gaza_7006403.jpg?20250830194306" alt="Greta Thunberg rejects accusations of antisemitism as she embarks on second flotilla to Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/greta-thunberg-rejects-accusations-of-antisemitism-as-she-embarks-on-second-flotilla-to-gaza-13421526" target="_blank">Greta Thunberg rejects accusations of antisemitism as she embarks on second flotilla to Gaza</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-30 15:33</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -89,15 +97,6 @@
                 <span class="time">2025-08-30 14:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c18f/live/86114700-8581-11f0-ab22-d347aa25866a.jpg" alt="Russia launches massive attack on Ukraine, as Kyiv hits oil refineries" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4g614x9kqko?at_medium=RSS&at_campaign=rss" target="_blank">Russia launches massive attack on Ukraine, as Kyiv hits oil refineries</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-30 12:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -110,6 +109,15 @@
                 <span class="title"><a href="https://techcrunch.com/2025/08/30/taco-bell-is-having-second-thoughts-about-relying-on-ai-at-the-drive-through/" target="_blank">Taco Bell is having second thoughts about relying on AI at the drive-through</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-08-30 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68a66e69d3699f0e9647c9e6/master/pass/The%20Best%20Deals%20From%20REI%E2%80%99s%202025%20Labor%20Day%20Sale.png" alt="The 59 Best Deals From REI’s 2025 Labor Day Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/" target="_blank">The 59 Best Deals From REI’s 2025 Labor Day Sale</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-30 16:06</span>
             </div>
         </div>
 <div class="story">
@@ -148,20 +156,20 @@
                 <span class="time">2025-08-30 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68b26bf7add3d03ad0473ca1/master/pass/Apple%20Invite%20SOURCE%20Apple.png" alt="Gear News of the Week: Apple’s iPhone Event Gets a Date, and Plaud Upgrades Its AI Note-Taker" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/gear-news-of-the-week-apples-iphone-event-gets-a-date-and-plaud-upgrades-its-ai-note-taker/" target="_blank">Gear News of the Week: Apple’s iPhone Event Gets a Date, and Plaud Upgrades Its AI Note-Taker</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-30 09:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/doormatt_/fishing-world-devlog-0-daj" target="_blank">Fishing World - Devlog #0</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-30 18:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6fwo9ba174raz4vsz6bu.png" alt="MetalEAGLLayer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +215,6 @@
                 <span class="time">2025-08-30 12:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://agentclientprotocol.com/overview/introduction" target="_blank">Agent Client Protocol</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-30 12:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/GyUVIVHWoAA6Qgt.jpeg" alt="Borderlands 4 Post-Launch Roadmap Reveals The Return Of Something Fans Loved From Borderlands 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/borderlands-4-pearls-roadmap-takedown-dlc-free-update-2000621708" target="_blank">Borderlands 4 Post-Launch Roadmap Reveals The Return Of Something Fans Loved From Borderlands 2</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-30 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/05/Use-a-VPN-to-Unblock-WhatsApp-Calls-in-Qatar.jpg" alt="WhatsApp Just Patched a ‘Zero Click’ Bug Being Used to Hack Apple Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +288,6 @@
                 <span class="time">2025-08-30 00:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Mortal-Kombat-II-Warner-Bros.jpg" alt="Warner Bros. Shifts ‘Mortal Kombat II’ Release Date to Summer 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/warner-bros-shifts-mortal-kombat-ii-release-date-to-summer-2026-2000650940" target="_blank">Warner Bros. Shifts ‘Mortal Kombat II’ Release Date to Summer 2026</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-29 23:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
