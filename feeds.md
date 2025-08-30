@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-30 19:01:31 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-30 20:01:56 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
 <!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, August 30, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, August 30, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-03/250325-tulsi-gabbard-john-ratcliffe-ac-952p-792234.jpg" alt="Tensions rise between Gabbard and CIA chief after her disclosure of undercover officer&#x27;s name, insiders say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/national-security/tulsi-gabbard-cia-director-john-ratcliffe-rcna223285" target="_blank">Tensions rise between Gabbard and CIA chief after her disclosure of undercover officer&#x27;s name, insiders say</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-08-30 18:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/30/we-are-on-the-streets-palestinians-flee-israels-assault-on-gaza-city?traffic_source=rss" target="_blank">‘We are on the streets’: Palestinians flee Israel’s assault on Gaza City</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-30 18:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d209/live/eefe5f50-85b8-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Houthis confirm their prime minister killed in Israeli strike" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,24 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/30/palestinian-authority-urges-us-to-reinstate-abbass-visa-before-unga?traffic_source=rss" target="_blank">Palestinian Authority urges US to reinstate Abbas’s visa before UNGA</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-30 15:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/30/nx-s1-5522932/houthi-prime-minister-dead-yemen-israel-airstrike" target="_blank">Houthi rebels say Israeli airstrike killed their prime minister in Yemen&#x27;s capital</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-30 14:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/30/yemens-houthis-confirm-israeli-airstrike-killed-the-groups-prime-minister?traffic_source=rss" target="_blank">Yemen’s Houthis confirm Israeli airstrike killed the group’s prime minister</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-30 14:13</span>
             </div>
         </div>
 </div>
@@ -165,6 +165,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jay-x/creating-a-dynamic-website-in-45mins-using-html-css-and-javascript-21m4" target="_blank">Creating a dynamic website in 45mins using HTML, CSS and Javascript</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-30 19:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/doormatt_/fishing-world-devlog-0-daj" target="_blank">Fishing World - Devlog #0</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-30 18:59</span>
@@ -206,15 +215,6 @@
                 <span class="time">2025-08-30 12:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwkl2qw1kwfattnhmus6f.png" alt="Understanding `@State` in SwiftUI: How It Works Under the Hood" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/karthikpala/understanding-state-in-swiftui-how-it-works-under-the-hood-3l5o" target="_blank">Understanding `@State` in SwiftUI: How It Works Under the Hood</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-30 12:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/ZOOTOPIA-2-Ginnifer-Goodwin-Jason-Bateman-Disney.jpg" alt="Disney Gives New Looks at ‘Toy Story 5,’ ‘Zootopia 2,’ and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/disney-gives-new-looks-at-toy-story-5-zootopia-2-and-more-2000651211" target="_blank">Disney Gives New Looks at ‘Toy Story 5,’ ‘Zootopia 2,’ and More</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-30 19:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/GyUVIVHWoAA6Qgt.jpeg" alt="Borderlands 4 Post-Launch Roadmap Reveals The Return Of Something Fans Loved From Borderlands 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +288,6 @@
                 <span class="time">2025-08-30 11:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/Leavitt-1.jpeg?fit=1080%2C592&amp;quality=60&amp;ssl=1" alt="Karoline Leavitt&#x27;s baffling statement about the price of gas" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/29/karoline-leavitts-baffling-statement-about-the-price-of-gas.html" target="_blank">Karoline Leavitt&#x27;s baffling statement about the price of gas</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-30 00:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -307,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
