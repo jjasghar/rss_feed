@@ -1,33 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-08-30 20:01:56 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-30 21:01:26 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, August 30, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, August 30, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +99,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/768431/windows-update-didnt-brick-your-ssd" target="_blank">No, a Windows update probably didn’t brick your SSD</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-30 16:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/08/30/taco-bell-is-having-second-thoughts-about-relying-on-ai-at-the-drive-through/" target="_blank">Taco Bell is having second thoughts about relying on AI at the drive-through</a></span>
                 <span class="feed">TechCrunch</span>
@@ -147,20 +150,20 @@
                 <span class="time">2025-08-30 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2015/07/wall-street-500x500.jpg" alt="Texas suit alleging anti-coal “cartel” of top Wall Street firms could reshape ESG" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/08/texas-suit-alleging-anti-coal-cartel-of-top-wall-street-firms-could-reshape-esg/" target="_blank">Texas suit alleging anti-coal “cartel” of top Wall Street firms could reshape ESG</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-30 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rolystone_mocha_316478f2b/semantic-html-for-search-engine-optimizationseo-and-accessibility-1pgm" target="_blank">Semantic html for Search Engine Optimization(SEO) and Accessibility.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-30 20:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +209,6 @@
                 <span class="time">2025-08-30 14:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/zakirullin/cognitive-load" target="_blank">Cognitive Load is what matters</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-30 12:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -253,6 +247,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/jack.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Jack Daniels sales drop 62% in Canada" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/30/jack-daniels-sales-drop-62-in-canada.html" target="_blank">Jack Daniels sales drop 62% in Canada</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-30 18:17</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/05/Use-a-VPN-to-Unblock-WhatsApp-Calls-in-Qatar.jpg" alt="WhatsApp Just Patched a ‘Zero Click’ Bug Being Used to Hack Apple Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -279,15 +282,6 @@
                 <span class="time">2025-08-30 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/baseus-100w.jpg" alt="Amazon Is Selling Off This 100W USB-C Charger Block With 3 Ports, Now at a Historic Low Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazon-is-selling-off-this-100w-usb-c-charger-block-with-3-ports-now-at-a-historic-low-price-2000621687" target="_blank">Amazon Is Selling Off This 100W USB-C Charger Block With 3 Ports, Now at a Historic Low Price</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-30 11:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -307,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
