@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-30 11:01:24 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-30 12:02:04 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, August 30, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, August 30, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bad/live/f1197b20-858c-11f0-ab22-d347aa25866a.jpg" alt="Prominent Ukrainian politician Andriy Parubiy shot dead in Lviv" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cjw6ep37469o?at_medium=RSS&at_campaign=rss" target="_blank">Prominent Ukrainian politician Andriy Parubiy shot dead in Lviv</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-30 11:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee08/live/04ca3370-857a-11f0-a80e-4105c79cbebb.jpg" alt="Councils still planning asylum hotel legal action despite Epping ruling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj9wkrykx94o?at_medium=RSS&at_campaign=rss" target="_blank">Councils still planning asylum hotel legal action despite Epping ruling</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-30 11:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,24 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/30/g-s1-86452/judge-block-speedy-deportations" target="_blank">Federal judge blocks Trump&#x27;s effort to expand speedy deportations of migrants</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-30 04:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2025/8/30/does-india-have-a-stray-dog-epidemic?traffic_source=rss" target="_blank">Does India have a stray dog epidemic?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-30 03:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0810/live/ba4368f0-853b-11f0-84c8-99de564f0440.jpg" alt="Police make three arrests during Epping protest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c24z0105m24o?at_medium=RSS&at_campaign=rss" target="_blank">Police make three arrests during Epping protest</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-30 01:40</span>
             </div>
         </div>
 </div>
@@ -168,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh2rex9675bfmfqlpoaul.png" alt="Micro Frontends: A Senior Frontend Engineer&#x27;s Perspective" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kumar111222rohit/micro-frontends-a-senior-frontend-engineers-perspective-k7l" target="_blank">Micro Frontends: A Senior Frontend Engineer&#x27;s Perspective</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-30 11:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsyt98ww63ss9480vi3ez.png" alt="The Power of &quot;^&quot; in package.json" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -212,15 +217,6 @@
                 <span class="time">2025-08-30 06:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/connectaryal/stop-messing-up-ga4-events-a-type-safe-analytics-library-for-react-nextjs-5em8" target="_blank">Stop Messing Up GA4 Events: A Type-Safe Analytics Library for React &amp; Next.js</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-30 04:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/baseus-100w.jpg" alt="Amazon Is Selling Off This 100W USB-C Charger Block With 3 Ports, Now at a Historic Low Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-is-selling-off-this-100w-usb-c-charger-block-with-3-ports-now-at-a-historic-low-price-2000621687" target="_blank">Amazon Is Selling Off This 100W USB-C Charger Block With 3 Ports, Now at a Historic Low Price</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-30 11:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/Leavitt-1.jpeg?fit=1080%2C592&amp;quality=60&amp;ssl=1" alt="Karoline Leavitt&#x27;s baffling statement about the price of gas" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +290,6 @@
                 <span class="time">2025-08-29 21:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/roborock-saros-z70.jpg" alt="The Most Advanced Robovac with a Mechanical Arm Is $1,000 Off, Roborock Selling Off All Inventory" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/the-most-advanced-robovac-with-a-mechanical-arm-is-1000-off-roborock-selling-off-all-inventory-2000621455" target="_blank">The Most Advanced Robovac with a Mechanical Arm Is $1,000 Off, Roborock Selling Off All Inventory</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-29 21:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 115 | 📡 Total Sources: 41 | 📸 With Images: 284 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
