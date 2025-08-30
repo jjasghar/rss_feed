@@ -1,41 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-30 00:04:27 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-30 01:28:57 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 33 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, August 30, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, August 30, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/30/russia-ukraine-war-list-of-key-events-day-1283?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,283</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-30 01:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,15 +101,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/29/nx-s1-5522457/tariffs-trump-trade-supreme-court" target="_blank">Most of President Trump&#x27;s tariffs are illegal, U.S. court rules</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-29 22:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/29/nx-s1-5522302/redistricting-trump-missouri-midterm-elections" target="_blank">At Trump&#x27;s urging, Missouri jumps into redistricting race to help Republicans</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-29 21:53</span>
             </div>
         </div>
 </div>
@@ -170,6 +168,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fni3emj5hlgdy3mo020e1.png" alt="Meet Bugsy, Your AI Web Bug Hunter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/isah_alamin_93d4e4d2ab01f/meet-bugsy-your-ai-web-bug-hunter-4dm3" target="_blank">Meet Bugsy, Your AI Web Bug Hunter</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-30 01:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-10.14-Released" target="_blank">WIne 10.14 Ships With Updated Mono, VKD3D 1.17 &amp; Ping Support For IPv6</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-30 00:24</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,29 +221,20 @@
                 <span class="time">2025-08-29 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/" target="_blank">Do the simplest thing that could possibly work</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-29 19:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aaron_rose_0787cc8b4775a0/javascript-one-liners-that-actually-slap-and-one-that-doesnt--20g6" target="_blank">JavaScript One-Liners That Actually Slap 🚀 (And One That Doesn&#x27;t 👀)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-29 18:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-catching-humboldt-squid.html" target="_blank">Friday Squid Blogging: Catching Humboldt Squid</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-08-29 21:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -242,6 +249,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/A.-Wilshaw-C.M.-Stimpson-Stimpson-et-al.-2025.jpg?fit=1080%2C718&amp;quality=60&amp;ssl=1" alt="Who mortally wounded this man with a quartz projectile 12,000 years ago? Nobody knows." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/29/who-mortally-wounded-this-man-with-a-quartz-projectile-12000-years-ago-nobody-knows.html" target="_blank">Who mortally wounded this man with a quartz projectile 12,000 years ago? Nobody knows.</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-29 23:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Fallout-vault-.jpg" alt="Peek Inside the ‘Fallout’ Vault at Universal Studios’ Halloween Horror Nights Hollywood" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +303,6 @@
                 <span class="time">2025-08-29 21:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Image-Framework.jpg?fit=1080%2C788&amp;quality=60&amp;ssl=1" alt="Framework adds powerful RTX 5070 GPU to modular laptop options" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/29/framework-adds-powerful-rtx-5070-gpu-to-modular-laptop-options.html" target="_blank">Framework adds powerful RTX 5070 GPU to modular laptop options</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-29 20:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,12 +327,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="http://www.questionablecontent.net/comics/5646.png" alt="They&#x27;ve Changed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://imgs.xkcd.com/comics/sea_level.png" alt="Sea Level" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5646" target="_blank">They&#x27;ve Changed</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-08-29 01:16</span>
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3135/" target="_blank">Sea Level</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-08-29 04:00</span>
             </div>
         </div>
 </div>
@@ -333,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
