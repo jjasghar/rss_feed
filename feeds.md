@@ -1,38 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-08-29 23:01:53 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-30 00:04:27 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, August 29, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, August 30, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/29/stop-killing-women-australian-mother-vows-to-be-voice-for-slain-daughter?traffic_source=rss" target="_blank">‘Stop killing women’: Australian mother vows to be voice for slain daughter</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-29 23:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/2232255631_1756385400284_hpMain_4x3t_384.jpg" alt="Trump’s global tariffs are unlawful, appeals court says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/trumps-global-tariffs-unlawful-appeals-court/story?id=125110624" target="_blank">Trump’s global tariffs are unlawful, appeals court says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-29 23:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,24 +105,6 @@
                 <span class="time">2025-08-29 21:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/29/reaction-to-us-visa-ban-on-palestinian-officials-ahead-of-unga?traffic_source=rss" target="_blank">Reaction to US visa ban on Palestinian officials ahead of UNGA</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-29 20:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/04/1920x1080/skynews-breaking-news-breaking_6875336.png?20250820165527" alt="US blocks Palestinian president and 80 other officials from United Nations meeting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/us-blocks-palestinian-president-mahmoud-abbas-and-80-other-officials-from-united-nations-annual-meeting-in-new-york-13420954" target="_blank">US blocks Palestinian president and 80 other officials from United Nations meeting</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-08-29 20:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -114,6 +117,15 @@
                 <span class="title"><a href="https://www.wired.com/story/charles-borges-resignation-email-disappearance/" target="_blank">SSA Whistleblower’s Resignation Email Mysteriously Disappeared From Inboxes</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-08-29 22:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1426070870-500x500.jpg" alt="The fight against labeling long-term streaming rentals as “purchases” you “buy”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/08/i-like-plaintiffs-chances-prime-video-back-in-court-over-using-the-word-buy/" target="_blank">The fight against labeling long-term streaming rentals as “purchases” you “buy”</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-29 21:51</span>
             </div>
         </div>
 <div class="story">
@@ -152,20 +164,20 @@
                 <span class="time">2025-08-29 19:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/29/tiktok-now-lets-users-send-voice-notes-and-images-in-dms/" target="_blank">TikTok now lets users send voice notes and images in DMs</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-29 19:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devtoolreview/top-5-json-escape-tools-online-5bk7" target="_blank">Top 5 JSON Escape Tools Online</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-29 23:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F93xizhx2zuyi6ir90t7m.png" alt="EPS | SVG | AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -185,6 +197,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18586414&w=600" alt="Why It’s Time to Reevaluate Quality Control Methods in Data Labeling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/reevaluate-quality-control-data-labeling" target="_blank">Why It’s Time to Reevaluate Quality Control Methods in Data Labeling</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-08-29 20:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -200,24 +221,6 @@
                 <span class="title"><a href="https://dev.to/aaron_rose_0787cc8b4775a0/javascript-one-liners-that-actually-slap-and-one-that-doesnt--20g6" target="_blank">JavaScript One-Liners That Actually Slap 🚀 (And One That Doesn&#x27;t 👀)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-29 18:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Bcachefs-Externally-Maintained" target="_blank">Linus Torvalds Marks Bcachefs As Now &quot;Externally Maintained&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-29 18:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18586288&w=600" alt="The Death of Static Rules: Making Microservices Smart, Flexible and Easy to Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/the-death-of-static-rules-making-microservices-sma" target="_blank">The Death of Static Rules: Making Microservices Smart, Flexible and Easy to Change</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-29 18:00</span>
             </div>
         </div>
 </div>
@@ -258,6 +261,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/roborock-saros-z70.jpg" alt="The Most Advanced Robovac with a Mechanical Arm Is $1,000 Off, Roborock Selling Off All Inventory" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-most-advanced-robovac-with-a-mechanical-arm-is-1000-off-roborock-selling-off-all-inventory-2000621455" target="_blank">The Most Advanced Robovac with a Mechanical Arm Is $1,000 Off, Roborock Selling Off All Inventory</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-29 21:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Jaws-Poster-art.jpg" alt="The 10 Best Moments in ‘Jaws’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -282,15 +294,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/08/29/framework-adds-powerful-rtx-5070-gpu-to-modular-laptop-options.html" target="_blank">Framework adds powerful RTX 5070 GPU to modular laptop options</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-08-29 20:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Lego-Legos.jpg" alt="Lego Will No Longer Ship Individual Pieces Thanks to Trump Tariffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/lego-will-no-longer-ship-individual-pieces-thanks-to-trump-tariffs-2000650637" target="_blank">Lego Will No Longer Ship Individual Pieces Thanks to Trump Tariffs</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-29 20:30</span>
             </div>
         </div>
 </div>
@@ -330,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
