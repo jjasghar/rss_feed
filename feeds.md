@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-30 16:01:54 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-30 17:01:47 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, August 30, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, August 30, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/30/right-to-know-advocates-renew-calls-for-justice-for-syrias-disappeared?traffic_source=rss" target="_blank">‘Right to know’: Advocates renew calls for justice for Syria’s disappeared</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-30 16:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +101,20 @@
                 <span class="time">2025-08-30 12:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bad/live/f1197b20-858c-11f0-ab22-d347aa25866a.jpg" alt="Prominent Ukrainian politician Andriy Parubiy shot dead in Lviv" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cjw6ep37469o?at_medium=RSS&at_campaign=rss" target="_blank">Prominent Ukrainian politician Andriy Parubiy shot dead in Lviv</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-30 11:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/30/taco-bell-is-having-second-thoughts-about-relying-on-ai-at-the-drive-through/" target="_blank">Taco Bell is having second thoughts about relying on AI at the drive-through</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-30 16:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +160,20 @@
                 <span class="time">2025-08-30 09:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/29/cracks-are-forming-in-metas-partnership-with-scale-ai/" target="_blank">Cracks are forming in Meta’s partnership with Scale AI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-30 01:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6fwo9ba174raz4vsz6bu.png" alt="MetalEAGLLayer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/maxnxi/metaleagllayer-5d0l" target="_blank">MetalEAGLLayer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-30 16:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3e7ubx9fbudbck2oe150.png" alt="Building Veloren SA: An Astro blog fed by a Google Cloud Translation Pipeline" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -174,6 +181,24 @@
                 <span class="title"><a href="https://dev.to/hnrq/building-veloren-sa-an-astro-blog-fed-by-google-cloud-translation-pipeline-150" target="_blank">Building Veloren SA: An Astro blog fed by a Google Cloud Translation Pipeline</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-30 15:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wayfire-0.10-Released" target="_blank">Wayfire 0.10 Wayland Compositor Brings Experimental Vulkan Rendering</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-30 14:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/zakirullin/cognitive-load" target="_blank">Cognitive Load is what matters</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-30 12:58</span>
             </div>
         </div>
 <div class="story">
@@ -192,33 +217,6 @@
                 <span class="title"><a href="https://agentclientprotocol.com/overview/introduction" target="_blank">Agent Client Protocol</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-30 12:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh2rex9675bfmfqlpoaul.png" alt="Micro Frontends: A Senior Frontend Engineer&#x27;s Perspective" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kumar111222rohit/micro-frontends-a-senior-frontend-engineers-perspective-k7l" target="_blank">Micro Frontends: A Senior Frontend Engineer&#x27;s Perspective</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-30 11:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.thisdaysportion.com/posts/contra-analytics/" target="_blank">You do not need &quot;analytics&quot; for your blog</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-30 11:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsyt98ww63ss9480vi3ez.png" alt="The Power of &quot;^&quot; in package.json" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bdhamithkumara/the-power-of-in-packagejson-4pb7" target="_blank">The Power of &quot;^&quot; in package.json</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-30 10:50</span>
             </div>
         </div>
 </div>
@@ -247,6 +245,15 @@
                 <span class="title"><a href="https://gizmodo.com/whatsapp-zero-click-bug-apple-cybersecurity-2000650896" target="_blank">WhatsApp Just Patched a ‘Zero Click’ Bug Being Used to Hack Apple Users</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-30 15:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/PawnHoster.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Stop paying rent on your website—just own the darn thing when you host with this $50 tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/30/stop-paying-rent-on-your-website-just-own-the-darn-thing-when-you-host-with-this-50-tool.html" target="_blank">Stop paying rent on your website—just own the darn thing when you host with this $50 tool</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-30 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -285,15 +292,6 @@
                 <span class="time">2025-08-29 23:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/A.-Wilshaw-C.M.-Stimpson-Stimpson-et-al.-2025.jpg?fit=1080%2C718&amp;quality=60&amp;ssl=1" alt="Who mortally wounded this man with a quartz projectile 12,000 years ago? Nobody knows." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/29/who-mortally-wounded-this-man-with-a-quartz-projectile-12000-years-ago-nobody-knows.html" target="_blank">Who mortally wounded this man with a quartz projectile 12,000 years ago? Nobody knows.</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-29 23:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
