@@ -1,34 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-08-30 04:01:55 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-30 05:01:48 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, August 30, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, August 30, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -166,6 +173,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/connectaryal/stop-messing-up-ga4-events-a-type-safe-analytics-library-for-react-nextjs-5em8" target="_blank">Stop Messing Up GA4 Events: A Type-Safe Analytics Library for React &amp; Next.js</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-30 04:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/shrinivassab/this-ai-powered-sorting-algorithm-dynamically-picks-the-best-strategy-boosting-speed-by-40-3062" target="_blank">This AI-Powered Sorting Algorithm Dynamically Picks the Best Strategy, Boosting Speed by 40%</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-30 03:49</span>
@@ -205,15 +221,6 @@
                 <span class="title"><a href="https://dev.to/koshirok096/eps-svg-ai-24pp" target="_blank">EPS | SVG | AI</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-29 21:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Josef-Bacik-Leaves-Meta" target="_blank">Btrfs Developer Josef Bacik Leaving Meta &amp; Stepping Back From Kernel Development</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-29 20:01</span>
             </div>
         </div>
 </div>
@@ -326,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
