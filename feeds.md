@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-30 06:01:57 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-30 07:01:48 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 0 new posts out of 24 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, August 30, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, August 30, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -79,21 +84,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/835c/live/b20c1ae0-8524-11f0-a172-2d379cd1f7b4.jpg" alt="US court rules many of Trump&#x27;s global tariffs are illegal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckgj7jxkq58o?at_medium=RSS&at_campaign=rss" target="_blank">US court rules many of Trump&#x27;s global tariffs are illegal</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-30 00:57</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/29/stop-killing-women-australian-mother-vows-to-be-voice-for-slain-daughter?traffic_source=rss" target="_blank">‘Stop killing women’: Australian mother vows to be voice for slain daughter</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-29 23:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/2232255631_1756385400284_hpMain_4x3t_384.jpg" alt="Trump’s global tariffs are unlawful, appeals court says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/trumps-global-tariffs-unlawful-appeals-court/story?id=125110624" target="_blank">Trump’s global tariffs are unlawful, appeals court says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-29 23:03</span>
             </div>
         </div>
 </div>
@@ -164,6 +169,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/migrating-ec2-instances-across-accounts-regions-using-ami-sharing-44j3" target="_blank">Migrating EC2 Instances Across Accounts &amp; Regions Using AMI Sharing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-30 06:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/connectaryal/stop-messing-up-ga4-events-a-type-safe-analytics-library-for-react-nextjs-5em8" target="_blank">Stop Messing Up GA4 Events: A Type-Safe Analytics Library for React &amp; Next.js</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-30 04:45</span>
@@ -203,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/devtoolreview/top-5-json-escape-tools-online-5bk7" target="_blank">Top 5 JSON Escape Tools Online</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-29 23:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F93xizhx2zuyi6ir90t7m.png" alt="EPS | SVG | AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/koshirok096/eps-svg-ai-24pp" target="_blank">EPS | SVG | AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-29 21:37</span>
             </div>
         </div>
 </div>
@@ -325,7 +330,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 06:02 UTC
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
