@@ -1,28 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-30 15:01:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-30 16:01:54 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 20 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, August 30, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, August 30, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/30/palestinian-authority-urges-us-to-reinstate-abbass-visa-before-unga?traffic_source=rss" target="_blank">Palestinian Authority urges US to reinstate Abbas’s visa before UNGA</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-30 15:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,20 +103,20 @@
                 <span class="time">2025-08-30 11:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee08/live/04ca3370-857a-11f0-a80e-4105c79cbebb.jpg" alt="Councils still planning asylum hotel legal action despite Epping ruling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj9wkrykx94o?at_medium=RSS&at_campaign=rss" target="_blank">Councils still planning asylum hotel legal action despite Epping ruling</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-30 11:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/767824/best-labor-day-sales-cheap-tech-deals-under-100-2025" target="_blank">The 20 best Labor Day deals you can grab for $100 or less</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-30 14:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68b271cd7f16f1afd8326bee/master/pass/The%20Best%20Android%20Phones.png" alt="13 Best Android Phones of 2025, Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,20 +162,20 @@
                 <span class="time">2025-08-30 01:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68b2140793c9308bcfbdfe78/master/pass/politics_socialsecurityleak_GettyImages-2207558225.jpg" alt="SSA Whistleblower’s Resignation Email Mysteriously Disappeared From Inboxes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/charles-borges-resignation-email-disappearance/" target="_blank">SSA Whistleblower’s Resignation Email Mysteriously Disappeared From Inboxes</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-29 22:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3e7ubx9fbudbck2oe150.png" alt="Building Veloren SA: An Astro blog fed by a Google Cloud Translation Pipeline" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hnrq/building-veloren-sa-an-astro-blog-fed-by-google-cloud-translation-pipeline-150" target="_blank">Building Veloren SA: An Astro blog fed by a Google Cloud Translation Pipeline</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-30 15:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwkl2qw1kwfattnhmus6f.png" alt="Understanding `@State` in SwiftUI: How It Works Under the Hood" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,15 +221,6 @@
                 <span class="time">2025-08-30 10:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/DXVK-2.7.1" target="_blank">DXVK 2.7.1 Delivers Improved Performance For Some Direct3D 9 Titles</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-30 10:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/05/Use-a-VPN-to-Unblock-WhatsApp-Calls-in-Qatar.jpg" alt="WhatsApp Just Patched a ‘Zero Click’ Bug Being Used to Hack Apple Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/whatsapp-zero-click-bug-apple-cybersecurity-2000650896" target="_blank">WhatsApp Just Patched a ‘Zero Click’ Bug Being Used to Hack Apple Users</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-30 15:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Razor-Blade-14-1.jpg" alt="Razer Blade 14 (2025) Review: A Slim Gaming Powerhouse With a Trackpad That Drove Me Mad" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,27 +294,18 @@
                 <span class="time">2025-08-29 23:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Fallout-vault-.jpg" alt="Peek Inside the ‘Fallout’ Vault at Universal Studios’ Halloween Horror Nights Hollywood" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/peek-inside-the-fallout-vault-at-universal-studios-halloween-horror-nights-hollywood-2000650788" target="_blank">Peek Inside the ‘Fallout’ Vault at Universal Studios’ Halloween Horror Nights Hollywood</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-29 22:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1756237014-20250829.png" alt="Saturday Morning Breakfast Cereal - Stop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1756237127-20250830.png" alt="Saturday Morning Breakfast Cereal - Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/stop-3" target="_blank">Saturday Morning Breakfast Cereal - Stop</a></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/out" target="_blank">Saturday Morning Breakfast Cereal - Out</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-08-29 15:20</span>
+                <span class="time">2025-08-30 15:20</span>
             </div>
         </div>
 </div>
@@ -302,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
