@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-30 12:02:04 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-30 13:05:29 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, August 30, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, August 30, 2025 - 13:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +110,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2015/07/wall-street-500x500.jpg" alt="Texas suit alleging anti-coal “cartel” of top Wall Street firms could reshape ESG" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/08/texas-suit-alleging-anti-coal-cartel-of-top-wall-street-firms-could-reshape-esg/" target="_blank">Texas suit alleging anti-coal “cartel” of top Wall Street firms could reshape ESG</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-30 11:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/68b26bf7add3d03ad0473ca1/master/pass/Apple%20Invite%20SOURCE%20Apple.png" alt="Gear News of the Week: Apple’s iPhone Event Gets a Date, and Plaud Upgrades Its AI Note-Taker" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -149,20 +163,20 @@
                 <span class="time">2025-08-29 21:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/29/spotlight-on-ai-at-techcrunch-disrupt-dont-miss-these-sessions-backed-by-jetbrains-and-greenfield/" target="_blank">Spotlight on AI at TechCrunch Disrupt: Don’t miss these sessions backed by JetBrains and Greenfield</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-29 21:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwkl2qw1kwfattnhmus6f.png" alt="Understanding `@State` in SwiftUI: How It Works Under the Hood" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/karthikpala/understanding-state-in-swiftui-how-it-works-under-the-hood-3l5o" target="_blank">Understanding `@State` in SwiftUI: How It Works Under the Hood</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-30 12:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh2rex9675bfmfqlpoaul.png" alt="Micro Frontends: A Senior Frontend Engineer&#x27;s Perspective" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -170,6 +184,15 @@
                 <span class="title"><a href="https://dev.to/kumar111222rohit/micro-frontends-a-senior-frontend-engineers-perspective-k7l" target="_blank">Micro Frontends: A Senior Frontend Engineer&#x27;s Perspective</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-30 11:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.thisdaysportion.com/posts/contra-analytics/" target="_blank">You do not need &quot;analytics&quot; for your blog</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-30 11:36</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +222,6 @@
                 <span class="time">2025-08-30 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ashrafulazad/industry-40-for-smes-making-digital-transformation-affordable-51mc" target="_blank">Industry 4.0 for SMEs: Making Digital Transformation Affordable</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-30 07:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/migrating-ec2-instances-across-accounts-regions-using-ami-sharing-44j3" target="_blank">Migrating EC2 Instances Across Accounts &amp; Regions Using AMI Sharing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-30 06:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +241,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Razor-Blade-14-1.jpg" alt="Razer Blade 14 (2025) Review: A Slim Gaming Powerhouse With a Trackpad That Drove Me Mad" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/razer-blade-14-2025-review-a-slim-gaming-powerhouse-with-a-trackpad-that-drove-me-mad-2000648977" target="_blank">Razer Blade 14 (2025) Review: A Slim Gaming Powerhouse With a Trackpad That Drove Me Mad</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-30 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/baseus-100w.jpg" alt="Amazon Is Selling Off This 100W USB-C Charger Block With 3 Ports, Now at a Historic Low Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +295,6 @@
                 <span class="time">2025-08-29 22:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/rfk-jr.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="&quot;Dangerous buffoon&quot; RFK Jr. flat-out lies that CDC lists abortion as a top medical advance during Fox News interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/29/kennedy-abortion-lies.html" target="_blank">&quot;Dangerous buffoon&quot; RFK Jr. flat-out lies that CDC lists abortion as a top medical advance during Fox News interview</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-29 21:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 13:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
