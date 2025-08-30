@@ -1,27 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-08-30 21:01:26 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-30 22:01:36 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 19 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, August 30, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, August 30, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -100,6 +113,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/verizon/768450/verizon-is-down-outage-network-software-issue" target="_blank">Verizon&amp;#8217;s &amp;#8216;software issue&amp;#8217; has disconnected many wireless customers across the US</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-30 21:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/768431/windows-update-didnt-brick-your-ssd" target="_blank">No, a Windows update probably didn’t brick your SSD</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-08-30 16:57</span>
@@ -139,15 +161,6 @@
                 <span class="title"><a href="https://www.wired.com/gallery/best-android-phones/" target="_blank">13 Best Android Phones of 2025, Tested and Reviewed</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-08-30 14:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games-review/768145/discounty-review-switch-ps5-xbox-steam" target="_blank">Discounty adds some bite to cozy life sims</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-30 13:00</span>
             </div>
         </div>
 </div>
@@ -211,23 +224,27 @@
         </div>
 </div>
 </div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/08/friday-squid-blogging-catching-humboldt-squid.html" target="_blank">Friday Squid Blogging: Catching Humboldt Squid</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-08-29 21:04</span>
-            </div>
-        </div>
-</div>
-</div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/injustice-2.jpg" alt="‘Injustice 3’ is Coming—What Will DC Do With It?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/injustice-3-is-coming-what-will-dc-do-with-it-2000650829" target="_blank">‘Injustice 3’ is Coming—What Will DC Do With It?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-30 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K3W0PR8ND2A635R8GQCYFKPD/hero-image.png" alt="This Soda Can-Sized Smart Projector Is 35% Off for Labor Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/soda-can-sized-smart-projector-labor-day-2025?utm_medium=RSS" target="_blank">This Soda Can-Sized Smart Projector Is 35% Off for Labor Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-30 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/ZOOTOPIA-2-Ginnifer-Goodwin-Jason-Bateman-Disney.jpg" alt="Disney Gives New Looks at ‘Toy Story 5,’ ‘Zootopia 2,’ and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,24 +281,6 @@
                 <span class="time">2025-08-30 15:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/PawnHoster.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Stop paying rent on your website—just own the darn thing when you host with this $50 tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/30/stop-paying-rent-on-your-website-just-own-the-darn-thing-when-you-host-with-this-50-tool.html" target="_blank">Stop paying rent on your website—just own the darn thing when you host with this $50 tool</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-30 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Razor-Blade-14-1.jpg" alt="Razer Blade 14 (2025) Review: A Slim Gaming Powerhouse With a Trackpad That Drove Me Mad" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/razer-blade-14-2025-review-a-slim-gaming-powerhouse-with-a-trackpad-that-drove-me-mad-2000648977" target="_blank">Razer Blade 14 (2025) Review: A Slim Gaming Powerhouse With a Trackpad That Drove Me Mad</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-30 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -301,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
