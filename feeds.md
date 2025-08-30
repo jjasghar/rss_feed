@@ -1,39 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-08-30 01:28:57 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-08-30 02:25:30 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Generated 3 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, August 30, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, August 30, 2025 - 02:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/30/north-koreas-kim-consoles-families-of-soldiers-killed-fighting-for-russia?traffic_source=rss" target="_blank">North Korea’s Kim consoles families of soldiers killed fighting for Russia</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-30 01:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +93,20 @@
                 <span class="time">2025-08-29 22:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/29/nx-s1-5522457/tariffs-trump-trade-supreme-court" target="_blank">Most of President Trump&#x27;s tariffs are illegal, U.S. court rules</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-29 22:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/29/cracks-are-forming-in-metas-partnership-with-scale-ai/" target="_blank">Cracks are forming in Meta’s partnership with Scale AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-30 01:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68b2140793c9308bcfbdfe78/master/pass/politics_socialsecurityleak_GettyImages-2207558225.jpg" alt="SSA Whistleblower’s Resignation Email Mysteriously Disappeared From Inboxes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,15 +150,6 @@
                 <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/762594/fable-showrunner-edwatch-saatchi-interview" target="_blank">Showrunner wants to turn you into a happy little content prompter for the &amp;#8216;Netflix of AI&amp;#8217;</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-08-29 20:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/11/copilot_logo3-500x500.jpg" alt="With new in-house models, Microsoft lays the groundwork for independence from OpenAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/08/with-new-in-house-models-microsoft-lays-the-groundwork-for-independence-from-openai/" target="_blank">With new in-house models, Microsoft lays the groundwork for independence from OpenAI</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-29 19:49</span>
             </div>
         </div>
 </div>
@@ -250,6 +240,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Mortal-Kombat-II-Warner-Bros.jpg" alt="Warner Bros. Shifts ‘Mortal Kombat II’ Release Date to Summer 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/warner-bros-shifts-mortal-kombat-ii-release-date-to-summer-2026-2000650940" target="_blank">Warner Bros. Shifts ‘Mortal Kombat II’ Release Date to Summer 2026</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-29 23:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/A.-Wilshaw-C.M.-Stimpson-Stimpson-et-al.-2025.jpg?fit=1080%2C718&amp;quality=60&amp;ssl=1" alt="Who mortally wounded this man with a quartz projectile 12,000 years ago? Nobody knows." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -294,15 +293,6 @@
                 <span class="time">2025-08-29 21:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/hypocrisy.jpg?fit=1200%2C889&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s &quot;special attorney&quot; prepares felony charges against Democrats, bypassing normal DOJ channels" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/29/trumps-special-attorney-prepares-felony-charges-against-democrats-bypassing-normal-doj-channels.html" target="_blank">Trump&#x27;s &quot;special attorney&quot; prepares felony charges against Democrats, bypassing normal DOJ channels</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-29 21:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -340,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 02:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
