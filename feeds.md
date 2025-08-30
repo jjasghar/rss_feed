@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-30 03:11:27 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-30 04:01:55 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Generated 0 new posts out of 27 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, August 30, 2025 - 03:11 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, August 30, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2025/8/30/does-india-have-a-stray-dog-epidemic?traffic_source=rss" target="_blank">Does India have a stray dog epidemic?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-30 03:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0810/live/ba4368f0-853b-11f0-84c8-99de564f0440.jpg" alt="Police make three arrests during Epping protest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c24z0105m24o?at_medium=RSS&at_campaign=rss" target="_blank">Police make three arrests during Epping protest</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-30 01:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +96,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/trumps-global-tariffs-unlawful-appeals-court/story?id=125110624" target="_blank">Trump’s global tariffs are unlawful, appeals court says</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-29 23:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/29/us-appeals-court-rules-trumps-foreign-tariff-campaign-is-largely-illegal?traffic_source=rss" target="_blank">US appeals court rules Trump’s foreign tariff campaign is largely illegal</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-29 22:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_08/1756505349953_now_hallie_illegal_tariffs_250829_1920x1080-8o7fih.jpg" alt="U.S. appeals court rules Trump&#x27;s global tariffs are illegal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/u-s-appeals-court-rules-trump-s-global-tariffs-are-illegal-246140997507" target="_blank">U.S. appeals court rules Trump&#x27;s global tariffs are illegal</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-08-29 22:09</span>
             </div>
         </div>
 </div>
@@ -165,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shrinivassab/this-ai-powered-sorting-algorithm-dynamically-picks-the-best-strategy-boosting-speed-by-40-3062" target="_blank">This AI-Powered Sorting Algorithm Dynamically Picks the Best Strategy, Boosting Speed by 40%</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-30 03:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fni3emj5hlgdy3mo020e1.png" alt="Meet Bugsy, Your AI Web Bug Hunter" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -209,15 +216,6 @@
                 <span class="time">2025-08-29 20:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18586414&w=600" alt="Why It’s Time to Reevaluate Quality Control Methods in Data Labeling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/reevaluate-quality-control-data-labeling" target="_blank">Why It’s Time to Reevaluate Quality Control Methods in Data Labeling</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-08-29 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +244,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/Leavitt-1.jpeg?fit=1080%2C592&amp;quality=60&amp;ssl=1" alt="Karoline Leavitt&#x27;s baffling statement about the price of gas" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/29/karoline-leavitts-baffling-statement-about-the-price-of-gas.html" target="_blank">Karoline Leavitt&#x27;s baffling statement about the price of gas</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-30 00:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Mortal-Kombat-II-Warner-Bros.jpg" alt="Warner Bros. Shifts ‘Mortal Kombat II’ Release Date to Summer 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -291,15 +298,6 @@
                 <span class="time">2025-08-29 21:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Jaws-Poster-art.jpg" alt="The 10 Best Moments in ‘Jaws’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-10-best-moments-in-jaws-2000648649" target="_blank">The 10 Best Moments in ‘Jaws’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-29 21:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,22 +321,13 @@
                 <span class="time">2025-08-29 07:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/sea_level.png" alt="Sea Level" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3135/" target="_blank">Sea Level</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-08-29 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 03:11 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
