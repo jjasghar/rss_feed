@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-30 07:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-30 08:02:00 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, August 30, 2025 - 07:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, August 30, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/30/india-will-not-bow-down-to-us-after-steep-tariffs-trade-minister-says?traffic_source=rss" target="_blank">India will not ‘bow down’ to US after steep tariffs, trade minister says</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-30 07:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/30/g-s1-86452/judge-block-speedy-deportations" target="_blank">Federal judge blocks Trump&#x27;s effort to expand speedy deportations of migrants</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-30 04:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/8/30/russia-ukraine-war-list-of-key-events-day-1283?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,283</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-30 01:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/835c/live/b20c1ae0-8524-11f0-a172-2d379cd1f7b4.jpg" alt="US court rules many of Trump&#x27;s global tariffs are illegal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckgj7jxkq58o?at_medium=RSS&at_campaign=rss" target="_blank">US court rules many of Trump&#x27;s global tariffs are illegal</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-30 00:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/29/stop-killing-women-australian-mother-vows-to-be-voice-for-slain-daughter?traffic_source=rss" target="_blank">‘Stop killing women’: Australian mother vows to be voice for slain daughter</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-29 23:21</span>
             </div>
         </div>
 </div>
@@ -169,6 +166,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ashrafulazad/industry-40-for-smes-making-digital-transformation-affordable-51mc" target="_blank">Industry 4.0 for SMEs: Making Digital Transformation Affordable</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-30 07:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aws-builders/migrating-ec2-instances-across-accounts-regions-using-ami-sharing-44j3" target="_blank">Migrating EC2 Instances Across Accounts &amp; Regions Using AMI Sharing</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-30 06:51</span>
@@ -208,15 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Wine-10.14-Released" target="_blank">WIne 10.14 Ships With Updated Mono, VKD3D 1.17 &amp; Ping Support For IPv6</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-30 00:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devtoolreview/top-5-json-escape-tools-online-5bk7" target="_blank">Top 5 JSON Escape Tools Online</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-29 23:46</span>
             </div>
         </div>
 </div>
@@ -315,22 +312,13 @@
                 <span class="time">2025-08-29 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://assets.penny-arcade.com/news/pax3.SbZkXH4P.png" alt="The Name of The Wind (Greg)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/08/29/the-name-of-the-wind-greg" target="_blank">The Name of The Wind (Greg)</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-08-29 07:05</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 07:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
