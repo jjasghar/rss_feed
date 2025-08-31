@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-31 18:02:03 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-08-31 19:01:21 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, August 31, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, August 31, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/31/liverpools-szoboszlai-downs-arsenal-to-top-premier-league-table?traffic_source=rss" target="_blank">Liverpool’s Szoboszlai downs Arsenal while Man City stumble again</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-31 18:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +94,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/moore-interest-fighting-president-interest-fighting-communities/story?id=125134839" target="_blank">Moore: ‘I have no interest in fighting with the president&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-31 14:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26f3/live/2cdbfc10-8677-11f0-af50-c1dc79fc71e5.jpg" alt="UK secures £10bn deal to supply Norway with warships" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr5rgdpvn63o?at_medium=RSS&at_campaign=rss" target="_blank">UK secures £10bn deal to supply Norway with warships</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-31 14:36</span>
             </div>
         </div>
 </div>
@@ -165,6 +161,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/08/surya-model-heliophysics/en/headerimage/ibm-nasa-surya-1756661354043.jpeg" alt="IBM and NASA Trained the First Foundational Model for Heliophysics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/surya-model-heliophysics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">IBM and NASA Trained the First Foundational Model for Heliophysics</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-31 18:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -209,20 +214,20 @@
                 <span class="time">2025-08-31 12:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone" target="_blank">&quot;This telegram must be closely paraphrased before being communicated&quot; Why?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-31 12:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Image-vetre-_3Ca-href_3Dhttps-shutterstock.com_.jpg?fit=1080%2C745&amp;quality=60&amp;ssl=1" alt="Labor Day weekend beachgoers enjoying the warm feces of the American shore" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/31/labor-day-beachgoers-enjoying-the-warm-feces-of-the-american-shore.html" target="_blank">Labor Day weekend beachgoers enjoying the warm feces of the American shore</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-31 18:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/sign-spotted-at-anti-ICE-protest-in-Downtown-Los.jpg?fit=1080%2C847&amp;quality=60&amp;ssl=1" alt="Somehow, Los Angeles still stands…" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,22 +273,13 @@
                 <span class="time">2025-08-31 13:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/google.jpg" alt="Google Investors Surprisingly Chill About Major Data Breach" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/google-data-breach-2000650970" target="_blank">Google Investors Surprisingly Chill About Major Data Breach</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-31 13:05</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
