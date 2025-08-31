@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-08-31 10:01:42 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-08-31 11:01:44 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, August 31, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, August 31, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/8/31/indonesia-protest-driven-by-a-sense-of-collective?traffic_source=rss" target="_blank">Indonesia protest driven by “a sense of collective anger”</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-31 10:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/788a/live/187f4810-84e4-11f0-bdc5-0bac48b207b6.jpg" alt="Minister warns parents on school attendance ahead of new term" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -63,6 +70,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b51d/live/abe595d0-8649-11f0-b54e-01c89dde0774.jpg" alt="China and India pledge to be &#x27;partners not rivals&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clyrwv0egzro?at_medium=RSS&at_campaign=rss" target="_blank">China and India pledge to be &#x27;partners not rivals&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-31 09:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/31/nx-s1-5522943/trump-offshore-wind-energy-ports" target="_blank">Trump administration cancels $679 million for offshore wind projects at ports</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-31 09:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -71,38 +96,20 @@
                 <span class="time">2025-08-31 08:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/8/31/week-in-pictures-from-missile-strikes-in-kyiv-to-indonesia-protests?traffic_source=rss" target="_blank">Week in Pictures: From missile strikes in Kyiv to Indonesia protests</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-31 07:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e4c/live/c5cc70a0-862f-11f0-bc02-175687692641.jpg" alt="Putin and Modi in China for summit overshadowed by trade wars with US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clyrwv0egzro?at_medium=RSS&at_campaign=rss" target="_blank">Putin and Modi in China for summit overshadowed by trade wars with US</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-31 07:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/31/ostapenko-apologises-to-townsend-for-no-education-comments?traffic_source=rss" target="_blank">Ostapenko apologises to Townsend for ‘no education’ comments</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-31 06:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68add5195de41fa2c478515d/master/pass/1293740005" alt="Big Tech Companies in the US Have Been Told Not to Apply the Digital Services Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/big-tech-companies-in-the-us-have-been-told-not-to-apply-the-digital-services-act/" target="_blank">Big Tech Companies in the US Have Been Told Not to Apply the Digital Services Act</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-31 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +155,29 @@
                 <span class="time">2025-08-30 16:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/767824/best-labor-day-sales-cheap-tech-deals-under-100-2025" target="_blank">The 20 best Labor Day deals you can grab for $100 or less</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-30 14:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpwvpsdtdf1ri2go5xxh2.jpeg" alt="Throughput vs. Latency: The Optimization Dilemma" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/meeth_gangwar_f56b17f5aff/throughput-vs-latency-the-optimization-dilemma-385h" target="_blank">Throughput vs. Latency: The Optimization Dilemma</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-31 10:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/08/pogocache-caching/en/headerimage/generatedHeaderImage-1756581897922.jpg" alt="Pogocache: Open Source Caching Software with Low Latency and Multiple Wire Protocols" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/pogocache-caching/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pogocache: Open Source Caching Software with Low Latency and Multiple Wire Protocols</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-31 10:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkh817v2csr7bxiwijwr8.png" alt="Purelymail – The Most Cost-Effective Email Provider for Custom Domains" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -192,28 +208,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/code_2/from-python-developer-to-saas-founder-my-next-move-n90" target="_blank">From Python Developer to SaaS Founder: My Next Move</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-31 05:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aiwithapex/7-python-built-ins-that-seem-useless-but-are-secretly-powerful-afo" target="_blank">7 Python Built-ins That Seem Useless—But Are Secretly Powerful</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-31 04:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zhizhiarv/testing-automated-publishing-to-devto-38h2" target="_blank">Testing Automated Publishing to dev.to</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-31 03:49</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://daverupert.com/2025/08/git-diagramming-the-weave/" target="_blank">Git Diagramming &quot;The Weave&quot;</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-31 05:59</span>
             </div>
         </div>
 </div>
@@ -294,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
