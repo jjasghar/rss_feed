@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-08-31 01:29:15 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-31 02:29:21 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, August 31, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, August 31, 2025 - 02:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -66,6 +62,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/788a/live/187f4810-84e4-11f0-bdc5-0bac48b207b6.jpg" alt="First week &#x27;critical&#x27; to avoid children missing school later, parents told" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cg7jk3rr225o?at_medium=RSS&at_campaign=rss" target="_blank">First week &#x27;critical&#x27; to avoid children missing school later, parents told</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-30 23:09</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -75,30 +80,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/buford-pusser-gty-jt-250830_1756575572752_hpMain_4x3t_384.jpg" alt="Legendary sheriff implicated in wife&#x27;s murder almost 60 years later" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/famed-sheriff-inspired-walking-tall-movie-implicated-wifes/story?id=125126955" target="_blank">Legendary sheriff implicated in wife&#x27;s murder almost 60 years later</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-30 20:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-03/250325-tulsi-gabbard-john-ratcliffe-ac-952p-792234.jpg" alt="Tensions rise between Gabbard and CIA chief after her disclosure of undercover officer&#x27;s name, insiders say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/politics/national-security/tulsi-gabbard-cia-director-john-ratcliffe-rcna223285" target="_blank">Tensions rise between Gabbard and CIA chief after her disclosure of undercover officer&#x27;s name, insiders say</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-08-30 18:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/30/we-are-on-the-streets-palestinians-flee-israels-assault-on-gaza-city?traffic_source=rss" target="_blank">‘We are on the streets’: Palestinians flee Israel’s assault on Gaza City</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-30 18:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d209/live/eefe5f50-85b8-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Houthis confirm their prime minister killed in Israeli strike" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c620ykrxedwo?at_medium=RSS&at_campaign=rss" target="_blank">Houthis confirm their prime minister killed in Israeli strike</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-30 17:12</span>
             </div>
         </div>
 </div>
@@ -168,6 +164,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-HID-New-IDs" target="_blank">Linux 6.17 Adds Support For Logitech G PRO 2 LIGHTSPEED, Wacom Art Pen 2 &amp; More</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-31 00:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mariehposa/top-10-aws-services-every-developer-should-know-in-2025-f1h" target="_blank">Top 10 AWS Services Every Developer Should Know in 2025</a></span>
                 <span class="feed">DEV Community</span>
@@ -208,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/jay-x/creating-a-dynamic-website-in-45mins-using-html-css-and-javascript-21m4" target="_blank">Creating a dynamic website in 45mins using HTML, CSS and Javascript</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-30 19:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/doormatt_/fishing-world-devlog-0-daj" target="_blank">Fishing World - Devlog #0</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-30 18:59</span>
             </div>
         </div>
 </div>
@@ -297,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 67 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 02:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
