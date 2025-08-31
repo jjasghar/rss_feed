@@ -1,32 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-08-31 19:01:21 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-31 20:01:38 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, August 31, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, August 31, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-4-ap-gmh-250828_1756385399780_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump plans to issue executive order to require voter ID" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124929306" target="_blank">Trump admin live updates: Trump plans to issue executive order to require voter ID</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-31 18:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +103,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cm214r5rd29o?at_medium=RSS&at_campaign=rss" target="_blank">Hamas spokesman Abu Obeida killed in Gaza, Israel says</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-31 15:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/moore-raddatz-main-abc-jt-250830_1756565644265_hpMain_4x3t_384.jpg" alt="Moore: ‘I have no interest in fighting with the president&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/moore-interest-fighting-president-interest-fighting-communities/story?id=125134839" target="_blank">Moore: ‘I have no interest in fighting with the president&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-31 14:45</span>
             </div>
         </div>
 </div>
@@ -161,6 +170,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ddoemonn/why-existing-react-color-pickers-frustrated-me-and-what-i-built-instead-5ghg" target="_blank">Why existing React color pickers frustrated me (and what I built instead)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-31 19:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://www.youtube.com/watch?v=UVUjnzpQKUo" target="_blank">1 Problem, 16 Programming Languages</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-08-31 19:56</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/08/surya-model-heliophysics/en/headerimage/ibm-nasa-surya-1756661354043.jpeg" alt="IBM and NASA Trained the First Foundational Model for Heliophysics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -194,24 +221,6 @@
                 <span class="title"><a href="https://dev.to/maxcore/sveltekit-2-code-based-router-instead-of-file-based-router-1e66" target="_blank">SvelteKit 2: How to make code-based router instead of file-based router</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-31 13:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Krita-Wayland-HDR-Merge-Request" target="_blank">KDE Krita Merge Request Opened For Wayland Color Management</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-31 13:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zhizhiarv/using-claude-sonnet-4s-1m-context-window-on-amazon-bedrock-3eld" target="_blank">Using Claude Sonnet 4&#x27;s 1M Context Window on Amazon Bedrock</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-31 12:58</span>
             </div>
         </div>
 </div>
@@ -278,8 +287,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
