@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-31 21:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-31 22:01:56 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, August 31, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, August 31, 2025 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/31/nx-s1-5508995/friday-night-football-kicks-off-in-kerrville" target="_blank">Friday night football brings healing in Kerrville</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-31 21:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +99,20 @@
                 <span class="time">2025-08-31 17:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/31/nx-s1-5524263/iran-backed-houthis-raid-un-food-and-childrens-agencies-in-yemen-detain-employee" target="_blank">Iran-backed Houthis raid UN food and children&#x27;s agencies in Yemen, detain employee</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-31 16:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/768508/chatbots-are-susceptible-to-flattery-and-peer-pressure" target="_blank">Chatbots can be manipulated through flattery and peer pressure</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-08-31 21:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +158,20 @@
                 <span class="time">2025-08-31 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68add5195de41fa2c478515d/master/pass/1293740005" alt="Big Tech Companies in the US Have Been Told Not to Apply the Digital Services Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/big-tech-companies-in-the-us-have-been-told-not-to-apply-the-digital-services-act/" target="_blank">Big Tech Companies in the US Have Been Told Not to Apply the Digital Services Act</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-31 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alain_alvarezcaignet_148/hello-peg" target="_blank">Hello</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-31 21:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,6 +200,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://yoavg.github.io/eternal/" target="_blank">Eternal Struggle</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-31 19:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/08/surya-model-heliophysics/en/headerimage/ibm-nasa-surya-1756661354043.jpeg" alt="IBM and NASA Trained the First Foundational Model for Heliophysics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -203,29 +217,20 @@
                 <span class="time">2025-08-31 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-X1E-On-Linux-6.17" target="_blank">New Ubuntu Snapdragon X1E Concept ISO Published - Switches To Linux 6.17 Kernel</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-31 17:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/01/libreoffice.jpg?resize=406%2C232&amp;ssl=1" alt="LibreOffice 25.8.1 Update Delivers Almost 100 Bug Fixes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/libreoffice-25-8-1-release-brings-almost-100-bug-fixes" target="_blank">LibreOffice 25.8.1 Update Delivers Almost 100 Bug Fixes</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-31 16:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/1000019580-e1756673991753.jpg" alt="The Borderlands 4 Rage Room Is The Most Obnoxious Thing At PAX West And People Love It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/borderlands-4-pax-west-rage-room-gearbox-2000621767" target="_blank">The Borderlands 4 Rage Room Is The Most Obnoxious Thing At PAX West And People Love It</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-31 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Scarlet-Mamoru-Hosoda-Studio-Chizu-Sony-Pictures.jpg" alt="Mamoru Hosoda’s ‘Scarlet’ Gets Bumped to 2026 in North America" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,22 +276,13 @@
                 <span class="time">2025-08-31 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/cod-blackops7.jpg" alt="‘Call of Duty’ May Enlist for a Movie Adaptation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/call-of-duty-may-enlist-for-a-movie-adaptation-2000650855" target="_blank">‘Call of Duty’ May Enlist for a Movie Adaptation</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-31 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
