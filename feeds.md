@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-30 23:01:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-31 00:05:14 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, August 30, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, August 31, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -161,12 +165,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mariehposa/top-10-aws-services-every-developer-should-know-in-2025-f1h" target="_blank">Top 10 AWS Services Every Developer Should Know in 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-30 23:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4gz126gd6bbhafwcf1xh.png" alt="Horizon World Tutorial - Maze Runner - Part 2 - Game and Player Controller" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/lnationorg/horizon-world-tutorial-maze-runner-part-2-game-and-player-controller-fo7" target="_blank">Horizon World Tutorial - Maze Runner - Part 2 - Game and Player Controller</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-30 22:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://e.huawei.com/cn/products/computing/ascend/atlas-300i-duo" target="_blank">New Huawei 96GB GPU</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-30 22:37</span>
             </div>
         </div>
 <div class="story">
@@ -196,29 +218,20 @@
                 <span class="time">2025-08-30 18:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6fwo9ba174raz4vsz6bu.png" alt="MetalEAGLLayer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/maxnxi/metaleagllayer-5d0l" target="_blank">MetalEAGLLayer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-30 16:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3e7ubx9fbudbck2oe150.png" alt="Building Veloren SA: An Astro blog fed by a Google Cloud Translation Pipeline" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hnrq/building-veloren-sa-an-astro-blog-fed-by-google-cloud-translation-pipeline-150" target="_blank">Building Veloren SA: An Astro blog fed by a Google Cloud Translation Pipeline</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-30 15:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/09/shutterstock_333687464-1-scaled.jpg?fit=2560%2C1704&amp;quality=60&amp;ssl=1" alt="Warehouse worker fired after &quot;impersonating Michael Jackson&quot; wins unfair dismissal case" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/30/warehouse-worker-fired-after-impersonating-michael-jackson-wins-unfair-dismissal-case.html" target="_blank">Warehouse worker fired after &quot;impersonating Michael Jackson&quot; wins unfair dismissal case</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-30 21:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/injustice-2.jpg" alt="‘Injustice 3’ is Coming—What Will DC Do With It?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,15 +277,6 @@
                 <span class="time">2025-08-30 18:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/05/Use-a-VPN-to-Unblock-WhatsApp-Calls-in-Qatar.jpg" alt="WhatsApp Just Patched a ‘Zero Click’ Bug Being Used to Hack Apple Users" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/whatsapp-zero-click-bug-apple-cybersecurity-2000650896" target="_blank">WhatsApp Just Patched a ‘Zero Click’ Bug Being Used to Hack Apple Users</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-30 15:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -292,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 288 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
