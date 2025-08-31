@@ -1,39 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-31 16:02:03 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-31 17:01:54 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
 <!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, August 31, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, August 31, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/31/nx-s1-5524263/iran-backed-houthis-raid-un-food-and-childrens-agencies-in-yemen-detain-employee" target="_blank">Iran-backed Houthis raid UN food and children&#x27;s agencies in Yemen, detain employee</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-31 16:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/31/yemens-houthi-leader-condemns-israels-record-of-terror-after-killings?traffic_source=rss" target="_blank">Yemen’s Houthi leader condemns Israel’s ‘record of terror’ after killings</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-31 16:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a00/live/a20c7f00-867c-11f0-b391-6936825093bd.jpg" alt="Hamas spokesman Abu Obeida killed in Gaza, Israel says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm214r5rd29o?at_medium=RSS&at_campaign=rss" target="_blank">Hamas spokesman Abu Obeida killed in Gaza, Israel says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-31 15:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/moore-raddatz-main-abc-jt-250830_1756565644265_hpMain_4x3t_384.jpg" alt="Moore: ‘I have no interest in fighting with the president&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,33 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/31/clashes-break-out-at-anti-immigration-protest-in-australia?traffic_source=rss" target="_blank">Clashes break out at anti-immigration protest in Australia</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-31 14:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/demetre-daskalakis-rt-jt-250830_1756567315880_hpMain_4x3t_384.jpg" alt="Former CDC immunizations chief: ‘I only see harm coming’ with RFK Jr. leading HHS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/former-cdc-immunizations-chief-harm-coming-rfk-jr/story?id=125134748" target="_blank">Former CDC immunizations chief: ‘I only see harm coming’ with RFK Jr. leading HHS</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-31 13:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/31/nx-s1-5518289/hawaii-surfing-princes-of-surf" target="_blank">How 3 Hawaiian teen princes brought surfing to the mainland</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-31 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/08/31/g-s1-86292/selfie-risky-india" target="_blank">Don&#x27;t let a selfie be the end of you</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-31 10:55</span>
             </div>
         </div>
 </div>
@@ -170,6 +170,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://jj-for-everyone.github.io/" target="_blank">Jujutsu for Everyone</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-31 15:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/arthurdrevot/angular-20-vitest-natif-zoneless-remplacez-jasminekarma-3fj3" target="_blank">⚡️ Angular 20 : Vitest natif (zoneless) - remplacez Jasmine/Karma</a></span>
                 <span class="feed">DEV Community</span>
@@ -212,20 +221,20 @@
                 <span class="time">2025-08-31 12:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/gitlab-duo-agent-platform/en/headerimage/generatedHeaderImage-1756386479663.jpg" alt="GitLab Unveils Duo Agent Platform in Public Beta, Introducing Agent-Orchestrated DevSecOps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/gitlab-duo-agent-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">GitLab Unveils Duo Agent Platform in Public Beta, Introducing Agent-Orchestrated DevSecOps</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-31 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Microsoft-Office-Professional-Plus-2019-for-Windows-2.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Skip Microsoft 365 and get Office 2019 on your PC for life for just $25" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/31/skip-microsoft-365-and-get-office-2019-on-your-pc-for-life-for-just-25.html" target="_blank">Skip Microsoft 365 and get Office 2019 on your PC for life for just $25</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-31 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/cod-blackops7.jpg" alt="‘Call of Duty’ May Enlist for a Movie Adaptation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,22 +280,13 @@
                 <span class="time">2025-08-31 00:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/09/shutterstock_333687464-1-scaled.jpg?fit=2560%2C1704&amp;quality=60&amp;ssl=1" alt="Warehouse worker fired after &quot;impersonating Michael Jackson&quot; wins unfair dismissal case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/30/warehouse-worker-fired-after-impersonating-michael-jackson-wins-unfair-dismissal-case.html" target="_blank">Warehouse worker fired after &quot;impersonating Michael Jackson&quot; wins unfair dismissal case</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-30 21:48</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 24 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 16:02 UTC
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
