@@ -1,41 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-08-31 04:01:55 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-08-31 05:01:56 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 32 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, August 31, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, August 31, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/31/indonesias-prabowo-scraps-china-trip-tiktok-halts-live-feed-amid-protests?traffic_source=rss" target="_blank">Indonesia’s Prabowo scraps China trip over protests, TikTok halts live feed</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-31 03:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,21 +91,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-diary-tasneem-gaza_7004459.png?20250829122124" alt="&#x27;The drones never leave us&#x27; - one woman&#x27;s diary of daily life in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-diary-tasneem-gaza_7004459.png?20250829122124" alt="&#x27;The drones are always there... like some sort of punishment&#x27;: Woman&#x27;s diary of daily life in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/the-drones-never-leave-us-one-womans-diary-of-daily-life-in-gaza-13418718" target="_blank">&#x27;The drones never leave us&#x27; - one woman&#x27;s diary of daily life in Gaza</a></span>
+                <span class="title"><a href="https://news.sky.com/story/the-drones-never-leave-us-one-womans-diary-of-daily-life-in-gaza-13418718" target="_blank">&#x27;The drones are always there... like some sort of punishment&#x27;: Woman&#x27;s diary of daily life in Gaza</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-08-30 23:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/30/real-madrid-beat-mallorca-in-la-liga-scoring-twice-in-two-minutes?traffic_source=rss" target="_blank">Real Madrid beat Mallorca in La Liga, scoring twice in two minutes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-30 22:18</span>
             </div>
         </div>
 </div>
@@ -173,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aiwithapex/7-python-built-ins-that-seem-useless-but-are-secretly-powerful-afo" target="_blank">7 Python Built-ins That Seem Useless—But Are Secretly Powerful</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-31 04:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/zhizhiarv/testing-automated-publishing-to-devto-38h2" target="_blank">Testing Automated Publishing to dev.to</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-31 03:49</span>
@@ -212,15 +215,6 @@
                 <span class="title"><a href="https://e.huawei.com/cn/products/computing/ascend/atlas-300i-duo" target="_blank">New Huawei 96GB GPU</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-08-30 22:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rolystone_mocha_316478f2b/semantic-html-for-search-engine-optimizationseo-and-accessibility-1pgm" target="_blank">Semantic html for Search Engine Optimization(SEO) and Accessibility.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-30 20:46</span>
             </div>
         </div>
 </div>
@@ -301,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
