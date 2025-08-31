@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-31 11:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-31 12:02:07 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, August 31, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, August 31, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/08/31/g-s1-86292/selfie-risky-india" target="_blank">Don&#x27;t let a selfie be the end of you</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-31 10:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +101,29 @@
                 <span class="time">2025-08-31 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/31/sudan-august-update?traffic_source=rss" target="_blank">War in Sudan: Humanitarian, fighting, control developments, August 2025</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-31 08:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1334810601-500x500.jpg" alt="Earth models can predict the planet’s future but not their own" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/08/earth-models-can-predict-the-planets-future-but-not-their-own/" target="_blank">Earth models can predict the planet’s future but not their own</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-08-31 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68b09ea929bb265af41fddbd/master/pass/science_BACTYERIL-BREATHING-GrandPrismatic-crEricBoyd-Lede-scaled.jpg" alt="These Newly Discovered Cells Breathe in Two Ways" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/these-newly-discovered-cells-breathe-in-two-ways/" target="_blank">These Newly Discovered Cells Breathe in Two Ways</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-31 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68add5195de41fa2c478515d/master/pass/1293740005" alt="Big Tech Companies in the US Have Been Told Not to Apply the Digital Services Act" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,29 +160,20 @@
                 <span class="time">2025-08-30 16:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/30/taco-bell-is-having-second-thoughts-about-relying-on-ai-at-the-drive-through/" target="_blank">Taco Bell is having second thoughts about relying on AI at the drive-through</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-30 16:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68a66e69d3699f0e9647c9e6/master/pass/The%20Best%20Deals%20From%20REI%E2%80%99s%202025%20Labor%20Day%20Sale.png" alt="The 59 Best Deals From REI’s 2025 Labor Day Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/" target="_blank">The 59 Best Deals From REI’s 2025 Labor Day Sale</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-08-30 16:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/djamware_tutorial_eba1a61/ngrx-tutorial-state-management-in-angular-with-real-world-examples-29bc" target="_blank">NgRx Tutorial: State Management in Angular with Real-World Examples</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-31 11:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpwvpsdtdf1ri2go5xxh2.jpeg" alt="Throughput vs. Latency: The Optimization Dilemma" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/azmy/auditing-sensitive-data-changes-in-laravel-securing-high-risk-operations-9n3" target="_blank">Auditing Sensitive Data Changes in Laravel: Securing High-Risk Operations</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-31 06:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://daverupert.com/2025/08/git-diagramming-the-weave/" target="_blank">Git Diagramming &quot;The Weave&quot;</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-31 05:59</span>
             </div>
         </div>
 </div>
@@ -292,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
