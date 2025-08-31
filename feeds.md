@@ -1,30 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-08-31 03:17:03 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-08-31 04:01:55 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, August 31, 2025 - 03:17 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, August 31, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -77,21 +88,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-diary-tasneem-gaza_7004459.png?20250829122124" alt="&#x27;The drones never leave us&#x27; - one woman&#x27;s diary of daily life in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/the-drones-never-leave-us-one-womans-diary-of-daily-life-in-gaza-13418718" target="_blank">&#x27;The drones never leave us&#x27; - one woman&#x27;s diary of daily life in Gaza</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-08-30 23:01</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/30/real-madrid-beat-mallorca-in-la-liga-scoring-twice-in-two-minutes?traffic_source=rss" target="_blank">Real Madrid beat Mallorca in La Liga, scoring twice in two minutes</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-30 22:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/buford-pusser-gty-jt-250830_1756575572752_hpMain_4x3t_384.jpg" alt="Legendary sheriff implicated in wife&#x27;s murder almost 60 years later" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/famed-sheriff-inspired-walking-tall-movie-implicated-wifes/story?id=125126955" target="_blank">Legendary sheriff implicated in wife&#x27;s murder almost 60 years later</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-30 20:57</span>
             </div>
         </div>
 </div>
@@ -161,6 +172,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zhizhiarv/testing-automated-publishing-to-devto-38h2" target="_blank">Testing Automated Publishing to dev.to</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-31 03:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-HID-New-IDs" target="_blank">Linux 6.17 Adds Support For Logitech G PRO 2 LIGHTSPEED, Wacom Art Pen 2 &amp; More</a></span>
                 <span class="feed">Phoronix</span>
@@ -203,20 +223,20 @@
                 <span class="time">2025-08-30 20:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jay-x/creating-a-dynamic-website-in-45mins-using-html-css-and-javascript-21m4" target="_blank">Creating a dynamic website in 45mins using HTML, CSS and Javascript</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-30 19:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/A-stock-photo-from-the-2014-festival-in-Breda.-P.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Redhead festival underway in Netherlands" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/30/redhead-festival-underway-in-netherlands.html" target="_blank">Redhead festival underway in Netherlands</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-31 00:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/09/shutterstock_333687464-1-scaled.jpg?fit=2560%2C1704&amp;quality=60&amp;ssl=1" alt="Warehouse worker fired after &quot;impersonating Michael Jackson&quot; wins unfair dismissal case" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -245,30 +265,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/toshiba-smart-tv.jpg" alt="This 50″ Smart TV Is Crowding Amazon’s Warehouses, So They’re Selling It at No Profit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-50-smart-tv-is-crowding-amazons-warehouses-so-theyre-selling-it-at-no-profit-2000621718" target="_blank">This 50″ Smart TV Is Crowding Amazon’s Warehouses, So They’re Selling It at No Profit</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-30 19:28</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/ZOOTOPIA-2-Ginnifer-Goodwin-Jason-Bateman-Disney.jpg" alt="Disney Gives New Looks at ‘Toy Story 5,’ ‘Zootopia 2,’ and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/disney-gives-new-looks-at-toy-story-5-zootopia-2-and-more-2000651211" target="_blank">Disney Gives New Looks at ‘Toy Story 5,’ ‘Zootopia 2,’ and More</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-08-30 19:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/GyUVIVHWoAA6Qgt.jpeg" alt="Borderlands 4 Post-Launch Roadmap Reveals The Return Of Something Fans Loved From Borderlands 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/borderlands-4-pearls-roadmap-takedown-dlc-free-update-2000621708" target="_blank">Borderlands 4 Post-Launch Roadmap Reveals The Return Of Something Fans Loved From Borderlands 2</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-30 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/jack.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Jack Daniels sales drop 62% in Canada" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/30/jack-daniels-sales-drop-62-in-canada.html" target="_blank">Jack Daniels sales drop 62% in Canada</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-30 18:17</span>
             </div>
         </div>
 </div>
@@ -290,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 03:17 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
