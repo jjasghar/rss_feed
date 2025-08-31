@@ -1,9 +1,12 @@
-<!-- Processing 54 RSS feeds at 2025-08-31 07:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-31 08:02:05 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
@@ -11,25 +14,25 @@
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, August 31, 2025 - 07:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, August 31, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/8/31/week-in-pictures-from-missile-strikes-in-kyiv-to-indonesia-protests?traffic_source=rss" target="_blank">Week in Pictures: From missile strikes in Kyiv to Indonesia protests</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-31 07:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e4c/live/c5cc70a0-862f-11f0-bc02-175687692641.jpg" alt="Putin and Modi in China for summit overshadowed by trade wars with US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clyrwv0egzro?at_medium=RSS&at_campaign=rss" target="_blank">Putin and Modi in China for summit overshadowed by trade wars with US</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-08-31 07:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +100,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cp890n51684o?at_medium=RSS&at_campaign=rss" target="_blank">Tories pledge to get all oil and gas out of North Sea</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-08-31 01:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/30/us-trade-war-india-china-ties-loom-large-at-shanghai-cooperation-summit?traffic_source=rss" target="_blank">US trade war, India-China ties loom large at SCO summit in Tianjin</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-30 23:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/788a/live/187f4810-84e4-11f0-bdc5-0bac48b207b6.jpg" alt="First week &#x27;critical&#x27; to avoid children missing school later, parents told" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cg7jk3rr225o?at_medium=RSS&at_campaign=rss" target="_blank">First week &#x27;critical&#x27; to avoid children missing school later, parents told</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-30 23:09</span>
             </div>
         </div>
 </div>
@@ -167,6 +170,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/a1guy/why-learn-svelte-in-2025-the-value-proposition-svelte-vs-react-vue-1bhc" target="_blank">Why Learn Svelte in 2025? The Value Proposition &amp; Svelte vs React &amp; Vue</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-31 07:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/azmy/auditing-sensitive-data-changes-in-laravel-securing-high-risk-operations-9n3" target="_blank">Auditing Sensitive Data Changes in Laravel: Securing High-Risk Operations</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-31 06:53</span>
@@ -206,15 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-HID-New-IDs" target="_blank">Linux 6.17 Adds Support For Logitech G PRO 2 LIGHTSPEED, Wacom Art Pen 2 &amp; More</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-08-31 00:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mariehposa/top-10-aws-services-every-developer-should-know-in-2025-f1h" target="_blank">Top 10 AWS Services Every Developer Should Know in 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-30 23:33</span>
             </div>
         </div>
 </div>
@@ -295,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 07:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
