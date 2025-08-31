@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-08-31 14:01:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-31 15:01:44 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, August 31, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, August 31, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/8/31/clashes-break-out-at-anti-immigration-protest-in-australia?traffic_source=rss" target="_blank">Clashes break out at anti-immigration protest in Australia</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-31 14:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/demetre-daskalakis-rt-jt-250830_1756567315880_hpMain_4x3t_384.jpg" alt="Former CDC immunizations chief: ‘I only see harm coming’ with RFK Jr. leading HHS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,20 +100,20 @@
                 <span class="time">2025-08-31 10:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/8/31/indonesia-protesters-clash-with-riot-police-as-tensions-soar?traffic_source=rss" target="_blank">Indonesia protesters clash with riot police as tensions soar</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-31 09:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68a66e69d3699f0e9647c9e6/master/pass/The%20Best%20Deals%20From%20REI%E2%80%99s%202025%20Labor%20Day%20Sale.png" alt="The 71 Best Deals From REI’s 2025 Labor Day Sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-rei-labor-day-sale-deals-2025/" target="_blank">The 71 Best Deals From REI’s 2025 Labor Day Sale</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-08-31 14:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1334810601-500x500.jpg" alt="Earth models can predict the planet’s future but not their own" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +159,20 @@
                 <span class="time">2025-08-30 21:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/768431/windows-update-didnt-brick-your-ssd" target="_blank">No, a Windows update probably didn’t brick your SSD</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-30 16:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arthurdrevot/angular-20-vitest-natif-zoneless-remplacez-jasminekarma-3fj3" target="_blank">⚡️ Angular 20 : Vitest natif (zoneless) - remplacez Jasmine/Karma</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-31 14:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -210,20 +218,29 @@
                 <span class="time">2025-08-31 11:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpwvpsdtdf1ri2go5xxh2.jpeg" alt="Throughput vs. Latency: The Optimization Dilemma" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/meeth_gangwar_f56b17f5aff/throughput-vs-latency-the-optimization-dilemma-385h" target="_blank">Throughput vs. Latency: The Optimization Dilemma</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-31 10:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/cod-blackops7.jpg" alt="‘Call of Duty’ May Enlist for a Movie Adaptation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/call-of-duty-may-enlist-for-a-movie-adaptation-2000650855" target="_blank">‘Call of Duty’ May Enlist for a Movie Adaptation</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-31 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/hp-laptop-windows-intel.jpg" alt="Rated 4.5 out of 5, This HP Student Laptop Is Now 75% Off as Amazon Cuts Prices to Clear Shelves" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/rated-4-5-out-of-5-this-hp-student-laptop-is-now-75-off-as-amazon-cuts-prices-to-clear-shelves-2000621754" target="_blank">Rated 4.5 out of 5, This HP Student Laptop Is Now 75% Off as Amazon Cuts Prices to Clear Shelves</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-31 14:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/afloia-air-purifier-large-home.jpg" alt="Want to Breathe Cleaner Air? This Air Purifier Is Selling Now for Just a Few Dollars" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,24 +277,6 @@
                 <span class="time">2025-08-30 21:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/injustice-2.jpg" alt="‘Injustice 3’ is Coming—What Will DC Do With It?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/injustice-3-is-coming-what-will-dc-do-with-it-2000650829" target="_blank">‘Injustice 3’ is Coming—What Will DC Do With It?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-30 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K3W0PR8ND2A635R8GQCYFKPD/hero-image.png" alt="This Soda Can-Sized Smart Projector Is 35% Off for Labor Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/soda-can-sized-smart-projector-labor-day-2025?utm_medium=RSS" target="_blank">This Soda Can-Sized Smart Projector Is 35% Off for Labor Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-30 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
