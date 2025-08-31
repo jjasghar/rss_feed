@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-08-31 13:06:03 UTC -->
+<!-- Processing 54 RSS feeds at 2025-08-31 14:01:43 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, August 31, 2025 - 13:06 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, August 31, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/demetre-daskalakis-rt-jt-250830_1756567315880_hpMain_4x3t_384.jpg" alt="Former CDC immunizations chief: ‘I only see harm coming’ with RFK Jr. leading HHS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/former-cdc-immunizations-chief-harm-coming-rfk-jr/story?id=125134748" target="_blank">Former CDC immunizations chief: ‘I only see harm coming’ with RFK Jr. leading HHS</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-08-31 13:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/31/nx-s1-5518289/hawaii-surfing-princes-of-surf" target="_blank">How 3 Hawaiian teen princes brought surfing to the mainland</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-31 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/gallery/2025/8/31/indonesia-protesters-clash-with-riot-police-as-tensions-soar?traffic_source=rss" target="_blank">Indonesia protesters clash with riot police as tensions soar</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-08-31 09:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b51d/live/abe595d0-8649-11f0-b54e-01c89dde0774.jpg" alt="China and India pledge to be &#x27;partners not rivals&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clyrwv0egzro?at_medium=RSS&at_campaign=rss" target="_blank">China and India pledge to be &#x27;partners not rivals&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-31 09:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/31/nx-s1-5522943/trump-offshore-wind-energy-ports" target="_blank">Trump administration cancels $679 million for offshore wind projects at ports</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-31 09:00</span>
             </div>
         </div>
 </div>
@@ -166,9 +169,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/maxcore/sveltekit-2-code-based-router-instead-of-file-based-router-1e66" target="_blank">SvelteKit 2: How to make code-based router instead of file-based router</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-31 13:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Krita-Wayland-HDR-Merge-Request" target="_blank">KDE Krita Merge Request Opened For Wayland Color Management</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-31 13:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/zhizhiarv/using-claude-sonnet-4s-1m-context-window-on-amazon-bedrock-3eld" target="_blank">Using Claude Sonnet 4&#x27;s 1M Context Window on Amazon Bedrock</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-31 12:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://history.stackexchange.com/questions/79371/this-telegram-must-be-closely-paraphrased-before-being-communicated-to-anyone" target="_blank">&quot;This telegram must be closely paraphrased before being communicated&quot; Why?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-08-31 12:39</span>
             </div>
         </div>
 <div class="story">
@@ -189,38 +219,29 @@
                 <span class="time">2025-08-31 10:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Pentium-4-Fix" target="_blank">Linux Ready With Fix For Old Intel Pentium 4 CPUs Following Copy &amp; Paste Fail</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-08-31 10:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/08/pogocache-caching/en/headerimage/generatedHeaderImage-1756581897922.jpg" alt="Pogocache: Open Source Caching Software with Low Latency and Multiple Wire Protocols" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/pogocache-caching/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pogocache: Open Source Caching Software with Low Latency and Multiple Wire Protocols</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-31 10:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkh817v2csr7bxiwijwr8.png" alt="Purelymail – The Most Cost-Effective Email Provider for Custom Domains" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/r-quazi/purelymail-the-most-cost-effective-email-provider-for-custom-domains-2j56" target="_blank">Purelymail – The Most Cost-Effective Email Provider for Custom Domains</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-31 08:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/afloia-air-purifier-large-home.jpg" alt="Want to Breathe Cleaner Air? This Air Purifier Is Selling Now for Just a Few Dollars" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/want-to-breathe-cleaner-air-this-air-purifier-is-selling-now-for-just-a-few-dollars-2000621745" target="_blank">Want to Breathe Cleaner Air? This Air Purifier Is Selling Now for Just a Few Dollars</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-08-31 13:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/google.jpg" alt="Google Investors Surprisingly Chill About Major Data Breach" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/google-data-breach-2000650970" target="_blank">Google Investors Surprisingly Chill About Major Data Breach</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-31 13:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/A-stock-photo-from-the-2014-festival-in-Breda.-P.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Redhead festival underway in Netherlands" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -257,24 +278,6 @@
                 <span class="time">2025-08-30 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/toshiba-smart-tv.jpg" alt="This 50″ Smart TV Is Crowding Amazon’s Warehouses, So They’re Selling It at No Profit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-50-smart-tv-is-crowding-amazons-warehouses-so-theyre-selling-it-at-no-profit-2000621718" target="_blank">This 50″ Smart TV Is Crowding Amazon’s Warehouses, So They’re Selling It at No Profit</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-30 19:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/ZOOTOPIA-2-Ginnifer-Goodwin-Jason-Bateman-Disney.jpg" alt="Disney Gives New Looks at ‘Toy Story 5,’ ‘Zootopia 2,’ and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/disney-gives-new-looks-at-toy-story-5-zootopia-2-and-more-2000651211" target="_blank">Disney Gives New Looks at ‘Toy Story 5,’ ‘Zootopia 2,’ and More</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-30 19:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -294,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 13:06 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
