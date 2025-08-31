@@ -1,41 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-08-31 20:01:38 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-08-31 21:01:32 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 33 feeds processed -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, August 31, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, August 31, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/31/nx-s1-5524285/rudy-giuliani-hospitalized-car-accident-broken-vertebrae" target="_blank">Rudy Giuliani hospitalized with broken vertebrae after car accident, spokesperson says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-31 20:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/31/israel-is-reducing-gaza-city-to-fields-of-rubble-kills-78-across-enclave?traffic_source=rss" target="_blank">‘Fields of rubble’: Israel, destroying Gaza City, kills 78 across enclave</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-31 20:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-4-ap-gmh-250828_1756385399780_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump plans to issue executive order to require voter ID" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,29 +103,20 @@
                 <span class="time">2025-08-31 16:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/31/yemens-houthi-leader-condemns-israels-record-of-terror-after-killings?traffic_source=rss" target="_blank">Yemen’s Houthi leader condemns Israel’s ‘record of terror’ after killings</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-31 16:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a00/live/a20c7f00-867c-11f0-b391-6936825093bd.jpg" alt="Hamas spokesman Abu Obeida killed in Gaza, Israel says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cm214r5rd29o?at_medium=RSS&at_campaign=rss" target="_blank">Hamas spokesman Abu Obeida killed in Gaza, Israel says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-08-31 15:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/31/uk-age-check-law-seems-to-be-hurting-sites-that-comply-helping-those-that-dont/" target="_blank">UK age check law seems to be hurting sites that comply, helping those that don’t</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-08-31 20:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +162,20 @@
                 <span class="time">2025-08-31 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/verizon/768450/verizon-is-down-outage-network-software-issue" target="_blank">Verizon&amp;#8217;s &amp;#8216;software issue&amp;#8217; has disconnected many wireless customers across the US</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-30 21:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/middledev/terminally-curious-diving-into-bash-3pda" target="_blank">Terminally Curious: Diving Into Bash</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-31 20:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,28 +206,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://jj-for-everyone.github.io/" target="_blank">Jujutsu for Everyone</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-31 15:31</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-X1E-On-Linux-6.17" target="_blank">New Ubuntu Snapdragon X1E Concept ISO Published - Switches To Linux 6.17 Kernel</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-08-31 17:03</span>
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/01/libreoffice.jpg?resize=406%2C232&amp;ssl=1" alt="LibreOffice 25.8.1 Update Delivers Almost 100 Bug Fixes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arthurdrevot/angular-20-vitest-natif-zoneless-remplacez-jasminekarma-3fj3" target="_blank">⚡️ Angular 20 : Vitest natif (zoneless) - remplacez Jasmine/Karma</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-31 14:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/maxcore/sveltekit-2-code-based-router-instead-of-file-based-router-1e66" target="_blank">SvelteKit 2: How to make code-based router instead of file-based router</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-31 13:40</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/libreoffice-25-8-1-release-brings-almost-100-bug-fixes" target="_blank">LibreOffice 25.8.1 Update Delivers Almost 100 Bug Fixes</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-31 16:46</span>
             </div>
         </div>
 </div>
@@ -228,6 +226,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Scarlet-Mamoru-Hosoda-Studio-Chizu-Sony-Pictures.jpg" alt="Mamoru Hosoda’s ‘Scarlet’ Gets Bumped to 2026 in North America" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/mamoru-hosodas-scarlet-gets-bumped-to-2026-in-north-america-2000651291" target="_blank">Mamoru Hosoda’s ‘Scarlet’ Gets Bumped to 2026 in North America</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-08-31 20:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K3Z9MB4QFAV4YHE1SXBRAF8H/hero-image.png" alt="The Best Labor Day Tool Deals Under $25" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/best-tool-sales-under-25-labor-day-2025?utm_medium=RSS" target="_blank">The Best Labor Day Tool Deals Under $25</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-31 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Image-vetre-_3Ca-href_3Dhttps-shutterstock.com_.jpg?fit=1080%2C745&amp;quality=60&amp;ssl=1" alt="Labor Day weekend beachgoers enjoying the warm feces of the American shore" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,31 +280,13 @@
                 <span class="time">2025-08-31 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/hp-laptop-windows-intel.jpg" alt="Rated 4.5 out of 5, This HP Student Laptop Is Now 75% Off as Amazon Cuts Prices to Clear Shelves" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/rated-4-5-out-of-5-this-hp-student-laptop-is-now-75-off-as-amazon-cuts-prices-to-clear-shelves-2000621754" target="_blank">Rated 4.5 out of 5, This HP Student Laptop Is Now 75% Off as Amazon Cuts Prices to Clear Shelves</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-31 14:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/afloia-air-purifier-large-home.jpg" alt="Want to Breathe Cleaner Air? This Air Purifier Is Selling Now for Just a Few Dollars" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/want-to-breathe-cleaner-air-this-air-purifier-is-selling-now-for-just-a-few-dollars-2000621745" target="_blank">Want to Breathe Cleaner Air? This Air Purifier Is Selling Now for Just a Few Dollars</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-31 13:42</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
