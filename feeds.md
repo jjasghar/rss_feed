@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-01 09:01:55 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-01 10:02:04 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, September 01, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, September 01, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250826-split-Mikie-Sherrill-Jack-Ciattarelli-ch-1027-e2963e.jpg" alt="The sprint to Election Day begins in the Virginia and New Jersey governor&#x27;s races" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/elections/sprint-election-day-begins-virginia-new-jersey-governors-races-rcna227206" target="_blank">The sprint to Election Day begins in the Virginia and New Jersey governor&#x27;s races</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-01 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/1/suarez-messi-inter-miami-lose-to-seattle-sounders-in-leagues-cup-final?traffic_source=rss" target="_blank">Suarez, Messi, Inter Miami lose to Seattle Sounders in Leagues Cup final</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-01 05:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/GettyImages-81708297_1756694227734_hpMain_4x3t_384.jpg" alt="House Oversight Committee has withdrawn subpoena for Robert Mueller" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/house-oversight-withdrawn-subpoena-robert-mueller-new-report/story?id=125148414" target="_blank">House Oversight Committee has withdrawn subpoena for Robert Mueller</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-01 04:02</span>
             </div>
         </div>
 </div>
@@ -224,6 +223,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/oxford.jpg" alt="Today, College Kids Get Ridiculously Drunk. In Medieval England, They Got Ridiculously Murderous" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/today-college-kids-get-ridiculously-drunk-in-medieval-england-they-got-ridiculously-murderous-2000649124" target="_blank">Today, College Kids Get Ridiculously Drunk. In Medieval England, They Got Ridiculously Murderous</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-01 10:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/Screenshot-2025-08-31-7.36.02-PM.jpg" alt="Hollow Knight: Silksong Fans Can’t Believe How Cheap It Is" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -268,15 +276,6 @@
                 <span class="time">2025-08-31 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Scarlet-Mamoru-Hosoda-Studio-Chizu-Sony-Pictures.jpg" alt="Mamoru Hosoda’s ‘Scarlet’ Gets Bumped to 2026 in North America" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/mamoru-hosodas-scarlet-gets-bumped-to-2026-in-north-america-2000651291" target="_blank">Mamoru Hosoda’s ‘Scarlet’ Gets Bumped to 2026 in North America</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-31 20:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
