@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-01 16:02:03 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-01 17:01:45 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, September 01, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, September 01, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -79,19 +84,19 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1756727353223_now_mnn_sco_summit_xi_putin_250901_1920x1080-5y0ofo.jpg" alt="Chinese President Xi hosts leaders from more than 20 countries at SCO summit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/chinese-president-xi-hosts-world-leaders-at-the-sco-summit-in-china-246327365696" target="_blank">Chinese President Xi hosts leaders from more than 20 countries at SCO summit</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-01 11:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250901-putin-modi-jinping-rs-40b9be.jpg" alt="Car rides and hand-holding: Putin, Modi and Xi send Trump a pointed message" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/world/asia/putin-modi-xi-trump-china-summit-russia-ukraine-war-tariffs-india-rcna228356" target="_blank">Car rides and hand-holding: Putin, Modi and Xi send Trump a pointed message</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-01 11:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250901-putin-modi-jinping-rs-40b9be.jpg" alt="Car rides and hand holding: Putin, Modi and Xi send Trump a pointed message" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/asia/putin-modi-xi-trump-china-summit-russia-ukraine-war-tariffs-india-rcna228356" target="_blank">Car rides and hand holding: Putin, Modi and Xi send Trump a pointed message</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-09-01 11:13</span>
             </div>
@@ -163,6 +168,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/place-any-space" target="_blank">Gentex PLACE Any Space PL1AS / PL1K As A Replacement For Nest Protect Smoke Detectors</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-01 16:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18590535&w=600" alt="Building a Rate Limiter and Throttling Layer Using Spring Boot and Redis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/custom-spring-boot-redis-rate-limiter" target="_blank">Building a Rate Limiter and Throttling Layer Using Spring Boot and Redis</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-01 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/naveen_dev/level-up-your-laravel-requests-with-dtos-data-transfer-objects-8en" target="_blank">🚀 Level Up Your Laravel Requests with DTOs (Data Transfer Objects)</a></span>
                 <span class="feed">DEV Community</span>
@@ -196,29 +219,29 @@
                 <span class="time">2025-09-01 14:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/exFAT-Optimize-Bitmap-Loading" target="_blank">Linux&#x27;s exFAT File-System Driver Optimization Leads To 16.5x Speedup For Loading Time</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-01 14:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/music_youtube/kexp-optometry-star-crossed-live-on-kexp-1m80" target="_blank">KEXP: Optometry - Star Crossed (Live on KEXP)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-01 14:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/newsom.jpg" alt="Meet the Silicon Valley Donors Backing California’s Redistricting Push" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/silicon-valley-donors-california-map-newsom-2000651694" target="_blank">Meet the Silicon Valley Donors Backing California’s Redistricting Push</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-01 16:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/SamsungSSDEVO.jpg" alt="Samsung 990 EVO Plus SSD Practically Costs Nothing, the 2TB Model Works Out Cheaper Than Buying Two 1TBs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/samsung-990-evo-plus-ssd-practically-costs-nothing-the-2tb-model-works-out-cheaper-than-buying-two-1tbs-2000621430" target="_blank">Samsung 990 EVO Plus SSD Practically Costs Nothing, the 2TB Model Works Out Cheaper Than Buying Two 1TBs</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-01 15:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Conservative-at-the-core.jpg?fit=800%2C1200&amp;quality=60&amp;ssl=1" alt="New book: conservatives abandon limited government in favor of private business and extreme Christian agenda" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -253,24 +276,6 @@
                 <span class="title"><a href="https://gizmodo.com/today-college-kids-get-ridiculously-drunk-in-medieval-england-they-got-ridiculously-murderous-2000649124" target="_blank">Today, College Kids Get Ridiculously Drunk. In Medieval England, They Got Ridiculously Murderous</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-01 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/Screenshot-2025-08-31-7.36.02-PM.jpg" alt="Hollow Knight: Silksong Fans Can’t Believe How Cheap It Is" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/silksong-when-release-live-price-hollow-knight-steam-2000621785" target="_blank">Hollow Knight: Silksong Fans Can’t Believe How Cheap It Is</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-01 03:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/12/stephen-miller.jpg?fit=1500%2C957&amp;quality=60&amp;ssl=1" alt="Amazing… every word of what Stephen Miller just said was wrong" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/31/amazing-every-word-of-what-stephen-miller-just-said-was-wrong.html" target="_blank">Amazing… every word of what Stephen Miller just said was wrong</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-31 23:36</span>
             </div>
         </div>
 </div>
@@ -310,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
