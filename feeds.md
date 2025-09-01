@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-01 15:01:50 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2025-09-01 16:02:03 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, September 01, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, September 01, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ae8/live/30a98720-872d-11f0-9cf6-cbf3e73ce2b9.jpg" alt="More than 800 killed after strong quake hits Afghanistan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3ezgy1zlvwo?at_medium=RSS&at_campaign=rss" target="_blank">More than 800 killed after strong quake hits Afghanistan</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-01 14:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +94,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/world/asia/putin-modi-xi-trump-china-summit-russia-ukraine-war-tariffs-india-rcna228356" target="_blank">Car rides and hand holding: Putin, Modi and Xi send Trump a pointed message</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-09-01 11:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/1/deadly-earthquake-hits-afghanistan-what-we-know-so-far?traffic_source=rss" target="_blank">Deadly earthquake hits Afghanistan: What we know so far</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-01 11:12</span>
             </div>
         </div>
 </div>
@@ -165,6 +164,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/naveen_dev/level-up-your-laravel-requests-with-dtos-data-transfer-objects-8en" target="_blank">🚀 Level Up Your Laravel Requests with DTOs (Data Transfer Objects)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-01 15:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18590524&w=600" alt="Top Metrics to Watch in Kubernetes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/top-metrics-to-watch-in-kubernetes" target="_blank">Top Metrics to Watch in Kubernetes</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-01 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/nishakarithikeyan_2003/12-fun-python-tricks-thatll-make-you-look-like-a-pro-53ap" target="_blank">12 Fun Python Tricks That’ll Make You Look Like a Pro 🐍✨</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-01 14:50</span>
@@ -195,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/music_youtube/kexp-optometry-star-crossed-live-on-kexp-1m80" target="_blank">KEXP: Optometry - Star Crossed (Live on KEXP)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-01 14:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Redox-OS-August-2025" target="_blank">Redox OS Gets COSMIC Reader Working, Other Improvements To This Rust OS</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-01 13:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18599168&w=600" alt="Code That Isn’t Afraid of Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/flexible-code-that-lasts" target="_blank">Code That Isn’t Afraid of Change</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-01 13:00</span>
             </div>
         </div>
 </div>
@@ -280,6 +279,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1756591272-20250831.png" alt="Saturday Morning Breakfast Cereal - Actually" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/actually-3" target="_blank">Saturday Morning Breakfast Cereal - Actually</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-09-01 15:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -302,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
