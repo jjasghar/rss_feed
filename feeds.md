@@ -1,38 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-09-01 13:09:24 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-01 14:01:54 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, September 01, 2025 - 13:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, September 01, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +61,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/1/why-do-shallow-earthquakes-cause-more-destruction-than-deep-ones?traffic_source=rss" target="_blank">Why do shallow earthquakes cause more destruction than deep ones?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-01 12:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250901-putin-modi-jinping-rs-40b9be.jpg" alt="Car rides and hand-holding: Putin, Modi and Xi send Trump a pointed message" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/asia/putin-modi-xi-trump-china-summit-russia-ukraine-war-tariffs-india-rcna228356" target="_blank">Car rides and hand-holding: Putin, Modi and Xi send Trump a pointed message</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-01 11:13</span>
             </div>
         </div>
 <div class="story">
@@ -93,20 +108,20 @@
                 <span class="time">2025-09-01 10:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250826-split-Mikie-Sherrill-Jack-Ciattarelli-ch-1027-e2963e.jpg" alt="The sprint to Election Day begins in the Virginia and New Jersey governor&#x27;s races" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/elections/sprint-election-day-begins-virginia-new-jersey-governors-races-rcna227206" target="_blank">The sprint to Election Day begins in the Virginia and New Jersey governor&#x27;s races</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-01 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/01/every-fusion-startup-that-has-raised-over-100m/" target="_blank">Every fusion startup that has raised over $100M</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-01 12:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,15 +167,6 @@
                 <span class="time">2025-09-01 05:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/768508/chatbots-are-susceptible-to-flattery-and-peer-pressure" target="_blank">Chatbots can be manipulated through flattery and peer pressure</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-08-31 21:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,9 +176,45 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/music_youtube/kexp-optometry-star-crossed-live-on-kexp-1m80" target="_blank">KEXP: Optometry - Star Crossed (Live on KEXP)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-01 14:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Redox-OS-August-2025" target="_blank">Redox OS Gets COSMIC Reader Working, Other Improvements To This Rust OS</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-01 13:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18599168&w=600" alt="Code That Isn’t Afraid of Change" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/flexible-code-that-lasts" target="_blank">Code That Isn’t Afraid of Change</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-01 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/devcorner/blog-6-minimum-spanning-tree-mst-2hfd" target="_blank">📘 Blog 6: Minimum Spanning Tree (MST) 🌉</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-01 12:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/testing-distributed-systems/en/mediumimage/elias-noueira-medium-1755598857558.jpeg" alt="Presentation: Test Smarter, Not Harder: Achieving Confidence in Complex Distributed Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/testing-distributed-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Test Smarter, Not Harder: Achieving Confidence in Complex Distributed Systems</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-01 11:40</span>
             </div>
         </div>
 <div class="story">
@@ -184,47 +226,20 @@
                 <span class="time">2025-09-01 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/martin_call/the-only-web3-analytics-features-that-actually-matter-in-2025-hoe" target="_blank">The only Web3 analytics features that actually matter in 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-01 08:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/janmejayswain/fixing-jwt-session-validation-issues-with-redis-nd2" target="_blank">Fixing JWT Session Validation Issues with Redis</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-01 07:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sarahokolo/brand-perception-monitoring-sentiment-analysis-1f1" target="_blank">Brand Perception Monitoring &amp; Sentiment Analysisℹ️</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-01 06:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/evgeniipark/the-hidden-pitfalls-of-the-outsourcing-industry-18m8" target="_blank">The Hidden Pitfalls of the Outsourcing Industry</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-01 05:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/ovee-x-Evangelion-Gaming-Wall-Light.jpg" alt="Govee’s Evangelion Gaming Wall Light Sinks to a New Low for Labor Day, Outshining Black Friday Pricing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/govees-evangelion-gaming-wall-light-sinks-to-a-new-low-for-labor-day-outshining-black-friday-pricing-2000621420" target="_blank">Govee’s Evangelion Gaming Wall Light Sinks to a New Low for Labor Day, Outshining Black Friday Pricing</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-01 13:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Oso-AI-Earbuds-4.jpg" alt="These Wireless Earbuds Have a Screen, ChatGPT, and a Cute Robot Face—but They Sound Terrible" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,15 +285,6 @@
                 <span class="time">2025-08-31 21:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/oil.jpg" alt="Why Is Tech Worried When Stocks Like Chevron Drop On Global Oil Worries?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/why-does-tech-follow-oil-markets-2000650975" target="_blank">Why Is Tech Worried When Stocks Like Chevron Drop On Global Oil Worries?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-08-31 21:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -307,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 13:09 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
