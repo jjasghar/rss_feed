@@ -1,33 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-09-01 20:01:53 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2025-09-01 21:01:38 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 13 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, September 01, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, September 01, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/1/see-what-palestinian-activist-said-to-al-jazeera-journalist?traffic_source=rss" target="_blank">See what Palestinian activist said to Al Jazeera journalist</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-01 20:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/01/g-s1-86586/modi-and-putin-affirm-special-relationship-as-india-faces-steep-us-tariffs-over-russian-oil-imports" target="_blank">Modi and Putin affirm special relationship as India faces steep US tariffs over Russian oil imports</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-01 19:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,30 +97,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://s.abcnews.com/images/US/cabinet-21-gty-gmh-250826_1756229711171_hpMain_4x3t_384.jpg" alt="RFK Jr. ousted a CDC boss. Now former directors say he&#x27;s endangering US health" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/1/gaza-school-year-starts-but-barely-any-children-are-in-lessons?traffic_source=rss" target="_blank">Gaza school year starts but barely any children are in lessons</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-01 17:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ae8/live/30a98720-872d-11f0-9cf6-cbf3e73ce2b9.jpg" alt="More than 800 killed after strong quake hits Afghanistan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3ezgy1zlvwo?at_medium=RSS&at_campaign=rss" target="_blank">More than 800 killed after strong quake hits Afghanistan</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-01 14:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/1/xi-putin-and-modi-pledge-unity-at-summit-to-counter-us-led-global-order?traffic_source=rss" target="_blank">Xi, Putin and Modi pledge unity at summit to counter US-led global order</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-01 14:31</span>
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Health/former-cdc-directors-rfk-jr-endangering-americans-health/story?id=125152952" target="_blank">RFK Jr. ousted a CDC boss. Now former directors say he&#x27;s endangering US health</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-01 18:43</span>
             </div>
         </div>
 </div>
@@ -102,6 +110,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/767635/best-labor-day-tv-deal-sale" target="_blank">The best Labor Day TV sales</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-01 20:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +164,6 @@
                 <span class="time">2025-09-01 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68b1b31a848cb7db8ce4d2a8/master/pass/486269780" alt="China Is About to Show Off Its New High-Tech Weapons to the World" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/china-victory-day-parade-weapons/" target="_blank">China Is About to Show Off Its New High-Tech Weapons to the World</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-01 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -165,9 +173,45 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gaw/chrome-devtools-the-complete-use-case-guide-for-developers-20la" target="_blank">Chrome DevTools: The Complete Use Case Guide for Developers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-01 20:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Rust-1.90-LLD-Linking" target="_blank">Rust 1.90 Switching To LLD Linker On Linux For Faster Linking Times</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-01 20:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18592158&w=600" alt="How to Use ALB as a Firewall in IBM Cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-to-use-alb-as-a-firewall-in-ibm-cloud" target="_blank">How to Use ALB as a Firewall in IBM Cloud</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-01 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/vivian_gichure_ec51d453bf/exploring-key-trends-in-tech-ai-cloud-and-best-practices-4nib" target="_blank">🚀 Exploring Key Trends in Tech: AI, Cloud, and Best Practices</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-01 19:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.youtube.com/watch?v=Unzc731iCUY" target="_blank">Patrick Winston: How to Speak (2018) [video]</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-01 19:32</span>
             </div>
         </div>
 <div class="story">
@@ -179,47 +223,29 @@
                 <span class="time">2025-09-01 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18590603&w=600" alt="The AI Co-Pilot: How to Lead When Your Team&#x27;s Best Player Is a Machine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-leadership-beyond-code" target="_blank">The AI Co-Pilot: How to Lead When Your Team&#x27;s Best Player Is a Machine</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-01 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F603b04l548zcxqj74ajb.png" alt="Inheritance@1" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ajayr18/inheritance1-54o2" target="_blank">Inheritance@1</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-01 17:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://arxiv.org/abs/2508.21141" target="_blank">Adaptive LLM routing under budget constraints</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-01 16:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/place-any-space" target="_blank">Gentex PLACE Any Space PL1AS / PL1K As A Replacement For Nest Protect Smoke Detectors</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-01 16:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Horror-Babies-Spirit-Halloween.jpg" alt="Behold: Horror Icons Are Getting the Baby Yoda Treatment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/behold-horror-icons-are-getting-the-baby-yoda-treatment-2000650900" target="_blank">Behold: Horror Icons Are Getting the Baby Yoda Treatment</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-01 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/cloud.jpg" alt="The Beginning Of Final Fantasy VII: Remake Wowed Me All Over Again On Switch 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ff7-switch-2-remake-framerate-final-fantasy-2000622094" target="_blank">The Beginning Of Final Fantasy VII: Remake Wowed Me All Over Again On Switch 2</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-01 19:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Your-Name.jpg" alt="The Films and Shows You Should Be Streaming in September 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -248,30 +274,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Babbel-Language-Learning.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Babbel can help you say more than just &quot;gracias&quot; next time you travel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/shutterstock_2461217595.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="Murder on the playa" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/01/babbel-can-help-you-say-more-than-just-gracias-next-time-you-travel.html" target="_blank">Babbel can help you say more than just &quot;gracias&quot; next time you travel</a></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/01/murder-on-the-playa.html" target="_blank">Murder on the playa</a></span>
                 <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-01 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Conservative-at-the-core.jpg?fit=800%2C1200&amp;quality=60&amp;ssl=1" alt="New book: conservatives abandon limited government in favor of private business and extreme Christian agenda" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/01/new-book-conservatives-abandon-limited-government-in-favor-of-private-business-and-extreme-christian-agenda.html" target="_blank">New book: conservatives abandon limited government in favor of private business and extreme Christian agenda</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-01 14:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/ovee-x-Evangelion-Gaming-Wall-Light.jpg" alt="Govee’s Evangelion Gaming Wall Light Sinks to a New Low for Labor Day, Outshining Black Friday Pricing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/govees-evangelion-gaming-wall-light-sinks-to-a-new-low-for-labor-day-outshining-black-friday-pricing-2000621420" target="_blank">Govee’s Evangelion Gaming Wall Light Sinks to a New Low for Labor Day, Outshining Black Friday Pricing</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-01 13:40</span>
+                <span class="time">2025-09-01 15:32</span>
             </div>
         </div>
 </div>
@@ -311,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 102 | 📡 Total Sources: 41 | 📸 With Images: 272 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
