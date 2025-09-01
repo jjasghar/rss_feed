@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-01 12:02:19 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-01 13:09:24 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, September 01, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, September 01, 2025 - 13:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/1/why-do-shallow-earthquakes-cause-more-destruction-than-deep-ones?traffic_source=rss" target="_blank">Why do shallow earthquakes cause more destruction than deep ones?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-01 12:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250901-putin-modi-jinping-rs-40b9be.jpg" alt="Car rides and hand holding: Putin, Modi and Xi send Trump a pointed message" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,15 +100,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/elections/sprint-election-day-begins-virginia-new-jersey-governors-races-rcna227206" target="_blank">The sprint to Election Day begins in the Virginia and New Jersey governor&#x27;s races</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-09-01 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38f6/live/b673be30-86fa-11f0-b936-3914273c9c85.jpg" alt="Putin says he reached &#x27;understandings&#x27; with Trump over end of Ukraine war" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0qljy44553o?at_medium=RSS&at_campaign=rss" target="_blank">Putin says he reached &#x27;understandings&#x27; with Trump over end of Ukraine war</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-01 08:32</span>
             </div>
         </div>
 </div>
@@ -164,6 +169,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devcorner/blog-6-minimum-spanning-tree-mst-2hfd" target="_blank">📘 Blog 6: Minimum Spanning Tree (MST) 🌉</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-01 12:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://ubuntu.com//blog/linux-support-specialists" target="_blank">What Linux support specialists do</a></span>
                 <span class="feed">Ubuntu blog</span>
@@ -206,20 +220,20 @@
                 <span class="time">2025-09-01 05:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/install-proxmox-raspberry-pi/" target="_blank">Installing Proxmox on a Raspberry Pi to run Virtual Machines on it</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-09-01 05:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Oso-AI-Earbuds-4.jpg" alt="These Wireless Earbuds Have a Screen, ChatGPT, and a Cute Robot Face—but They Sound Terrible" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/these-wireless-earbuds-have-a-screen-chatgpt-and-a-cute-robot-face-but-they-sound-terrible-2000649142" target="_blank">These Wireless Earbuds Have a Screen, ChatGPT, and a Cute Robot Face—but They Sound Terrible</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-01 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/oxford.jpg" alt="Today, College Kids Get Ridiculously Drunk. In Medieval England, They Got Ridiculously Murderous" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,15 +279,6 @@
                 <span class="time">2025-08-31 21:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/1000019580-e1756673991753.jpg" alt="The Borderlands 4 Rage Room Is The Most Obnoxious Thing At PAX West And People Love It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/borderlands-4-pax-west-rage-room-gearbox-2000621767" target="_blank">The Borderlands 4 Rage Room Is The Most Obnoxious Thing At PAX West And People Love It</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-08-31 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 13:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
