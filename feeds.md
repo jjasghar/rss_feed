@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-01 10:02:04 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-01 11:01:32 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, September 01, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, September 01, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +49,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/01/g-s1-86336/labor-day-trump-administration-policies" target="_blank">Has Trump kept his campaign promises to American workers? Here&#x27;s what some say.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-01 10:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/1/uk-muslims-report-vandalism-attacks-amid-controversial-flag-campaign?traffic_source=rss" target="_blank">UK Muslims report vandalism, attacks amid controversial flag campaign</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-01 10:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250826-split-Mikie-Sherrill-Jack-Ciattarelli-ch-1027-e2963e.jpg" alt="The sprint to Election Day begins in the Virginia and New Jersey governor&#x27;s races" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
                 <span class="title"><a href="https://www.nbcnews.com/politics/elections/sprint-election-day-begins-virginia-new-jersey-governors-races-rcna227206" target="_blank">The sprint to Election Day begins in the Virginia and New Jersey governor&#x27;s races</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-09-01 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38f6/live/b673be30-86fa-11f0-b936-3914273c9c85.jpg" alt="Putin says he reached &#x27;understandings&#x27; with Trump over end of Ukraine war" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0qljy44553o?at_medium=RSS&at_campaign=rss" target="_blank">Putin says he reached &#x27;understandings&#x27; with Trump over end of Ukraine war</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-01 08:32</span>
             </div>
         </div>
 <div class="story">
@@ -72,38 +102,29 @@
                 <span class="time">2025-09-01 07:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/longform/2025/9/1/israel-murders-journalists?traffic_source=rss" target="_blank">Israel Murders Journalists</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-01 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecc9/live/433c80f0-86fa-11f0-b936-3914273c9c85.jpg" alt="UK to tighten family member rules for asylum cases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c626p66d6jxo?at_medium=RSS&at_campaign=rss" target="_blank">UK to tighten family member rules for asylum cases</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-01 05:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/1/suarez-messi-inter-miami-lose-to-seattle-sounders-in-leagues-cup-final?traffic_source=rss" target="_blank">Suarez, Messi, Inter Miami lose to Seattle Sounders in Leagues Cup final</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-01 05:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution" target="_blank">Is AI the end of software engineering or the next step in its evolution?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-01 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68b1b31a848cb7db8ce4d2a8/master/pass/486269780" alt="China Is About to Show Off Its New High-Tech Weapons to the World" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/china-victory-day-parade-weapons/" target="_blank">China Is About to Show Off Its New High-Tech Weapons to the World</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-01 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,24 +159,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/768508/chatbots-are-susceptible-to-flattery-and-peer-pressure" target="_blank">Chatbots can be manipulated through flattery and peer pressure</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-08-31 21:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/08/31/uk-age-check-law-seems-to-be-hurting-sites-that-comply-helping-those-that-dont/" target="_blank">UK age check law seems to be hurting sites that comply, helping those that don’t</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-08-31 20:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/turin1-500x500.jpg" alt="Research roundup: 6 cool science stories we almost missed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/08/research-roundup-6-cool-science-stories-we-almost-missed-2/" target="_blank">Research roundup: 6 cool science stories we almost missed</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-31 19:13</span>
             </div>
         </div>
 </div>
@@ -304,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
