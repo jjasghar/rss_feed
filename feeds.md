@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-08-31 23:01:27 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-01 00:05:48 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, August 31, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, September 01, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/31/nx-s1-5524312/federal-judge-block-guatemalan-children-deportation" target="_blank">Hundreds of unaccompanied Guatemalan children can stay in the U.S. for now, judge says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-08-31 23:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/31/former-trump-personal-lawyer-rudy-giuliani-injured-in-car-crash?traffic_source=rss" target="_blank">Former Trump personal lawyer Rudy Giuliani injured in car crash</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-08-31 22:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +96,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124929306" target="_blank">Trump admin live updates: Trump plans to issue executive order to require voter ID</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-08-31 18:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/8/31/liverpools-szoboszlai-downs-arsenal-to-top-premier-league-table?traffic_source=rss" target="_blank">Liverpool’s Szoboszlai downs Arsenal while Man City stumble again</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-31 18:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/31/two-million-impacted-as-pakistans-punjab-faces-worst-floods-in-its-history?traffic_source=rss" target="_blank">Two million impacted as Pakistan’s Punjab faces worst floods in its history</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-31 17:24</span>
             </div>
         </div>
 </div>
@@ -167,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj05vn3ppzesszh6dwr0w.png" alt="Reviews Tracker AI Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/msniezynski/reviews-tracker-ai-agent-25ki" target="_blank">Reviews Tracker AI Agent</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-08-31 23:50</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -211,20 +216,20 @@
                 <span class="time">2025-08-31 19:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://yoavg.github.io/eternal/" target="_blank">Eternal Struggle</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-08-31 19:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Dinos-Grocery-Mart-as-it-appears-on-Google-Stre.jpg?fit=1080%2C648&amp;quality=60&amp;ssl=1" alt="Thief sues grocery store whose employees beat him up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/31/thief-sues-grocery-store-whose-employees-beat-him-up.html" target="_blank">Thief sues grocery store whose employees beat him up</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-31 21:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/oil.jpg" alt="Why Is Tech Worried When Stocks Like Chevron Drop On Global Oil Worries?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -253,6 +258,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K400MEFRT75J4885VP4EVSFB/hero-image.jpg" alt="The M4 MacBook Pro Is $300 Off for Labor Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/m4-macbook-pro-labor-day-2025?utm_medium=RSS" target="_blank">The M4 MacBook Pro Is $300 Off for Labor Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-08-31 20:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K3Z9MB4QFAV4YHE1SXBRAF8H/hero-image.png" alt="The Best Labor Day Tool Deals Under $25" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -261,31 +275,13 @@
                 <span class="time">2025-08-31 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Image-vetre-_3Ca-href_3Dhttps-shutterstock.com_.jpg?fit=1080%2C745&amp;quality=60&amp;ssl=1" alt="Labor Day weekend beachgoers enjoying the warm feces of the American shore" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/31/labor-day-beachgoers-enjoying-the-warm-feces-of-the-american-shore.html" target="_blank">Labor Day weekend beachgoers enjoying the warm feces of the American shore</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-31 18:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/sign-spotted-at-anti-ICE-protest-in-Downtown-Los.jpg?fit=1080%2C847&amp;quality=60&amp;ssl=1" alt="Somehow, Los Angeles still stands…" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/08/31/somehow-los-angeles-still-stands.html" target="_blank">Somehow, Los Angeles still stands…</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-08-31 16:34</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 280 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
