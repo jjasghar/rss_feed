@@ -1,41 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-01 21:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-01 22:01:23 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 13 new posts out of 32 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, September 01, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, September 01, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/1/maduro-says-us-naval-forces-aimed-at-regime-change-in-venezuela?traffic_source=rss" target="_blank">Maduro says US naval forces aimed at regime change in Venezuela</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-01 21:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,15 +98,6 @@
                 <span class="time">2025-09-01 18:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/cabinet-21-gty-gmh-250826_1756229711171_hpMain_4x3t_384.jpg" alt="RFK Jr. ousted a CDC boss. Now former directors say he&#x27;s endangering US health" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Health/former-cdc-directors-rfk-jr-endangering-americans-health/story?id=125152952" target="_blank">RFK Jr. ousted a CDC boss. Now former directors say he&#x27;s endangering US health</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-01 18:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -116,6 +109,15 @@
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/767635/best-labor-day-tv-deal-sale" target="_blank">The best Labor Day TV sales</a></span>
                 <span class="feed">The Verge</span>
+                <span class="time">2025-09-01 20:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/01/space-investing-goes-mainstream-as-vcs-ditch-the-rocket-science-requirements/" target="_blank">Space investing goes mainstream as VCs ditch the rocket science requirements</a></span>
+                <span class="feed">TechCrunch</span>
                 <span class="time">2025-09-01 20:47</span>
             </div>
         </div>
@@ -155,20 +157,20 @@
                 <span class="time">2025-09-01 12:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/767973/vibe-coding-ai-future-end-evolution" target="_blank">Is AI the end of software engineering or the next step in its evolution?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-01 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/chiamaka_679986cc21966c54/the-unveiled-impact-of-artificial-intelligence-on-small-business-growth-and-productivity-6ka" target="_blank">The Unveiled Impact of Artificial Intelligence on Small Business Growth and Productivity</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-01 21:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +214,6 @@
                 <span class="title"><a href="https://www.youtube.com/watch?v=Unzc731iCUY" target="_blank">Patrick Winston: How to Speak (2018) [video]</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-09-01 19:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18590611&w=600" alt="From CloudWatch to Cost Watch: Cutting Observability Costs With Vector" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/cloudwatch-vs-vector-log-ingestion-costs" target="_blank">From CloudWatch to Cost Watch: Cutting Observability Costs With Vector</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-01 19:00</span>
             </div>
         </div>
 </div>
@@ -319,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 102 | 📡 Total Sources: 41 | 📸 With Images: 272 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 99 | 📡 Total Sources: 41 | 📸 With Images: 271 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
