@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-01 00:05:48 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-09-01 01:29:54 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, September 01, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, September 01, 2025 - 01:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/08/31/nx-s1-5524326/guatemala-government-unaccompanied-children-deportation" target="_blank">Guatemala says it suggested that U.S. send its unaccompanied migrant children home</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-01 01:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/1/car-crashes-into-russian-consulate-in-australias-sydney?traffic_source=rss" target="_blank">Car crashes into Russian consulate in Australia’s Sydney</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-01 00:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/31/nx-s1-5524285/rudy-giuliani-hospitalized-car-accident-broken-vertebrae" target="_blank">Rudy Giuliani hospitalized with broken vertebrae after car accident, spokesperson says</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-08-31 20:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/8/31/israel-is-reducing-gaza-city-to-fields-of-rubble-kills-78-across-enclave?traffic_source=rss" target="_blank">‘Fields of rubble’: Israel, destroying Gaza City, kills 78 across enclave</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-08-31 20:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-4-ap-gmh-250828_1756385399780_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump plans to issue executive order to require voter ID" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=124929306" target="_blank">Trump admin live updates: Trump plans to issue executive order to require voter ID</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-08-31 18:39</span>
             </div>
         </div>
 </div>
@@ -163,12 +164,39 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7z2qwah52v4ctuy2q4ym.png" alt="Cracking the Opus: Red Teaming Anthropic’s Giant with Promptfoo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ayush7614/cracking-the-opus-red-teaming-anthropics-giant-with-promptfoo-jj8" target="_blank">Cracking the Opus: Red Teaming Anthropic’s Giant with Promptfoo</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-01 01:23</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj05vn3ppzesszh6dwr0w.png" alt="Reviews Tracker AI Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/msniezynski/reviews-tracker-ai-agent-25ki" target="_blank">Reviews Tracker AI Agent</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-31 23:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Node.js Moves Toward Stable TypeScript Support With Amaro 1.0" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/08/node-amaro-stable-ts-support/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Node.js Moves Toward Stable TypeScript Support With Amaro 1.0</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-08-31 23:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/superfile-thumb.jpg?resize=406%2C232&amp;ssl=1" alt="SuperFile is a Command-Line File Manager You’ll Enjoy Using" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/superfile-terminal-file-manager-linux-ubuntu" target="_blank">SuperFile is a Command-Line File Manager You’ll Enjoy Using</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-08-31 22:49</span>
             </div>
         </div>
 <div class="story">
@@ -187,33 +215,6 @@
                 <span class="title"><a href="https://dev.to/alain_alvarezcaignet_148/hello-peg" target="_blank">Hello</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-08-31 21:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/middledev/terminally-curious-diving-into-bash-3pda" target="_blank">Terminally Curious: Diving Into Bash</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-31 20:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ddoemonn/why-existing-react-color-pickers-frustrated-me-and-what-i-built-instead-5ghg" target="_blank">Why existing React color pickers frustrated me (and what I built instead)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-31 19:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://www.youtube.com/watch?v=UVUjnzpQKUo" target="_blank">1 Problem, 16 Programming Languages</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-08-31 19:56</span>
             </div>
         </div>
 </div>
@@ -277,11 +278,25 @@
         </div>
 </div>
 </div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5647.png" alt="Motives" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5647" target="_blank">Motives</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-09-01 00:59</span>
+            </div>
+        </div>
+</div>
+</div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 280 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 01:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
