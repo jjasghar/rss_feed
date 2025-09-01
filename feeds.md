@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-01 19:01:36 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-09-01 20:01:53 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, September 01, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, September 01, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/01/g-s1-86565/in-new-orleans-memories-of-katrina-remain-vivid-20-years-later" target="_blank">In New Orleans, memories of Katrina remain vivid 20 years later</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-01 19:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/1/astronaut-captures-rare-red-aurora-from-international-space-station?traffic_source=rss" target="_blank">Astronaut captures rare red aurora from International Space Station</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-01 19:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +97,20 @@
                 <span class="time">2025-09-01 14:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/trump-blog-main_1756718429529_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump urges companies to &#x27;justify&#x27; success of COVID drugs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=125150863" target="_blank">Trump admin live updates: Trump urges companies to &#x27;justify&#x27; success of COVID drugs</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-01 13:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/1/why-do-shallow-earthquakes-cause-more-destruction-than-deep-ones?traffic_source=rss" target="_blank">Why do shallow earthquakes cause more destruction than deep ones?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-01 12:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/01/behind-the-scenes-and-front-row-access-volunteer-at-techcrunch-disrupt-2025-while-you-still-can/" target="_blank">Behind the scenes and front-row access: Volunteer at TechCrunch Disrupt 2025 while you still can</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-01 19:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +156,29 @@
                 <span class="time">2025-09-01 10:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/01/lovables-ceo-isnt-too-worried-about-the-vibe-coding-competition/" target="_blank">Lovable’s CEO isn’t too worried about the vibe-coding competition</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-01 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vivian_gichure_ec51d453bf/exploring-key-trends-in-tech-ai-cloud-and-best-practices-4nib" target="_blank">🚀 Exploring Key Trends in Tech: AI, Cloud, and Best Practices</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-01 19:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18590611&w=600" alt="From CloudWatch to Cost Watch: Cutting Observability Costs With Vector" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/cloudwatch-vs-vector-log-ingestion-costs" target="_blank">From CloudWatch to Cost Watch: Cutting Observability Costs With Vector</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-01 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18590603&w=600" alt="The AI Co-Pilot: How to Lead When Your Team&#x27;s Best Player Is a Machine" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -184,37 +200,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/place-any-space" target="_blank">Gentex PLACE Any Space PL1AS / PL1K As A Replacement For Nest Protect Smoke Detectors</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-01 16:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18590535&w=600" alt="Building a Rate Limiter and Throttling Layer Using Spring Boot and Redis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/custom-spring-boot-redis-rate-limiter" target="_blank">Building a Rate Limiter and Throttling Layer Using Spring Boot and Redis</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-01 16:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://arxiv.org/abs/2508.21141" target="_blank">Adaptive LLM routing under budget constraints</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-01 16:57</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/naveen_dev/level-up-your-laravel-requests-with-dtos-data-transfer-objects-8en" target="_blank">🚀 Level Up Your Laravel Requests with DTOs (Data Transfer Objects)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-01 15:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18590524&w=600" alt="Top Metrics to Watch in Kubernetes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/top-metrics-to-watch-in-kubernetes" target="_blank">Top Metrics to Watch in Kubernetes</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-01 15:00</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/place-any-space" target="_blank">Gentex PLACE Any Space PL1AS / PL1K As A Replacement For Nest Protect Smoke Detectors</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-01 16:28</span>
             </div>
         </div>
 </div>
@@ -313,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
