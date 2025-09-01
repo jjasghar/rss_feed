@@ -1,36 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-09-01 05:01:58 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-01 06:02:09 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 28 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, September 01, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, September 01, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +54,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/1/suarez-messi-inter-miami-lose-to-seattle-sounders-in-leagues-cup-final?traffic_source=rss" target="_blank">Suarez, Messi, Inter Miami lose to Seattle Sounders in Leagues Cup final</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-01 05:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/GettyImages-81708297_1756694227734_hpMain_4x3t_384.jpg" alt="House Oversight Committee has withdrawn subpoena for Robert Mueller" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/house-oversight-withdrawn-subpoena-robert-mueller-new-report/story?id=125148414" target="_blank">House Oversight Committee has withdrawn subpoena for Robert Mueller</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-01 04:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +106,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/08/31/nx-s1-5524326/guatemala-government-unaccompanied-children-deportation" target="_blank">Guatemala says it suggested that U.S. send its unaccompanied migrant children home</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-01 01:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/1/car-crashes-into-russian-consulate-in-australias-sydney?traffic_source=rss" target="_blank">Car crashes into Russian consulate in Australia’s Sydney</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-01 00:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/31/nx-s1-5524312/federal-judge-block-guatemalan-children-deportation" target="_blank">Hundreds of unaccompanied Guatemalan children can stay in the U.S. for now, judge says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-08-31 23:27</span>
             </div>
         </div>
 </div>
@@ -165,6 +173,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/evgeniipark/the-hidden-pitfalls-of-the-outsourcing-industry-18m8" target="_blank">The Hidden Pitfalls of the Outsourcing Industry</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-01 05:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="Software development has always been about speed, accuracy, and problem-solving. But today, AI is transforming the way developers work, helping them ship faster, debug smarter, and deliver more value in less time." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -209,15 +226,6 @@
                 <span class="time">2025-08-31 23:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/superfile-multipanel.jpg?resize=406%2C232&amp;ssl=1" alt="SuperFile is a Terminal File Manager You’ll Actually Enjoy Using" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/08/superfile-terminal-file-manager-linux-ubuntu" target="_blank">SuperFile is a Terminal File Manager You’ll Actually Enjoy Using</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-08-31 22:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -230,6 +238,15 @@
                 <span class="title"><a href="https://kotaku.com/silksong-when-release-live-price-hollow-knight-steam-2000621785" target="_blank">Hollow Knight: Silksong Fans Can’t Believe How Cheap It Is</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-09-01 03:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/12/stephen-miller.jpg?fit=1500%2C957&amp;quality=60&amp;ssl=1" alt="Amazing… every word of what Stephen Miller just said was wrong" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/08/31/amazing-every-word-of-what-stephen-miller-just-said-was-wrong.html" target="_blank">Amazing… every word of what Stephen Miller just said was wrong</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-08-31 23:36</span>
             </div>
         </div>
 <div class="story">
@@ -268,15 +285,6 @@
                 <span class="time">2025-08-31 20:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K400MEFRT75J4885VP4EVSFB/hero-image.jpg" alt="The M4 MacBook Pro Is $300 Off for Labor Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/m4-macbook-pro-labor-day-2025?utm_medium=RSS" target="_blank">The M4 MacBook Pro Is $300 Off for Labor Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-08-31 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -296,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 93 | 📡 Total Sources: 41 | 📸 With Images: 278 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
