@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-01 17:01:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-01 18:01:58 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, September 01, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, September 01, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/1/gaza-school-year-starts-but-barely-any-children-are-in-lessons?traffic_source=rss" target="_blank">Gaza school year starts but barely any children are in lessons</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-01 17:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ae8/live/30a98720-872d-11f0-9cf6-cbf3e73ce2b9.jpg" alt="More than 800 killed after strong quake hits Afghanistan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +97,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/now/video/chinese-president-xi-hosts-world-leaders-at-the-sco-summit-in-china-246327365696" target="_blank">Chinese President Xi hosts leaders from more than 20 countries at SCO summit</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-09-01 11:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250901-putin-modi-jinping-rs-40b9be.jpg" alt="Car rides and hand-holding: Putin, Modi and Xi send Trump a pointed message" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/asia/putin-modi-xi-trump-china-summit-russia-ukraine-war-tariffs-india-rcna228356" target="_blank">Car rides and hand-holding: Putin, Modi and Xi send Trump a pointed message</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-01 11:13</span>
             </div>
         </div>
 </div>
@@ -166,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F603b04l548zcxqj74ajb.png" alt="Inheritance@1" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ajayr18/inheritance1-54o2" target="_blank">Inheritance@1</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-01 17:50</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -210,20 +217,20 @@
                 <span class="time">2025-09-01 14:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://radar.cloudflare.com/ai-insights" target="_blank">Cloudflare Radar: AI Insights</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-01 14:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Your-Name.jpg" alt="The Films and Shows You Should Be Streaming in September 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-films-and-shows-you-should-be-streaming-in-september-2025-2000650183" target="_blank">The Films and Shows You Should Be Streaming in September 2025</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-01 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/newsom.jpg" alt="Meet the Silicon Valley Donors Backing California’s Redistricting Push" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -243,6 +250,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Babbel-Language-Learning.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Babbel can help you say more than just &quot;gracias&quot; next time you travel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/01/babbel-can-help-you-say-more-than-just-gracias-next-time-you-travel.html" target="_blank">Babbel can help you say more than just &quot;gracias&quot; next time you travel</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-01 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Conservative-at-the-core.jpg?fit=800%2C1200&amp;quality=60&amp;ssl=1" alt="New book: conservatives abandon limited government in favor of private business and extreme Christian agenda" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -258,24 +274,6 @@
                 <span class="title"><a href="https://kotaku.com/govees-evangelion-gaming-wall-light-sinks-to-a-new-low-for-labor-day-outshining-black-friday-pricing-2000621420" target="_blank">Govee’s Evangelion Gaming Wall Light Sinks to a New Low for Labor Day, Outshining Black Friday Pricing</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-09-01 13:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Oso-AI-Earbuds-4.jpg" alt="These Wireless Earbuds Have a Screen, ChatGPT, and a Cute Robot Face—but They Sound Terrible" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/these-wireless-earbuds-have-a-screen-chatgpt-and-a-cute-robot-face-but-they-sound-terrible-2000649142" target="_blank">These Wireless Earbuds Have a Screen, ChatGPT, and a Cute Robot Face—but They Sound Terrible</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-01 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/oxford.jpg" alt="Today, College Kids Get Ridiculously Drunk. In Medieval England, They Got Ridiculously Murderous" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/today-college-kids-get-ridiculously-drunk-in-medieval-england-they-got-ridiculously-murderous-2000649124" target="_blank">Today, College Kids Get Ridiculously Drunk. In Medieval England, They Got Ridiculously Murderous</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-01 10:00</span>
             </div>
         </div>
 </div>
@@ -315,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
