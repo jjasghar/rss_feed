@@ -1,44 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-01 06:02:09 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-01 07:02:10 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 35 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, September 01, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, September 01, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/longform/2025/9/1/israel-murders-journalists?traffic_source=rss" target="_blank">Israel Murders Journalists</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-01 06:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecc9/live/433c80f0-86fa-11f0-b936-3914273c9c85.jpg" alt="UK to tighten family member rules for asylum cases" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c626p66d6jxo?at_medium=RSS&at_campaign=rss" target="_blank">UK to tighten family member rules for asylum cases</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-01 05:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,29 +101,20 @@
                 <span class="time">2025-09-01 02:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d4c/live/4543dd90-8695-11f0-9e03-99ad5cbcdd73.jpg" alt="Family reunion rules to be tightened in asylum cases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c626p66d6jxo?at_medium=RSS&at_campaign=rss" target="_blank">Family reunion rules to be tightened in asylum cases</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-01 01:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/08/31/nx-s1-5524326/guatemala-government-unaccompanied-children-deportation" target="_blank">Guatemala says it suggested that U.S. send its unaccompanied migrant children home</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-01 01:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/08/31/murder-at-burning-man-turns-silicon-valleys-desert-playground-into-a-crime-scene/" target="_blank">Murder at Burning Man turns Silicon Valley’s desert playground into a crime scene</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-01 05:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -158,15 +160,6 @@
                 <span class="time">2025-08-31 14:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-1334810601-500x500.jpg" alt="Earth models can predict the planet’s future but not their own" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/08/earth-models-can-predict-the-planets-future-but-not-their-own/" target="_blank">Earth models can predict the planet’s future but not their own</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-08-31 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -176,9 +169,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sarahokolo/brand-perception-monitoring-sentiment-analysis-1f1" target="_blank">Brand Perception Monitoring &amp; Sentiment Analysisℹ️</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-01 06:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/evgeniipark/the-hidden-pitfalls-of-the-outsourcing-industry-18m8" target="_blank">The Hidden Pitfalls of the Outsourcing Industry</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-01 05:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/install-proxmox-raspberry-pi/" target="_blank">Installing Proxmox on a Raspberry Pi to run Virtual Machines on it</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-09-01 05:32</span>
             </div>
         </div>
 <div class="story">
@@ -206,24 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/GNOME-Shell-Mutter-49-RC" target="_blank">GNOME Shell &amp; Mutter Land Last Minute Additions Ahead Of GNOME 49</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-01 01:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj05vn3ppzesszh6dwr0w.png" alt="Reviews Tracker AI Agent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/msniezynski/reviews-tracker-ai-agent-25ki" target="_blank">Reviews Tracker AI Agent</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-08-31 23:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Node.js Moves Toward Stable TypeScript Support With Amaro 1.0" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/08/node-amaro-stable-ts-support/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Node.js Moves Toward Stable TypeScript Support With Amaro 1.0</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-08-31 23:31</span>
             </div>
         </div>
 </div>
@@ -304,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 93 | 📡 Total Sources: 41 | 📸 With Images: 278 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 97 | 📡 Total Sources: 41 | 📸 With Images: 276 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
