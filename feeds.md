@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-02 21:01:58 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-09-02 22:01:18 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, September 02, 2025 - 21:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, September 02, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,10 +45,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/02/nx-s1-5478625/google-chrome-doj-antitrust-ruling" target="_blank">In a major antitrust ruling, a judge lets Google keep Chrome but levies other penalties</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-02 21:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/2/nigerias-asisat-oshoala-leave-bay-fc-for-saudi-womens-al-hilal?traffic_source=rss" target="_blank">Nigeria’s Asisat Oshoala leave Bay FC for Saudi Women’s Al-Hilal</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-02 20:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1756844837627_now_mtp_clip_troops_250902_1920x1080-x2sa65.jpg" alt="Trump vows troop deployments to Chicago despite judge’s ruling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/trump-vows-troop-deployments-to-chicago-despite-judge-s-ruling-246465093631" target="_blank">Trump vows troop deployments to Chicago despite judge’s ruling</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-02 20:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/us-news/2025/sep/02/lawyers-say-men-deported-by-us-to-eswatini-are-being-imprisoned-illegally" target="_blank">Lawyers say men deported by US to Eswatini are being imprisoned illegally</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-09-02 20:13</span>
             </div>
         </div>
 <div class="story">
@@ -73,33 +94,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/now/video/trump-responds-to-weekend-speculation-surrounding-his-health-246457413649" target="_blank">Trump responds to weekend speculation surrounding his health</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-09-02 19:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/02/nx-s1-5525875/trump-naturalization-voter-registration-uscis" target="_blank">Trump administration blocks groups from voter registration at naturalization events</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-02 19:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/02/g-s1-86626/congress-return-shutdown-epstein" target="_blank">Tick tock: Congress has 14 legislative days to stop a government shutdown.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-02 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2025/9/2/aje-onl-ban_rohingyaconf_av_v2-020925?traffic_source=rss" target="_blank">Why is Bangladesh saying it can no longer host Rohingya?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-02 18:28</span>
             </div>
         </div>
 </div>
@@ -169,10 +163,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/huawei-oceanstor-canonical-kubernetes-integration-report" target="_blank">Huawei OceanStor with Canonical Kubernetes – integration verification report</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-09-02 21:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/SDL-Merges-X11TK-X11-Toolkit" target="_blank">SDL Merges X11TK: A Basic X11 Toolkit</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-02 21:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/alifar/why-ai-giants-are-chasing-cursors-developer-data-in-the-47b-agentic-ai-race-im5" target="_blank">Why AI Giants Are Chasing Cursor’s Developer Data in the $47B Agentic AI Race</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-02 20:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18593280&w=600" alt="Stop Leaking Secrets: The Hidden Danger in Test Automation and How Vault Can Fix It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/hidden-danger-in-test-automation-vault-fix" target="_blank">Stop Leaking Secrets: The Hidden Danger in Test Automation and How Vault Can Fix It</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-02 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -193,33 +214,6 @@
                 <span class="time">2025-09-02 19:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2491%2F2e334b3d-5af0-43e5-95c0-e3ededf148f7.png" alt="Top 7 Featured DEV Posts of the Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4hd4" target="_blank">Top 7 Featured DEV Posts of the Week</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-02 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18593271&w=600" alt="Technical Deep Dive: Scaling GenAI-Enhanced SBOM Analysis from Trivy Fix to Enterprise DevSecOps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/scaling-genai-enhanced-sbom-analysis-trivy-devsecops" target="_blank">Technical Deep Dive: Scaling GenAI-Enhanced SBOM Analysis from Trivy Fix to Enterprise DevSecOps</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-02 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-sbtsi-temp-Linux-Freezing" target="_blank">AMD &quot;sbtsi_temp&quot; Driver Being Updated For Linux 6.18 To Handle Freezing CPU Temperatures</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-02 18:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,20 +228,29 @@
                 <span class="time">2025-09-02 11:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/" target="_blank">The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-09-01 21:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2023/05/cf237e61f7b88b8e03f0b3ac3b3e55fd.jpg" alt="Google Won’t Have to Sell Chrome Browser After All (But There’s a Catch)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/google-wont-have-to-sell-chrome-browser-after-all-but-theres-a-catch-2000652304" target="_blank">Google Won’t Have to Sell Chrome Browser After All (But There’s a Catch)</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-02 21:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4602AA6DPJEJ7EASM9G38X1/hero-image.png" alt="iOS 26&#x27;s Photos App Will Label Concerts and Sporting Events You Attended" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/ios-26-event-rocognition-photos-app?utm_medium=RSS" target="_blank">iOS 26&#x27;s Photos App Will Label Concerts and Sporting Events You Attended</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-02 21:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/peter-doocy-trump-ai-video-white-house-sept.-2-2025.jpg" alt="Trump Blames AI for Weird Video of Stuff Being Tossed Out White House Window" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,24 +287,6 @@
                 <span class="time">2025-09-02 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/KpopDemonHunters_ProRes422HQ_SDR_2ch_20250424.00_31_19_12-1.jpg" alt="The Cultural Takeover Of KPop Demon Hunters, Two Months Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/kpop-demon-hunters-streaming-box-office-numbers-netflix-2000622381" target="_blank">The Cultural Takeover Of KPop Demon Hunters, Two Months Later</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-02 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/ast.jpg" alt="Astro Bot PS5 Controller Returns In October, Good Luck Pre-Ordering It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/astro-bot-ps5-controller-returns-in-october-good-luck-pre-ordering-it-2000622375" target="_blank">Astro Bot PS5 Controller Returns In October, Good Luck Pre-Ordering It</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-02 16:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
