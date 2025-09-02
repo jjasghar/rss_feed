@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-02 13:10:08 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-02 14:01:41 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, September 02, 2025 - 13:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, September 02, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,10 +50,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/2/ireland-intervenes-after-gaza-activist-national-beaten-by-german-police?traffic_source=rss" target="_blank">Ireland intervenes after Gaza activist national beaten by German police</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-02 13:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/09/02/nx-s1-5521384/energy-report-scientists-climate-change" target="_blank">Dozens of scientists find errors in a new Energy Department climate report</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-02 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ad7/live/c21bd3b0-87fb-11f0-b391-6936825093bd.jpg" alt="New Green leader Polanski vows to &#x27;replace&#x27; Starmer&#x27;s Labour" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd0d0d08jnjo?at_medium=RSS&at_campaign=rss" target="_blank">New Green leader Polanski vows to &#x27;replace&#x27; Starmer&#x27;s Labour</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-02 12:28</span>
             </div>
         </div>
 <div class="story">
@@ -84,24 +101,6 @@
                 <span class="time">2025-09-02 10:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/2/what-if-the-us-stopped-supporting-israel-tomorrow?traffic_source=rss" target="_blank">What if… the US stopped supporting Israel tomorrow?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-02 09:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/capitol-2-epa-gmh-250901_1756759751279_hpMain_4x3t_384.jpg" alt="Congress returns from recess as government shutdown deadline looms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/congress-returns-recess-government-shutdown-deadline-looms-epstein/story?id=125159018" target="_blank">Congress returns from recess as government shutdown deadline looms</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-02 09:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -114,6 +113,15 @@
                 <span class="title"><a href="https://www.theverge.com/news/768614/thermomix-tm7-us-release-price-specs-launch-date" target="_blank">My favorite cooking gadget is getting a big upgrade</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-02 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68af3fa9a5136f70e8d33b6e/master/pass/Final-Fantasy-Tactics-Culture-FFT_TIC_Mediakit_01.jpg" alt="The ‘Final Fantasy Tactics’ Refresh Gives Its Class-War Story New Relevance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/final-fantasy-tactics-refresh/" target="_blank">The ‘Final Fantasy Tactics’ Refresh Gives Its Class-War Story New Relevance</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-02 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -152,20 +160,38 @@
                 <span class="time">2025-09-02 04:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/01/indias-offgrid-raises-15m-to-make-lithium-optional-for-battery-storage/" target="_blank">India’s Offgrid raises $15M to make lithium optional for battery storage</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-02 00:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/k4ji_dev/datadog-reframed-a-simple-way-to-think-about-agents-pipelines-indexes-and-more-1nfj" target="_blank">Datadog, Reframed: A Simple Way to Think About Agents, Pipelines, Indexes, and More</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-02 13:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Arch-Linux-Archinstall-3.0.10" target="_blank">Arch Linux&#x27;s Archinstall No Longer Treating LVM-Based Installs As &quot;Beta&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-02 13:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.rubynewbie.org/10-ways-to-participate-in-the-ruby-community" target="_blank">How to Participate in the Ruby Community</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-02 13:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0sdwa5pytpqwum6kw523.png" alt="When Your AI Agent Needs a Scalpel, Not a Sledgehammer: Claude Code SDK vs AWS Strands for Surgical Code Fixes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -191,33 +217,6 @@
                 <span class="title"><a href="https://www.infoq.com/articles/causal-reasoning-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: How Causal Reasoning Addresses the Limitations of LLMs in Observability</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-09-02 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cag000/enhanced-detection-system-configuration-guide-376e" target="_blank">Enhanced Detection System Configuration Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-02 08:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/hugging-face-trackio/en/headerimage/generatedHeaderImage-1756798834921.jpg" alt="Hugging Face Releases Trackio, a Lightweight Open-Source Experiment Tracking Library" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/hugging-face-trackio/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Hugging Face Releases Trackio, a Lightweight Open-Source Experiment Tracking Library</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-02 07:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/s_mathavi_2fa1e3ea8514f34/create-a-fully-functional-javascript-calculator-with-darklight-mode-scientific-function-10en" target="_blank">Create a Fully Functional JavaScript Calculator with Dark/Light Mode &amp; Scientific Function</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-02 07:52</span>
             </div>
         </div>
 </div>
@@ -248,6 +247,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Death-Becomes-Her-Bruce-WIllis-Goldie-Hawn-Meryl-Streep.jpg" alt="Drew Barrymore Wants To Remake Cult Horror Comedy ‘Death Becomes Her’ With Adam Sandler, Jennifer Anniston" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/drew-barrymore-wants-to-remake-cult-horror-comedy-death-becomes-her-with-adam-sandler-jennifer-anniston-2000651819" target="_blank">Drew Barrymore Wants To Remake Cult Horror Comedy ‘Death Becomes Her’ With Adam Sandler, Jennifer Anniston</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-02 13:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/KpopDemonHunters_ProRes422HQ_SDR_2ch_20250424.00_06_07_19-1.jpg" alt="KPop Demon Hunters’ Soundtrack Is Primed To Become A New Scalping Craze" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/kpop-demon-hunters-soundtrack-album-cd-photocard-rumi-2000622335" target="_blank">KPop Demon Hunters’ Soundtrack Is Primed To Become A New Scalping Craze</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-02 13:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/roborock-q8-max.jpg" alt="Now Three Times Cheaper Than Its Original Price, This Roborock Is Going for the Price of a Budget Model" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,24 +299,6 @@
                 <span class="title"><a href="https://kotaku.com/ff7-switch-2-remake-framerate-final-fantasy-2000622094" target="_blank">The Beginning Of Final Fantasy VII: Remake Wowed Me All Over Again On Switch 2</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-09-01 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Your-Name.jpg" alt="The Films and Shows You Should Be Streaming in September 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-films-and-shows-you-should-be-streaming-in-september-2025-2000650183" target="_blank">The Films and Shows You Should Be Streaming in September 2025</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-01 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/newsom.jpg" alt="Meet the Silicon Valley Donors Backing California’s Redistricting Push" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/silicon-valley-donors-california-map-newsom-2000651694" target="_blank">Meet the Silicon Valley Donors Backing California’s Redistricting Push</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-01 16:44</span>
             </div>
         </div>
 </div>
@@ -339,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
