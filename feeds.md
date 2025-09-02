@@ -1,29 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-02 01:29:07 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-02 02:28:53 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 2 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, September 02, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, September 02, 2025 - 02:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/02/sudan-landslide-kills-at-least-1000-people-rebel-group-says" target="_blank">Sudan landslide kills at least 1,000 people, rebel group says</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-09-02 02:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,15 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/1/see-what-palestinian-activist-said-to-al-jazeera-journalist?traffic_source=rss" target="_blank">See what Palestinian activist said to Al Jazeera journalist</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-01 20:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/01/g-s1-86586/modi-and-putin-affirm-special-relationship-as-india-faces-steep-us-tariffs-over-russian-oil-imports" target="_blank">Modi and Putin affirm special relationship as India faces steep US tariffs over Russian oil imports</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-01 19:56</span>
             </div>
         </div>
 </div>
@@ -160,6 +169,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ip2location/displaying-users-local-time-with-dst-adjustment-via-ip2locationio-12cd" target="_blank">Displaying User’s Local Time with DST Adjustment via IP2Location.io</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-02 02:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://cognition.ai/blog/dont-build-multi-agents" target="_blank">Don&#x27;t Build Multi-Agents</a></span>
                 <span class="feed">Hacker News</span>
@@ -200,15 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Rust-1.90-LLD-Linking" target="_blank">Rust 1.90 Switching To LLD Linker On Linux For Faster Linking Times</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-01 20:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18592158&w=600" alt="How to Use ALB as a Firewall in IBM Cloud" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-to-use-alb-as-a-firewall-in-ibm-cloud" target="_blank">How to Use ALB as a Firewall in IBM Cloud</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-01 20:00</span>
             </div>
         </div>
 </div>
@@ -330,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 02:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
