@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-02 19:01:28 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-02 20:01:48 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 28 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, September 02, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, September 02, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-2-rt-gmh-250902_1756839331845_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump says &#x27;we&#x27;re going in&#x27; to Chicago" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=125150863" target="_blank">Trump admin live updates: Trump says &#x27;we&#x27;re going in&#x27; to Chicago</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-02 19:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/02/nx-s1-5525875/trump-naturalization-voter-registration-uscis" target="_blank">Trump administration blocks groups from voter registration at naturalization events</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-02 19:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +99,29 @@
                 <span class="time">2025-09-02 16:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ac2/live/4fb58e20-8813-11f0-84c8-99de564f0440.jpg" alt="Strong aftershock hits Afghanistan after quake kills more than 1,400" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cpqvqeg3nz5o?at_medium=RSS&at_campaign=rss" target="_blank">Strong aftershock hits Afghanistan after quake kills more than 1,400</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-02 16:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/donald-trump-03-gty-jef-250902_1756815850870_hpMain_4x3t_384.jpg" alt="Trump vows to take on crime in Chicago &#x27;fast&#x27; after violent Labor Day weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-vows-crime-chicago-fast-after-violent-labor/story?id=125181053" target="_blank">Trump vows to take on crime in Chicago &#x27;fast&#x27; after violent Labor Day weekend</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-02 16:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/02/judges-side-with-trump-epa-over-canceled-inflation-reduction-act-grants-to-nonprofits/" target="_blank">Judges side with Trump EPA over canceled Inflation Reduction Act grants to nonprofits</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-02 19:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68b709c550cb8fd71b27edd5/master/pass/A251472_large.jpg" alt="The Concept C Is the All-Electric Sports Car Kickstarting Audi’s Design Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/audis-concept-c-electric-sports-car-announced/" target="_blank">The Concept C Is the All-Electric Sports Car Kickstarting Audi’s Design Future</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-02 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/laseractive2-500x500.jpg" alt="Over 30 years later, a rare LaserDisc game console gets its first PC emulator" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,35 +158,35 @@
                 <span class="time">2025-09-02 17:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/zombie1-500x500.jpg" alt="The Avengers face an undead Thanos in Marvel Zombies trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2025/09/the-avengers-face-an-undead-thanos-in-marvel-zombies-trailer/" target="_blank">The Avengers face an undead Thanos in Marvel Zombies trailer</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-02 17:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/02/teslas-fourth-master-plan-reads-like-llm-generated-nonsense/" target="_blank">Tesla’s fourth ‘Master Plan’ reads like LLM-generated nonsense</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-02 17:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3415300%2F145683af-9716-4263-812e-25a3962d2552.jpg" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ben/-1j5d" target="_blank">[Boost]</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-02 19:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2491%2F2e334b3d-5af0-43e5-95c0-e3ededf148f7.png" alt="Top 7 Featured DEV Posts of the Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4hd4" target="_blank">Top 7 Featured DEV Posts of the Week</a></span>
                 <span class="feed">DEV Community</span>
+                <span class="time">2025-09-02 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18593271&w=600" alt="Technical Deep Dive: Scaling GenAI-Enhanced SBOM Analysis from Trivy Fix to Enterprise DevSecOps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/scaling-genai-enhanced-sbom-analysis-trivy-devsecops" target="_blank">Technical Deep Dive: Scaling GenAI-Enhanced SBOM Analysis from Trivy Fix to Enterprise DevSecOps</a></span>
+                <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-09-02 19:00</span>
             </div>
         </div>
@@ -200,24 +217,6 @@
                 <span class="time">2025-09-02 17:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas" target="_blank">Introduction to Ada: a project-based exploration with rosettas</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-02 17:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/gimp-3.2-1.jpg?resize=406%2C232&amp;ssl=1" alt="GIMP 3.1.4 Adds Non-Destructive Link Layers and Vector Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/gimp-adds-link-layers-photoshop-smart-objects" target="_blank">GIMP 3.1.4 Adds Non-Destructive Link Layers and Vector Support</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-02 17:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +245,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/08/Google-headquarters-getty.jpg" alt="EU Gets Cold Feet Over Google Fine, Fears Potential Trump Backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/eu-gets-cold-feet-over-google-fine-fears-potential-trump-backlash-2000652121" target="_blank">EU Gets Cold Feet Over Google Fine, Fears Potential Trump Backlash</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-02 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K45RJ11VKD35WNFA89B6Z659/hero-image.png" alt="The &#x27;All Fours&#x27; Fitness Trend Is Legit (But That Doesn&#x27;t Make It Better)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/is-exercising-on-all-fours-really-better?utm_medium=RSS" target="_blank">The &#x27;All Fours&#x27; Fitness Trend Is Legit (But That Doesn&#x27;t Make It Better)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-02 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K45J3BAHKWD7DXTQE7Y4AHY0/hero-image.png" alt="If You&#x27;ve Ever Shared a Spotify Link Publicly, You Need to Disable Spotify DMs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,24 +299,6 @@
                 <span class="time">2025-09-02 16:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K45G3BT55PPPC1CQ2G8GYQD6/hero-image.jpg" alt="Say Goodbye to Sharing Amazon Prime Free Shipping Benefits" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/amazon-is-ending-the-prime-invitee-program?utm_medium=RSS" target="_blank">Say Goodbye to Sharing Amazon Prime Free Shipping Benefits</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-02 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JV5KK4PTXAY5HR61DWXAMSMX/hero-image.png" alt="How (and Why) to Connect Your Apple Watch to Your Peloton" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/connect-apple-watch-to-peloton-bike?utm_medium=RSS" target="_blank">How (and Why) to Connect Your Apple Watch to Your Peloton</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-02 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,22 +322,13 @@
                 <span class="time">2025-09-02 01:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/09/01/clientele" target="_blank">Clientele</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-09-01 19:51</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
