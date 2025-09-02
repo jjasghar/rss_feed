@@ -1,41 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-02 15:01:50 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-02 16:02:11 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 33 feeds processed -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, September 02, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, September 02, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/9/2/nestle-ceo-fired-over-undisclosed-affair?traffic_source=rss" target="_blank">Nestle CEO fired over undisclosed affair</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-02 15:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddc0/live/5592b800-8808-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Ex-actor Zack Polanski&#x27;s unusual path to become Green Party&#x27;s new leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clyrev00lwno?at_medium=RSS&at_campaign=rss" target="_blank">Ex-actor Zack Polanski&#x27;s unusual path to become Green Party&#x27;s new leader</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-02 14:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,29 +102,20 @@
                 <span class="time">2025-09-02 13:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/02/nx-s1-5521384/energy-report-scientists-climate-change" target="_blank">Dozens of scientists find errors in a new Energy Department climate report</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-02 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ad7/live/c21bd3b0-87fb-11f0-b391-6936825093bd.jpg" alt="New Green leader Polanski vows to &#x27;replace&#x27; Starmer&#x27;s Labour" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd0d0d08jnjo?at_medium=RSS&at_campaign=rss" target="_blank">New Green leader Polanski vows to &#x27;replace&#x27; Starmer&#x27;s Labour</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-02 12:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/02/mrbeast-reportedly-plans-to-launch-a-phone-company/" target="_blank">MrBeast reportedly plans to launch a phone company</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-02 15:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +161,29 @@
                 <span class="time">2025-09-02 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6892740bb6596472bf1757dd/master/pass/AI-Gurus-Culture.jpg" alt="Spiritual Influencers Say ‘Sentient’ AI Can Help You Solve Life’s Mysteries" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/spiritual-influencers-say-sentient-ai-can-help-you-solve-lifes-mysteries/" target="_blank">Spiritual Influencers Say ‘Sentient’ AI Can Help You Solve Life’s Mysteries</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-02 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/09/02/back-to-school-developers-at-stack-overflow-have-some-advice-for-you/" target="_blank">Back to school? Developers at Stack Overflow have some advice for you</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-09-02 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18590138&w=600" alt="Building a Card Layout Using CSS Subgrid" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-a-card-layout-using-css-subgrid" target="_blank">Building a Card Layout Using CSS Subgrid</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-02 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,24 +220,6 @@
                 <span class="time">2025-09-02 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/k4ji_dev/datadog-reframed-a-simple-way-to-think-about-agents-pipelines-indexes-and-more-1nfj" target="_blank">Datadog, Reframed: A Simple Way to Think About Agents, Pipelines, Indexes, and More</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-02 13:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Arch-Linux-Archinstall-3.0.10" target="_blank">Arch Linux&#x27;s Archinstall No Longer Treating LVM-Based Installs As &quot;Beta&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-02 13:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -251,6 +248,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JV5KK4PTXAY5HR61DWXAMSMX/hero-image.png" alt="How (and Why) to Connect Your Apple Watch to Your Peloton" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/connect-apple-watch-to-peloton-bike?utm_medium=RSS" target="_blank">How (and Why) to Connect Your Apple Watch to Your Peloton</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-02 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/main.jpg" alt="The Very Finest Cosplay From Anime Expo 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -296,20 +302,20 @@
                 <span class="time">2025-09-02 12:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Roborock-Saros-Z70.jpg" alt="Roborock’s Anniversary Blowout Sale Includes $1,000 Off the Incredible Saros Z70 Robot Vacuum" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/roborocks-anniversary-blowout-sale-includes-1000-off-the-incredible-saros-z70-robot-vacuum-2000648696" target="_blank">Roborock’s Anniversary Blowout Sale Includes $1,000 Off the Incredible Saros Z70 Robot Vacuum</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-02 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1756591351-20250901.png" alt="Saturday Morning Breakfast Cereal - Chew" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/chew" target="_blank">Saturday Morning Breakfast Cereal - Chew</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-09-02 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5648.png" alt="Promises, Promises" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -328,22 +334,13 @@
                 <span class="time">2025-09-01 19:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1756591272-20250831.png" alt="Saturday Morning Breakfast Cereal - Actually" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/actually-3" target="_blank">Saturday Morning Breakfast Cereal - Actually</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-09-01 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
