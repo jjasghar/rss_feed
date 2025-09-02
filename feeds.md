@@ -1,32 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-09-02 22:01:18 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-09-02 23:01:50 UTC -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 8 new posts out of 23 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, September 02, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, September 02, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/2/children-journalists-among-105-killed-in-israeli-onslaught-in-gaza?traffic_source=rss" target="_blank">Children, journalists among 105 killed in Israeli onslaught in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-02 22:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +95,20 @@
                 <span class="time">2025-09-02 19:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1756841174993_now_brk_doocy_demise_250902_1920x1080-o75ptp.jpg" alt="Trump responds to weekend speculation surrounding his health" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-responds-to-weekend-speculation-surrounding-his-health-246457413649" target="_blank">Trump responds to weekend speculation surrounding his health</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-02 19:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67194d3ac6e04fef4b6ba5f1/master/pass/Uncanny-Valley-Podcast-Artwork.jpg" alt="Join Us for WIRED’s “Uncanny Valley” Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-live-show-san-francisco/" target="_blank">Join Us for WIRED’s “Uncanny Valley” Live</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-02 21:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +154,20 @@
                 <span class="time">2025-09-02 18:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/02/astro-teller-is-joining-us-at-techcrunch-disrupt-2025-in-october/" target="_blank">Astro Teller, “Captain of Moonshots,” joins TechCrunch Disrupt 2025 this October</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-02 18:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/Mozilla-Logo-New.jpg?resize=406%2C232&amp;ssl=1" alt="Google Antitrust Ruling Brings Relief for Mozilla" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/google-antitrust-ruling-firefox-search-deal" target="_blank">Google Antitrust Ruling Brings Relief for Mozilla</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-02 22:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +213,6 @@
                 <span class="time">2025-09-02 19:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fedora-ARM-Changes-Red-Hat-QA" target="_blank">Fedora ARM Release Changes Due To Red Hat QA Team Reduction</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-02 19:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,12 +233,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/KPop-Demon-Hunters.jpg" alt="‘KPop Demon Hunters’ Songwriter on Crafting the Movie’s Breakout Hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/kpop-demon-hunters-songwriter-on-crafting-the-movies-breakout-hit-2000652036" target="_blank">‘KPop Demon Hunters’ Songwriter on Crafting the Movie’s Breakout Hit</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-02 22:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2023/05/cf237e61f7b88b8e03f0b3ac3b3e55fd.jpg" alt="Google Won’t Have to Sell Chrome Browser After All (But There’s a Catch)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/google-wont-have-to-sell-chrome-browser-after-all-but-theres-a-catch-2000652304" target="_blank">Google Won’t Have to Sell Chrome Browser After All (But There’s a Catch)</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-02 21:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/betty-boop.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="Watch percussionist Josh Harmon join &quot;musical icon&quot; Jon Batiste to create vintage cartoon sound effects!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/02/watch-percussionist-josh-harmon-join-musical-icon-jon-batiste-to-create-vintage-cartoon-sound-effects.html" target="_blank">Watch percussionist Josh Harmon join &quot;musical icon&quot; Jon Batiste to create vintage cartoon sound effects!</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-02 21:33</span>
             </div>
         </div>
 <div class="story">
@@ -267,24 +284,6 @@
                 <span class="title"><a href="https://gizmodo.com/eu-gets-cold-feet-over-google-fine-fears-potential-trump-backlash-2000652121" target="_blank">EU Gets Cold Feet Over Google Fine, Fears Potential Trump Backlash</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-02 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K45RJ11VKD35WNFA89B6Z659/hero-image.png" alt="The &#x27;All Fours&#x27; Fitness Trend Is Legit (But That Doesn&#x27;t Make It Better)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/is-exercising-on-all-fours-really-better?utm_medium=RSS" target="_blank">The &#x27;All Fours&#x27; Fitness Trend Is Legit (But That Doesn&#x27;t Make It Better)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-02 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K45J3BAHKWD7DXTQE7Y4AHY0/hero-image.png" alt="If You&#x27;ve Ever Shared a Spotify Link Publicly, You Need to Disable Spotify DMs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/if-you-ever-shared-spotify-link-publicly-disable-spotify-dms?utm_medium=RSS" target="_blank">If You&#x27;ve Ever Shared a Spotify Link Publicly, You Need to Disable Spotify DMs</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-02 17:30</span>
             </div>
         </div>
 </div>
@@ -315,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
