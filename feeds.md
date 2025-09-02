@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-09-02 04:02:10 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-02 05:01:50 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, September 02, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, September 02, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/2/uk-had-hottest-summer-since-records-began-met-office-says?traffic_source=rss" target="_blank">UK had hottest summer since records began, Met Office says</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-02 04:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,6 +87,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-palestinians-palestine_7008851.jpg?20250902035057" alt="Belgium announces it will recognise Palestinian state" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/belgium-announces-it-will-recognise-palestinian-state-13423469" target="_blank">Belgium announces it will recognise Palestinian state</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-02 01:59</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -80,29 +104,20 @@
                 <span class="time">2025-09-01 22:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ef/live/97e7b4f0-877a-11f0-84c8-99de564f0440.jpg" alt="Afghans spend night in open after earthquake kills more than 800" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3ezgy1zlvwo?at_medium=RSS&at_campaign=rss" target="_blank">Afghans spend night in open after earthquake kills more than 800</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-01 22:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/1/maduro-says-us-naval-forces-aimed-at-regime-change-in-venezuela?traffic_source=rss" target="_blank">Maduro says US naval forces aimed at regime change in Venezuela</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-01 21:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/01/indian-grocery-startup-citymall-raises-47m-to-challenge-ultra-fast-delivery-giants/" target="_blank">Indian grocery startup Citymall raises $47M to challenge ultra-fast delivery giants</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-02 04:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +163,29 @@
                 <span class="time">2025-09-01 19:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/01/why-runway-is-eyeing-the-robotics-industry-for-future-revenue-growth/" target="_blank">Why Runway is eyeing the robotics industry for future revenue growth</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-01 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/09/02/building-ai-for-consumer-applications-isn-t-all-fun-and-games/" target="_blank">Building AI for consumer applications isn’t all fun and games</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-09-02 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aiwithapex/oxfords-new-ai-optimizer-cuts-training-costs-by-80-and-speeds-up-7x-5cna" target="_blank">Oxford’s New AI Optimizer Cuts Training Costs by 80% and Speeds Up 7x</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-02 04:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fassets.echoapi.com%2Fupload%2Fuser%2F349643884600500224%2Flogo%2F6dbaa76f-f237-42d3-b469-44cd207ac444.png" alt="EchoAPIモック機能で開発効率アップ！並行開発の実践ノウハウ" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -169,6 +193,15 @@
                 <span class="title"><a href="https://dev.to/waterlily_0f365e5fadded0f/echoapimotukuji-neng-dekai-fa-xiao-lu-atupubing-xing-kai-fa-noshi-jian-nouhau-21nf" target="_blank">EchoAPIモック機能で開発効率アップ！並行開発の実践ノウハウ</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-02 03:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/woheller69/FreeDroidWarn" target="_blank">FreeDroidWarn</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-02 03:01</span>
             </div>
         </div>
 <div class="story">
@@ -187,33 +220,6 @@
                 <span class="title"><a href="https://dev.to/ip2location/displaying-users-local-time-with-dst-adjustment-via-ip2locationio-12cd" target="_blank">Displaying User’s Local Time with DST Adjustment via IP2Location.io</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-02 02:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://cognition.ai/blog/dont-build-multi-agents" target="_blank">Don&#x27;t Build Multi-Agents</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-01 21:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/chiamaka_679986cc21966c54/the-unveiled-impact-of-artificial-intelligence-on-small-business-growth-and-productivity-6ka" target="_blank">The Unveiled Impact of Artificial Intelligence on Small Business Growth and Productivity</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-01 21:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GIMP-3.1.4-Released" target="_blank">GIMP 3.1.4 Released With A Project From 2006 Resurrected And Another Big Feature</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-01 21:30</span>
             </div>
         </div>
 </div>
@@ -335,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 103 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
