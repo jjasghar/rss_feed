@@ -1,41 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-02 09:01:51 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-02 10:02:07 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 32 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, September 02, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, September 02, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/2/what-if-the-us-stopped-supporting-israel-tomorrow?traffic_source=rss" target="_blank">What if… the US stopped supporting Israel tomorrow?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-02 09:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/capitol-2-epa-gmh-250901_1756759751279_hpMain_4x3t_384.jpg" alt="Congress returns from recess as government shutdown deadline looms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/congress-returns-recess-government-shutdown-deadline-looms-epstein/story?id=125159018" target="_blank">Congress returns from recess as government shutdown deadline looms</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-02 09:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250826-us-capitol-building-ew-1124p-0c53e6.jpg" alt="A shutdown fight and Epstein drama await as Congress returns to Washington" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/congress/congress-back-shutdown-deadline-epstein-files-trump-nominees-cdc-rcna225906" target="_blank">A shutdown fight and Epstein drama await as Congress returns to Washington</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-02 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/afghan-main_1756798794153_hpMain_4x3t_384.jpg" alt="Death toll climbs to over 1,100 after Afghanistan earthquake, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,33 +101,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c8jpj8knvn8o?at_medium=RSS&at_campaign=rss" target="_blank">Chris Mason: Starmer faces pressure to deliver as he tries to strike contrast with Reform</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-02 05:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/2/uk-had-hottest-summer-since-records-began-met-office-says?traffic_source=rss" target="_blank">UK had hottest summer since records began, Met Office says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-02 04:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/02/nx-s1-5431545/starter-homes-utah-housing-cost-affordable-target" target="_blank">Starter homes are scarce, so Utah set a target to build more. Here&#x27;s how it&#x27;s going</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-02 04:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/02/sudan-landslide-kills-at-least-1000-people-rebel-group-says" target="_blank">Sudan landslide kills at least 1,000 people, rebel group says</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-09-02 02:25</span>
             </div>
         </div>
 </div>
@@ -243,6 +241,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Roborock-Saros-Z70.jpg" alt="Roborock’s Anniversary Blowout Sale Includes $1,000 Off the Incredible Saros Z70 Robot Vacuum" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/roborocks-anniversary-blowout-sale-includes-1000-off-the-incredible-saros-z70-robot-vacuum-2000648696" target="_blank">Roborock’s Anniversary Blowout Sale Includes $1,000 Off the Incredible Saros Z70 Robot Vacuum</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-02 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Horror-Babies-Spirit-Halloween.jpg" alt="Behold: Horror Icons Are Getting the Baby Yoda Treatment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -287,15 +294,6 @@
                 <span class="time">2025-09-01 15:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/shutterstock_2461217595.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="Murder on the playa" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/01/murder-on-the-playa.html" target="_blank">Murder on the playa</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-01 15:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
