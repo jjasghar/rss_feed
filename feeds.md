@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-02 07:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-02 08:02:12 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, September 02, 2025 - 07:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, September 02, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/afghan-main_1756798794153_hpMain_4x3t_384.jpg" alt="Death toll climbs to over 1,100 after Afghanistan earthquake, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/afghanistan-earthquake-death-toll-rises/story?id=125172025" target="_blank">Death toll climbs to over 1,100 after Afghanistan earthquake, officials say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-02 07:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +97,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2025/sep/02/sudan-landslide-kills-at-least-1000-people-rebel-group-says" target="_blank">Sudan landslide kills at least 1,000 people, rebel group says</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-09-02 02:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/211a/live/a39259d0-877b-11f0-84c8-99de564f0440.jpg" alt="Justice secretary to get power to veto sentencing guidance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn848g3ll09o?at_medium=RSS&at_campaign=rss" target="_blank">Justice secretary to get power to veto sentencing guidance</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-02 02:23</span>
             </div>
         </div>
 </div>
@@ -167,10 +166,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/s_mathavi_2fa1e3ea8514f34/create-a-fully-functional-javascript-calculator-with-darklight-mode-scientific-function-10en" target="_blank">Create a Fully Functional JavaScript Calculator with Dark/Light Mode &amp; Scientific Function</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-02 07:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2025/09/02/building-ai-for-consumer-applications-isn-t-all-fun-and-games/" target="_blank">Building AI for consumer applications isn’t all fun and games</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-09-02 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/openstack-poc" target="_blank">OpenStack PoC? No problem!</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-09-02 07:00</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/aiwithapex/oxfords-new-ai-optimizer-cuts-training-costs-by-80-and-speeds-up-7x-5cna" target="_blank">Oxford’s New AI Optimizer Cuts Training Costs by 80% and Speeds Up 7x</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-02 04:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fassets.echoapi.com%2Fupload%2Fuser%2F349643884600500224%2Flogo%2F6dbaa76f-f237-42d3-b469-44cd207ac444.png" alt="EchoAPIモック機能で開発効率アップ！並行開発の実践ノウハウ" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/waterlily_0f365e5fadded0f/echoapimotukuji-neng-dekai-fa-xiao-lu-atupubing-xing-kai-fa-noshi-jian-nouhau-21nf" target="_blank">EchoAPIモック機能で開発効率アップ！並行開発の実践ノウハウ</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-02 03:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/woheller69/FreeDroidWarn" target="_blank">FreeDroidWarn</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-02 03:01</span>
             </div>
         </div>
 </div>
@@ -329,7 +328,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 07:01 UTC
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
