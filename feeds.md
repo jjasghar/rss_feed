@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-02 03:17:04 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-02 04:02:10 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
 <!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, September 02, 2025 - 03:17 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, September 02, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +51,15 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2025/sep/02/sudan-landslide-kills-at-least-1000-people-rebel-group-says" target="_blank">Sudan landslide kills at least 1,000 people, rebel group says</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-09-02 02:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/211a/live/a39259d0-877b-11f0-84c8-99de564f0440.jpg" alt="Justice secretary to get power to veto sentencing guidance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn848g3ll09o?at_medium=RSS&at_campaign=rss" target="_blank">Justice secretary to get power to veto sentencing guidance</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-02 02:23</span>
             </div>
         </div>
 <div class="story">
@@ -87,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/1/maduro-says-us-naval-forces-aimed-at-regime-change-in-venezuela?traffic_source=rss" target="_blank">Maduro says US naval forces aimed at regime change in Venezuela</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-01 21:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/trump-blog-main_1756718429529_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Rudy Giuliani to receive Presidential Medal of Freedom" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=125150863" target="_blank">Trump admin live updates: Rudy Giuliani to receive Presidential Medal of Freedom</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-01 20:57</span>
             </div>
         </div>
 </div>
@@ -163,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fassets.echoapi.com%2Fupload%2Fuser%2F349643884600500224%2Flogo%2F6dbaa76f-f237-42d3-b469-44cd207ac444.png" alt="EchoAPIモック機能で開発効率アップ！並行開発の実践ノウハウ" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/waterlily_0f365e5fadded0f/echoapimotukuji-neng-dekai-fa-xiao-lu-atupubing-xing-kai-fa-noshi-jian-nouhau-21nf" target="_blank">EchoAPIモック機能で開発効率アップ！並行開発の実践ノウハウ</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-02 03:50</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,15 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/GIMP-3.1.4-Released" target="_blank">GIMP 3.1.4 Released With A Project From 2006 Resurrected And Another Big Feature</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-01 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gaw/chrome-devtools-the-complete-use-case-guide-for-developers-20la" target="_blank">Chrome DevTools: The Complete Use Case Guide for Developers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-01 20:48</span>
             </div>
         </div>
 </div>
@@ -335,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 03:17 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
