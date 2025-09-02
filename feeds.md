@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-02 20:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-02 21:01:58 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 8 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, September 02, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, September 02, 2025 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +49,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/2/nigerias-asisat-oshoala-leave-bay-fc-for-saudi-womens-al-hilal?traffic_source=rss" target="_blank">Nigeria’s Asisat Oshoala leave Bay FC for Saudi Women’s Al-Hilal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-02 20:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-2-rt-gmh-250902_1756839331845_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump says &#x27;we&#x27;re going in&#x27; to Chicago" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=125150863" target="_blank">Trump admin live updates: Trump says &#x27;we&#x27;re going in&#x27; to Chicago</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-02 19:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1756841174993_now_brk_doocy_demise_250902_1920x1080-o75ptp.jpg" alt="Trump responds to weekend speculation surrounding his health" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/trump-responds-to-weekend-speculation-surrounding-his-health-246457413649" target="_blank">Trump responds to weekend speculation surrounding his health</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-02 19:26</span>
             </div>
         </div>
 <div class="story">
@@ -81,29 +102,29 @@
                 <span class="time">2025-09-02 18:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe58/live/24722d60-8802-11f0-9cf6-cbf3e73ce2b9.jpg" alt="North Korea&#x27;s Kim arrives in Beijing with daughter to attend massive military parade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c78z2p6gg1zo?at_medium=RSS&at_campaign=rss" target="_blank">North Korea&#x27;s Kim arrives in Beijing with daughter to attend massive military parade</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-02 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3200/live/cd0fcf90-87f8-11f0-9b0f-2d7c964b5418.jpg" alt="UK borrowing costs hit 27-year high adding to pressure on Reeves" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy989njnq2wo?at_medium=RSS&at_campaign=rss" target="_blank">UK borrowing costs hit 27-year high adding to pressure on Reeves</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-02 16:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/769585/amazon-lens-live-ai-real-time-shopping" target="_blank">Amazon&amp;#8217;s Lens Live AI shops for anything you can see</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-02 21:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/02/waymo-expands-to-denver-and-seattle-with-its-zeekr-made-vans/" target="_blank">Waymo expands to Denver and Seattle with its Zeekr-made vans</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-02 20:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +161,20 @@
                 <span class="time">2025-09-02 18:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68b72b7afaef204de0fe1242/master/pass/Sony's%20Previous%20Flagship%20Headphones%20Are%20$100%20Off%20and%20Still%20Amazing.png" alt="Sony WH-1000XM5 Deal: $100 Off Sony’s Last-Gen Flagships" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/sony-wh-1000xm5-deal/" target="_blank">Sony WH-1000XM5 Deal: $100 Off Sony’s Last-Gen Flagships</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-02 17:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68b72b7afaef204de0fe1242/master/pass/Sony's%20Previous%20Flagship%20Headphones%20Are%20$100%20Off%20and%20Still%20Amazing.png" alt="Sony WH-1000XM5 Deal: $100 Off Sony&#x27;s Last-Gen Flagships" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/sony-wh-1000xm5-deal/" target="_blank">Sony WH-1000XM5 Deal: $100 Off Sony&#x27;s Last-Gen Flagships</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-02 17:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alifar/why-ai-giants-are-chasing-cursors-developer-data-in-the-47b-agentic-ai-race-im5" target="_blank">Why AI Giants Are Chasing Cursor’s Developer Data in the $47B Agentic AI Race</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-02 20:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3415300%2F145683af-9716-4263-812e-25a3962d2552.jpg" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -170,6 +182,15 @@
                 <span class="title"><a href="https://dev.to/ben/-1j5d" target="_blank">[Boost]</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-02 19:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-ARM-Changes-Red-Hat-QA" target="_blank">Fedora ARM Release Changes Due To Red Hat QA Team Reduction</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-02 19:42</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-sbtsi-temp-Linux-Freezing" target="_blank">AMD &quot;sbtsi_temp&quot; Driver Being Updated For Linux 6.18 To Handle Freezing CPU Temperatures</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-02 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/redgamer4133/my-new-game-i-just-made-for-school-so-i-can-ply-and-have-some-fun-and-you-can-play-at-home-2nmd" target="_blank">MY new game i just made for school so i and you can play and have some fun and you can play at home</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-02 17:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://tonybaloney.github.io/posts/why-isnt-python-async-more-popular.html" target="_blank">Python has had async for 10 years -- why isn&#x27;t it more popular?</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-09-02 17:46</span>
             </div>
         </div>
 </div>
@@ -245,6 +248,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/peter-doocy-trump-ai-video-white-house-sept.-2-2025.jpg" alt="Trump Blames AI for Weird Video of Stuff Being Tossed Out White House Window" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trump-blames-ai-for-weird-video-of-stuff-being-tossed-out-white-house-window-2000652191" target="_blank">Trump Blames AI for Weird Video of Stuff Being Tossed Out White House Window</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-02 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/08/Google-headquarters-getty.jpg" alt="EU Gets Cold Feet Over Google Fine, Fears Potential Trump Backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +302,6 @@
                 <span class="time">2025-09-02 16:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/ditch.jpg?fit=1200%2C977&amp;quality=60&amp;ssl=1" alt="Man water skis down drainage ditch at breakneck speed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/02/man-water-skis-down-drainage-ditch-at-breakneck-speed.html" target="_blank">Man water skis down drainage ditch at breakneck speed</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-02 16:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
