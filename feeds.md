@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-02 16:02:11 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-02 17:01:40 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, September 02, 2025 - 16:02 UTC</div>
+    <div class="newspaper-date">Tuesday, September 02, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +105,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/02/teslas-dojo-a-timeline/" target="_blank">Tesla’s Dojo, a timeline</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-02 16:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/framework_desktop_noctua_3D_print_intake_fan_grill_installation-500x500.jpg" alt="Noctua’s 3D-printed mod singlehandedly makes the Framework Desktop run quieter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/noctuas-3d-printed-mod-singlehandedly-makes-the-framework-desktop-run-quieter/" target="_blank">Noctua’s 3D-printed mod singlehandedly makes the Framework Desktop run quieter</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-02 16:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/09/02/mrbeast-reportedly-plans-to-launch-a-phone-company/" target="_blank">MrBeast reportedly plans to launch a phone company</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-09-02 15:58</span>
@@ -143,24 +155,6 @@
                 <span class="time">2025-09-02 13:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68af3fa9a5136f70e8d33b6e/master/pass/Final-Fantasy-Tactics-Culture-FFT_TIC_Mediakit_01.jpg" alt="The ‘Final Fantasy Tactics’ Refresh Gives Its Class-War Story New Relevance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/final-fantasy-tactics-refresh/" target="_blank">The ‘Final Fantasy Tactics’ Refresh Gives Its Class-War Story New Relevance</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-02 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/brendan-carr-1-500x500-1756495922.jpg" alt="Delete, Delete, Delete: How FCC Republicans are killing rules faster than ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/delete-delete-delete-how-fcc-republicans-are-killing-rules-faster-than-ever/" target="_blank">Delete, Delete, Delete: How FCC Republicans are killing rules faster than ever</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-02 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -173,6 +167,24 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/09/02/back-to-school-developers-at-stack-overflow-have-some-advice-for-you/" target="_blank">Back to school? Developers at Stack Overflow have some advice for you</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-09-02 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pcmagas/dev-experience-doctrineschemaupdate-still-outputs-sql-despite-changes-applied-upon-db-3log" target="_blank">Dev Experience: `doctrine:schema:update` still outputs sql, despite changes applied upon db</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-02 16:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/ai-migration-large-scale/en/mediumimage/sergii-gorbachov-medium-1756279816860.jpeg" alt="Presentation: Slack&#x27;s AI-Powered, Hybrid Approach for Large-Scale Migration from Enzyme to React Testing Library" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/ai-migration-large-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Slack&#x27;s AI-Powered, Hybrid Approach for Large-Scale Migration from Enzyme to React Testing Library</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-02 16:03</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +212,6 @@
                 <span class="title"><a href="https://www.phoronix.com/review/llvm-clang-21-epyc-zen5" target="_blank">LLVM Clang 21 Compiler Helping Squeeze More Performance On 5th Gen AMD EPYC &quot;Turin&quot;</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-02 14:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18591042&w=600" alt="Autonomous QA Testing With Playwright, LangGraph, and GPT-4o on AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/autonomous-qa-testing-playwright-gpt4o" target="_blank">Autonomous QA Testing With Playwright, LangGraph, and GPT-4o on AWS</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-02 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/linkedin-edge-recommendations/en/headerimage/generatedHeaderImage-1756360053031.jpg" alt="LinkedIn Re-Architects Edge-Building System to Support Diverse Inference Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/linkedin-edge-recommendations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">LinkedIn Re-Architects Edge-Building System to Support Diverse Inference Workflows</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-02 14:00</span>
             </div>
         </div>
 </div>
@@ -249,6 +243,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/ast.jpg" alt="Astro Bot PS5 Controller Returns In October, Good Luck Pre-Ordering It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/astro-bot-ps5-controller-returns-in-october-good-luck-pre-ordering-it-2000622375" target="_blank">Astro Bot PS5 Controller Returns In October, Good Luck Pre-Ordering It</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-02 16:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/ditch.jpg?fit=1200%2C977&amp;quality=60&amp;ssl=1" alt="Man water skis down drainage ditch at breakneck speed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/02/man-water-skis-down-drainage-ditch-at-breakneck-speed.html" target="_blank">Man water skis down drainage ditch at breakneck speed</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-02 16:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K45G3BT55PPPC1CQ2G8GYQD6/hero-image.jpg" alt="Say Goodbye to Sharing Amazon Prime Free Shipping Benefits" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/amazon-is-ending-the-prime-invitee-program?utm_medium=RSS" target="_blank">Say Goodbye to Sharing Amazon Prime Free Shipping Benefits</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-02 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JV5KK4PTXAY5HR61DWXAMSMX/hero-image.png" alt="How (and Why) to Connect Your Apple Watch to Your Peloton" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -273,33 +294,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/how-to-type-faster-on-phone?utm_medium=RSS" target="_blank">Five Ways to Type Faster on Your Phone</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-02 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Death-Becomes-Her-Bruce-WIllis-Goldie-Hawn-Meryl-Streep.jpg" alt="Drew Barrymore Wants To Remake Cult Horror Comedy ‘Death Becomes Her’ With Adam Sandler, Jennifer Anniston" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/drew-barrymore-wants-to-remake-cult-horror-comedy-death-becomes-her-with-adam-sandler-jennifer-anniston-2000651819" target="_blank">Drew Barrymore Wants To Remake Cult Horror Comedy ‘Death Becomes Her’ With Adam Sandler, Jennifer Anniston</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-02 13:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/KpopDemonHunters_ProRes422HQ_SDR_2ch_20250424.00_06_07_19-1.jpg" alt="KPop Demon Hunters’ Soundtrack Is Primed To Become A New Scalping Craze" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/kpop-demon-hunters-soundtrack-album-cd-photocard-rumi-2000622335" target="_blank">KPop Demon Hunters’ Soundtrack Is Primed To Become A New Scalping Craze</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-02 13:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/roborock-q8-max.jpg" alt="Now Three Times Cheaper Than Its Original Price, This Roborock Is Going for the Price of a Budget Model" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/now-three-times-cheaper-than-its-original-price-this-roborock-is-going-for-the-price-of-a-budget-model-2000622070" target="_blank">Now Three Times Cheaper Than Its Original Price, This Roborock Is Going for the Price of a Budget Model</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-02 12:20</span>
             </div>
         </div>
 </div>
@@ -339,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
