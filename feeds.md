@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-02 10:02:07 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-02 11:01:31 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, September 02, 2025 - 10:02 UTC</div>
+    <div class="newspaper-date">Tuesday, September 02, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +47,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/2/transfer-deadline-day-top-five-talking-points-isak-guehi-donnarumma?traffic_source=rss" target="_blank">Transfer deadline day recap: Isak to Liverpool and Donnarumma City-bound</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-02 10:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/2/what-if-the-us-stopped-supporting-israel-tomorrow?traffic_source=rss" target="_blank">What if… the US stopped supporting Israel tomorrow?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-02 09:40</span>
@@ -65,6 +68,15 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/congress-returns-recess-government-shutdown-deadline-looms-epstein/story?id=125159018" target="_blank">Congress returns from recess as government shutdown deadline looms</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-02 09:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/02/nx-s1-5522234/china-80th-anniversary-wwii-battle-legacy" target="_blank">As China commemorates 80th anniversary of WWII, battle over legacy of war continues</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-02 09:03</span>
             </div>
         </div>
 <div class="story">
@@ -85,29 +97,20 @@
                 <span class="time">2025-09-02 07:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/2/why-pakistan-is-rushing-to-mend-fences-with-bangladesh?traffic_source=rss" target="_blank">Why Pakistan is rushing to mend fences with Bangladesh</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-02 05:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ace5/live/04153160-8795-11f0-84c8-99de564f0440.jpg" alt="Chris Mason: Starmer faces pressure to deliver as he tries to strike contrast with Reform" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8jpj8knvn8o?at_medium=RSS&at_campaign=rss" target="_blank">Chris Mason: Starmer faces pressure to deliver as he tries to strike contrast with Reform</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-02 05:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6892740bb6596472bf1757dd/master/pass/AI-Gurus-Culture.jpg" alt="Spiritual Influencers Say ‘Sentient’ AI Can Help You Solve Life’s Mysteries" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/spiritual-influencers-say-sentient-ai-can-help-you-solve-lifes-mysteries/" target="_blank">Spiritual Influencers Say ‘Sentient’ AI Can Help You Solve Life’s Mysteries</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-02 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +156,20 @@
                 <span class="time">2025-09-01 20:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/01/space-investing-goes-mainstream-as-vcs-ditch-the-rocket-science-requirements/" target="_blank">Space investing goes mainstream as VCs ditch the rocket science requirements</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-01 20:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/articles/causal-reasoning-observability/en/headerimage/causal-reasoning-observability-header-1756372623637.jpg" alt="Article: How Causal Reasoning Addresses the Limitations of LLMs in Observability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/causal-reasoning-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: How Causal Reasoning Addresses the Limitations of LLMs in Observability</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-02 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +212,6 @@
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://ubuntu.com//blog/openstack-poc" target="_blank">OpenStack PoC? No problem!</a></span>
                 <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-09-02 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/secops-ai/en/headerimage/generatedHeaderImage-1756675638189.jpg" alt="Agentic AI Expands Into SecOps to Ease Human Workloads" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/secops-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Agentic AI Expands Into SecOps to Ease Human Workloads</a></span>
-                <span class="feed">InfoQ</span>
                 <span class="time">2025-09-02 07:00</span>
             </div>
         </div>
@@ -331,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
