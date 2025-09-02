@@ -1,27 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-09-02 00:04:51 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-09-02 01:29:07 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 19 feeds processed -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, September 02, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, September 02, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/1/israeli-forces-kill-pregnant-woman-and-unborn-baby-in-gaza-city-assault?traffic_source=rss" target="_blank">Israeli forces kill pregnant woman and her unborn baby in Gaza City assault</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-01 22:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ef/live/97e7b4f0-877a-11f0-84c8-99de564f0440.jpg" alt="Afghans spend night in open after earthquake kills more than 800" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3ezgy1zlvwo?at_medium=RSS&at_campaign=rss" target="_blank">Afghans spend night in open after earthquake kills more than 800</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-01 22:16</span>
             </div>
         </div>
 <div class="story">
@@ -80,15 +91,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/01/g-s1-86586/modi-and-putin-affirm-special-relationship-as-india-faces-steep-us-tariffs-over-russian-oil-imports" target="_blank">Modi and Putin affirm special relationship as India faces steep US tariffs over Russian oil imports</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-01 19:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/01/g-s1-86565/in-new-orleans-memories-of-katrina-remain-vivid-20-years-later" target="_blank">In New Orleans, memories of Katrina remain vivid 20 years later</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-01 19:49</span>
             </div>
         </div>
 </div>
@@ -288,6 +290,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5648.png" alt="Promises, Promises" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5648" target="_blank">Promises, Promises</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-09-02 01:09</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -314,22 +325,13 @@
                 <span class="time">2025-09-01 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5647.png" alt="Motives" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5647" target="_blank">Motives</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-09-01 00:59</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
