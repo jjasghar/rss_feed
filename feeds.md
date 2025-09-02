@@ -1,37 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-09-02 14:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-02 15:01:50 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, September 02, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, September 02, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +51,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/02/nx-s1-5525647/a-california-judge-rules-that-trumps-deployment-of-the-guard-to-la-was-illegal" target="_blank">A California judge rules that Trump&#x27;s deployment of the guard to LA was illegal</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-02 14:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/9/2/i-survived-the-gaza-genocide-only-to-witness-firsthand-western-complicity?traffic_source=rss" target="_blank">I survived the Gaza genocide only to witness firsthand Western complicity</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-02 14:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/cali-national-guard-gty-jef-250902_1756820705361_hpMain_4x3t_384.jpg" alt="Use of federal troops in Los Angeles is unlawful, judge says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/federal-troops-los-angeles-unlawful-judge/story?id=125179111" target="_blank">Use of federal troops in Los Angeles is unlawful, judge says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-02 14:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,38 +105,29 @@
                 <span class="time">2025-09-02 12:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc3a/live/33daea80-87e9-11f0-b36e-47414de99d82.jpg" alt="Zack Polanski elected leader of the Green Party" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd0d0d08jnjo?at_medium=RSS&at_campaign=rss" target="_blank">Zack Polanski elected leader of the Green Party</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-02 11:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1756812098575_tdy_news_7a_nobles_congress_250902_1920x1080-owhooa.jpg" alt="Congress Back in Washington With 4 Major Issues on the Table" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/congress-back-in-session-as-potential-shutdown-looms-246402117655" target="_blank">Congress Back in Washington With 4 Major Issues on the Table</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-02 11:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/2/transfer-deadline-day-top-five-talking-points-isak-guehi-donnarumma?traffic_source=rss" target="_blank">Transfer deadline day recap: Isak to Liverpool and Donnarumma City-bound</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-02 10:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025" target="_blank">The 71 best Labor Day deals you can still get</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-02 14:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68b5e45ebe1f3bac902742c6/master/pass/Do%20You%20Need%20a%20Satellite%20Messenger.png" alt="Do You Need a Satellite Messenger?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/do-you-need-a-satellite-messenger/" target="_blank">Do You Need a Satellite Messenger?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-02 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +164,47 @@
                 <span class="time">2025-09-02 10:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/01/bmw-i-am-so-breaking-up-with-you/" target="_blank">BMW, I am so breaking up with you</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-02 06:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/01/indian-grocery-startup-citymall-raises-47m-to-challenge-ultra-fast-delivery-giants/" target="_blank">Indian grocery startup Citymall raises $47M to challenge ultra-fast delivery giants</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-02 04:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ben/this-is-a-test-596k" target="_blank">This is a test!!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-02 14:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/llvm-clang-21-epyc-zen5" target="_blank">LLVM Clang 21 Compiler Helping Squeeze More Performance On 5th Gen AMD EPYC &quot;Turin&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-02 14:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18591042&w=600" alt="Autonomous QA Testing With Playwright, LangGraph, and GPT-4o on AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/autonomous-qa-testing-playwright-gpt4o" target="_blank">Autonomous QA Testing With Playwright, LangGraph, and GPT-4o on AWS</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-02 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/09/linkedin-edge-recommendations/en/headerimage/generatedHeaderImage-1756360053031.jpg" alt="LinkedIn Re-Architects Edge-Building System to Support Diverse Inference Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/linkedin-edge-recommendations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">LinkedIn Re-Architects Edge-Building System to Support Diverse Inference Workflows</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-02 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -181,42 +221,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Arch-Linux-Archinstall-3.0.10" target="_blank">Arch Linux&#x27;s Archinstall No Longer Treating LVM-Based Installs As &quot;Beta&quot;</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-02 13:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.rubynewbie.org/10-ways-to-participate-in-the-ruby-community" target="_blank">How to Participate in the Ruby Community</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-02 13:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0sdwa5pytpqwum6kw523.png" alt="When Your AI Agent Needs a Scalpel, Not a Sledgehammer: Claude Code SDK vs AWS Strands for Surgical Code Fixes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dinindu_suriyamudali_e604/when-your-ai-agent-needs-a-scalpel-not-a-sledgehammer-claude-code-sdk-vs-aws-strands-for-surgical-468l" target="_blank">When Your AI Agent Needs a Scalpel, Not a Sledgehammer: Claude Code SDK vs AWS Strands for Surgical Code Fixes</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-02 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Dream-Prompter-GIMP-Plugin" target="_blank">New GIMP Plug-In Integrates Google Gemini AI Image Creation</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-02 10:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/causal-reasoning-observability/en/headerimage/causal-reasoning-observability-header-1756372623637.jpg" alt="Article: How Causal Reasoning Addresses the Limitations of LLMs in Observability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/causal-reasoning-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: How Causal Reasoning Addresses the Limitations of LLMs in Observability</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-02 09:00</span>
             </div>
         </div>
 </div>
@@ -247,6 +251,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/main.jpg" alt="The Very Finest Cosplay From Anime Expo 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/anime-expo-2025-cosplay-kpop-demon-hunter-2000622305" target="_blank">The Very Finest Cosplay From Anime Expo 2025</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-02 14:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4547JCZV877S344H0B3Q4DQ/hero-image.jpg" alt="Five Ways to Type Faster on Your Phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-to-type-faster-on-phone?utm_medium=RSS" target="_blank">Five Ways to Type Faster on Your Phone</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-02 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Death-Becomes-Her-Bruce-WIllis-Goldie-Hawn-Meryl-Streep.jpg" alt="Drew Barrymore Wants To Remake Cult Horror Comedy ‘Death Becomes Her’ With Adam Sandler, Jennifer Anniston" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,24 +303,6 @@
                 <span class="title"><a href="https://gizmodo.com/roborocks-anniversary-blowout-sale-includes-1000-off-the-incredible-saros-z70-robot-vacuum-2000648696" target="_blank">Roborock’s Anniversary Blowout Sale Includes $1,000 Off the Incredible Saros Z70 Robot Vacuum</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-02 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Horror-Babies-Spirit-Halloween.jpg" alt="Behold: Horror Icons Are Getting the Baby Yoda Treatment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/behold-horror-icons-are-getting-the-baby-yoda-treatment-2000650900" target="_blank">Behold: Horror Icons Are Getting the Baby Yoda Treatment</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-01 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/cloud.jpg" alt="The Beginning Of Final Fantasy VII: Remake Wowed Me All Over Again On Switch 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ff7-switch-2-remake-framerate-final-fantasy-2000622094" target="_blank">The Beginning Of Final Fantasy VII: Remake Wowed Me All Over Again On Switch 2</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-01 19:55</span>
             </div>
         </div>
 </div>
@@ -339,7 +343,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 14:01 UTC
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
