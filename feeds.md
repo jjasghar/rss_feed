@@ -1,40 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-02 05:01:50 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-02 06:02:05 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, September 02, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, September 02, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,9 +52,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/2/why-pakistan-is-rushing-to-mend-fences-with-bangladesh?traffic_source=rss" target="_blank">Why Pakistan is rushing to mend fences with Bangladesh</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-02 05:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/2/uk-had-hottest-summer-since-records-began-met-office-says?traffic_source=rss" target="_blank">UK had hottest summer since records began, Met Office says</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-02 04:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/02/nx-s1-5431545/starter-homes-utah-housing-cost-affordable-target" target="_blank">Starter homes are scarce, so Utah set a target to build more. Here&#x27;s how it&#x27;s going</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-02 04:01</span>
             </div>
         </div>
 <div class="story">
@@ -84,24 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/2/north-koreas-kim-jong-un-crossed-into-china-via-train-state-media-say?traffic_source=rss" target="_blank">North Korea’s Kim Jong Un crossed into China via train, state media say</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-02 01:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-palestinians-palestine_7008851.jpg?20250902035057" alt="Belgium announces it will recognise Palestinian state" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/belgium-announces-it-will-recognise-palestinian-state-13423469" target="_blank">Belgium announces it will recognise Palestinian state</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-02 01:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/1/israeli-forces-kill-pregnant-woman-and-unborn-baby-in-gaza-city-assault?traffic_source=rss" target="_blank">Israeli forces kill pregnant woman and her unborn baby in Gaza City assault</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-01 22:31</span>
             </div>
         </div>
 </div>
@@ -341,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 103 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
