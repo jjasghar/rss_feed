@@ -1,33 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-09-02 11:01:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-02 12:02:31 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, September 02, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, September 02, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc3a/live/33daea80-87e9-11f0-b36e-47414de99d82.jpg" alt="Zack Polanski elected leader of the Green Party" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd0d0d08jnjo?at_medium=RSS&at_campaign=rss" target="_blank">Zack Polanski elected leader of the Green Party</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-02 11:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1756812098575_tdy_news_7a_nobles_congress_250902_1920x1080-owhooa.jpg" alt="Congress Back in Washington With 4 Major Issues on the Table" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/congress-back-in-session-as-potential-shutdown-looms-246402117655" target="_blank">Congress Back in Washington With 4 Major Issues on the Table</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-02 11:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +93,20 @@
                 <span class="time">2025-09-02 09:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250826-us-capitol-building-ew-1124p-0c53e6.jpg" alt="A shutdown fight and Epstein drama await as Congress returns to Washington" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/congress/congress-back-shutdown-deadline-epstein-files-trump-nominees-cdc-rcna225906" target="_blank">A shutdown fight and Epstein drama await as Congress returns to Washington</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-02 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/afghan-main_1756798794153_hpMain_4x3t_384.jpg" alt="Death toll climbs to over 1,100 after Afghanistan earthquake, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/afghanistan-earthquake-death-toll-rises/story?id=125172025" target="_blank">Death toll climbs to over 1,100 after Afghanistan earthquake, officials say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-02 07:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/brendan-carr-1-500x500-1756495922.jpg" alt="Delete, Delete, Delete: How FCC Republicans are killing rules faster than ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/delete-delete-delete-how-fcc-republicans-are-killing-rules-faster-than-ever/" target="_blank">Delete, Delete, Delete: How FCC Republicans are killing rules faster than ever</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-02 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6892740bb6596472bf1757dd/master/pass/AI-Gurus-Culture.jpg" alt="Spiritual Influencers Say ‘Sentient’ AI Can Help You Solve Life’s Mysteries" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +152,20 @@
                 <span class="time">2025-09-01 23:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/767635/best-labor-day-tv-deal-sale" target="_blank">The best Labor Day TV sales</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-01 20:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Dream-Prompter-GIMP-Plugin" target="_blank">New GIMP Plug-In Integrates Google Gemini AI Image Creation</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-02 10:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/articles/causal-reasoning-observability/en/headerimage/causal-reasoning-observability-header-1756372623637.jpg" alt="Article: How Causal Reasoning Addresses the Limitations of LLMs in Observability" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,20 +211,20 @@
                 <span class="time">2025-09-02 07:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/openstack-poc" target="_blank">OpenStack PoC? No problem!</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-09-02 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/1965-cryptanalysis-training-workbook-released-by-the-nsa.html" target="_blank">1965 Cryptanalysis Training Workbook Released by the NSA</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-09-02 11:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -325,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
