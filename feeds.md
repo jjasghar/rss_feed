@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-02 06:02:05 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-09-02 07:01:44 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, September 02, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, September 02, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +53,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/2/why-pakistan-is-rushing-to-mend-fences-with-bangladesh?traffic_source=rss" target="_blank">Why Pakistan is rushing to mend fences with Bangladesh</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-02 05:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ace5/live/04153160-8795-11f0-84c8-99de564f0440.jpg" alt="Chris Mason: Starmer faces pressure to deliver as he tries to strike contrast with Reform" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8jpj8knvn8o?at_medium=RSS&at_campaign=rss" target="_blank">Chris Mason: Starmer faces pressure to deliver as he tries to strike contrast with Reform</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-02 05:23</span>
             </div>
         </div>
 <div class="story">
@@ -91,15 +98,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cn848g3ll09o?at_medium=RSS&at_campaign=rss" target="_blank">Justice secretary to get power to veto sentencing guidance</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-02 02:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/2/north-koreas-kim-jong-un-crossed-into-china-via-train-state-media-say?traffic_source=rss" target="_blank">North Korea’s Kim Jong Un crossed into China via train, state media say</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-02 01:59</span>
             </div>
         </div>
 </div>
@@ -176,6 +174,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/09/secops-ai/en/headerimage/generatedHeaderImage-1756675638189.jpg" alt="Agentic AI Expands Into SecOps to Ease Human Workloads" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/secops-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Agentic AI Expands Into SecOps to Ease Human Workloads</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-02 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/19ece129_saikatmondal_/excited-to-join-the-devto-community-1c1e" target="_blank">Excited to Join the dev.to Community!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-02 06:51</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -200,24 +216,6 @@
                 <span class="title"><a href="https://github.com/woheller69/FreeDroidWarn" target="_blank">FreeDroidWarn</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-09-02 03:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yash_sonawane25/docker-series-episode-11-hosting-dockerized-apps-cloud-deployment-for-beginners-2b20" target="_blank">🛳️ Docker Series: Episode 11 — Hosting Dockerized Apps: Cloud Deployment for Beginners</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-02 03:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ip2location/displaying-users-local-time-with-dst-adjustment-via-ip2locationio-12cd" target="_blank">Displaying User’s Local Time with DST Adjustment via IP2Location.io</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-02 02:17</span>
             </div>
         </div>
 </div>
@@ -325,22 +323,13 @@
                 <span class="time">2025-09-01 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/09/01/clientele" target="_blank">Clientele</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-09-01 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
