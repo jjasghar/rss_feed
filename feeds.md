@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-02 18:02:08 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-02 19:01:28 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 29 feeds processed -->
+<!-- Generated 13 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, September 02, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, September 02, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/02/g-s1-86626/congress-return-shutdown-epstein" target="_blank">Tick tock: Congress has 14 legislative days to stop a government shutdown.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-02 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/the-take-2/2025/9/2/aje-onl-ban_rohingyaconf_av_v2-020925?traffic_source=rss" target="_blank">Why is Bangladesh saying it can no longer host Rohingya?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-02 18:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe58/live/24722d60-8802-11f0-9cf6-cbf3e73ce2b9.jpg" alt="North Korea&#x27;s Kim arrives in Beijing with daughter to attend massive military parade" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c78z2p6gg1zo?at_medium=RSS&at_campaign=rss" target="_blank">North Korea&#x27;s Kim arrives in Beijing with daughter to attend massive military parade</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-02 18:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3200/live/cd0fcf90-87f8-11f0-9b0f-2d7c964b5418.jpg" alt="UK borrowing costs hit 27-year high adding to pressure on Reeves" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy989njnq2wo?at_medium=RSS&at_campaign=rss" target="_blank">UK borrowing costs hit 27-year high adding to pressure on Reeves</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-02 16:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ac2/live/4fb58e20-8813-11f0-84c8-99de564f0440.jpg" alt="Strong aftershock hits Afghanistan after quake kills more than 1,400" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -65,47 +100,38 @@
                 <span class="time">2025-09-02 16:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/9/2/nestle-ceo-fired-over-undisclosed-affair?traffic_source=rss" target="_blank">Nestle CEO fired over undisclosed affair</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-02 15:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddc0/live/5592b800-8808-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Ex-actor Zack Polanski&#x27;s unusual path to become Green Party&#x27;s new leader" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clyrev00lwno?at_medium=RSS&at_campaign=rss" target="_blank">Ex-actor Zack Polanski&#x27;s unusual path to become Green Party&#x27;s new leader</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-02 14:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/02/nx-s1-5525647/a-california-judge-rules-that-trumps-deployment-of-the-guard-to-la-was-illegal" target="_blank">A California judge rules that Trump&#x27;s deployment of the guard to LA was illegal</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-02 14:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/9/2/i-survived-the-gaza-genocide-only-to-witness-firsthand-western-complicity?traffic_source=rss" target="_blank">I survived the Gaza genocide only to witness firsthand Western complicity</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-02 14:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/laseractive2-500x500.jpg" alt="Over 30 years later, a rare LaserDisc game console gets its first PC emulator" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2025/09/over-30-years-later-a-rare-laserdisc-game-console-gets-its-first-pc-emulator/" target="_blank">Over 30 years later, a rare LaserDisc game console gets its first PC emulator</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-02 18:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/02/astro-teller-is-joining-us-at-techcrunch-disrupt-2025-in-october/" target="_blank">Astro Teller, “Captain of Moonshots,” joins TechCrunch Disrupt 2025 this October</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-02 18:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68b72b7afaef204de0fe1242/master/pass/Sony's%20Previous%20Flagship%20Headphones%20Are%20$100%20Off%20and%20Still%20Amazing.png" alt="Sony WH-1000XM5 Deal: $100 Off Sony’s Last-Gen Flagships" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/sony-wh-1000xm5-deal/" target="_blank">Sony WH-1000XM5 Deal: $100 Off Sony’s Last-Gen Flagships</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-02 17:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68b72b7afaef204de0fe1242/master/pass/Sony's%20Previous%20Flagship%20Headphones%20Are%20$100%20Off%20and%20Still%20Amazing.png" alt="Sony WH-1000XM5 Deal: $100 Off Sony&#x27;s Last-Gen Flagships" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -133,38 +159,29 @@
                 <span class="time">2025-09-02 17:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/02/teslas-dojo-a-timeline/" target="_blank">Tesla’s Dojo, a timeline</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-02 16:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/framework_desktop_noctua_3D_print_intake_fan_grill_installation-500x500.jpg" alt="Noctua’s 3D-printed mod singlehandedly makes the Framework Desktop run quieter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/noctuas-3d-printed-mod-singlehandedly-makes-the-framework-desktop-run-quieter/" target="_blank">Noctua’s 3D-printed mod singlehandedly makes the Framework Desktop run quieter</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-02 16:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/02/mrbeast-reportedly-plans-to-launch-a-phone-company/" target="_blank">MrBeast reportedly plans to launch a phone company</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-02 15:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2491%2F2e334b3d-5af0-43e5-95c0-e3ededf148f7.png" alt="Top 7 Featured DEV Posts of the Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4hd4" target="_blank">Top 7 Featured DEV Posts of the Week</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-02 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-sbtsi-temp-Linux-Freezing" target="_blank">AMD &quot;sbtsi_temp&quot; Driver Being Updated For Linux 6.18 To Handle Freezing CPU Temperatures</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-02 18:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -175,48 +192,30 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://tonybaloney.github.io/posts/why-isnt-python-async-more-popular.html" target="_blank">Python has had async for 10 years -- why isn&#x27;t it more popular?</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-09-02 17:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas" target="_blank">Introduction to Ada: a project-based exploration with rosettas</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-02 17:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/gimp-3.2-1.jpg?resize=406%2C232&amp;ssl=1" alt="GIMP 3.1.4 Adds Non-Destructive Link Layers and Vector Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/gimp-adds-link-layers-photoshop-smart-objects" target="_blank">GIMP 3.1.4 Adds Non-Destructive Link Layers and Vector Support</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-09-02 17:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/join-canonical-at-the-first-ever-african-openinfra-days" target="_blank">Join Canonical at the first-ever African OpenInfra Days</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-09-02 17:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/09/02/back-to-school-developers-at-stack-overflow-have-some-advice-for-you/" target="_blank">Back to school? Developers at Stack Overflow have some advice for you</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-09-02 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pcmagas/dev-experience-doctrineschemaupdate-still-outputs-sql-despite-changes-applied-upon-db-3log" target="_blank">Dev Experience: `doctrine:schema:update` still outputs sql, despite changes applied upon db</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-02 16:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/" target="_blank">Spec-driven development with AI: Get started with a new open source toolkit</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-09-02 16:48</span>
             </div>
         </div>
 </div>
@@ -338,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
