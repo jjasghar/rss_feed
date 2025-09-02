@@ -1,29 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-02 12:02:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-02 13:10:08 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 20 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, September 02, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, September 02, 2025 - 13:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/02/nx-s1-5521384/energy-report-scientists-climate-change" target="_blank">Dozens of scientists find errors in a new Energy Department climate report</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-02 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc3a/live/33daea80-87e9-11f0-b36e-47414de99d82.jpg" alt="Zack Polanski elected leader of the Green Party" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,20 +102,20 @@
                 <span class="time">2025-09-02 09:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/02/nx-s1-5522234/china-80th-anniversary-wwii-battle-legacy" target="_blank">As China commemorates 80th anniversary of WWII, battle over legacy of war continues</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-02 09:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/768614/thermomix-tm7-us-release-price-specs-launch-date" target="_blank">My favorite cooking gadget is getting a big upgrade</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-02 13:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/brendan-carr-1-500x500-1756495922.jpg" alt="Delete, Delete, Delete: How FCC Republicans are killing rules faster than ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,20 +161,20 @@
                 <span class="time">2025-09-02 00:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/01/layerx-uses-ai-to-cut-enterprise-back-office-workload-scores-100m-in-series-b/" target="_blank">LayerX uses AI to cut enterprise back-office workload, scores $100M in Series B</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-01 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0sdwa5pytpqwum6kw523.png" alt="When Your AI Agent Needs a Scalpel, Not a Sledgehammer: Claude Code SDK vs AWS Strands for Surgical Code Fixes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dinindu_suriyamudali_e604/when-your-ai-agent-needs-a-scalpel-not-a-sledgehammer-claude-code-sdk-vs-aws-strands-for-surgical-468l" target="_blank">When Your AI Agent Needs a Scalpel, Not a Sledgehammer: Claude Code SDK vs AWS Strands for Surgical Code Fixes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-02 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -202,15 +220,6 @@
                 <span class="time">2025-09-02 07:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/09/02/building-ai-for-consumer-applications-isn-t-all-fun-and-games/" target="_blank">Building AI for consumer applications isn’t all fun and games</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-09-02 07:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +248,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/roborock-q8-max.jpg" alt="Now Three Times Cheaper Than Its Original Price, This Roborock Is Going for the Price of a Budget Model" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/now-three-times-cheaper-than-its-original-price-this-roborock-is-going-for-the-price-of-a-budget-model-2000622070" target="_blank">Now Three Times Cheaper Than Its Original Price, This Roborock Is Going for the Price of a Budget Model</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-02 12:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Roborock-Saros-Z70.jpg" alt="Roborock’s Anniversary Blowout Sale Includes $1,000 Off the Incredible Saros Z70 Robot Vacuum" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +302,6 @@
                 <span class="time">2025-09-01 16:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/SamsungSSDEVO.jpg" alt="Samsung 990 EVO Plus SSD Practically Costs Nothing, the 2TB Model Works Out Cheaper Than Buying Two 1TBs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/samsung-990-evo-plus-ssd-practically-costs-nothing-the-2tb-model-works-out-cheaper-than-buying-two-1tbs-2000621430" target="_blank">Samsung 990 EVO Plus SSD Practically Costs Nothing, the 2TB Model Works Out Cheaper Than Buying Two 1TBs</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-01 15:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 13:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
