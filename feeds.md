@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-02 17:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-02 18:02:08 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, September 02, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, September 02, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ac2/live/4fb58e20-8813-11f0-84c8-99de564f0440.jpg" alt="Strong aftershock hits Afghanistan after quake kills more than 1,400" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cpqvqeg3nz5o?at_medium=RSS&at_campaign=rss" target="_blank">Strong aftershock hits Afghanistan after quake kills more than 1,400</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-02 16:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/donald-trump-03-gty-jef-250902_1756815850870_hpMain_4x3t_384.jpg" alt="Trump vows to take on crime in Chicago &#x27;fast&#x27; after violent Labor Day weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-vows-crime-chicago-fast-after-violent-labor/story?id=125181053" target="_blank">Trump vows to take on crime in Chicago &#x27;fast&#x27; after violent Labor Day weekend</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-02 16:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +101,38 @@
                 <span class="time">2025-09-02 14:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/cali-national-guard-gty-jef-250902_1756820705361_hpMain_4x3t_384.jpg" alt="Use of federal troops in Los Angeles is unlawful, judge says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/federal-troops-los-angeles-unlawful-judge/story?id=125179111" target="_blank">Use of federal troops in Los Angeles is unlawful, judge says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-02 14:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/2/ireland-intervenes-after-gaza-activist-national-beaten-by-german-police?traffic_source=rss" target="_blank">Ireland intervenes after Gaza activist national beaten by German police</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-02 13:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68b72b7afaef204de0fe1242/master/pass/Sony's%20Previous%20Flagship%20Headphones%20Are%20$100%20Off%20and%20Still%20Amazing.png" alt="Sony WH-1000XM5 Deal: $100 Off Sony&#x27;s Last-Gen Flagships" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/sony-wh-1000xm5-deal/" target="_blank">Sony WH-1000XM5 Deal: $100 Off Sony&#x27;s Last-Gen Flagships</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-02 17:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/zombie1-500x500.jpg" alt="The Avengers face an undead Thanos in Marvel Zombies trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/09/the-avengers-face-an-undead-thanos-in-marvel-zombies-trailer/" target="_blank">The Avengers face an undead Thanos in Marvel Zombies trailer</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-02 17:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/02/teslas-fourth-master-plan-reads-like-llm-generated-nonsense/" target="_blank">Tesla’s fourth ‘Master Plan’ reads like LLM-generated nonsense</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-02 17:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -128,38 +160,38 @@
                 <span class="time">2025-09-02 15:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/756227/best-labor-day-sales-deals-2025" target="_blank">The 71 best Labor Day deals you can still get</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-02 14:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68b5e45ebe1f3bac902742c6/master/pass/Do%20You%20Need%20a%20Satellite%20Messenger.png" alt="Do You Need a Satellite Messenger?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/do-you-need-a-satellite-messenger/" target="_blank">Do You Need a Satellite Messenger?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-02 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/768614/thermomix-tm7-us-release-price-specs-launch-date" target="_blank">My favorite cooking gadget is getting a big upgrade</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-02 13:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/redgamer4133/my-new-game-i-just-made-for-school-so-i-can-ply-and-have-some-fun-and-you-can-play-at-home-2nmd" target="_blank">MY new game i just made for school so i and you can play and have some fun and you can play at home</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-02 17:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/gimp-3.2-1.jpg?resize=406%2C232&amp;ssl=1" alt="GIMP 3.1.4 Adds Non-Destructive Link Layers and Vector Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/gimp-adds-link-layers-photoshop-smart-objects" target="_blank">GIMP 3.1.4 Adds Non-Destructive Link Layers and Vector Support</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-02 17:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/join-canonical-at-the-first-ever-african-openinfra-days" target="_blank">Join Canonical at the first-ever African OpenInfra Days</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-09-02 17:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -179,39 +211,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/presentations/ai-migration-large-scale/en/mediumimage/sergii-gorbachov-medium-1756279816860.jpeg" alt="Presentation: Slack&#x27;s AI-Powered, Hybrid Approach for Large-Scale Migration from Enzyme to React Testing Library" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/ai-migration-large-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Slack&#x27;s AI-Powered, Hybrid Approach for Large-Scale Migration from Enzyme to React Testing Library</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-02 16:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18590138&w=600" alt="Building a Card Layout Using CSS Subgrid" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-a-card-layout-using-css-subgrid" target="_blank">Building a Card Layout Using CSS Subgrid</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-02 15:00</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ben/this-is-a-test-596k" target="_blank">This is a test!!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-02 14:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/llvm-clang-21-epyc-zen5" target="_blank">LLVM Clang 21 Compiler Helping Squeeze More Performance On 5th Gen AMD EPYC &quot;Turin&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-02 14:42</span>
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/" target="_blank">Spec-driven development with AI: Get started with a new open source toolkit</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-09-02 16:48</span>
             </div>
         </div>
 </div>
@@ -242,6 +247,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K45J3BAHKWD7DXTQE7Y4AHY0/hero-image.png" alt="If You&#x27;ve Ever Shared a Spotify Link Publicly, You Need to Disable Spotify DMs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/if-you-ever-shared-spotify-link-publicly-disable-spotify-dms?utm_medium=RSS" target="_blank">If You&#x27;ve Ever Shared a Spotify Link Publicly, You Need to Disable Spotify DMs</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-02 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/KpopDemonHunters_ProRes422HQ_SDR_2ch_20250424.00_31_19_12-1.jpg" alt="The Cultural Takeover Of KPop Demon Hunters, Two Months Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/kpop-demon-hunters-streaming-box-office-numbers-netflix-2000622381" target="_blank">The Cultural Takeover Of KPop Demon Hunters, Two Months Later</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-02 17:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/ast.jpg" alt="Astro Bot PS5 Controller Returns In October, Good Luck Pre-Ordering It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +299,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/connect-apple-watch-to-peloton-bike?utm_medium=RSS" target="_blank">How (and Why) to Connect Your Apple Watch to Your Peloton</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-02 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/main.jpg" alt="The Very Finest Cosplay From Anime Expo 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/anime-expo-2025-cosplay-kpop-demon-hunter-2000622305" target="_blank">The Very Finest Cosplay From Anime Expo 2025</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-02 14:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4547JCZV877S344H0B3Q4DQ/hero-image.jpg" alt="Five Ways to Type Faster on Your Phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-type-faster-on-phone?utm_medium=RSS" target="_blank">Five Ways to Type Faster on Your Phone</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-02 14:30</span>
             </div>
         </div>
 </div>
@@ -333,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
