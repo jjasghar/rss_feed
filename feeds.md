@@ -1,34 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-09-01 23:01:56 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-02 00:04:51 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, September 01, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, September 02, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -63,6 +56,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/trump-blog-main_1756718429529_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Rudy Giuliani to receive Presidential Medal of Freedom" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=125150863" target="_blank">Trump admin live updates: Rudy Giuliani to receive Presidential Medal of Freedom</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-01 20:57</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -87,15 +89,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/01/g-s1-86565/in-new-orleans-memories-of-katrina-remain-vivid-20-years-later" target="_blank">In New Orleans, memories of Katrina remain vivid 20 years later</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-01 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/1/astronaut-captures-rare-red-aurora-from-international-space-station?traffic_source=rss" target="_blank">Astronaut captures rare red aurora from International Space Station</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-01 19:41</span>
             </div>
         </div>
 </div>
@@ -335,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 101 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
