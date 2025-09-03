@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-03 17:01:39 UTC -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-09-03 18:02:18 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 13 new posts out of 23 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, September 03, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, September 03, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8699/live/79ceb060-88cc-11f0-9cf6-cbf3e73ce2b9.png" alt="Rayner admits underpaying tax on Hove flat as PM backs her" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy50446rq73o?at_medium=RSS&at_campaign=rss" target="_blank">Rayner admits underpaying tax on Hove flat as PM backs her</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-03 17:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c5d/live/6d65e670-88dd-11f0-84c8-99de564f0440.jpg" alt="Putin says Russia will achieve all aims militarily if Ukraine does not agree deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4g7dze5n1vo?at_medium=RSS&at_campaign=rss" target="_blank">Putin says Russia will achieve all aims militarily if Ukraine does not agree deal</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-03 17:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/epstein-4-gty-gmh-250903_1756918266219_hpMain_4x3t_384.jpg" alt="&#x27;This is not a hoax&#x27;: Epstein survivors speak out demanding files be released" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,29 +97,20 @@
                 <span class="time">2025-09-03 15:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/3/how-did-us-strike-on-venezuelan-boat-come-about-what-it-means?traffic_source=rss" target="_blank">How did US strike on Venezuelan boat come about? What it means</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-03 14:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Epstein survivors hold press conference: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Epstein survivors hold press conference: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-03 14:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/03/google-brings-material-3-expressive-to-pixel-6-and-newer-devices-along-with-other-features/" target="_blank">Google brings Material 3 Expressive to Pixel 6 and newer devices, along with other features</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-03 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68b7b991d0cfb5addafddf66/master/pass/Following%20Tab%2016_9.png" alt="The Instagram iPad App Is Finally Here" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,20 +156,20 @@
                 <span class="time">2025-09-03 14:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/03/techcrunch-disrupt-2025-adds-new-leading-voices-to-the-builders-stage-agenda/" target="_blank">TechCrunch Disrupt 2025 finalizes the Builders Stage agenda with top scaling voices</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-03 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/warp.jpg?resize=406%2C232&amp;ssl=1" alt="Warp (AI Coding Tool) Adds New ‘Prompt to Production’ Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/warp-code-tool-adds-features-for-prompt-to-production-workflow" target="_blank">Warp (AI Coding Tool) Adds New ‘Prompt to Production’ Features</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-03 16:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +215,6 @@
                 <span class="time">2025-09-03 15:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18593932&w=600" alt="Understanding Apache Spark Join Types" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/spark-join-types-explained" target="_blank">Understanding Apache Spark Join Types</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-03 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +235,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/anthropic.jpg" alt="Anthropic Rakes in $183B Valuation as It Takes on Musk, Altman" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/anthropic-ai-funding-xai-openai-2000652782" target="_blank">Anthropic Rakes in $183B Valuation as It Takes on Musk, Altman</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-03 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/Superman-Lex.jpg" alt="Next Superman Movie Coming 2027 As DC Movie Machine Keeps Ramping Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/superman-tomorrow-lex-luthor-date-james-gunn-supergirl-batman-2000622739" target="_blank">Next Superman Movie Coming 2027 As DC Movie Machine Keeps Ramping Up</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-03 17:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/rfk-jr.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="California, Oregon and Washington form Health Alliance to preserve evidence-based medicine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/03/west-coast-health-alliance.html" target="_blank">California, Oregon and Washington form Health Alliance to preserve evidence-based medicine</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-03 17:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K482SEP77PG4SXDKQVFXVCGR/hero-image.jpg" alt="Google&#x27;s Latest Android Update Fixes 84 Vulnerabilities" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/googles-latest-android-update-fixes-84-vulnerabilities?utm_medium=RSS" target="_blank">Google&#x27;s Latest Android Update Fixes 84 Vulnerabilities</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-03 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/fft.jpg" alt="6 Things We Just Learned About The Final Fantasy Tactics Remaster" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -248,42 +286,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/labor-day-smartwatch-sales-still-live?utm_medium=RSS" target="_blank">These Labor Day Sales on Smartwatches Are Still Live</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-03 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/nest-cam.jpg" alt="Gemini Is Going to Invade New Google Home Devices Next Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/gemini-is-going-to-invade-new-google-home-devices-next-month-2000652795" target="_blank">Gemini Is Going to Invade New Google Home Devices Next Month</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-03 16:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/jp7h4KgS28jw2fCxJ7nfDV.jpg" alt="In The New Horror Game From Silent Hill 2 Remake Devs, Cats Are Your Best Allies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/cronos-the-new-dawn-review-impressions-horror-bloober-team-silent-hil-2-ps5-2000622488" target="_blank">In The New Horror Game From Silent Hill 2 Remake Devs, Cats Are Your Best Allies</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-03 15:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Screenshot-2025-08-30-165041.png?fit=1071%2C445&amp;quality=55&amp;ssl=1" alt="&quot;The Long Walk&quot; screening will kick out viewers who can&#x27;t keep up with the characters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/03/the-long-walk-screening-will-kick-out-viewers-who-cant-keep-up-with-the-characters.html" target="_blank">&quot;The Long Walk&quot; screening will kick out viewers who can&#x27;t keep up with the characters</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-03 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/University-of-Texas-students-protest-Israels-wa.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Texas students challenge 10 p.m. ban on campus free speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/03/texas-students-challenge-10-p-m-ban-on-campus-free-speech.html" target="_blank">Texas students challenge 10 p.m. ban on campus free speech</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-03 14:44</span>
             </div>
         </div>
 </div>
@@ -323,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 160 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 155 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
