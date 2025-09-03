@@ -1,43 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-09-03 14:01:47 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-09-03 15:01:40 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 14 new posts out of 34 feeds processed -->
+<!-- Generated 12 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, September 03, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, September 03, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Epstein survivors hold press conference: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Epstein survivors hold press conference: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-03 14:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/09/03/g-s1-86671/cholera-diarrhea-disease-africa" target="_blank">An ancient disease makes yet another comeback</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-03 13:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b4d/live/1a8eacf0-884e-11f0-a10c-1da1b2e7987b.jpg" alt="Budget to be held on 26 November, Reeves confirms" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,29 +106,29 @@
                 <span class="time">2025-09-03 12:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/03/g-s1-86751/up-first-newsletter-jeffrey-epstein-trump-cryptocurrency-china-military-parade" target="_blank">Lawmakers push for release of more Epstein files. And, Trump family launches crypto</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-03 11:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1756898338032_tdy_news_7a_haake_trump_deportations_250903_1920x1080-ljlz0y.jpg" alt="Appeals Court Blocks Trump Deportations Under Wartime Law" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/court-blocks-trump-s-use-of-wartime-law-for-deportations-246531653659" target="_blank">Appeals Court Blocks Trump Deportations Under Wartime Law</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-03 11:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/03/warp-brings-new-diff-tracking-tools-to-the-ai-coding-arms-race/" target="_blank">Warp brings new diff-tracking tools to the AI coding arms race</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-03 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/769451/why-i-love-my-kenmore-canister-vacuum" target="_blank">Why I love my Kenmore canister vacuum</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-03 14:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,29 +165,29 @@
                 <span class="time">2025-09-03 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68b7a05338f50886a8a2b738/master/pass/Review-%20ReMarkable%20Paper%20Pro%20Move.png" alt="ReMarkable Paper Pro Move Review: A Small Yet Mighty Digital Notebook" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/remarkable-paper-pro-move/" target="_blank">ReMarkable Paper Pro Move Review: A Small Yet Mighty Digital Notebook</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-03 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/767912/ifa-2025-news-tech-gadgets-products-updates-highlights" target="_blank">IFA 2025: the biggest tech and gadget announcements</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-03 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq1km2d0h5wnowmwetbvp.png" alt="How I Used Claude and Gemini to Build a Commercial Company Search Tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alingse/how-i-used-claude-and-gemini-to-build-a-commercial-company-search-tool-3of3" target="_blank">How I Used Claude and Gemini to Build a Commercial Company Search Tool</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-03 14:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Niri-25.08-Released" target="_blank">Niri 25.08 Wayland Compositor Introduces xwayland-satellite Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-03 14:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -178,6 +195,15 @@
                 <span class="title"><a href="https://dev.to/itay_from_lawrence/the-67-second-opentelemetry-problem-e0b" target="_blank">The 67-Second OpenTelemetry Problem</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-03 14:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18593869&w=600" alt="Container Security Essentials: From Images to Runtime Protection" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/container-security-essentials" target="_blank">Container Security Essentials: From Images to Runtime Protection</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-03 14:00</span>
             </div>
         </div>
 <div class="story">
@@ -196,33 +222,6 @@
                 <span class="title"><a href="https://www.phoronix.com/review/intel-arc-pro-b50-linux" target="_blank">Intel Arc Pro B50 Linux Performance Benchmarks</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-03 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/architecture-scale-change/en/mediumimage/matthew-clark-ian-arundale-medium-1756282334948.jpg" alt="Presentation: Architecture in the Lead: Scaling Today, Shaping Tomorrow" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/architecture-scale-change/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Architecture in the Lead: Scaling Today, Shaping Tomorrow</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-03 11:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager" target="_blank">Tencent Open Sourced a 3D World Model</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-03 11:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/" target="_blank">The 16-year odyssey it took to emulate the Pioneer LaserActive</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-03 10:02</span>
             </div>
         </div>
 </div>
@@ -244,6 +243,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/University-of-Texas-students-protest-Israels-wa.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Texas students challenge 10 p.m. ban on campus free speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/03/texas-students-challenge-10-p-m-ban-on-campus-free-speech.html" target="_blank">Texas students challenge 10 p.m. ban on campus free speech</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-03 14:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K46DP8ESP17PCGX7YYJZPAKZ/hero-image.png" alt="These Three Apps Help Me Earn More Money As a Reseller" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-apps-to-help-resell-clothes?utm_medium=RSS" target="_blank">These Three Apps Help Me Earn More Money As a Reseller</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-03 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/SamsungGalaxyTabA9.jpg" alt="Samsung Galaxy Tab A9+ Hits Clearance-Level Pricing Ahead of New S11 Tablet Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +295,6 @@
                 <span class="title"><a href="https://gizmodo.com/channing-tatum-says-his-gambit-will-keep-the-drama-in-avengers-doomsday-2000652559" target="_blank">Channing Tatum Says His Gambit Will ‘Keep the Drama’ in ‘Avengers: Doomsday’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-03 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K438ZV25MYM40RNZ97JDETSE/hero-image.png" alt="Four Ways These Houseplants Can Improve Your Quality of Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/home/most-useful-houseplants-you-can-grow?utm_medium=RSS" target="_blank">Four Ways These Houseplants Can Improve Your Quality of Life</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-03 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/JBLBoomBox4.jpg" alt="JBL’s Boombox 4 Speaker Can Pump Out Less Distorted Sound Thanks to AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/jbls-boombox-4-speaker-can-pump-out-less-distorted-sound-thanks-to-ai-2000651999" target="_blank">JBL’s Boombox 4 Speaker Can Pump Out Less Distorted Sound Thanks to AI</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-03 09:00</span>
             </div>
         </div>
 </div>
@@ -335,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 156 | 📡 Total Sources: 41 | 📸 With Images: 260 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 157 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
