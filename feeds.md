@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-09-03 06:02:04 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-03 07:01:50 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, September 03, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, September 03, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/9/3/xi-jinping-leads-beijing-parade-displaying-chinas-military-power?traffic_source=rss" target="_blank">Xi Jinping leads Beijing parade displaying China’s military power</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-03 06:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/529b/live/c48a7890-8891-11f0-84c8-99de564f0440.jpg" alt="&#x27;Trump&#x27;s out, Xi&#x27;s in&#x27;: BBC correspondents react to China&#x27;s military parade" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c7545p2px5no?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Trump&#x27;s out, Xi&#x27;s in&#x27;: BBC correspondents react to China&#x27;s military parade</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-03 06:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,30 +96,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/031c/live/5c166c90-8875-11f0-9cf6-cbf3e73ce2b9.png" alt="Trump says 11 killed in US strike on drug-carrying vessel from Venezuela" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-putin-xi-kim-jong-un_7009722.jpg?20250903042549" alt="Xi presents his vision of the future - and the company by his side was no accident" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cpwywjgynyxo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says 11 killed in US strike on drug-carrying vessel from Venezuela</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-03 03:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/3/us-open-carlos-alcaraz-cruises-into-2025-semifinals?traffic_source=rss" target="_blank">US Open: Carlos Alcaraz cruises into 2025 semifinals</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-03 02:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/3/trump-not-concerned-about-china-and-russia-forming-axis-against-us?traffic_source=rss" target="_blank">Trump ‘not concerned’ about China and Russia forming axis against US</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-03 01:31</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/xi-presents-his-vision-of-the-future-and-the-company-by-his-side-was-no-accident-13424062" target="_blank">Xi presents his vision of the future - and the company by his side was no accident</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-03 04:14</span>
             </div>
         </div>
 </div>
@@ -106,6 +109,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" alt="Target Promo Codes and Deals: Up to 50% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/target-promo-code/" target="_blank">Target Promo Codes and Deals: Up to 50% Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-03 05:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2233411587-500x500.jpg" alt="Trump’s move of SPACECOM to Alabama has little to do with national security" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +163,20 @@
                 <span class="time">2025-09-02 21:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/769585/amazon-lens-live-ai-real-time-shopping" target="_blank">Amazon&amp;#8217;s Lens Live AI shops for anything you can see</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-02 21:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sommukhopadhyay/meaning-of-education-to-me-40na" target="_blank">Meaning of education to me...</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-03 06:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +218,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/google-antitrust-ruling-firefox-search-deal" target="_blank">Google Can Keep Paying for Firefox Search Deal, Judge Rules</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-02 22:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/Mozilla-Logo-New.jpg?resize=406%2C232&amp;ssl=1" alt="Google Can Pay Mozilla for Firefox Search Deal in Antitrust Ruling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/google-antitrust-ruling-firefox-search-deal" target="_blank">Google Can Pay Mozilla for Firefox Search Deal in Antitrust Ruling</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-09-02 22:43</span>
             </div>
@@ -320,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 146 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 148 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
