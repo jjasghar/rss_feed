@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-03 09:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-03 10:02:07 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, September 03, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, September 03, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/3/trump-says-us-strike-targeted-venezuelan-drug-smuggling-boat-2?traffic_source=rss" target="_blank">Trump says US strike targeted Venezuelan drug smuggling boat</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-03 09:16</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/03/nx-s1-5521388/um-filler-word-of-the-week" target="_blank">So um, why do we say &#x27;um&#x27; so much?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-03 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/gallery/2025/9/3/xi-jinping-leads-beijing-parade-displaying-chinas-military-power?traffic_source=rss" target="_blank">Xi Jinping leads Beijing parade displaying China’s military power</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-03 06:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90a2/live/98d1e900-889a-11f0-84c8-99de564f0440.jpg" alt="&#x27;A clear message to Trump&#x27;: BBC correspondents react to China&#x27;s military parade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c7545p2px5no?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;A clear message to Trump&#x27;: BBC correspondents react to China&#x27;s military parade</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-03 06:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/529b/live/c48a7890-8891-11f0-84c8-99de564f0440.jpg" alt="&#x27;Trump&#x27;s out, Xi&#x27;s in&#x27;: BBC correspondents react to China&#x27;s military parade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c7545p2px5no?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Trump&#x27;s out, Xi&#x27;s in&#x27;: BBC correspondents react to China&#x27;s military parade</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-03 06:21</span>
             </div>
         </div>
 </div>
@@ -168,6 +169,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/54-of-european-enterprises-want-long-term-open-source-support-how-ubuntu-pro-support-delivers" target="_blank">54% of European enterprises want long term open source support: how Ubuntu Pro + Support delivers</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-09-03 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/kevi019/discovered-how-easy-can-traceability-in-test-become-with-good-reporting-tools-418m" target="_blank">Discovered how easy can traceability in test become with smart(not just good) reporting tools.</a></span>
                 <span class="feed">DEV Community</span>
@@ -204,19 +214,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sommukhopadhyay/meaning-of-education-to-me-40na" target="_blank">Meaning of education to me...</a></span>
-                <span class="feed">DEV Community</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html" target="_blank">Kernel-hack-drill and exploiting CVE-2024-50264 in the Linux kernel</a></span>
+                <span class="feed">Hacker News</span>
                 <span class="time">2025-09-03 06:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/gamespot-007-first-light-state-of-play-gameplay-deep-dive-livestream-pil" target="_blank">GameSpot: 007 First Light - State of Play Gameplay Deep Dive Livestream</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-03 06:00</span>
             </div>
         </div>
 </div>
@@ -329,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
