@@ -1,40 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-09-03 07:01:50 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-03 08:02:24 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, September 03, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, September 03, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/3/putin-kim-meet-in-beijing-kremlin-says-russia-not-plotting-against-us?traffic_source=rss" target="_blank">Putin, Kim meet in Beijing; Kremlin says Russia not plotting against US</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-03 07:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +93,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/03/nx-s1-5524923/china-xi-parade-putin-kim" target="_blank">China&#x27;s Xi displays military might, global ambitions at elaborate parade</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-03 04:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-putin-xi-kim-jong-un_7009722.jpg?20250903042549" alt="Xi presents his vision of the future - and the company by his side was no accident" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/xi-presents-his-vision-of-the-future-and-the-company-by-his-side-was-no-accident-13424062" target="_blank">Xi presents his vision of the future - and the company by his side was no accident</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-03 04:14</span>
             </div>
         </div>
 </div>
@@ -169,6 +160,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmb0p8ewpudk9b9el301j.jpg" alt="You are 1 post away..." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/masterdevsabith/you-are-1-post-away-1kdf" target="_blank">You are 1 post away...</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-03 07:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/using-iso-sae-21434-to-stay-ahead-of-the-cyber-resilience-act" target="_blank">Using ISO/SAE 21434 to stay ahead of the Cyber Resilience Act</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-09-03 07:15</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,24 +213,6 @@
                 <span class="time">2025-09-03 00:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-5-3pm7" target="_blank">Daily DSA and System Design Journal - 5</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-02 23:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/firefox-search-deal-cash.jpg?resize=406%2C232&amp;ssl=1" alt="Google Can Keep Paying for Firefox Search Deal, Judge Rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/google-antitrust-ruling-firefox-search-deal" target="_blank">Google Can Keep Paying for Firefox Search Deal, Judge Rules</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-02 22:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/motion-sick-woman.jpg" alt="Motion Sickness Sufferers, Rejoice: Scientists Say This Might Actually Help" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/motion-sickness-sufferers-rejoice-scientists-say-this-might-actually-help-2000651372" target="_blank">Motion Sickness Sufferers, Rejoice: Scientists Say This Might Actually Help</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-03 04:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K3GAB0EP5F86BMRPCVSHSSD1/hero-image.png" alt="This Budget ASUS Chromebook Is on Sale for Just $190 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,15 +286,6 @@
                 <span class="time">2025-09-02 21:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4602AA6DPJEJ7EASM9G38X1/hero-image.png" alt="iOS 26&#x27;s Photos App Will Label Concerts and Sporting Events You Attended" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/ios-26-event-rocognition-photos-app?utm_medium=RSS" target="_blank">iOS 26&#x27;s Photos App Will Label Concerts and Sporting Events You Attended</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-02 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 148 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
