@@ -1,27 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-03 21:01:28 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-03 22:01:30 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Linux.com -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 18 feeds processed -->
+<!-- Generated 11 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, September 03, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, September 03, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7884/live/2428b480-8903-11f0-9cf6-cbf3e73ce2b9.jpg" alt="At least 15 dead after Lisbon&#x27;s historic funicular derails" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1jzlgj915no?at_medium=RSS&at_campaign=rss" target="_blank">At least 15 dead after Lisbon&#x27;s historic funicular derails</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-03 21:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/davis-epstein-1-abc-gmh-250903_1756921206237_hpMain_4x3t_384.jpg" alt="Epstein survivors call on Trump, Congress to release records" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/power-transparent-epstein-survivors-call-trump-congress-release/story?id=125221825" target="_blank">Epstein survivors call on Trump, Congress to release records</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-03 21:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/9/3/how-powerful-is-chinas?traffic_source=rss" target="_blank">How powerful is China’s military?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-03 21:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-05/250502-harvard-university-mn-0830-e53159.jpg" alt="Judge orders Trump administration to unfreeze nearly $2.2 billion in federal grants to Harvard" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -64,38 +98,38 @@
                 <span class="time">2025-09-03 20:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/03/g-s1-86846/spiked-dinosaur-discovered-spicomellus" target="_blank">A spine-tingling discovery: This dinosaur had spiked body armor</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-03 20:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5ec/live/d7f14ed0-88fb-11f0-9cf6-cbf3e73ce2b9.jpg" alt="At least fifteen dead after Lisbon&#x27;s historic funicular derails" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1jzlgj915no?at_medium=RSS&at_campaign=rss" target="_blank">At least fifteen dead after Lisbon&#x27;s historic funicular derails</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-03 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/3/indonesia-fires-police-officer-over-killing-that-fuelled-protests?traffic_source=rss" target="_blank">Indonesia fires police officer over killing that fuelled protests</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-03 19:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/voyager_screenshot-500x500.jpg" alt="New AI model turns photos into explorable 3D worlds, with caveats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/09/new-ai-model-turns-photos-into-explorable-3d-worlds-with-caveats/" target="_blank">New AI model turns photos into explorable 3D worlds, with caveats</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-03 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68b89a36c384e6e28053db52/master/pass/porn-malware-sec-5988-040947.jpg" alt="Automated Sextortion Spyware Takes Webcam Pics of Victims Watching Porn" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/stealerium-infostealer-porn-sextortion/" target="_blank">Automated Sextortion Spyware Takes Webcam Pics of Victims Watching Porn</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-03 21:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl" target="_blank">The best deals on 4K TVs</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-03 21:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1196287382-500x500.jpg" alt="These psychological tricks can get LLMs to respond to “forbidden” prompts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -123,38 +157,20 @@
                 <span class="time">2025-09-03 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68b7b991d0cfb5addafddf66/master/pass/Following%20Tab%2016_9.png" alt="The Instagram iPad App Is Finally Here" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/instagram-ipad-app-is-finally-here/" target="_blank">The Instagram iPad App Is Finally Here</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-03 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68b1efba7f9c4a8ec21a947b/master/pass/GettyImages-2231716199.jpg" alt="How Disinformation About the Minnesota Shooting Spread Like Wildfire on X" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/disinformation-minnesota-shooting-x/" target="_blank">How Disinformation About the Minnesota Shooting Spread Like Wildfire on X</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-03 15:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/Original-15425-a251455-large-500x500.jpg" alt="Audi design finds its minimalist groove again with Concept C" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/09/audi-design-finds-its-minimalist-groove-again-with-concept-c/" target="_blank">Audi design finds its minimalist groove again with Concept C</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-03 15:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://mikelovesrobots.substack.com/p/wheres-the-shovelware-why-ai-coding" target="_blank">Where&#x27;s the Shovelware? Why AI Coding Claims Don&#x27;t Add Up</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-03 21:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjy4mm37xptdfot38ulg.png" alt="Como escrever uma documentação técnica que realmente funciona" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -162,6 +178,15 @@
                 <span class="title"><a href="https://dev.to/pripoliveira50/como-escrever-uma-documentacao-tecnica-que-realmente-funciona-h1" target="_blank">Como escrever uma documentação técnica que realmente funciona</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-03 20:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18594013&w=600" alt="Developing a Nationwide Real-Time Telemetry Analytics Platform Using Google Cloud Platform and Apache Airflow" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/real-time-telemetry-gcp-airflow" target="_blank">Developing a Nationwide Real-Time Telemetry Analytics Platform Using Google Cloud Platform and Apache Airflow</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-03 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -191,24 +216,6 @@
                 <span class="time">2025-09-03 16:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sidharth_sangelia/http-status-codes-a-developers-real-world-guide-3gd4" target="_blank">HTTP Status Codes: A Developer&#x27;s Real-World Guide🚦</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-03 16:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Rust-Innovation-Lab" target="_blank">Rust Innovation Lab Announced By The Rust Foundation</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-03 16:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -228,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/falloutai.jpg" alt="Leaked Fallout Merch Appears To Use AI-Generated Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/leaked-fallout-merch-ai-art-target-hot-sauce-bethesda-2000622731" target="_blank">Leaked Fallout Merch Appears To Use AI-Generated Slop</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-03 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HRWJHQMADEADSWPAB7Z7G7JW/hero-image.png" alt="The Best Macbook Air Deals You Can Get in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-macbook-air-deals?utm_medium=RSS" target="_blank">The Best Macbook Air Deals You Can Get in 2025</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-03 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/03/914d7ecd1b21baf0b03440017c7e5f03.jpg" alt="Reese Witherspoon Seems to Have Forgotten How Well Her NFT Predictions Went" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,29 +289,20 @@
                 <span class="time">2025-09-03 19:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K48DQ4PE81KBFAGGKXCZAQTX/hero-image.png" alt="The Polar Loop Is a New Subscription-Free Whoop Competitor (With a Disappointing Price)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/polar-loop-fitness-tracker?utm_medium=RSS" target="_blank">The Polar Loop Is a New Subscription-Free Whoop Competitor (With a Disappointing Price)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-03 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/ipadinstagram-scaled.webp?fit=2560%2C1403&amp;quality=55&amp;ssl=1" alt="After 15 years and 6 months, Instagram finally has an iPad app" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/03/after-15-years-and-6-months-instagram-finally-has-an-ipad-app.html" target="_blank">After 15 years and 6 months, Instagram finally has an iPad app</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-03 18:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/09/03/habitats" target="_blank">Habitats</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-09-03 19:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1756846922-20250903 (1).png" alt="Saturday Morning Breakfast Cereal - Dogs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -319,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 152 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
