@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-03 00:04:16 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-09-03 01:28:55 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, September 03, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, September 03, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +48,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/3/us-house-committee-releases-over-33000-pages-of-epstein-related-records?traffic_source=rss" target="_blank">US House committee releases over 33,000 pages of Epstein-related records</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-03 01:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7f2/live/7a4a1370-8833-11f0-9e1d-1123d58de035.png" alt="Government unable to calculate Afghan data breach cost, watchdog says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cm2k25dx1z3o?at_medium=RSS&at_campaign=rss" target="_blank">Government unable to calculate Afghan data breach cost, watchdog says</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-02 23:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/02/nx-s1-5525984/venezuela-trump-drugs-caribbean" target="_blank">Trump confirms U.S. strike on alleged Venezuelan drug boat</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-02 23:07</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +101,20 @@
                 <span class="time">2025-09-02 21:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/2/nigerias-asisat-oshoala-leave-bay-fc-for-saudi-womens-al-hilal?traffic_source=rss" target="_blank">Nigeria’s Asisat Oshoala leave Bay FC for Saudi Women’s Al-Hilal</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-02 20:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1756844837627_now_mtp_clip_troops_250902_1920x1080-x2sa65.jpg" alt="Trump vows troop deployments to Chicago despite judge’s ruling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/trump-vows-troop-deployments-to-chicago-despite-judge-s-ruling-246465093631" target="_blank">Trump vows troop deployments to Chicago despite judge’s ruling</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-02 20:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/769738/google-doj-antitrust-remedies-ruling-critics" target="_blank">Google critics think the search remedies ruling is a total whiff</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-03 00:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67194d3ac6e04fef4b6ba5f1/master/pass/Uncanny-Valley-Podcast-Artwork.jpg" alt="Join Us for WIRED’s “Uncanny Valley” Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,15 +160,6 @@
                 <span class="time">2025-09-02 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/laseractive2-500x500.jpg" alt="Over 30 years later, a rare LaserDisc game console gets its first PC emulator" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2025/09/over-30-years-later-a-rare-laserdisc-game-console-gets-its-first-pc-emulator/" target="_blank">Over 30 years later, a rare LaserDisc game console gets its first PC emulator</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-02 18:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,10 +168,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/ollama-0.11.9-More-Performance" target="_blank">ollama 0.11.9 Introducing A Nice CPU/GPU Performance Optimization</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-03 00:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-5-3pm7" target="_blank">Daily DSA and System Design Journal - 5</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-02 23:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/firefox-search-deal-cash.jpg?resize=406%2C232&amp;ssl=1" alt="Google Can Keep Paying for Firefox Search Deal, Judge Rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/google-antitrust-ruling-firefox-search-deal" target="_blank">Google Can Keep Paying for Firefox Search Deal, Judge Rules</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-02 22:43</span>
             </div>
         </div>
 <div class="story">
@@ -194,28 +213,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/huawei-oceanstor-canonical-kubernetes-integration-report" target="_blank">Huawei OceanStor with Canonical Kubernetes – integration verification report</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-09-02 21:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/SDL-Merges-X11TK-X11-Toolkit" target="_blank">SDL Merges X11TK: A Basic X11 Toolkit</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-02 21:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alifar/why-ai-giants-are-chasing-cursors-developer-data-in-the-47b-agentic-ai-race-im5" target="_blank">Why AI Giants Are Chasing Cursor’s Developer Data in the $47B Agentic AI Race</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-02 20:56</span>
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://discuss.python.org/t/wheelnext-wheel-variants-an-update-and-a-request-for-feedback/102383" target="_blank">WheelNext &amp; Wheel Variants: An update, and a request for feedback</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-09-02 22:11</span>
             </div>
         </div>
 </div>
@@ -256,6 +257,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/heldldver.jpg" alt="Helldivers 2′s New Very Scary Mega Worm Has Been Killed, But It Took 10 Nukes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/helldivers-2-hive-lord-mega-worm-killed-update-nukes-ps5-xbox-2000622473" target="_blank">Helldivers 2′s New Very Scary Mega Worm Has Been Killed, But It Took 10 Nukes</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-02 21:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2023/05/cf237e61f7b88b8e03f0b3ac3b3e55fd.jpg" alt="Google Won’t Have to Sell Chrome Browser After All (But There’s a Catch)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -282,20 +292,20 @@
                 <span class="time">2025-09-02 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/peter-doocy-trump-ai-video-white-house-sept.-2-2025.jpg" alt="Trump Blames AI for Weird Video of Stuff Being Tossed Out White House Window" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trump-blames-ai-for-weird-video-of-stuff-being-tossed-out-white-house-window-2000652191" target="_blank">Trump Blames AI for Weird Video of Stuff Being Tossed Out White House Window</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-02 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5649.png" alt="In Which Yay Is Killed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5649" target="_blank">In Which Yay Is Killed</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-09-03 00:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1756591351-20250901.png" alt="Saturday Morning Breakfast Cereal - Chew" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -305,22 +315,13 @@
                 <span class="time">2025-09-02 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5648.png" alt="Promises, Promises" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5648" target="_blank">Promises, Promises</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-09-02 01:09</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
