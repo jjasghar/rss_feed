@@ -1,42 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-03 15:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-03 16:01:59 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 33 feeds processed -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, September 03, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, September 03, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/3/how-did-us-strike-on-venezuelan-boat-come-about-what-it-means?traffic_source=rss" target="_blank">How did US strike on Venezuelan boat come about? What it means</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-03 14:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  Epstein survivors hold press conference: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -97,20 +98,20 @@
                 <span class="time">2025-09-03 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/3/man-jailed-in-spain-for-racially-abusing-real-madrids-vinicius?traffic_source=rss" target="_blank">Man jailed for racial abuse of Ghana’s Williams in La Liga</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-03 12:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68b1efba7f9c4a8ec21a947b/master/pass/GettyImages-2231716199.jpg" alt="How Disinformation About the Minnesota Shooting Spread Like Wildfire on X" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/disinformation-minnesota-shooting-x/" target="_blank">How Disinformation About the Minnesota Shooting Spread Like Wildfire on X</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-03 15:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -156,20 +157,38 @@
                 <span class="time">2025-09-03 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/03/college-social-app-fizz-expands-into-grocery-delivery/" target="_blank">College social app Fizz expands into grocery delivery</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-03 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/5-tips-for-writing-better-custom-instructions-for-copilot/" target="_blank">5 tips for writing better custom instructions for Copilot</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-09-03 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://zed.dev/blog/claude-code-via-acp" target="_blank">Claude Code: Now in Beta in Zed</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-03 15:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18593932&w=600" alt="Understanding Apache Spark Join Types" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/spark-join-types-explained" target="_blank">Understanding Apache Spark Join Types</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-03 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq1km2d0h5wnowmwetbvp.png" alt="How I Used Claude and Gemini to Build a Commercial Company Search Tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,33 +216,6 @@
                 <span class="time">2025-09-03 14:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18593869&w=600" alt="Container Security Essentials: From Images to Runtime Protection" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/container-security-essentials" target="_blank">Container Security Essentials: From Images to Runtime Protection</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-03 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/itagyba/dapper-no-net-simplicidade-e-performance-no-acesso-a-dados-3c1" target="_blank">Dapper no .NET: simplicidade e performance no acesso a dados</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-03 13:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/intel-arc-pro-b50-linux" target="_blank">Intel Arc Pro B50 Linux Performance Benchmarks</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-03 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +235,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/nest-cam.jpg" alt="Gemini Is Going to Invade New Google Home Devices Next Month" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/gemini-is-going-to-invade-new-google-home-devices-next-month-2000652795" target="_blank">Gemini Is Going to Invade New Google Home Devices Next Month</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-03 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/jp7h4KgS28jw2fCxJ7nfDV.jpg" alt="In The New Horror Game From Silent Hill 2 Remake Devs, Cats Are Your Best Allies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/cronos-the-new-dawn-review-impressions-horror-bloober-team-silent-hil-2-ps5-2000622488" target="_blank">In The New Horror Game From Silent Hill 2 Remake Devs, Cats Are Your Best Allies</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-03 15:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Screenshot-2025-08-30-165041.png?fit=1071%2C445&amp;quality=55&amp;ssl=1" alt="&quot;The Long Walk&quot; screening will kick out viewers who can&#x27;t keep up with the characters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/03/the-long-walk-screening-will-kick-out-viewers-who-cant-keep-up-with-the-characters.html" target="_blank">&quot;The Long Walk&quot; screening will kick out viewers who can&#x27;t keep up with the characters</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-03 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/University-of-Texas-students-protest-Israels-wa.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Texas students challenge 10 p.m. ban on campus free speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,38 +289,20 @@
                 <span class="time">2025-09-03 13:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/11/ubisoft-champions-tactics-e1730549088861.png?fit=1907%2C1169&amp;quality=55&amp;ssl=1" alt="Ubisoft&#x27;s NFT game isn&#x27;t dead yet, but it&#x27;s sure close" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/03/ubisofts-nft-game-isnt-dead-yet-but-its-sure-close.html" target="_blank">Ubisoft&#x27;s NFT game isn&#x27;t dead yet, but it&#x27;s sure close</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-03 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K46HGB1R3T53AWVWXKGEWW7K/hero-image.jpg" alt="That Docusign Email From Apple Pay Is a Scam" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/docusign-apple-pay-scam?utm_medium=RSS" target="_blank">That Docusign Email From Apple Pay Is a Scam</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-03 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/result_Gambit.jpg" alt="Channing Tatum Says His Gambit Will ‘Keep the Drama’ in ‘Avengers: Doomsday’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/channing-tatum-says-his-gambit-will-keep-the-drama-in-avengers-doomsday-2000652559" target="_blank">Channing Tatum Says His Gambit Will ‘Keep the Drama’ in ‘Avengers: Doomsday’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-03 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1756846922-20250903 (1).png" alt="Saturday Morning Breakfast Cereal - Dogs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/dogs-4" target="_blank">Saturday Morning Breakfast Cereal - Dogs</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-09-03 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -320,22 +321,13 @@
                 <span class="time">2025-09-03 00:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1756591351-20250901.png" alt="Saturday Morning Breakfast Cereal - Chew" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/chew" target="_blank">Saturday Morning Breakfast Cereal - Chew</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-09-02 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 157 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 160 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
