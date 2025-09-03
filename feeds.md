@@ -1,27 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-03 11:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-03 12:02:30 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 18 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, September 03, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, September 03, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/03/g-s1-86751/up-first-newsletter-jeffrey-epstein-trump-cryptocurrency-china-military-parade" target="_blank">Lawmakers push for release of more Epstein files. And, Trump family launches crypto</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-03 11:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1756898338032_tdy_news_7a_haake_trump_deportations_250903_1920x1080-ljlz0y.jpg" alt="Appeals Court Blocks Trump Deportations Under Wartime Law" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/court-blocks-trump-s-use-of-wartime-law-for-deportations-246531653659" target="_blank">Appeals Court Blocks Trump Deportations Under Wartime Law</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-03 11:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -65,30 +92,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65c3/live/033e7960-88a6-11f0-8b3f-67b2e7d47fb0.jpg" alt="What new weapons on show at huge parade say about China&#x27;s military strength" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/03/nx-s1-5521388/um-filler-word-of-the-week" target="_blank">So um, why do we say &#x27;um&#x27; so much?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-03 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/3/how-much-do-india-russia-china-trade-and-what-goods-do-they-buy?traffic_source=rss" target="_blank">How much do India, Russia, China trade and what goods do they buy?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-03 08:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f84/live/7fbb2180-888a-11f0-84c8-99de564f0440.jpg" alt="Energy drinks to be banned for under-16s in England" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c707074qdnko?at_medium=RSS&at_campaign=rss" target="_blank">Energy drinks to be banned for under-16s in England</a></span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cjr1reyr059o?at_medium=RSS&at_campaign=rss" target="_blank">What new weapons on show at huge parade say about China&#x27;s military strength</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2025-09-03 08:18</span>
+                <span class="time">2025-09-03 09:07</span>
             </div>
         </div>
 </div>
@@ -96,6 +105,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68b7a05338f50886a8a2b738/master/pass/Review-%20ReMarkable%20Paper%20Pro%20Move.png" alt="ReMarkable Paper Pro Move Review: A Small Yet Mighty Digital Notebook" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/remarkable-paper-pro-move/" target="_blank">ReMarkable Paper Pro Move Review: A Small Yet Mighty Digital Notebook</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-03 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,20 +159,29 @@
                 <span class="time">2025-09-03 00:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/40b76700-879a-11f0-bdfd-4721c5ffeede-500x500.jpg" alt="The new Dolby Vision 2 HDR standard is probably going to be controversial" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/the-new-dolby-vision-2-hdr-standard-is-probably-going-to-be-controversial/" target="_blank">The new Dolby Vision 2 HDR standard is probably going to be controversial</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-02 22:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/architecture-scale-change/en/mediumimage/matthew-clark-ian-arundale-medium-1756282334948.jpg" alt="Presentation: Architecture in the Lead: Scaling Today, Shaping Tomorrow" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/architecture-scale-change/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Architecture in the Lead: Scaling Today, Shaping Tomorrow</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-03 11:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/" target="_blank">The 16-year odyssey it took to emulate the Pioneer LaserActive</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-03 10:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,38 +216,6 @@
                 <span class="title"><a href="https://dev.to/masterdevsabith/you-are-1-post-away-1kdf" target="_blank">You are 1 post away...</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-03 07:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/using-iso-sae-21434-to-stay-ahead-of-the-cyber-resilience-act" target="_blank">Using ISO/SAE 21434 to stay ahead of the Cyber Resilience Act</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-09-03 07:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://a13xp0p0v.github.io/2025/09/02/kernel-hack-drill-and-CVE-2024-50264.html" target="_blank">Kernel-hack-drill and exploiting CVE-2024-50264 in the Linux kernel</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-03 06:58</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/1965-cryptanalysis-training-workbook-released-by-the-nsa.html" target="_blank">1965 Cryptanalysis Training Workbook Released by the NSA</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-09-02 11:08</span>
             </div>
         </div>
 </div>
@@ -319,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 152 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
