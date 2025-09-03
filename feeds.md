@@ -1,32 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-09-03 20:01:50 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-09-03 21:01:28 UTC -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Generated 8 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, September 03, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, September 03, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +38,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-05/250502-harvard-university-mn-0830-e53159.jpg" alt="Judge orders Trump administration to unfreeze nearly $2.2 billion in federal grants to Harvard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/judge-orders-trump-administration-unfreeze-nearly-22-billion-federal-g-rcna228926" target="_blank">Judge orders Trump administration to unfreeze nearly $2.2 billion in federal grants to Harvard</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-03 20:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/3/the-voice-of-hind-rajab-gets-record-23-minute-ovation-at-venice-premiere?traffic_source=rss" target="_blank">The Voice of Hind Rajab gets record 23-minute ovation at Venice premiere</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-03 20:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-nawrocki-08-gty-jef-250903_1756915869799_hpMain_4x3t_384.jpg" alt="Trump calls Epstein files &#x27;irrelevant&#x27; as push for release gains steam" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-calls-epstein-files-irrelevant-push-release-gains/story?id=125225706" target="_blank">Trump calls Epstein files &#x27;irrelevant&#x27; as push for release gains steam</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-03 20:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/03/g-s1-86846/spiked-dinosaur-discovered-spicomellus" target="_blank">A spine-tingling discovery: This dinosaur had spiked body armor</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-03 20:05</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5ec/live/d7f14ed0-88fb-11f0-9cf6-cbf3e73ce2b9.jpg" alt="At least fifteen dead after Lisbon&#x27;s historic funicular derails" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -58,42 +89,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/3/indonesia-fires-police-officer-over-killing-that-fuelled-protests?traffic_source=rss" target="_blank">Indonesia fires police officer over killing that fuelled protests</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-03 19:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/3/not-a-single-shred-of-evidence-bolsonaro-pushes-for-acquittal-in-brazil?traffic_source=rss" target="_blank">‘Not a single shred of evidence’: Bolsonaro pushes for acquittal in Brazil</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-03 18:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/03/g-s1-86813/trump-national-guard-new-orleans" target="_blank">President Trump floats deploying National Guard troops to New Orleans</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-03 18:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8699/live/79ceb060-88cc-11f0-9cf6-cbf3e73ce2b9.png" alt="Rayner admits underpaying tax on Hove flat as PM backs her" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy50446rq73o?at_medium=RSS&at_campaign=rss" target="_blank">Rayner admits underpaying tax on Hove flat as PM backs her</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-03 17:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c5d/live/6d65e670-88dd-11f0-84c8-99de564f0440.jpg" alt="Putin says Russia will achieve all aims militarily if Ukraine does not agree deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4g7dze5n1vo?at_medium=RSS&at_campaign=rss" target="_blank">Putin says Russia will achieve all aims militarily if Ukraine does not agree deal</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-03 17:27</span>
             </div>
         </div>
 </div>
@@ -161,6 +156,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjy4mm37xptdfot38ulg.png" alt="Como escrever uma documentação técnica que realmente funciona" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pripoliveira50/como-escrever-uma-documentacao-tecnica-que-realmente-funciona-h1" target="_blank">Como escrever uma documentação técnica que realmente funciona</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-03 20:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpzr71x5fxtbtsq1y30xq.webp" alt="WordPress vs Next.js: A Developer&#x27;s Technical Decision Framework for 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,15 +209,6 @@
                 <span class="time">2025-09-03 16:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18593943&w=600" alt="Understanding Zero-Copy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/understanding-zero-copy" target="_blank">Understanding Zero-Copy</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-03 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +228,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/03/914d7ecd1b21baf0b03440017c7e5f03.jpg" alt="Reese Witherspoon Seems to Have Forgotten How Well Her NFT Predictions Went" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/reese-witherspoon-seems-to-have-forgotten-how-well-her-nft-predictions-went-2000653047" target="_blank">Reese Witherspoon Seems to Have Forgotten How Well Her NFT Predictions Went</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-03 20:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Kash_Patel_52588173144.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="FBI Director bought Krispy Kreme shares while it faces an FBI probe" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/03/krispy-kreme-data-breach.html" target="_blank">FBI Director bought Krispy Kreme shares while it faces an FBI probe</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-03 20:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/09/vaccine.jpg?fit=600%2C599&amp;quality=60&amp;ssl=1" alt="Florida to begin exporting infectious diseases" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,24 +280,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/03/after-15-years-and-6-months-instagram-finally-has-an-ipad-app.html" target="_blank">After 15 years and 6 months, Instagram finally has an iPad app</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-03 18:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/anthropic.jpg" alt="Anthropic Rakes in $183B Valuation as It Takes on Musk, Altman" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/anthropic-ai-funding-xai-openai-2000652782" target="_blank">Anthropic Rakes in $183B Valuation as It Takes on Musk, Altman</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-03 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K481B3Z3J00GDTGGF5ZRCHJ4/hero-image.png" alt="Google Is Making It Easier to Share Audio Across Multiple Headphones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/google-is-rolling-out-aurcast-support-to-more-devices?utm_medium=RSS" target="_blank">Google Is Making It Easier to Share Audio Across Multiple Headphones</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-03 18:00</span>
             </div>
         </div>
 </div>
@@ -324,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
