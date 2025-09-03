@@ -1,31 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-02 23:01:50 UTC -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-09-03 00:04:16 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, September 02, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, September 03, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7f2/live/7a4a1370-8833-11f0-9e1d-1123d58de035.png" alt="Government unable to calculate Afghan data breach cost, watchdog says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm2k25dx1z3o?at_medium=RSS&at_campaign=rss" target="_blank">Government unable to calculate Afghan data breach cost, watchdog says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-02 23:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1756852517466_now_hallie_trump_pardon_250902_1920x1080-tf3d22.jpg" alt="Epstein survivors call potential Maxwell pardon a &#x27;slap in the face&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/epstein-survivors-call-potential-maxwell-pardon-a-slap-in-the-face-246483013543" target="_blank">Epstein survivors call potential Maxwell pardon a &#x27;slap in the face&#x27;</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-02 22:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,24 +98,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/trump-vows-troop-deployments-to-chicago-despite-judge-s-ruling-246465093631" target="_blank">Trump vows troop deployments to Chicago despite judge’s ruling</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-09-02 20:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/us-news/2025/sep/02/lawyers-say-men-deported-by-us-to-eswatini-are-being-imprisoned-illegally" target="_blank">Lawyers say men deported by US to Eswatini are being imprisoned illegally</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-09-02 20:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-2-rt-gmh-250902_1756839331845_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump says &#x27;we&#x27;re going in&#x27; to Chicago" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=125150863" target="_blank">Trump admin live updates: Trump says &#x27;we&#x27;re going in&#x27; to Chicago</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-02 19:44</span>
             </div>
         </div>
 </div>
@@ -160,6 +165,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ik_8a78062fd65be769dd835/daily-dsa-and-system-design-journal-5-3pm7" target="_blank">Daily DSA and System Design Journal - 5</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-02 23:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/Mozilla-Logo-New.jpg?resize=406%2C232&amp;ssl=1" alt="Google Can Pay Mozilla for Firefox Search Deal in Antitrust Ruling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/google-antitrust-ruling-firefox-search-deal" target="_blank">Google Can Pay Mozilla for Firefox Search Deal in Antitrust Ruling</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-02 22:43</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/Mozilla-Logo-New.jpg?resize=406%2C232&amp;ssl=1" alt="Google Antitrust Ruling Brings Relief for Mozilla" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -195,24 +218,6 @@
                 <span class="time">2025-09-02 20:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18593280&w=600" alt="Stop Leaking Secrets: The Hidden Danger in Test Automation and How Vault Can Fix It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/hidden-danger-in-test-automation-vault-fix" target="_blank">Stop Leaking Secrets: The Hidden Danger in Test Automation and How Vault Can Fix It</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-02 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3415300%2F145683af-9716-4263-812e-25a3962d2552.jpg" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ben/-1j5d" target="_blank">[Boost]</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-02 19:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K3GAB0EP5F86BMRPCVSHSSD1/hero-image.png" alt="This Budget ASUS Chromebook Is on Sale for Just $190 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/asus-chromebook-stacksocial-sale?utm_medium=RSS" target="_blank">This Budget ASUS Chromebook Is on Sale for Just $190 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-02 22:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/KPop-Demon-Hunters.jpg" alt="‘KPop Demon Hunters’ Songwriter on Crafting the Movie’s Breakout Hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +291,6 @@
                 <span class="time">2025-09-02 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/08/Google-headquarters-getty.jpg" alt="EU Gets Cold Feet Over Google Fine, Fears Potential Trump Backlash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/eu-gets-cold-feet-over-google-fine-fears-potential-trump-backlash-2000652121" target="_blank">EU Gets Cold Feet Over Google Fine, Fears Potential Trump Backlash</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-02 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
