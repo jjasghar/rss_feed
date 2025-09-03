@@ -1,38 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-09-03 10:02:07 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-03 11:01:37 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, September 03, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, September 03, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +37,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/planet-money/2025/09/03/g-s1-86572/hitlers-bunker-is-now-just-a-parking-lot-but-its-a-dark-tourism-attraction-anyway" target="_blank">Hitler&#x27;s bunker is now just a parking lot. But it&#x27;s a &#x27;dark tourism&#x27; attraction anyway</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-03 10:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/epstein-ap-er-250716_1752700981258_hpMain_4x3t_384.jpg" alt="Central witness in Epstein case speaks publicly for 1st time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/epstein-files-central-witness-epstein-case-speaks-publicly/story?id=125196336" target="_blank">Central witness in Epstein case speaks publicly for 1st time</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-03 10:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +91,20 @@
                 <span class="time">2025-09-03 08:18</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/3/putin-kim-meet-in-beijing-kremlin-says-russia-not-plotting-against-us?traffic_source=rss" target="_blank">Putin, Kim meet in Beijing; Kremlin says Russia not plotting against US</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-03 07:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/9/3/xi-jinping-leads-beijing-parade-displaying-chinas-military-power?traffic_source=rss" target="_blank">Xi Jinping leads Beijing parade displaying China’s military power</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-03 06:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/767912/ifa-2025-news-tech-gadgets-products-updates-highlights" target="_blank">IFA 2025: the biggest tech and gadget announcements</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-03 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" alt="Target Promo Codes and Deals: Up to 50% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,15 +148,6 @@
                 <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/the-new-dolby-vision-2-hdr-standard-is-probably-going-to-be-controversial/" target="_blank">The new Dolby Vision 2 HDR standard is probably going to be controversial</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-09-02 22:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67194d3ac6e04fef4b6ba5f1/master/pass/Uncanny-Valley-Podcast-Artwork.jpg" alt="Join Us for WIRED’s “Uncanny Valley” Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-live-show-san-francisco/" target="_blank">Join Us for WIRED’s “Uncanny Valley” Live</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-02 21:22</span>
             </div>
         </div>
 </div>
@@ -330,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 149 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
