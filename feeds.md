@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-03 18:02:18 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-03 19:01:27 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, September 03, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, September 03, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/3/not-a-single-shred-of-evidence-bolsonaro-pushes-for-acquittal-in-brazil?traffic_source=rss" target="_blank">‘Not a single shred of evidence’: Bolsonaro pushes for acquittal in Brazil</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-03 18:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/03/g-s1-86813/trump-national-guard-new-orleans" target="_blank">President Trump floats deploying National Guard troops to New Orleans</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-03 18:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8699/live/79ceb060-88cc-11f0-9cf6-cbf3e73ce2b9.png" alt="Rayner admits underpaying tax on Hove flat as PM backs her" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,24 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/3/watch-uk-police-arrest-palestine-action-supporter-for-planning-protest?traffic_source=rss" target="_blank">Watch UK police arrest Palestine Action supporter for planning protest</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-03 16:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8699/live/79ceb060-88cc-11f0-9cf6-cbf3e73ce2b9.png" alt="Rayner admits underpaying tax on £800,000 Hove flat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy50446rq73o?at_medium=RSS&at_campaign=rss" target="_blank">Rayner admits underpaying tax on £800,000 Hove flat</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-03 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1756914159465_now_brk_lisa_phillips_epstein_250903_1920x1080-jm18c3.jpg" alt="&#x27;We know the names&#x27;: Epstein accusers will compile their own client list" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/epstein-accusers-will-compile-their-own-client-list-246551109846" target="_blank">&#x27;We know the names&#x27;: Epstein accusers will compile their own client list</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-03 15:42</span>
             </div>
         </div>
 </div>
@@ -162,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/microsoft/BASIC-M6502" target="_blank">Microsoft Releases Historic 6502 Basic</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-03 17:28</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/warp.jpg?resize=406%2C232&amp;ssl=1" alt="Warp (AI Coding Tool) Adds New ‘Prompt to Production’ Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -206,15 +217,6 @@
                 <span class="time">2025-09-03 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://zed.dev/blog/claude-code-via-acp" target="_blank">Claude Code: Now in Beta in Zed</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-03 15:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,11 +237,29 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/ipadinstagram-scaled.webp?fit=2560%2C1403&amp;quality=55&amp;ssl=1" alt="After 15 years and 6 months, Instagram finally has an iPad app" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/03/after-15-years-and-6-months-instagram-finally-has-an-ipad-app.html" target="_blank">After 15 years and 6 months, Instagram finally has an iPad app</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-03 18:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/anthropic.jpg" alt="Anthropic Rakes in $183B Valuation as It Takes on Musk, Altman" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/anthropic-ai-funding-xai-openai-2000652782" target="_blank">Anthropic Rakes in $183B Valuation as It Takes on Musk, Altman</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-03 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K481B3Z3J00GDTGGF5ZRCHJ4/hero-image.png" alt="Google Is Making It Easier to Share Audio Across Multiple Headphones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/google-is-rolling-out-aurcast-support-to-more-devices?utm_medium=RSS" target="_blank">Google Is Making It Easier to Share Audio Across Multiple Headphones</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-03 18:00</span>
             </div>
         </div>
@@ -268,24 +288,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/googles-latest-android-update-fixes-84-vulnerabilities?utm_medium=RSS" target="_blank">Google&#x27;s Latest Android Update Fixes 84 Vulnerabilities</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-03 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/fft.jpg" alt="6 Things We Just Learned About The Final Fantasy Tactics Remaster" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/final-fantasy-tactics-ivalice-remaster-cloud-wiegraf-cid-sequel-2000622717" target="_blank">6 Things We Just Learned About The Final Fantasy Tactics Remaster</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-03 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4835HR8NBPN8A5VPSSDMXX3/hero-image.png" alt="These Labor Day Sales on Smartwatches Are Still Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/labor-day-smartwatch-sales-still-live?utm_medium=RSS" target="_blank">These Labor Day Sales on Smartwatches Are Still Live</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-03 16:30</span>
             </div>
         </div>
 </div>
@@ -325,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 155 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
