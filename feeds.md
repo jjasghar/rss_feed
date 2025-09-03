@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-03 02:24:54 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-03 03:09:20 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 32 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, September 03, 2025 - 02:25 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, September 03, 2025 - 03:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/3/us-open-carlos-alcaraz-cruises-into-2025-semifinals?traffic_source=rss" target="_blank">US Open: Carlos Alcaraz cruises into 2025 semifinals</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-03 02:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,21 +93,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7f2/live/7a4a1370-8833-11f0-9e1d-1123d58de035.png" alt="Government unable to calculate Afghan data breach cost, watchdog says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250902-donald-trump-bruise-hand-01-cs-4dc4ba.jpg" alt="Trump, who questioned his opponents&#x27; health, rebuffs rumors about his own" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cm2k25dx1z3o?at_medium=RSS&at_campaign=rss" target="_blank">Government unable to calculate Afghan data breach cost, watchdog says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-02 23:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/02/nx-s1-5525984/venezuela-trump-drugs-caribbean" target="_blank">Trump confirms U.S. strike on alleged Venezuelan drug boat</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-02 23:07</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-rebuffs-health-speculation-golf-hand-bruise-biden-clinton-rcna228542" target="_blank">Trump, who questioned his opponents&#x27; health, rebuffs rumors about his own</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-02 23:57</span>
             </div>
         </div>
 </div>
@@ -323,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 02:25 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 03:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
