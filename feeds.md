@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-03 12:02:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-03 13:08:05 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, September 03, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, September 03, 2025 - 13:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/3/man-jailed-in-spain-for-racially-abusing-real-madrids-vinicius?traffic_source=rss" target="_blank">Man jailed for racial abuse of Ghana’s Williams in La Liga</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-03 12:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +99,20 @@
                 <span class="time">2025-09-03 09:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65c3/live/033e7960-88a6-11f0-8b3f-67b2e7d47fb0.jpg" alt="What new weapons on show at huge parade say about China&#x27;s military strength" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cjr1reyr059o?at_medium=RSS&at_campaign=rss" target="_blank">What new weapons on show at huge parade say about China&#x27;s military strength</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-03 09:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/03/college-social-app-fizz-expands-into-grocery-delivery/" target="_blank">College social app Fizz expands into grocery delivery</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-03 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68b7a05338f50886a8a2b738/master/pass/Review-%20ReMarkable%20Paper%20Pro%20Move.png" alt="ReMarkable Paper Pro Move Review: A Small Yet Mighty Digital Notebook" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +158,20 @@
                 <span class="time">2025-09-03 02:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/769738/google-doj-antitrust-remedies-ruling-critics" target="_blank">Google critics think the search remedies ruling is a total whiff</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-03 00:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/itagyba/dapper-no-net-simplicidade-e-performance-no-acesso-a-dados-3c1" target="_blank">Dapper no .NET: simplicidade e performance no acesso a dados</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-03 13:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/presentations/architecture-scale-change/en/mediumimage/matthew-clark-ian-arundale-medium-1756282334948.jpg" alt="Presentation: Architecture in the Lead: Scaling Today, Shaping Tomorrow" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,13 +217,18 @@
                 <span class="time">2025-09-03 08:00</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmb0p8ewpudk9b9el301j.jpg" alt="You are 1 post away..." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/masterdevsabith/you-are-1-post-away-1kdf" target="_blank">You are 1 post away...</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-03 07:53</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/indirect-prompt-injection-attacks-against-llm-assistants.html" target="_blank">Indirect Prompt Injection Attacks Against LLM Assistants</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-09-03 11:00</span>
             </div>
         </div>
 </div>
@@ -223,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K438ZV25MYM40RNZ97JDETSE/hero-image.png" alt="Four Ways These Houseplants Can Improve Your Quality of Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/home/most-useful-houseplants-you-can-grow?utm_medium=RSS" target="_blank">Four Ways These Houseplants Can Improve Your Quality of Life</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-03 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/JBLBoomBox4.jpg" alt="JBL’s Boombox 4 Speaker Can Pump Out Less Distorted Sound Thanks to AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +290,6 @@
                 <span class="time">2025-09-02 21:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2023/05/cf237e61f7b88b8e03f0b3ac3b3e55fd.jpg" alt="Google Won’t Have to Sell Chrome Browser After All (But There’s a Catch)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/google-wont-have-to-sell-chrome-browser-after-all-but-theres-a-catch-2000652304" target="_blank">Google Won’t Have to Sell Chrome Browser After All (But There’s a Catch)</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-02 21:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 152 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 13:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
