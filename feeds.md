@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-03 05:01:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-03 06:02:04 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, September 03, 2025 - 05:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, September 03, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +51,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/9/3/live-europes-response-on-gaza-a-failure-as-israel-continues-attacks?traffic_source=rss" target="_blank">LIVE: Europe’s response on Gaza a ‘failure’ as Israel continues attacks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-03 05:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/3/hundreds-of-us-military-lawyers-to-serve-as-temporary-immigration-judges?traffic_source=rss" target="_blank">Hundreds of US military lawyers to serve as temporary immigration judges</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-03 04:21</span>
@@ -61,6 +72,15 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/03/nx-s1-5524923/china-xi-parade-putin-kim" target="_blank">China&#x27;s Xi displays military might, global ambitions at elaborate parade</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-03 04:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/031c/live/5c166c90-8875-11f0-9cf6-cbf3e73ce2b9.png" alt="Trump says 11 killed in US strike on drug-carrying vessel from Venezuela" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cpwywjgynyxo?at_medium=RSS&at_campaign=rss" target="_blank">Trump says 11 killed in US strike on drug-carrying vessel from Venezuela</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-03 03:26</span>
             </div>
         </div>
 <div class="story">
@@ -81,29 +101,20 @@
                 <span class="time">2025-09-03 01:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/3/us-house-committee-releases-over-33000-pages-of-epstein-related-records?traffic_source=rss" target="_blank">US House committee releases over 33,000 pages of Epstein-related records</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-03 01:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Jeffrey-Epstein-ap-gmh-240104_1704386953481_hpMain_4x3t_384.jpg" alt="Thousands of Epstein-related records from DOJ released, Oversight Committee says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/epstein-files-release-doj-oversight-committee/story?id=125198408" target="_blank">Thousands of Epstein-related records from DOJ released, Oversight Committee says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-03 00:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2233411587-500x500.jpg" alt="Trump’s move of SPACECOM to Alabama has little to do with national security" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/09/trumps-move-of-spacecom-to-alabama-has-little-to-do-with-national-security/" target="_blank">Trump’s move of SPACECOM to Alabama has little to do with national security</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-03 02:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +160,20 @@
                 <span class="time">2025-09-02 21:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/02/waymo-expands-to-denver-and-seattle-with-its-zeekr-made-vans/" target="_blank">Waymo expands to Denver and Seattle with its Zeekr-made vans</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-02 20:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/gamespot-007-first-light-state-of-play-gameplay-deep-dive-livestream-pil" target="_blank">GameSpot: 007 First Light - State of Play Gameplay Deep Dive Livestream</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-03 06:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +215,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/google-antitrust-ruling-firefox-search-deal" target="_blank">Google Can Pay Mozilla for Firefox Search Deal in Antitrust Ruling</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-02 22:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/06/Mozilla-Logo-New.jpg?resize=406%2C232&amp;ssl=1" alt="Google Antitrust Ruling Brings Relief for Mozilla" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/google-antitrust-ruling-firefox-search-deal" target="_blank">Google Antitrust Ruling Brings Relief for Mozilla</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-09-02 22:43</span>
             </div>
@@ -318,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 05:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 146 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
