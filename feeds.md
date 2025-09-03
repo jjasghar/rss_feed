@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-09-03 01:28:55 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-03 02:24:54 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, September 03, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, September 03, 2025 - 02:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,9 +54,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/3/trump-not-concerned-about-china-and-russia-forming-axis-against-us?traffic_source=rss" target="_blank">Trump ‘not concerned’ about China and Russia forming axis against US</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-03 01:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/3/us-house-committee-releases-over-33000-pages-of-epstein-related-records?traffic_source=rss" target="_blank">US House committee releases over 33,000 pages of Epstein-related records</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-03 01:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Jeffrey-Epstein-ap-gmh-240104_1704386953481_hpMain_4x3t_384.jpg" alt="Thousands of Epstein-related records from DOJ released, Oversight Committee says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/epstein-files-release-doj-oversight-committee/story?id=125198408" target="_blank">Thousands of Epstein-related records from DOJ released, Oversight Committee says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-03 00:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba28/live/5186b7c0-882b-11f0-84c8-99de564f0440.jpg" alt="Asylum protests putting police under chronic pressure, chief says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c6272r550w3o?at_medium=RSS&at_campaign=rss" target="_blank">Asylum protests putting police under chronic pressure, chief says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-03 00:06</span>
             </div>
         </div>
 <div class="story">
@@ -74,33 +104,6 @@
                 <span class="time">2025-09-02 23:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1756852517466_now_hallie_trump_pardon_250902_1920x1080-tf3d22.jpg" alt="Epstein survivors call potential Maxwell pardon a &#x27;slap in the face&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/epstein-survivors-call-potential-maxwell-pardon-a-slap-in-the-face-246483013543" target="_blank">Epstein survivors call potential Maxwell pardon a &#x27;slap in the face&#x27;</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-02 22:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/2/children-journalists-among-105-killed-in-israeli-onslaught-in-gaza?traffic_source=rss" target="_blank">Children, journalists among 105 killed in Israeli onslaught in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-02 22:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/02/nx-s1-5478625/google-chrome-doj-antitrust-ruling" target="_blank">In a major antitrust ruling, a judge lets Google keep Chrome but levies other penalties</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-02 21:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -110,9 +113,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/769771/disney-ftc-coppa-settlement-kids-data" target="_blank">Disney will pay $10 million to settle FTC claim it used cartoons to collect YouTube data on kids</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-03 02:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/769738/google-doj-antitrust-remedies-ruling-critics" target="_blank">Google critics think the search remedies ruling is a total whiff</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-03 00:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/40b76700-879a-11f0-bdfd-4721c5ffeede-500x500.jpg" alt="The new Dolby Vision 2 HDR standard is probably going to be controversial" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/the-new-dolby-vision-2-hdr-standard-is-probably-going-to-be-controversial/" target="_blank">The new Dolby Vision 2 HDR standard is probably going to be controversial</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-02 22:52</span>
             </div>
         </div>
 <div class="story">
@@ -142,29 +163,20 @@
                 <span class="time">2025-09-02 20:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/02/judges-side-with-trump-epa-over-canceled-inflation-reduction-act-grants-to-nonprofits/" target="_blank">Judges side with Trump EPA over canceled Inflation Reduction Act grants to nonprofits</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-02 19:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68b709c550cb8fd71b27edd5/master/pass/A251472_large.jpg" alt="The Concept C Is the All-Electric Sports Car Kickstarting Audi’s Design Future" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/audis-concept-c-electric-sports-car-announced/" target="_blank">The Concept C Is the All-Electric Sports Car Kickstarting Audi’s Design Future</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-02 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arvindsundararajan/stealth-mode-for-smart-factories-protecting-machine-code-with-adaptive-ai-4dod" target="_blank">Stealth Mode for Smart Factories: Protecting Machine Code with Adaptive AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-03 02:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +220,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/google-antitrust-ruling-firefox-search-deal" target="_blank">Google Antitrust Ruling Brings Relief for Mozilla</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-09-02 22:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://discuss.python.org/t/wheelnext-wheel-variants-an-update-and-a-request-for-feedback/102383" target="_blank">WheelNext &amp; Wheel Variants: An update, and a request for feedback</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-09-02 22:11</span>
             </div>
         </div>
 </div>
@@ -320,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 02:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
