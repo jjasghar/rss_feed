@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-03 08:02:24 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-09-03 09:01:34 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, September 03, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, September 03, 2025 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +51,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/3/how-much-do-india-russia-china-trade-and-what-goods-do-they-buy?traffic_source=rss" target="_blank">How much do India, Russia, China trade and what goods do they buy?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-03 08:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f84/live/7fbb2180-888a-11f0-84c8-99de564f0440.jpg" alt="Energy drinks to be banned for under-16s in England" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c707074qdnko?at_medium=RSS&at_campaign=rss" target="_blank">Energy drinks to be banned for under-16s in England</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-03 08:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/3/putin-kim-meet-in-beijing-kremlin-says-russia-not-plotting-against-us?traffic_source=rss" target="_blank">Putin, Kim meet in Beijing; Kremlin says Russia not plotting against US</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-03 07:42</span>
@@ -60,39 +84,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90a2/live/98d1e900-889a-11f0-84c8-99de564f0440.jpg" alt="&#x27;A clear message to Trump&#x27;: BBC correspondents react to China&#x27;s military parade" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c7545p2px5no?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;A clear message to Trump&#x27;: BBC correspondents react to China&#x27;s military parade</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-03 06:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/529b/live/c48a7890-8891-11f0-84c8-99de564f0440.jpg" alt="&#x27;Trump&#x27;s out, Xi&#x27;s in&#x27;: BBC correspondents react to China&#x27;s military parade" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c7545p2px5no?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Trump&#x27;s out, Xi&#x27;s in&#x27;: BBC correspondents react to China&#x27;s military parade</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-03 06:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/9/3/live-europes-response-on-gaza-a-failure-as-israel-continues-attacks?traffic_source=rss" target="_blank">LIVE: Europe’s response on Gaza a ‘failure’ as Israel continues attacks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-03 05:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/3/hundreds-of-us-military-lawyers-to-serve-as-temporary-immigration-judges?traffic_source=rss" target="_blank">Hundreds of US military lawyers to serve as temporary immigration judges</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-03 04:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/03/nx-s1-5524923/china-xi-parade-putin-kim" target="_blank">China&#x27;s Xi displays military might, global ambitions at elaborate parade</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-03 04:20</span>
             </div>
         </div>
 </div>
@@ -160,6 +166,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kevi019/discovered-how-easy-can-traceability-in-test-become-with-good-reporting-tools-418m" target="_blank">Discovered how easy can traceability in test become with smart(not just good) reporting tools.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-03 08:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/09/aws-eks-kubernetes-ultrascale/en/headerimage/generatedHeaderImage-1756805383246.jpg" alt="Amazon EKS Enables Ultra-Scale AI/ML Workloads with Support for 100K Nodes per Cluster" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/aws-eks-kubernetes-ultrascale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Amazon EKS Enables Ultra-Scale AI/ML Workloads with Support for 100K Nodes per Cluster</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-03 08:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmb0p8ewpudk9b9el301j.jpg" alt="You are 1 post away..." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -195,24 +219,6 @@
                 <span class="time">2025-09-03 06:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arvindsundararajan/stealth-mode-for-smart-factories-protecting-machine-code-with-adaptive-ai-4dod" target="_blank">Stealth Mode for Smart Factories: Protecting Machine Code with Adaptive AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-03 02:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/ollama-0.11.9-More-Performance" target="_blank">ollama 0.11.9 Introducing A Nice CPU/GPU Performance Optimization</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-03 00:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/JBLBoomBox4.jpg" alt="JBL’s Boombox 4 Speaker Can Pump Out Less Distorted Sound Thanks to AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/jbls-boombox-4-speaker-can-pump-out-less-distorted-sound-thanks-to-ai-2000651999" target="_blank">JBL’s Boombox 4 Speaker Can Pump Out Less Distorted Sound Thanks to AI</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-03 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/motion-sick-woman.jpg" alt="Motion Sickness Sufferers, Rejoice: Scientists Say This Might Actually Help" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,20 +292,20 @@
                 <span class="time">2025-09-02 21:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/betty-boop.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="Watch percussionist Josh Harmon join &quot;musical icon&quot; Jon Batiste to create vintage cartoon sound effects!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/02/watch-percussionist-josh-harmon-join-musical-icon-jon-batiste-to-create-vintage-cartoon-sound-effects.html" target="_blank">Watch percussionist Josh Harmon join &quot;musical icon&quot; Jon Batiste to create vintage cartoon sound effects!</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-02 21:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/09/03/habitats" target="_blank">Habitats</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-09-03 07:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5649.png" alt="In Which Yay Is Killed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -314,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
