@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-03 04:02:07 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-03 05:01:45 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 0 new posts out of 30 feeds processed -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, September 03, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, September 03, 2025 - 05:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/3/hundreds-of-us-military-lawyers-to-serve-as-temporary-immigration-judges?traffic_source=rss" target="_blank">Hundreds of US military lawyers to serve as temporary immigration judges</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-03 04:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/03/nx-s1-5524923/china-xi-parade-putin-kim" target="_blank">China&#x27;s Xi displays military might, global ambitions at elaborate parade</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-03 04:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,24 +97,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/epstein-files-release-doj-oversight-committee/story?id=125198408" target="_blank">Thousands of Epstein-related records from DOJ released, Oversight Committee says</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-03 00:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba28/live/5186b7c0-882b-11f0-84c8-99de564f0440.jpg" alt="Asylum protests putting police under chronic pressure, chief says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c6272r550w3o?at_medium=RSS&at_campaign=rss" target="_blank">Asylum protests putting police under chronic pressure, chief says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-03 00:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250902-donald-trump-bruise-hand-01-cs-4dc4ba.jpg" alt="Trump, who questioned his opponents&#x27; health, rebuffs rumors about his own" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-rebuffs-health-speculation-golf-hand-bruise-biden-clinton-rcna228542" target="_blank">Trump, who questioned his opponents&#x27; health, rebuffs rumors about his own</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-02 23:57</span>
             </div>
         </div>
 </div>
@@ -322,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 05:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
