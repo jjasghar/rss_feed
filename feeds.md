@@ -1,35 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-09-03 13:08:05 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-03 14:01:47 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Generated 14 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, September 03, 2025 - 13:08 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, September 03, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +53,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b4d/live/1a8eacf0-884e-11f0-a10c-1da1b2e7987b.jpg" alt="Budget to be held on 26 November, Reeves confirms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c7545yz0171o?at_medium=RSS&at_campaign=rss" target="_blank">Budget to be held on 26 November, Reeves confirms</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-03 13:09</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d89/live/7e740a70-88a9-11f0-84c8-99de564f0440.jpg" alt="Xi, Putin and Kim show united front at huge Chinese military parade" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp8z83np4xjo?at_medium=RSS&at_campaign=rss" target="_blank">Xi, Putin and Kim show united front at huge Chinese military parade</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-03 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2025/sep/03/trumps-aid-cuts-in-east-africa-led-to-unwanted-abortions-and-babies-being-born-with-hiv-report" target="_blank">Trump’s aid cuts in east Africa led to unwanted abortion and babies being born with HIV – report</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-09-03 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,38 +107,38 @@
                 <span class="time">2025-09-03 11:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/planet-money/2025/09/03/g-s1-86572/hitlers-bunker-is-now-just-a-parking-lot-but-its-a-dark-tourism-attraction-anyway" target="_blank">Hitler&#x27;s bunker is now just a parking lot. But it&#x27;s a &#x27;dark tourism&#x27; attraction anyway</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-03 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/epstein-ap-er-250716_1752700981258_hpMain_4x3t_384.jpg" alt="Central witness in Epstein case speaks publicly for 1st time" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/epstein-files-central-witness-epstein-case-speaks-publicly/story?id=125196336" target="_blank">Central witness in Epstein case speaks publicly for 1st time</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-03 10:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/3/trump-says-us-strike-targeted-venezuelan-drug-smuggling-boat-2?traffic_source=rss" target="_blank">Trump says US strike targeted Venezuelan drug smuggling boat</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-03 09:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/03/techcrunch-disrupt-2025-adds-new-leading-voices-to-the-builders-stage-agenda/" target="_blank">TechCrunch Disrupt 2025 finalizes the Builders Stage agenda with top scaling voices</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-03 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/15-EXP-15-Detail-500x500.jpg" alt="Beyond technology? How Bentley is reacting to the 21st century." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/features/2025/09/beyond-technology-how-bentley-is-reacting-to-the-21st-century/" target="_blank">Beyond technology? How Bentley is reacting to the 21st century.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-03 13:36</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68b798f29f479e9a393cddf0/master/pass/Google%20Pixel%20Advanced%20Protection%20SOURCE%20Julian%20Chokkattu.jpg" alt="How to Switch From iPhone to Android (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-switch-from-iphone-to-android/" target="_blank">How to Switch From iPhone to Android (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-03 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,33 +166,6 @@
                 <span class="time">2025-09-03 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" alt="Target Promo Codes and Deals: Up to 50% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/target-promo-code/" target="_blank">Target Promo Codes and Deals: Up to 50% Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-03 05:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2233411587-500x500.jpg" alt="Trump’s move of SPACECOM to Alabama has little to do with national security" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/09/trumps-move-of-spacecom-to-alabama-has-little-to-do-with-national-security/" target="_blank">Trump’s move of SPACECOM to Alabama has little to do with national security</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-03 02:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/769771/disney-ftc-coppa-settlement-kids-data" target="_blank">Disney will pay $10 million to settle FTC claim it used cartoons to collect YouTube data on kids</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-03 02:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,9 +175,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/itay_from_lawrence/the-67-second-opentelemetry-problem-e0b" target="_blank">The 67-Second OpenTelemetry Problem</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-03 14:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/itagyba/dapper-no-net-simplicidade-e-performance-no-acesso-a-dados-3c1" target="_blank">Dapper no .NET: simplicidade e performance no acesso a dados</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-03 13:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/intel-arc-pro-b50-linux" target="_blank">Intel Arc Pro B50 Linux Performance Benchmarks</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-03 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -185,36 +211,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager" target="_blank">Tencent Open Sourced a 3D World Model</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-03 11:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.readonlymemo.com/this-is-the-first-the-16-year-odyssey-of-time-money-wrong-turns-and-frustration-it-took-to-finally-emulate-the-pioneer-laseractive/" target="_blank">The 16-year odyssey it took to emulate the Pioneer LaserActive</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-09-03 10:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/54-of-european-enterprises-want-long-term-open-source-support-how-ubuntu-pro-support-delivers" target="_blank">54% of European enterprises want long term open source support: how Ubuntu Pro + Support delivers</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-09-03 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kevi019/discovered-how-easy-can-traceability-in-test-become-with-good-reporting-tools-418m" target="_blank">Discovered how easy can traceability in test become with smart(not just good) reporting tools.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-03 08:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/aws-eks-kubernetes-ultrascale/en/headerimage/generatedHeaderImage-1756805383246.jpg" alt="Amazon EKS Enables Ultra-Scale AI/ML Workloads with Support for 100K Nodes per Cluster" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/aws-eks-kubernetes-ultrascale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Amazon EKS Enables Ultra-Scale AI/ML Workloads with Support for 100K Nodes per Cluster</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-03 08:00</span>
             </div>
         </div>
 </div>
@@ -237,6 +245,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/SamsungGalaxyTabA9.jpg" alt="Samsung Galaxy Tab A9+ Hits Clearance-Level Pricing Ahead of New S11 Tablet Launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/samsung-galaxy-tab-a9-hits-clearance-level-pricing-ahead-of-new-s11-tablet-launch-2000622426" target="_blank">Samsung Galaxy Tab A9+ Hits Clearance-Level Pricing Ahead of New S11 Tablet Launch</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-03 13:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/11/ubisoft-champions-tactics-e1730549088861.png?fit=1907%2C1169&amp;quality=55&amp;ssl=1" alt="Ubisoft&#x27;s NFT game isn&#x27;t dead yet, but it&#x27;s sure close" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/03/ubisofts-nft-game-isnt-dead-yet-but-its-sure-close.html" target="_blank">Ubisoft&#x27;s NFT game isn&#x27;t dead yet, but it&#x27;s sure close</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-03 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K46HGB1R3T53AWVWXKGEWW7K/hero-image.jpg" alt="That Docusign Email From Apple Pay Is a Scam" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/docusign-apple-pay-scam?utm_medium=RSS" target="_blank">That Docusign Email From Apple Pay Is a Scam</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-03 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/result_Gambit.jpg" alt="Channing Tatum Says His Gambit Will ‘Keep the Drama’ in ‘Avengers: Doomsday’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/channing-tatum-says-his-gambit-will-keep-the-drama-in-avengers-doomsday-2000652559" target="_blank">Channing Tatum Says His Gambit Will ‘Keep the Drama’ in ‘Avengers: Doomsday’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-03 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K438ZV25MYM40RNZ97JDETSE/hero-image.png" alt="Four Ways These Houseplants Can Improve Your Quality of Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -252,42 +296,6 @@
                 <span class="title"><a href="https://gizmodo.com/jbls-boombox-4-speaker-can-pump-out-less-distorted-sound-thanks-to-ai-2000651999" target="_blank">JBL’s Boombox 4 Speaker Can Pump Out Less Distorted Sound Thanks to AI</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-03 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/motion-sick-woman.jpg" alt="Motion Sickness Sufferers, Rejoice: Scientists Say This Might Actually Help" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/motion-sickness-sufferers-rejoice-scientists-say-this-might-actually-help-2000651372" target="_blank">Motion Sickness Sufferers, Rejoice: Scientists Say This Might Actually Help</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-03 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K3GAB0EP5F86BMRPCVSHSSD1/hero-image.png" alt="This Budget ASUS Chromebook Is on Sale for Just $190 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/asus-chromebook-stacksocial-sale?utm_medium=RSS" target="_blank">This Budget ASUS Chromebook Is on Sale for Just $190 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-02 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/KPop-Demon-Hunters.jpg" alt="‘KPop Demon Hunters’ Songwriter on Crafting the Movie’s Breakout Hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/kpop-demon-hunters-songwriter-on-crafting-the-movies-breakout-hit-2000652036" target="_blank">‘KPop Demon Hunters’ Songwriter on Crafting the Movie’s Breakout Hit</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-02 22:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/heldldver.jpg" alt="Helldivers 2′s New Very Scary Mega Worm Has Been Killed, But It Took 10 Nukes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/helldivers-2-hive-lord-mega-worm-killed-update-nukes-ps5-xbox-2000622473" target="_blank">Helldivers 2′s New Very Scary Mega Worm Has Been Killed, But It Took 10 Nukes</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-02 21:57</span>
             </div>
         </div>
 </div>
@@ -327,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 13:08 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 156 | 📡 Total Sources: 41 | 📸 With Images: 260 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
