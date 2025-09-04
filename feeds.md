@@ -1,30 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-04 18:02:18 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-04 19:01:31 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 22 feeds processed -->
+<!-- Generated 13 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, September 04, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, September 04, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/4/hundreds-of-bodies-pulled-from-darfur-landslides-as-many-remain-trapped?traffic_source=rss" target="_blank">Hundreds of bodies pulled from Darfur landslides as many remain trapped</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-04 18:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +103,38 @@
                 <span class="time">2025-09-04 15:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1756998494480_now_brk_cassidy_kennedy_vaccines_250904_1920x1080-l22qh0.jpg" alt="Sen. Cassidy grills Kennedy on vaccine restrictions and skepticism" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/sen-cassidy-grills-kennedy-on-vaccine-restrictions-and-skepticism-246699589769" target="_blank">Sen. Cassidy grills Kennedy on vaccine restrictions and skepticism</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-04 15:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/04/waymo-cleared-to-offer-robotaxi-rides-at-san-jose-airport/" target="_blank">Waymo cleared to offer robotaxi rides at San Jose airport</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-04 18:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68b9d36b0db2f5404ad44255/master/pass/GettyImages-2203648497.jpg" alt="Neuralink’s Bid to Trademark ‘Telepathy’ and ‘Telekinesis’ Faces Legal Issues" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uspto-denies-neuralinks-applications-for-telepathy-telekinesis-marks/" target="_blank">Neuralink’s Bid to Trademark ‘Telepathy’ and ‘Telekinesis’ Faces Legal Issues</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-04 18:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale" target="_blank">Here are the best robot vacuum deals available right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-04 18:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -126,38 +162,29 @@
                 <span class="time">2025-09-04 16:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68b9b74debac84a11c241098/master/pass/Silksong_Promo_03.jpg" alt="‘Hollow Knight: Silksong’ Is Already Causing Online Gaming Stores to Crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/hollow-knight-silksong-is-already-causing-online-gaming-stores-to-crash/" target="_blank">‘Hollow Knight: Silksong’ Is Already Causing Online Gaming Stores to Crash</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-04 16:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/766515/xgimi-bright-4k-projector-targets-daytime-gamers" target="_blank">Xgimi’s incredibly bright 4K projector targets daytime gamers</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-04 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/04/google-photos-adds-ai-video-generation-with-veo-3/" target="_blank">Google Photos upgrades its image-to-video feature with Veo 3</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-04 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ahmedraza_fyntune/memory-management-in-php-m10" target="_blank">Memory Management in PHP</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-04 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/02/miracle-wm.jpg?resize=406%2C232&amp;ssl=1" alt="Miracle-wm 0.7 Released, Completes IPC Implementation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/miracle-wm-0-7-ipc-complete" target="_blank">Miracle-wm 0.7 Released, Completes IPC Implementation</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-04 17:02</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18595820&w=600" alt="CI/CD in the Age of Supply Chain Attacks: How to Secure Every Commit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -188,28 +215,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/implement-an-enterprise-ready-data-lakehouse-architecture-with-spark-and-kyuubi" target="_blank">Implement an enterprise-ready data lakehouse architecture with Spark and Kyuubi</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-09-04 13:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18595111&w=600" alt="Active Learning and Human-in-the-Loop for NLP Annotation and Model Improvement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/active-learning-nlp-annotation" target="_blank">Active Learning and Human-in-the-Loop for NLP Annotation and Model Improvement</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-04 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.henrikkarlsson.xyz/p/attention" target="_blank">Almost anything you give sustained attention to will begin to loop on itself</a></span>
+                <span class="title"><a href="https://tempo.xyz" target="_blank">Stripe Launches L1 Blockchain: Tempo</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2025-09-04 12:29</span>
+                <span class="time">2025-09-04 16:32</span>
             </div>
         </div>
 </div>
@@ -232,6 +241,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/New-Lucy-Guilty-Gear-Strive-Cyberpunk-Edgerunners-Arc-System-Works.jpg" alt="‘Cyberpunk: Edgerunners’ Standout Lucy Was Destined to Join ‘Guilty Gear Strive’ in Its Groundbreaking Collab" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/cyberpunk-edgerunners-standout-lucy-was-destined-to-join-guilty-gear-strive-in-its-groundbreaking-collab-2000653648" target="_blank">‘Cyberpunk: Edgerunners’ Standout Lucy Was Destined to Join ‘Guilty Gear Strive’ in Its Groundbreaking Collab</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-04 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/civilization-7-leaders-charlemag.jpg" alt="Firaxis Lays Off ‘Dozens’ Of Devs After Civilization VII Struggles" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/firaxis-lays-off-dozens-devs-civilization-vii-struggles-cuts-2k-2000623187" target="_blank">Firaxis Lays Off ‘Dozens’ Of Devs After Civilization VII Struggles</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-04 18:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HT35SWM3X1TSMR4VH2DMTYYC/hero-image.png" alt="I Tested Three AI Essay-Writing Tools, and Here’s What I Found" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-ai-tools-to-help-you-write-an-essay?utm_medium=RSS" target="_blank">I Tested Three AI Essay-Writing Tools, and Here’s What I Found</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-04 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/morrisey.jpg?fit=1200%2C848&amp;quality=60&amp;ssl=1" alt="Exhausted by &quot;malicious associations,&quot; Morrissey sells stake in The Smiths" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/04/exhausted-by-malicious-associations-morrissey-sells-stake-in-the-smiths.html" target="_blank">Exhausted by &quot;malicious associations,&quot; Morrissey sells stake in The Smiths</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-04 17:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/BillEvansTrio_HauntedHeart_LP_Product-Shot.jpeg?fit=1200%2C1200&amp;quality=60&amp;ssl=1" alt="Bill Evans Trio&#x27;s lost recordings reveal jazz revolution in progress" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -249,47 +294,20 @@
                 <span class="time">2025-09-04 16:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/pq2.jpg" alt="One Of The Best Puzzle RPGs Of All Time Is Getting A Remaster" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/puzzle-quest-immortal-edition-match-3-remaster-2000623170" target="_blank">One Of The Best Puzzle RPGs Of All Time Is Getting A Remaster</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-04 16:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://boingboing.net/wp-content/uploads/2024/12/david-corenswet-as-superman-in-costume-bleeding-in-the-snow-in-superman-2025-movie-jpg.avif" alt="Superman sequel unceremoniously announced" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/04/superman-sequel-unceremoniously-announced.html" target="_blank">Superman sequel unceremoniously announced</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-04 16:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JXJP0T65E1HBE5SC5MD20ZK7/hero-image.png" alt="These Shokz OpenRun Pro Bone Conduction Headphones Are $55 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/shokz-open-run-pro-bone-conduction-headphones-sale-amazon?utm_medium=RSS" target="_blank">These Shokz OpenRun Pro Bone Conduction Headphones Are $55 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-04 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/SamsungOdysseyG9.jpg" alt="Samsung 49″ Odyssey Curved Gaming Monitor Drops Below Black Friday Pricing, $700 Off Feels Like a Steal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/samsung-49%e2%80%b3-odyssey-curved-gaming-monitor-drops-below-black-friday-pricing-700-off-feels-like-a-steal-2000622791" target="_blank">Samsung 49″ Odyssey Curved Gaming Monitor Drops Below Black Friday Pricing, $700 Off Feels Like a Steal</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-04 15:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/roommates-2/" target="_blank">Roommates</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2025-09-04 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1756846973-20250904.png" alt="Saturday Morning Breakfast Cereal - Technically" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -322,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 281 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 282 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
