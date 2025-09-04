@@ -1,32 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-09-04 10:01:39 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-09-04 11:01:46 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, September 04, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, September 04, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/4/yemeni-bodybuilder-fighting-to-make-international-dream-come-true?traffic_source=rss" target="_blank">Yemeni bodybuilder fighting to make international dream come true</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-04 10:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +90,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2025/9/4/google-told-to-pay-425m-for-breaching-millions-of-users-privacy?traffic_source=rss" target="_blank">Google told to pay $425m for breaching millions of users’ privacy</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-04 06:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/4/peru-court-hands-ex-president-toledo-new-13-year-corruption-sentence?traffic_source=rss" target="_blank">Peru court hands ex-President Toledo new 13-year corruption sentence</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-04 05:13</span>
             </div>
         </div>
 </div>
@@ -161,6 +157,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F10935%2F5e6a0e22-733f-4582-8243-d0dfdbc47bba.png" alt="Wrote a new blog!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rinkiyakedad/wrote-a-new-blog-4d9c" target="_blank">Wrote a new blog!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-04 10:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Miracle-WM-0.7" target="_blank">Miracle-WM 0.7 Brings Mouse/Keyboard Configuration, Enhances Sway IPC Compatibility</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-04 10:44</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3n36r9n0bvmohw9slg3n.png" alt="Why devs need AI-powered e2e test automation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -190,42 +204,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pipishuo/some-problem-about-buildding-lfs-on-debian-with-wsl-5f54" target="_blank">some problem about buildding LFS on Debian with WSL</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-04 03:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="http://etoileos.com/" target="_blank">Étoilé – desktop built on GNUStep</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-04 02:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/02/GNOME-48.jpg?resize=406%2C232&amp;ssl=1" alt="GNOME 49 Restores Ability to Launch X11 Desktop Sessions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/gnome-49-reenables-x11-session-support-in-gdm" target="_blank">GNOME 49 Restores Ability to Launch X11 Desktop Sessions</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-04 02:07</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/indirect-prompt-injection-attacks-against-llm-assistants.html" target="_blank">Indirect Prompt Injection Attacks Against LLM Assistants</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-09-03 11:00</span>
+                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-36/" target="_blank">FOSS Weekly #25.36: Ubuntu 25.10 Features, Top Command, Firefox Survives, Sudo Tips and More</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-09-04 04:47</span>
             </div>
         </div>
 </div>
@@ -233,6 +215,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/ICE.jpg" alt="Here’s How ICE Will Use Israeli Spyware" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ice-israeli-spyware-2000652966" target="_blank">Here’s How ICE Will Use Israeli Spyware</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-04 10:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4650FX7N1F6TKG7RRY5GS5N/hero-image.jpg" alt="All the New Devices Samsung Announced at Its Latest Galaxy Event" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-announces-galaxy-s25-fe?utm_medium=RSS" target="_blank">All the New Devices Samsung Announced at Its Latest Galaxy Event</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-04 09:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/artandsienna.jpg" alt="10 Horror Sequels to Watch on Peacock" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,24 +267,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/best-macbook-air-deals?utm_medium=RSS" target="_blank">The Best Macbook Air Deals You Can Get in 2025</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-03 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/03/914d7ecd1b21baf0b03440017c7e5f03.jpg" alt="Reese Witherspoon Seems to Have Forgotten How Well Her NFT Predictions Went" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/reese-witherspoon-seems-to-have-forgotten-how-well-her-nft-predictions-went-2000653047" target="_blank">Reese Witherspoon Seems to Have Forgotten How Well Her NFT Predictions Went</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-03 20:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/04/turbine.jpeg?fit=1500%2C843&amp;quality=60&amp;ssl=1" alt="Trump launches attack on offshore wind" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/03/trump-launches-attack-on-offshore-wind.html" target="_blank">Trump launches attack on offshore wind</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-03 20:33</span>
             </div>
         </div>
 </div>
@@ -324,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
