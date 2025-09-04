@@ -1,39 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-09-04 19:01:31 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-09-04 20:02:15 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 13 new posts out of 29 feeds processed -->
+<!-- Generated 8 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, September 04, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, September 04, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a58/live/af8c9200-89b0-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Boy, 3, pulled from funicular crash that has shocked Portugal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgrqj7ydr0ko?at_medium=RSS&at_campaign=rss" target="_blank">Boy, 3, pulled from funicular crash that has shocked Portugal</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-04 18:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +93,47 @@
                 <span class="time">2025-09-04 16:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/04/nx-s1-5518311/nfl-season-kicks-off" target="_blank">The NFL is back. Here are 3 big questions as the season kicks off</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-04 15:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/771869/samsung-galaxy-s25-edge-8bitdo-pro-3-controller-deal-sale" target="_blank">Samsung’s ultra-thin Galaxy S25 Edge is $400 off right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-04 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68b9bac42e04f4cedf62a1a0/master/pass/nick-lalota-sec-2199411590.jpg" alt="US Congressman’s Brother Lands No-Bid Contract to Train DHS Snipers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/us-congressmans-brother-lands-no-bid-contract-to-train-dhs-snipers/" target="_blank">US Congressman’s Brother Lands No-Bid Contract to Train DHS Snipers</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-04 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/COVID-Maps-1-500x500.jpg" alt="COVID vaccine locations vanish from Google Maps due to alleged “technical issue”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/covid-vaccine-locations-vanish-from-google-maps-due-to-alleged-technical-issue/" target="_blank">COVID vaccine locations vanish from Google Maps due to alleged “technical issue”</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-04 19:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/04/fashion-retailers-partner-to-offer-personalized-ai-styling-tool-ella/" target="_blank">Fashion retailers partner to offer personalized AI styling tool ‘Ella’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-04 19:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -124,42 +150,6 @@
                 <span class="title"><a href="https://www.wired.com/story/uspto-denies-neuralinks-applications-for-telepathy-telekinesis-marks/" target="_blank">Neuralink’s Bid to Trademark ‘Telepathy’ and ‘Telekinesis’ Faces Legal Issues</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-09-04 18:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/24350561/best-robot-vacuum-mop-irobot-roomba-eufy-roborock-deals-sale" target="_blank">Here are the best robot vacuum deals available right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-04 18:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/04/roelof-botha-the-head-of-sequoia-capital-is-coming-to-techcrunch-disrupt-2025/" target="_blank">Sequoia’s Roelof Botha joins TechCrunch Disrupt 2025 for a 20th anniversary conversation on the future of venture</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-04 17:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/04/3042352/" target="_blank">Threads challenges X by offering free support for up to 10K characters, plus prominent links</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-04 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/05/basic_apple_2-500x500.jpg" alt="Microsoft open-sources Bill Gates’ 6502 BASIC from 1978" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/microsoft-open-sources-bill-gates-6502-basic-from-1978/" target="_blank">Microsoft open-sources Bill Gates’ 6502 BASIC from 1978</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-04 16:56</span>
             </div>
         </div>
 </div>
@@ -241,11 +231,29 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/burner-phone.jpeg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Travel under Trump 2.0: Don&#x27;t cross a U.S. border without a &quot;perfect burner phone&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/04/travel-under-trump-2-0-dont-cross-a-u-s-border-without-a-perfect-burner-phone.html" target="_blank">Travel under Trump 2.0: Don&#x27;t cross a U.S. border without a &quot;perfect burner phone&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-04 19:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/New-Lucy-Guilty-Gear-Strive-Cyberpunk-Edgerunners-Arc-System-Works.jpg" alt="‘Cyberpunk: Edgerunners’ Standout Lucy Was Destined to Join ‘Guilty Gear Strive’ in Its Groundbreaking Collab" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/cyberpunk-edgerunners-standout-lucy-was-destined-to-join-guilty-gear-strive-in-its-groundbreaking-collab-2000653648" target="_blank">‘Cyberpunk: Edgerunners’ Standout Lucy Was Destined to Join ‘Guilty Gear Strive’ in Its Groundbreaking Collab</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-04 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4AYHRYGAQDXKQ7VTXQEHHFK/hero-image.png" alt="This 4K Reolink Outdoor Camera Is $47 Off at Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/reolink-outdoor-camera-amazon-deal?utm_medium=RSS" target="_blank">This 4K Reolink Outdoor Camera Is $47 Off at Amazon</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-04 19:00</span>
             </div>
         </div>
@@ -274,24 +282,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/04/exhausted-by-malicious-associations-morrissey-sells-stake-in-the-smiths.html" target="_blank">Exhausted by &quot;malicious associations,&quot; Morrissey sells stake in The Smiths</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-04 17:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/BillEvansTrio_HauntedHeart_LP_Product-Shot.jpeg?fit=1200%2C1200&amp;quality=60&amp;ssl=1" alt="Bill Evans Trio&#x27;s lost recordings reveal jazz revolution in progress" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/04/bill-evans-trios-lost-recordings-reveal-jazz-revolution-in-progress.html" target="_blank">Bill Evans Trio&#x27;s lost recordings reveal jazz revolution in progress</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-04 17:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/MarsWalker-going-up.jpg" alt="Eufy’s Got a Little Stair-Climbing Mech Suit for Its Robot Vacuums" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/eufys-got-a-little-stair-climbing-mech-suit-for-its-robot-vacuums-2000653284" target="_blank">Eufy’s Got a Little Stair-Climbing Mech Suit for Its Robot Vacuums</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-04 16:58</span>
             </div>
         </div>
 </div>
@@ -326,22 +316,13 @@
                 <span class="time">2025-09-04 00:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/09/03/habitats" target="_blank">Habitats</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-09-03 19:15</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 41 | 📸 With Images: 282 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 284 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
