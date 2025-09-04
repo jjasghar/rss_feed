@@ -1,39 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-04 07:01:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-04 08:02:17 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, September 04, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, September 04, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5b1/live/70a0b090-8955-11f0-84c8-99de564f0440.jpg" alt="Rayner consulted three people before flat purchase" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cqxzj2qq1lno?at_medium=RSS&at_campaign=rss" target="_blank">Rayner consulted three people before flat purchase</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-04 07:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,15 +103,6 @@
                 <span class="time">2025-09-04 02:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250826-donald-trump-ew-558p-ddac78.jpg" alt="Trump appeals to the Supreme Court to preserve his sweeping tariffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/trump-asks-supreme-court-endorse-power-impose-broad-tariffs-rcna228799" target="_blank">Trump appeals to the Supreme Court to preserve his sweeping tariffs</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-04 02:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -112,9 +112,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/768621/belkin-soundform-earbuds-anc-price-launch" target="_blank">Belkin’s cheap wired earbuds give you ANC without battery anxieties</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-04 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/769300/aukey-magfusion-ark-wireless-charger-qi2-2" target="_blank">Aukey&amp;#8217;s new wireless charger gives you more freedom through the power of the orbs</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-04 06:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" alt="Paramount Plus Coupon Codes and Deals: Up to 50% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/paramount-plus-coupon-code/" target="_blank">Paramount Plus Coupon Codes and Deals: Up to 50% Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-04 05:00</span>
             </div>
         </div>
 <div class="story">
@@ -144,24 +162,6 @@
                 <span class="time">2025-09-03 22:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/voyager_screenshot-500x500.jpg" alt="New AI model turns photos into explorable 3D worlds, with caveats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/09/new-ai-model-turns-photos-into-explorable-3d-worlds-with-caveats/" target="_blank">New AI model turns photos into explorable 3D worlds, with caveats</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-03 21:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68b89a36c384e6e28053db52/master/pass/porn-malware-sec-5988-040947.jpg" alt="Automated Sextortion Spyware Takes Webcam Pics of Victims Watching Porn" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/stealerium-infostealer-porn-sextortion/" target="_blank">Automated Sextortion Spyware Takes Webcam Pics of Victims Watching Porn</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-03 21:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +174,15 @@
                 <span class="title"><a href="https://dev.to/cutieyunnytech/google-ai-studio-multimodal-challenge-whispurr-the-ghost-diner-2kch" target="_blank">[Google AI Studio Multimodal Challenge] Whispurr the ghost diner</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-04 06:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://pudding.cool/2025/06/hello-stranger/" target="_blank">30 minutes with a stranger</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-04 05:56</span>
             </div>
         </div>
 <div class="story">
@@ -210,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/einarcesar/implementing-a-scalable-message-buffer-for-natural-ai-conversations-in-n8n-poj" target="_blank">Implementing a Scalable Message Buffer for Natural AI Conversations in n8n</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-04 02:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ghotet/set-up-your-own-personal-ai-frankenstack-summarized-version-536l" target="_blank">Set Up Your Own Personal AI Frankenstack: Summarized Version</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-04 01:07</span>
             </div>
         </div>
 </div>
@@ -331,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
