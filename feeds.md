@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-03 23:01:37 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-09-04 00:04:25 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, September 03, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, September 04, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -163,6 +161,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/Linux-Mint-22.2.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint 22.2 Released, Available to Download" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/linux-mint-22-2-released-new-features" target="_blank">Linux Mint 22.2 Released, Available to Download</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-03 22:40</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -207,15 +214,6 @@
                 <span class="time">2025-09-03 19:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/microsoft/BASIC-M6502" target="_blank">Microsoft Releases Historic 6502 Basic</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-03 17:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/artandsienna.jpg" alt="10 Horror Sequels to Watch on Peacock" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/10-horror-sequels-to-watch-on-peacock-2000652078" target="_blank">10 Horror Sequels to Watch on Peacock</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-03 22:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/falloutai.jpg" alt="Leaked Fallout Merch Appears To Use AI-Generated Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,30 +270,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/04/turbine.jpeg?fit=1500%2C843&amp;quality=60&amp;ssl=1" alt="Trump launches attack on offshore wind" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/03/trump-launches-attack-on-offshore-wind.html" target="_blank">Trump launches attack on offshore wind</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-03 20:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Kash_Patel_52588173144.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="FBI Director bought Krispy Kreme shares while it faces an FBI probe" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2025/09/03/krispy-kreme-data-breach.html" target="_blank">FBI Director bought Krispy Kreme shares while it faces an FBI probe</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-03 20:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2015/09/vaccine.jpg?fit=600%2C599&amp;quality=60&amp;ssl=1" alt="Florida to begin exporting infectious diseases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/03/florida-to-begin-exporting-infectious-diseases.html" target="_blank">Florida to begin exporting infectious diseases</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-03 19:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/Bond-package.jpg" alt="New 007 Game Out March 2026, $300 Version Comes With Golden Gun" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/007-first-light-james-bond-new-game-ps5-gameplay-300-golden-gun-ioi-2000622752" target="_blank">New 007 Game Out March 2026, $300 Version Comes With Golden Gun</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-03 19:20</span>
             </div>
         </div>
 </div>
@@ -335,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
