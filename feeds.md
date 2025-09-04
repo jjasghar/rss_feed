@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-04 02:25:11 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-04 03:10:01 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, September 04, 2025 - 02:25 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, September 04, 2025 - 03:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,12 +48,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19a4/live/8d8869f0-8928-11f0-b391-6936825093bd.jpg" alt="Lisbon in shock after funicular crash leaves 15 dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1jzlgj915no?at_medium=RSS&at_campaign=rss" target="_blank">Lisbon in shock after funicular crash leaves 15 dead</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-04 02:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250826-donald-trump-ew-558p-ddac78.jpg" alt="Trump appeals to the Supreme Court to preserve his sweeping tariffs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/trump-asks-supreme-court-endorse-power-impose-broad-tariffs-rcna228799" target="_blank">Trump appeals to the Supreme Court to preserve his sweeping tariffs</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-04 02:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-nawrocki-08-gty-jef-250903_1756915869799_hpMain_4x3t_384.jpg" alt="Trump calls Epstein files &#x27;irrelevant&#x27; as Massie petition picks up steam" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/Politics/trump-calls-epstein-files-irrelevant-push-release-gains/story?id=125225706" target="_blank">Trump calls Epstein files &#x27;irrelevant&#x27; as Massie petition picks up steam</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-04 00:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/03/nx-s1-5527314/trump-harvard-court-ruling-funding-boston" target="_blank">Trump administration illegally froze billions in Harvard funds, judge rules</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-03 23:52</span>
             </div>
         </div>
 <div class="story">
@@ -66,33 +99,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/power-transparent-epstein-survivors-call-trump-congress-release/story?id=125221825" target="_blank">Epstein survivors call on Trump, Congress to release records</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-03 21:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/9/3/how-powerful-is-chinas?traffic_source=rss" target="_blank">How powerful is China’s military?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-03 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-05/250502-harvard-university-mn-0830-e53159.jpg" alt="Judge orders Trump administration to unfreeze nearly $2.2 billion in federal grants to Harvard" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/judge-orders-trump-administration-unfreeze-nearly-22-billion-federal-g-rcna228926" target="_blank">Judge orders Trump administration to unfreeze nearly $2.2 billion in federal grants to Harvard</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-03 20:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/3/the-voice-of-hind-rajab-gets-record-23-minute-ovation-at-venice-premiere?traffic_source=rss" target="_blank">The Voice of Hind Rajab gets record 23-minute ovation at Venice premiere</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-03 20:42</span>
             </div>
         </div>
 </div>
@@ -292,6 +298,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5650.png" alt="The Somnium Files" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5650" target="_blank">The Somnium Files</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-09-04 00:55</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -323,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 02:25 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 03:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
