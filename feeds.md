@@ -1,29 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-09-04 20:02:15 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-04 21:01:37 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 21 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, September 04, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, September 04, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +115,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/771834/best-apple-watch-deals" target="_blank">Here are the best Apple Watch deals available right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-04 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/tech/771869/samsung-galaxy-s25-edge-8bitdo-pro-3-controller-deal-sale" target="_blank">Samsung’s ultra-thin Galaxy S25 Edge is $400 off right now</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-04 19:55</span>
@@ -114,6 +136,15 @@
                 <span class="title"><a href="https://www.wired.com/story/us-congressmans-brother-lands-no-bid-contract-to-train-dhs-snipers/" target="_blank">US Congressman’s Brother Lands No-Bid Contract to Train DHS Snipers</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-09-04 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/COVID-Maps-1-500x500.jpg" alt="COVID vaccine locations vanish from Google Maps due to supposed “technical issue”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/covid-vaccine-locations-vanish-from-google-maps-due-to-alleged-technical-issue/" target="_blank">COVID vaccine locations vanish from Google Maps due to supposed “technical issue”</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-04 19:47</span>
             </div>
         </div>
 <div class="story">
@@ -134,29 +165,29 @@
                 <span class="time">2025-09-04 19:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/04/waymo-cleared-to-offer-robotaxi-rides-at-san-jose-airport/" target="_blank">Waymo cleared to offer robotaxi rides at San Jose airport</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-04 18:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68b9d36b0db2f5404ad44255/master/pass/GettyImages-2203648497.jpg" alt="Neuralink’s Bid to Trademark ‘Telepathy’ and ‘Telekinesis’ Faces Legal Issues" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uspto-denies-neuralinks-applications-for-telepathy-telekinesis-marks/" target="_blank">Neuralink’s Bid to Trademark ‘Telepathy’ and ‘Telekinesis’ Faces Legal Issues</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-04 18:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/09/android-studio-narwahl-gemini/en/headerimage/android-studio-narwahl-gemini-1757016496239.jpeg" alt="Android Studio Narwhal Extends Gemini AI Capabilities" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/android-studio-narwahl-gemini/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Android Studio Narwhal Extends Gemini AI Capabilities</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-04 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18596050&w=600" alt="How to Use AI to Enhance Scrum Ceremonies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-enhance-scrum-ceremonies" target="_blank">How to Use AI to Enhance Scrum Ceremonies</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-04 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -164,6 +195,15 @@
                 <span class="title"><a href="https://dev.to/ahmedraza_fyntune/memory-management-in-php-m10" target="_blank">Memory Management in PHP</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-04 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GCC-16-Increasing-LTO-Parts" target="_blank">GCC 16 Increasing Its Default LTO Partition Count Due To Today&#x27;s High Core Count CPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-04 18:44</span>
             </div>
         </div>
 <div class="story">
@@ -182,33 +222,6 @@
                 <span class="title"><a href="https://dzone.com/articles/ci-cd-pipeline-security-supply-chain" target="_blank">CI/CD in the Age of Supply Chain Attacks: How to Secure Every Commit</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-09-04 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw3k1j0ky16t3snf4sb8p.jpg" alt="I&#x27;m building a text based, online TUI-RPG in Rust" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/smallcabbage/im-building-a-text-based-online-tui-rpg-in-rust-4mdc" target="_blank">I&#x27;m building a text based, online TUI-RPG in Rust</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-04 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/9e05c732-5a39-4e77-8741-615136d2031b_420x300.png" alt="The Pulse #145: More clarity on the tech jobs market" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-145-more-clarity-on-the" target="_blank">The Pulse #145: More clarity on the tech jobs market</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-09-04 16:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://tempo.xyz" target="_blank">Stripe Launches L1 Blockchain: Tempo</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-04 16:32</span>
             </div>
         </div>
 </div>
@@ -230,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/avengershed1.jpg" alt="Who Have Marvel’s Avengers Become?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/who-have-marvels-avengers-become-2000642534" target="_blank">Who Have Marvel’s Avengers Become?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-04 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/burner-phone.jpeg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Travel under Trump 2.0: Don&#x27;t cross a U.S. border without a &quot;perfect burner phone&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,15 +297,6 @@
                 <span class="time">2025-09-04 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/morrisey.jpg?fit=1200%2C848&amp;quality=60&amp;ssl=1" alt="Exhausted by &quot;malicious associations,&quot; Morrissey sells stake in The Smiths" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/04/exhausted-by-malicious-associations-morrissey-sells-stake-in-the-smiths.html" target="_blank">Exhausted by &quot;malicious associations,&quot; Morrissey sells stake in The Smiths</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-04 17:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 41 | 📸 With Images: 284 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
