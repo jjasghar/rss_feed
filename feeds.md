@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-04 22:01:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-04 23:01:58 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, September 04, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, September 04, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/kennedy-hearing-17-ap-gmh-250904_1756998419554_hpMain_4x3t_384.jpg" alt="Amid RFK Jr.&#x27;s fiery Senate hearing over CDC turmoil, vaccines, here are 4 takeaways" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/4-takeaways-after-rfk-jrs-fiery-senate-hearing/story?id=125266167" target="_blank">Amid RFK Jr.&#x27;s fiery Senate hearing over CDC turmoil, vaccines, here are 4 takeaways</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-04 22:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/4/us-files-lawsuit-against-california-utility-over-los-angeles-wildfires?traffic_source=rss" target="_blank">US files lawsuit against California utility over Los Angeles wildfires</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-04 22:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/kennedy-hearing-38-rt-gmh-250904_1757005433425_hpMain_4x3t_384.jpg" alt="Both Republicans and Democrats clash with RFK Jr. on vaccines, CDC turmoil" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,29 +101,20 @@
                 <span class="time">2025-09-04 18:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/04/nx-s1-5528663/naomi-osaka-amanda-anisimova-us-open-semifinals-mental-health" target="_blank">A clash of the comebacks: Osaka and Anisimova face off in the U.S. Open semifinals</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-04 17:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd25/live/868b3430-89ae-11f0-84c8-99de564f0440.jpg" alt="PM refuses to say if he will sack Rayner if she broke rules" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce321d2n45vo?at_medium=RSS&at_campaign=rss" target="_blank">PM refuses to say if he will sack Rayner if she broke rules</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-04 17:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/11/encryption-key-recovery-attack-500x500.jpg" alt="The number of mis-issued 1.1.1.1 certificates grows. Here’s the latest." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/information-technology/2025/09/the-number-of-mis-issued-1-1-1-1-certificates-grows-heres-the-latest/" target="_blank">The number of mis-issued 1.1.1.1 certificates grows. Here’s the latest.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-04 22:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +160,20 @@
                 <span class="time">2025-09-04 19:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68b9bac42e04f4cedf62a1a0/master/pass/nick-lalota-sec-2199411590.jpg" alt="US Congressman’s Brother Lands No-Bid Contract to Train DHS Snipers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/us-congressmans-brother-lands-no-bid-contract-to-train-dhs-snipers/" target="_blank">US Congressman’s Brother Lands No-Bid Contract to Train DHS Snipers</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-04 19:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/" target="_blank">What Is the Fourier Transform?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-04 22:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +219,6 @@
                 <span class="time">2025-09-04 18:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/02/miracle-wm.jpg?resize=406%2C232&amp;ssl=1" alt="Miracle-wm 0.7 Released, Completes IPC Implementation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/miracle-wm-0-7-ipc-complete" target="_blank">Miracle-wm 0.7 Released, Completes IPC Implementation</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-04 17:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/Ninja-Gaiden-4.jpg" alt="Ninja Gaiden 4 Deprogrammed My Souls-Pilled Brain And I Loved Every Minute" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ninja-gaiden-4-hands-on-hitstop-difficulty-game-pass-2000623220" target="_blank">Ninja Gaiden 4 Deprogrammed My Souls-Pilled Brain And I Loved Every Minute</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-04 22:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K4B5C104T3JHFM13NVT9E726/hero-image.jpg" alt="Early Access to Perplexity&#x27;s AI Browser Is Expensive, but You Can Try It for Free Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +292,6 @@
                 <span class="time">2025-09-04 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4AYHRYGAQDXKQ7VTXQEHHFK/hero-image.png" alt="This 4K Reolink Outdoor Camera Is $47 Off at Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/reolink-outdoor-camera-amazon-deal?utm_medium=RSS" target="_blank">This 4K Reolink Outdoor Camera Is $47 Off at Amazon</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-04 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
