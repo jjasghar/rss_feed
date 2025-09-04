@@ -1,33 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-04 14:01:57 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-09-04 15:01:54 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, September 04, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, September 04, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/04/1110320559/giorgio-armani-dead" target="_blank">Fashion designer Giorgio Armani, whose name became synonymous with luxury, dies at 91</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-04 14:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/4/italian-fashion-icon-giorgio-armani-passes-away-at-91?traffic_source=rss" target="_blank">Italian fashion icon Giorgio Armani passes away at 91</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-04 14:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -62,39 +79,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-afghanistan-earthquake_7011100.jpg?20250904140129" alt="Taliban reports sharp rise in deaths following Afghan earthquake" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/taliban-reports-sharp-rise-in-death-toll-following-earthquake-in-eastern-afghanistan-as-aid-agencies-issue-warning-13424914" target="_blank">Taliban reports sharp rise in deaths following Afghan earthquake</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-04 12:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2995/live/a2f7f230-8976-11f0-bdd3-7be793555c9e.jpg" alt="&#x27;Out of control&#x27;: Witnesses describe fatal Lisbon funicular crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c20v4g71zrpo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Out of control&#x27;: Witnesses describe fatal Lisbon funicular crash</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-04 11:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e19c/live/726f5ca0-8982-11f0-9764-d92bc24dc2bc.png" alt="Liverpool parade accused pleads not guilty" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwyl38115j2o?at_medium=RSS&at_campaign=rss" target="_blank">Liverpool parade accused pleads not guilty</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-04 11:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/04/g-s1-86935/up-first-newsletter-robert-f-kennedy-jr-cdc-federal-reserve-harvard-university" target="_blank">RFK Jr. faces Senate about CDC chaos. And, Harvard funding freeze ruled illegal</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-04 11:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/4/yemeni-bodybuilder-fighting-to-make-international-dream-come-true?traffic_source=rss" target="_blank">Yemeni bodybuilder fighting to make international dream come true</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-04 10:21</span>
             </div>
         </div>
 </div>
@@ -182,6 +181,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.henrikkarlsson.xyz/p/attention" target="_blank">Almost anything you give sustained attention to will begin to loop on itself</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-04 12:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Rust-Coreutils-Release-Pocket" target="_blank">Ubuntu 25.10 Proceeding With Its Rust Coreutils Transition</a></span>
                 <span class="feed">Phoronix</span>
@@ -206,15 +214,6 @@
                 <span class="time">2025-09-04 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Forganization%2Fprofile_image%2F10935%2F5e6a0e22-733f-4582-8243-d0dfdbc47bba.png" alt="Wrote a new blog!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rinkiyakedad/wrote-a-new-blog-4d9c" target="_blank">Wrote a new blog!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-04 10:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4AFD4MREBJWR31CJNG6FEFG/hero-image.png" alt="This 98-Inch Hisense QD5 TV Is $800 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/98-inch-hisense-qd5-tv-sale?utm_medium=RSS" target="_blank">This 98-Inch Hisense QD5 TV Is $800 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-04 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Govee-Permanent-Outdoor-Lights-Prism-03.jpg" alt="Govee’s New Permanent House Lights Prove That Christmas Is a State of Mind" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +287,6 @@
                 <span class="time">2025-09-04 12:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Maingear-Super-16-Hero-1.jpg" alt="Maingear’s ‘Super 16’ Gaming Laptop Has a Blistering Fast 300Hz Display" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/maingears-super-16-inch-gaming-laptop-has-a-blistering-fast-300hz-display-2000651955" target="_blank">Maingear’s ‘Super 16’ Gaming Laptop Has a Blistering Fast 300Hz Display</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-04 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
