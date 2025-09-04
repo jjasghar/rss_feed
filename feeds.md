@@ -1,40 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-04 09:02:03 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-04 10:01:39 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Error processing https://ubuntu.com/blog/feed: The read operation timed out -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, September 04, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, September 04, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/09/04/nx-s1-5525885/rfk-cdc-hhs-senate-finance" target="_blank">RFK Jr. to face questions about chaos at the CDC</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-04 09:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5b1/live/70a0b090-8955-11f0-84c8-99de564f0440.jpg" alt="Ministers rally round Rayner as she fights for political survival" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -95,20 +96,29 @@
                 <span class="time">2025-09-04 05:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/04/nx-s1-5528573/trump-supreme-court-tariffs-ruling" target="_blank">Trump asks Supreme Court to reverse tariffs ruling finding them illegal</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-04 04:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/04/madrids-orbital-paradigm-aims-to-prove-a-cheaper-path-to-orbital-reentry/" target="_blank">Madrid’s Orbital Paradigm aims to prove a cheaper path to orbital reentry</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-04 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68b89f6d067ebbd2a720d73c/master/pass/Samsung%20Galaxy%20Tab%20S11%20Ultra%20SOURCE%20Julian%20Chokkattu.jpg" alt="Samsung Galaxy Tab S11 Series and Galaxy S25 FE: Specs, Features, Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/samsungs-galaxy-tab-s11-series-and-galaxy-s25-fe/" target="_blank">Samsung Galaxy Tab S11 Series and Galaxy S25 FE: Specs, Features, Price</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-04 09:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,29 +155,20 @@
                 <span class="time">2025-09-04 04:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/03/mistral-the-french-ai-giant-is-reportedly-on-the-cusp-of-securing-a-14-billion-valuation/" target="_blank">Mistral, the French AI giant, is reportedly on the cusp of securing a $14B valuation</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-03 22:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/625409/best-robot-vacuum-mops" target="_blank">The best robot vacuum and mop to buy right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-03 22:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3n36r9n0bvmohw9slg3n.png" alt="Why devs need AI-powered e2e test automation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/daniel-octomind/why-devs-need-ai-powered-e2e-test-automation-2ded" target="_blank">Why devs need AI-powered e2e test automation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-04 09:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0xtcbdhgoj6k6dqu2uqa.gif" alt="[Google AI Studio Multimodal Challenge] Whispurr the ghost diner" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +212,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/gnome-49-reenables-x11-session-support-in-gdm" target="_blank">GNOME 49 Restores Ability to Launch X11 Desktop Sessions</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-09-04 02:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/einarcesar/implementing-a-scalable-message-buffer-for-natural-ai-conversations-in-n8n-poj" target="_blank">Implementing a Scalable Message Buffer for Natural AI Conversations in n8n</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-04 02:01</span>
             </div>
         </div>
 </div>
@@ -332,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
