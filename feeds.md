@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-04 16:01:50 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-04 17:01:36 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, September 04, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, September 04, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +105,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/04/3042352/" target="_blank">Threads challenges X by offering free support for up to 10K characters, plus prominent links</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-04 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68b9b74debac84a11c241098/master/pass/Silksong_Promo_03.jpg" alt="‘Hollow Knight: Silksong’ Is Already Causing Online Gaming Stores to Crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/hollow-knight-silksong-is-already-causing-online-gaming-stores-to-crash/" target="_blank">‘Hollow Knight: Silksong’ Is Already Causing Online Gaming Stores to Crash</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-04 16:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/766515/xgimi-bright-4k-projector-targets-daytime-gamers" target="_blank">Xgimi’s incredibly bright 4K projector targets daytime gamers</a></span>
                 <span class="feed">The Verge</span>
@@ -139,29 +156,29 @@
                 <span class="time">2025-09-04 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/04/adobe-plans-to-bring-its-video-editing-app-premiere-to-iphones/" target="_blank">Adobe to bring its video editing app Premiere to iPhones</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-04 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/04/duckduckgo-adds-access-to-advanced-models-to-it-subscription-plan/" target="_blank">DuckDuckGo adds access to advanced models to it subscription plan</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-04 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw3k1j0ky16t3snf4sb8p.jpg" alt="I&#x27;m building a text based, online TUI-RPG in Rust" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/smallcabbage/im-building-a-text-based-online-tui-rpg-in-rust-4mdc" target="_blank">I&#x27;m building a text based, online TUI-RPG in Rust</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-04 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/9e05c732-5a39-4e77-8741-615136d2031b_420x300.png" alt="The Pulse #145: More clarity on the tech jobs market" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-145-more-clarity-on-the" target="_blank">The Pulse #145: More clarity on the tech jobs market</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-09-04 16:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +215,6 @@
                 <span class="time">2025-09-04 12:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18595085&w=600" alt="Engineering for Uptime: Observability, Testing, and the Road to Rock-Solid Back-End Services" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/observability-testing-backend-reliability" target="_blank">Engineering for Uptime: Observability, Testing, and the Road to Rock-Solid Back-End Services</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-04 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/github-leaked-secrets/en/headerimage/generatedHeaderImage-1756909233583.jpg" alt="Researcher Unearths Thousands of Leaked Secrets in GitHub’s “Oops Commits”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/github-leaked-secrets/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Researcher Unearths Thousands of Leaked Secrets in GitHub’s “Oops Commits”</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-04 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +234,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/MarsWalker-going-up.jpg" alt="Eufy’s Got a Little Stair-Climbing Mech Suit for Its Robot Vacuums" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/eufys-got-a-little-stair-climbing-mech-suit-for-its-robot-vacuums-2000653284" target="_blank">Eufy’s Got a Little Stair-Climbing Mech Suit for Its Robot Vacuums</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-04 16:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://boingboing.net/wp-content/uploads/2024/12/david-corenswet-as-superman-in-costume-bleeding-in-the-snow-in-superman-2025-movie-jpg.avif" alt="Superman sequel unceremoniously announced" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/04/superman-sequel-unceremoniously-announced.html" target="_blank">Superman sequel unceremoniously announced</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-04 16:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JXJP0T65E1HBE5SC5MD20ZK7/hero-image.png" alt="These Shokz OpenRun Pro Bone Conduction Headphones Are $55 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/shokz-open-run-pro-bone-conduction-headphones-sale-amazon?utm_medium=RSS" target="_blank">These Shokz OpenRun Pro Bone Conduction Headphones Are $55 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-04 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/SamsungOdysseyG9.jpg" alt="Samsung 49″ Odyssey Curved Gaming Monitor Drops Below Black Friday Pricing, $700 Off Feels Like a Steal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,33 +286,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/04/job-market-grim-in-august-reportst-top-management-consultancy.html" target="_blank">Job market grim in August, reports top management consultancy</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-04 14:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Govee-Permanent-Outdoor-Lights-Prism-03.jpg" alt="Govee’s New Permanent House Lights Prove That Christmas Is a State of Mind" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/govees-new-permanent-house-lights-prove-that-christmas-is-a-state-of-mind-2000653301" target="_blank">Govee’s New Permanent House Lights Prove That Christmas Is a State of Mind</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-04 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/sddefault.jpg?fit=640%2C480&amp;quality=60&amp;ssl=1" alt="Texas Sheriff not eager to explain why 70 people have died in his jail" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/04/texas-sheriff-not-eager-to-explain-why-70-people-have-died-in-his-jail.html" target="_blank">Texas Sheriff not eager to explain why 70 people have died in his jail</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-04 13:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/queen_of_canada_arrested.jpg" alt="Canada Raids Compound of QAnon-Inspired Cult Leader, ‘Queen of Canada’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/canada-raids-compound-of-qanon-inspired-cult-leader-queen-of-canada-2000653204" target="_blank">Canada Raids Compound of QAnon-Inspired Cult Leader, ‘Queen of Canada’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-04 13:00</span>
             </div>
         </div>
 </div>
@@ -326,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
