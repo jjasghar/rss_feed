@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-04 15:01:54 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-09-04 16:01:50 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, September 04, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, September 04, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/04/nx-s1-5518311/nfl-season-kicks-off" target="_blank">The NFL is back. Here are 3 big questions as the season kicks off</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-04 15:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1756998494480_now_brk_cassidy_kennedy_vaccines_250904_1920x1080-l22qh0.jpg" alt="Sen. Cassidy grills Kennedy on vaccine restrictions and skepticism" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/sen-cassidy-grills-kennedy-on-vaccine-restrictions-and-skepticism-246699589769" target="_blank">Sen. Cassidy grills Kennedy on vaccine restrictions and skepticism</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-04 15:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/09/04/1110320559/giorgio-armani-dead" target="_blank">Fashion designer Giorgio Armani, whose name became synonymous with luxury, dies at 91</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-04 14:38</span>
@@ -61,6 +81,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  RFK Jr. faces grilling over CDC turmoil, vaccines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  RFK Jr. faces grilling over CDC turmoil, vaccines</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-04 14:11</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -69,38 +98,29 @@
                 <span class="time">2025-09-04 13:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/project-force-2/2025/9/4/as-the-attack-on-gaza-city-intensifies-a-look-at-what-to-expect?traffic_source=rss" target="_blank">As the attack on Gaza City intensifies, a look at what to expect</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-04 12:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-afghanistan-earthquake_7011100.jpg?20250904140129" alt="Taliban reports sharp rise in deaths following Afghan earthquake" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/taliban-reports-sharp-rise-in-death-toll-following-earthquake-in-eastern-afghanistan-as-aid-agencies-issue-warning-13424914" target="_blank">Taliban reports sharp rise in deaths following Afghan earthquake</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-04 12:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2995/live/a2f7f230-8976-11f0-bdd3-7be793555c9e.jpg" alt="&#x27;Out of control&#x27;: Witnesses describe fatal Lisbon funicular crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c20v4g71zrpo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Out of control&#x27;: Witnesses describe fatal Lisbon funicular crash</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-04 11:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/766515/xgimi-bright-4k-projector-targets-daytime-gamers" target="_blank">Xgimi’s incredibly bright 4K projector targets daytime gamers</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-04 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/04/google-photos-adds-ai-video-generation-with-veo-3/" target="_blank">Google Photos upgrades its image-to-video feature with Veo 3</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-04 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,24 +155,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/09/04/duckduckgo-adds-access-to-advanced-models-to-it-subscription-plan/" target="_blank">DuckDuckGo adds access to advanced models to it subscription plan</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-09-04 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/771120/microsoft-6502-basic-open-source-release" target="_blank">Microsoft open-sources its 6502 version of BASIC from 1976</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-04 10:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/04/madrids-orbital-paradigm-aims-to-prove-a-cheaper-path-to-orbital-reentry/" target="_blank">Madrid’s Orbital Paradigm aims to prove a cheaper path to orbital reentry</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-04 10:00</span>
             </div>
         </div>
 </div>
@@ -234,12 +236,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/SamsungOdysseyG9.jpg" alt="Samsung 49″ Odyssey Curved Gaming Monitor Drops Below Black Friday Pricing, $700 Off Feels Like a Steal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/samsung-49%e2%80%b3-odyssey-curved-gaming-monitor-drops-below-black-friday-pricing-700-off-feels-like-a-steal-2000622791" target="_blank">Samsung 49″ Odyssey Curved Gaming Monitor Drops Below Black Friday Pricing, $700 Off Feels Like a Steal</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-04 15:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K4AFD4MREBJWR31CJNG6FEFG/hero-image.png" alt="This 98-Inch Hisense QD5 TV Is $800 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/tech/98-inch-hisense-qd5-tv-sale?utm_medium=RSS" target="_blank">This 98-Inch Hisense QD5 TV Is $800 Off Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-04 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Drawing-of-the-sinking-of-the-Bismarck.webp?fit=750%2C435&amp;quality=55&amp;ssl=1" alt="Job market grim in August, reports top management consultancy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/04/job-market-grim-in-august-reportst-top-management-consultancy.html" target="_blank">Job market grim in August, reports top management consultancy</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-04 14:13</span>
             </div>
         </div>
 <div class="story">
@@ -269,29 +289,20 @@
                 <span class="time">2025-09-04 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/Intel-Core-Ultra-7-Desktop-Processor-265K-20-cores-8-P-cores-12-E-cores-up-to-5.5-GHz.jpg" alt="Forget Buying a New Desktop, Intel Core Ultra 7 at Its Cheapest Ever Turns Yours Into a 5.5GHz Beast" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/forget-buying-a-new-desktop-intel-core-ultra-7-at-its-cheapest-ever-turns-yours-into-a-5-5ghz-beast-2000622783" target="_blank">Forget Buying a New Desktop, Intel Core Ultra 7 at Its Cheapest Ever Turns Yours Into a 5.5GHz Beast</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-04 12:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K49PQV9EMFES925BT2XBV20J/hero-image.png" alt="The All-in-One Ecovacs Deebot X5 Pro Omni Is $350 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/ecovacs-deebot-x5-pro-omni-sale?utm_medium=RSS" target="_blank">The All-in-One Ecovacs Deebot X5 Pro Omni Is $350 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-04 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1756846973-20250904.png" alt="Saturday Morning Breakfast Cereal - Technically" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/technically" target="_blank">Saturday Morning Breakfast Cereal - Technically</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-09-04 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5650.png" alt="The Somnium Files" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -310,22 +321,13 @@
                 <span class="time">2025-09-03 19:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1756846922-20250903 (1).png" alt="Saturday Morning Breakfast Cereal - Dogs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/dogs-4" target="_blank">Saturday Morning Breakfast Cereal - Dogs</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-09-03 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
