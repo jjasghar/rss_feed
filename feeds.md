@@ -1,26 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-04 06:02:10 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-09-04 07:01:45 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 18 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, September 04, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, September 04, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,9 +53,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/9/4/google-told-to-pay-425m-for-breaching-millions-of-users-privacy?traffic_source=rss" target="_blank">Google told to pay $425m for breaching millions of users’ privacy</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-04 06:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/4/peru-court-hands-ex-president-toledo-new-13-year-corruption-sentence?traffic_source=rss" target="_blank">Peru court hands ex-President Toledo new 13-year corruption sentence</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-04 05:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/04/nx-s1-5528573/trump-supreme-court-tariffs-ruling" target="_blank">Trump asks Supreme Court to reverse tariffs ruling finding them illegal</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-04 04:32</span>
             </div>
         </div>
 <div class="story">
@@ -72,29 +103,20 @@
                 <span class="time">2025-09-04 02:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-nawrocki-08-gty-jef-250903_1756915869799_hpMain_4x3t_384.jpg" alt="Trump calls Epstein files &#x27;irrelevant&#x27; as Massie petition picks up steam" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-calls-epstein-files-irrelevant-push-release-gains/story?id=125225706" target="_blank">Trump calls Epstein files &#x27;irrelevant&#x27; as Massie petition picks up steam</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-04 00:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/03/nx-s1-5527314/trump-harvard-court-ruling-funding-boston" target="_blank">Trump administration illegally froze billions in Harvard funds, judge rules</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-03 23:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/769300/aukey-magfusion-ark-wireless-charger-qi2-2" target="_blank">Aukey&amp;#8217;s new wireless charger gives you more freedom through the power of the orbs</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-04 06:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,20 +162,20 @@
                 <span class="time">2025-09-03 21:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl" target="_blank">The best deals on 4K TVs</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-03 21:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0xtcbdhgoj6k6dqu2uqa.gif" alt="[Google AI Studio Multimodal Challenge] Whispurr the ghost diner" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cutieyunnytech/google-ai-studio-multimodal-challenge-whispurr-the-ghost-diner-2kch" target="_blank">[Google AI Studio Multimodal Challenge] Whispurr the ghost diner</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-04 06:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/ghotet/set-up-your-own-personal-ai-frankenstack-summarized-version-536l" target="_blank">Set Up Your Own Personal AI Frankenstack: Summarized Version</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-04 01:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/Linux-Mint-22.2.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint 22.2 Released, Available to Download" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/linux-mint-22-2-released-new-features" target="_blank">Linux Mint 22.2 Released, Available to Download</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-03 22:40</span>
             </div>
         </div>
 </div>
@@ -313,22 +326,13 @@
                 <span class="time">2025-09-03 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/09/03/habitats" target="_blank">Habitats</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-09-03 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
