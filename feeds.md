@@ -1,37 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-09-04 03:10:01 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-04 04:02:01 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, September 04, 2025 - 03:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, September 04, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/4/naomi-osaka-defeats-karolina-muchova-to-reach-us-open-semifinal?traffic_source=rss" target="_blank">Naomi Osaka defeats Karolina Muchova to reach US Open semifinal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-04 02:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19a4/live/8d8869f0-8928-11f0-b391-6936825093bd.jpg" alt="Lisbon in shock after funicular crash leaves 15 dead" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,21 +98,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7884/live/2428b480-8903-11f0-9cf6-cbf3e73ce2b9.jpg" alt="At least 15 dead after Lisbon&#x27;s historic funicular derails" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f61/live/5331ce20-87c7-11f0-8265-7b50fda2ce04.jpg" alt="30,000 homes fitted with botched insulation under government schemes, ministers admit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1jzlgj915no?at_medium=RSS&at_campaign=rss" target="_blank">At least 15 dead after Lisbon&#x27;s historic funicular derails</a></span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8606gp4711o?at_medium=RSS&at_campaign=rss" target="_blank">30,000 homes fitted with botched insulation under government schemes, ministers admit</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2025-09-03 21:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/davis-epstein-1-abc-gmh-250903_1756921206237_hpMain_4x3t_384.jpg" alt="Epstein survivors call on Trump, Congress to release records" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/power-transparent-epstein-survivors-call-trump-congress-release/story?id=125221825" target="_blank">Epstein survivors call on Trump, Congress to release records</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-03 21:50</span>
+                <span class="time">2025-09-03 23:00</span>
             </div>
         </div>
 </div>
@@ -166,6 +171,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pipishuo/some-problem-about-buildding-lfs-on-debian-with-wsl-5f54" target="_blank">some problem about buildding LFS on Debian with WSL</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-04 03:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/02/GNOME-48.jpg?resize=406%2C232&amp;ssl=1" alt="GNOME 49 Restores Ability to Launch X11 Desktop Sessions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -210,15 +224,6 @@
                 <span class="time">2025-09-03 22:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://mikelovesrobots.substack.com/p/wheres-the-shovelware-why-ai-coding" target="_blank">Where&#x27;s the Shovelware? Why AI Coding Claims Don&#x27;t Add Up</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-03 21:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +250,15 @@
                 <span class="title"><a href="https://gizmodo.com/10-horror-sequels-to-watch-on-peacock-2000652078" target="_blank">10 Horror Sequels to Watch on Peacock</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-03 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Pok-Pok.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Say goodbye to screen time battles with the Montessori-inspired Pok Pok app" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/03/say-goodbye-to-screen-time-battles-with-the-montessori-inspired-pok-pok-app.html" target="_blank">Say goodbye to screen time battles with the Montessori-inspired Pok Pok app</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-03 22:00</span>
             </div>
         </div>
 <div class="story">
@@ -281,15 +295,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/03/trump-launches-attack-on-offshore-wind.html" target="_blank">Trump launches attack on offshore wind</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-03 20:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Kash_Patel_52588173144.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="FBI Director bought Krispy Kreme shares while it faces an FBI probe" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/03/krispy-kreme-data-breach.html" target="_blank">FBI Director bought Krispy Kreme shares while it faces an FBI probe</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-03 20:12</span>
             </div>
         </div>
 </div>
@@ -338,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 03:10 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
