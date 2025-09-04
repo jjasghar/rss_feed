@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-09-04 12:02:22 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-04 13:07:14 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, September 04, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, September 04, 2025 - 13:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,12 +51,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/project-force-2/2025/9/4/as-the-attack-on-gaza-city-intensifies-a-look-at-what-to-expect?traffic_source=rss" target="_blank">As the attack on Gaza City intensifies, a look at what to expect</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-04 12:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2995/live/a2f7f230-8976-11f0-bdd3-7be793555c9e.jpg" alt="&#x27;Out of control&#x27;: Witnesses describe fatal Lisbon funicular crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c20v4g71zrpo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Out of control&#x27;: Witnesses describe fatal Lisbon funicular crash</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-04 11:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/04/g-s1-86935/up-first-newsletter-robert-f-kennedy-jr-cdc-federal-reserve-harvard-university" target="_blank">RFK Jr. faces Senate about CDC chaos. And, Harvard funding freeze ruled illegal</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-04 11:08</span>
             </div>
         </div>
 <div class="story">
@@ -83,29 +104,29 @@
                 <span class="time">2025-09-04 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5b1/live/70a0b090-8955-11f0-84c8-99de564f0440.jpg" alt="Ministers rally round Rayner as she fights for political survival" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cqxzj2qq1lno?at_medium=RSS&at_campaign=rss" target="_blank">Ministers rally round Rayner as she fights for political survival</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-04 08:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/4/video-israeli-attacks-pound-displacement-camps-in-gaza?traffic_source=rss" target="_blank">Video: Israeli attacks pound displacement camps in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-04 08:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68b9081ae373495282bf2c1a/master/pass/Ergonomic%20Experts%20Convinced%20Me%20I%E2%80%99ve%20Been%20Using%20Laptops%20All%20Wrong.png" alt="How to Prevent Tech Neck and Sit Properly With Your Laptop (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/ergonomic-experts-convinced-me-ive-been-using-laptops-all-wrong/" target="_blank">How to Prevent Tech Neck and Sit Properly With Your Laptop (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-04 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/04/adobe-plans-to-bring-its-video-editing-app-premiere-to-iphones/" target="_blank">Adobe to bring its video editing app Premiere to iPhones</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-04 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,29 +163,29 @@
                 <span class="time">2025-09-04 09:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/768621/belkin-soundform-earbuds-anc-price-launch" target="_blank">Belkin’s cheap wired earbuds give you ANC without battery anxieties</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-04 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/769300/aukey-magfusion-ark-wireless-charger-qi2-2" target="_blank">Aukey&amp;#8217;s new wireless charger gives you more freedom through the power of the orbs</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-04 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Rust-Coreutils-Release-Pocket" target="_blank">Ubuntu 25.10 Proceeding With Its Rust Coreutils Transition</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-04 12:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18595085&w=600" alt="Engineering for Uptime: Observability, Testing, and the Road to Rock-Solid Back-End Services" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/observability-testing-backend-reliability" target="_blank">Engineering for Uptime: Observability, Testing, and the Road to Rock-Solid Back-End Services</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-04 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/09/github-leaked-secrets/en/headerimage/generatedHeaderImage-1756909233583.jpg" alt="Researcher Unearths Thousands of Leaked Secrets in GitHub’s “Oops Commits”" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,24 +222,6 @@
                 <span class="time">2025-09-04 09:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0xtcbdhgoj6k6dqu2uqa.gif" alt="[Google AI Studio Multimodal Challenge] Whispurr the ghost diner" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cutieyunnytech/google-ai-studio-multimodal-challenge-whispurr-the-ghost-diner-2kch" target="_blank">[Google AI Studio Multimodal Challenge] Whispurr the ghost diner</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-04 06:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://pudding.cool/2025/06/hello-stranger/" target="_blank">30 minutes with a stranger</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-04 05:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +241,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/queen_of_canada_arrested.jpg" alt="Canada Raids Compound of QAnon-Inspired Cult Leader, ‘Queen of Canada’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/canada-raids-compound-of-qanon-inspired-cult-leader-queen-of-canada-2000653204" target="_blank">Canada Raids Compound of QAnon-Inspired Cult Leader, ‘Queen of Canada’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-04 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/Intel-Core-Ultra-7-Desktop-Processor-265K-20-cores-8-P-cores-12-E-cores-up-to-5.5-GHz.jpg" alt="Forget Buying a New Desktop, Intel Core Ultra 7 at Its Cheapest Ever Turns Yours Into a 5.5GHz Beast" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/forget-buying-a-new-desktop-intel-core-ultra-7-at-its-cheapest-ever-turns-yours-into-a-5-5ghz-beast-2000622783" target="_blank">Forget Buying a New Desktop, Intel Core Ultra 7 at Its Cheapest Ever Turns Yours Into a 5.5GHz Beast</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-04 12:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K49PQV9EMFES925BT2XBV20J/hero-image.png" alt="The All-in-One Ecovacs Deebot X5 Pro Omni Is $350 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/ecovacs-deebot-x5-pro-omni-sale?utm_medium=RSS" target="_blank">The All-in-One Ecovacs Deebot X5 Pro Omni Is $350 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-04 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Maingear-Super-16-Hero-1.jpg" alt="Maingear’s ‘Super 16’ Gaming Laptop Has a Blistering Fast 300Hz Display" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,33 +293,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/samsung-announces-galaxy-s25-fe?utm_medium=RSS" target="_blank">All the New Devices Samsung Announced at Its Latest Galaxy Event</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-04 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/artandsienna.jpg" alt="10 Horror Sequels to Watch on Peacock" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/10-horror-sequels-to-watch-on-peacock-2000652078" target="_blank">10 Horror Sequels to Watch on Peacock</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-03 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/Pok-Pok.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Say goodbye to screen time battles with the Montessori-inspired Pok Pok app" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/03/say-goodbye-to-screen-time-battles-with-the-montessori-inspired-pok-pok-app.html" target="_blank">Say goodbye to screen time battles with the Montessori-inspired Pok Pok app</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-03 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/falloutai.jpg" alt="Leaked Fallout Merch Appears To Use AI-Generated Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/leaked-fallout-merch-ai-art-target-hot-sauce-bethesda-2000622731" target="_blank">Leaked Fallout Merch Appears To Use AI-Generated Slop</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-03 21:30</span>
             </div>
         </div>
 </div>
@@ -329,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 13:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
