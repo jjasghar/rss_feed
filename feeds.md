@@ -1,42 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-04 04:02:01 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-04 05:01:58 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 33 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, September 04, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, September 04, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -114,6 +108,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/dyson-new-lineup-2026/" target="_blank">Meet Dyson’s Brand-New Lineup: V8 Cyclone, V16 Piston Animal, HushJet Purifier Compact</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-04 04:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/09/03/mistral-the-french-ai-giant-is-reportedly-on-the-cusp-of-securing-a-14-billion-valuation/" target="_blank">Mistral, the French AI giant, is reportedly on the cusp of securing a $14B valuation</a></span>
                 <span class="feed">TechCrunch</span>
@@ -156,15 +159,6 @@
                 <span class="time">2025-09-03 21:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1196287382-500x500.jpg" alt="These psychological tricks can get LLMs to respond to “forbidden” prompts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/09/these-psychological-tricks-can-get-llms-to-respond-to-forbidden-prompts/" target="_blank">These psychological tricks can get LLMs to respond to “forbidden” prompts</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-03 19:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -177,6 +171,15 @@
                 <span class="title"><a href="https://dev.to/pipishuo/some-problem-about-buildding-lfs-on-debian-with-wsl-5f54" target="_blank">some problem about buildding LFS on Debian with WSL</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-04 03:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="http://etoileos.com/" target="_blank">Étoilé – desktop built on GNUStep</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-04 02:55</span>
             </div>
         </div>
 <div class="story">
@@ -213,15 +216,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/linux-mint-22-2-released-new-features" target="_blank">Linux Mint 22.2 Released, Available to Download</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-09-03 22:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-49-RC" target="_blank">GNOME 49 Release Candidate Ships With GDM Re-Enabling X11 Support By Default</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-03 22:19</span>
             </div>
         </div>
 </div>
@@ -343,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
