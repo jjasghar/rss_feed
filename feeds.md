@@ -1,42 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-04 21:01:37 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-04 22:01:43 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 32 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, September 04, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, September 04, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/kennedy-hearing-38-rt-gmh-250904_1757005433425_hpMain_4x3t_384.jpg" alt="Both Republicans and Democrats clash with RFK Jr. on vaccines, CDC turmoil" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/rfk-jr-hearing-live-updates-rfk-jr-face/?id=125251480" target="_blank">Both Republicans and Democrats clash with RFK Jr. on vaccines, CDC turmoil</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-04 21:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/04/nx-s1-5529328/ecuador-rubio-drug-gangs-designated-terrorists" target="_blank">The U.S. is designating Ecuador&#x27;s largest gangs as terrorists</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-04 21:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a58/live/af8c9200-89b0-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Boy, 3, pulled from funicular crash that has shocked Portugal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,29 +97,38 @@
                 <span class="time">2025-09-04 17:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2025/9/4/the-rsf-targets-young-men-civilians-speak-out-from-sudans-besieged-city?traffic_source=rss" target="_blank">In besieged Sudan city, civilians face death if they try to escape</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-04 16:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757003401161_now_brk_warren_rfk_vaccines_250904_1920x1080-am6c1v.jpg" alt="Kennedy insists to Warren he is not taking away vaccines from Americans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/kennedy-insists-to-warren-he-is-not-taking-away-vaccines-from-americans-246711365787" target="_blank">Kennedy insists to Warren he is not taking away vaccines from Americans</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-04 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/772101/midjourney-ai-generator-warner-bros-lawsuit" target="_blank">Warner Bros. Discovery sues Midjourney for generating &amp;#8216;countless&amp;#8217; copies of its characters</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-04 21:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68ba01190bc8eca3d614f1c6/master/pass/Our%20Favorite%20Smart%20Lock%20Is%20$80%20Off.png" alt="Our Favorite Smart Lock for Your Front Door Is Just $164 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/our-favorite-smart-lock-is-dollar80-off/" target="_blank">Our Favorite Smart Lock for Your Front Door Is Just $164 Right Now</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-04 21:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/webcamtape-500x500.jpg" alt="Sextortion with a twist: Spyware takes webcam pics of users watching porn" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/09/sextortion-with-a-twist-spyware-takes-webcam-pics-of-users-watching-porn/" target="_blank">Sextortion with a twist: Spyware takes webcam pics of users watching porn</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-04 21:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,38 +156,20 @@
                 <span class="time">2025-09-04 19:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/COVID-Maps-1-500x500.jpg" alt="COVID vaccine locations vanish from Google Maps due to supposed “technical issue”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/covid-vaccine-locations-vanish-from-google-maps-due-to-alleged-technical-issue/" target="_blank">COVID vaccine locations vanish from Google Maps due to supposed “technical issue”</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-04 19:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/COVID-Maps-1-500x500.jpg" alt="COVID vaccine locations vanish from Google Maps due to alleged “technical issue”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/covid-vaccine-locations-vanish-from-google-maps-due-to-alleged-technical-issue/" target="_blank">COVID vaccine locations vanish from Google Maps due to alleged “technical issue”</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-04 19:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/04/fashion-retailers-partner-to-offer-personalized-ai-styling-tool-ella/" target="_blank">Fashion retailers partner to offer personalized AI styling tool ‘Ella’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-04 19:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/carlos_mata_24b95b955c733/como-habilitar-el-modo-oscuro-en-brave-1e57" target="_blank">Cómo Habilitar el Modo Oscuro en Brave</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-04 21:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/09/android-studio-narwahl-gemini/en/headerimage/android-studio-narwahl-gemini-1757016496239.jpeg" alt="Android Studio Narwhal Extends Gemini AI Capabilities" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -215,15 +215,6 @@
                 <span class="time">2025-09-04 17:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18595820&w=600" alt="CI/CD in the Age of Supply Chain Attacks: How to Secure Every Commit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ci-cd-pipeline-security-supply-chain" target="_blank">CI/CD in the Age of Supply Chain Attacks: How to Secure Every Commit</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-04 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,12 +235,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4B5C104T3JHFM13NVT9E726/hero-image.jpg" alt="Early Access to Perplexity&#x27;s AI Browser Is Expensive, but You Can Try It for Free Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/try-comet-browser-free?utm_medium=RSS" target="_blank">Early Access to Perplexity&#x27;s AI Browser Is Expensive, but You Can Try It for Free Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-04 21:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/avengershed1.jpg" alt="Who Have Marvel’s Avengers Become?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/who-have-marvels-avengers-become-2000642534" target="_blank">Who Have Marvel’s Avengers Become?</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-04 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/colllege.jpg" alt="EA Tells Colleges It’s No Longer Making A Basketball Game, Blames Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ea-college-basketball-canceled-2k-sports-nba-leaked-email-2000623214" target="_blank">EA Tells Colleges It’s No Longer Making A Basketball Game, Blames Them</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-04 20:58</span>
             </div>
         </div>
 <div class="story">
@@ -277,24 +286,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/reolink-outdoor-camera-amazon-deal?utm_medium=RSS" target="_blank">This 4K Reolink Outdoor Camera Is $47 Off at Amazon</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-04 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/civilization-7-leaders-charlemag.jpg" alt="Firaxis Lays Off ‘Dozens’ Of Devs After Civilization VII Struggles" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/firaxis-lays-off-dozens-devs-civilization-vii-struggles-cuts-2k-2000623187" target="_blank">Firaxis Lays Off ‘Dozens’ Of Devs After Civilization VII Struggles</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-04 18:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HT35SWM3X1TSMR4VH2DMTYYC/hero-image.png" alt="I Tested Three AI Essay-Writing Tools, and Here’s What I Found" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-ai-tools-to-help-you-write-an-essay?utm_medium=RSS" target="_blank">I Tested Three AI Essay-Writing Tools, and Here’s What I Found</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-04 18:00</span>
             </div>
         </div>
 </div>
@@ -334,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
