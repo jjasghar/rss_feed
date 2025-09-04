@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-04 13:07:14 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-04 14:01:57 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, September 04, 2025 - 13:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, September 04, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +47,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/4/film-recounting-hind-rajabs-final-plea-breaks-record-at-premiere?traffic_source=rss" target="_blank">Film recounting Hind Rajab’s final plea breaks record at premiere</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-04 13:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/project-force-2/2025/9/4/as-the-attack-on-gaza-city-intensifies-a-look-at-what-to-expect?traffic_source=rss" target="_blank">As the attack on Gaza City intensifies, a look at what to expect</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-04 12:38</span>
@@ -66,6 +68,15 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c20v4g71zrpo?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Out of control&#x27;: Witnesses describe fatal Lisbon funicular crash</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-04 11:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e19c/live/726f5ca0-8982-11f0-9764-d92bc24dc2bc.png" alt="Liverpool parade accused pleads not guilty" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwyl38115j2o?at_medium=RSS&at_campaign=rss" target="_blank">Liverpool parade accused pleads not guilty</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-04 11:31</span>
             </div>
         </div>
 <div class="story">
@@ -86,29 +97,20 @@
                 <span class="time">2025-09-04 10:21</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/09/04/nx-s1-5525885/rfk-cdc-hhs-senate-finance" target="_blank">RFK Jr. to face questions about chaos at the CDC</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-04 09:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250815SCOTUSvJudgesBernis-jg-ef3ad9.jpg" alt="In rare interviews, federal judges criticize Supreme Court&#x27;s handling of Trump cases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/supreme-court-trump-cases-federal-judges-criticize-rcna221775" target="_blank">In rare interviews, federal judges criticize Supreme Court&#x27;s handling of Trump cases</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-04 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/767607/worlds-first-sodium-ion-power-station-is-ready-for-extreme-cold" target="_blank">World’s first sodium-ion portable power station is ready for extreme cold</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-04 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68b9081ae373495282bf2c1a/master/pass/Ergonomic%20Experts%20Convinced%20Me%20I%E2%80%99ve%20Been%20Using%20Laptops%20All%20Wrong.png" alt="How to Prevent Tech Neck and Sit Properly With Your Laptop (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,20 +156,29 @@
                 <span class="time">2025-09-04 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68b89f6d067ebbd2a720d73c/master/pass/Samsung%20Galaxy%20Tab%20S11%20Ultra%20SOURCE%20Julian%20Chokkattu.jpg" alt="Samsung Galaxy Tab S11 Series and Galaxy S25 FE: Specs, Features, Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/samsungs-galaxy-tab-s11-series-and-galaxy-s25-fe/" target="_blank">Samsung Galaxy Tab S11 Series and Galaxy S25 FE: Specs, Features, Price</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-04 09:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/implement-an-enterprise-ready-data-lakehouse-architecture-with-spark-and-kyuubi" target="_blank">Implement an enterprise-ready data lakehouse architecture with Spark and Kyuubi</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-09-04 13:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18595111&w=600" alt="Active Learning and Human-in-the-Loop for NLP Annotation and Model Improvement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/active-learning-nlp-annotation" target="_blank">Active Learning and Human-in-the-Loop for NLP Annotation and Model Improvement</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-04 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,24 +215,6 @@
                 <span class="time">2025-09-04 10:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Miracle-WM-0.7" target="_blank">Miracle-WM 0.7 Brings Mouse/Keyboard Configuration, Enhances Sway IPC Compatibility</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-04 10:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3n36r9n0bvmohw9slg3n.png" alt="Why devs need AI-powered e2e test automation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/daniel-octomind/why-devs-need-ai-powered-e2e-test-automation-2ded" target="_blank">Why devs need AI-powered e2e test automation</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-04 09:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Govee-Permanent-Outdoor-Lights-Prism-03.jpg" alt="Govee’s New Permanent House Lights Prove That Christmas Is a State of Mind" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/govees-new-permanent-house-lights-prove-that-christmas-is-a-state-of-mind-2000653301" target="_blank">Govee’s New Permanent House Lights Prove That Christmas Is a State of Mind</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-04 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/sddefault.jpg?fit=640%2C480&amp;quality=60&amp;ssl=1" alt="Texas Sheriff not eager to explain why 70 people have died in his jail" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/04/texas-sheriff-not-eager-to-explain-why-70-people-have-died-in-his-jail.html" target="_blank">Texas Sheriff not eager to explain why 70 people have died in his jail</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-04 13:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/queen_of_canada_arrested.jpg" alt="Canada Raids Compound of QAnon-Inspired Cult Leader, ‘Queen of Canada’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +286,6 @@
                 <span class="title"><a href="https://gizmodo.com/maingears-super-16-inch-gaming-laptop-has-a-blistering-fast-300hz-display-2000651955" target="_blank">Maingear’s ‘Super 16’ Gaming Laptop Has a Blistering Fast 300Hz Display</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-04 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/ICE.jpg" alt="Here’s How ICE Will Use Israeli Spyware" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ice-israeli-spyware-2000652966" target="_blank">Here’s How ICE Will Use Israeli Spyware</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-04 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4650FX7N1F6TKG7RRY5GS5N/hero-image.jpg" alt="All the New Devices Samsung Announced at Its Latest Galaxy Event" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-announces-galaxy-s25-fe?utm_medium=RSS" target="_blank">All the New Devices Samsung Announced at Its Latest Galaxy Event</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-04 09:30</span>
             </div>
         </div>
 </div>
@@ -332,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 13:07 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
