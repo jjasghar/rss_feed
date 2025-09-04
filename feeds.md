@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-09-04 01:28:43 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-09-04 02:25:11 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, September 04, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, September 04, 2025 - 02:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-nawrocki-08-gty-jef-250903_1756915869799_hpMain_4x3t_384.jpg" alt="Trump calls Epstein files &#x27;irrelevant&#x27; as Massie petition picks up steam" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-calls-epstein-files-irrelevant-push-release-gains/story?id=125225706" target="_blank">Trump calls Epstein files &#x27;irrelevant&#x27; as Massie petition picks up steam</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-04 00:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7884/live/2428b480-8903-11f0-9cf6-cbf3e73ce2b9.jpg" alt="At least 15 dead after Lisbon&#x27;s historic funicular derails" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +95,20 @@
                 <span class="time">2025-09-03 20:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-nawrocki-08-gty-jef-250903_1756915869799_hpMain_4x3t_384.jpg" alt="Trump calls Epstein files &#x27;irrelevant&#x27; as push for release gains steam" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-calls-epstein-files-irrelevant-push-release-gains/story?id=125225706" target="_blank">Trump calls Epstein files &#x27;irrelevant&#x27; as push for release gains steam</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-03 20:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/03/mistral-the-french-ai-giant-is-reportedly-on-the-cusp-of-securing-a-14-billion-valuation/" target="_blank">Mistral, the French AI giant, is reportedly on the cusp of securing a $14B valuation</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-03 22:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +154,29 @@
                 <span class="time">2025-09-03 19:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/770509/007-first-light-state-of-play-september-2025" target="_blank">007 First Light looks like a hit, man</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-03 18:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/02/GNOME-48.jpg?resize=406%2C232&amp;ssl=1" alt="GNOME 49 Restores Ability to Launch X11 Desktop Sessions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/gnome-49-reenables-x11-session-support-in-gdm" target="_blank">GNOME 49 Restores Ability to Launch X11 Desktop Sessions</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-04 02:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/einarcesar/implementing-a-scalable-message-buffer-for-natural-ai-conversations-in-n8n-poj" target="_blank">Implementing a Scalable Message Buffer for Natural AI Conversations in n8n</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-04 02:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +211,6 @@
                 <span class="title"><a href="https://mikelovesrobots.substack.com/p/wheres-the-shovelware-why-ai-coding" target="_blank">Where&#x27;s the Shovelware? Why AI Coding Claims Don&#x27;t Add Up</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-09-03 21:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftjy4mm37xptdfot38ulg.png" alt="Como escrever uma documentação técnica que realmente funciona" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/pripoliveira50/como-escrever-uma-documentacao-tecnica-que-realmente-funciona-h1" target="_blank">Como escrever uma documentação técnica que realmente funciona</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-03 20:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18594013&w=600" alt="Developing a Nationwide Real-Time Telemetry Analytics Platform Using Google Cloud Platform and Apache Airflow" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/real-time-telemetry-gcp-airflow" target="_blank">Developing a Nationwide Real-Time Telemetry Analytics Platform Using Google Cloud Platform and Apache Airflow</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-03 20:00</span>
             </div>
         </div>
 </div>
@@ -326,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 02:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
