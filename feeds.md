@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-09-05 16:01:55 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-09-05 17:01:37 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, September 05, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, September 05, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +41,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/9/5/canadian-unemployment-jumps-to-7-1-as-tariffs-weigh-on-economy?traffic_source=rss" target="_blank">Canadian unemployment jumps to 7.1% as tariffs weigh on economy</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-05 16:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250905-Hyundai-atf-raid-2-se-1056-7a0c39.jpg" alt="Hundreds of South Korean nationals arrested at Hyundai&#x27;s Georgia facility" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/hundreds-south-korean-nationals-detained-largest-single-site-immigrati-rcna229312" target="_blank">Hundreds of South Korean nationals arrested at Hyundai&#x27;s Georgia facility</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-05 16:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/05/g-s1-87208/georgia-hyundai-immigration-raid-bryan-county-south-korea-response" target="_blank">Hundreds of South Koreans are among 475 detained in a Georgia immigration raid</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-05 14:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,38 +95,20 @@
                 <span class="time">2025-09-05 13:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/05/nx-s1-5529937/economy-jobs-trump-bls" target="_blank">The U.S. added only 22,000 jobs last month, showing cracks in the labor market</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-05 12:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757076570585_now_mnn_august_jobs_report_250905_1920x1080-dhgr63.jpg" alt="U.S. economy adds just 22,000 jobs in August, far below expectations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/-u-s-economy-adds-just-22-000-jobs-in-august-far-below-expectations-246812741859" target="_blank">U.S. economy adds just 22,000 jobs in August, far below expectations</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-05 12:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/construction-worker-02-gty-jt-250904_1757015947196_hpMain_4x3t_384.jpg" alt="Hiring slowdown continues in 1st jobs report since Trump fired commissioner" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Business/bls-set-release-1st-jobs-report-trump-fired/story?id=125249122" target="_blank">Hiring slowdown continues in 1st jobs report since Trump fired commissioner</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-05 12:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/05/teslas-ad-spend-on-x-has-shrunk-to-almost-nothing/" target="_blank">Tesla’s ad spend on X has shrunk to almost nothing</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-05 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/gamekeycard-500x500.jpg" alt="Dev says Switch 2’s physical Game Cards were too slow for Star Wars Outlaws port" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +154,20 @@
                 <span class="time">2025-09-05 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66a169f4cb23f7a73c0f08b7/master/pass/072424-security-infostealers.jpg" alt="7 Best Password Managers (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-password-managers/" target="_blank">7 Best Password Managers (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-05 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18599376&w=600" alt="Measuring What Matters: A Strategic Lens on Transformation Metrics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/measuring-agile-ai-transformations-metrics" target="_blank">Measuring What Matters: A Strategic Lens on Transformation Metrics</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-05 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +213,6 @@
                 <span class="time">2025-09-05 13:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/michal-stlv/stelvio" target="_blank">stelvio: AWS for Python devs - made simple</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-09-05 13:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +232,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Anker-Prime-Power-Brick.jpg" alt="Anker’s New Prime 300W Power Bank Is the Last Portable Battery You’ll Ever Need" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ankers-new-prime-300w-power-bank-is-the-last-portable-battery-youll-ever-need-2000654231" target="_blank">Anker’s New Prime 300W Power Bank Is the Last Portable Battery You’ll Ever Need</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-05 16:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2016/06/spongebob.jpg?fit=1920%2C1200&amp;quality=60&amp;ssl=1" alt="Listen to the isolated tracks of the Spongebob Squarepants theme tune" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +286,6 @@
                 <span class="time">2025-09-05 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/outlaws.jpg" alt="Star Wars Outlaws Uses A Game Key Card Thanks To A Flaw With The Switch 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/star-wars-outlaws-switch-2-game-key-card-2000623413" target="_blank">Star Wars Outlaws Uses A Game Key Card Thanks To A Flaw With The Switch 2</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-05 10:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 291 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
