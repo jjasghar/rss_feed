@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-05 13:07:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-05 14:01:39 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, September 05, 2025 - 13:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, September 05, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,10 +48,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/05/how-malawi-lost-healthcare-in-us-aid-cuts" target="_blank">‘We wondered what had happened’: how Malawi lost healthcare in US aid cuts</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-09-05 13:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/5/what-guarantees-has-macrons-coalition-of-the-willing-promised-ukraine?traffic_source=rss" target="_blank">What guarantees has Macron’s ‘coalition of the willing’ promised Ukraine?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-05 13:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/09/05/nx-s1-5529937/economy-jobs-trump-bls" target="_blank">The U.S. added only 22,000 jobs last month, showing cracks in the labor market</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-05 12:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Business/construction-worker-02-gty-jt-250904_1757015947196_hpMain_4x3t_384.jpg" alt="Hiring slowdown continues in 1st jobs report since Trump fired commissioner" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Business/bls-set-release-1st-jobs-report-trump-fired/story?id=125249122" target="_blank">Hiring slowdown continues in 1st jobs report since Trump fired commissioner</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-05 12:46</span>
             </div>
         </div>
 <div class="story">
@@ -72,38 +99,20 @@
                 <span class="time">2025-09-05 11:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/9/5/australian-parties-all-very-tough-on-asylum-seekers?traffic_source=rss" target="_blank">Australian parties all “very tough” on asylum seekers</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-05 10:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/04/1920x1080/skynews-breaking-news-breaking_6875336.png?20250820165527" alt="Three British nationals among those who died in Lisbon funicular crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/three-british-nationals-among-those-who-died-in-lisbon-funicular-crash-13424707" target="_blank">Three British nationals among those who died in Lisbon funicular crash</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-05 09:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f69c/live/b4477700-8a29-11f0-b917-03bcebef22ec.jpg" alt="Putin rejects Western security in Ukraine, warning troops would be target" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czxwl15w2qko?at_medium=RSS&at_campaign=rss" target="_blank">Putin rejects Western security in Ukraine, warning troops would be target</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-05 09:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66a169f4cb23f7a73c0f08b7/master/pass/072424-security-infostealers.jpg" alt="7 Best Password Managers (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-password-managers/" target="_blank">7 Best Password Managers (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-05 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +158,29 @@
                 <span class="time">2025-09-05 09:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68ba59f10a668e4a20c31c98/master/pass/Lenovo%20ThinkBook%20VertiFlex%20Concept%20SOURCE%20Julian%20Chokkattu(1).jpg" alt="Lenovo&#x27;s ThinkBook VertiFlex Concept Laptop Has a Swiveling Screen" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/lenovo-thinkbook-vertiflex-concept-laptop-can-switch-from-landscape-to-portrait/" target="_blank">Lenovo&#x27;s ThinkBook VertiFlex Concept Laptop Has a Swiveling Screen</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-05 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7uck12nues45oci371za.png" alt="Chain Of Responsibility in Python..." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sommukhopadhyay/chain-of-responsibility-in-python-4588" target="_blank">Chain Of Responsibility in Python...</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-05 13:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://github.com/michal-stlv/stelvio" target="_blank">stelvio: AWS for Python devs - made simple</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-09-05 13:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,24 +217,6 @@
                 <span class="time">2025-09-05 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/madhiashabih/htbs-network-enumeration-with-nmap-exercises-walkthrough-ol4" target="_blank">Network Enumeration with Nmap Walkthrough (Hack The Box)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-05 10:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/software-engineers-excel-AI/en/headerimage/software-engineers-excel-AI-header-1756904662117.jpg" alt="Article: Virtual panel: How software engineers and team leaders can excel with artificial intelligence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/software-engineers-excel-AI/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Virtual panel: How software engineers and team leaders can excel with artificial intelligence</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-05 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4CJKBQMMY08G9XP29MFVPNV/hero-image.jpg" alt="Free ChatGPT Users Just Got Access to One of the Paid App’s Most Useful Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/free-chatgpt-users-access-to-projects?utm_medium=RSS" target="_blank">Free ChatGPT Users Just Got Access to One of the Paid App’s Most Useful Features</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-05 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Nepal.-Marc-Vinent-Shutterstock.jpg?fit=1080%2C810&amp;quality=60&amp;ssl=1" alt="Nepal bans social media: Facebook, Instagram, YouTube and other sites blocked" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +290,6 @@
                 <span class="time">2025-09-05 06:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/shutterstock_2501980883.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="From the tropics to Hollywood: these green sea turtles are surfing a post-industrial paradise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/04/from-the-tropics-to-hollywood-these-green-sea-turtles-are-surfing-a-post-industrial-paradise.html" target="_blank">From the tropics to Hollywood: these green sea turtles are surfing a post-industrial paradise</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-05 00:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 13:07 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
