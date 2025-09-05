@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-05 02:26:48 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-05 03:12:22 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, September 05, 2025 - 02:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, September 05, 2025 - 03:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/04/nx-s1-5529420/trump-department-of-war-department-of-defense" target="_blank">President Trump plans to rename the Defense Department as the Department of War</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-05 02:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +96,6 @@
                 <span class="time">2025-09-04 22:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/kennedy-hearing-38-rt-gmh-250904_1757005433425_hpMain_4x3t_384.jpg" alt="Both Republicans and Democrats clash with RFK Jr. on vaccines, CDC turmoil" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/rfk-jr-hearing-live-updates-rfk-jr-face/?id=125251480" target="_blank">Both Republicans and Democrats clash with RFK Jr. on vaccines, CDC turmoil</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-04 21:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -109,6 +107,15 @@
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/09/04/bret-taylors-sierra-raises-350m-at-a-10b-valuation/" target="_blank">Bret Taylor’s Sierra raises $350M at a $10B valuation</a></span>
                 <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-04 23:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/21280354/best-ipad-deals-apple" target="_blank">The best iPad deals you can get right now</a></span>
+                <span class="feed">The Verge</span>
                 <span class="time">2025-09-04 23:33</span>
             </div>
         </div>
@@ -148,20 +155,29 @@
                 <span class="time">2025-09-04 21:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/webcamtape-500x500.jpg" alt="Sextortion with a twist: Spyware takes webcam pics of users watching porn" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2025/09/sextortion-with-a-twist-spyware-takes-webcam-pics-of-users-watching-porn/" target="_blank">Sextortion with a twist: Spyware takes webcam pics of users watching porn</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-04 21:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yash_sonawane25/docker-series-episode-14-docker-networking-deep-dive-bridge-host-overlay-3j78" target="_blank">Docker Series — Episode 14: Docker Networking Deep Dive (Bridge, Host, Overlay)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-05 03:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://fil-c.org/fugc" target="_blank">Fil&#x27;s Unbelievable Garbage Collector</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-05 00:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +212,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/09/android-studio-narwahl-gemini/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Android Studio Narwhal Extends Gemini AI Capabilities</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-09-04 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18596050&w=600" alt="How to Use AI to Enhance Scrum Ceremonies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-enhance-scrum-ceremonies" target="_blank">How to Use AI to Enhance Scrum Ceremonies</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-04 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ahmedraza_fyntune/memory-management-in-php-m10" target="_blank">Memory Management in PHP</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-04 18:50</span>
             </div>
         </div>
 </div>
@@ -317,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 02:27 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 03:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
