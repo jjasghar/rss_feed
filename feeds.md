@@ -1,44 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-05 21:01:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-05 22:01:50 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 35 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, September 05, 2025 - 21:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, September 05, 2025 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +49,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/05/nx-s1-5528937/ftc-noncompete-ban-trump" target="_blank">Under Trump, the Federal Trade Commission is abandoning its ban on noncompetes</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-05 21:46</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-gty-jt-250905_1757103880452_hpMain_4x3t_384.jpg" alt="Trump signs order renaming Pentagon &#x27;Department of War&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -70,6 +73,15 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/05/g-s1-87367/anthropic-authors-settlement-pirated-chatbot-training-material" target="_blank">Anthropic to pay authors $1.5B to settle lawsuit over pirated chatbot training material</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-05 20:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1614/live/b933a400-8a88-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Starmer carries out major reshuffle after Rayner resignation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgmzgjywr8wo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer carries out major reshuffle after Rayner resignation</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-05 19:58</span>
             </div>
         </div>
 <div class="story">
@@ -90,29 +102,20 @@
                 <span class="time">2025-09-05 19:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/05/nx-s1-5530051/trump-national-guard-chicago-baltimore-new-orleans" target="_blank">How Chicago, Baltimore and New Orleans are reacting to Trump&#x27;s National Guard threats</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-05 18:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/9/5/how-significant-is-xi-putin-and-kims-first-meeting-in-beijing?traffic_source=rss" target="_blank">How significant is Xi, Putin and Kim’s first meeting in Beijing?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-05 18:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/773164/youtube-sesame-street-classic-episodes-netflix" target="_blank">Classic Sesame Street episodes are coming to YouTube</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-05 21:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -156,15 +159,6 @@
                 <span class="title"><a href="https://www.theverge.com/entertainment/772635/showrunner-orson-welles-the-magnificent-ambersons" target="_blank">Showrunner wants to use generative AI to recreate lost footage from an Orson Welles classic</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-05 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/Scooby-Doo-and-Batman-via-WB-500x500-1757094176.jpg" alt="Warner Bros. sues Midjourney to stop AI knockoffs of Batman, Scooby-Doo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/warner-bros-sues-midjourney-to-stop-ai-knockoffs-of-batman-scooby-doo/" target="_blank">Warner Bros. sues Midjourney to stop AI knockoffs of Batman, Scooby-Doo</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-05 18:47</span>
             </div>
         </div>
 </div>
@@ -255,6 +249,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/1min.AI-Advanced-Business-Plan-Lifetime-Subscription.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Everything you need to create, edit, and automate — in one AI app" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/05/everything-you-need-to-create-edit-and-automate-in-one-ai-app.html" target="_blank">Everything you need to create, edit, and automate — in one AI app</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-05 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Gizmodo-IFA-2025-Featured-Image-1.jpg" alt="Gizmodo’s Best of IFA 2025 Awards: See the Winners" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -299,15 +302,6 @@
                 <span class="time">2025-09-05 18:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/shutterstock_2642791817.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Salesforce CEO Benioff tragically brags that AI is letting him cut heads" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/05/salesforce-ceo-benioff-tragically-brags-that-ai-is-letting-him-cut-heads.html" target="_blank">Salesforce CEO Benioff tragically brags that AI is letting him cut heads</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-05 18:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -336,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
