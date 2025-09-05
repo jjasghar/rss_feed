@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-04 23:01:58 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-05 00:04:28 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, September 04, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, September 05, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/4/prosecutors-launch-probe-into-argentina-couple-over-nazi-looted-painting?traffic_source=rss" target="_blank">Prosecutors launch probe into Argentina couple over Nazi-looted painting</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-04 23:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757026893624_nn_nobles_250904_1920x1080-dyz9uc.jpg" alt="HHS Sec. Robert F. Kennedy Jr. grilled over CDC turmoil, vaccines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/hhs-sec-rfk-jr-grilled-over-cdc-turmoil-vaccines-246754885632" target="_blank">HHS Sec. Robert F. Kennedy Jr. grilled over CDC turmoil, vaccines</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-04 23:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/kennedy-hearing-17-ap-gmh-250904_1756998419554_hpMain_4x3t_384.jpg" alt="Amid RFK Jr.&#x27;s fiery Senate hearing over CDC turmoil, vaccines, here are 4 takeaways" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,29 +103,29 @@
                 <span class="time">2025-09-04 21:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a58/live/af8c9200-89b0-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Boy, 3, pulled from funicular crash that has shocked Portugal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cgrqj7ydr0ko?at_medium=RSS&at_campaign=rss" target="_blank">Boy, 3, pulled from funicular crash that has shocked Portugal</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-04 18:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/4/hundreds-of-bodies-pulled-from-darfur-landslides-as-many-remain-trapped?traffic_source=rss" target="_blank">Hundreds of bodies pulled from Darfur landslides as many remain trapped</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-04 18:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/04/bret-taylors-sierra-raises-350m-at-a-10b-valuation/" target="_blank">Bret Taylor’s Sierra raises $350M at a $10B valuation</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-04 23:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2233690134-500x500.jpg" alt="RFK Jr. says COVID shots still available to all as cancer patients denied access" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/09/a-charlatan-chaos-and-lies-anti-vaccine-activist-rfk-jr-faces-senate/" target="_blank">RFK Jr. says COVID shots still available to all as cancer patients denied access</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-04 23:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/11/encryption-key-recovery-attack-500x500.jpg" alt="The number of mis-issued 1.1.1.1 certificates grows. Here’s the latest." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,24 +160,6 @@
                 <span class="title"><a href="https://arstechnica.com/security/2025/09/sextortion-with-a-twist-spyware-takes-webcam-pics-of-users-watching-porn/" target="_blank">Sextortion with a twist: Spyware takes webcam pics of users watching porn</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-09-04 21:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/771834/best-apple-watch-deals" target="_blank">Here are the best Apple Watch deals available right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-04 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/771869/samsung-galaxy-s25-edge-8bitdo-pro-3-controller-deal-sale" target="_blank">Samsung’s ultra-thin Galaxy S25 Edge is $400 off right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-04 19:55</span>
             </div>
         </div>
 </div>
@@ -329,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 283 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
