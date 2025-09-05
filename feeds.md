@@ -1,38 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-09-05 18:02:12 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-05 19:01:32 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, September 05, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, September 05, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/05/nx-s1-5530051/trump-national-guard-chicago-baltimore-new-orleans" target="_blank">How Chicago, Baltimore and New Orleans are reacting to Trump&#x27;s National Guard threats</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-05 18:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/9/5/how-significant-is-xi-putin-and-kims-first-meeting-in-beijing?traffic_source=rss" target="_blank">How significant is Xi, Putin and Kim’s first meeting in Beijing?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-05 18:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +106,29 @@
                 <span class="time">2025-09-05 14:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/05/how-malawi-lost-healthcare-in-us-aid-cuts" target="_blank">‘We wondered what had happened’: how Malawi lost healthcare in US aid cuts</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-09-05 13:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/5/what-guarantees-has-macrons-coalition-of-the-willing-promised-ukraine?traffic_source=rss" target="_blank">What guarantees has Macron’s ‘coalition of the willing’ promised Ukraine?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-05 13:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/Scooby-Doo-and-Batman-via-WB-500x500-1757094176.jpg" alt="Warner Bros. sues Midjourney to stop AI knockoffs of Batman, Scooby-Doo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/warner-bros-sues-midjourney-to-stop-ai-knockoffs-of-batman-scooby-doo/" target="_blank">Warner Bros. sues Midjourney to stop AI knockoffs of Batman, Scooby-Doo</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-05 18:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68bb21f66f6778c39b42975c/master/pass/Daily%20Deal-%20Razer.png" alt="Top Spec Razor Blade Laptops Are Average 14 Percent Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/save-hundreds-on-the-razer-blade-16-and-18-gaming-laptops/" target="_blank">Top Spec Razor Blade Laptops Are Average 14 Percent Off Right Now</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-05 17:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68bb21f66f6778c39b42975c/master/pass/Daily%20Deal-%20Razer.png" alt="Top Spec Razor Blade Laptops Are Average 14% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,29 +165,20 @@
                 <span class="time">2025-09-05 17:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/05/teslas-ad-spend-on-x-has-shrunk-to-almost-nothing/" target="_blank">Tesla’s ad spend on X has shrunk to almost nothing</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-05 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/gamekeycard-500x500.jpg" alt="Dev says Switch 2’s physical Game Cards were too slow for Star Wars Outlaws port" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2025/09/dev-says-switch-2s-physical-game-cards-were-too-slow-for-star-wars-outlaws-port/" target="_blank">Dev says Switch 2’s physical Game Cards were too slow for Star Wars Outlaws port</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-05 15:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rijultp/getting-started-with-rsync-the-smarter-way-to-copy-files-39ol" target="_blank">Getting Started with rsync: The Smarter Way to Copy Files</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-05 18:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,6 +207,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/how-to-debug-a-web-app-with-playwright-mcp-and-github-copilot/" target="_blank">How to debug a web app with Playwright MCP and GitHub Copilot</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-09-05 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18599376&w=600" alt="Measuring What Matters: A Strategic Lens on Transformation Metrics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -202,29 +224,20 @@
                 <span class="time">2025-09-05 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/samfrmd/finally-a-15-second-fix-for-local-referrer-attribution-testing-b8d" target="_blank">Finally: A 15-Second Fix for Local Referrer &amp; Attribution Testing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-05 15:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/ubuntu-2510-strix-halo" target="_blank">A First Look At Ubuntu 25.10 Performance On AMD Strix Halo / Framework Desktop</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-05 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/my-latest-book-rewiring-democracy.html" target="_blank">My Latest Book: Rewiring Democracy</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-09-05 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -239,6 +252,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/CYBER.jpg" alt="Fans Are Trying To Crack A Cryptic, Unlisted Cyberpunk 2077 Video" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/cyberpunk-2077-phantom-liberty-nusa-static-video-2000623505" target="_blank">Fans Are Trying To Crack A Cryptic, Unlisted Cyberpunk 2077 Video</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-05 18:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/shutterstock_2642791817.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Salesforce CEO Benioff tragically brags that AI is letting him cut heads" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/05/salesforce-ceo-benioff-tragically-brags-that-ai-is-letting-him-cut-heads.html" target="_blank">Salesforce CEO Benioff tragically brags that AI is letting him cut heads</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-05 18:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4DFS6X4D65ZDXNHYV8S1Y9V/hero-image.png" alt="My Favorite Amazon Deal of the Day: The Samsung Galaxy S25 FE With a $100 Gift Card" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-s25-fe-amazon-deal-of-the-day?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: The Samsung Galaxy S25 FE With a $100 Gift Card</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-05 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Shell-grotto-margate-scaled.jpg?fit=2560%2C1928&amp;quality=60&amp;ssl=1" alt="Shell Grotto: England&#x27;s mysterious underground seashell chamber" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,33 +304,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/05/listen-to-the-isolated-tracks-of-the-spongebob-squarepants-theme-tune.html" target="_blank">Listen to the isolated tracks of the Spongebob Squarepants theme tune</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-05 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/buffyandwillow.jpg" alt="‘Buffy’ Star Sarah Michelle Gellar Shuts Down Reboot Haters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/buffy-star-sarah-michelle-gellar-shuts-down-reboot-haters-2000654351" target="_blank">‘Buffy’ Star Sarah Michelle Gellar Shuts Down Reboot Haters</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-05 14:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/61uHm0Ir82L._AC_SL1500_.jpg" alt="Move Over, Mac Mini, There’s a Mini PC Eating Your Lunch for Just Peanuts at Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/move-over-mac-mini-theres-a-mini-pc-eating-your-lunch-for-just-peanuts-at-amazon-2000623161" target="_blank">Move Over, Mac Mini, There’s a Mini PC Eating Your Lunch for Just Peanuts at Amazon</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-05 14:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4CJKBQMMY08G9XP29MFVPNV/hero-image.jpg" alt="Free ChatGPT Users Just Got Access to One of the Paid App’s Most Useful Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/free-chatgpt-users-access-to-projects?utm_medium=RSS" target="_blank">Free ChatGPT Users Just Got Access to One of the Paid App’s Most Useful Features</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-05 13:30</span>
             </div>
         </div>
 </div>
@@ -321,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 293 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
