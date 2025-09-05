@@ -1,42 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-05 19:01:32 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-05 20:01:38 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 33 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, September 05, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Friday, September 05, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/5/belgium-asks-us-not-to-destroy-millions-in-contraceptives-bound-for-africa?traffic_source=rss" target="_blank">Belgium asks US not to destroy millions in contraceptives bound for Africa</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-05 19:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/05/nx-s1-5530733/bls-jobs-report-labor-statistics-trump" target="_blank">You can trust the jobs report, Labor Department workers urge public</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-05 19:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,6 +80,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/eric-tarpinian-jachym-ht-jef-250709_1752071032048_hpMain_2_4x3t_384.jpg" alt="2 teens arrested in DC murder of congressional intern" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/2-teens-arrested-3rd-suspect-large-dc-murder/story?id=125296417" target="_blank">2 teens arrested in DC murder of congressional intern</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-05 17:31</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -79,38 +97,38 @@
                 <span class="time">2025-09-05 16:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250905-Hyundai-atf-raid-2-se-1056-7a0c39.jpg" alt="Hundreds of South Korean nationals arrested at Hyundai&#x27;s Georgia facility" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/hundreds-south-korean-nationals-detained-largest-single-site-immigrati-rcna229312" target="_blank">Hundreds of South Korean nationals arrested at Hyundai&#x27;s Georgia facility</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-05 16:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/05/g-s1-87208/georgia-hyundai-immigration-raid-bryan-county-south-korea-response" target="_blank">Hundreds of South Koreans are among 475 detained in a Georgia immigration raid</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-05 14:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/05/nx-s1-5529369/smithsonian-trump-senators" target="_blank">Four Democratic senators urge Smithsonian to resist White House attempts to &#x27;bully the institution&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-05 14:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/05/personalized-ai-companion-app-dot-is-shutting-down/" target="_blank">Personalized AI companion app Dot is shutting down</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-05 19:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68bb2275d0b30151bfc71041/master/pass/Anthropic-AI-Lawsuit-Business-2216956955.jpg" alt="Anthropic Agrees to Pay Authors at Least $1.5 Billion in AI Copyright Settlement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/anthropic-settlement-lawsuit-copyright/" target="_blank">Anthropic Agrees to Pay Authors at Least $1.5 Billion in AI Copyright Settlement</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-05 19:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/entertainment/772635/showrunner-orson-welles-the-magnificent-ambersons" target="_blank">Showrunner wants to use generative AI to recreate lost footage from an Orson Welles classic</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-05 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/Scooby-Doo-and-Batman-via-WB-500x500-1757094176.jpg" alt="Warner Bros. sues Midjourney to stop AI knockoffs of Batman, Scooby-Doo" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -136,33 +154,6 @@
                 <span class="title"><a href="https://www.wired.com/story/save-hundreds-on-the-razer-blade-16-and-18-gaming-laptops/" target="_blank">Top Spec Razor Blade Laptops Are Average 14% Off Right Now</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-09-05 17:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/05/roblox-announces-short-form-video-feed-for-gameplay-clips-new-ai-tools-for-creators-and-more/" target="_blank">Roblox announces short-form video feed for gameplay clips, new AI tools for creators, and more</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-05 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/news-080625d-lg-500x500.jpg" alt="NASA’s acting chief “angry” about talk that China will beat US back to the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/09/nasas-acting-chief-angry-about-talk-that-china-will-beat-us-back-to-the-moon/" target="_blank">NASA’s acting chief “angry” about talk that China will beat US back to the Moon</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-05 17:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad" target="_blank">The best Nintendo Switch controllers to buy right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-05 17:08</span>
             </div>
         </div>
 </div>
@@ -253,6 +244,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4DDVE323T57JBENM7TR2EQR/hero-image.jpg" alt="Here&#x27;s When iOS 26 Will Likely Drop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/when-ios-26-will-release?utm_medium=RSS" target="_blank">Here&#x27;s When iOS 26 Will Likely Drop</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-05 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/ffvii-remake-cloud-barret.jpg" alt="Development Of FF7 Remake Part 3 And Kingdom Hearts 4 Are On Schedule, Says Director" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/tetsuya-nomura-final-fantasy-7-remake-part-3-kingdom-hearts-4-update-2000623498" target="_blank">Development Of FF7 Remake Part 3 And Kingdom Hearts 4 Are On Schedule, Says Director</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-05 19:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/CYBER.jpg" alt="Fans Are Trying To Crack A Cryptic, Unlisted Cyberpunk 2077 Video" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -288,24 +297,6 @@
                 <span class="time">2025-09-05 17:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Anker-Prime-Power-Brick.jpg" alt="Anker’s New Prime 300W Power Bank Is the Last Portable Battery You’ll Ever Need" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ankers-new-prime-300w-power-bank-is-the-last-portable-battery-youll-ever-need-2000654231" target="_blank">Anker’s New Prime 300W Power Bank Is the Last Portable Battery You’ll Ever Need</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-05 16:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2016/06/spongebob.jpg?fit=1920%2C1200&amp;quality=60&amp;ssl=1" alt="Listen to the isolated tracks of the Spongebob Squarepants theme tune" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/05/listen-to-the-isolated-tracks-of-the-spongebob-squarepants-theme-tune.html" target="_blank">Listen to the isolated tracks of the Spongebob Squarepants theme tune</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-05 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -334,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 293 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
