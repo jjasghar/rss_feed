@@ -1,40 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-05 11:01:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-05 12:02:17 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, September 05, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, September 05, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82ab/live/8a7bc150-8a48-11f0-94f4-77b666520245.jpg" alt="Angela Rayner resigns after underpaying tax on Hove flat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c80gr5emk43o?at_medium=RSS&at_campaign=rss" target="_blank">Angela Rayner resigns after underpaying tax on Hove flat</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-05 11:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/dc-protest_1757043053956_hpMain_4x3t_384.jpg" alt="Washington, DC residents press Congress to end Trump&#x27;s federal law enforcement surge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/washington-dc-residents-press-congress-end-trumps-federal/story?id=125275192" target="_blank">Washington, DC residents press Congress to end Trump&#x27;s federal law enforcement surge</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-05 11:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,6 +85,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f69c/live/b4477700-8a29-11f0-b917-03bcebef22ec.jpg" alt="Putin rejects Western security in Ukraine, warning troops would be target" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czxwl15w2qko?at_medium=RSS&at_campaign=rss" target="_blank">Putin rejects Western security in Ukraine, warning troops would be target</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-05 09:32</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -77,38 +102,29 @@
                 <span class="time">2025-09-05 09:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Business/construction-worker-02-gty-jt-250904_1757015947196_hpMain_4x3t_384.jpg" alt="BLS set to release 1st jobs report since Trump fired commissioner" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Business/bls-set-release-1st-jobs-report-trump-fired/story?id=125249122" target="_blank">BLS set to release 1st jobs report since Trump fired commissioner</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-05 09:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250903-construction-worker-ch-1114-836ce6.jpg" alt="Jobs report expected to show weakness in labor market" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/economy/august-2025-jobs-report-how-many-which-industries-what-to-know-rcna228780" target="_blank">Jobs report expected to show weakness in labor market</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-05 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/5/climate-change-driven-wildfires-increasing-air-pollution-across-globe-un?traffic_source=rss" target="_blank">Climate-change-driven wildfires increasing air pollution across globe: UN</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-05 06:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/771404/withings-scanwatch-2-ai-healthsense-4-ifa" target="_blank">Withings adds predictive AI health features to the ScanWatch 2</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-05 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/05/snapchats-new-lens-lets-you-create-ai-images-using-text-prompts/" target="_blank">Snapchat’s new Lens lets you create AI images using text prompts</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-05 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/Gz7fosCXUAA2Q3I-500x500.jpg" alt="Rocket Report: Neutron’s pad opens for business; SpaceX gets Falcon 9 green light" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,29 +161,29 @@
                 <span class="time">2025-09-05 06:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/769776/legion-go-2-official-lenovo-new-flagship-handheld-cost" target="_blank">Legion Go 2 official: Lenovo’s new flagship handheld costs $1,099 — and up</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-05 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/04/bret-taylors-sierra-raises-350m-at-a-10b-valuation/" target="_blank">Bret Taylor’s Sierra raises $350M at a $10B valuation</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-04 23:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18599279&w=600" alt="Toward Explainable AI (Part 7): Bridging Theory and Practice—SHAP: Bringing Clarity to Financial Decision-Making" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/explainable-ai-shap-financial-decision-making" target="_blank">Toward Explainable AI (Part 7): Bridging Theory and Practice—SHAP: Bringing Clarity to Financial Decision-Making</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-05 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMDVLK-Four-Months-Go" target="_blank">Four Months Have Passed Since The Last AMDVLK Driver Release</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-05 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,24 +220,6 @@
                 <span class="time">2025-09-05 06:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/company/github-is-enabling-broader-access-for-developers-in-syria-following-new-government-trade-rules/" target="_blank">GitHub is enabling broader access for developers in Syria following new government trade rules</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-09-05 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yash_sonawane25/docker-series-episode-14-docker-networking-deep-dive-bridge-host-overlay-3j78" target="_blank">Docker Series — Episode 14: Docker Networking Deep Dive (Bridge, Host, Overlay)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-05 03:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,9 +229,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/generative-ai-as-a-cybercrime-assistant.html" target="_blank">Generative AI as a Cybercrime Assistant</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/gpt-4o-mini-falls-for-psychological-manipulation.html" target="_blank">GPT-4o-mini Falls for Psychological Manipulation</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2025-09-04 11:06</span>
+                <span class="time">2025-09-05 11:03</span>
             </div>
         </div>
 </div>
@@ -333,7 +331,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 288 |
-        🔄 Last Updated: 11:01 UTC
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
