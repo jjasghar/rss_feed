@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-05 12:02:17 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-05 13:07:48 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, September 05, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, September 05, 2025 - 13:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/05/nx-s1-5529937/economy-jobs-trump-bls" target="_blank">The U.S. added only 22,000 jobs last month, showing cracks in the labor market</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-05 12:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82ab/live/8a7bc150-8a48-11f0-94f4-77b666520245.jpg" alt="Angela Rayner resigns after underpaying tax on Hove flat" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/czxwl15w2qko?at_medium=RSS&at_campaign=rss" target="_blank">Putin rejects Western security in Ukraine, warning troops would be target</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-05 09:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/5/fact-checking-robert-f-kennedys-statements-to-senate-on-covid-vaccines?traffic_source=rss" target="_blank">Fact checking Robert F Kennedy’s statements to Senate on COVID, vaccines</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-05 09:20</span>
             </div>
         </div>
 </div>
@@ -167,6 +164,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Redmibook-Keyboard-Linux-6.18" target="_blank">Xiaomi Redmibook Laptops To See Better Support With Linux 6.18</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-05 12:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/friction-collaborative-relationships/en/mediumimage/cat-morris-diana-montalion-medium-1756283787988.jpg" alt="Presentation: The Friction Fix: Building Collaborative Relationships Between Teams" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/friction-collaborative-relationships/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: The Friction Fix: Building Collaborative Relationships Between Teams</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-05 11:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18599279&w=600" alt="Toward Explainable AI (Part 7): Bridging Theory and Practice—SHAP: Bringing Clarity to Financial Decision-Making" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -202,24 +217,6 @@
                 <span class="time">2025-09-05 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/09/05/kotlin-is-more-than-just-the-android-house-language/" target="_blank">Kotlin is more than just the Android house language</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-09-05 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://pornbiz.com/post/17/the_scam_of_age_verification" target="_blank">The Scam of Age Verification</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-05 06:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Nepal.-Marc-Vinent-Shutterstock.jpg?fit=1080%2C810&amp;quality=60&amp;ssl=1" alt="Nepal bans social media: Facebook, Instagram, YouTube and other sites blocked" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/05/nepal-bans-social-media-facebook-instagram-youtube-and-other-sites-blocked.html" target="_blank">Nepal bans social media: Facebook, Instagram, YouTube and other sites blocked</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-05 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/outlaws.jpg" alt="Star Wars Outlaws Uses A Game Key Card Thanks To A Flaw With The Switch 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +290,6 @@
                 <span class="time">2025-09-05 00:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Sept2025_Lightspeed_io9.jpg" alt="A Spaceship Crew Faces Doom in This Surprisingly Tender Sci-Fi Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/a-spaceship-crew-faces-doom-in-this-surprisingly-tender-sci-fi-story-2000653167" target="_blank">A Spaceship Crew Faces Doom in This Surprisingly Tender Sci-Fi Story</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-04 23:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 288 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 13:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
