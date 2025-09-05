@@ -1,9 +1,14 @@
-<!-- Processing 54 RSS feeds at 2025-09-05 20:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-05 21:01:43 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
@@ -13,21 +18,27 @@
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Generated 8 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Friday, September 05, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Friday, September 05, 2025 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +54,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-gty-jt-250905_1757103880452_hpMain_4x3t_384.jpg" alt="Trump signs order renaming Pentagon &#x27;Department of War&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-sign-order-renaming-pentagon-department-war/story?id=125275019" target="_blank">Trump signs order renaming Pentagon &#x27;Department of War&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-05 20:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/05/g-s1-87367/anthropic-authors-settlement-pirated-chatbot-training-material" target="_blank">Anthropic to pay authors $1.5B to settle lawsuit over pirated chatbot training material</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-05 20:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +108,29 @@
                 <span class="time">2025-09-05 18:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/eric-tarpinian-jachym-ht-jef-250709_1752071032048_hpMain_2_4x3t_384.jpg" alt="2 teens arrested in DC murder of congressional intern" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/2-teens-arrested-3rd-suspect-large-dc-murder/story?id=125296417" target="_blank">2 teens arrested in DC murder of congressional intern</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-05 17:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/9/5/canadian-unemployment-jumps-to-7-1-as-tariffs-weigh-on-economy?traffic_source=rss" target="_blank">Canadian unemployment jumps to 7.1% as tariffs weigh on economy</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-05 16:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/05/screw-the-money-anthropics-1-5b-copyright-settlement-sucks-for-writers/" target="_blank">Screw the money — Anthropic’s $1.5B copyright settlement sucks for writers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-05 20:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-604354902-500x500-1757102247.jpg" alt="“First of its kind” AI settlement: Anthropic to pay authors $1.5 billion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/first-of-its-kind-ai-settlement-anthropic-to-pay-authors-1-5-billion/" target="_blank">“First of its kind” AI settlement: Anthropic to pay authors $1.5 billion</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-05 20:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +167,20 @@
                 <span class="time">2025-09-05 18:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68bb21f66f6778c39b42975c/master/pass/Daily%20Deal-%20Razer.png" alt="Top Spec Razor Blade Laptops Are Average 14 Percent Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/save-hundreds-on-the-razer-blade-16-and-18-gaming-laptops/" target="_blank">Top Spec Razor Blade Laptops Are Average 14 Percent Off Right Now</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-05 17:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68bb21f66f6778c39b42975c/master/pass/Daily%20Deal-%20Razer.png" alt="Top Spec Razor Blade Laptops Are Average 14% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/save-hundreds-on-the-razer-blade-16-and-18-gaming-laptops/" target="_blank">Top Spec Razor Blade Laptops Are Average 14% Off Right Now</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-05 17:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share" target="_blank">Anthropic agrees to pay $1.5B to settle lawsuit with book authors</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-05 19:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +226,6 @@
                 <span class="time">2025-09-05 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18599376&w=600" alt="Measuring What Matters: A Strategic Lens on Transformation Metrics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/measuring-agile-ai-transformations-metrics" target="_blank">Measuring What Matters: A Strategic Lens on Transformation Metrics</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-05 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +254,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Gizmodo-IFA-2025-Featured-Image-1.jpg" alt="Gizmodo’s Best of IFA 2025 Awards: See the Winners" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/best-of-ifa-2025-awards-winners-2000654651" target="_blank">Gizmodo’s Best of IFA 2025 Awards: See the Winners</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-05 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/New-Project.jpg" alt="New Tron 3 Ad Features Mr. Beast And Folks, I’m So Tired" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/new-tron-3-ad-features-mr-beast-tron-ares-disney-2000623530" target="_blank">New Tron 3 Ad Features Mr. Beast And Folks, I’m So Tired</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-05 20:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K4DDVE323T57JBENM7TR2EQR/hero-image.jpg" alt="Here&#x27;s When iOS 26 Will Likely Drop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,24 +308,6 @@
                 <span class="time">2025-09-05 18:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4DFS6X4D65ZDXNHYV8S1Y9V/hero-image.png" alt="My Favorite Amazon Deal of the Day: The Samsung Galaxy S25 FE With a $100 Gift Card" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-galaxy-s25-fe-amazon-deal-of-the-day?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: The Samsung Galaxy S25 FE With a $100 Gift Card</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-05 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Shell-grotto-margate-scaled.jpg?fit=2560%2C1928&amp;quality=60&amp;ssl=1" alt="Shell Grotto: England&#x27;s mysterious underground seashell chamber" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/05/shell-grotto-englands-mysterious-underground-seashell-chamber.html" target="_blank">Shell Grotto: England&#x27;s mysterious underground seashell chamber</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-05 17:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 290 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 290 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
