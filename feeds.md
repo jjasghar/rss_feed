@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-05 15:02:18 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-05 16:01:55 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 27 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, September 05, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, September 05, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +106,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/gamekeycard-500x500.jpg" alt="Dev says Switch 2’s physical Game Cards were too slow for Star Wars Outlaws port" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2025/09/dev-says-switch-2s-physical-game-cards-were-too-slow-for-star-wars-outlaws-port/" target="_blank">Dev says Switch 2’s physical Game Cards were too slow for Star Wars Outlaws port</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-05 15:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/772769/samsung-galaxy-s26-edge-render-leak-iphone-17-pro" target="_blank">Samsung&amp;#8217;s Galaxy S26 Edge might look like an iPhone 17 Pro</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-05 15:52</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -141,29 +159,20 @@
                 <span class="time">2025-09-05 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/771404/withings-scanwatch-2-ai-healthsense-4-ifa" target="_blank">Withings adds predictive AI health features to the ScanWatch 2</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-05 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/05/snapchats-new-lens-lets-you-create-ai-images-using-text-prompts/" target="_blank">Snapchat’s new Lens lets you create AI images using text prompts</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-05 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/samfrmd/finally-a-15-second-fix-for-local-referrer-attribution-testing-b8d" target="_blank">Finally: A 15-Second Fix for Local Referrer &amp; Attribution Testing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-05 15:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb6j3u529zbea0662ex5v.png" alt="Connecting the Centrifugo in laravel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -171,6 +180,15 @@
                 <span class="title"><a href="https://dev.to/deniskorbakov/connecting-the-centrifugo-in-laravel-2l78" target="_blank">Connecting the Centrifugo in laravel</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-05 14:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/bringing-canonical-kubernetes-to-sylva-a-new-chapter-for-european-telco-clouds" target="_blank">Bringing Canonical Kubernetes to Sylva: a new chapter for European telco clouds</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-09-05 14:26</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +218,6 @@
                 <span class="time">2025-09-05 13:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Redmibook-Keyboard-Linux-6.18" target="_blank">Xiaomi Redmibook Laptops To See Better Support With Linux 6.18</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-05 12:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/friction-collaborative-relationships/en/mediumimage/cat-morris-diana-montalion-medium-1756283787988.jpg" alt="Presentation: The Friction Fix: Building Collaborative Relationships Between Teams" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/friction-collaborative-relationships/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: The Friction Fix: Building Collaborative Relationships Between Teams</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-05 11:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2016/06/spongebob.jpg?fit=1920%2C1200&amp;quality=60&amp;ssl=1" alt="Listen to the isolated tracks of the Spongebob Squarepants theme tune" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/05/listen-to-the-isolated-tracks-of-the-spongebob-squarepants-theme-tune.html" target="_blank">Listen to the isolated tracks of the Spongebob Squarepants theme tune</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-05 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/buffyandwillow.jpg" alt="‘Buffy’ Star Sarah Michelle Gellar Shuts Down Reboot Haters" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,20 +291,20 @@
                 <span class="time">2025-09-05 10:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/waym-sf.jpg" alt="People Are Back-Flipping Off of Waymo’s Robotaxis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/waymo-san-francisco-2000653614" target="_blank">People Are Back-Flipping Off of Waymo’s Robotaxis</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-05 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1757022375-20250905.png" alt="Saturday Morning Breakfast Cereal - Positive" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/positive-3" target="_blank">Saturday Morning Breakfast Cereal - Positive</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-09-05 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -305,31 +314,13 @@
                 <span class="time">2025-09-05 07:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/roommates-2/" target="_blank">Roommates</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2025-09-04 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1756846973-20250904.png" alt="Saturday Morning Breakfast Cereal - Technically" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/technically" target="_blank">Saturday Morning Breakfast Cereal - Technically</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-09-04 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 291 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
