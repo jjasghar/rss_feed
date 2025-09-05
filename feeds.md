@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-05 14:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-05 15:02:18 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Friday, September 05, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, September 05, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/05/nx-s1-5529369/smithsonian-trump-senators" target="_blank">Four Democratic senators urge Smithsonian to resist White House attempts to &#x27;bully the institution&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-05 14:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,6 +83,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757076570585_now_mnn_august_jobs_report_250905_1920x1080-dhgr63.jpg" alt="U.S. economy adds just 22,000 jobs in August, far below expectations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/-u-s-economy-adds-just-22-000-jobs-in-august-far-below-expectations-246812741859" target="_blank">U.S. economy adds just 22,000 jobs in August, far below expectations</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-05 12:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Business/construction-worker-02-gty-jt-250904_1757015947196_hpMain_4x3t_384.jpg" alt="Hiring slowdown continues in 1st jobs report since Trump fired commissioner" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -81,29 +100,38 @@
                 <span class="time">2025-09-05 12:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82ab/live/8a7bc150-8a48-11f0-94f4-77b666520245.jpg" alt="Angela Rayner resigns after underpaying tax on Hove flat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c80gr5emk43o?at_medium=RSS&at_campaign=rss" target="_blank">Angela Rayner resigns after underpaying tax on Hove flat</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-05 11:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/dc-protest_1757043053956_hpMain_4x3t_384.jpg" alt="Washington, DC residents press Congress to end Trump&#x27;s federal law enforcement surge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/washington-dc-residents-press-congress-end-trumps-federal/story?id=125275192" target="_blank">Washington, DC residents press Congress to end Trump&#x27;s federal law enforcement surge</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-05 11:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/05/scale-ais-former-cto-launches-ai-agent-that-could-solve-big-datas-biggest-problem/" target="_blank">Scale AI’s former CTO launches AI agent that could solve big data’s biggest problem</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-05 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/772508/tesla-elon-musk-trillion-pay-package-robot" target="_blank">Tesla offers $1 trillion to Elon Musk to unleash his army of robots</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-05 14:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/10/openai_canvas_logo-500x500.jpg" alt="OpenAI links up with Broadcom to produce its own AI chips" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/09/openai-links-up-with-broadcom-to-produce-its-own-ai-chips/" target="_blank">OpenAI links up with Broadcom to produce its own AI chips</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-05 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66a169f4cb23f7a73c0f08b7/master/pass/072424-security-infostealers.jpg" alt="7 Best Password Managers (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -131,38 +159,29 @@
                 <span class="time">2025-09-05 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/Gz7fosCXUAA2Q3I-500x500.jpg" alt="Rocket Report: Neutron’s pad opens for business; SpaceX gets Falcon 9 green light" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/09/rocket-report-neutrons-pad-opens-for-business-spacex-gets-falcon-9-green-light/" target="_blank">Rocket Report: Neutron’s pad opens for business; SpaceX gets Falcon 9 green light</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-05 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/771917/qualcomm-bmw-snapdragon-ride-pilot-adas" target="_blank">Qualcomm teams up with BMW for hands-free driving</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-05 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/FK_BMW_iX3-015_FK12371-500x500.jpg" alt="BMW debuts 6th-generation EV powertrain in the all-electric iX3" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/09/neue-klasse-bmws-tech-filled-ix3-electric-suv-is-unveiled/" target="_blank">BMW debuts 6th-generation EV powertrain in the all-electric iX3</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-05 09:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb6j3u529zbea0662ex5v.png" alt="Connecting the Centrifugo in laravel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/deniskorbakov/connecting-the-centrifugo-in-laravel-2l78" target="_blank">Connecting the Centrifugo in laravel</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-05 14:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/05/firefox-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox Adds CoPilot Chatbot, New Tab Widgets in Nightly Builds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/firefox-adding-copilot-chatbot-features" target="_blank">Firefox Adds CoPilot Chatbot, New Tab Widgets in Nightly Builds</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-05 14:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7uck12nues45oci371za.png" alt="Chain Of Responsibility in Python..." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,24 +218,6 @@
                 <span class="time">2025-09-05 11:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18599279&w=600" alt="Toward Explainable AI (Part 7): Bridging Theory and Practice—SHAP: Bringing Clarity to Financial Decision-Making" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/explainable-ai-shap-financial-decision-making" target="_blank">Toward Explainable AI (Part 7): Bridging Theory and Practice—SHAP: Bringing Clarity to Financial Decision-Making</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-05 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMDVLK-Four-Months-Go" target="_blank">Four Months Have Passed Since The Last AMDVLK Driver Release</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-05 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/buffyandwillow.jpg" alt="‘Buffy’ Star Sarah Michelle Gellar Shuts Down Reboot Haters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/buffy-star-sarah-michelle-gellar-shuts-down-reboot-haters-2000654351" target="_blank">‘Buffy’ Star Sarah Michelle Gellar Shuts Down Reboot Haters</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-05 14:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/61uHm0Ir82L._AC_SL1500_.jpg" alt="Move Over, Mac Mini, There’s a Mini PC Eating Your Lunch for Just Peanuts at Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/move-over-mac-mini-theres-a-mini-pc-eating-your-lunch-for-just-peanuts-at-amazon-2000623161" target="_blank">Move Over, Mac Mini, There’s a Mini PC Eating Your Lunch for Just Peanuts at Amazon</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-05 14:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K4CJKBQMMY08G9XP29MFVPNV/hero-image.jpg" alt="Free ChatGPT Users Just Got Access to One of the Paid App’s Most Useful Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +289,6 @@
                 <span class="title"><a href="https://gizmodo.com/waymo-san-francisco-2000653614" target="_blank">People Are Back-Flipping Off of Waymo’s Robotaxis</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-05 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Lenovo-Legion-Go-2-Handheld-1.jpg" alt="The Pretty Screen on Lenovo’s Legion Go 2 Will Almost Make You Forget About Its Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-pretty-screen-on-lenovos-legion-go-2-will-almost-make-you-forget-about-its-price-2000649925" target="_blank">The Pretty Screen on Lenovo’s Legion Go 2 Will Almost Make You Forget About Its Price</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-05 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4B320Q9S7JGQHBMXJ1FVVNK/hero-image.jpg" alt="Lenovo&#x27;s Legion Go 2 Isn&#x27;t the Premium Steam Deck I Wanted" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/the-legion-go-2-is-a-switch-2-for-rich-kids?utm_medium=RSS" target="_blank">Lenovo&#x27;s Legion Go 2 Isn&#x27;t the Premium Steam Deck I Wanted</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-05 06:00</span>
             </div>
         </div>
 </div>
@@ -327,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
