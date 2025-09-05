@@ -1,39 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-09-05 00:04:28 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-09-05 01:29:06 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, September 05, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, September 05, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -241,12 +233,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Sept2025_Lightspeed_io9.jpg" alt="A Spaceship Crew Faces Doom in This Surprisingly Tender Sci-Fi Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/a-spaceship-crew-faces-doom-in-this-surprisingly-tender-sci-fi-story-2000653167" target="_blank">A Spaceship Crew Faces Doom in This Surprisingly Tender Sci-Fi Story</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-04 23:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/Ninja-Gaiden-4.jpg" alt="Ninja Gaiden 4 Deprogrammed My Souls-Pilled Brain And I Loved Every Minute" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/ninja-gaiden-4-hands-on-hitstop-difficulty-game-pass-2000623220" target="_blank">Ninja Gaiden 4 Deprogrammed My Souls-Pilled Brain And I Loved Every Minute</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-09-04 22:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HJ4ME7GTCX3BBJWAVGFBC6N3/hero-image.png" alt="These Are the Best Laptop Deals Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-laptop-deals-september-2025?utm_medium=RSS" target="_blank">These Are the Best Laptop Deals Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-04 22:00</span>
             </div>
         </div>
 <div class="story">
@@ -276,24 +286,6 @@
                 <span class="time">2025-09-04 20:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/burner-phone.jpeg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Travel under Trump 2.0: Don&#x27;t cross a U.S. border without a &quot;perfect burner phone&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/04/travel-under-trump-2-0-dont-cross-a-u-s-border-without-a-perfect-burner-phone.html" target="_blank">Travel under Trump 2.0: Don&#x27;t cross a U.S. border without a &quot;perfect burner phone&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-04 19:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/New-Lucy-Guilty-Gear-Strive-Cyberpunk-Edgerunners-Arc-System-Works.jpg" alt="‘Cyberpunk: Edgerunners’ Standout Lucy Was Destined to Join ‘Guilty Gear Strive’ in Its Groundbreaking Collab" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/cyberpunk-edgerunners-standout-lucy-was-destined-to-join-guilty-gear-strive-in-its-groundbreaking-collab-2000653648" target="_blank">‘Cyberpunk: Edgerunners’ Standout Lucy Was Destined to Join ‘Guilty Gear Strive’ in Its Groundbreaking Collab</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-04 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,22 +309,13 @@
                 <span class="time">2025-09-04 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5650.png" alt="The Somnium Files" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5650" target="_blank">The Somnium Files</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-09-04 00:55</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 283 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
