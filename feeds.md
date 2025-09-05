@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-05 09:01:59 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-05 10:01:53 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 0 new posts out of 23 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, September 05, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, September 05, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/25/04/1920x1080/skynews-breaking-news-breaking_6875336.png?20250820165527" alt="Three British nationals among those who died in Lisbon funicular crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/three-british-nationals-among-those-who-died-in-lisbon-funicular-crash-13424707" target="_blank">Three British nationals among those who died in Lisbon funicular crash</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-05 09:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/5/fact-checking-robert-f-kennedys-statements-to-senate-on-covid-vaccines?traffic_source=rss" target="_blank">Fact checking Robert F Kennedy’s statements to Senate on COVID, vaccines</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-05 09:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250903-construction-worker-ch-1114-836ce6.jpg" alt="Jobs report expected to show weakness in labor market" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/economy/august-2025-jobs-report-how-many-which-industries-what-to-know-rcna228780" target="_blank">Jobs report expected to show weakness in labor market</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-05 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,38 +102,29 @@
                 <span class="time">2025-09-05 06:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/5/osaka-knocked-out-of-us-open-sabalenka-to-play-anisimova-in-final?traffic_source=rss" target="_blank">Osaka knocked out of US Open; Sabalenka to play Anisimova in final</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-05 05:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/04/nx-s1-5529431/pbs-cuts-15-of-jobs-in-wake-of-federal-funding-cut" target="_blank">PBS cuts 15% of jobs in wake of federal funding cut</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-05 03:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/04/nx-s1-5529420/trump-department-of-war-department-of-defense" target="_blank">President Trump plans to rename the Defense Department as the Department of War</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-05 02:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/771917/qualcomm-bmw-snapdragon-ride-pilot-adas" target="_blank">Qualcomm teams up with BMW for hands-free driving</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-05 09:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/FK_BMW_iX3-015_FK12371-500x500.jpg" alt="BMW debuts 6th-generation EV powertrain in the all-electric iX3" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/09/neue-klasse-bmws-tech-filled-ix3-electric-suv-is-unveiled/" target="_blank">BMW debuts 6th-generation EV powertrain in the all-electric iX3</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-05 09:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68ba59f10a668e4a20c31c98/master/pass/Lenovo%20ThinkBook%20VertiFlex%20Concept%20SOURCE%20Julian%20Chokkattu(1).jpg" alt="Lenovo&#x27;s ThinkBook VertiFlex Concept Laptop Has a Swiveling Screen" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,29 +161,20 @@
                 <span class="time">2025-09-04 23:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2233690134-500x500.jpg" alt="RFK Jr. says COVID shots still available to all as cancer patients denied access" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/09/a-charlatan-chaos-and-lies-anti-vaccine-activist-rfk-jr-faces-senate/" target="_blank">RFK Jr. says COVID shots still available to all as cancer patients denied access</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-04 23:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/11/encryption-key-recovery-attack-500x500.jpg" alt="The number of mis-issued 1.1.1.1 certificates grows. Here’s the latest." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/information-technology/2025/09/the-number-of-mis-issued-1-1-1-1-certificates-grows-heres-the-latest/" target="_blank">The number of mis-issued 1.1.1.1 certificates grows. Here’s the latest.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-04 22:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/articles/software-engineers-excel-AI/en/headerimage/software-engineers-excel-AI-header-1756904662117.jpg" alt="Article: Virtual panel: How software engineers and team leaders can excel with artificial intelligence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/software-engineers-excel-AI/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Virtual panel: How software engineers and team leaders can excel with artificial intelligence</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-05 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +218,6 @@
                 <span class="title"><a href="https://fil-c.org/fugc" target="_blank">Fil&#x27;s Unbelievable Garbage Collector</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-09-05 00:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-september-5-2025" target="_blank">Friday Five — September 5, 2025</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2025-09-05 00:00</span>
             </div>
         </div>
 </div>
@@ -324,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 287 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
