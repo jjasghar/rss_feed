@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-05 17:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-05 18:02:12 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, September 05, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, September 05, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -101,6 +108,42 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/68bb21f66f6778c39b42975c/master/pass/Daily%20Deal-%20Razer.png" alt="Top Spec Razor Blade Laptops Are Average 14% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/save-hundreds-on-the-razer-blade-16-and-18-gaming-laptops/" target="_blank">Top Spec Razor Blade Laptops Are Average 14% Off Right Now</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-05 17:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/05/roblox-announces-short-form-video-feed-for-gameplay-clips-new-ai-tools-for-creators-and-more/" target="_blank">Roblox announces short-form video feed for gameplay clips, new AI tools for creators, and more</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-05 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/08/news-080625d-lg-500x500.jpg" alt="NASA’s acting chief “angry” about talk that China will beat US back to the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/09/nasas-acting-chief-angry-about-talk-that-china-will-beat-us-back-to-the-moon/" target="_blank">NASA’s acting chief “angry” about talk that China will beat US back to the Moon</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-05 17:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/23350899/nintendo-switch-controllers-best-wireless-joy-con-gamepad" target="_blank">The best Nintendo Switch controllers to buy right now</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-05 17:08</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -118,47 +161,38 @@
                 <span class="time">2025-09-05 15:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/772769/samsung-galaxy-s26-edge-render-leak-iphone-17-pro" target="_blank">Samsung&amp;#8217;s Galaxy S26 Edge might look like an iPhone 17 Pro</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-05 15:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/05/scale-ais-former-cto-launches-ai-agent-that-could-solve-big-datas-biggest-problem/" target="_blank">Scale AI’s former CTO launches AI agent that could solve big data’s biggest problem</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-05 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/772508/tesla-elon-musk-trillion-pay-package-robot" target="_blank">Tesla offers $1 trillion to Elon Musk to unleash his army of robots</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-05 14:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/10/openai_canvas_logo-500x500.jpg" alt="OpenAI links up with Broadcom to produce its own AI chips" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/09/openai-links-up-with-broadcom-to-produce-its-own-ai-chips/" target="_blank">OpenAI links up with Broadcom to produce its own AI chips</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-05 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/imranc07/automated-testing-of-swag-labs-web-application-with-selenium-pytest-3cij" target="_blank">Automated Testing of Swag Labs Web Application with Selenium &amp; PyTest 🚀</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-05 17:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18602998&w=600" alt="Making String Search Easier Across Databases" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/making-string-search-easier-across-databases" target="_blank">Making String Search Easier Across Databases</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-05 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/pi-1tb-ssd.jpg?resize=406%2C232&amp;ssl=1" alt="Raspberry Pi Launches Own-Brand 1TB SSD for $70/£67" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/raspberry-pi-1tb-official-m2-ssd" target="_blank">Raspberry Pi Launches Own-Brand 1TB SSD for $70/£67</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-05 16:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18599376&w=600" alt="Measuring What Matters: A Strategic Lens on Transformation Metrics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -178,39 +212,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb6j3u529zbea0662ex5v.png" alt="Connecting the Centrifugo in laravel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/deniskorbakov/connecting-the-centrifugo-in-laravel-2l78" target="_blank">Connecting the Centrifugo in laravel</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-05 14:46</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/bringing-canonical-kubernetes-to-sylva-a-new-chapter-for-european-telco-clouds" target="_blank">Bringing Canonical Kubernetes to Sylva: a new chapter for European telco clouds</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-09-05 14:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/05/firefox-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox Adds CoPilot Chatbot, New Tab Widgets in Nightly Builds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/firefox-adding-copilot-chatbot-features" target="_blank">Firefox Adds CoPilot Chatbot, New Tab Widgets in Nightly Builds</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-05 14:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7uck12nues45oci371za.png" alt="Chain Of Responsibility in Python..." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sommukhopadhyay/chain-of-responsibility-in-python-4588" target="_blank">Chain Of Responsibility in Python...</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-05 13:47</span>
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/ubuntu-2510-strix-halo" target="_blank">A First Look At Ubuntu 25.10 Performance On AMD Strix Halo / Framework Desktop</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-05 15:00</span>
             </div>
         </div>
 </div>
@@ -232,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Shell-grotto-margate-scaled.jpg?fit=2560%2C1928&amp;quality=60&amp;ssl=1" alt="Shell Grotto: England&#x27;s mysterious underground seashell chamber" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/05/shell-grotto-englands-mysterious-underground-seashell-chamber.html" target="_blank">Shell Grotto: England&#x27;s mysterious underground seashell chamber</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-05 17:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Anker-Prime-Power-Brick.jpg" alt="Anker’s New Prime 300W Power Bank Is the Last Portable Battery You’ll Ever Need" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +293,6 @@
                 <span class="time">2025-09-05 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Nepal.-Marc-Vinent-Shutterstock.jpg?fit=1080%2C810&amp;quality=60&amp;ssl=1" alt="Nepal bans social media: Facebook, Instagram, YouTube and other sites blocked" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/05/nepal-bans-social-media-facebook-instagram-youtube-and-other-sites-blocked.html" target="_blank">Nepal bans social media: Facebook, Instagram, YouTube and other sites blocked</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-05 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 292 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 292 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
