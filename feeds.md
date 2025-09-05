@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-09-05 10:01:53 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-05 11:01:29 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, September 05, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, September 05, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +51,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/9/5/australian-parties-all-very-tough-on-asylum-seekers?traffic_source=rss" target="_blank">Australian parties all “very tough” on asylum seekers</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-05 10:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/25/04/1920x1080/skynews-breaking-news-breaking_6875336.png?20250820165527" alt="Three British nationals among those who died in Lisbon funicular crash" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -64,6 +75,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/5/fact-checking-robert-f-kennedys-statements-to-senate-on-covid-vaccines?traffic_source=rss" target="_blank">Fact checking Robert F Kennedy’s statements to Senate on COVID, vaccines</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-05 09:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Business/construction-worker-02-gty-jt-250904_1757015947196_hpMain_4x3t_384.jpg" alt="BLS set to release 1st jobs report since Trump fired commissioner" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Business/bls-set-release-1st-jobs-report-trump-fired/story?id=125249122" target="_blank">BLS set to release 1st jobs report since Trump fired commissioner</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-05 09:16</span>
             </div>
         </div>
 <div class="story">
@@ -84,29 +104,20 @@
                 <span class="time">2025-09-05 06:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca52/live/d93cfc70-8a1e-11f0-b5e7-fbd49e06d1c0.jpg" alt="Chris Mason: Heads it&#x27;s awkward, tails it&#x27;s awkward for the prime minister" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly92v6dln9o?at_medium=RSS&at_campaign=rss" target="_blank">Chris Mason: Heads it&#x27;s awkward, tails it&#x27;s awkward for the prime minister</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-05 06:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/5/messi-scores-twice-for-argentina-as-he-bids-emotional-world-cup-farewell?traffic_source=rss" target="_blank">Messi brace for Argentina downs Venezuela in emotional World Cup farewell</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-05 06:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/Gz7fosCXUAA2Q3I-500x500.jpg" alt="Rocket Report: Neutron’s pad opens for business; SpaceX gets Falcon 9 green light" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/09/rocket-report-neutrons-pad-opens-for-business-spacex-gets-falcon-9-green-light/" target="_blank">Rocket Report: Neutron’s pad opens for business; SpaceX gets Falcon 9 green light</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-05 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +163,20 @@
                 <span class="time">2025-09-04 23:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/21280354/best-ipad-deals-apple" target="_blank">The best iPad deals you can get right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-04 23:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/madhiashabih/htbs-network-enumeration-with-nmap-exercises-walkthrough-ol4" target="_blank">Network Enumeration with Nmap Walkthrough (Hack The Box)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-05 10:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/articles/software-engineers-excel-AI/en/headerimage/software-engineers-excel-AI-header-1756904662117.jpg" alt="Article: Virtual panel: How software engineers and team leaders can excel with artificial intelligence" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +222,6 @@
                 <span class="time">2025-09-05 03:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://fil-c.org/fugc" target="_blank">Fil&#x27;s Unbelievable Garbage Collector</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-05 00:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/outlaws.jpg" alt="Star Wars Outlaws Uses A Game Key Card Thanks To A Flaw With The Switch 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/star-wars-outlaws-switch-2-game-key-card-2000623413" target="_blank">Star Wars Outlaws Uses A Game Key Card Thanks To A Flaw With The Switch 2</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-05 10:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/waym-sf.jpg" alt="People Are Back-Flipping Off of Waymo’s Robotaxis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/waymo-san-francisco-2000653614" target="_blank">People Are Back-Flipping Off of Waymo’s Robotaxis</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-05 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Lenovo-Legion-Go-2-Handheld-1.jpg" alt="The Pretty Screen on Lenovo’s Legion Go 2 Will Almost Make You Forget About Its Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +293,6 @@
                 <span class="title"><a href="https://gizmodo.com/a-spaceship-crew-faces-doom-in-this-surprisingly-tender-sci-fi-story-2000653167" target="_blank">A Spaceship Crew Faces Doom in This Surprisingly Tender Sci-Fi Story</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-04 23:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/Ninja-Gaiden-4.jpg" alt="Ninja Gaiden 4 Deprogrammed My Souls-Pilled Brain And I Loved Every Minute" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ninja-gaiden-4-hands-on-hitstop-difficulty-game-pass-2000623220" target="_blank">Ninja Gaiden 4 Deprogrammed My Souls-Pilled Brain And I Loved Every Minute</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-04 22:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HJ4ME7GTCX3BBJWAVGFBC6N3/hero-image.png" alt="These Are the Best Laptop Deals Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-laptop-deals-september-2025?utm_medium=RSS" target="_blank">These Are the Best Laptop Deals Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-04 22:00</span>
             </div>
         </div>
 </div>
@@ -330,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 40 | 📸 With Images: 287 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 288 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
