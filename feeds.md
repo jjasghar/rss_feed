@@ -1,31 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-05 01:29:06 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-05 02:26:48 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, September 05, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, September 05, 2025 - 02:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/5/russia-ukraine-war-list-of-key-events-day-1289?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,289</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-05 01:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,15 +96,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/rfk-jr-hearing-live-updates-rfk-jr-face/?id=125251480" target="_blank">Both Republicans and Democrats clash with RFK Jr. on vaccines, CDC turmoil</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-04 21:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/04/nx-s1-5529328/ecuador-rubio-drug-gangs-designated-terrorists" target="_blank">The U.S. is designating Ecuador&#x27;s largest gangs as terrorists</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-04 21:18</span>
             </div>
         </div>
 </div>
@@ -162,6 +165,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-september-5-2025" target="_blank">Friday Five — September 5, 2025</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2025-09-05 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/" target="_blank">What Is the Fourier Transform?</a></span>
                 <span class="feed">Hacker News</span>
@@ -202,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/ahmedraza_fyntune/memory-management-in-php-m10" target="_blank">Memory Management in PHP</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-04 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GCC-16-Increasing-LTO-Parts" target="_blank">GCC 16 Increasing Its Default LTO Partition Count Due To Today&#x27;s High Core Count CPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-04 18:44</span>
             </div>
         </div>
 </div>
@@ -314,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 02:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
