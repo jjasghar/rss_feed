@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-05 05:02:09 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-09-05 06:02:16 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, September 05, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, September 05, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/5/osaka-knocked-out-of-us-open-sabalenka-to-play-anisimova-in-final?traffic_source=rss" target="_blank">Osaka knocked out of US Open; Sabalenka to play Anisimova in final</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-05 05:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/4/prosecutors-launch-probe-into-argentina-couple-over-nazi-looted-painting?traffic_source=rss" target="_blank">Prosecutors launch probe into Argentina couple over Nazi-looted painting</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-04 23:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757026893624_nn_nobles_250904_1920x1080-dyz9uc.jpg" alt="HHS Sec. Robert F. Kennedy Jr. grilled over CDC turmoil, vaccines" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/hhs-sec-rfk-jr-grilled-over-cdc-turmoil-vaccines-246754885632" target="_blank">HHS Sec. Robert F. Kennedy Jr. grilled over CDC turmoil, vaccines</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-04 23:01</span>
             </div>
         </div>
 </div>
@@ -238,6 +238,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Lenovo-Legion-Go-2-Handheld-1.jpg" alt="The Pretty Screen on Lenovo’s Legion Go 2 Will Almost Make You Forget About Its Price" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-pretty-screen-on-lenovos-legion-go-2-will-almost-make-you-forget-about-its-price-2000649925" target="_blank">The Pretty Screen on Lenovo’s Legion Go 2 Will Almost Make You Forget About Its Price</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-05 06:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/shutterstock_2501980883.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="From the tropics to Hollywood: these green sea turtles are surfing a post-industrial paradise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/04/from-the-tropics-to-hollywood-these-green-sea-turtles-are-surfing-a-post-industrial-paradise.html" target="_blank">From the tropics to Hollywood: these green sea turtles are surfing a post-industrial paradise</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-05 00:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Sept2025_Lightspeed_io9.jpg" alt="A Spaceship Crew Faces Doom in This Surprisingly Tender Sci-Fi Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -273,24 +291,6 @@
                 <span class="time">2025-09-04 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/avengershed1.jpg" alt="Who Have Marvel’s Avengers Become?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/who-have-marvels-avengers-become-2000642534" target="_blank">Who Have Marvel’s Avengers Become?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-04 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/colllege.jpg" alt="EA Tells Colleges It’s No Longer Making A Basketball Game, Blames Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ea-college-basketball-canceled-2k-sports-nba-leaked-email-2000623214" target="_blank">EA Tells Colleges It’s No Longer Making A Basketball Game, Blames Them</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-04 20:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
