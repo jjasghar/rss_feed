@@ -1,27 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-05 04:02:12 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-05 05:02:09 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Generated 1 new posts out of 18 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, September 05, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, September 05, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/04/nx-s1-5529431/pbs-cuts-15-of-jobs-in-wake-of-federal-funding-cut" target="_blank">PBS cuts 15% of jobs in wake of federal funding cut</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-05 03:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,15 +98,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/hhs-sec-rfk-jr-grilled-over-cdc-turmoil-vaccines-246754885632" target="_blank">HHS Sec. Robert F. Kennedy Jr. grilled over CDC turmoil, vaccines</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-09-04 23:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/kennedy-hearing-17-ap-gmh-250904_1756998419554_hpMain_4x3t_384.jpg" alt="Amid RFK Jr.&#x27;s fiery Senate hearing over CDC turmoil, vaccines, here are 4 takeaways" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/4-takeaways-after-rfk-jrs-fiery-senate-hearing/story?id=125266167" target="_blank">Amid RFK Jr.&#x27;s fiery Senate hearing over CDC turmoil, vaccines, here are 4 takeaways</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-04 22:43</span>
             </div>
         </div>
 </div>
@@ -158,6 +167,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/09/05/kotlin-is-more-than-just-the-android-house-language/" target="_blank">Kotlin is more than just the Android house language</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-09-05 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/yash_sonawane25/docker-series-episode-14-docker-networking-deep-dive-bridge-host-overlay-3j78" target="_blank">Docker Series — Episode 14: Docker Networking Deep Dive (Bridge, Host, Overlay)</a></span>
                 <span class="feed">DEV Community</span>
@@ -198,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/carlos_mata_24b95b955c733/como-habilitar-el-modo-oscuro-en-brave-1e57" target="_blank">Cómo Habilitar el Modo Oscuro en Brave</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-04 21:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/android-studio-narwahl-gemini/en/headerimage/android-studio-narwahl-gemini-1757016496239.jpeg" alt="Android Studio Narwhal Extends Gemini AI Capabilities" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/android-studio-narwahl-gemini/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Android Studio Narwhal Extends Gemini AI Capabilities</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-04 21:00</span>
             </div>
         </div>
 </div>
@@ -310,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
