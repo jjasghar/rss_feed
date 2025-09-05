@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-05 06:02:16 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-05 07:01:34 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, September 05, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, September 05, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/5/messi-scores-twice-for-argentina-as-he-bids-emotional-world-cup-farewell?traffic_source=rss" target="_blank">Messi brace for Argentina downs Venezuela in emotional World Cup farewell</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-05 06:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +101,29 @@
                 <span class="time">2025-09-05 01:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/4/prosecutors-launch-probe-into-argentina-couple-over-nazi-looted-painting?traffic_source=rss" target="_blank">Prosecutors launch probe into Argentina couple over Nazi-looted painting</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-04 23:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68ba59f10a668e4a20c31c98/master/pass/Lenovo%20ThinkBook%20VertiFlex%20Concept%20SOURCE%20Julian%20Chokkattu(1).jpg" alt="Lenovo&#x27;s ThinkBook VertiFlex Concept Laptop Has a Swiveling Screen" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/lenovo-thinkbook-vertiflex-concept-laptop-can-switch-from-landscape-to-portrait/" target="_blank">Lenovo&#x27;s ThinkBook VertiFlex Concept Laptop Has a Swiveling Screen</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-05 06:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/769776/legion-go-2-official-lenovo-new-flagship-handheld-cost" target="_blank">Legion Go 2 official: Lenovo’s new flagship handheld costs $1,099 — and up</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-05 06:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +160,6 @@
                 <span class="time">2025-09-04 22:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/772101/midjourney-ai-generator-warner-bros-lawsuit" target="_blank">Warner Bros. Discovery sues Midjourney for generating &amp;#8216;countless&amp;#8217; copies of its characters</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-04 21:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68ba01190bc8eca3d614f1c6/master/pass/Our%20Favorite%20Smart%20Lock%20Is%20$80%20Off.png" alt="Our Favorite Smart Lock for Your Front Door Is Just $164 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/our-favorite-smart-lock-is-dollar80-off/" target="_blank">Our Favorite Smart Lock for Your Front Door Is Just $164 Right Now</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-04 21:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,6 +172,24 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/09/05/kotlin-is-more-than-just-the-android-house-language/" target="_blank">Kotlin is more than just the Android house language</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-09-05 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://pornbiz.com/post/17/the_scam_of_age_verification" target="_blank">The Scam of Age Verification</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-05 06:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/company/github-is-enabling-broader-access-for-developers-in-syria-following-new-government-trade-rules/" target="_blank">GitHub is enabling broader access for developers in Syria following new government trade rules</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-09-05 06:00</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +219,6 @@
                 <span class="time">2025-09-05 00:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.quantamagazine.org/what-is-the-fourier-transform-20250903/" target="_blank">What Is the Fourier Transform?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-04 22:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/carlos_mata_24b95b955c733/como-habilitar-el-modo-oscuro-en-brave-1e57" target="_blank">Cómo Habilitar el Modo Oscuro en Brave</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-04 21:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +244,15 @@
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/the-pretty-screen-on-lenovos-legion-go-2-will-almost-make-you-forget-about-its-price-2000649925" target="_blank">The Pretty Screen on Lenovo’s Legion Go 2 Will Almost Make You Forget About Its Price</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-05 06:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4B320Q9S7JGQHBMXJ1FVVNK/hero-image.jpg" alt="Lenovo&#x27;s Legion Go 2 Isn&#x27;t the Premium Steam Deck I Wanted" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/the-legion-go-2-is-a-switch-2-for-rich-kids?utm_medium=RSS" target="_blank">Lenovo&#x27;s Legion Go 2 Isn&#x27;t the Premium Steam Deck I Wanted</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-05 06:00</span>
             </div>
         </div>
@@ -282,15 +292,6 @@
                 <span class="time">2025-09-04 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4B5C104T3JHFM13NVT9E726/hero-image.jpg" alt="Early Access to Perplexity&#x27;s AI Browser Is Expensive, but You Can Try It for Free Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/try-comet-browser-free?utm_medium=RSS" target="_blank">Early Access to Perplexity&#x27;s AI Browser Is Expensive, but You Can Try It for Free Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-04 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
