@@ -1,44 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-06 13:04:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-06 14:01:23 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 35 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, September 06, 2025 - 13:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, September 06, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/06/nx-s1-5532576/ken-dryden-hockey-nhl-montreal-canadiens-obituary" target="_blank">Ken Dryden, Hall of Fame goalie for the Montreal Canadiens, dies at age 78</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-06 12:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -99,20 +103,20 @@
                 <span class="time">2025-09-06 08:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-gaza-city-israel_7012634.jpg?20250906091936" alt="Israel warns Gaza City residents to flee south to &#x27;humanitarian area&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/israel-warns-gaza-city-residents-to-flee-south-to-humanitarian-area-13425948" target="_blank">Israel warns Gaza City residents to flee south to &#x27;humanitarian area&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-06 08:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/767283/all-in-one-vanlife-power-system-rvsolar-bluetti" target="_blank">Bluetti says it can reduce vanlife power installations to ‘30 minutes’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-06 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68bbcf49f02d871ebe651fbb/master/pass/Top%20Art%20Pixel%2010%20Cases%20SOURCE%20Julian%20Chokkattu.jpg" alt="The Best Pixel 10 Cases and Accessories (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -158,20 +162,29 @@
                 <span class="time">2025-09-06 07:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68bb794f05bd4703f9fea0ae/master/pass/IFA%20main%20image%20(Verity%20Burns).JPG" alt="The Top New Gadgets We Saw at IFA Berlin 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/all-the-top-new-gadgets-we-saw-at-ifa-berlin-2025/" target="_blank">The Top New Gadgets We Saw at IFA Berlin 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-06 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5tj9qb0iryponqq6ve8.jpeg" alt="Island Ghost Midnight tools for the XRPL Community" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/islandghoststephanie/island-ghost-midnight-tools-for-the-xrpl-community-1min" target="_blank">Island Ghost Midnight tools for the XRPL Community</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-06 13:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://bobdahacker.com/blog/rbi-hacked-drive-thrus/" target="_blank">We Hacked Burger King: How Auth Bypass Led to Drive-Thru Audio Surveillance</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-06 13:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F43d0z8sznxrk87hse21l.jpg" alt="AltSchool Of Engineering Tinyuka’24 Month 7 Week 1" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -179,6 +192,15 @@
                 <span class="title"><a href="https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-7-week-1-eh" target="_blank">AltSchool Of Engineering Tinyuka’24 Month 7 Week 1</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-06 12:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/kde-linux-alpha.jpg?resize=406%2C232&amp;ssl=1" alt="KDE Release First Alpha of its New Linux Distribution" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/kde-linux-immutable-distro-alpha-released" target="_blank">KDE Release First Alpha of its New Linux Distribution</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-06 11:30</span>
             </div>
         </div>
 <div class="story">
@@ -197,33 +219,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/kde-linux-immutable-distro-alpha-released" target="_blank">KDE Releases First Alpha of its New Linux Distribution</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-09-06 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fstatic.toiimg.com%2Fthumb%2Fmsid-123714772%2Cwidth-1070%2Cheight-580%2Cimgsize-20560%2Cresizemode-75%2Coverlay-toi_sw%2Cpt-32%2Cy_pad-40%2Fphoto.jpg" alt="The Syntax Scroll by Maria: A Developer&#x27;s Weekly Digest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mendoncamaria/the-syntax-scroll-by-maria-a-developers-weekly-digest-1f8l" target="_blank">The Syntax Scroll by Maria: A Developer&#x27;s Weekly Digest</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-06 09:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp6wgf179y4nbm53bpnbv.png" alt="My Cloud Resume: Built on Azure" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/asimmakes/my-cloud-resume-built-on-azure-47o0" target="_blank">My Cloud Resume: Built on Azure</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-06 07:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fouc4s0frwocir5gccu6l.png" alt="🧠 Breaking Negative Thinking Patterns with Cognitive Behavioral Therapy (CBT): A Practical Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nvelup_e92618d5196e8d9f43/breaking-negative-thinking-patterns-with-cognitive-behavioral-therapy-cbt-a-practical-guide-39e0" target="_blank">🧠 Breaking Negative Thinking Patterns with Cognitive Behavioral Therapy (CBT): A Practical Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-06 05:55</span>
             </div>
         </div>
 </div>
@@ -345,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 13:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
