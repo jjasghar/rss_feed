@@ -1,32 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-09-06 07:02:03 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-06 08:01:39 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Generated 2 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, September 06, 2025 - 07:02 UTC</div>
+    <div class="newspaper-date">Saturday, September 06, 2025 - 08:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/9/6/israel-acts-with-absolute-impunity-in-gaza-occupation-plan?traffic_source=rss" target="_blank">Israel acts with “absolute impunity” in Gaza occupation plan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-06 07:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +92,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/05/nx-s1-5529404/anthropic-settlement-authors-copyright-ai" target="_blank">Anthropic settles with authors in first-of-its-kind AI copyright infringement lawsuit</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-06 00:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/05/nx-s1-5528937/ftc-noncompete-ban-trump" target="_blank">Under Trump, the Federal Trade Commission is abandoning its ban on noncompetes</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-05 21:46</span>
             </div>
         </div>
 </div>
@@ -161,6 +159,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp6wgf179y4nbm53bpnbv.png" alt="My Cloud Resume: Built on Azure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/asimmakes/my-cloud-resume-built-on-azure-47o0" target="_blank">My Cloud Resume: Built on Azure</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-06 07:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fouc4s0frwocir5gccu6l.png" alt="🧠 Breaking Negative Thinking Patterns with Cognitive Behavioral Therapy (CBT): A Practical Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,15 +210,6 @@
                 <span class="title"><a href="https://dev.to/anthony_montanez_266feb01/zk-guild-gate-privacy-preserving-nft-verification-3ek1" target="_blank">🛡️ ZK Guild Gate - Privacy-Preserving NFT Verification</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-06 02:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Pop-OS-24.04-COSMIC-Beta-Sep" target="_blank">Pop!_OS 24.04 Beta Along With COSMIC Desktop Beta In Late September</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-06 00:30</span>
             </div>
         </div>
 </div>
@@ -342,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 08:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
