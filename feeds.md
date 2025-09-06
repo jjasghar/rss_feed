@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-06 18:02:05 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-06 19:01:25 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, September 06, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, September 06, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67a0/live/d8f798e0-8b38-11f0-a23b-03b8d466a85d.png" alt="Israel destroys second high-rise as assault on Gaza City intensifies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cz9jpzql958o?at_medium=RSS&at_campaign=rss" target="_blank">Israel destroys second high-rise as assault on Gaza City intensifies</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-06 18:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/06/nx-s1-5532576/ken-dryden-hockey-nhl-montreal-canadiens-obituary" target="_blank">Ken Dryden, Hall of Fame goalie for the Montreal Canadiens, dies at age 78</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-06 12:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/6/anger-in-seoul-as-trump-calls-detained-south-korea-workers-illegal-aliens?traffic_source=rss" target="_blank">Anger in Seoul as Trump calls detained South Korea workers ‘illegal aliens’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-06 11:33</span>
             </div>
         </div>
 </div>
@@ -164,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devops4298/fine-tuning-models-a-deep-dive-into-quantization-lora-qlora-gmm" target="_blank">Fine-Tuning Models: A Deep Dive into Quantization, LoRA &amp; QLoRA</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-06 18:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft2lj821d300cj0unx43o.png" alt="Ever Wonder How Your Email Actually Gets Sent? Meet the SMTP Server!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -208,15 +216,6 @@
                 <span class="time">2025-09-06 13:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lucumr.pocoo.org/2025/9/4/996/" target="_blank">996</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-06 13:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,20 +239,20 @@
                 <span class="time">2025-09-06 00:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/my-latest-book-rewiring-democracy.html" target="_blank">My Latest Book: Rewiring Democracy</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-09-05 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/witch-hat-atelier-hed.jpg" alt="‘Witch Hat Atelier’ Anime Gets Delayed Into 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/witch-hat-atelier-anime-gets-delayed-into-2026-2000654964" target="_blank">‘Witch Hat Atelier’ Anime Gets Delayed Into 2026</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-06 18:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/djimon-hounsou-kingsman.jpg" alt="Please, ‘Highlander’ Reboot, Don’t Waste Djimon Hounsou" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -299,15 +298,6 @@
                 <span class="time">2025-09-05 22:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Fede-Alvarez-Alien-Romulus-20th-Century-Studios.jpg" alt="Fede Alvarez Won’t Direct the ‘Alien: Romulus’ Sequel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/fede-alvarez-wont-direct-the-alien-romulus-sequel-2000654731" target="_blank">Fede Alvarez Won’t Direct the ‘Alien: Romulus’ Sequel</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-05 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -336,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
