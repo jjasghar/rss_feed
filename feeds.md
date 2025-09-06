@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-05 23:01:40 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-09-06 00:04:14 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, September 05, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Saturday, September 06, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +104,33 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/KSC-2014-3001orig-500x500.jpg" alt="GOP may finally succeed in unrelenting quest to kill two NASA climate satellites" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/09/gop-may-finally-succeed-in-unrelenting-quest-to-kill-two-nasa-climate-satellites/" target="_blank">GOP may finally succeed in unrelenting quest to kill two NASA climate satellites</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-06 00:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/22997597/best-robot-vacuum-cleaner" target="_blank">The best robot vacuums we&amp;#8217;ve tested for 2025</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-05 23:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68bb44d230a7e8a49427349c/master/pass/elon-pay-package-gear-2217850826-2226850995.jpg" alt="Tesla Proposes a Trillion-Dollar Bet That It&#x27;s More Than Just Cars" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/elon-musk-trillion-dollar-tesla-pay-package/" target="_blank">Tesla Proposes a Trillion-Dollar Bet That It&#x27;s More Than Just Cars</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-05 22:26</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -128,33 +155,6 @@
                 <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/first-of-its-kind-ai-settlement-anthropic-to-pay-authors-1-5-billion/" target="_blank">“First of its kind” AI settlement: Anthropic to pay authors $1.5 billion</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-09-05 20:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/05/personalized-ai-companion-app-dot-is-shutting-down/" target="_blank">Personalized AI companion app Dot is shutting down</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-05 19:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68bb2275d0b30151bfc71041/master/pass/Anthropic-AI-Lawsuit-Business-2216956955.jpg" alt="Anthropic Agrees to Pay Authors at Least $1.5 Billion in AI Copyright Settlement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/anthropic-settlement-lawsuit-copyright/" target="_blank">Anthropic Agrees to Pay Authors at Least $1.5 Billion in AI Copyright Settlement</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-05 19:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/entertainment/772635/showrunner-orson-welles-the-magnificent-ambersons" target="_blank">Showrunner wants to use generative AI to recreate lost footage from an Orson Welles classic</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-05 19:00</span>
             </div>
         </div>
 </div>
@@ -245,6 +245,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Reolink-TrackFlex.jpg" alt="Reolink’s New Floodlight Camera Uses Sensors and AI to Detect Where It Can’t See" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/reolink-trackflex-floodlight-wifi-camera-2000654469" target="_blank">Reolink’s New Floodlight Camera Uses Sensors and AI to Detect Where It Can’t See</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-05 23:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Fede-Alvarez-Alien-Romulus-20th-Century-Studios.jpg" alt="Fede Alvarez Won’t Direct the ‘Alien: Romulus’ Sequel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -289,20 +298,20 @@
                 <span class="time">2025-09-05 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/ffvii-remake-cloud-barret.jpg" alt="Development Of FF7 Remake Part 3 And Kingdom Hearts 4 Are On Schedule, Says Director" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/tetsuya-nomura-final-fantasy-7-remake-part-3-kingdom-hearts-4-update-2000623498" target="_blank">Development Of FF7 Remake Part 3 And Kingdom Hearts 4 Are On Schedule, Says Director</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-05 19:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/09/05/fresh-kicks" target="_blank">Fresh Kicks</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-09-05 22:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1757022375-20250905.png" alt="Saturday Morning Breakfast Cereal - Positive" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -326,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 288 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
