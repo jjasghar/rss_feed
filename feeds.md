@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-06 01:28:44 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-06 02:24:36 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, September 06, 2025 - 01:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, September 06, 2025 - 02:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/6/us-weighs-strikes-on-cartels-in-venezuela-f-35-warplanes-deploy-reports?traffic_source=rss" target="_blank">US weighs strikes on cartels in Venezuela, F-35 warplanes deploy: Reports</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-06 01:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +100,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/05/g-s1-87367/anthropic-authors-settlement-pirated-chatbot-training-material" target="_blank">Anthropic to pay authors $1.5B to settle lawsuit over pirated chatbot training material</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-05 20:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1614/live/b933a400-8a88-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Starmer carries out major reshuffle after Rayner resignation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cgmzgjywr8wo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer carries out major reshuffle after Rayner resignation</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-05 19:58</span>
             </div>
         </div>
 </div>
@@ -167,6 +169,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/anthony_montanez_266feb01/zk-guild-gate-privacy-preserving-nft-verification-3ek1" target="_blank">🛡️ ZK Guild Gate - Privacy-Preserving NFT Verification</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-06 02:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Pop-OS-24.04-COSMIC-Beta-Sep" target="_blank">Pop!_OS 24.04 Beta Along With COSMIC Desktop Beta In Late September</a></span>
                 <span class="feed">Phoronix</span>
@@ -207,15 +218,6 @@
                 <span class="title"><a href="https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share" target="_blank">Anthropic agrees to pay $1.5B to settle lawsuit with book authors</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-09-05 19:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rijultp/getting-started-with-rsync-the-smarter-way-to-copy-files-39ol" target="_blank">Getting Started with rsync: The Smarter Way to Copy Files</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-05 18:45</span>
             </div>
         </div>
 </div>
@@ -265,11 +267,29 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/10/Us_rep_mike_johnson_official_photo.jpg?fit=1500%2C1094&amp;quality=60&amp;ssl=1" alt="MAGA Mike laughably claims Trump was an FBI informant working against his close friend Epstein" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/05/maga-mike-laughably-claims-trump-was-an-fbi-informant-working-against-his-close-friend-epstein.html" target="_blank">MAGA Mike laughably claims Trump was an FBI informant working against his close friend Epstein</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-05 22:44</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Fede-Alvarez-Alien-Romulus-20th-Century-Studios.jpg" alt="Fede Alvarez Won’t Direct the ‘Alien: Romulus’ Sequel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/fede-alvarez-wont-direct-the-alien-romulus-sequel-2000654731" target="_blank">Fede Alvarez Won’t Direct the ‘Alien: Romulus’ Sequel</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-05 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4DW0MTXZX0NBBXV9EHKFEPD/hero-image.png" alt="The Best TV Deals Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/best-tv-deals-right-now?utm_medium=RSS" target="_blank">The Best TV Deals Right Now</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-05 22:00</span>
             </div>
         </div>
@@ -289,24 +309,6 @@
                 <span class="title"><a href="https://gizmodo.com/best-of-ifa-2025-awards-winners-2000654651" target="_blank">Gizmodo’s Best of IFA 2025 Awards: See the Winners</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-05 20:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/New-Project.jpg" alt="New Tron 3 Ad Features Mr. Beast And Folks, I’m So Tired" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/new-tron-3-ad-features-mr-beast-tron-ares-disney-2000623530" target="_blank">New Tron 3 Ad Features Mr. Beast And Folks, I’m So Tired</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-05 20:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4DDVE323T57JBENM7TR2EQR/hero-image.jpg" alt="Here&#x27;s When iOS 26 Will Likely Drop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/when-ios-26-will-release?utm_medium=RSS" target="_blank">Here&#x27;s When iOS 26 Will Likely Drop</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-05 19:30</span>
             </div>
         </div>
 </div>
@@ -355,8 +357,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 01:28 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 286 |
+        🔄 Last Updated: 02:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
