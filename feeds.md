@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-06 19:01:25 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-06 20:01:59 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, September 06, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, September 06, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/06/nx-s1-5532604/hyundai-immigration-raid-georgia-south-korea" target="_blank">ICE arrests at a Georgia Hyundai plant create new tension with South Korea</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-06 19:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67a0/live/d8f798e0-8b38-11f0-a23b-03b8d466a85d.png" alt="Israel destroys second high-rise as assault on Gaza City intensifies" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,15 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c62qrmpd7l5o?at_medium=RSS&at_campaign=rss" target="_blank">Arrests made at rally against Palestine Action ban in London</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-06 14:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/06/nx-s1-5532576/ken-dryden-hockey-nhl-montreal-canadiens-obituary" target="_blank">Ken Dryden, Hall of Fame goalie for the Montreal Canadiens, dies at age 78</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-06 12:47</span>
             </div>
         </div>
 </div>
@@ -166,6 +169,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/ign-marvel-mystic-mayhem-official-version-12-siege-in-the-deep-trailer-mp3" target="_blank">IGN: Marvel Mystic Mayhem - Official Version 1.2: Siege in the Deep Trailer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-06 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.greppers.com/" target="_blank">Show HN: Greppers – fast CLI cheat sheet with instant copy and shareable search</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-06 19:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/devops4298/fine-tuning-models-a-deep-dive-into-quantization-lora-qlora-gmm" target="_blank">Fine-Tuning Models: A Deep Dive into Quantization, LoRA &amp; QLoRA</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-06 18:33</span>
@@ -196,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/dimbiy/not-a-vpn-a-two-peer-ram-only-tunnel-cluddy-1m7j" target="_blank">Not a VPN: A Two-Peer RAM-Only Tunnel (Cluddy)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-06 15:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Debian-13.1-Released" target="_blank">Debian 13.1 Released With An Initial Batch Of Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-06 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo5tj9qb0iryponqq6ve8.jpeg" alt="Island Ghost Midnight tools for the XRPL Community" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/islandghoststephanie/island-ghost-midnight-tools-for-the-xrpl-community-1min" target="_blank">Island Ghost Midnight tools for the XRPL Community</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-06 13:49</span>
             </div>
         </div>
 </div>
@@ -326,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
