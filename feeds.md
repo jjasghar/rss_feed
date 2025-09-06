@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-06 20:01:59 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-06 21:01:31 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, September 06, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, September 06, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1aaf/live/4be97670-8b3e-11f0-84c8-99de564f0440.jpg" alt="More than 425 arrested at rally against Palestine Action ban in London" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c62qrmpd7l5o?at_medium=RSS&at_campaign=rss" target="_blank">More than 425 arrested at rally against Palestine Action ban in London</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-06 20:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/6/tunisia-flotilla-eager-to-join-global-sumud-mission-to-break-gaza-siege?traffic_source=rss" target="_blank">Tunisia flotilla eager to join Global Sumud mission to break Gaza siege</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-06 14:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d70/live/9b4776b0-8b28-11f0-8abb-4d8cd1fe8125.jpg" alt="Arrests made at rally against Palestine Action ban in London" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c62qrmpd7l5o?at_medium=RSS&at_campaign=rss" target="_blank">Arrests made at rally against Palestine Action ban in London</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-06 14:15</span>
             </div>
         </div>
 </div>
@@ -169,6 +165,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/darthmoomancer/almost-2-months-of-gentoo-the-journey-so-far-1m46" target="_blank">Almost 2 Months of Gentoo, The Journey So Far!</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-06 20:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Rust-1.91" target="_blank">Linux 6.17 Lands Fixes For Upcoming Rust 1.91</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-06 20:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gg_news/ign-marvel-mystic-mayhem-official-version-12-siege-in-the-deep-trailer-mp3" target="_blank">IGN: Marvel Mystic Mayhem - Official Version 1.2: Siege in the Deep Trailer</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-06 20:00</span>
@@ -199,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/lovestaco/ever-wonder-how-your-email-actually-gets-sent-meet-the-smtp-server-515p" target="_blank">Ever Wonder How Your Email Actually Gets Sent? Meet the SMTP Server!</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-06 17:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zanzythebar/the-quiet-war-for-your-mind-critical-thinking-in-the-age-of-algorithmic-influence-3c7o" target="_blank">The Quiet War for Your Mind: Critical Thinking in the Age of Algorithmic Influence</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-06 16:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fazc74d7orffd2ti3jkuf.png" alt="Not a VPN: A Two-Peer RAM-Only Tunnel (Cluddy)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dimbiy/not-a-vpn-a-two-peer-ram-only-tunnel-cluddy-1m7j" target="_blank">Not a VPN: A Two-Peer RAM-Only Tunnel (Cluddy)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-06 15:41</span>
             </div>
         </div>
 </div>
@@ -329,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
