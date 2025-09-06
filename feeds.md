@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-06 21:01:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-06 22:01:42 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, September 06, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, September 06, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +44,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/6/mexico-accepts-return-of-man-deported-to-south-sudan-from-us?traffic_source=rss" target="_blank">Mexico accepts return of man deported to South Sudan from US</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-06 21:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1aaf/live/4be97670-8b3e-11f0-84c8-99de564f0440.jpg" alt="More than 425 arrested at rally against Palestine Action ban in London" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c62qrmpd7l5o?at_medium=RSS&at_campaign=rss" target="_blank">More than 425 arrested at rally against Palestine Action ban in London</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-06 20:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/06/g-s1-87503/venice-film-festival-winners-jarmusch-rajab" target="_blank">Jim Jarmusch&#x27;s &#x27;Father Mother Sister Brother&#x27; wins top prize at Venice Film Festival</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-06 20:08</span>
             </div>
         </div>
 <div class="story">
@@ -79,29 +97,20 @@
                 <span class="time">2025-09-06 17:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/06/nx-s1-5532607/davey-johnson-baseball-orioles-mets-mlb-obit" target="_blank">Davey Johnson, who won 2 World Series with Orioles, managed Mets to title, dies at 82</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-06 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/6/tunisia-flotilla-eager-to-join-global-sumud-mission-to-break-gaza-siege?traffic_source=rss" target="_blank">Tunisia flotilla eager to join Global Sumud mission to break Gaza siege</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-06 14:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/06/why-is-an-amazon-backed-ai-startup-making-orson-welles-fan-fiction/" target="_blank">Why is an Amazon-backed AI startup making Orson Welles fan fiction?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-06 21:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +156,20 @@
                 <span class="time">2025-09-06 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games-review/764810/herdling-panic-review-pc-switch-playstation-xbox" target="_blank">Herdling is a serene and adorable way to unwind</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-06 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/srinivasamcjf/the-hard-truth-about-devops-learning-practical-experience-over-presentations-103g" target="_blank">The Hard Truth About DevOps Learning: Practical Experience Over Presentations</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-06 21:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/devops4298/fine-tuning-models-a-deep-dive-into-quantization-lora-qlora-gmm" target="_blank">Fine-Tuning Models: A Deep Dive into Quantization, LoRA &amp; QLoRA</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-06 18:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft2lj821d300cj0unx43o.png" alt="Ever Wonder How Your Email Actually Gets Sent? Meet the SMTP Server!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lovestaco/ever-wonder-how-your-email-actually-gets-sent-meet-the-smtp-server-515p" target="_blank">Ever Wonder How Your Email Actually Gets Sent? Meet the SMTP Server!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-06 17:38</span>
             </div>
         </div>
 </div>
@@ -262,6 +262,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Getflix-Smart-DNS-VPN-1.png?fit=1300%2C976&amp;quality=55&amp;ssl=1" alt="Access 500+ global channels without losing speed or security with Getflix" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/06/access-500-global-channels-without-losing-speed-or-security-with-getflix.html" target="_blank">Access 500+ global channels without losing speed or security with Getflix</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-06 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/banks-small.jpg" alt="Bank Hacking Has Doubled Since 2023 And Investors Are Getting Spooked" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -286,15 +295,6 @@
                 <span class="title"><a href="https://gizmodo.com/reolink-trackflex-floodlight-wifi-camera-2000654469" target="_blank">Reolink’s New Floodlight Camera Uses Sensors and AI to Detect Where It Can’t See</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-05 23:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/10/Us_rep_mike_johnson_official_photo.jpg?fit=1500%2C1094&amp;quality=60&amp;ssl=1" alt="MAGA Mike laughably claims Trump was an FBI informant working against his close friend Epstein" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/05/maga-mike-laughably-claims-trump-was-an-fbi-informant-working-against-his-close-friend-epstein.html" target="_blank">MAGA Mike laughably claims Trump was an FBI informant working against his close friend Epstein</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-05 22:44</span>
             </div>
         </div>
 </div>
@@ -325,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
