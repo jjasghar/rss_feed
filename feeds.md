@@ -1,29 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-09-06 12:02:12 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-06 13:04:34 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 20 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, September 06, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, September 06, 2025 - 13:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -67,6 +82,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c86/live/16090120-8ae8-11f0-bf71-952c4cc93229.jpg" alt="Trump says Venezuelan jets will be shot down if they endanger US ships" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr70511v774o?at_medium=RSS&at_campaign=rss" target="_blank">Trump says Venezuelan jets will be shot down if they endanger US ships</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-06 10:12</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -84,20 +108,29 @@
                 <span class="time">2025-09-06 08:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/6/australian-neo-nazi-attack-on-sacred-indigenous-site-a-worrying-trend?traffic_source=rss" target="_blank">Australian neo-Nazi attack on sacred Indigenous site a worrying trend</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-06 07:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68bbcf49f02d871ebe651fbb/master/pass/Top%20Art%20Pixel%2010%20Cases%20SOURCE%20Julian%20Chokkattu.jpg" alt="The Best Pixel 10 Cases and Accessories (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-pixel-10-cases-and-accessories/" target="_blank">The Best Pixel 10 Cases and Accessories (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-06 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games-review/764810/herdling-panic-review-pc-switch-playstation-xbox" target="_blank">Herdling is a serene and adorable way to unwind</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-06 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68bb23552df098890ca05bbf/master/pass/ice-spyware-sec-2232883103.jpg" alt="ICE Has Spyware Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -134,29 +167,29 @@
                 <span class="time">2025-09-06 06:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/KSC-2014-3001orig-500x500.jpg" alt="GOP may finally succeed in unrelenting quest to kill two NASA climate satellites" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/09/gop-may-finally-succeed-in-unrelenting-quest-to-kill-two-nasa-climate-satellites/" target="_blank">GOP may finally succeed in unrelenting quest to kill two NASA climate satellites</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-06 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/22997597/best-robot-vacuum-cleaner" target="_blank">The best robot vacuums we&amp;#8217;ve tested for 2025</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-05 23:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F43d0z8sznxrk87hse21l.jpg" alt="AltSchool Of Engineering Tinyuka’24 Month 7 Week 1" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-7-week-1-eh" target="_blank">AltSchool Of Engineering Tinyuka’24 Month 7 Week 1</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-06 12:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KDE-Linux-Alpha" target="_blank">KDE Linux Enters Alpha As Reference Linux Distribution For The KDE Desktop</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-06 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/kde-linux-alpha.jpg?resize=406%2C232&amp;ssl=1" alt="KDE Releases First Alpha of its New Linux Distribution" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -191,24 +224,6 @@
                 <span class="title"><a href="https://dev.to/nvelup_e92618d5196e8d9f43/breaking-negative-thinking-patterns-with-cognitive-behavioral-therapy-cbt-a-practical-guide-39e0" target="_blank">🧠 Breaking Negative Thinking Patterns with Cognitive Behavioral Therapy (CBT): A Practical Guide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-06 05:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aiwithapex/step-audio-2-mini-open-source-voice-ai-outperforms-gpt-4o-audio-pb1" target="_blank">Step-Audio 2 Mini: Open-Source Voice AI Outperforms GPT-4o-Audio</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-06 04:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd571an8tubjuv42fq6ec.png" alt="My AI/ML learning journey (so far...)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/javitech_co/my-aiml-learning-journey-so-far-5691" target="_blank">My AI/ML learning journey (so far...)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-06 03:55</span>
             </div>
         </div>
 </div>
@@ -331,7 +346,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 29 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 287 |
-        🔄 Last Updated: 12:02 UTC
+        🔄 Last Updated: 13:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
