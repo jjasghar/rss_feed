@@ -1,38 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-09-06 02:24:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-06 03:09:26 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, September 06, 2025 - 02:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, September 06, 2025 - 03:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -85,21 +90,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-lisbon-kayleigh-smith_7012432.jpg?20250905220811" alt="British couple killed in Lisbon funicular crash named" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/british-couple-killed-in-lisbon-funicular-crash-named-13425823" target="_blank">British couple killed in Lisbon funicular crash named</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-05 20:57</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-gty-jt-250905_1757103880452_hpMain_4x3t_384.jpg" alt="Trump signs order renaming Pentagon &#x27;Department of War&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/Politics/trump-sign-order-renaming-pentagon-department-war/story?id=125275019" target="_blank">Trump signs order renaming Pentagon &#x27;Department of War&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-05 20:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/05/g-s1-87367/anthropic-authors-settlement-pirated-chatbot-training-material" target="_blank">Anthropic to pay authors $1.5B to settle lawsuit over pirated chatbot training material</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-05 20:33</span>
             </div>
         </div>
 </div>
@@ -167,6 +172,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F393z5dmgi8q5ukas5sej.png" alt="PasteSense – Take Control of Your Clipboard on Windows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ngtduc693/pastesense-take-control-of-your-clipboard-on-windows-25e7" target="_blank">PasteSense – Take Control of Your Clipboard on Windows</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-06 02:48</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -211,15 +225,6 @@
                 <span class="time">2025-09-05 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.nytimes.com/2025/09/05/technology/anthropic-settlement-copyright-ai.html?unlocked_article_code=1.jk8.bTTt.Zir9wmtPaTp2&smid=url-share" target="_blank">Anthropic agrees to pay $1.5B to settle lawsuit with book authors</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-05 19:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -257,6 +262,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/art-in-house-1.jpg" alt="David Howard Thornton on the Art of Being Art the Clown" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/david-howard-thornton-on-the-art-of-being-art-the-clown-2000654871" target="_blank">David Howard Thornton on the Art of Being Art the Clown</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-06 00:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Reolink-TrackFlex.jpg" alt="Reolink’s New Floodlight Camera Uses Sensors and AI to Detect Where It Can’t See" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -300,15 +314,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/05/everything-you-need-to-create-edit-and-automate-in-one-ai-app.html" target="_blank">Everything you need to create, edit, and automate — in one AI app</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-05 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Gizmodo-IFA-2025-Featured-Image-1.jpg" alt="Gizmodo’s Best of IFA 2025 Awards: See the Winners" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/best-of-ifa-2025-awards-winners-2000654651" target="_blank">Gizmodo’s Best of IFA 2025 Awards: See the Winners</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-05 20:55</span>
             </div>
         </div>
 </div>
@@ -357,8 +362,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 286 |
-        🔄 Last Updated: 02:24 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 289 |
+        🔄 Last Updated: 03:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
