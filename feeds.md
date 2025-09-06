@@ -1,39 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-06 16:01:33 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-06 17:01:42 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, September 06, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, September 06, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/06/nx-s1-5532607/davey-johnson-baseball-orioles-mets-mlb-obit" target="_blank">Davey Johnson, who won 2 World Series with Orioles, managed Mets to title, dies at 82</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-06 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +97,20 @@
                 <span class="time">2025-09-06 10:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/9/6/medicine-is-being-invented-in-gaza?traffic_source=rss" target="_blank">Medicine is being invented in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-06 10:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/06/wtf-is-going-on-with-age-verification-laws/" target="_blank">The growing debate over expanding age verification laws</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-06 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +156,20 @@
                 <span class="time">2025-09-06 10:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68bbbf8a0a1d5d55a1b96b89/master/pass/Gear%20News%20of%20the%20Week-%20Veo%203%20Comes%20to%20Google%20Photos,%20and%20Garmin%20Adds%20Satellite%20Comms%20to%20a%20Watch.png" alt="Gear News of the Week: Veo 3 Comes to Google Photos, and Garmin Adds Satellite Comms to a Watch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/gear-news-of-the-week-veo-3-comes-to-google-photos-and-garmin-adds-satellite-comms-to-a-watch/" target="_blank">Gear News of the Week: Veo 3 Comes to Google Photos, and Garmin Adds Satellite Comms to a Watch</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-06 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zanzythebar/the-quiet-war-for-your-mind-critical-thinking-in-the-age-of-algorithmic-influence-3c7o" target="_blank">The Quiet War for Your Mind: Critical Thinking in the Age of Algorithmic Influence</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-06 16:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fazc74d7orffd2ti3jkuf.png" alt="Not a VPN: A Two-Peer RAM-Only Tunnel (Cluddy)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,27 +201,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lucumr.pocoo.org/2025/9/4/996/" target="_blank">996</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-06 13:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://bobdahacker.com/blog/rbi-hacked-drive-thrus/" target="_blank">We Hacked Burger King: How Auth Bypass Led to Drive-Thru Audio Surveillance</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-09-06 13:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F43d0z8sznxrk87hse21l.jpg" alt="AltSchool Of Engineering Tinyuka’24 Month 7 Week 1" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-7-week-1-eh" target="_blank">AltSchool Of Engineering Tinyuka’24 Month 7 Week 1</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-06 12:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/kde-linux-alpha.jpg?resize=406%2C232&amp;ssl=1" alt="KDE Release First Alpha of its New Linux Distribution" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/kde-linux-immutable-distro-alpha-released" target="_blank">KDE Release First Alpha of its New Linux Distribution</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-06 11:30</span>
             </div>
         </div>
 </div>
@@ -258,6 +252,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/djimon-hounsou-kingsman.jpg" alt="Please, ‘Highlander’ Reboot, Don’t Waste Djimon Hounsou" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/please-highlander-reboot-dont-waste-djimon-hounsou-2000654842" target="_blank">Please, ‘Highlander’ Reboot, Don’t Waste Djimon Hounsou</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-06 16:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/banks-small.jpg" alt="Bank Hacking Has Doubled Since 2023 And Investors Are Getting Spooked" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -303,15 +306,6 @@
                 <span class="time">2025-09-05 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4DW0MTXZX0NBBXV9EHKFEPD/hero-image.png" alt="The Best TV Deals Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/best-tv-deals-right-now?utm_medium=RSS" target="_blank">The Best TV Deals Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-05 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -340,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 285 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 101 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
