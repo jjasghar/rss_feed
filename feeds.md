@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-06 00:04:14 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-06 01:28:44 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, September 06, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, September 06, 2025 - 01:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/6/asia-cup-2025-teams-schedule-venues-tickets-and-how-to-follow?traffic_source=rss" target="_blank">Asia Cup 2025: Teams, schedule, venues, tickets and how to follow</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-06 00:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/05/nx-s1-5529404/anthropic-settlement-authors-copyright-ai" target="_blank">Anthropic settles with authors in first-of-its-kind AI copyright infringement lawsuit</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-06 00:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +100,6 @@
                 <span class="time">2025-09-05 19:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/5/belgium-asks-us-not-to-destroy-millions-in-contraceptives-bound-for-africa?traffic_source=rss" target="_blank">Belgium asks US not to destroy millions in contraceptives bound for Africa</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-05 19:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/05/nx-s1-5530733/bls-jobs-report-labor-statistics-trump" target="_blank">You can trust the jobs report, Labor Department workers urge public</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-05 19:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -119,6 +121,15 @@
                 <span class="title"><a href="https://www.theverge.com/22997597/best-robot-vacuum-cleaner" target="_blank">The best robot vacuums we&amp;#8217;ve tested for 2025</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-05 23:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/05/openai-reorganizes-research-team-behind-chatgpts-personality/" target="_blank">OpenAI reorganizes research team behind ChatGPT’s personality</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-05 23:19</span>
             </div>
         </div>
 <div class="story">
@@ -148,20 +159,20 @@
                 <span class="time">2025-09-05 20:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-604354902-500x500-1757102247.jpg" alt="“First of its kind” AI settlement: Anthropic to pay authors $1.5 billion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/first-of-its-kind-ai-settlement-anthropic-to-pay-authors-1-5-billion/" target="_blank">“First of its kind” AI settlement: Anthropic to pay authors $1.5 billion</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-05 20:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Pop-OS-24.04-COSMIC-Beta-Sep" target="_blank">Pop!_OS 24.04 Beta Along With COSMIC Desktop Beta In Late September</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-06 00:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -178,6 +189,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-rc5-x86-Platform" target="_blank">New x86 Hardware Support &amp; Device Quirks Merged Ahead Of Linux 6.17-rc5</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-05 22:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18604465&w=600" alt="Building a Platform Abstraction for AWS Networks Using Crossplane" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/build-platform-abstraction-for-aws-networks-using-crossplane" target="_blank">Building a Platform Abstraction for AWS Networks Using Crossplane</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-05 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -198,29 +218,20 @@
                 <span class="time">2025-09-05 18:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/imranc07/automated-testing-of-swag-labs-web-application-with-selenium-pytest-3cij" target="_blank">Automated Testing of Swag Labs Web Application with Selenium &amp; PyTest 🚀</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-05 17:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18602998&w=600" alt="Making String Search Easier Across Databases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/making-string-search-easier-across-databases" target="_blank">Making String Search Easier Across Databases</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-05 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/friday-squid-blogging-the-origin-and-propagation-of-squid.html" target="_blank">Friday Squid Blogging: The Origin and Propagation of Squid</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-09-06 00:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -330,13 +341,22 @@
                 <span class="time">2025-09-05 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/dimensional_lumber_tape_measure.png" alt="Dimensional Lumber Tape Measure" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3138/" target="_blank">Dimensional Lumber Tape Measure</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-09-05 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 289 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 287 |
+        🔄 Last Updated: 01:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
