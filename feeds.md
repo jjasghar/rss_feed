@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-07 00:05:08 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-07 01:29:22 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, September 07, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, September 07, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/7/russia-ukraine-war-list-of-key-events-day-1291?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,291</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-07 00:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/chicago-2_1757196349075_hpMain_4x3t_384.jpg" alt="Chicago braces for expanded ICE enforcement over the weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +94,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/06/nx-s1-5532604/hyundai-immigration-raid-georgia-south-korea" target="_blank">ICE arrests at a Georgia Hyundai plant create new tension with South Korea</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-06 19:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67a0/live/d8f798e0-8b38-11f0-a23b-03b8d466a85d.png" alt="Israel destroys second high-rise as assault on Gaza City intensifies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cz9jpzql958o?at_medium=RSS&at_campaign=rss" target="_blank">Israel destroys second high-rise as assault on Gaza City intensifies</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-06 18:44</span>
             </div>
         </div>
 </div>
@@ -166,6 +161,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6hizjguxdyxfmcs1rfia.jpg" alt="5 Best Free Planning Poker Tools for Agile Teams in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mattlewandowski93/5-best-free-planning-poker-tools-for-agile-teams-in-2025-2i02" target="_blank">5 Best Free Planning Poker Tools for Agile Teams in 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-07 01:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://mitchivin.com/" target="_blank">mitchivin.com</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-07 00:29</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -201,24 +214,6 @@
                 <span class="time">2025-09-06 20:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Rust-1.91" target="_blank">Linux 6.17 Lands Fixes For Upcoming Rust 1.91</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-06 20:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-marvel-mystic-mayhem-official-version-12-siege-in-the-deep-trailer-mp3" target="_blank">IGN: Marvel Mystic Mayhem - Official Version 1.2: Siege in the Deep Trailer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-06 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,15 +226,6 @@
                 <span class="title"><a href="https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/" target="_blank">GOP Cries Censorship Over Spam Filters That Work</a></span>
                 <span class="feed">Krebs on Security</span>
                 <span class="time">2025-09-06 03:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/friday-squid-blogging-the-origin-and-propagation-of-squid.html" target="_blank">Friday Squid Blogging: The Origin and Propagation of Squid</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-09-06 00:05</span>
             </div>
         </div>
 </div>
@@ -283,15 +269,6 @@
                 <span class="time">2025-09-06 11:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/art-in-house-1.jpg" alt="David Howard Thornton on the Art of Being Art the Clown" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/david-howard-thornton-on-the-art-of-being-art-the-clown-2000654871" target="_blank">David Howard Thornton on the Art of Being Art the Clown</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-06 00:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,8 +288,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
