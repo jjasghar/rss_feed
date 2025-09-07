@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-09-07 22:01:33 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-09-07 23:01:34 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Generated 2 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, September 07, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, September 07, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/7/alcaraz-beats-sinner-to-lift-us-open-2025-as-trump-watches-on?traffic_source=rss" target="_blank">Alcaraz beats Sinner to lift US Open 2025 as Trump watches on</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-07 22:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +93,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/9/7/live-turkiye-vs-spain-world-cup-2026-qualifier?traffic_source=rss" target="_blank">LIVE: Turkiye vs Spain – World Cup 2026 qualifier</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-07 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/ThisWeek/raddatz-1-abc-er-250905_1757103928943_hpMain_4x3t_384.jpg" alt="Zelenskyy says Trump’s Alaska summit ‘gave Putin what he wanted’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/zelenskyy-trumps-alaska-summit-gave-putin-wanted/story?id=125336611" target="_blank">Zelenskyy says Trump’s Alaska summit ‘gave Putin what he wanted’</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-07 15:52</span>
             </div>
         </div>
 </div>
@@ -198,21 +196,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/theme-thumb.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu Yaru Theme Update Adds New App Icons" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/ubuntu-25-10-yaru-new-icons" target="_blank">Ubuntu Yaru Theme Update Adds New App Icons</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-07 18:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/ubuntu-questing.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Yaru Theme Adds New App Icons" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/ubuntu-25-10-yaru-new-icons" target="_blank">Ubuntu 25.10 Yaru Theme Adds New App Icons</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-09-07 18:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/datadr1ven/token-payout-based-on-private-information-golf-barbecue-coin-gbc-38d5" target="_blank">Token Payout based on Private Information: Golf Barbecue Coin (GBC)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-07 17:55</span>
             </div>
         </div>
 </div>
@@ -293,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 41 | 📸 With Images: 274 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
