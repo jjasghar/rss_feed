@@ -1,36 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-09-07 11:01:46 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-07 12:02:07 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, September 07, 2025 - 11:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, September 07, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +38,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250905-Hyundai-atf-raid-se-1056-b9f4d9.jpg" alt="Workers detained in Hyundai plant raid to be freed and flown home, South Korea says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/south-korea-deal-workers-detained-hyundai-rcna229610" target="_blank">Workers detained in Hyundai plant raid to be freed and flown home, South Korea says</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-07 11:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71b7/live/a1bacb30-8bcf-11f0-937d-cfdcf994900e.jpg" alt="Healey says more military sites could house asylum seekers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +92,20 @@
                 <span class="time">2025-09-07 07:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/07/nx-s1-5533036/russia-assaults-ukraine-800-drones-largest-attack-war" target="_blank">Russia assaults Ukraine with over 800 drones and decoys, the largest such attack in the war</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-07 07:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68b18dd8848cb7db8ce4d2a6/master/pass/BetterQuantumSecrets-crWei-AnJin-Lede.jpeg" alt="The New Math of Quantum Cryptography" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/the-new-math-of-quantum-cryptography/" target="_blank">The New Math of Quantum Cryptography</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-07 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68bbb902f02d871ebe651fb5/master/pass/Best%20Phones%20Outside%20US%201%20SOURCE%20Simon%20Hill.jpg" alt="6 Best Phones You Can’t Buy in the US (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +151,20 @@
                 <span class="time">2025-09-06 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/767283/all-in-one-vanlife-power-system-rvsolar-bluetti" target="_blank">Bluetti says it can reduce vanlife power installations to ‘30 minutes’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-06 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Figx914afrvwjahej31bf.png" alt="Not Just Storage: The Hidden Logic Behind Bucket Types" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jatin_goel_dac08bb6728f1e/not-just-storage-the-hidden-logic-behind-bucket-types-2a5j" target="_blank">Not Just Storage: The Hidden Logic Behind Bucket Types</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-07 11:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbeqwr6xv3c4emi5wtqi2.png" alt="DNS 101: The Internet’s GPS for Websites" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +210,6 @@
                 <span class="time">2025-09-07 07:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/ssd-parameters/" target="_blank">Speed Isn&#x27;t Everything When Buying SSDs - Here&#x27;s What Really Matters!</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-09-07 05:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -259,15 +251,6 @@
                 <span class="time">2025-09-06 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/banks-small.jpg" alt="Bank Hacking Has Doubled Since 2023 And Investors Are Getting Spooked" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/bank-hacking-cybersecurity-investors-spooked-2000653618" target="_blank">Bank Hacking Has Doubled Since 2023 And Investors Are Getting Spooked</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-06 11:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -287,8 +270,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 284 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
