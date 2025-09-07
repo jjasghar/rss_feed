@@ -1,28 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-07 12:02:07 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-07 13:04:29 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 20 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, September 07, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, September 07, 2025 - 13:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -98,6 +109,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/movie-reviews/773429/tiff-2025-wake-up-dead-man-bad-apples-review" target="_blank">Wake Up Dead Man adds a delightfully dark twist to Knives Out</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-07 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/68b18dd8848cb7db8ce4d2a6/master/pass/BetterQuantumSecrets-crWei-AnJin-Lede.jpeg" alt="The New Math of Quantum Cryptography" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -142,15 +162,6 @@
                 <span class="time">2025-09-06 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/773352/pocket-scion-synth-mushroom-music" target="_blank">Pocket Scion is a synth you play with plants</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-06 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +183,15 @@
                 <span class="title"><a href="https://dev.to/shahpershahin/dns-101-the-internets-gps-for-websites-5aoj" target="_blank">DNS 101: The Internet’s GPS for Websites</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-07 10:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-PowerVR-RISC-V" target="_blank">Imagination PowerVR Driver With Linux 6.18 To Support RISC-V</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-07 10:20</span>
             </div>
         </div>
 <div class="story">
@@ -201,20 +221,20 @@
                 <span class="time">2025-09-07 08:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fadk5bl96z9f5sf83osdh.png" alt="AI Genie: A Multimodal Q&amp;A Assistant with Google Gemini" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/davinceleecode/ai-genie-a-multimodal-qa-assistant-with-google-gemini-3dnb" target="_blank">AI Genie: A Multimodal Q&amp;A Assistant with Google Gemini</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-07 07:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Apple-Event-2025.jpg" alt="Live Updates From Apple’s ‘Awe Dropping’ iPhone 17 Event 🔴" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/live-updates-from-apples-awe-dropping-iphone-17-event-2000652081" target="_blank">Live Updates From Apple’s ‘Awe Dropping’ iPhone 17 Event 🔴</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-07 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Sams-Club-Membership.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Sam&#x27;s Club is giving new members $35 to spend in-store" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,8 +290,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 284 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 13:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
