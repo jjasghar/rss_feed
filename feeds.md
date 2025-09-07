@@ -1,38 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-09-07 16:01:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-07 17:01:32 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, September 07, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, September 07, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/9/7/live-turkiye-vs-spain-world-cup-2026-qualifier?traffic_source=rss" target="_blank">LIVE: Turkiye vs Spain – World Cup 2026 qualifier</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-07 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/ThisWeek/raddatz-1-abc-er-250905_1757103928943_hpMain_4x3t_384.jpg" alt="Zelenskyy says Trump’s Alaska summit ‘gave Putin what he wanted’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,15 +91,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cpq5dl5y4nlo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky condemns &#x27;ruthless attack&#x27; after Russia hits main government building in Kyiv</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-07 11:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250905-Hyundai-atf-raid-se-1056-b9f4d9.jpg" alt="Workers detained in Hyundai plant raid to be freed and flown home, South Korea says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/south-korea-deal-workers-detained-hyundai-rcna229610" target="_blank">Workers detained in Hyundai plant raid to be freed and flown home, South Korea says</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-07 11:07</span>
             </div>
         </div>
 </div>
@@ -167,12 +158,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnjtgnbjq7neerv1nwtp9.png" alt="All about Big O Notation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/extinctsion/all-about-big-o-notation-20j8" target="_blank">All about Big O Notation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-07 16:54</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gg_news/ign-dreadcore-locked-unit-official-gameplay-trailer-4cm8" target="_blank">IGN: Dreadcore: Locked Unit – Official Gameplay Trailer</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-07 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-DRM-Next-Linux-6.18" target="_blank">Intel Preps Wildcat Lake Display Support For Linux 6.18, &quot;enable_panel_replay&quot; Option</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-07 14:14</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +209,6 @@
                 <span class="title"><a href="https://dev.to/jatin_goel_dac08bb6728f1e/not-just-storage-the-hidden-logic-behind-bucket-types-2a5j" target="_blank">Not Just Storage: The Hidden Logic Behind Bucket Types</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-07 11:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://serverlesshorrors.com/" target="_blank">Serverless Horrors</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-07 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbeqwr6xv3c4emi5wtqi2.png" alt="DNS 101: The Internet’s GPS for Websites" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shahpershahin/dns-101-the-internets-gps-for-websites-5aoj" target="_blank">DNS 101: The Internet’s GPS for Websites</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-07 10:52</span>
             </div>
         </div>
 </div>
@@ -261,22 +252,13 @@
                 <span class="time">2025-09-06 18:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/djimon-hounsou-kingsman.jpg" alt="Please, ‘Highlander’ Reboot, Don’t Waste Djimon Hounsou" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/please-highlander-reboot-dont-waste-djimon-hounsou-2000654842" target="_blank">Please, ‘Highlander’ Reboot, Don’t Waste Djimon Hounsou</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-06 16:25</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 67 | 📡 Total Sources: 41 | 📸 With Images: 281 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 22 | 📅 Last 24h: 68 | 📡 Total Sources: 41 | 📸 With Images: 281 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
