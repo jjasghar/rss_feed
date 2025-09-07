@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-07 18:02:05 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-07 19:01:28 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, September 07, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, September 07, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/7/us-holocaust-museum-removes-anti-genocide-post-amid-gaza-atrocities?traffic_source=rss" target="_blank">US Holocaust museum removes anti-genocide post amid Gaza atrocities</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-07 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/07/nx-s1-5533121/postal-traffic-to-us-drops-more-than-80-after-trade-exemption-rule-ends-un-agency-says" target="_blank">Postal traffic to US drops more than 80% after trade exemption rule ends, UN agency says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-07 17:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +99,20 @@
                 <span class="time">2025-09-07 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757249402077_mtp_clip_kornacki_250907_1920x1080-bwt0ss.jpg" alt="Steve Kornacki: Trump gets low marks on handling inflation in new poll" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/steve-kornacki-trump-gets-low-marks-on-handling-inflation-in-new-poll-246995013506" target="_blank">Steve Kornacki: Trump gets low marks on handling inflation in new poll</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-07 12:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e006/live/9d7ada90-8bae-11f0-94f7-a595856b120f.jpg" alt="Zelensky condemns &#x27;ruthless attack&#x27; after Russia hits main government building in Kyiv" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cpq5dl5y4nlo?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky condemns &#x27;ruthless attack&#x27; after Russia hits main government building in Kyiv</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-07 11:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/773492/gm-cuts-ev-production-tax-credit" target="_blank">GM slows EV production as tax credit nears expiration</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-07 17:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +158,20 @@
                 <span class="time">2025-09-07 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/movie-reviews/773429/tiff-2025-wake-up-dead-man-bad-apples-review" target="_blank">Wake Up Dead Man adds a delightfully dark twist to Knives Out</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-07 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/diegobrandao/migracao-do-java-11-para-java-17-beneficios-e-trade-offs-com-evidencias-tecnicas-302n" target="_blank">Migração do Java 11 para Java 17: Benefícios e Trade-offs com Evidências Técnicas</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-07 18:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,20 +217,20 @@
                 <span class="time">2025-09-07 13:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Hangover-10.14" target="_blank">Hangover 10.14 Released With Updated FEX, Box64 &amp; DXVK</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-07 13:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/moon.jpg" alt="Everything you need to know about the full moon lunar eclipse tonight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/everything-you-need-to-know-about-the-full-moon-lunar-eclipse-tonight-2000655078" target="_blank">Everything you need to know about the full moon lunar eclipse tonight</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-07 18:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/police-tape.jpg" alt="Silicon Valley tech worker fatally shot after allegedly stabbing roommate" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,22 +267,13 @@
                 <span class="time">2025-09-06 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/witch-hat-atelier-hed.jpg" alt="‘Witch Hat Atelier’ Anime Gets Delayed Into 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/witch-hat-atelier-anime-gets-delayed-into-2026-2000654964" target="_blank">‘Witch Hat Atelier’ Anime Gets Delayed Into 2026</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-06 18:50</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 68 | 📡 Total Sources: 41 | 📸 With Images: 280 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 70 | 📡 Total Sources: 41 | 📸 With Images: 279 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
