@@ -1,39 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-07 13:04:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-07 14:01:39 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, September 07, 2025 - 13:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, September 07, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757249402077_mtp_clip_kornacki_250907_1920x1080-bwt0ss.jpg" alt="Steve Kornacki: Trump gets low marks on handling inflation in new poll" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/steve-kornacki-trump-gets-low-marks-on-handling-inflation-in-new-poll-246995013506" target="_blank">Steve Kornacki: Trump gets low marks on handling inflation in new poll</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-07 12:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250905-Hyundai-atf-raid-se-1056-b9f4d9.jpg" alt="Workers detained in Hyundai plant raid to be freed and flown home, South Korea says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,15 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/7/hind-rajab-film-given-major-prize-at-venice-film-festival?traffic_source=rss" target="_blank">Hind Rajab film given major prize at Venice film festival</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-07 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Kyiv-cabinet-DB-250907_1757230024391_hpMain_4x3t_384.jpg" alt="Ukraine cabinet building hit in largest Russian strike of war, Zelenskyy says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/ukraine-cabinet-building-hit-largest-russian-strike-war/story?id=125335388" target="_blank">Ukraine cabinet building hit in largest Russian strike of war, Zelenskyy says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-07 07:36</span>
             </div>
         </div>
 </div>
@@ -168,6 +168,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2Fpako%3AeNo9UNFKxDAQ_JWwTx7kapNa08uDoFcE4QTx0fYeotlrA21Scil4lv67uRYdWHZnYGaXneDLaQQJjVdDSw7vtSUR5VN1U6qgPtUZN0ey3T6Qx7eXKhY5qAv6Vdp3Bm2o1nb77J0NaPURaEwzGmTwI1Lo0ffqSmG6htcQWuyxBhnHzjRtqKG2czQNyn441__5vBubFuRJdefIxkGrgKVR8dD-X_VxH_q9G20AKdiSAXKCb5B5mqT3PKdwAckykQguMsE4ywueZjOFn2VVmhTibhchOMuKHWcFBdQmOP-6_mV5z_wLzZJajQ%3Ftype%3Dpng" alt="Don&#x27;t let your database schema become your API contract" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thanmatt/dont-let-your-database-schema-become-your-api-contract-2nke" target="_blank">Don&#x27;t let your database schema become your API contract</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-07 13:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Hangover-10.14" target="_blank">Hangover 10.14 Released With Updated FEX, Box64 &amp; DXVK</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-07 13:28</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Figx914afrvwjahej31bf.png" alt="Not Just Storage: The Hidden Logic Behind Bucket Types" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -201,24 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-25.10-UI-Freeze" target="_blank">Ubuntu 25.10 Enters Its UI Freeze</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-07 09:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/matt_pass/is-this-vibe-coding-30e3" target="_blank">Is this Vibe Coding?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-07 09:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fex7t19wv9j3lbbsgllxf.png" alt="Atomica- Turn Science into understandable concepts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shreya111111/atomica-turn-science-into-understandable-concepts-1onj" target="_blank">Atomica- Turn Science into understandable concepts</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-07 08:33</span>
             </div>
         </div>
 </div>
@@ -290,8 +290,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 283 |
-        🔄 Last Updated: 13:04 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 64 | 📡 Total Sources: 42 | 📸 With Images: 285 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
