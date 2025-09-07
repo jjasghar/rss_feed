@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-07 01:29:22 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-09-07 02:28:24 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Sunday, September 07, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, September 07, 2025 - 02:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +54,24 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/7/russia-ukraine-war-list-of-key-events-day-1291?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,291</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-07 00:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/06/nx-s1-5532632/phillies-marlins-young-fan-home-run-ball-woman" target="_blank">Young Phillies fan is gifted swag after adult fan takes his home run ball</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-07 00:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/chicago-2_1757196349075_hpMain_4x3t_384.jpg" alt="War of words heats up between Trump, Illinois leaders over Chicago" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/chicago-braces-expanded-immigration-enforcement-local-officials-push/story?id=125328501" target="_blank">War of words heats up between Trump, Illinois leaders over Chicago</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-07 00:16</span>
             </div>
         </div>
 <div class="story">
@@ -76,24 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c62qrmpd7l5o?at_medium=RSS&at_campaign=rss" target="_blank">More than 425 arrested at rally against Palestine Action ban in London</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-06 20:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/06/g-s1-87503/venice-film-festival-winners-jarmusch-rajab" target="_blank">Jim Jarmusch&#x27;s &#x27;Father Mother Sister Brother&#x27; wins top prize at Venice Film Festival</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-06 20:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/06/nx-s1-5532604/hyundai-immigration-raid-georgia-south-korea" target="_blank">ICE arrests at a Georgia Hyundai plant create new tension with South Korea</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-06 19:38</span>
             </div>
         </div>
 </div>
@@ -161,6 +166,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9max8spu5ppijzxx2cwr.png" alt="Ship small, ship often: Practical Kubernetes CI/CD on a budget (GitHub Actions + Helm)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/digitalpollution/ship-small-ship-often-practical-kubernetes-cicd-on-a-budget-github-actions-helm-3bnl" target="_blank">Ship small, ship often: Practical Kubernetes CI/CD on a budget (GitHub Actions + Helm)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-07 02:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://mitchivin.com/" target="_blank">Show HN: I recreated Windows XP as my portfolio</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-07 01:44</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6hizjguxdyxfmcs1rfia.jpg" alt="5 Best Free Planning Poker Tools for Agile Teams in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -194,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/srinivasamcjf/the-hard-truth-about-devops-learning-practical-experience-over-presentations-103g" target="_blank">The Hard Truth About DevOps Learning: Practical Experience Over Presentations</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-06 21:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/darthmoomancer/almost-2-months-of-gentoo-the-journey-so-far-1m46" target="_blank">Almost 2 Months of Gentoo, The Journey So Far!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-06 20:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.gatesnotes.com/utahs-hottest-new-power-source-is-below-the-ground" target="_blank">Utah&#x27;s hottest new power source is 15k feet below the ground</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-06 20:26</span>
             </div>
         </div>
 </div>
@@ -288,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 281 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 281 |
+        🔄 Last Updated: 02:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
