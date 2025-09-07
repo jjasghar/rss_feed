@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-07 05:02:04 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-07 06:02:04 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Error processing https://feeds.dzone.com/dzone/frontpage: The read operation timed out -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 0 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 1 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, September 07, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, September 07, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e006/live/9d7ada90-8bae-11f0-94f7-a595856b120f.jpg" alt="Ukraine&#x27;s main government building in Kyiv hit for first time, PM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cpq5dl5y4nlo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine&#x27;s main government building in Kyiv hit for first time, PM says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-07 05:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +100,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/chicago-braces-expanded-immigration-enforcement-local-officials-push/story?id=125328501" target="_blank">War of words heats up between Trump, Illinois leaders over Chicago</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-07 00:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/chicago-2_1757196349075_hpMain_4x3t_384.jpg" alt="Chicago braces for expanded ICE enforcement over the weekend" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/chicago-braces-expanded-immigration-enforcement-local-officials-push/story?id=125328501" target="_blank">Chicago braces for expanded ICE enforcement over the weekend</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-06 23:13</span>
             </div>
         </div>
 </div>
@@ -284,8 +289,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 283 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
