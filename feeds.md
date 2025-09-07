@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-09-07 07:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-07 08:02:02 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Sunday, September 07, 2025 - 07:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Sunday, September 07, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/7/hind-rajab-film-given-major-prize-at-venice-film-festival?traffic_source=rss" target="_blank">Hind Rajab film given major prize at Venice film festival</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-07 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Kyiv-cabinet-DB-250907_1757230024391_hpMain_4x3t_384.jpg" alt="Ukraine cabinet building hit in largest Russian strike of war, Zelenskyy says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/ukraine-cabinet-building-hit-largest-russian-strike-war/story?id=125335388" target="_blank">Ukraine cabinet building hit in largest Russian strike of war, Zelenskyy says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-07 07:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/07/nx-s1-5533036/russia-assaults-ukraine-800-drones-largest-attack-war" target="_blank">Russia assaults Ukraine with over 800 drones and decoys, the largest such attack in the war</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-07 07:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,33 +102,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/7/gaza-war-film-the-voice-of-hind-rajab-wins-2nd-prize-at-venice-festival?traffic_source=rss" target="_blank">Gaza war film The Voice of Hind Rajab wins 2nd prize at Venice festival</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-07 03:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/7/us-open-sabalenka-wins-second-straight-title-defeats-anisimova?traffic_source=rss" target="_blank">US Open: Sabalenka wins second straight title, defeats Anisimova</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-07 02:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/7/russia-ukraine-war-list-of-key-events-day-1291?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,291</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-07 00:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/06/nx-s1-5532632/phillies-marlins-young-fan-home-run-ball-woman" target="_blank">Young Phillies fan is gifted swag after adult fan takes his home run ball</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-07 00:37</span>
             </div>
         </div>
 </div>
@@ -164,6 +169,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fadk5bl96z9f5sf83osdh.png" alt="AI Genie: A Multimodal Q&amp;A Assistant with Google Gemini" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/davinceleecode/ai-genie-a-multimodal-qa-assistant-with-google-gemini-3dnb" target="_blank">AI Genie: A Multimodal Q&amp;A Assistant with Google Gemini</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-07 07:33</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -206,15 +220,6 @@
                 <span class="title"><a href="https://dev.to/mattlewandowski93/5-best-free-planning-poker-tools-for-agile-teams-in-2025-2i02" target="_blank">5 Best Free Planning Poker Tools for Agile Teams in 2025</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-07 01:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://mitchivin.com/" target="_blank">mitchivin.com</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-07 00:29</span>
             </div>
         </div>
 </div>
@@ -286,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 07:01 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
