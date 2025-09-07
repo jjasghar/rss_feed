@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-09-07 09:01:34 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-09-07 10:01:52 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, September 07, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, September 07, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +48,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/9/7/israel-will-put-egypt-in-a-very-delicate?traffic_source=rss" target="_blank">Israel “will put Egypt in a very delicate situation”</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-07 08:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Kyiv-missile-strike-DB-250907_1757231555073_hpMain_4x3t_384.jpg" alt="NATO scrambles jets amid Russia&#x27;s largest ever attack on Ukraine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/ukraine-cabinet-building-hit-largest-russian-strike-war/story?id=125335388" target="_blank">NATO scrambles jets amid Russia&#x27;s largest ever attack on Ukraine</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-07 08:36</span>
             </div>
         </div>
 <div class="story">
@@ -87,15 +93,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/7/sanders-mamdani-rally-progressive-voters-as-nyc-mayors-race-intensifies?traffic_source=rss" target="_blank">Sanders, Mamdani rally progressive voters as NYC mayor’s race intensifies</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-07 06:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e006/live/9d7ada90-8bae-11f0-94f7-a595856b120f.jpg" alt="Ukraine&#x27;s main government building in Kyiv hit for first time, PM says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cpq5dl5y4nlo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine&#x27;s main government building in Kyiv hit for first time, PM says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-07 05:58</span>
             </div>
         </div>
 </div>
@@ -163,6 +160,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-25.10-UI-Freeze" target="_blank">Ubuntu 25.10 Enters Its UI Freeze</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-07 09:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/matt_pass/is-this-vibe-coding-30e3" target="_blank">Is this Vibe Coding?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-07 09:39</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fex7t19wv9j3lbbsgllxf.png" alt="Atomica- Turn Science into understandable concepts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -196,24 +211,6 @@
                 <span class="title"><a href="https://dev.to/mahinshanazeer/-9gl" target="_blank">[Boost]</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-07 02:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9max8spu5ppijzxx2cwr.png" alt="Ship small, ship often: Practical Kubernetes CI/CD on a budget (GitHub Actions + Helm)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/digitalpollution/ship-small-ship-often-practical-kubernetes-cicd-on-a-budget-github-actions-helm-3bnl" target="_blank">Ship small, ship often: Practical Kubernetes CI/CD on a budget (GitHub Actions + Helm)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-07 02:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://mitchivin.com/" target="_blank">Show HN: I recreated Windows XP as my portfolio</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-07 01:44</span>
             </div>
         </div>
 </div>
@@ -285,8 +282,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 282 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 282 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
