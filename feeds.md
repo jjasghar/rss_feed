@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-07 19:01:28 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-07 20:01:36 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, September 07, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, September 07, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/7/trump-suggests-he-put-forward-new-gaza-ceasefire-proposal?traffic_source=rss" target="_blank">Trump suggests he put forward new Gaza ceasefire proposal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-07 19:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/7/uk-police-arrest-almost-900-protesters-at-pro-palestine-action-rally?traffic_source=rss" target="_blank">UK police arrest almost 900 protesters at pro-Palestine Action rally</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-07 15:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/07/nx-s1-5525686/colombia-peru-amazon" target="_blank">Colombia&#x27;s lone Amazon port faces drying river and rising tensions with Peru</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-07 13:30</span>
             </div>
         </div>
 </div>
@@ -167,9 +170,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/biswasprasana001/how-react-native-talks-to-your-iphone-and-android-and-how-its-changed-4jn1" target="_blank">How React Native Talks to Your iPhone and Android… And How It’s Changed</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-07 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/diegobrandao/migracao-do-java-11-para-java-17-beneficios-e-trade-offs-com-evidencias-tecnicas-302n" target="_blank">Migração do Java 11 para Java 17: Benefícios e Trade-offs com Evidências Técnicas</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-07 18:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/ubuntu-questing.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Yaru Theme Adds New App Icons" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/ubuntu-25-10-yaru-new-icons" target="_blank">Ubuntu 25.10 Yaru Theme Adds New App Icons</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-07 18:41</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/gg_news/ign-dreadcore-locked-unit-official-gameplay-trailer-4cm8" target="_blank">IGN: Dreadcore: Locked Unit – Official Gameplay Trailer</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-07 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-DRM-Next-Linux-6.18" target="_blank">Intel Preps Wildcat Lake Display Support For Linux 6.18, &quot;enable_panel_replay&quot; Option</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-07 14:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2Fpako%3AeNo9UNFKxDAQ_JWwTx7kapNa08uDoFcE4QTx0fYeotlrA21Scil4lv67uRYdWHZnYGaXneDLaQQJjVdDSw7vtSUR5VN1U6qgPtUZN0ey3T6Qx7eXKhY5qAv6Vdp3Bm2o1nb77J0NaPURaEwzGmTwI1Lo0ffqSmG6htcQWuyxBhnHzjRtqKG2czQNyn441__5vBubFuRJdefIxkGrgKVR8dD-X_VxH_q9G20AKdiSAXKCb5B5mqT3PKdwAckykQguMsE4ywueZjOFn2VVmhTibhchOMuKHWcFBdQmOP-6_mV5z_wLzZJajQ%3Ftype%3Dpng" alt="Don&#x27;t let your database schema become your API contract" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thanmatt/dont-let-your-database-schema-become-your-api-contract-2nke" target="_blank">Don&#x27;t let your database schema become your API contract</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-07 13:57</span>
             </div>
         </div>
 </div>
@@ -269,11 +272,25 @@
         </div>
 </div>
 </div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1757023233-20250907.png" alt="Saturday Morning Breakfast Cereal - Gardening" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/gardening-2" target="_blank">Saturday Morning Breakfast Cereal - Gardening</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-09-07 15:20</span>
+            </div>
+        </div>
+</div>
+</div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 23 | 📅 Last 24h: 70 | 📡 Total Sources: 41 | 📸 With Images: 279 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 71 | 📡 Total Sources: 41 | 📸 With Images: 277 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
