@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-09-07 20:01:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-07 21:01:42 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, September 07, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Sunday, September 07, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/7/us-european-sanctions-could-collapse-russian-economy-trump-aide?traffic_source=rss" target="_blank">US-European sanctions could ‘collapse’ Russian economy: Trump aide</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-07 20:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +104,20 @@
                 <span class="time">2025-09-07 15:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/7/uk-police-arrest-almost-900-protesters-at-pro-palestine-action-rally?traffic_source=rss" target="_blank">UK police arrest almost 900 protesters at pro-Palestine Action rally</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-07 15:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/07/koah-raises-5m-to-bring-ads-into-ai-apps/" target="_blank">Koah raises $5M to bring ads into AI apps</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-07 20:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +163,20 @@
                 <span class="time">2025-09-07 14:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/911_turbos_1001-500x500.jpg" alt="Porsche’s insanely clever hybrid engine comes to the 911 Turbo S" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/09/porsches-insanely-clever-hybrid-engine-comes-to-the-911-turbo-s/" target="_blank">Porsche’s insanely clever hybrid engine comes to the 911 Turbo S</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-07 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://picocss.com" target="_blank">Pico CSS • Minimal CSS Framework for Semantic HTML</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-07 20:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,20 +222,20 @@
                 <span class="time">2025-09-07 16:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-dreadcore-locked-unit-official-gameplay-trailer-4cm8" target="_blank">IGN: Dreadcore: Locked Unit – Official Gameplay Trailer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-07 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/ConjuringYoungerWarrens.jpg" alt="‘The Conjuring: Last Rites’ Summons a Franchise-Best Box Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-conjuring-last-rites-summons-a-franchise-best-box-office-2000655105" target="_blank">‘The Conjuring: Last Rites’ Summons a Franchise-Best Box Office</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-07 20:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/moon.jpg" alt="Everything you need to know about the full moon lunar eclipse tonight" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -244,6 +255,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Pok-Pok-Lifetime-Subscription-1.jpg?fit=1300%2C867&amp;quality=60&amp;ssl=1" alt="This award-winning educational app for kids is on sale, just $50 for life!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/07/this-award-winning-educational-app-for-kids-is-on-sale-just-50-for-life.html" target="_blank">This award-winning educational app for kids is on sale, just $50 for life!</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-07 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/deadpool-hed.jpg" alt="Ryan Reynolds Fesses Up to Leaking ‘Deadpool’ Test Footage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -259,15 +279,6 @@
                 <span class="title"><a href="https://gizmodo.com/live-updates-from-apples-awe-dropping-iphone-17-event-2000652081" target="_blank">Live Updates From Apple’s ‘Awe Dropping’ iPhone 17 Event 🔴</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-07 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Sams-Club-Membership.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Sam&#x27;s Club is giving new members $35 to spend in-store" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/06/sams-club-is-giving-new-members-35-to-spend-in-store.html" target="_blank">Sam&#x27;s Club is giving new members $35 to spend in-store</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-06 21:00</span>
             </div>
         </div>
 </div>
@@ -289,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 71 | 📡 Total Sources: 41 | 📸 With Images: 277 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
