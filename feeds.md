@@ -1,29 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-07 17:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-07 18:02:05 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 21 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, September 07, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, September 07, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -126,6 +136,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/68bd17dc2e8608768d47f32c/master/pass/WiredHow-to-Add-WIRED-as-a-Preferred-Source-on-Google.jpg" alt="How to Add WIRED as a Preferred Source on Google (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/wired-google-preferred-source/" target="_blank">How to Add WIRED as a Preferred Source on Google (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-07 14:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/911_turbos_1001-500x500.jpg" alt="Porsche’s insanely clever hybrid engine comes to the 911 Turbo S" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -143,20 +162,20 @@
                 <span class="time">2025-09-07 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68b18dd8848cb7db8ce4d2a6/master/pass/BetterQuantumSecrets-crWei-AnJin-Lede.jpeg" alt="The New Math of Quantum Cryptography" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/the-new-math-of-quantum-cryptography/" target="_blank">The New Math of Quantum Cryptography</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-07 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/datadr1ven/token-payout-based-on-private-information-golf-barbecue-coin-gbc-38d5" target="_blank">Token Payout based on Private Information: Golf Barbecue Coin (GBC)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-07 17:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnjtgnbjq7neerv1nwtp9.png" alt="All about Big O Notation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,20 +221,20 @@
                 <span class="time">2025-09-07 13:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Figx914afrvwjahej31bf.png" alt="Not Just Storage: The Hidden Logic Behind Bucket Types" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jatin_goel_dac08bb6728f1e/not-just-storage-the-hidden-logic-behind-bucket-types-2a5j" target="_blank">Not Just Storage: The Hidden Logic Behind Bucket Types</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-07 11:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/police-tape.jpg" alt="Silicon Valley tech worker fatally shot after allegedly stabbing roommate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/silicon-valley-tech-worker-fatally-shot-after-allegedly-stabbing-roommate-2000655099" target="_blank">Silicon Valley tech worker fatally shot after allegedly stabbing roommate</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-07 16:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/deadpool-hed.jpg" alt="Ryan Reynolds Fesses Up to Leaking ‘Deadpool’ Test Footage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -257,8 +276,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 22 | 📅 Last 24h: 68 | 📡 Total Sources: 41 | 📸 With Images: 281 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 68 | 📡 Total Sources: 41 | 📸 With Images: 280 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
