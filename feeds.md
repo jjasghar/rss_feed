@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-07 15:01:45 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-07 16:01:49 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, September 07, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, September 07, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/ThisWeek/raddatz-1-abc-er-250905_1757103928943_hpMain_4x3t_384.jpg" alt="Zelenskyy says Trump’s Alaska summit ‘gave Putin what he wanted’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/zelenskyy-trumps-alaska-summit-gave-putin-wanted/story?id=125336611" target="_blank">Zelenskyy says Trump’s Alaska summit ‘gave Putin what he wanted’</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-07 15:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/7/uk-police-arrest-almost-900-protesters-at-pro-palestine-action-rally?traffic_source=rss" target="_blank">UK police arrest almost 900 protesters at pro-Palestine Action rally</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-07 15:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +102,29 @@
                 <span class="time">2025-09-07 11:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71b7/live/a1bacb30-8bcf-11f0-937d-cfdcf994900e.jpg" alt="Healey says more military sites could house asylum seekers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5yvxergw4xo?at_medium=RSS&at_campaign=rss" target="_blank">Healey says more military sites could house asylum seekers</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-07 10:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/9/7/israel-will-put-egypt-in-a-very-delicate?traffic_source=rss" target="_blank">Israel “will put Egypt in a very delicate situation”</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-07 08:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/film/773480/tiff-2025-frankenstein-wake-up-dead-man-movie-reviews" target="_blank">TIFF 2025: Frankenstein, Knives Out 3, and all the biggest movies from Toronto</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-07 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/07/microsoft-says-azure-affected-after-cables-cut-in-the-red-sea/" target="_blank">Microsoft says Azure affected after cables cut in the Red Sea</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-07 15:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,29 +161,20 @@
                 <span class="time">2025-09-07 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68bbb902f02d871ebe651fb5/master/pass/Best%20Phones%20Outside%20US%201%20SOURCE%20Simon%20Hill.jpg" alt="6 Best Phones You Can’t Buy in the US (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/" target="_blank">6 Best Phones You Can’t Buy in the US (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-07 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/06/why-is-an-amazon-backed-ai-startup-making-orson-welles-fan-fiction/" target="_blank">Why is an Amazon-backed AI startup making Orson Welles fan fiction?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-06 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/ign-dreadcore-locked-unit-official-gameplay-trailer-4cm8" target="_blank">IGN: Dreadcore: Locked Unit – Official Gameplay Trailer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-07 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2Fpako%3AeNo9UNFKxDAQ_JWwTx7kapNa08uDoFcE4QTx0fYeotlrA21Scil4lv67uRYdWHZnYGaXneDLaQQJjVdDSw7vtSUR5VN1U6qgPtUZN0ey3T6Qx7eXKhY5qAv6Vdp3Bm2o1nb77J0NaPURaEwzGmTwI1Lo0ffqSmG6htcQWuyxBhnHzjRtqKG2czQNyn441__5vBubFuRJdefIxkGrgKVR8dD-X_VxH_q9G20AKdiSAXKCb5B5mqT3PKdwAckykQguMsE4ywueZjOFn2VVmhTibhchOMuKHWcFBdQmOP-6_mV5z_wLzZJajQ%3Ftype%3Dpng" alt="Don&#x27;t let your database schema become your API contract" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,30 +203,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://serverlesshorrors.com/" target="_blank">Serverless Horrors</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-07 11:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbeqwr6xv3c4emi5wtqi2.png" alt="DNS 101: The Internet’s GPS for Websites" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/shahpershahin/dns-101-the-internets-gps-for-websites-5aoj" target="_blank">DNS 101: The Internet’s GPS for Websites</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-07 10:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-PowerVR-RISC-V" target="_blank">Imagination PowerVR Driver With Linux 6.18 To Support RISC-V</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-07 10:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-25.10-UI-Freeze" target="_blank">Ubuntu 25.10 Enters Its UI Freeze</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-07 09:54</span>
             </div>
         </div>
 </div>
@@ -273,25 +272,11 @@
         </div>
 </div>
 </div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1757023159-20250906.png" alt="Saturday Morning Breakfast Cereal - Puppets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/puppets" target="_blank">Saturday Morning Breakfast Cereal - Puppets</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-09-06 15:20</span>
-            </div>
-        </div>
-</div>
-</div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 66 | 📡 Total Sources: 41 | 📸 With Images: 283 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 23 | 📅 Last 24h: 67 | 📡 Total Sources: 41 | 📸 With Images: 281 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
