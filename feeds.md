@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-08 21:01:31 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-08 22:01:43 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, September 08, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, September 08, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/james-comer-epa-gmh-250903_1756929407459_hpMain_4x3t_384.jpg" alt="House Oversight Committee says it has Epstein&#x27;s &#x27;birthday book&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/gop-led-house-oversight-committee-expected-receive-epstein/story?id=125365100" target="_blank">House Oversight Committee says it has Epstein&#x27;s &#x27;birthday book&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-08 21:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +99,20 @@
                 <span class="time">2025-09-08 18:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/9/8/the-capitulation-of-the-us-media-is-not-an-aberration?traffic_source=rss" target="_blank">The capitulation of the US media is not an aberration</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-08 18:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/774077/nintendo-switch-modder-ryan-daley-lawsuit" target="_blank">Nintendo Switch modder ordered to pay $2 million in piracy lawsuit</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-08 20:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-whatsapp-500x500.jpg" alt="Former WhatsApp security boss in lawsuit likens Meta’s culture to a “cult”" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -109,6 +120,15 @@
                 <span class="title"><a href="https://arstechnica.com/security/2025/09/former-whatsapp-security-boss-sues-meta-for-systemic-cybersecurity-failures/" target="_blank">Former WhatsApp security boss in lawsuit likens Meta’s culture to a “cult”</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-09-08 20:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/08/nuclear-startup-deep-fission-goes-public-in-a-curious-spac/" target="_blank">Nuclear startup Deep Fission goes public in a curious SPAC</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-08 20:08</span>
             </div>
         </div>
 <div class="story">
@@ -138,29 +158,20 @@
                 <span class="time">2025-09-08 18:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/Polestar-3-reveal-1-500x500.jpg" alt="Polestar unveils electric GT rival to the Porsche Taycan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/09/polestar-unveils-electric-gt-rival-to-the-porsche-taycan/" target="_blank">Polestar unveils electric GT rival to the Porsche Taycan</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-08 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68bf10434f93daca21c6ab1b/master/pass/Mic%20Mini.png" alt="Save $60 on the DJI Mic Mini Kit—Price Drops to Just $109 Today" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/save-dollar60-on-a-dji-mic-mini-bundle/" target="_blank">Save $60 on the DJI Mic Mini Kit—Price Drops to Just $109 Today</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-08 17:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-KVM-Nested-Intel-VMX-Perf" target="_blank">New Linux Patches Enhance Intel Nested Virtualization Performance On Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-08 21:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -177,6 +188,15 @@
                 <span class="title"><a href="https://dev.to/njeri_kimaru/exploring-the-similarities-between-sql-stored-procedures-and-python-functions-34dg" target="_blank">Exploring the Similarities Between SQL Stored Procedures and Python Functions</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-08 19:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/09/ai-sheets/en/headerimage/generatedHeaderImage-1757359933377.jpg" alt="Hugging Face Introduces AI Sheets, a No-Code Tool for Dataset Transformation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/ai-sheets/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Hugging Face Introduces AI Sheets, a No-Code Tool for Dataset Transformation</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-08 19:45</span>
             </div>
         </div>
 <div class="story">
@@ -197,29 +217,20 @@
                 <span class="time">2025-09-08 17:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18607435&w=600" alt="Replacing LEADTOOLS Scanner With AWS Textract (Step-by-Step Migration)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/replacing-leadtools-scanner-with-aws-textract" target="_blank">Replacing LEADTOOLS Scanner With AWS Textract (Step-by-Step Migration)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-08 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://signal.org/blog/introducing-secure-backups/" target="_blank">Signal Secure Backups</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-08 16:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/signed-copies-of-rewiring-democracy.html" target="_blank">Signed Copies of Rewiring Democracy</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-09-08 18:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -234,6 +245,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Frankenstein-Jacob-Elordi.jpg" alt="Jacob Elordi’s ‘Frankenstein’ Body, as Described by Guillermo del Toro" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/jacob-elordis-frankenstein-body-as-described-by-guillermo-del-toro-2000655652" target="_blank">Jacob Elordi’s ‘Frankenstein’ Body, as Described by Guillermo del Toro</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-08 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4NJ5ZC2EAWTV17BCCRSPRAY/hero-image.png" alt="If You Have a Mini-LED TV, You Need to Enable This Setting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/change-this-brightness-setting-on-your-mini-led-tv?utm_medium=RSS" target="_blank">If You Have a Mini-LED TV, You Need to Enable This Setting</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-08 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/New-Project-3.jpg" alt="Conjuring 4 Just Had The Biggest Opening Weekend In Horror Movie History" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/conjuring-4-last-rites-biggest-box-office-horror-movie-record-history-wb-2000624132" target="_blank">Conjuring 4 Just Had The Biggest Opening Weekend In Horror Movie History</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-08 20:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K4NC8T0BTRC7W4TBPQG6K7NN/hero-image.png" alt="Amazon Will Double Your Storage on a New Samsung Galaxy Tab S11 for Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -259,33 +297,6 @@
                 <span class="title"><a href="https://gizmodo.com/dwayne-johnson-to-next-play-the-chicken-man-in-lizard-music-2000655464" target="_blank">Dwayne Johnson Will Play the Chicken Man in ‘Lizard Music’</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-08 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/New-Project-2.jpg" alt="Best Buy’s Video Game Clearance Sale Includes Some Good Deals On Big Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/best-buys-video-game-clearance-sale-includes-some-good-deals-on-big-games-2000624096" target="_blank">Best Buy’s Video Game Clearance Sale Includes Some Good Deals On Big Games</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-08 17:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/03/s-court-e1742315066663.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="SCOTUS approves racism as &quot;reasonable suspicion&quot; for immigration raids" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/08/scotus-approves-racism-as-reasonable-suspicion-for-immigration-raids.html" target="_blank">SCOTUS approves racism as &quot;reasonable suspicion&quot; for immigration raids</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-08 17:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/jean-luc.jpg" alt="Lego Finally Announced A Star Trek Set I’m Willing To Mortgage My House For" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/lego-star-trek-tng-enterprise-price-release-date-2000624069" target="_blank">Lego Finally Announced A Star Trek Set I’m Willing To Mortgage My House For</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-08 16:52</span>
             </div>
         </div>
 </div>
@@ -325,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
