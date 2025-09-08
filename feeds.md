@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-08 07:02:10 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-08 08:02:21 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, September 08, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, September 08, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/8/australia-mushroom-murderer-sentenced-to-life-imprisonment?traffic_source=rss" target="_blank">Australia mushroom murderer sentenced to life imprisonment</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-08 07:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,21 +91,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/ThisWeek/raddatz-1-abc-er-250905_1757103928943_hpMain_4x3t_384.jpg" alt="Zelenskyy says Trump&#x27;s Alaska summit &#x27;gave Putin what he wanted&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://s.abcnews.com/images/Politics/Trump-USOpen1-20250907-getty-jh_1757268953998_hpMain_4x3t_384.jpg" alt="Trump admin live updates: ICE launches immigration enforcement operation in Boston" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/zelenskyy-trumps-alaska-summit-gave-putin-wanted/story?id=125336611" target="_blank">Zelenskyy says Trump&#x27;s Alaska summit &#x27;gave Putin what he wanted&#x27;</a></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=125150863" target="_blank">Trump admin live updates: ICE launches immigration enforcement operation in Boston</a></span>
                 <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-08 00:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/07/nx-s1-5533207/carlos-alcaraz-trump-us-open-tennis-rolex" target="_blank">Carlos Alcaraz wins his 2nd U.S. Open at match delayed by Trump&#x27;s attendance</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-08 00:37</span>
+                <span class="time">2025-09-08 00:59</span>
             </div>
         </div>
 </div>
@@ -304,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
