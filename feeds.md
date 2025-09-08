@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-08 02:29:06 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-08 03:17:25 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, September 08, 2025 - 02:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, September 08, 2025 - 03:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -84,21 +84,21 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-mushroom-poisoner-erin-patterson_7000697.jpg?20250825072157" alt="Death cap mushroom killer jailed for minimum of 33 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/7/alcaraz-beats-sinner-to-lift-us-open-2025-as-trump-watches-on?traffic_source=rss" target="_blank">Alcaraz beats Sinner to lift US Open 2025 as Trump watches on</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-07 22:32</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/death-cap-mushroom-killer-erin-patterson-jailed-for-minimum-of-33-years-13418079" target="_blank">Death cap mushroom killer jailed for minimum of 33 years</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-07 23:00</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/7/us-european-sanctions-could-collapse-russian-economy-trump-aide?traffic_source=rss" target="_blank">US-European sanctions could ‘collapse’ Russian economy: Trump aide</a></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/7/alcaraz-beats-sinner-to-lift-us-open-2025-as-trump-watches-on?traffic_source=rss" target="_blank">Alcaraz beats Sinner to lift US Open 2025 as Trump watches on</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-07 20:01</span>
+                <span class="time">2025-09-07 22:32</span>
             </div>
         </div>
 </div>
@@ -168,6 +168,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/ghostty-themes/" target="_blank">14 Themes for Beautifying Your Ghostty Terminal</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-09-08 02:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/utitofon_udoekong/fixing-aos-and-tailwind-css-compatibility-issues-in-nuxt-4-a-developers-journey-1hpc" target="_blank">Fixing AOS and Tailwind CSS Compatibility Issues in Nuxt 4: A Developer&#x27;s Journey</a></span>
                 <span class="feed">DEV Community</span>
@@ -206,15 +215,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://picocss.com" target="_blank">Pico CSS – Minimal CSS Framework for Semantic HTML</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-07 20:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://picocss.com" target="_blank">Pico CSS • Minimal CSS Framework for Semantic HTML</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-09-07 20:31</span>
             </div>
@@ -307,7 +307,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 26 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 02:29 UTC
+        🔄 Last Updated: 03:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
