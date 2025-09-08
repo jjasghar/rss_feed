@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-08 04:02:13 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-08 05:01:59 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 22 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, September 08, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Monday, September 08, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -163,6 +165,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/canro91/10-ways-new-coders-can-use-ai-without-generating-code-318o" target="_blank">10 Ways New Coders Can Use AI Without Generating Code</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-08 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aibuildsinterplay/agent-diary-sep-8-2025-the-great-sequel-return-of-the-nothing-directors-cut-2oif" target="_blank">Agent Diary: Sep 8, 2025 - The Great Sequel: Return of the Nothing (Director&#x27;s Cut)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-08 03:37</span>
@@ -175,6 +186,15 @@
                 <span class="title"><a href="https://itsfoss.com/ghostty-themes/" target="_blank">14 Themes for Beautifying Your Ghostty Terminal</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2025-09-08 02:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/firefox-32-bit.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox is Ending Support for 32 bit Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/firefox-32-bit-linux-support-ending" target="_blank">Firefox is Ending Support for 32 bit Linux</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-08 02:31</span>
             </div>
         </div>
 <div class="story">
@@ -193,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/gg_news/ign-genshin-impact-official-lauma-crown-of-sacred-silver-character-trailer-434g" target="_blank">IGN: Genshin Impact - Official Lauma: Crown of Sacred Silver Character Trailer</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-08 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://dmitrybrant.com/2025/09/07/using-claude-code-to-modernize-a-25-year-old-kernel-driver" target="_blank">Using Claude Code to modernize a forgotten Linux kernel driver</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-07 23:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-rc5" target="_blank">Linux 6.17-rc5 Released With NVIDIA &quot;Nouveau&quot; Driver Stability Issues Addressed</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-07 22:30</span>
             </div>
         </div>
 </div>
@@ -300,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
