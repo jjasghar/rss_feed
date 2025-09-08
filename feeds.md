@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-08 11:01:31 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-09-08 12:02:41 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, September 08, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, September 08, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/08/g-s1-87578/attempted-trump-assassination-trial-begins-and-south-korea-to-fly-300-workers-home" target="_blank">Attempted Trump assassination trial begins. And, South Korea to fly 300 workers home</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-08 11:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +96,20 @@
                 <span class="time">2025-09-08 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/Jerusalem-main_1757319821493_hpMain_4x3t_384.jpg" alt="Several killed in Jerusalem bus station shooting, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/deadly-jerusalem-bus-station-shooting-police/story?id=125353564" target="_blank">Several killed in Jerusalem bus station shooting, police say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-08 08:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/tinyvinyl5-500x500.jpg" alt="Tiny Vinyl is a new pocketable record format for the Spotify age" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/tiny-vinyl-is-a-new-pocketable-record-format-for-the-spotify-age/" target="_blank">Tiny Vinyl is a new pocketable record format for the Spotify age</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-08 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +155,29 @@
                 <span class="time">2025-09-07 20:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/773496/google-gemini-usage-limits" target="_blank">Google finally details Gemini usage limits</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-07 19:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.tribuneindia.com/news/world/massive-protests-in-nepal-over-social-media-ban/" target="_blank">14 Killed in protests in Nepal over social media ban</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-08 11:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18604511&w=600" alt="Getting Started With ClickHouse for AI/ML in Python" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/getting-started-with-clickhouse-for-ai-ml-in-python" target="_blank">Getting Started With ClickHouse for AI/ML in Python</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-08 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/articles/tls-certificate-transparency/en/headerimage/tls-certificate-transparency-header-1756385529119.jpg" alt="Article: Beyond the Padlock: Why Certificate Transparency Is Reshaping Internet Trust" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/madgan95/introduction-to-bonds-3816" target="_blank">Introduction to Bonds</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-08 05:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/canro91/10-ways-new-coders-can-use-ai-without-generating-code-318o" target="_blank">10 Ways New Coders Can Use AI Without Generating Code</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-08 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aibuildsinterplay/agent-diary-sep-8-2025-the-great-sequel-return-of-the-nothing-directors-cut-2oif" target="_blank">Agent Diary: Sep 8, 2025 - The Great Sequel: Return of the Nothing (Director&#x27;s Cut)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-08 03:37</span>
             </div>
         </div>
 </div>
@@ -313,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
