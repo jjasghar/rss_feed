@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-08 17:01:35 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-09-08 18:02:19 UTC -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, September 08, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, September 08, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/8/french-pm-loses-confidence-vote-in-blow-to-president-macron?traffic_source=rss" target="_blank">French PM loses confidence vote in blow to President Macron</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-08 17:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-2-gty-gmh-250908_1757334465762_hpMain_4x3t_384.jpg" alt="Appeals court upholds $83 million judgment against Trump for defaming E. Jean Carroll" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,20 +103,38 @@
                 <span class="time">2025-09-08 14:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250828-donald-trump-mn-1140-dbce0f.jpg" alt="Trump asks Supreme Court to allow $4 billion in foreign aid cuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/trump-asks-supreme-court-allow-4-billion-foreign-aid-cuts-rcna229794" target="_blank">Trump asks Supreme Court to allow $4 billion in foreign aid cuts</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-08 13:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/Polestar-3-reveal-1-500x500.jpg" alt="Polestar unveils electric GT rival to the Porsche Taycan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/09/polestar-unveils-electric-gt-rival-to-the-porsche-taycan/" target="_blank">Polestar unveils electric GT rival to the Porsche Taycan</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-08 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68bf10434f93daca21c6ab1b/master/pass/Mic%20Mini.png" alt="Save $60 on the DJI Mic Mini Kit—Price Drops to Just $109 Today" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/save-dollar60-on-a-dji-mic-mini-bundle/" target="_blank">Save $60 on the DJI Mic Mini Kit—Price Drops to Just $109 Today</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-08 17:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/08/signal-introduces-free-and-paid-backup-plans-for-your-chats/" target="_blank">Signal introduces free and paid backup plans for your chats</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-08 17:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,38 +162,38 @@
                 <span class="time">2025-09-08 16:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/11/SLS-Apr-21-2022-8505-Pano-500x500.jpg" alt="Congress and Trump may compromise on the SLS rocket by axing its costly upper stage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/09/congress-and-trump-may-compromise-on-the-sls-rocket-by-axing-its-costly-upper-stage/" target="_blank">Congress and Trump may compromise on the SLS rocket by axing its costly upper stage</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-08 15:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/08/anthropic-endorses-californias-ai-safety-bill-sb-53/" target="_blank">Anthropic endorses California’s AI safety bill, SB 53</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-08 15:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/08/y-combinator-backed-motion-raises-fresh-38m-to-build-the-microsoft-office-of-ai-agents/" target="_blank">Y Combinator-backed Motion raises fresh $38M to build the Microsoft Office of AI agents</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-08 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu56ks75ba29evr5unl7f.png" alt="Why Success Favors Action and How This Relates to AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/peter_truchly_4fce0874fd5/why-success-favors-action-and-how-this-relates-to-ai-4e54" target="_blank">Why Success Favors Action and How This Relates to AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-08 17:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18607435&w=600" alt="Replacing LEADTOOLS Scanner With AWS Textract (Step-by-Step Migration)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/replacing-leadtools-scanner-with-aws-textract" target="_blank">Replacing LEADTOOLS Scanner With AWS Textract (Step-by-Step Migration)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-08 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://signal.org/blog/introducing-secure-backups/" target="_blank">Signal Secure Backups</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-08 16:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -175,48 +204,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/09/airbnb-impulse-load-testing/en/headerimage/generatedHeaderImage-1756508391383.jpg" alt="Impulse, Airbnb’s New Framework for Context-Aware Load Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/airbnb-impulse-load-testing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Impulse, Airbnb’s New Framework for Context-Aware Load Testing</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-08 14:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/review/windows-11-25h2-ubuntu-2510" target="_blank">First Benchmarks Of Windows 11 25H2 vs. Ubuntu 25.10 On AMD Ryzen 9 9950X</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-08 13:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18604766&w=600" alt="API Design First: AsyncAPI in .Net" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/api-design-first-asyncapi-in-dotnet" target="_blank">API Design First: AsyncAPI in .Net</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-08 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.tribuneindia.com/news/world/massive-protests-in-nepal-over-social-media-ban/" target="_blank">14 Killed in protests in Nepal over social media ban</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-08 11:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18604511&w=600" alt="Getting Started With ClickHouse for AI/ML in Python" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/getting-started-with-clickhouse-for-ai-ml-in-python" target="_blank">Getting Started With ClickHouse for AI/ML in Python</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-08 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/tls-certificate-transparency/en/headerimage/tls-certificate-transparency-header-1756385529119.jpg" alt="Article: Beyond the Padlock: Why Certificate Transparency Is Reshaping Internet Trust" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/tls-certificate-transparency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Beyond the Padlock: Why Certificate Transparency Is Reshaping Internet Trust</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-08 11:00</span>
             </div>
         </div>
 </div>
@@ -238,6 +240,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Dwayne-Johnson-Smashing-Machine.jpg" alt="Dwayne Johnson Will Play the Chicken Man in ‘Lizard Music’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/dwayne-johnson-to-next-play-the-chicken-man-in-lizard-music-2000655464" target="_blank">Dwayne Johnson Will Play the Chicken Man in ‘Lizard Music’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-08 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/New-Project-2.jpg" alt="Best Buy’s Video Game Clearance Sale Includes Some Good Deals On Big Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/best-buys-video-game-clearance-sale-includes-some-good-deals-on-big-games-2000624096" target="_blank">Best Buy’s Video Game Clearance Sale Includes Some Good Deals On Big Games</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-08 17:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/03/s-court-e1742315066663.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="SCOTUS approves racism as &quot;reasonable suspicion&quot; for immigration raids" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/08/scotus-approves-racism-as-reasonable-suspicion-for-immigration-raids.html" target="_blank">SCOTUS approves racism as &quot;reasonable suspicion&quot; for immigration raids</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-08 17:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/jean-luc.jpg" alt="Lego Finally Announced A Star Trek Set I’m Willing To Mortgage My House For" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -263,33 +292,6 @@
                 <span class="title"><a href="https://gizmodo.com/scientists-turned-plastic-trash-into-a-material-that-eats-carbon-2000655402" target="_blank">Scientists Turned Plastic Trash Into a Material That Eats Carbon</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-08 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Microsoft-Windows-11-Pro.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Microsoft put one of its biggest upgrades behind a $199 paywall, but right now, it&#x27;s only $13" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/08/microsoft-put-one-of-its-biggest-upgrades-behind-a-199-paywall-but-right-now-its-only-13.html" target="_blank">Microsoft put one of its biggest upgrades behind a $199 paywall, but right now, it&#x27;s only $13</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-08 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/shutterstock_2598232495.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="Treasury Secretary Scott Bessent threatened to beat up colleague at dinner" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/08/treasury-secretary-scott-bessent-threatened-to-beat-up-colleague-at-dinner.html" target="_blank">Treasury Secretary Scott Bessent threatened to beat up colleague at dinner</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-08 14:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4DT8ND3RD2F6D1ZTS2HN5D6/hero-image.jpg" alt="Everything We Know About AirPods Pro 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/everything-we-know-about-airpods-pro-3?utm_medium=RSS" target="_blank">Everything We Know About AirPods Pro 3</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-08 14:30</span>
             </div>
         </div>
 </div>
@@ -320,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
