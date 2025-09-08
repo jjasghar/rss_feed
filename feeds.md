@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-08 12:02:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-08 13:09:52 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, September 08, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, September 08, 2025 - 13:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,10 +48,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/8/how-china-forgot-promises-and-debts-to-ukraine-and-backed-russias-war?traffic_source=rss" target="_blank">How China forgot promises and ‘debts’ to Ukraine, and backed Russia’s war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-08 12:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/09/08/g-s1-87578/attempted-trump-assassination-trial-begins-and-south-korea-to-fly-300-workers-home" target="_blank">Attempted Trump assassination trial begins. And, South Korea to fly 300 workers home</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-08 11:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6287/live/48e4c6d0-8c8f-11f0-b391-6936825093bd.jpg" alt="Six killed in shooting attack at bus stop in Jerusalem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr70ny0l7vgo?at_medium=RSS&at_campaign=rss" target="_blank">Six killed in shooting attack at bus stop in Jerusalem</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-08 11:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96a2/live/b6c3b1b0-8c86-11f0-a91f-69625b70a4a8.jpg" alt="UK could suspend visas for countries with no migrant return deals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4g7xyn03yno?at_medium=RSS&at_campaign=rss" target="_blank">UK could suspend visas for countries with no migrant return deals</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-08 11:39</span>
             </div>
         </div>
 <div class="story">
@@ -67,33 +97,6 @@
                 <span class="title"><a href="https://www.theguardian.com/environment/2025/sep/08/green-economy-boom-africa-climate-summit-renewable-energy-solar" target="_blank">Hopes rise for green economy boom at Africa Climate Summit</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-09-08 10:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/8/typhoon-tapah-makes-landfall-in-china-prompting-mass-evacuations-closures?traffic_source=rss" target="_blank">Typhoon Tapah makes landfall in China, prompting mass evacuations, closures</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-08 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/08/nx-s1-5533923/israel-jerusalem-shooting" target="_blank">Shooting attack at Jerusalem bus stop kills at least 5</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-08 09:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250905-trump-harris-signs-lr-836d94.jpg" alt="Gen Z gender divide reaches beyond politics and into views on marriage, children and success" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/politics-news/poll-gen-zs-gender-divide-reaches-politics-views-marriage-children-suc-rcna229255" target="_blank">Gen Z gender divide reaches beyond politics and into views on marriage, children and success</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-08 09:00</span>
             </div>
         </div>
 </div>
@@ -161,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18604766&w=600" alt="API Design First: AsyncAPI in .Net" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/api-design-first-asyncapi-in-dotnet" target="_blank">API Design First: AsyncAPI in .Net</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-08 12:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
@@ -205,13 +217,18 @@
                 <span class="time">2025-09-08 09:48</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsexq6te8yj2hzxmgrkhk.png" alt="Introduction to Bonds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/madgan95/introduction-to-bonds-3816" target="_blank">Introduction to Bonds</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-08 05:50</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/ai-in-government.html" target="_blank">AI in Government</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-09-08 11:05</span>
             </div>
         </div>
 </div>
@@ -219,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4MBHW4JR48591BT9WDH2N32/hero-image.png" alt="This Razer Xbox and PC Controller Is $50 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/razer-wolverine-v3-pro-sale?utm_medium=RSS" target="_blank">This Razer Xbox and PC Controller Is $50 Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-08 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/plush-main-1.jpg" alt="Pokémon Finally Lets Us Cuddle The Trainers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,15 +290,6 @@
                 <span class="time">2025-09-07 16:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Pok-Pok-Lifetime-Subscription-1.jpg?fit=1300%2C867&amp;quality=60&amp;ssl=1" alt="This award-winning educational app for kids is on sale, just $50 for life!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/07/this-award-winning-educational-app-for-kids-is-on-sale-just-50-for-life.html" target="_blank">This award-winning educational app for kids is on sale, just $50 for life!</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-07 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 13:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
