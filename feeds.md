@@ -1,40 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-09-08 09:01:59 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-08 10:02:08 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Generated 7 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, September 08, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, September 08, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +52,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/8/typhoon-tapah-makes-landfall-in-china-prompting-mass-evacuations-closures?traffic_source=rss" target="_blank">Typhoon Tapah makes landfall in China, prompting mass evacuations, closures</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-08 09:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/08/nx-s1-5533923/israel-jerusalem-shooting" target="_blank">Shooting attack at Jerusalem bus stop kills at least 5</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-08 09:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/Jerusalem-main_1757319821493_hpMain_4x3t_384.jpg" alt="Several killed in Jerusalem bus station shooting, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/deadly-jerusalem-bus-station-shooting-police/story?id=125353564" target="_blank">Several killed in Jerusalem bus station shooting, police say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-08 08:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6287/live/48e4c6d0-8c8f-11f0-b391-6936825093bd.jpg" alt="Five killed in Jerusalem shooting attack, paramedics say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -69,39 +98,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-jerusalem-israeli-police_7014159.jpg?20250908090051" alt="At least five killed in shooting in Jerusalem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-jerusalem-israeli-police_7014159.jpg?20250908090051" alt="At least six killed in shooting in Jerusalem, including a pregnant woman" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/at-least-15-injured-six-seriously-in-shooting-in-jerusalem-13427000" target="_blank">At least five killed in shooting in Jerusalem</a></span>
+                <span class="title"><a href="https://news.sky.com/story/at-least-15-injured-six-seriously-in-shooting-in-jerusalem-13427000" target="_blank">At least six killed in shooting in Jerusalem, including a pregnant woman</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-09-08 07:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/8/australia-mushroom-murderer-sentenced-to-life-imprisonment?traffic_source=rss" target="_blank">Australia mushroom murderer sentenced to life imprisonment</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-08 07:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/9/8/live-israeli-attacks-continue-across-gaza-city-at-least-15-killed?traffic_source=rss" target="_blank">Live: Israeli attacks continue across Gaza City, at least 15 killed</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-08 05:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/08/nx-s1-5533902/australia-erin-patterson-life-sentence-mushroom-murder" target="_blank">Australian woman is sentenced to life for poisoning relatives with mushrooms</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-08 05:14</span>
             </div>
         </div>
 </div>
@@ -109,6 +111,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/08/indrive-has-big-plans-to-become-a-global-super-app-where-others-have-failed/" target="_blank">InDrive has big plans to become a global ‘super app’ where others have failed</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-08 08:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +165,20 @@
                 <span class="time">2025-09-07 15:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/07/microsoft-says-azure-affected-after-cables-cut-in-the-red-sea/" target="_blank">Microsoft says Azure affected after cables cut in the Red Sea</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-07 15:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqx1azz2syk8tbi20mxvu.png" alt="Famous Five Next.js SaaS Templates for Your Startup &amp; Products" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/isanjayjoshi/top-nextjs-saas-templates-for-your-next-startup-products-m0n" target="_blank">Famous Five Next.js SaaS Templates for Your Startup &amp; Products</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-08 09:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsexq6te8yj2hzxmgrkhk.png" alt="Introduction to Bonds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -211,15 +222,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/firefox-32-bit-linux-support-ending" target="_blank">Firefox is Ending Support for 32 bit Linux</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-09-08 02:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/utitofon_udoekong/fixing-aos-and-tailwind-css-compatibility-issues-in-nuxt-4-a-developers-journey-1hpc" target="_blank">Fixing AOS and Tailwind CSS Compatibility Issues in Nuxt 4: A Developer&#x27;s Journey</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-08 02:26</span>
             </div>
         </div>
 </div>
@@ -287,6 +289,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/09/08/hollowgram" target="_blank">Hollowgram</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-09-08 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5652.png" alt="Who Do You Stan?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -309,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
