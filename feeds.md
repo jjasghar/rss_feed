@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-08 05:01:59 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-08 06:02:12 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, September 08, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Monday, September 08, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/9/8/live-israeli-attacks-continue-across-gaza-city-at-least-15-killed?traffic_source=rss" target="_blank">Live: Israeli attacks continue across Gaza City, at least 15 killed</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-08 05:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/08/nx-s1-5533902/australia-erin-patterson-life-sentence-mushroom-murder" target="_blank">Australian woman is sentenced to life for poisoning relatives with mushrooms</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-08 05:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/871c/live/9776dda0-8c4f-11f0-84c8-99de564f0440.jpg" alt="Palestinian prisoners not being given adequate food, Israel top court says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1mxlk518vko?at_medium=RSS&at_campaign=rss" target="_blank">Palestinian prisoners not being given adequate food, Israel top court says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-08 02:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,38 +103,20 @@
                 <span class="time">2025-09-08 00:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/07/nx-s1-5533180/jeep-grand-cherokee-recall-plug-in-hybrid" target="_blank">More than 90,000 Jeep Grand Cherokees recalled over potential loss of drive power</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-07 23:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-mushroom-poisoner-erin-patterson_7000697.jpg?20250825072157" alt="Death cap mushroom killer jailed for minimum of 33 years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/death-cap-mushroom-killer-erin-patterson-jailed-for-minimum-of-33-years-13418079" target="_blank">Death cap mushroom killer jailed for minimum of 33 years</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-07 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/7/alcaraz-beats-sinner-to-lift-us-open-2025-as-trump-watches-on?traffic_source=rss" target="_blank">Alcaraz beats Sinner to lift US Open 2025 as Trump watches on</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-07 22:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/772639/uber-momenta-l4-driverless-test-munich-robotaxi" target="_blank">Uber and Momenta will test fully driverless cars in Germany</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-08 06:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +162,20 @@
                 <span class="time">2025-09-07 15:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/07/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/" target="_blank">What is Mistral AI? Everything to know about the OpenAI competitor</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-07 14:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsexq6te8yj2hzxmgrkhk.png" alt="Introduction to Bonds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/madgan95/introduction-to-bonds-3816" target="_blank">Introduction to Bonds</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-08 05:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,15 +219,6 @@
                 <span class="title"><a href="https://dev.to/utitofon_udoekong/fixing-aos-and-tailwind-css-compatibility-issues-in-nuxt-4-a-developers-journey-1hpc" target="_blank">Fixing AOS and Tailwind CSS Compatibility Issues in Nuxt 4: A Developer&#x27;s Journey</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-08 02:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-genshin-impact-official-lauma-crown-of-sacred-silver-character-trailer-434g" target="_blank">IGN: Genshin Impact - Official Lauma: Crown of Sacred Silver Character Trailer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-08 00:00</span>
             </div>
         </div>
 </div>
@@ -302,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
