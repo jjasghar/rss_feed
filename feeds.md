@@ -1,34 +1,25 @@
-<!-- Processing 54 RSS feeds at 2025-09-08 19:01:32 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-09-08 20:01:41 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 17 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, September 08, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, September 08, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +35,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757359470141_now_daily_b_zanona_winter_epstein_250908_1920x1080-dwhrxe.jpg" alt="Democrats say House Oversight Committee has received Epstein &#x27;birthday book&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/democrats-say-house-oversight-committee-has-received-epstein-birthday-book-247108165927" target="_blank">Democrats say House Oversight Committee has received Epstein &#x27;birthday book&#x27;</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-08 19:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a169/live/17d8cda0-8ce1-11f0-a91d-134692780fdd.jpg" alt="France in fresh political crisis after MPs oust prime minister" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c2dnxxekyezo?at_medium=RSS&at_campaign=rss" target="_blank">France in fresh political crisis after MPs oust prime minister</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-08 19:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/08/nx-s1-5534149/mtv-vma-winners-takeaways-lady-gaga-ozzy-osbourne-mariah-carey" target="_blank">Highlights from the VMAs, from Mariah Carey&#x27;s first win to Lady Gaga&#x27;s magic act</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-08 18:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +89,20 @@
                 <span class="time">2025-09-08 17:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-2-gty-gmh-250908_1757334465762_hpMain_4x3t_384.jpg" alt="Appeals court upholds $83 million judgment against Trump for defaming E. Jean Carroll" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/appeals-court-upholds-83-million-judgment-trump-defaming/story?id=125364143" target="_blank">Appeals court upholds $83 million judgment against Trump for defaming E. Jean Carroll</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-08 16:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/8/brazils-lula-says-us-warships-in-caribbean-are-a-source-of?traffic_source=rss" target="_blank">Brazil’s Lula says US warships in Caribbean are a source of ‘tension’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-08 15:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-06/250610-la-protest-national-guard-se-348p-7065b7.jpg" alt="Supreme Court lifts limits on roving immigration patrols in Los Angeles area" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/supreme-court-immigration-stops-los-angeles-rcna223845" target="_blank">Supreme Court lifts limits on roving immigration patrols in Los Angeles area</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-08 15:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-500x500.jpg" alt="In court filing, Google concedes the open web is in “rapid decline”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/google/2025/09/in-court-filing-google-concedes-the-open-web-is-in-rapid-decline/" target="_blank">In court filing, Google concedes the open web is in “rapid decline”</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-08 19:29</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +148,20 @@
                 <span class="time">2025-09-08 17:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/08/iphone-17-the-thinnest-iphone-ever-and-everything-else-were-expecting-out-of-apples-hardware-event/" target="_blank">iPhone 17, the ‘thinnest iPhone ever,’ and everything else we’re expecting out of Apple’s hardware event</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-08 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgnfqvpi1poblgq9f1of6.png" alt="Exploring the Similarities Between SQL Stored Procedures and Python Functions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/njeri_kimaru/exploring-the-similarities-between-sql-stored-procedures-and-python-functions-34dg" target="_blank">Exploring the Similarities Between SQL Stored Procedures and Python Functions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-08 19:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu56ks75ba29evr5unl7f.png" alt="Why Success Favors Action and How This Relates to AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -205,15 +205,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/09/airbnb-impulse-load-testing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Impulse, Airbnb’s New Framework for Context-Aware Load Testing</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-09-08 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/windows-11-25h2-ubuntu-2510" target="_blank">First Benchmarks Of Windows 11 25H2 vs. Ubuntu 25.10 On AMD Ryzen 9 9950X</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-08 13:55</span>
             </div>
         </div>
 </div>
@@ -295,6 +286,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1757283022-20250908.png" alt="Saturday Morning Breakfast Cereal - Symbols" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/symbols-2" target="_blank">Saturday Morning Breakfast Cereal - Symbols</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-09-08 15:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -317,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
