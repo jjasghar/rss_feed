@@ -1,29 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-08 14:01:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-08 15:01:43 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 21 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, September 08, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, September 08, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/08/nx-s1-5533199/hollow-knight-silksong" target="_blank">After 6 years, Hollow Knight Silksong is here at last — and it was worth the wait</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-08 14:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250828-donald-trump-mn-1140-dbce0f.jpg" alt="Trump asks Supreme Court to allow $4 billion in foreign aid cuts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/trump-asks-supreme-court-allow-4-billion-foreign-aid-cuts-rcna229794" target="_blank">Trump asks Supreme Court to allow $4 billion in foreign aid cuts</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-08 13:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6287/live/48e4c6d0-8c8f-11f0-b391-6936825093bd.jpg" alt="Six killed by Palestinian gunmen at Jerusalem bus stop" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,29 +96,20 @@
                 <span class="time">2025-09-08 11:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96a2/live/b6c3b1b0-8c86-11f0-a91f-69625b70a4a8.jpg" alt="UK could suspend visas for countries with no migrant return deals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4g7xyn03yno?at_medium=RSS&at_campaign=rss" target="_blank">UK could suspend visas for countries with no migrant return deals</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-08 11:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/9/8/distraction-101-blow-them-up?traffic_source=rss" target="_blank">Distraction 101: Blow them up</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-08 10:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/08/y-combinator-backed-motion-raises-fresh-38m-to-build-the-microsoft-office-of-ai-agents/" target="_blank">Y Combinator-backed Motion raises fresh $38M to build the Microsoft Office of AI agents</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-08 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,15 +153,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/09/08/more-than-10-european-startups-became-unicorns-this-year/" target="_blank">More than 10 European startups became unicorns this year</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-09-08 10:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/08/indrive-has-big-plans-to-become-a-global-super-app-where-others-have-failed/" target="_blank">InDrive has big plans to become a global ‘super app’ where others have failed</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-08 08:00</span>
             </div>
         </div>
 </div>
@@ -231,6 +234,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/shutterstock_2598232495.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="Treasury Secretary Scott Bessent threatened to beat up colleague at dinner" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/08/treasury-secretary-scott-bessent-threatened-to-beat-up-colleague-at-dinner.html" target="_blank">Treasury Secretary Scott Bessent threatened to beat up colleague at dinner</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-08 14:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/28-Years-Later-zombie.jpg" alt="Cillian Murphy Is Flattered Everyone Thought He Would Play an Emaciated Zombie in ’28 Years Later’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -275,15 +287,6 @@
                 <span class="time">2025-09-07 20:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/moon.jpg" alt="Everything you need to know about the full moon lunar eclipse tonight" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/everything-you-need-to-know-about-the-full-moon-lunar-eclipse-tonight-2000655078" target="_blank">Everything you need to know about the full moon lunar eclipse tonight</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-07 18:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
