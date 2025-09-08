@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-08 01:29:12 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-08 02:29:06 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, September 08, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, September 08, 2025 - 02:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +48,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/8/russia-ukraine-war-list-of-key-events-day-1292?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,292</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-08 01:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/ThisWeek/raddatz-1-abc-er-250905_1757103928943_hpMain_4x3t_384.jpg" alt="Zelenskyy says Trump&#x27;s Alaska summit &#x27;gave Putin what he wanted&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/Politics/zelenskyy-trumps-alaska-summit-gave-putin-wanted/story?id=125336611" target="_blank">Zelenskyy says Trump&#x27;s Alaska summit &#x27;gave Putin what he wanted&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-08 00:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/07/nx-s1-5533207/carlos-alcaraz-trump-us-open-tennis-rolex" target="_blank">Carlos Alcaraz wins his 2nd U.S. Open at match delayed by Trump&#x27;s attendance</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-08 00:37</span>
             </div>
         </div>
 <div class="story">
@@ -76,24 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/7/us-european-sanctions-could-collapse-russian-economy-trump-aide?traffic_source=rss" target="_blank">US-European sanctions could ‘collapse’ Russian economy: Trump aide</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-07 20:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/7/trump-suggests-he-put-forward-new-gaza-ceasefire-proposal?traffic_source=rss" target="_blank">Trump suggests he put forward new Gaza ceasefire proposal</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-07 19:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4983/live/b810db50-8bfb-11f0-bdc2-c9c334722f2e.jpg" alt="Unions warn government not to water down workers&#x27; rights bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq65l5epl3eo?at_medium=RSS&at_campaign=rss" target="_blank">Unions warn government not to water down workers&#x27; rights bill</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-07 18:20</span>
             </div>
         </div>
 </div>
@@ -164,6 +169,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/utitofon_udoekong/fixing-aos-and-tailwind-css-compatibility-issues-in-nuxt-4-a-developers-journey-1hpc" target="_blank">Fixing AOS and Tailwind CSS Compatibility Issues in Nuxt 4: A Developer&#x27;s Journey</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-08 02:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gg_news/ign-genshin-impact-official-lauma-crown-of-sacred-silver-character-trailer-434g" target="_blank">IGN: Genshin Impact - Official Lauma: Crown of Sacred Silver Character Trailer</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-08 00:00</span>
@@ -203,15 +217,6 @@
                 <span class="title"><a href="https://picocss.com" target="_blank">Pico CSS • Minimal CSS Framework for Semantic HTML</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-09-07 20:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/biswasprasana001/how-react-native-talks-to-your-iphone-and-android-and-how-its-changed-4jn1" target="_blank">How React Native Talks to Your iPhone and Android… And How It’s Changed</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-07 19:50</span>
             </div>
         </div>
 </div>
@@ -279,6 +284,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5652.png" alt="Who Do You Stan?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5652" target="_blank">Who Do You Stan?</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-09-08 00:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1757023233-20250907.png" alt="Saturday Morning Breakfast Cereal - Gardening" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -292,8 +306,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 02:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
