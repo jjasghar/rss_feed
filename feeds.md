@@ -1,42 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-08 10:02:08 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-08 11:01:31 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 33 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, September 08, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, September 08, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -56,6 +49,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/9/8/distraction-101-blow-them-up?traffic_source=rss" target="_blank">Distraction 101: Blow them up</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-08 10:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/environment/2025/sep/08/green-economy-boom-africa-climate-summit-renewable-energy-solar" target="_blank">Hopes rise for green economy boom at Africa Climate Summit</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-09-08 10:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/8/typhoon-tapah-makes-landfall-in-china-prompting-mass-evacuations-closures?traffic_source=rss" target="_blank">Typhoon Tapah makes landfall in China, prompting mass evacuations, closures</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-08 09:30</span>
@@ -71,6 +82,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250905-trump-harris-signs-lr-836d94.jpg" alt="Gen Z gender divide reaches beyond politics and into views on marriage, children and success" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/politics-news/poll-gen-zs-gender-divide-reaches-politics-views-marriage-children-suc-rcna229255" target="_blank">Gen Z gender divide reaches beyond politics and into views on marriage, children and success</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-08 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/Jerusalem-main_1757319821493_hpMain_4x3t_384.jpg" alt="Several killed in Jerusalem bus station shooting, police say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -79,38 +99,29 @@
                 <span class="time">2025-09-08 08:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6287/live/48e4c6d0-8c8f-11f0-b391-6936825093bd.jpg" alt="Five killed in Jerusalem shooting attack, paramedics say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr70ny0l7vgo?at_medium=RSS&at_campaign=rss" target="_blank">Five killed in Jerusalem shooting attack, paramedics say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-08 08:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/8/pacific-islands-leaders-meet-with-climate-change-security-on-agenda?traffic_source=rss" target="_blank">Pacific Islands leaders meet with climate change, security on agenda</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-08 08:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-jerusalem-israeli-police_7014159.jpg?20250908090051" alt="At least six killed in shooting in Jerusalem, including a pregnant woman" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/at-least-15-injured-six-seriously-in-shooting-in-jerusalem-13427000" target="_blank">At least six killed in shooting in Jerusalem, including a pregnant woman</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-08 07:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/773584/openai-animated-feature-film-critterz" target="_blank">OpenAI comes for Hollywood with Critterz, an AI-powered animated film</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-08 10:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/08/more-than-10-european-startups-became-unicorns-this-year/" target="_blank">More than 10 European startups became unicorns this year</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-08 10:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,29 +158,29 @@
                 <span class="time">2025-09-07 19:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/773492/gm-cuts-ev-production-tax-credit" target="_blank">GM slows EV production as tax credit nears expiration</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-07 17:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/film/773480/tiff-2025-frankenstein-wake-up-dead-man-movie-reviews" target="_blank">TIFF 2025: Frankenstein, Knives Out 3, and all the biggest movies from Toronto</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-07 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/articles/tls-certificate-transparency/en/headerimage/tls-certificate-transparency-header-1756385529119.jpg" alt="Article: Beyond the Padlock: Why Certificate Transparency Is Reshaping Internet Trust" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/tls-certificate-transparency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Beyond the Padlock: Why Certificate Transparency Is Reshaping Internet Trust</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-08 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/borba/-surfing-with-fp-java-mastering-functiont-r-20gf" target="_blank">Surfing with FP Java - Mastering Function&lt;T, R&gt;</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-08 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqx1azz2syk8tbi20mxvu.png" alt="Famous Five Next.js SaaS Templates for Your Startup &amp; Products" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,29 +217,20 @@
                 <span class="time">2025-09-08 03:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/ghostty-themes/" target="_blank">14 Themes for Beautifying Your Ghostty Terminal</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-09-08 02:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/firefox-32-bit.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox is Ending Support for 32 bit Linux" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/firefox-32-bit-linux-support-ending" target="_blank">Firefox is Ending Support for 32 bit Linux</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-08 02:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/plush-main-1.jpg" alt="Pokémon Finally Lets Us Cuddle The Trainers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-center-trainer-plush-n-marnie-lillie-2000623942" target="_blank">Pokémon Finally Lets Us Cuddle The Trainers</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-08 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/The-Ultimate-Microsoft-Office-Professional-2021-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Office 2021 + Windows 11 Pro for $45 — the biggest software win of the year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,15 +276,6 @@
                 <span class="time">2025-09-07 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/deadpool-hed.jpg" alt="Ryan Reynolds Fesses Up to Leaking ‘Deadpool’ Test Footage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ryan-reynolds-fesses-up-to-leaking-deadpool-test-footage-2000655053" target="_blank">Ryan Reynolds Fesses Up to Leaking ‘Deadpool’ Test Footage</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-07 14:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
