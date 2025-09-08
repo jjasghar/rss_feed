@@ -1,35 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-09-08 13:09:52 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-08 14:01:45 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Monday, September 08, 2025 - 13:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, September 08, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6287/live/48e4c6d0-8c8f-11f0-b391-6936825093bd.jpg" alt="Six killed by Palestinian gunmen at Jerusalem bus stop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cr70ny0l7vgo?at_medium=RSS&at_campaign=rss" target="_blank">Six killed by Palestinian gunmen at Jerusalem bus stop</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-08 13:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +93,29 @@
                 <span class="time">2025-09-08 10:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/environment/2025/sep/08/green-economy-boom-africa-climate-summit-renewable-energy-solar" target="_blank">Hopes rise for green economy boom at Africa Climate Summit</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-09-08 10:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/decoder-podcast-with-nilay-patel/766082/khan-academy-ceo-sal-khan-ai-education-schoolhouse-hank-green-interview" target="_blank">Sal Khan is hopeful that AI won’t destroy education</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-08 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68be03efae156111b45831a6/master/pass/Does-Your-Office-Chair-Need-Lumbar-Support-.jpg" alt="Why Your Office Chair Should Have Lumbar Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/does-your-office-chair-need-lumbar-support/" target="_blank">Why Your Office Chair Should Have Lumbar Support</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-08 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/tinyvinyl5-500x500.jpg" alt="Tiny Vinyl is a new pocketable record format for the Spotify age" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +152,20 @@
                 <span class="time">2025-09-08 08:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/772639/uber-momenta-l4-driverless-test-munich-robotaxi" target="_blank">Uber and Momenta will test fully driverless cars in Germany</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-08 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/07/koah-raises-5m-to-bring-ads-into-ai-apps/" target="_blank">Koah raises $5M to bring ads into AI apps</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-07 20:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/windows-11-25h2-ubuntu-2510" target="_blank">First Benchmarks Of Windows 11 25H2 vs. Ubuntu 25.10 On AMD Ryzen 9 9950X</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-08 13:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18604766&w=600" alt="API Design First: AsyncAPI in .Net" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +211,6 @@
                 <span class="time">2025-09-08 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqx1azz2syk8tbi20mxvu.png" alt="Famous Five Next.js SaaS Templates for Your Startup &amp; Products" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/isanjayjoshi/top-nextjs-saas-templates-for-your-next-startup-products-m0n" target="_blank">Famous Five Next.js SaaS Templates for Your Startup &amp; Products</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-08 09:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +230,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/28-Years-Later-zombie.jpg" alt="Cillian Murphy Is Flattered Everyone Thought He Would Play an Emaciated Zombie in ’28 Years Later’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/cillian-murphy-is-flattered-everyone-thought-he-would-play-an-emaciated-zombie-in-28-years-later-2000655309" target="_blank">Cillian Murphy Is Flattered Everyone Thought He Would Play an Emaciated Zombie in ’28 Years Later’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-08 13:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K4MBHW4JR48591BT9WDH2N32/hero-image.png" alt="This Razer Xbox and PC Controller Is $50 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +284,6 @@
                 <span class="time">2025-09-07 18:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/police-tape.jpg" alt="Silicon Valley tech worker fatally shot after allegedly stabbing roommate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/silicon-valley-tech-worker-fatally-shot-after-allegedly-stabbing-roommate-2000655099" target="_blank">Silicon Valley tech worker fatally shot after allegedly stabbing roommate</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-07 16:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -327,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 13:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
