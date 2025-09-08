@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-08 15:01:43 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-09-08 16:01:39 UTC -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, September 08, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, September 08, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/8/trump-asks-supreme-court-to-let-it-cut-billions-in-foreign-aid?traffic_source=rss" target="_blank">Trump asks Supreme Court to let it cut billions in foreign aid</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-08 15:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +100,29 @@
                 <span class="time">2025-09-08 11:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6287/live/48e4c6d0-8c8f-11f0-b391-6936825093bd.jpg" alt="Six killed in shooting attack at bus stop in Jerusalem" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr70ny0l7vgo?at_medium=RSS&at_campaign=rss" target="_blank">Six killed in shooting attack at bus stop in Jerusalem</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-08 11:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/11/SLS-Apr-21-2022-8505-Pano-500x500.jpg" alt="Congress and Trump may compromise on the SLS rocket by axing its costly upper stage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/09/congress-and-trump-may-compromise-on-the-sls-rocket-by-axing-its-costly-upper-stage/" target="_blank">Congress and Trump may compromise on the SLS rocket by axing its costly upper stage</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-08 15:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/08/anthropic-endorses-californias-ai-safety-bill-sb-53/" target="_blank">Anthropic endorses California’s AI safety bill, SB 53</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-08 15:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +159,20 @@
                 <span class="time">2025-09-08 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/773584/openai-animated-feature-film-critterz" target="_blank">OpenAI comes for Hollywood with Critterz, an AI-powered animated film</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-08 10:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/08/more-than-10-european-startups-became-unicorns-this-year/" target="_blank">More than 10 European startups became unicorns this year</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-08 10:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/ign-dust-bunny-official-trailer-2025-mads-mikkelsen-sigourney-weaver-david-dastmalchian-k84" target="_blank">IGN: Dust Bunny - Official Trailer (2025) Mads Mikkelsen, Sigourney Weaver, David Dastmalchian</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-08 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +218,6 @@
                 <span class="time">2025-09-08 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/borba/-surfing-with-fp-java-mastering-functiont-r-20gf" target="_blank">Surfing with FP Java - Mastering Function&lt;T, R&gt;</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-08 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,12 +238,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Microsoft-Windows-11-Pro.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Microsoft put one of its biggest upgrades behind a $199 paywall, but right now, it&#x27;s only $13" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/08/microsoft-put-one-of-its-biggest-upgrades-behind-a-199-paywall-but-right-now-its-only-13.html" target="_blank">Microsoft put one of its biggest upgrades behind a $199 paywall, but right now, it&#x27;s only $13</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-08 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/shutterstock_2598232495.jpg?fit=1000%2C667&amp;quality=60&amp;ssl=1" alt="Treasury Secretary Scott Bessent threatened to beat up colleague at dinner" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2025/09/08/treasury-secretary-scott-bessent-threatened-to-beat-up-colleague-at-dinner.html" target="_blank">Treasury Secretary Scott Bessent threatened to beat up colleague at dinner</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-08 14:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4DT8ND3RD2F6D1ZTS2HN5D6/hero-image.jpg" alt="Everything We Know About AirPods Pro 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/everything-we-know-about-airpods-pro-3?utm_medium=RSS" target="_blank">Everything We Know About AirPods Pro 3</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-08 14:30</span>
             </div>
         </div>
 <div class="story">
@@ -269,24 +291,6 @@
                 <span class="time">2025-09-08 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/The-Ultimate-Microsoft-Office-Professional-2021-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Office 2021 + Windows 11 Pro for $45 — the biggest software win of the year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/07/office-2021-windows-11-pro-for-45-the-biggest-software-win-of-the-year.html" target="_blank">Office 2021 + Windows 11 Pro for $45 — the biggest software win of the year</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-07 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/ConjuringYoungerWarrens.jpg" alt="‘The Conjuring: Last Rites’ Summons a Franchise-Best Box Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-conjuring-last-rites-summons-a-franchise-best-box-office-2000655105" target="_blank">‘The Conjuring: Last Rites’ Summons a Franchise-Best Box Office</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-07 20:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,22 +314,13 @@
                 <span class="time">2025-09-08 00:07</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1757023233-20250907.png" alt="Saturday Morning Breakfast Cereal - Gardening" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/gardening-2" target="_blank">Saturday Morning Breakfast Cereal - Gardening</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-09-07 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 91 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
