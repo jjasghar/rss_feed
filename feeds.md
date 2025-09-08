@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-07 23:01:34 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-08 00:05:14 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, September 07, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, September 08, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/07/nx-s1-5533180/jeep-grand-cherokee-recall-plug-in-hybrid" target="_blank">More than 90,000 Jeep Grand Cherokees recalled over potential loss of drive power</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-07 23:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,30 +80,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4983/live/b810db50-8bfb-11f0-bdc2-c9c334722f2e.jpg" alt="Unions warn government not to water down workers&#x27; rights bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cq65l5epl3eo?at_medium=RSS&at_campaign=rss" target="_blank">Unions warn government not to water down workers&#x27; rights bill</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-07 18:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/7/us-holocaust-museum-removes-anti-genocide-post-amid-gaza-atrocities?traffic_source=rss" target="_blank">US Holocaust museum removes anti-genocide post amid Gaza atrocities</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-07 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/07/nx-s1-5533121/postal-traffic-to-us-drops-more-than-80-after-trade-exemption-rule-ends-un-agency-says" target="_blank">Postal traffic to US drops more than 80% after trade exemption rule ends, UN agency says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-07 17:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/9/7/live-turkiye-vs-spain-world-cup-2026-qualifier?traffic_source=rss" target="_blank">LIVE: Turkiye vs Spain – World Cup 2026 qualifier</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-07 16:00</span>
             </div>
         </div>
 </div>
@@ -162,6 +164,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/ign-genshin-impact-official-lauma-crown-of-sacred-silver-character-trailer-434g" target="_blank">IGN: Genshin Impact - Official Lauma: Crown of Sacred Silver Character Trailer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-08 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-rc5" target="_blank">Linux 6.17-rc5 Released With NVIDIA &quot;Nouveau&quot; Driver Stability Issues Addressed</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-07 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://picocss.com" target="_blank">Pico CSS – Minimal CSS Framework for Semantic HTML</a></span>
                 <span class="feed">Hacker News</span>
@@ -193,24 +213,6 @@
                 <span class="title"><a href="https://dev.to/diegobrandao/migracao-do-java-11-para-java-17-beneficios-e-trade-offs-com-evidencias-tecnicas-302n" target="_blank">Migração do Java 11 para Java 17: Benefícios e Trade-offs com Evidências Técnicas</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-07 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/theme-thumb.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu Yaru Theme Update Adds New App Icons" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/ubuntu-25-10-yaru-new-icons" target="_blank">Ubuntu Yaru Theme Update Adds New App Icons</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-07 18:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/ubuntu-questing.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Yaru Theme Adds New App Icons" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/ubuntu-25-10-yaru-new-icons" target="_blank">Ubuntu 25.10 Yaru Theme Adds New App Icons</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-07 18:41</span>
             </div>
         </div>
 </div>
@@ -291,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
