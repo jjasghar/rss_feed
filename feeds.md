@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-08 18:02:19 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-08 19:01:32 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, September 08, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, September 08, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/9/8/the-capitulation-of-the-us-media-is-not-an-aberration?traffic_source=rss" target="_blank">The capitulation of the US media is not an aberration</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-08 18:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-16-ap-gmh-250908_1757342986826_hpMain_4x3t_384.jpg" alt="&#x27;We&#x27;d love to go into Chicago,&#x27; Trump says after controversy over &#x27;war&#x27; meme" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/wed-love-chicago-trump-after-controversy-war-meme/story?id=125365999" target="_blank">&#x27;We&#x27;d love to go into Chicago,&#x27; Trump says after controversy over &#x27;war&#x27; meme</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-08 18:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +98,29 @@
                 <span class="time">2025-09-08 15:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/8/trump-asks-supreme-court-to-let-it-cut-billions-in-foreign-aid?traffic_source=rss" target="_blank">Trump asks Supreme Court to let it cut billions in foreign aid</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-08 15:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/08/nx-s1-5533199/hollow-knight-silksong" target="_blank">After 6 years, Hollow Knight Silksong is here at last — and it was worth the wait</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-08 14:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/774018/signal-encrypted-secure-backups-paid-feature-beta" target="_blank">Signal&amp;#8217;s first paid feature adds encrypted media and message backups</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-08 18:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/8908837-500x500.jpg" alt="On a day of rebranding at the Pentagon, this name change slipped under the radar" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/09/the-pentagons-department-of-war-rebrand-extends-to-space/" target="_blank">On a day of rebranding at the Pentagon, this name change slipped under the radar</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-08 18:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/Polestar-3-reveal-1-500x500.jpg" alt="Polestar unveils electric GT rival to the Porsche Taycan" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,24 +155,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/09/08/iphone-17-the-thinnest-iphone-ever-and-everything-else-were-expecting-out-of-apples-hardware-event/" target="_blank">iPhone 17, the ‘thinnest iPhone ever,’ and everything else we’re expecting out of Apple’s hardware event</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-09-08 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/03/supreme-court-justices-500x500.jpg" alt="Supreme Court Chief Justice lets Trump fire FTC Democrat, at least for now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/supreme-court-chief-justice-lets-trump-fire-ftc-democrat-at-least-for-now/" target="_blank">Supreme Court Chief Justice lets Trump fire FTC Democrat, at least for now</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-08 16:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/773928/google-open-web-rapid-decline" target="_blank">Google admits the open web is in ‘rapid decline’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-08 16:50</span>
             </div>
         </div>
 </div>
@@ -241,6 +236,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/image-4.png?fit=480%2C360&amp;quality=55&amp;ssl=1" alt="Local hero removes rental e-bikes piled up in public beachfront bike path (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/08/local-hero-removes-rental-e-bikes-piled-up-in-public-beachfront-bike-path-video.html" target="_blank">Local hero removes rental e-bikes piled up in public beachfront bike path (video)</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-08 18:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Dwayne-Johnson-Smashing-Machine.jpg" alt="Dwayne Johnson Will Play the Chicken Man in ‘Lizard Music’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -285,15 +289,6 @@
                 <span class="time">2025-09-08 16:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/BAETA.jpg" alt="Scientists Turned Plastic Trash Into a Material That Eats Carbon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/scientists-turned-plastic-trash-into-a-material-that-eats-carbon-2000655402" target="_blank">Scientists Turned Plastic Trash Into a Material That Eats Carbon</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-08 16:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
