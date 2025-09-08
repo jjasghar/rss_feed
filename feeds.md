@@ -1,25 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-08 20:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-08 21:01:31 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Generated 7 new posts out of 17 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, September 08, 2025 - 20:01 UTC</div>
+    <div class="newspaper-date">Monday, September 08, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -35,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/9/8/us-supreme-court-allows-trump-to-oust-ftc-commissioner-for-now?traffic_source=rss" target="_blank">US Supreme Court allows Trump to oust FTC commissioner for now</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-08 20:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250908-trump-epstein-birthday-letter-ew-340p-cf8b7c.jpg" alt="House Democrats release lewd birthday note Trump allegedly sent to Epstein" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-jeffrey-epstein-birthday-book-rcna229803" target="_blank">House Democrats release lewd birthday note Trump allegedly sent to Epstein</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-08 19:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757359470141_now_daily_b_zanona_winter_epstein_250908_1920x1080-dwhrxe.jpg" alt="Democrats say House Oversight Committee has received Epstein &#x27;birthday book&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -71,29 +97,20 @@
                 <span class="time">2025-09-08 18:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-16-ap-gmh-250908_1757342986826_hpMain_4x3t_384.jpg" alt="&#x27;We&#x27;d love to go into Chicago,&#x27; Trump says after controversy over &#x27;war&#x27; meme" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/wed-love-chicago-trump-after-controversy-war-meme/story?id=125365999" target="_blank">&#x27;We&#x27;d love to go into Chicago,&#x27; Trump says after controversy over &#x27;war&#x27; meme</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-08 18:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/8/french-pm-loses-confidence-vote-in-blow-to-president-macron?traffic_source=rss" target="_blank">French PM loses confidence vote in blow to President Macron</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-08 17:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-whatsapp-500x500.jpg" alt="Former WhatsApp security boss in lawsuit likens Meta’s culture to a “cult”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/09/former-whatsapp-security-boss-sues-meta-for-systemic-cybersecurity-failures/" target="_blank">Former WhatsApp security boss in lawsuit likens Meta’s culture to a “cult”</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-08 20:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-500x500.jpg" alt="In court filing, Google concedes the open web is in “rapid decline”" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,20 +156,20 @@
                 <span class="time">2025-09-08 17:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/08/signal-introduces-free-and-paid-backup-plans-for-your-chats/" target="_blank">Signal introduces free and paid backup plans for your chats</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-08 17:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/max-dev/my-tech-stack-for-ig-exporter-chrome-extension-4l51" target="_blank">My Tech Stack for IG Exporter Chrome Extension</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-08 20:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgnfqvpi1poblgq9f1of6.png" alt="Exploring the Similarities Between SQL Stored Procedures and Python Functions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -160,6 +177,15 @@
                 <span class="title"><a href="https://dev.to/njeri_kimaru/exploring-the-similarities-between-sql-stored-procedures-and-python-functions-34dg" target="_blank">Exploring the Similarities Between SQL Stored Procedures and Python Functions</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-08 19:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18605585&w=600" alt="The Value Gap After Go-Live: The Agile Advantage in Tech Transformation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/agile-change-management-enterprise-success" target="_blank">The Value Gap After Go-Live: The Agile Advantage in Tech Transformation</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-08 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -189,24 +215,6 @@
                 <span class="time">2025-09-08 16:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-dust-bunny-official-trailer-2025-mads-mikkelsen-sigourney-weaver-david-dastmalchian-k84" target="_blank">IGN: Dust Bunny - Official Trailer (2025) Mads Mikkelsen, Sigourney Weaver, David Dastmalchian</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-08 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/airbnb-impulse-load-testing/en/headerimage/generatedHeaderImage-1756508391383.jpg" alt="Impulse, Airbnb’s New Framework for Context-Aware Load Testing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/airbnb-impulse-load-testing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Impulse, Airbnb’s New Framework for Context-Aware Load Testing</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-08 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -226,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4NC8T0BTRC7W4TBPQG6K7NN/hero-image.png" alt="Amazon Will Double Your Storage on a New Samsung Galaxy Tab S11 for Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/double-storage-samsung-galaxy-tab-s11-deal?utm_medium=RSS" target="_blank">Amazon Will Double Your Storage on a New Samsung Galaxy Tab S11 for Free</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-08 19:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/image-4.png?fit=480%2C360&amp;quality=55&amp;ssl=1" alt="Local hero removes rental e-bikes piled up in public beachfront bike path (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,15 +288,6 @@
                 <span class="time">2025-09-08 16:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/image-15.jpeg?fit=1882%2C1052&amp;quality=60&amp;ssl=1" alt="Hidden frames reveal next Starfield DLC: Terran Armada details" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/08/hidden-frames-reveal-next-starfield-dlc-terran-armada-details.html" target="_blank">Hidden frames reveal next Starfield DLC: Terran Armada details</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-08 16:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -317,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
