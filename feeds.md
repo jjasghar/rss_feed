@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-08 22:01:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-08 23:01:50 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, September 08, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, September 08, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/8/we-did-it-norways-ruling-pm-stoere-claims-victory-in-general-elections?traffic_source=rss" target="_blank">‘We did it’: Norway’s PM Stoere claims victory in general election</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-08 22:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/james-comer-epa-gmh-250903_1756929407459_hpMain_4x3t_384.jpg" alt="House Oversight Committee says it has Epstein&#x27;s &#x27;birthday book&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +101,20 @@
                 <span class="time">2025-09-08 19:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/08/nx-s1-5534149/mtv-vma-winners-takeaways-lady-gaga-ozzy-osbourne-mariah-carey" target="_blank">Highlights from the VMAs, from Mariah Carey&#x27;s first win to Lady Gaga&#x27;s magic act</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-08 18:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/774142/amd-fsr-4-3-1-games-support-upscaling" target="_blank">AMD&amp;#8217;s AI-powered FSR 4 upscaling is now available in most FSR 3.1 games</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-08 22:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +160,20 @@
                 <span class="time">2025-09-08 18:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/8908837-500x500.jpg" alt="On a day of rebranding at the Pentagon, this name change slipped under the radar" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/09/the-pentagons-department-of-war-rebrand-extends-to-space/" target="_blank">On a day of rebranding at the Pentagon, this name change slipped under the radar</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-08 18:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyyucrx094kbzu1vh3b6h.png" alt="Protecting Yourself from Spear Phishing Attacks Such as the One Targeting NPM Maintainers with 2FA Update" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/semgrep/protecting-yourself-from-spear-phishing-attacks-such-as-the-one-targeting-npm-maintainers-with-2fa-4332" target="_blank">Protecting Yourself from Spear Phishing Attacks Such as the One Targeting NPM Maintainers with 2FA Update</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-08 22:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +219,6 @@
                 <span class="time">2025-09-08 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu56ks75ba29evr5unl7f.png" alt="Why Success Favors Action and How This Relates to AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/peter_truchly_4fce0874fd5/why-success-favors-action-and-how-this-relates-to-ai-4e54" target="_blank">Why Success Favors Action and How This Relates to AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-08 17:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +247,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Terriffier-HHN-Universal-Studios.jpg" alt="‘Terrifier’ Makes an Undeniable Mark on Halloween Horror Nights Hollywood" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/terrifier-makes-an-undeniable-mark-on-halloween-horror-nights-hollywood-2000655615" target="_blank">‘Terrifier’ Makes an Undeniable Mark on Halloween Horror Nights Hollywood</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-08 22:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/Frankenstein-Jacob-Elordi.jpg" alt="Jacob Elordi’s ‘Frankenstein’ Body, as Described by Guillermo del Toro" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +301,6 @@
                 <span class="time">2025-09-08 18:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Dwayne-Johnson-Smashing-Machine.jpg" alt="Dwayne Johnson Will Play the Chicken Man in ‘Lizard Music’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/dwayne-johnson-to-next-play-the-chicken-man-in-lizard-music-2000655464" target="_blank">Dwayne Johnson Will Play the Chicken Man in ‘Lizard Music’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-08 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -323,6 +325,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/chess_variant.png" alt="Chess Variant" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3139/" target="_blank">Chess Variant</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-09-08 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5652.png" alt="Who Do You Stan?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -336,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
