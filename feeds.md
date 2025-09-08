@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-08 16:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-08 17:01:35 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, September 08, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, September 08, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-2-gty-gmh-250908_1757334465762_hpMain_4x3t_384.jpg" alt="Appeals court upholds $83 million judgment against Trump for defaming E. Jean Carroll" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/appeals-court-upholds-83-million-judgment-trump-defaming/story?id=125364143" target="_blank">Appeals court upholds $83 million judgment against Trump for defaming E. Jean Carroll</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-08 16:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/8/brazils-lula-says-us-warships-in-caribbean-are-a-source-of?traffic_source=rss" target="_blank">Brazil’s Lula says US warships in Caribbean are a source of ‘tension’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-08 15:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-06/250610-la-protest-national-guard-se-348p-7065b7.jpg" alt="Supreme Court lifts limits on roving immigration patrols in Los Angeles area" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/supreme-court-immigration-stops-los-angeles-rcna223845" target="_blank">Supreme Court lifts limits on roving immigration patrols in Los Angeles area</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-08 15:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,38 +101,38 @@
                 <span class="time">2025-09-08 13:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6287/live/48e4c6d0-8c8f-11f0-b391-6936825093bd.jpg" alt="Six killed by Palestinian gunmen at Jerusalem bus stop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cr70ny0l7vgo?at_medium=RSS&at_campaign=rss" target="_blank">Six killed by Palestinian gunmen at Jerusalem bus stop</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-08 13:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/8/how-china-forgot-promises-and-debts-to-ukraine-and-backed-russias-war?traffic_source=rss" target="_blank">How China forgot promises and ‘debts’ to Ukraine, and backed Russia’s war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-08 12:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/08/g-s1-87578/attempted-trump-assassination-trial-begins-and-south-korea-to-fly-300-workers-home" target="_blank">Attempted Trump assassination trial begins. And, South Korea to fly 300 workers home</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-08 11:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/08/iphone-17-the-thinnest-iphone-ever-and-everything-else-were-expecting-out-of-apples-hardware-event/" target="_blank">iPhone 17, the ‘thinnest iPhone ever,’ and everything else we’re expecting out of Apple’s hardware event</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-08 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/03/supreme-court-justices-500x500.jpg" alt="Supreme Court Chief Justice lets Trump fire FTC Democrat, at least for now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/supreme-court-chief-justice-lets-trump-fire-ftc-democrat-at-least-for-now/" target="_blank">Supreme Court Chief Justice lets Trump fire FTC Democrat, at least for now</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-08 16:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/773928/google-open-web-rapid-decline" target="_blank">Google admits the open web is in ‘rapid decline’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-08 16:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/11/SLS-Apr-21-2022-8505-Pano-500x500.jpg" alt="Congress and Trump may compromise on the SLS rocket by axing its costly upper stage" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -130,33 +158,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/09/08/y-combinator-backed-motion-raises-fresh-38m-to-build-the-microsoft-office-of-ai-agents/" target="_blank">Y Combinator-backed Motion raises fresh $38M to build the Microsoft Office of AI agents</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-09-08 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/decoder-podcast-with-nilay-patel/766082/khan-academy-ceo-sal-khan-ai-education-schoolhouse-hank-green-interview" target="_blank">Sal Khan is hopeful that AI won’t destroy education</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-08 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68be03efae156111b45831a6/master/pass/Does-Your-Office-Chair-Need-Lumbar-Support-.jpg" alt="Why Your Office Chair Should Have Lumbar Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/does-your-office-chair-need-lumbar-support/" target="_blank">Why Your Office Chair Should Have Lumbar Support</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-08 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/tinyvinyl5-500x500.jpg" alt="Tiny Vinyl is a new pocketable record format for the Spotify age" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/tiny-vinyl-is-a-new-pocketable-record-format-for-the-spotify-age/" target="_blank">Tiny Vinyl is a new pocketable record format for the Spotify age</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-08 11:00</span>
             </div>
         </div>
 </div>
@@ -238,6 +239,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/jean-luc.jpg" alt="Lego Finally Announced A Star Trek Set I’m Willing To Mortgage My House For" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/lego-star-trek-tng-enterprise-price-release-date-2000624069" target="_blank">Lego Finally Announced A Star Trek Set I’m Willing To Mortgage My House For</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-08 16:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/image-15.jpeg?fit=1882%2C1052&amp;quality=60&amp;ssl=1" alt="Hidden frames reveal next Starfield DLC: Terran Armada details" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/08/hidden-frames-reveal-next-starfield-dlc-terran-armada-details.html" target="_blank">Hidden frames reveal next Starfield DLC: Terran Armada details</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-08 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/BAETA.jpg" alt="Scientists Turned Plastic Trash Into a Material That Eats Carbon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/scientists-turned-plastic-trash-into-a-material-that-eats-carbon-2000655402" target="_blank">Scientists Turned Plastic Trash Into a Material That Eats Carbon</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-08 16:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Microsoft-Windows-11-Pro.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Microsoft put one of its biggest upgrades behind a $199 paywall, but right now, it&#x27;s only $13" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -262,33 +290,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/everything-we-know-about-airpods-pro-3?utm_medium=RSS" target="_blank">Everything We Know About AirPods Pro 3</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-08 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/28-Years-Later-zombie.jpg" alt="Cillian Murphy Is Flattered Everyone Thought He Would Play an Emaciated Zombie in ’28 Years Later’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/cillian-murphy-is-flattered-everyone-thought-he-would-play-an-emaciated-zombie-in-28-years-later-2000655309" target="_blank">Cillian Murphy Is Flattered Everyone Thought He Would Play an Emaciated Zombie in ’28 Years Later’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-08 13:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4MBHW4JR48591BT9WDH2N32/hero-image.png" alt="This Razer Xbox and PC Controller Is $50 Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/razer-wolverine-v3-pro-sale?utm_medium=RSS" target="_blank">This Razer Xbox and PC Controller Is $50 Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-08 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/plush-main-1.jpg" alt="Pokémon Finally Lets Us Cuddle The Trainers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-center-trainer-plush-n-marnie-lillie-2000623942" target="_blank">Pokémon Finally Lets Us Cuddle The Trainers</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-08 11:00</span>
             </div>
         </div>
 </div>
@@ -319,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 97 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
