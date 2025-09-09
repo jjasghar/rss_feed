@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-09 10:02:15 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-09 11:01:38 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, September 09, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, September 09, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +47,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/9/ethiopia-inaugurates-gerd-dam-amid-downstream-tensions-with-egypt-sudan?traffic_source=rss" target="_blank">Ethiopia inaugurates GERD dam amid downstream tensions with Egypt, Sudan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-09 10:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/gaza-city-main_1757406981436_hpMain_4x3t_384.jpg" alt="Israeli military issues full evacuation order for all of Gaza City" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/International/israeli-military-issues-full-evacuation-order-gaza-city/story?id=125387489" target="_blank">Israeli military issues full evacuation order for all of Gaza City</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-09 09:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250908-harvard-students-mn-1635-791cd5.jpg" alt="Harvard is back to school for a year students and staff say will be a test case in free speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/harvard-students-free-speech-test-international-concerns-ice-rcna226385" target="_blank">Harvard is back to school for a year students and staff say will be a test case in free speech</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-09 09:00</span>
             </div>
         </div>
 <div class="story">
@@ -76,24 +98,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/gop-led-house-oversight-committee-expected-receive-epstein/story?id=125365100" target="_blank">Trump&#x27;s alleged letter among &#x27;Friends&#x27; section in Epstein&#x27;s birthday book</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-09 07:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/9/icc-opens-war-crimes-hearing-against-ugandan-rebel-joseph-kony?traffic_source=rss" target="_blank">ICC opens war crimes hearing against Ugandan rebel Joseph Kony</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-09 07:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/09/nx-s1-5534953/nepal-social-media-ban-protests" target="_blank">Nepal lifts social media ban following protests where police killed 19 people</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-09 05:15</span>
             </div>
         </div>
 </div>
@@ -161,6 +165,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2695707%2F57687f54-17bd-4c6e-86dc-06d80ed18141.jpg" alt="✨React.js Hacks: Part 2 - Next-Level Tricks for Clean &amp; Powerful Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ilsa_shaikh_089e2bfab0bf4/reactjs-hacks-part-2-next-level-tricks-for-clean-powerful-code-2k27" target="_blank">✨React.js Hacks: Part 2 - Next-Level Tricks for Clean &amp; Powerful Code</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-09 10:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GPD-Sensor-Driver-Linux-6.18" target="_blank">Linux Sensor Driver Coming For GPD Handhelds</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-09 10:48</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -194,24 +216,6 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/09/09/we-built-stackoverflow-ai-with-the-community-and-for-the-community/" target="_blank">We built stackoverflow.ai with the community and for the community</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-09-09 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai" target="_blank">Mistral AI raises €1.7B to accelerate technological progress with AI</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-09 06:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vipratechsolutions/fixed-window-rate-limiting-concept-examples-and-java-implementation-5070" target="_blank">Fixed Window Rate Limiting: Concept, Examples, and Java Implementation</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-09 05:56</span>
             </div>
         </div>
 </div>
@@ -342,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
