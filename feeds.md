@@ -1,29 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-09 13:10:23 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-09 14:01:34 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, September 09, 2025 - 13:10 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Tuesday, September 09, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/09/nx-s1-5535210/israel-qatar-hamas-doha" target="_blank">Israel says it carried out a strike on Hamas&#x27; main political office in Qatar</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-09 13:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/185b/live/d0411be0-8ce6-11f0-9cf6-cbf3e73ce2b9.jpg" alt="White House denies Trump&#x27;s alleged birthday message to Epstein is authentic" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/9/ethiopia-inaugurates-gerd-dam-amid-downstream-tensions-with-egypt-sudan?traffic_source=rss" target="_blank">Ethiopia inaugurates GERD dam amid downstream tensions with Egypt, Sudan</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-09 10:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/gaza-city-main_1757406981436_hpMain_4x3t_384.jpg" alt="Israeli military issues full evacuation order for all of Gaza City" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/israeli-military-issues-full-evacuation-order-gaza-city/story?id=125387489" target="_blank">Israeli military issues full evacuation order for all of Gaza City</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-09 09:01</span>
             </div>
         </div>
 </div>
@@ -158,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://ohadravid.github.io/posts/2025-09-hello-bazel/" target="_blank">How to Build Python Code with Bazel (and Why)</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-09-09 13:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18606589&w=600" alt="Is Your AI a Psychopath?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -202,15 +216,6 @@
                 <span class="time">2025-09-09 09:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/federated-credentials-management-w3c-proposal/en/headerimage/federated-credentials-management-w3c-proposal-header-1756976572775.jpg" alt="Article: FedCM: A New Proposed Identity Standard That Could Change How We Log In on the Web" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/federated-credentials-management-w3c-proposal/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: FedCM: A New Proposed Identity Standard That Could Change How We Log In on the Web</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-09 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,6 +254,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/GalaxyFlip7.jpg" alt="Samsung Cuts Galaxy Z Flip7 to Record Low Without Trade-In, Fighting Back Against Apple’s iPhone 17 Release" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/samsung-cuts-galaxy-z-flip7-to-record-low-without-trade-in-fighting-back-against-apples-iphone-17-release-2000624111" target="_blank">Samsung Cuts Galaxy Z Flip7 to Record Low Without Trade-In, Fighting Back Against Apple’s iPhone 17 Release</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-09 13:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4NFF1G8S4KG7Y5RFM4GEHQZ/hero-image.jpg" alt="Everything We Know About the Apple Watch Series 11" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/everything-we-know-about-the-apple-watch-series-11?utm_medium=RSS" target="_blank">Everything We Know About the Apple Watch Series 11</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-09 13:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01HRQ1WE5GQPWHBFZVAT9XFRXK/hero-image.png" alt="The Best Apple TV+ Original Movies Everyone Should Watch" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -282,24 +305,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/08/the-partys-over-teslas-ev-dominance-takes-a-nosedive.html" target="_blank">The party&#x27;s over: Tesla&#x27;s EV dominance takes a nosedive</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-09 00:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/wernervonbraun.jpg?fit=1200%2C784&amp;quality=60&amp;ssl=1" alt="Decoding scientific papers: 1957 guide to what researchers mean" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/08/decoding-scientific-papers-1957-guide-to-what-researchers-mean.html" target="_blank">Decoding scientific papers: 1957 guide to what researchers mean</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-09 00:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Sorcerer-Universal-Pictures.jpg" alt="Stephen King Reveals His Top 10 Favorite Movies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/stephen-king-reveals-his-top-10-favorite-movies-2000655684" target="_blank">Stephen King Reveals His Top 10 Favorite Movies</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-08 23:30</span>
             </div>
         </div>
 </div>
@@ -340,7 +345,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 30 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 13:10 UTC
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
