@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-09 15:01:41 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2025-09-09 16:02:14 UTC -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 23 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 13 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, September 09, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, September 09, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +47,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-5-gty-gmh-250909_1757422056677_hpMain_4x3t_384.jpg" alt="&#x27;It&#x27;s a dead issue&#x27;: Trump declines to comment on alleged Epstein letter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/dead-issue-trump-declines-comment-alleged-epstein-birthday/story?id=125396648" target="_blank">&#x27;It&#x27;s a dead issue&#x27;: Trump declines to comment on alleged Epstein letter</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-09 15:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/9/un-condemns-israels-targeted-strike-on-hamas-officials-in-doha?traffic_source=rss" target="_blank">UN condemns Israel’s ‘targeted strike’ on Hamas officials in Doha</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-09 15:26</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/9/video-al-jazeera-reports-from-near-the-scene-of-israeli-strike-in-qatar?traffic_source=rss" target="_blank">Video: Al Jazeera reports from near the scene of Israeli strike in Qatar</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-09 14:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/09/joseph-kony-icc-hearing-the-hague-alleged-atrocities" target="_blank">Joseph Kony case in The Hague begins with accounts of alleged atrocities</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-09-09 14:16</span>
             </div>
         </div>
 <div class="story">
@@ -69,38 +100,29 @@
                 <span class="time">2025-09-09 13:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/185b/live/d0411be0-8ce6-11f0-9cf6-cbf3e73ce2b9.jpg" alt="White House denies Trump&#x27;s alleged birthday message to Epstein is authentic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgqnn4ngvdo?at_medium=RSS&at_campaign=rss" target="_blank">White House denies Trump&#x27;s alleged birthday message to Epstein is authentic</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-09 12:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/pinch-point/2025/9/9/the-battle-for-donbas?traffic_source=rss" target="_blank">The Battle for Donbas</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-09 11:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/09/ethiopia-inaugurates-africa-largest-hydroelectric-dam-egypt-rift-deepens" target="_blank">Ethiopia inaugurates Africa’s largest hydroelectric dam as Egypt rift deepens</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-09-09 11:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68bf2c88f168795f796b6a27/master/pass/Model-Behavior-Hackathon-Pits-Humans-against-AI-Agents-Business.jpg" alt="Inside the Man vs. Machine Hackathon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/san-francisco-hackathon-man-vs-machine/" target="_blank">Inside the Man vs. Machine Hackathon</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-09 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/01/switch2mockup2-500x500.png" alt="Accessory maker will pay Nintendo after showing illicit Switch 2 mockups at CES" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2025/09/accessory-maker-will-pay-nintendo-after-showing-illicit-switch-2-mockups-at-ces/" target="_blank">Accessory maker will pay Nintendo after showing illicit Switch 2 mockups at CES</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-09 15:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +159,29 @@
                 <span class="time">2025-09-09 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68670ed16769133a6baf160e/master/pass/Best%20fan%20update.png" alt="The 15 Best Fans to Cool You Year Round (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-fans/" target="_blank">The 15 Best Fans to Cool You Year Round (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-09 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/09/nuclearn-gets-10-5m-to-help-the-nuclear-industry-embrace-ai/" target="_blank">Nuclearn gets $10.5M to help the nuclear industry embrace AI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-09 12:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rebecagoisdev/beware-of-npm-packages-the-largest-supply-chain-attack-in-history-7ke" target="_blank">Beware of npm Packages: The Largest Supply Chain Attack in History</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-09 15:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/5542514b-fea4-4eda-a571-ed93f44711ff_420x300.png" alt="Inside Google&#x27;s Engineering Culture: Part 1" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/google" target="_blank">Inside Google&#x27;s Engineering Culture: Part 1</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-09-09 15:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -179,39 +201,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/snapdragon-x1e-september" target="_blank">Qualcomm Snapdragon X Elite Linux Performance Improving But Short Of AMD Ryzen &amp; Intel Core Ultra</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-09 13:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/presentations/genai-well-being/en/mediumimage/john-gesimondo-medium-1756297240147.jpg" alt="Presentation: Achieving Sustainable Mental Peace at Work Using GenAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
                 <span class="title"><a href="https://www.infoq.com/presentations/genai-well-being/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Achieving Sustainable Mental Peace at Work Using GenAI</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-09-09 13:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://ohadravid.github.io/posts/2025-09-hello-bazel/" target="_blank">How to Build Python Code with Bazel (and Why)</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-09-09 13:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18606589&w=600" alt="Is Your AI a Psychopath?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/is-your-ai-a-psychopath" target="_blank">Is Your AI a Psychopath?</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-09 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2695707%2F57687f54-17bd-4c6e-86dc-06d80ed18141.jpg" alt="✨React.js Hacks: Part 2 - Next-Level Tricks for Clean &amp; Powerful Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ilsa_shaikh_089e2bfab0bf4/reactjs-hacks-part-2-next-level-tricks-for-clean-powerful-code-2k27" target="_blank">✨React.js Hacks: Part 2 - Next-Level Tricks for Clean &amp; Powerful Code</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-09 10:55</span>
             </div>
         </div>
 </div>
@@ -252,6 +256,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Star-Wars-Beyond-Victory.jpg" alt="The Next ‘Star Wars’ VR Game Has a New Trailer and Release Date" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-wars-beyond-victory-vr-release-date-trailer-2000655685" target="_blank">The Next ‘Star Wars’ VR Game Has a New Trailer and Release Date</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-09 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/07/c71b0156783d163d32b709bee66d27bc.jpg" alt="A Bunch Of Resident Evil Games Are Reportedly Getting Switch 2 Ports" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/a-bunch-of-resident-evil-games-are-reportedly-getting-switch-2-ports-2000624442" target="_blank">A Bunch Of Resident Evil Games Are Reportedly Getting Switch 2 Ports</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-09 15:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4PQNW5ASFDK52W9TTJNGB03/hero-image.png" alt="These Highly Rated Anker Earbuds Are 50% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/anker-soundcore-space-a40-earbuds-deal?utm_medium=RSS" target="_blank">These Highly Rated Anker Earbuds Are 50% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-09 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01HF2H5YQN6Q05JQMCRMXNHNY5/hero-image.png" alt="These Weather Apps Actually Care About Your Privacy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -278,33 +309,6 @@
                 <span class="time">2025-09-09 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HRQ1WE5GQPWHBFZVAT9XFRXK/hero-image.png" alt="The Best Apple TV+ Original Movies Everyone Should Watch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/best-movies-on-apple-tv-plus?utm_medium=RSS" target="_blank">The Best Apple TV+ Original Movies Everyone Should Watch</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-09 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/sea-ice-in-Antarctica.jpg" alt="These Climate Hacks to Save the Poles Could Totally Backfire" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/these-climate-hacks-to-save-the-poles-could-totally-backfire-2000655578" target="_blank">These Climate Hacks to Save the Poles Could Totally Backfire</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-09 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Fugio_cent.jpg?fit=1200%2C730&amp;quality=60&amp;ssl=1" alt="The first circulation coin in the US said &quot;Mind Your Business,&quot; not &quot;In God We Trust&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/08/the-first-circulation-coin-in-the-us-said-mind-your-business-not-in-god-we-trust.html" target="_blank">The first circulation coin in the US said &quot;Mind Your Business,&quot; not &quot;In God We Trust&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-09 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,22 +332,13 @@
                 <span class="time">2025-09-08 23:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1757283022-20250908.png" alt="Saturday Morning Breakfast Cereal - Symbols" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/symbols-2" target="_blank">Saturday Morning Breakfast Cereal - Symbols</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-09-08 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 257 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
