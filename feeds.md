@@ -1,31 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-09 05:02:03 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-09 06:02:22 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, September 09, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, September 09, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/09/nx-s1-5534953/nepal-social-media-ban-protests" target="_blank">Nepal lifts social media ban following protests where police killed 19 people</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-09 05:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/9/indonesian-president-prabowo-replaces-five-ministers-after-deadly-protests?traffic_source=rss" target="_blank">Indonesian President Prabowo replaces five ministers after deadly protests</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-09 05:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,30 +90,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-gaza-palestine-khan-younis_7000709.jpg?20250825065358" alt="Israel not committing genocide in Gaza, says UK government" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ed5/live/417e6210-8ce0-11f0-84c8-99de564f0440.jpg" alt="Best and worst-performing NHS Trusts in England named" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/israel-not-committing-genocide-in-gaza-but-casualties-and-destruction-are-utterly-appalling-says-uk-government-13427380" target="_blank">Israel not committing genocide in Gaza, says UK government</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-09 00:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/james-comer-epa-gmh-250903_1756929407459_hpMain_4x3t_384.jpg" alt="Democrats share image of alleged Trump letter in Epstein &#x27;birthday book&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/gop-led-house-oversight-committee-expected-receive-epstein/story?id=125365100" target="_blank">Democrats share image of alleged Trump letter in Epstein &#x27;birthday book&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-08 23:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/8/we-did-it-norways-ruling-pm-stoere-claims-victory-in-general-elections?traffic_source=rss" target="_blank">‘We did it’: Norway’s PM Stoere claims victory in general election</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-08 22:11</span>
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cq8eqxlypv7o?at_medium=RSS&at_campaign=rss" target="_blank">Best and worst-performing NHS Trusts in England named</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-09 00:36</span>
             </div>
         </div>
 </div>
@@ -100,6 +103,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg" alt="Dyson Promo Codes: 20% Off | September 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/dyson-cordless-vacuum-promo-code/" target="_blank">Dyson Promo Codes: 20% Off | September 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-09 05:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68bf1181e89bf7cecb93b3d3/master/pass/Geedge-china-censor-sec-2160957292.jpg" alt="Massive Leak Shows How a Chinese Company Is Exporting the Great Firewall to the World" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,20 +157,20 @@
                 <span class="time">2025-09-08 22:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/774077/nintendo-switch-modder-ryan-daley-lawsuit" target="_blank">Nintendo Switch modder ordered to pay $2 million in piracy lawsuit</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-08 20:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vipratechsolutions/fixed-window-rate-limiting-concept-examples-and-java-implementation-5070" target="_blank">Fixed Window Rate Limiting: Concept, Examples, and Java Implementation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-09 05:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj4snleke34fa03pmxwqa.png" alt="Power Platform Admin Center – App Access Checker" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/max-dev/my-tech-stack-for-ig-exporter-chrome-extension-4l51" target="_blank">My Tech Stack for IG Exporter Chrome Extension</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-08 20:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgnfqvpi1poblgq9f1of6.png" alt="Exploring the Similarities Between SQL Stored Procedures and Python Functions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/njeri_kimaru/exploring-the-similarities-between-sql-stored-procedures-and-python-functions-34dg" target="_blank">Exploring the Similarities Between SQL Stored Procedures and Python Functions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-08 19:47</span>
             </div>
         </div>
 </div>
@@ -350,8 +353,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 120 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 121 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
