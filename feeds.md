@@ -1,40 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-09 20:01:51 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-09 21:01:41 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 31 feeds processed -->
+<!-- Generated 13 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, September 09, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, September 09, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/9/hamas-leaders-survive-israeli-strike-on-qatar-us-denies-involvement?traffic_source=rss" target="_blank">Hamas leaders survive Israeli strike on Qatar; US denies involvement</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-09 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a170/live/3bdb93c0-8d88-11f0-b391-6936825093bd.jpg" alt="Hamas claims leadership survived Israeli attack in Doha, but confirms six deaths" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ced58zywdwno?at_medium=RSS&at_campaign=rss" target="_blank">Hamas claims leadership survived Israeli attack in Doha, but confirms six deaths</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-09 20:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/karoline-leavitt-7-gty-gmh-250909_1757440841481_hpMain_4x3t_384.jpg" alt="White House says Israel&#x27;s strike in Doha &#x27;does not advance Israel or America&#x27;s goals&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,29 +103,29 @@
                 <span class="time">2025-09-09 18:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/09/nx-s1-5533220/sandy-koufax-perfect-game-60-years-dodgers" target="_blank">60 years later, Sandy Koufax&#x27;s perfect game is still amazing</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-09 17:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  White House press briefing: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  White House press briefing: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-09 16:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/09/apples-creator-centric-iphone-17-pro-will-make-the-vlogging-camera-obsolete/" target="_blank">Apple’s creator-centric iPhone 17 Pro will make the vlogging camera obsolete</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-09 20:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68c0616ed23cd18a6a0cef83/master/pass/Apple-Roundup-Tim-Cook-Gear-DSC_5834-2.jpg" alt="Everything Apple Announced: iPhone Air, iPhone 17, Apple Watches, AirPods Pro 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/everything-apple-announced-iphone-air-iphone-17-apple-watches-airpods-pro-3/" target="_blank">Everything Apple Announced: iPhone Air, iPhone 17, Apple Watches, AirPods Pro 3</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-09 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,29 +162,38 @@
                 <span class="time">2025-09-09 17:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/apple-event/769391/iphone-17-apple-watch-11-ultra-se-airpods-pro-3" target="_blank">iPhone 17 event live blog: on the ground at Apple’s keynote</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-09 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68bf2c88f168795f796b6a27/master/pass/Model-Behavior-Hackathon-Pits-Humans-against-AI-Agents-Business.jpg" alt="Inside the Man vs. Machine Hackathon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/san-francisco-hackathon-man-vs-machine/" target="_blank">Inside the Man vs. Machine Hackathon</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-09 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/cloud-sky-ops/bash-solutions-nuf-and-process-substitutions-ep2" target="_blank">Bash Solutions: NUF and process substitutions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-09 20:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Rust-Coreutils-0.2.2" target="_blank">Rust Coreutils 0.2.2 Released With Faster base64: Outperforming GNU&#x27;s base64</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-09 20:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18605689&w=600" alt="Using ChartMuseum as a Helm Repository" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/using-chartmuseum-as-a-helm-repository" target="_blank">Using ChartMuseum as a Helm Repository</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-09 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,33 +219,6 @@
                 <span class="title"><a href="https://dev.to/aws-espanol/construyendo-agentes-strands-con-pocas-lineas-de-codigo-comunicacion-agente-a-agente-a2a-gdk" target="_blank">Construyendo Agentes Strands con pocas líneas de código: Comunicación Agente a Agente (A2A)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-09 18:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FEX-2509-Released" target="_blank">FEX 2509 Delivers More Performance For x86 Binaries On ARM64 Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-09 18:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://help.dropbox.com/installs/paper-mobile-discontinuation" target="_blank">Dropbox Paper mobile App Discontinuation</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-09 18:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18606632&w=600" alt="Blockchain-Based Authentication: The Future of Secure Identity Verification" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/blockchain-authentication-secure-identity-verification" target="_blank">Blockchain-Based Authentication: The Future of Secure Identity Verification</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-09 17:00</span>
             </div>
         </div>
 </div>
@@ -251,6 +250,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/God-War-Sad.jpg" alt="The Top 20 Best-Selling Games Ever On PlayStation In The U.S. Is A Very Sad List" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/playstation-ps5-best-selling-games-all-time-gta-minecraft-2000624513" target="_blank">The Top 20 Best-Selling Games Ever On PlayStation In The U.S. Is A Very Sad List</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-09 20:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4R1QP75CN5Y064YYV23D7NK/hero-image.png" alt="The iPhone 17 Center Stage Camera Will Make Selfies a Whole Lot Easier" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/iphone-17-center-stage-camera-will-make-landscape-selfies-easier?utm_medium=RSS" target="_blank">The iPhone 17 Center Stage Camera Will Make Selfies a Whole Lot Easier</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-09 20:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Screenshot-2025-09-09-at-1.23.16-PM.png?fit=596%2C612&amp;quality=55&amp;ssl=1" alt="Epstein documents not a hoax, Leavitt says, but the &quot;narrative&quot; is" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/09/epstein-documents-not-a-hoax-leavitt-says-but-the-narrative-is.html" target="_blank">Epstein documents not a hoax, Leavitt says, but the &quot;narrative&quot; is</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-09 20:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K4QWRY9JTPRNN5TWTBT91JZR/hero-image.png" alt="Apple’s ‘Awe Dropping’ Event Actually Included Some Big Apple Watch Updates" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -275,33 +301,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/09/maga-mike-suggest-people-welcome-military-occupations-of-their-home-towns.html" target="_blank">MAGA Mike suggests people welcome military occupations of their hometowns</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-09 17:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JC3W31N7SJZMXNSV702PQ1HX/hero-image.jpg" alt="My 10 Favorite YouTube Channels for At-Home Yoga Classes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/best-yoga-youtube-channels?utm_medium=RSS" target="_blank">My 10 Favorite YouTube Channels for At-Home Yoga Classes</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-09 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/03/Plex_hero.jpg" alt="Update Your Plex Password Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/update-your-plex-password-right-now-2000656067" target="_blank">Update Your Plex Password Right Now</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-09 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/10/ada119b012810a1953657ff020375603.jpg" alt="Switch 2’s Most Visually Impressive Port Just Got Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/star-wars-outlaws-switch-2-port-patch-is-it-good-2000624465" target="_blank">Switch 2’s Most Visually Impressive Port Just Got Better</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-09 16:53</span>
             </div>
         </div>
 </div>
@@ -341,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
