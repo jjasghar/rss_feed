@@ -1,37 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-09-08 23:01:50 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-09 00:05:04 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, September 08, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, September 09, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,12 +38,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/james-comer-epa-gmh-250903_1756929407459_hpMain_4x3t_384.jpg" alt="Democrats share image of alleged Trump letter in Epstein &#x27;birthday book&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/gop-led-house-oversight-committee-expected-receive-epstein/story?id=125365100" target="_blank">Democrats share image of alleged Trump letter in Epstein &#x27;birthday book&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-08 23:18</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/8/we-did-it-norways-ruling-pm-stoere-claims-victory-in-general-elections?traffic_source=rss" target="_blank">‘We did it’: Norway’s PM Stoere claims victory in general election</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-08 22:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/08/nx-s1-5534435/rupert-murdoch-fox-news-family-succession-lachlan" target="_blank">Rupert Murdoch buys out 3 of his children to seal fate of his media empire</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-08 21:37</span>
             </div>
         </div>
 <div class="story">
@@ -81,24 +89,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-jeffrey-epstein-birthday-book-rcna229803" target="_blank">House Democrats release lewd birthday note Trump allegedly sent to Epstein</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-09-08 19:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757359470141_now_daily_b_zanona_winter_epstein_250908_1920x1080-dwhrxe.jpg" alt="Democrats say House Oversight Committee has received Epstein &#x27;birthday book&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/democrats-say-house-oversight-committee-has-received-epstein-birthday-book-247108165927" target="_blank">Democrats say House Oversight Committee has received Epstein &#x27;birthday book&#x27;</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-08 19:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a169/live/17d8cda0-8ce1-11f0-a91d-134692780fdd.jpg" alt="France in fresh political crisis after MPs oust prime minister" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c2dnxxekyezo?at_medium=RSS&at_campaign=rss" target="_blank">France in fresh political crisis after MPs oust prime minister</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-08 19:11</span>
             </div>
         </div>
 </div>
@@ -227,6 +217,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/09/18-popular-code-packages-hacked-rigged-to-steal-crypto/" target="_blank">18 Popular Code Packages Hacked, Rigged to Steal Crypto</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-09-08 22:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/signed-copies-of-rewiring-democracy.html" target="_blank">Signed Copies of Rewiring Democracy</a></span>
                 <span class="feed">Schneier on Security</span>
@@ -266,6 +265,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/02/Leavitt-1.jpeg?fit=1080%2C592&amp;quality=60&amp;ssl=1" alt="Karoline Leavitt says do not believe your eyes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/08/karoline-leavitt-says-do-not-believe-your-eyes.html" target="_blank">Karoline Leavitt says do not believe your eyes</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-08 21:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K4NJ5ZC2EAWTV17BCCRSPRAY/hero-image.png" alt="If You Have a Mini-LED TV, You Need to Enable This Setting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -290,15 +298,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/double-storage-samsung-galaxy-tab-s11-deal?utm_medium=RSS" target="_blank">Amazon Will Double Your Storage on a New Samsung Galaxy Tab S11 for Free</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-08 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/image-4.png?fit=480%2C360&amp;quality=55&amp;ssl=1" alt="Local hero removes rental e-bikes piled up in public beachfront bike path (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/08/local-hero-removes-rental-e-bikes-piled-up-in-public-beachfront-bike-path-video.html" target="_blank">Local hero removes rental e-bikes piled up in public beachfront bike path (video)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-08 18:08</span>
             </div>
         </div>
 </div>
@@ -347,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
