@@ -1,31 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-09-09 12:02:21 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-09-09 13:10:23 UTC -->
 <!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, September 09, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, September 09, 2025 - 13:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/185b/live/d0411be0-8ce6-11f0-9cf6-cbf3e73ce2b9.jpg" alt="White House denies Trump&#x27;s alleged birthday message to Epstein is authentic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgqnn4ngvdo?at_medium=RSS&at_campaign=rss" target="_blank">White House denies Trump&#x27;s alleged birthday message to Epstein is authentic</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-09 12:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -62,6 +69,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/planet-money/2025/09/09/g-s1-87699/private-equity-corporate-landlords" target="_blank">Here&#x27;s what happens when private equity buys homes in your neighborhood</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-09 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/9/ethiopia-inaugurates-gerd-dam-amid-downstream-tensions-with-egypt-sudan?traffic_source=rss" target="_blank">Ethiopia inaugurates GERD dam amid downstream tensions with Egypt, Sudan</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -77,29 +93,29 @@
                 <span class="time">2025-09-09 09:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250908-harvard-students-mn-1635-791cd5.jpg" alt="Harvard is back to school for a year students and staff say will be a test case in free speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/harvard-students-free-speech-test-international-concerns-ice-rcna226385" target="_blank">Harvard is back to school for a year students and staff say will be a test case in free speech</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-09 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/09/nx-s1-5530068/npr-student-podcast-honorable-mentions" target="_blank">The 2025 Student Podcast Challenge Honorable Mentions</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-09 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68670ed16769133a6baf160e/master/pass/Best%20fan%20update.png" alt="The 15 Best Fans to Cool You Year Round (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-fans/" target="_blank">The 15 Best Fans to Cool You Year Round (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-09 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/09/nuclearn-gets-10-5m-to-help-the-nuclear-industry-embrace-ai/" target="_blank">Nuclearn gets $10.5M to help the nuclear industry embrace AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-09 12:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,29 +152,20 @@
                 <span class="time">2025-09-09 06:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg" alt="Dyson Promo Codes: 20% Off | September 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/dyson-cordless-vacuum-promo-code/" target="_blank">Dyson Promo Codes: 20% Off | September 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-09 05:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68bf1181e89bf7cecb93b3d3/master/pass/Geedge-china-censor-sec-2160957292.jpg" alt="Massive Leak Shows How a Chinese Company Is Exporting the Great Firewall to the World" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/geedge-networks-mass-censorship-leak/" target="_blank">Massive Leak Shows How a Chinese Company Is Exporting the Great Firewall to the World</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-09 03:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18606589&w=600" alt="Is Your AI a Psychopath?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/is-your-ai-a-psychopath" target="_blank">Is Your AI a Psychopath?</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-09 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F2695707%2F57687f54-17bd-4c6e-86dc-06d80ed18141.jpg" alt="✨React.js Hacks: Part 2 - Next-Level Tricks for Clean &amp; Powerful Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -204,15 +211,6 @@
                 <span class="time">2025-09-09 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/09/09/we-built-stackoverflow-ai-with-the-community-and-for-the-community/" target="_blank">We built stackoverflow.ai with the community and for the community</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-09-09 07:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -250,6 +248,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HRQ1WE5GQPWHBFZVAT9XFRXK/hero-image.png" alt="The Best Apple TV+ Original Movies Everyone Should Watch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/best-movies-on-apple-tv-plus?utm_medium=RSS" target="_blank">The Best Apple TV+ Original Movies Everyone Should Watch</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-09 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/sea-ice-in-Antarctica.jpg" alt="These Climate Hacks to Save the Poles Could Totally Backfire" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -295,15 +302,6 @@
                 <span class="time">2025-09-08 23:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Terriffier-HHN-Universal-Studios.jpg" alt="‘Terrifier’ Makes an Undeniable Mark on Halloween Horror Nights Hollywood" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/terrifier-makes-an-undeniable-mark-on-halloween-horror-nights-hollywood-2000655615" target="_blank">‘Terrifier’ Makes an Undeniable Mark on Halloween Horror Nights Hollywood</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-08 22:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -341,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 13:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
