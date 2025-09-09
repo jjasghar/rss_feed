@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-09-09 11:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-09 12:02:21 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, September 09, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Tuesday, September 09, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/pinch-point/2025/9/9/the-battle-for-donbas?traffic_source=rss" target="_blank">The Battle for Donbas</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-09 11:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/09/ethiopia-inaugurates-africa-largest-hydroelectric-dam-egypt-rift-deepens" target="_blank">Ethiopia inaugurates Africa’s largest hydroelectric dam as Egypt rift deepens</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-09-09 11:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +93,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/09/nx-s1-5530068/npr-student-podcast-honorable-mentions" target="_blank">The 2025 Student Podcast Challenge Honorable Mentions</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-09 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/9/9/nineteen-killed-in-nepal-protests-against-corruption-and-internet-bans?traffic_source=rss" target="_blank">Nineteen killed in Nepal protests against corruption and internet bans</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-09 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/epstein-birthday-book_1757403735292_hpMain_4x3t_384.jpg" alt="Trump&#x27;s alleged letter among &#x27;Friends&#x27; section in Epstein&#x27;s birthday book" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/gop-led-house-oversight-committee-expected-receive-epstein/story?id=125365100" target="_blank">Trump&#x27;s alleged letter among &#x27;Friends&#x27; section in Epstein&#x27;s birthday book</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-09 07:46</span>
             </div>
         </div>
 </div>
@@ -226,6 +221,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/new-cryptanalysis-of-the-fiat-shamir-protocol.html" target="_blank">New Cryptanalysis of the Fiat-Shamir Protocol</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-09-09 11:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-shield-halved"></span>
                 <span class="title"><a href="https://krebsonsecurity.com/2025/09/18-popular-code-packages-hacked-rigged-to-steal-crypto/" target="_blank">18 Popular Code Packages Hacked, Rigged to Steal Crypto</a></span>
                 <span class="feed">Krebs on Security</span>
@@ -239,15 +243,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/signed-copies-of-rewiring-democracy.html" target="_blank">Signed Copies of Rewiring Democracy</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2025-09-08 18:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/ai-in-government.html" target="_blank">AI in Government</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-09-08 11:05</span>
             </div>
         </div>
 </div>
@@ -346,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
