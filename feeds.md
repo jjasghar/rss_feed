@@ -1,40 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-09-09 04:02:13 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-09 05:02:03 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 32 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, September 09, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, September 09, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +45,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/9/thai-court-says-ex-premier-thaksin-shinawatra-must-serve-1-year-in-prison?traffic_source=rss" target="_blank">Thai court says ex-premier Thaksin Shinawatra must serve 1 year in prison</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-09 04:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/9/syrian-government-blasts-attacks-by-israeli-warplanes-on-two-cities-report?traffic_source=rss" target="_blank">Syrian government blasts attacks by Israeli warplanes on two cities: Report</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-09 02:58</span>
@@ -66,6 +66,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/economy/2025/9/9/rupert-murdoch-seals-deal-passing-control-of-media-empire-to-eldest-son?traffic_source=rss" target="_blank">Rupert Murdoch seals deal passing control of media empire to eldest son</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-09 02:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-gaza-palestine-khan-younis_7000709.jpg?20250825065358" alt="Israel not committing genocide in Gaza, says UK government" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/israel-not-committing-genocide-in-gaza-but-casualties-and-destruction-are-utterly-appalling-says-uk-government-13427380" target="_blank">Israel not committing genocide in Gaza, says UK government</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-09 00:21</span>
             </div>
         </div>
 <div class="story">
@@ -84,24 +93,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/8/we-did-it-norways-ruling-pm-stoere-claims-victory-in-general-elections?traffic_source=rss" target="_blank">‘We did it’: Norway’s PM Stoere claims victory in general election</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-08 22:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/08/nx-s1-5534435/rupert-murdoch-fox-news-family-succession-lachlan" target="_blank">Rupert Murdoch buys out 3 of his children to seal fate of his media empire</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-08 21:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/james-comer-epa-gmh-250903_1756929407459_hpMain_4x3t_384.jpg" alt="House Oversight Committee says it has Epstein&#x27;s &#x27;birthday book&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/gop-led-house-oversight-committee-expected-receive-epstein/story?id=125365100" target="_blank">House Oversight Committee says it has Epstein&#x27;s &#x27;birthday book&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-08 21:20</span>
             </div>
         </div>
 </div>
@@ -125,6 +116,15 @@
                 <span class="title"><a href="https://techcrunch.com/2025/09/08/nepal-reverses-social-media-ban-as-protests-turn-deadly/" target="_blank">Nepal reverses social media ban as protests turn deadly</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-09-09 02:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-500x500.jpg" alt="Software packages with more than 2 billion weekly downloads hit in supply-chain attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/09/software-packages-with-more-than-2-billion-weekly-downloads-hit-in-supply-chain-attack/" target="_blank">Software packages with more than 2 billion weekly downloads hit in supply-chain attack</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-09 00:37</span>
             </div>
         </div>
 <div class="story">
@@ -152,15 +152,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/774077/nintendo-switch-modder-ryan-daley-lawsuit" target="_blank">Nintendo Switch modder ordered to pay $2 million in piracy lawsuit</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-08 20:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-whatsapp-500x500.jpg" alt="Former WhatsApp security boss in lawsuit likens Meta’s culture to a “cult”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2025/09/former-whatsapp-security-boss-sues-meta-for-systemic-cybersecurity-failures/" target="_blank">Former WhatsApp security boss in lawsuit likens Meta’s culture to a “cult”</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-08 20:26</span>
             </div>
         </div>
 </div>
@@ -359,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 120 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
