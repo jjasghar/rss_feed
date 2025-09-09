@@ -1,39 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-09 09:02:00 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-09-09 10:02:15 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, September 09, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, September 09, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -56,6 +49,15 @@
                 <span class="title"><a href="https://abcnews.go.com/International/israeli-military-issues-full-evacuation-order-gaza-city/story?id=125387489" target="_blank">Israeli military issues full evacuation order for all of Gaza City</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-09 09:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/09/nx-s1-5530068/npr-student-podcast-honorable-mentions" target="_blank">The 2025 Student Podcast Challenge Honorable Mentions</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-09 09:00</span>
             </div>
         </div>
 <div class="story">
@@ -94,20 +96,20 @@
                 <span class="time">2025-09-09 05:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/9/indonesian-president-prabowo-replaces-five-ministers-after-deadly-protests?traffic_source=rss" target="_blank">Indonesian President Prabowo replaces five ministers after deadly protests</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-09 05:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/774236/nintendo-switch-2-genki-lawsuit-settlement" target="_blank">Genki will pay Nintendo damages over 3D-printed Switch 2</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-09 09:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,20 +155,29 @@
                 <span class="time">2025-09-09 03:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/08/nepal-reverses-social-media-ban-as-protests-turn-deadly/" target="_blank">Nepal reverses social media ban as protests turn deadly</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-09 02:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.4.5" target="_blank">KDE Plasma 6.4.5 Released With Fix For &quot;Extreme Stuttering&quot; On Intel Graphics</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-09 09:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/how-we-ran-an-effective-sprint-to-refresh-our-design-website-part-2" target="_blank">How we ran a sprint to refresh our design website, Part 2</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-09-09 09:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/articles/federated-credentials-management-w3c-proposal/en/headerimage/federated-credentials-management-w3c-proposal-header-1756976572775.jpg" alt="Article: FedCM: A New Proposed Identity Standard That Could Change How We Log In on the Web" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/vipratechsolutions/fixed-window-rate-limiting-concept-examples-and-java-implementation-5070" target="_blank">Fixed Window Rate Limiting: Concept, Examples, and Java Implementation</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-09 05:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj4snleke34fa03pmxwqa.png" alt="Power Platform Admin Center – App Access Checker" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nikhildynamicsce/power-platform-admin-center-app-access-checker-3125" target="_blank">Power Platform Admin Center – App Access Checker</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-09 00:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AlmaLinux-10-CRB-Default-Repo" target="_blank">AlmaLinux 10.1 To Offer Expanded Software Selection With New Repository Default</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-09 00:17</span>
             </div>
         </div>
 </div>
@@ -258,6 +251,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/sea-ice-in-Antarctica.jpg" alt="These Climate Hacks to Save the Poles Could Totally Backfire" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/these-climate-hacks-to-save-the-poles-could-totally-backfire-2000655578" target="_blank">These Climate Hacks to Save the Poles Could Totally Backfire</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-09 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Fugio_cent.jpg?fit=1200%2C730&amp;quality=60&amp;ssl=1" alt="The first circulation coin in the US said &quot;Mind Your Business,&quot; not &quot;In God We Trust&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -303,15 +305,6 @@
                 <span class="time">2025-09-08 22:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Frankenstein-Jacob-Elordi.jpg" alt="Jacob Elordi’s ‘Frankenstein’ Body, as Described by Guillermo del Toro" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/jacob-elordis-frankenstein-body-as-described-by-guillermo-del-toro-2000655652" target="_blank">Jacob Elordi’s ‘Frankenstein’ Body, as Described by Guillermo del Toro</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-08 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -349,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
