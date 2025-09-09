@@ -1,39 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-09-09 18:02:17 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-09 19:01:39 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, September 09, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, September 09, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250808-robert-f-kennedy-jr-ice-cream-ew-1245p-678222.jpg" alt="RFK Jr.&#x27;s new &#x27;MAHA&#x27; report outlines steps to improve kids&#x27; health but is short on specifics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/health/kids-health/kennedys-new-maha-report-outlines-steps-improve-kids-health-short-spec-rcna223893" target="_blank">RFK Jr.&#x27;s new &#x27;MAHA&#x27; report outlines steps to improve kids&#x27; health but is short on specifics</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-09 18:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/9/white-house-us-warned-qatar-before-israeli-strike?traffic_source=rss" target="_blank">White House: US warned Qatar before Israeli strike</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-09 18:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,24 +91,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/dead-issue-trump-declines-comment-alleged-epstein-birthday/story?id=125396648" target="_blank">&#x27;It&#x27;s a dead issue&#x27;: Trump declines to comment on alleged Epstein letter</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-09 15:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/9/un-condemns-israels-targeted-strike-on-hamas-officials-in-doha?traffic_source=rss" target="_blank">UN condemns Israel’s ‘targeted strike’ on Hamas officials in Doha</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-09 15:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/9/video-al-jazeera-reports-from-near-the-scene-of-israeli-strike-in-qatar?traffic_source=rss" target="_blank">Video: Al Jazeera reports from near the scene of Israeli strike in Qatar</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-09 14:50</span>
             </div>
         </div>
 </div>
@@ -168,6 +158,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F717518%2Fb550b165-b8b9-405d-acfb-e5dc846765b0.png" alt="Construyendo Agentes Strands con pocas líneas de código: Comunicación Agente a Agente (A2A)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-espanol/construyendo-agentes-strands-con-pocas-lineas-de-codigo-comunicacion-agente-a-agente-a2a-gdk" target="_blank">Construyendo Agentes Strands con pocas líneas de código: Comunicación Agente a Agente (A2A)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-09 18:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://help.dropbox.com/installs/paper-mobile-discontinuation" target="_blank">Dropbox Paper mobile App Discontinuation</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-09 18:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18606632&w=600" alt="Blockchain-Based Authentication: The Future of Secure Identity Verification" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -203,24 +211,6 @@
                 <span class="time">2025-09-09 15:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/its_renuka_/today-i-learned-counting-digits-in-java-2e9n" target="_blank">🔢 Today I Learned: Counting Digits in Java</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-09 14:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.anthropic.com/news/create-files" target="_blank">Claude can now create and edit files</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-09 14:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,20 +234,20 @@
                 <span class="time">2025-09-08 22:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/signed-copies-of-rewiring-democracy.html" target="_blank">Signed Copies of Rewiring Democracy</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-09-08 18:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/shutterstock_2639942717-e1756488851256.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="MAGA Mike suggests people welcome military occupations of their hometowns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/09/maga-mike-suggest-people-welcome-military-occupations-of-their-home-towns.html" target="_blank">MAGA Mike suggests people welcome military occupations of their hometowns</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-09 17:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JC3W31N7SJZMXNSV702PQ1HX/hero-image.jpg" alt="My 10 Favorite YouTube Channels for At-Home Yoga Classes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -303,15 +293,6 @@
                 <span class="time">2025-09-09 15:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Screen-Shot-2025-09-08-at-8.56.18-PM.png?fit=1820%2C1286&amp;quality=55&amp;ssl=1" alt="Students create incredible typewriter art in 1937 film &quot;Able to tick? Tick along&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/09/students-create-incredible-typewriter-art-in-1937-film-able-to-tick-tick-along.html" target="_blank">Students create incredible typewriter art in 1937 film &quot;Able to tick? Tick along&quot;</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-09 15:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -349,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
