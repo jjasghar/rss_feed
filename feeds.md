@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-09 08:02:20 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-09 09:02:00 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, September 09, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, September 09, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/gaza-city-main_1757406981436_hpMain_4x3t_384.jpg" alt="Israeli military issues full evacuation order for all of Gaza City" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/israeli-military-issues-full-evacuation-order-gaza-city/story?id=125387489" target="_blank">Israeli military issues full evacuation order for all of Gaza City</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-09 09:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/9/9/nineteen-killed-in-nepal-protests-against-corruption-and-internet-bans?traffic_source=rss" target="_blank">Nineteen killed in Nepal protests against corruption and internet bans</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-09 08:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/epstein-birthday-book_1757403735292_hpMain_4x3t_384.jpg" alt="Trump&#x27;s alleged letter among &#x27;Friends&#x27; section in Epstein&#x27;s birthday book" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,24 +103,6 @@
                 <span class="time">2025-09-09 05:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/9/thai-court-says-ex-premier-thaksin-shinawatra-must-serve-1-year-in-prison?traffic_source=rss" target="_blank">Thai court says ex-premier Thaksin Shinawatra must serve 1 year in prison</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-09 04:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/185b/live/d0411be0-8ce6-11f0-9cf6-cbf3e73ce2b9.jpg" alt="US lawmakers release Epstein &#x27;birthday book&#x27; with alleged Trump note" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cvgqnn4ngvdo?at_medium=RSS&at_campaign=rss" target="_blank">US lawmakers release Epstein &#x27;birthday book&#x27; with alleged Trump note</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-09 03:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -122,6 +123,15 @@
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/09/08/openai-denies-that-its-weighing-a-last-ditch-california-exit-amid-regulatory-pressure-over-its-restructuring/" target="_blank">OpenAI denies that it’s weighing a ‘last-ditch’ California exit amid regulatory pressure over its restructuring</a></span>
                 <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-09 06:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" alt="50% Off LG Promo Codes &amp; Coupons" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/lg-promo-code/" target="_blank">50% Off LG Promo Codes &amp; Coupons</a></span>
+                <span class="feed">WIRED</span>
                 <span class="time">2025-09-09 06:00</span>
             </div>
         </div>
@@ -152,20 +162,20 @@
                 <span class="time">2025-09-09 02:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-500x500.jpg" alt="Software packages with more than 2 billion weekly downloads hit in supply-chain attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2025/09/software-packages-with-more-than-2-billion-weekly-downloads-hit-in-supply-chain-attack/" target="_blank">Software packages with more than 2 billion weekly downloads hit in supply-chain attack</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-09 00:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/articles/federated-credentials-management-w3c-proposal/en/headerimage/federated-credentials-management-w3c-proposal-header-1756976572775.jpg" alt="Article: FedCM: A New Proposed Identity Standard That Could Change How We Log In on the Web" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/federated-credentials-management-w3c-proposal/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: FedCM: A New Proposed Identity Standard That Could Change How We Log In on the Web</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-09 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AlmaLinux-10-CRB-Default-Repo" target="_blank">AlmaLinux 10.1 To Offer Expanded Software Selection With New Repository Default</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-09 00:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyyucrx094kbzu1vh3b6h.png" alt="Protecting Yourself from Spear Phishing Attacks Such as the One Targeting NPM Maintainers with 2FA Update" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/semgrep/protecting-yourself-from-spear-phishing-attacks-such-as-the-one-targeting-npm-maintainers-with-2fa-4332" target="_blank">Protecting Yourself from Spear Phishing Attacks Such as the One Targeting NPM Maintainers with 2FA Update</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-08 22:52</span>
             </div>
         </div>
 </div>
@@ -349,7 +350,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 08:02 UTC
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
