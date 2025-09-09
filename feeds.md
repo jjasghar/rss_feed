@@ -1,39 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-09 21:01:41 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-09-09 22:01:25 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, September 09, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Tuesday, September 09, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/doha-2-rt-gmh-250909_1757424603297_hpMain_4x3t_384.jpg" alt="Israel told US military of plan to strike Hamas, but didn&#x27;t say where: US official" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/israel-told-us-military-plan-strike-hamas-us/story?id=125413197" target="_blank">Israel told US military of plan to strike Hamas, but didn&#x27;t say where: US official</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-09 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/9/frances-macron-names-sebastien-lecornu-prime-minister?traffic_source=rss" target="_blank">Macron names close ally Sebastien Lecornu as new French PM</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-09 21:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,30 +92,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-nepal-protest-cordelia-lynch_7015591.jpg?20250909211547" alt="Nepal protests a powder keg moment that could change the country for years" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/9/nepali-pm-forced-to-step-down-parliament-torched-amid-deadly-protests?traffic_source=rss" target="_blank">Nepali PM forced to step down, parliament torched amid deadly protests</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-09 19:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250808-robert-f-kennedy-jr-ice-cream-ew-1245p-678222.jpg" alt="RFK Jr.&#x27;s new &#x27;MAHA&#x27; report outlines steps to improve kids&#x27; health but is short on specifics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/health/kids-health/kennedys-new-maha-report-outlines-steps-improve-kids-health-short-spec-rcna223893" target="_blank">RFK Jr.&#x27;s new &#x27;MAHA&#x27; report outlines steps to improve kids&#x27; health but is short on specifics</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-09 18:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/9/white-house-us-warned-qatar-before-israeli-strike?traffic_source=rss" target="_blank">White House: US warned Qatar before Israeli strike</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-09 18:23</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/nepals-anti-government-protests-are-a-powder-keg-moment-that-could-change-the-country-for-years-13427828" target="_blank">Nepal protests a powder keg moment that could change the country for years</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-09 19:34</span>
             </div>
         </div>
 </div>
@@ -108,6 +105,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/IMG_5808-500x500.jpeg" alt="Hands-on with the iPhone 17 lineup, including the wispy Air and the lumpy Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/hands-on-with-the-iphone-17-lineup-including-the-wispy-air-and-the-lumpy-pro/" target="_blank">Hands-on with the iPhone 17 lineup, including the wispy Air and the lumpy Pro</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-09 21:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68c086b8a090cc6a539ba25d/master/pass/GettyImages-1475304113.jpg" alt="Moderna CEO Responds to RFK Jr.’s Crusade Against the Covid-19 Vaccine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/moderna-ceo-responds-to-rfk-jrs-crusade-against-the-covid-19-vaccine/" target="_blank">Moderna CEO Responds to RFK Jr.’s Crusade Against the Covid-19 Vaccine</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-09 21:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,29 +159,20 @@
                 <span class="time">2025-09-09 19:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c07312702fc9638c8c19f2/master/pass/Apple-iPhone-Air-color-lineup-250909.jpg" alt="The iPhone 17 Series Gets the Biggest iPhone Design Refresh in Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/apple-iphone-17-iphone-air-and-iphone-17-pro/" target="_blank">The iPhone 17 Series Gets the Biggest iPhone Design Refresh in Years</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-09 19:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/772666/apple-iphone-17-pro-specs-features-price-release-date" target="_blank">Apple reveals the all-aluminum iPhone 17 Pro</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-09 17:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/manujb25/iac-for-startups-terraform-aws-in-a-weekend-2cji" target="_blank">IaC for Startups: Terraform + AWS in a Weekend</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-09 21:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +218,6 @@
                 <span class="time">2025-09-09 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F717518%2Fb550b165-b8b9-405d-acfb-e5dc846765b0.png" alt="Construyendo Agentes Strands con pocas líneas de código: Comunicación Agente a Agente (A2A)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-espanol/construyendo-agentes-strands-con-pocas-lineas-de-codigo-comunicacion-agente-a-agente-a2a-gdk" target="_blank">Construyendo Agentes Strands con pocas líneas de código: Comunicación Agente a Agente (A2A)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-09 18:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,6 +246,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4R1GXFH9KM25HFPWY066R2H/hero-image.jpg" alt="The AirPods Pro 3 Will Be More Forgiving for the Tiny-Eared" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/airpods-pro-3-are-more-forgiving-for-the-tine-eared?utm_medium=RSS" target="_blank">The AirPods Pro 3 Will Be More Forgiving for the Tiny-Eared</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-09 21:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/10/shutterstock_33885607-e1740688660250.jpg?fit=1080%2C771&amp;quality=60&amp;ssl=1" alt="California&#x27;s undersea toxic dumpsites are warping ocean life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/09/californias-undersea-toxic-dumpsites-are-warping-ocean-life.html" target="_blank">California&#x27;s undersea toxic dumpsites are warping ocean life</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-09 20:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/God-War-Sad.jpg" alt="The Top 20 Best-Selling Games Ever On PlayStation In The U.S. Is A Very Sad List" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,24 +298,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/apple-watch-news-awe-dropping-event?utm_medium=RSS" target="_blank">Apple’s ‘Awe Dropping’ Event Actually Included Some Big Apple Watch Updates</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-09 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/Ultimate-FPS-II-Gyro-Touch-Design-Build-YouTube-0-27-53.jpeg" alt="This Wild DIY Gyro Controller Shows Just How Boring Modern Gamepads Are" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gaming-controllers-gyro-trackpad-scuf-mouse-keyboard-2000624503" target="_blank">This Wild DIY Gyro Controller Shows Just How Boring Modern Gamepads Are</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-09 19:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/shutterstock_2639942717-e1756488851256.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="MAGA Mike suggests people welcome military occupations of their hometowns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/09/maga-mike-suggest-people-welcome-military-occupations-of-their-home-towns.html" target="_blank">MAGA Mike suggests people welcome military occupations of their hometowns</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-09 17:31</span>
             </div>
         </div>
 </div>
@@ -340,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
