@@ -1,27 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-09 02:28:02 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-09 03:14:38 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 2 new posts out of 19 feeds processed -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, September 09, 2025 - 02:28 UTC</div>
+    <div class="newspaper-date">Tuesday, September 09, 2025 - 03:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/9/9/rupert-murdoch-seals-deal-passing-control-of-media-empire-to-eldest-son?traffic_source=rss" target="_blank">Rupert Murdoch seals deal passing control of media empire to eldest son</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-09 02:34</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/james-comer-epa-gmh-250903_1756929407459_hpMain_4x3t_384.jpg" alt="Democrats share image of alleged Trump letter in Epstein &#x27;birthday book&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,20 +102,29 @@
                 <span class="time">2025-09-08 20:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250908-trump-epstein-birthday-letter-ew-340p-cf8b7c.jpg" alt="House Democrats release lewd birthday note Trump allegedly sent to Epstein" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-jeffrey-epstein-birthday-book-rcna229803" target="_blank">House Democrats release lewd birthday note Trump allegedly sent to Epstein</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-08 19:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68bf1181e89bf7cecb93b3d3/master/pass/Geedge-china-censor-sec-2160957292.jpg" alt="Massive Leak Shows How a Chinese Company Is Exporting the Great Firewall to the World" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/geedge-networks-mass-censorship-leak/" target="_blank">Massive Leak Shows How a Chinese Company Is Exporting the Great Firewall to the World</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-09 03:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/08/nepal-reverses-social-media-ban-as-protests-turn-deadly/" target="_blank">Nepal reverses social media ban as protests turn deadly</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-09 02:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -130,24 +159,6 @@
                 <span class="title"><a href="https://arstechnica.com/security/2025/09/former-whatsapp-security-boss-sues-meta-for-systemic-cybersecurity-failures/" target="_blank">Former WhatsApp security boss in lawsuit likens Meta’s culture to a “cult”</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-09-08 20:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/08/nuclear-startup-deep-fission-goes-public-in-a-curious-spac/" target="_blank">Nuclear startup Deep Fission goes public in a curious SPAC</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-08 20:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-500x500.jpg" alt="In court filing, Google concedes the open web is in “rapid decline”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/google/2025/09/in-court-filing-google-concedes-the-open-web-is-in-rapid-decline/" target="_blank">In court filing, Google concedes the open web is in “rapid decline”</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-08 19:29</span>
             </div>
         </div>
 </div>
@@ -355,8 +366,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 02:28 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 03:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
