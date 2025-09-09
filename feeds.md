@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-09 16:02:14 UTC -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-09-09 17:01:34 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: The Verge -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 13 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, September 09, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, September 09, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757433602069_now_mnn_israel_blast_qatar_250909_1920x1080-yo3oi2.jpg" alt="Israel carries out strike on Qatari capital targeting Hamas leaders" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/israel-carries-out-strike-on-qatari-capital-targeting-hamas-leaders-247184453755" target="_blank">Israel carries out strike on Qatari capital targeting Hamas leaders</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-09 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-5-gty-gmh-250909_1757422056677_hpMain_4x3t_384.jpg" alt="&#x27;It&#x27;s a dead issue&#x27;: Trump declines to comment on alleged Epstein letter" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +99,20 @@
                 <span class="time">2025-09-09 13:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250909-Doha-rs-2bd7a8.jpg" alt="Israel strikes Hamas leadership in Qatar" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/quatar/blasts-doha-qatar-israel-hamas-idf-strikes-rcna230038" target="_blank">Israel strikes Hamas leadership in Qatar</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-09 13:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/apple-event/769391/iphone-17-apple-watch-11-ultra-se-airpods-pro-3" target="_blank">iPhone 17 event live blog: on the ground at Apple’s keynote</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-09 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68bf2c88f168795f796b6a27/master/pass/Model-Behavior-Hackathon-Pits-Humans-against-AI-Agents-Business.jpg" alt="Inside the Man vs. Machine Hackathon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,15 +158,6 @@
                 <span class="time">2025-09-09 14:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68bf409be89bf7cecb93b3d6/master/pass/The%20Best%20Dyson%20Hair%20Tools%20You%20Won't%20Regret%20Splurging%20On.png" alt="All the Dyson Hair Tools You’ll Ever Need (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-dyson-hair-tools/" target="_blank">All the Dyson Hair Tools You’ll Ever Need (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-09 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -195,6 +194,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.anthropic.com/news/create-files" target="_blank">Claude can now create and edit files</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-09 14:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.governor.state.nm.us/2025/09/08/new-mexico-is-first-state-in-nation-to-offer-universal-child-care/" target="_blank">New Mexico is first state in US to offer universal child care</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-09-09 14:25</span>
@@ -207,15 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/review/snapdragon-x1e-september" target="_blank">Qualcomm Snapdragon X Elite Linux Performance Improving But Short Of AMD Ryzen &amp; Intel Core Ultra</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-09 13:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/genai-well-being/en/mediumimage/john-gesimondo-medium-1756297240147.jpg" alt="Presentation: Achieving Sustainable Mental Peace at Work Using GenAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/genai-well-being/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Achieving Sustainable Mental Peace at Work Using GenAI</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-09 13:25</span>
             </div>
         </div>
 </div>
@@ -256,6 +255,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/03/Plex_hero.jpg" alt="Update Your Plex Password Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/update-your-plex-password-right-now-2000656067" target="_blank">Update Your Plex Password Right Now</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-09 17:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Star-Wars-Beyond-Victory.jpg" alt="The Next ‘Star Wars’ VR Game Has a New Trailer and Release Date" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -271,6 +279,15 @@
                 <span class="title"><a href="https://kotaku.com/a-bunch-of-resident-evil-games-are-reportedly-getting-switch-2-ports-2000624442" target="_blank">A Bunch Of Resident Evil Games Are Reportedly Getting Switch 2 Ports</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-09-09 15:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Screen-Shot-2025-09-08-at-8.56.18-PM.png?fit=1820%2C1286&amp;quality=55&amp;ssl=1" alt="Students create incredible typewriter art in 1937 film &quot;Able to tick? Tick along&quot;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/09/students-create-incredible-typewriter-art-in-1937-film-able-to-tick-tick-along.html" target="_blank">Students create incredible typewriter art in 1937 film &quot;Able to tick? Tick along&quot;</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-09 15:40</span>
             </div>
         </div>
 <div class="story">
@@ -291,29 +308,20 @@
                 <span class="time">2025-09-09 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/GalaxyFlip7.jpg" alt="Samsung Cuts Galaxy Z Flip7 to Record Low Without Trade-In, Fighting Back Against Apple’s iPhone 17 Release" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/samsung-cuts-galaxy-z-flip7-to-record-low-without-trade-in-fighting-back-against-apples-iphone-17-release-2000624111" target="_blank">Samsung Cuts Galaxy Z Flip7 to Record Low Without Trade-In, Fighting Back Against Apple’s iPhone 17 Release</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-09 13:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4NFF1G8S4KG7Y5RFM4GEHQZ/hero-image.jpg" alt="Everything We Know About the Apple Watch Series 11" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/everything-we-know-about-the-apple-watch-series-11?utm_medium=RSS" target="_blank">Everything We Know About the Apple Watch Series 11</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-09 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1757395025-20250909.png" alt="Saturday Morning Breakfast Cereal - Same" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/same-2" target="_blank">Saturday Morning Breakfast Cereal - Same</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-09-09 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5653.png" alt="Comment Ça Va?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -337,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
