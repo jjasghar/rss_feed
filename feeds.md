@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-09 07:02:19 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-09 08:02:20 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, September 09, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, September 09, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/epstein-birthday-book_1757403735292_hpMain_4x3t_384.jpg" alt="Trump&#x27;s alleged letter among &#x27;Friends&#x27; section in Epstein&#x27;s birthday book" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/gop-led-house-oversight-committee-expected-receive-epstein/story?id=125365100" target="_blank">Trump&#x27;s alleged letter among &#x27;Friends&#x27; section in Epstein&#x27;s birthday book</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-09 07:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/9/icc-opens-war-crimes-hearing-against-ugandan-rebel-joseph-kony?traffic_source=rss" target="_blank">ICC opens war crimes hearing against Ugandan rebel Joseph Kony</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-09 07:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,30 +94,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/185b/live/d0411be0-8ce6-11f0-9cf6-cbf3e73ce2b9.jpg" alt="US lawmakers release Epstein &#x27;birthday book&#x27; with alleged Trump note" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/9/syrian-government-blasts-attacks-by-israeli-warplanes-on-two-cities-report?traffic_source=rss" target="_blank">Syrian government blasts attacks by Israeli warplanes on two cities: Report</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-09 02:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/9/9/rupert-murdoch-seals-deal-passing-control-of-media-empire-to-eldest-son?traffic_source=rss" target="_blank">Rupert Murdoch seals deal passing control of media empire to eldest son</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-09 02:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ed5/live/417e6210-8ce0-11f0-84c8-99de564f0440.jpg" alt="Best and worst-performing NHS Trusts in England named" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq8eqxlypv7o?at_medium=RSS&at_campaign=rss" target="_blank">Best and worst-performing NHS Trusts in England named</a></span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cvgqnn4ngvdo?at_medium=RSS&at_campaign=rss" target="_blank">US lawmakers release Epstein &#x27;birthday book&#x27; with alleged Trump note</a></span>
                 <span class="feed">BBC News</span>
-                <span class="time">2025-09-09 00:36</span>
+                <span class="time">2025-09-09 03:23</span>
             </div>
         </div>
 </div>
@@ -104,6 +107,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/774188/plex-breach-change-password-email" target="_blank">It’s time to change your Plex password again</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-09 07:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/08/openai-denies-that-its-weighing-a-last-ditch-california-exit-amid-regulatory-pressure-over-its-restructuring/" target="_blank">OpenAI denies that it’s weighing a ‘last-ditch’ California exit amid regulatory pressure over its restructuring</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-09 06:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg" alt="Dyson Promo Codes: 20% Off | September 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,24 +161,6 @@
                 <span class="time">2025-09-09 00:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/08/intels-chief-executive-of-products-departs-among-other-leadership-changes/" target="_blank">Intel’s chief executive of products departs among other leadership changes</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-08 23:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/774142/amd-fsr-4-3-1-games-support-upscaling" target="_blank">AMD&amp;#8217;s AI-powered FSR 4 upscaling is now available in most FSR 3.1 games</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-08 22:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +173,15 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/09/09/we-built-stackoverflow-ai-with-the-community-and-for-the-community/" target="_blank">We built stackoverflow.ai with the community and for the community</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-09-09 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai" target="_blank">Mistral AI raises €1.7B to accelerate technological progress with AI</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-09 06:50</span>
             </div>
         </div>
 <div class="story">
@@ -206,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/semgrep/protecting-yourself-from-spear-phishing-attacks-such-as-the-one-targeting-npm-maintainers-with-2fa-4332" target="_blank">Protecting Yourself from Spear Phishing Attacks Such as the One Targeting NPM Maintainers with 2FA Update</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-08 22:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-KVM-Nested-Intel-VMX-Perf" target="_blank">New Linux Patches Enhance Intel Nested Virtualization Performance On Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-08 21:45</span>
             </div>
         </div>
 </div>
@@ -345,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 122 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
