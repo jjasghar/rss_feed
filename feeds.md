@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-09 14:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-09 15:01:41 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Tuesday, September 09, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, September 09, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,10 +45,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/9/video-al-jazeera-reports-from-near-the-scene-of-israeli-strike-in-qatar?traffic_source=rss" target="_blank">Video: Al Jazeera reports from near the scene of Israeli strike in Qatar</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-09 14:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/09/09/nx-s1-5535210/israel-qatar-hamas-doha" target="_blank">Israel says it carried out a strike on Hamas&#x27; main political office in Qatar</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-09 13:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250909-Doha-rs-2bd7a8.jpg" alt="Israel strikes Hamas leadership in Qatar" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/quatar/blasts-doha-qatar-israel-hamas-idf-strikes-rcna230038" target="_blank">Israel strikes Hamas leadership in Qatar</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-09 13:34</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +96,47 @@
                 <span class="time">2025-09-09 11:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/planet-money/2025/09/09/g-s1-87699/private-equity-corporate-landlords" target="_blank">Here&#x27;s what happens when private equity buys homes in your neighborhood</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-09 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/9/ethiopia-inaugurates-gerd-dam-amid-downstream-tensions-with-egypt-sudan?traffic_source=rss" target="_blank">Ethiopia inaugurates GERD dam amid downstream tensions with Egypt, Sudan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-09 10:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/09/apple-intelligence-everything-you-need-to-know-about-apples-ai-model-and-services/" target="_blank">Apple Intelligence: Everything you need to know about Apple’s AI model and services</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-09 14:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/774315/hyundai-concept-three-ev-ioniq-3-star-wars" target="_blank">Hyundai’s out-of-this-world EV concept is a glimpse at the upcoming Ioniq 3</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-09 14:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/migflash-500x500.jpg" alt="Switch modder owes Nintendo $2 million after representing himself in court" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2025/09/switch-modder-who-acted-as-his-own-lawyer-now-owes-nintendo-2-million/" target="_blank">Switch modder owes Nintendo $2 million after representing himself in court</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-09 14:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68bf409be89bf7cecb93b3d6/master/pass/The%20Best%20Dyson%20Hair%20Tools%20You%20Won't%20Regret%20Splurging%20On.png" alt="All the Dyson Hair Tools You’ll Ever Need (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-dyson-hair-tools/" target="_blank">All the Dyson Hair Tools You’ll Ever Need (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-09 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68670ed16769133a6baf160e/master/pass/Best%20fan%20update.png" alt="The 15 Best Fans to Cool You Year Round (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -121,47 +155,38 @@
                 <span class="time">2025-09-09 12:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/774236/nintendo-switch-2-genki-lawsuit-settlement" target="_blank">Genki will pay Nintendo damages over 3D-printed Switch 2</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-09 09:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/774188/plex-breach-change-password-email" target="_blank">It’s time to change your Plex password again</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-09 07:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/08/openai-denies-that-its-weighing-a-last-ditch-california-exit-amid-regulatory-pressure-over-its-restructuring/" target="_blank">OpenAI denies that it’s weighing a ‘last-ditch’ California exit amid regulatory pressure over its restructuring</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-09 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" alt="50% Off LG Promo Codes &amp; Coupons" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/lg-promo-code/" target="_blank">50% Off LG Promo Codes &amp; Coupons</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-09 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/its_renuka_/today-i-learned-counting-digits-in-java-2e9n" target="_blank">🔢 Today I Learned: Counting Digits in Java</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-09 14:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.governor.state.nm.us/2025/09/08/new-mexico-is-first-state-in-nation-to-offer-universal-child-care/" target="_blank">New Mexico is first state in US to offer universal child care</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-09 14:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/genai-well-being/en/mediumimage/john-gesimondo-medium-1756297240147.jpg" alt="Presentation: Achieving Sustainable Mental Peace at Work Using GenAI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/genai-well-being/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Achieving Sustainable Mental Peace at Work Using GenAI</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-09 13:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -187,33 +212,6 @@
                 <span class="title"><a href="https://dev.to/ilsa_shaikh_089e2bfab0bf4/reactjs-hacks-part-2-next-level-tricks-for-clean-powerful-code-2k27" target="_blank">✨React.js Hacks: Part 2 - Next-Level Tricks for Clean &amp; Powerful Code</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-09 10:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GPD-Sensor-Driver-Linux-6.18" target="_blank">Linux Sensor Driver Coming For GPD Handhelds</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-09 10:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/KDE-Plasma-6.4.5" target="_blank">KDE Plasma 6.4.5 Released With Fix For &quot;Extreme Stuttering&quot; On Intel Graphics</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-09 09:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/how-we-ran-an-effective-sprint-to-refresh-our-design-website-part-2" target="_blank">How we ran a sprint to refresh our design website, Part 2</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-09-09 09:16</span>
             </div>
         </div>
 </div>
@@ -253,6 +251,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2H5YQN6Q05JQMCRMXNHNY5/hero-image.png" alt="These Weather Apps Actually Care About Your Privacy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/these-weather-apps-actually-care-about-your-privacy-1850342974?utm_medium=RSS" target="_blank">These Weather Apps Actually Care About Your Privacy</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-09 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/GalaxyFlip7.jpg" alt="Samsung Cuts Galaxy Z Flip7 to Record Low Without Trade-In, Fighting Back Against Apple’s iPhone 17 Release" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -298,15 +305,6 @@
                 <span class="time">2025-09-09 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/04/crashed-tesla.jpg?fit=1500%2C1125&amp;quality=60&amp;ssl=1" alt="The party&#x27;s over: Tesla&#x27;s EV dominance takes a nosedive" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/08/the-partys-over-teslas-ev-dominance-takes-a-nosedive.html" target="_blank">The party&#x27;s over: Tesla&#x27;s EV dominance takes a nosedive</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-09 00:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -344,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 123 | 📡 Total Sources: 41 | 📸 With Images: 257 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
