@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-09 22:01:25 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-09-09 23:01:53 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Tuesday, September 09, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, September 09, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/09/nx-s1-5535578/hollywood-stars-boycott-israeli-film-companies-in-response-to-gaza-crisis" target="_blank">Hollywood stars boycott Israeli film companies in response to Gaza crisis</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-09 22:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/doha-2-rt-gmh-250909_1757424603297_hpMain_4x3t_384.jpg" alt="Israel told US military of plan to strike Hamas, but didn&#x27;t say where: US official" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,6 +86,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250904-donald-trump-mn-1220-a67568.jpg" alt="Supreme Court agrees to quickly decide whether Trump&#x27;s tariffs are legal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/supreme-court-agrees-consider-whether-trumps-tariffs-are-legal-rcna229069" target="_blank">Supreme Court agrees to quickly decide whether Trump&#x27;s tariffs are legal</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-09 20:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a170/live/3bdb93c0-8d88-11f0-b391-6936825093bd.jpg" alt="Hamas claims leadership survived Israeli attack in Doha, but confirms six deaths" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
@@ -82,29 +103,20 @@
                 <span class="time">2025-09-09 20:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/karoline-leavitt-7-gty-gmh-250909_1757440841481_hpMain_4x3t_384.jpg" alt="White House says Israel&#x27;s strike in Doha &#x27;does not advance Israel or America&#x27;s goals&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/white-house-israels-strike-doha-advance-israel-americas/story?id=125408850" target="_blank">White House says Israel&#x27;s strike in Doha &#x27;does not advance Israel or America&#x27;s goals&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-09 19:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-nepal-protest-cordelia-lynch_7015591.jpg?20250909211547" alt="Nepal protests a powder keg moment that could change the country for years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/nepals-anti-government-protests-are-a-powder-keg-moment-that-could-change-the-country-for-years-13427828" target="_blank">Nepal protests a powder keg moment that could change the country for years</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-09 19:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/Apple-iPhone-17-Pro-color-lineup-250909-500x500.jpg" alt="New iPhones use Apple N1 wireless chip—and we’ll probably start seeing it everywhere" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/apples-n1-chip-extends-its-custom-silicon-into-wi-fi-bluetooth-and-thread/" target="_blank">New iPhones use Apple N1 wireless chip—and we’ll probably start seeing it everywhere</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-09 22:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/IMG_5808-500x500.jpeg" alt="Hands-on with the iPhone 17 lineup, including the wispy Air and the lumpy Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -126,6 +138,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/775230/anthropic-piracy-class-action-lawsuit-settlement-rejected" target="_blank">Judge puts Anthropic&amp;#8217;s $1.5 billion book piracy settlement on hold</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-09 21:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/09/09/apples-creator-centric-iphone-17-pro-will-make-the-vlogging-camera-obsolete/" target="_blank">Apple’s creator-centric iPhone 17 Pro will make the vlogging camera obsolete</a></span>
                 <span class="feed">TechCrunch</span>
@@ -139,24 +160,6 @@
                 <span class="title"><a href="https://www.wired.com/story/everything-apple-announced-iphone-air-iphone-17-apple-watches-airpods-pro-3/" target="_blank">Everything Apple Announced: iPhone Air, iPhone 17, Apple Watches, AirPods Pro 3</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-09-09 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/09/apple-unveils-apple-watch-series-11-watch-ultra-3-and-watch-se-3/" target="_blank">Apple unveils Apple Watch Series 11, Watch Ultra 3, and Watch SE 3</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-09 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-500x500.jpeg" alt="As hackers exploit one high-severity SAP flaw, company warns of 3 more" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2025/09/as-hackers-exploit-one-high-severity-sap-flaw-company-warns-of-3-more/" target="_blank">As hackers exploit one high-severity SAP flaw, company warns of 3 more</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-09 19:55</span>
             </div>
         </div>
 </div>
@@ -226,19 +229,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/new-cryptanalysis-of-the-fiat-shamir-protocol.html" target="_blank">New Cryptanalysis of the Fiat-Shamir Protocol</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-09-09 11:02</span>
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/09/microsoft-patch-tuesday-september-2025-edition/" target="_blank">Microsoft Patch Tuesday, September 2025 Edition</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-09-09 21:21</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/09/18-popular-code-packages-hacked-rigged-to-steal-crypto/" target="_blank">18 Popular Code Packages Hacked, Rigged to Steal Crypto</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-09-08 22:53</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/new-cryptanalysis-of-the-fiat-shamir-protocol.html" target="_blank">New Cryptanalysis of the Fiat-Shamir Protocol</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-09-09 11:02</span>
             </div>
         </div>
 </div>
@@ -247,12 +250,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Dolly-Fantastic-Fest.jpg" alt="The 15 Wildest, Coolest Films We Can’t Wait to See at Fantastic Fest 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-15-wildest-coolest-films-we-cant-wait-to-see-at-fantastic-fest-2025-2000654109" target="_blank">The 15 Wildest, Coolest Films We Can’t Wait to See at Fantastic Fest 2025</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-09 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4R5ZD4S8VYSR3P7E2AEP1WR/hero-image.jpg" alt="Some iPhone Users Are Getting Another Year of Free Satellite Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-iphone-users-getting-another-year-of-free-satellite-features?utm_medium=RSS" target="_blank">Some iPhone Users Are Getting Another Year of Free Satellite Features</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-09 22:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K4R1GXFH9KM25HFPWY066R2H/hero-image.jpg" alt="The AirPods Pro 3 Will Be More Forgiving for the Tiny-Eared" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
                 <span class="title"><a href="https://lifehacker.com/tech/airpods-pro-3-are-more-forgiving-for-the-tine-eared?utm_medium=RSS" target="_blank">The AirPods Pro 3 Will Be More Forgiving for the Tiny-Eared</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-09 21:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/iphone-air.jpg?fit=1200%2C702&amp;quality=60&amp;ssl=1" alt="New iPhone Air promises &quot;paradox&quot; experience, investors unimpressed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/09/new-iphone-air-promises-paradox-experience-investors-unimpressed.html" target="_blank">New iPhone Air promises &quot;paradox&quot; experience, investors unimpressed</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-09 21:05</span>
             </div>
         </div>
 <div class="story">
@@ -271,33 +301,6 @@
                 <span class="title"><a href="https://kotaku.com/playstation-ps5-best-selling-games-all-time-gta-minecraft-2000624513" target="_blank">The Top 20 Best-Selling Games Ever On PlayStation In The U.S. Is A Very Sad List</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-09-09 20:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4R1QP75CN5Y064YYV23D7NK/hero-image.png" alt="The iPhone 17 Center Stage Camera Will Make Selfies a Whole Lot Easier" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/iphone-17-center-stage-camera-will-make-landscape-selfies-easier?utm_medium=RSS" target="_blank">The iPhone 17 Center Stage Camera Will Make Selfies a Whole Lot Easier</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-09 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Screenshot-2025-09-09-at-1.23.16-PM.png?fit=596%2C612&amp;quality=55&amp;ssl=1" alt="Epstein documents not a hoax, Leavitt says, but the &quot;narrative&quot; is" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/09/epstein-documents-not-a-hoax-leavitt-says-but-the-narrative-is.html" target="_blank">Epstein documents not a hoax, Leavitt says, but the &quot;narrative&quot; is</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-09 20:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4QWRY9JTPRNN5TWTBT91JZR/hero-image.png" alt="Apple’s ‘Awe Dropping’ Event Actually Included Some Big Apple Watch Updates" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-watch-news-awe-dropping-event?utm_medium=RSS" target="_blank">Apple’s ‘Awe Dropping’ Event Actually Included Some Big Apple Watch Updates</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-09 19:30</span>
             </div>
         </div>
 </div>
@@ -323,22 +326,13 @@
                 <span class="time">2025-09-09 01:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/09/08/hollowgram" target="_blank">Hollowgram</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-09-08 23:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
