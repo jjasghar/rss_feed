@@ -1,29 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-09-09 19:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-09 20:01:51 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 21 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, September 09, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, September 09, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/karoline-leavitt-7-gty-gmh-250909_1757440841481_hpMain_4x3t_384.jpg" alt="White House says Israel&#x27;s strike in Doha &#x27;does not advance Israel or America&#x27;s goals&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/white-house-israels-strike-doha-advance-israel-americas/story?id=125408850" target="_blank">White House says Israel&#x27;s strike in Doha &#x27;does not advance Israel or America&#x27;s goals&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-09 19:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/9/nepali-pm-forced-to-step-down-parliament-torched-amid-deadly-protests?traffic_source=rss" target="_blank">Nepali PM forced to step down, parliament torched amid deadly protests</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-09 19:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250808-robert-f-kennedy-jr-ice-cream-ew-1245p-678222.jpg" alt="RFK Jr.&#x27;s new &#x27;MAHA&#x27; report outlines steps to improve kids&#x27; health but is short on specifics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,29 +104,38 @@
                 <span class="time">2025-09-09 16:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757433602069_now_mnn_israel_blast_qatar_250909_1920x1080-yo3oi2.jpg" alt="Israel carries out strike on Qatari capital targeting Hamas leaders" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/israel-carries-out-strike-on-qatari-capital-targeting-hamas-leaders-247184453755" target="_blank">Israel carries out strike on Qatari capital targeting Hamas leaders</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-09 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-5-gty-gmh-250909_1757422056677_hpMain_4x3t_384.jpg" alt="&#x27;It&#x27;s a dead issue&#x27;: Trump declines to comment on alleged Epstein letter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/dead-issue-trump-declines-comment-alleged-epstein-birthday/story?id=125396648" target="_blank">&#x27;It&#x27;s a dead issue&#x27;: Trump declines to comment on alleged Epstein letter</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-09 15:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/09/apple-unveils-apple-watch-series-11-watch-ultra-3-and-watch-se-3/" target="_blank">Apple unveils Apple Watch Series 11, Watch Ultra 3, and Watch SE 3</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-09 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-500x500.jpeg" alt="As hackers exploit one high-severity SAP flaw, company warns of 3 more" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/09/as-hackers-exploit-one-high-severity-sap-flaw-company-warns-of-3-more/" target="_blank">As hackers exploit one high-severity SAP flaw, company warns of 3 more</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-09 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68c07312702fc9638c8c19f2/master/pass/Apple-iPhone-Air-color-lineup-250909.jpg" alt="The iPhone 17 Series Gets the Biggest iPhone Design Refresh in Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/apple-iphone-17-iphone-air-and-iphone-17-pro/" target="_blank">The iPhone 17 Series Gets the Biggest iPhone Design Refresh in Years</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-09 19:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -125,38 +163,29 @@
                 <span class="time">2025-09-09 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/01/switch2mockup2-500x500.png" alt="Accessory maker will pay Nintendo after showing illicit Switch 2 mockups at CES" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2025/09/accessory-maker-will-pay-nintendo-after-showing-illicit-switch-2-mockups-at-ces/" target="_blank">Accessory maker will pay Nintendo after showing illicit Switch 2 mockups at CES</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-09 15:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/09/apple-intelligence-everything-you-need-to-know-about-apples-ai-model-and-services/" target="_blank">Apple Intelligence: Everything you need to know about Apple’s AI model and services</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-09 14:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/774315/hyundai-concept-three-ev-ioniq-3-star-wars" target="_blank">Hyundai’s out-of-this-world EV concept is a glimpse at the upcoming Ioniq 3</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-09 14:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.bancreek.com/p/demise-of-dynamic-duo/" target="_blank">Fed helpless as US economy faces structural challenges, not monetary</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-09 19:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18605671&w=600" alt="Tutorial: RAG at Scale With Vector Databases vs. Lakehouse Architectures" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/tutorial-rag-at-scale-with-vector-databases-vs-lakehouse" target="_blank">Tutorial: RAG at Scale With Vector Databases vs. Lakehouse Architectures</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-09 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F717518%2Fb550b165-b8b9-405d-acfb-e5dc846765b0.png" alt="Construyendo Agentes Strands con pocas líneas de código: Comunicación Agente a Agente (A2A)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -164,6 +193,15 @@
                 <span class="title"><a href="https://dev.to/aws-espanol/construyendo-agentes-strands-con-pocas-lineas-de-codigo-comunicacion-agente-a-agente-a2a-gdk" target="_blank">Construyendo Agentes Strands con pocas líneas de código: Comunicación Agente a Agente (A2A)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-09 18:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FEX-2509-Released" target="_blank">FEX 2509 Delivers More Performance For x86 Binaries On ARM64 Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-09 18:28</span>
             </div>
         </div>
 <div class="story">
@@ -182,33 +220,6 @@
                 <span class="title"><a href="https://dzone.com/articles/blockchain-authentication-secure-identity-verification" target="_blank">Blockchain-Based Authentication: The Future of Secure Identity Verification</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-09-09 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rebecagoisdev/beware-of-npm-packages-the-largest-supply-chain-attack-in-history-7ke" target="_blank">Beware of npm Packages: The Largest Supply Chain Attack in History</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-09 15:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/5542514b-fea4-4eda-a571-ed93f44711ff_420x300.png" alt="Inside Google&#x27;s Engineering Culture: Part 1" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/google" target="_blank">Inside Google&#x27;s Engineering Culture: Part 1</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-09-09 15:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://xeiaso.net/notes/2025/we-dodged-a-bullet/" target="_blank">We all dodged a bullet</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-09 15:11</span>
             </div>
         </div>
 </div>
@@ -239,6 +250,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4QWRY9JTPRNN5TWTBT91JZR/hero-image.png" alt="Apple’s ‘Awe Dropping’ Event Actually Included Some Big Apple Watch Updates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-watch-news-awe-dropping-event?utm_medium=RSS" target="_blank">Apple’s ‘Awe Dropping’ Event Actually Included Some Big Apple Watch Updates</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-09 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/Ultimate-FPS-II-Gyro-Touch-Design-Build-YouTube-0-27-53.jpeg" alt="This Wild DIY Gyro Controller Shows Just How Boring Modern Gamepads Are" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gaming-controllers-gyro-trackpad-scuf-mouse-keyboard-2000624503" target="_blank">This Wild DIY Gyro Controller Shows Just How Boring Modern Gamepads Are</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-09 19:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/shutterstock_2639942717-e1756488851256.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="MAGA Mike suggests people welcome military occupations of their hometowns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +302,6 @@
                 <span class="title"><a href="https://kotaku.com/star-wars-outlaws-switch-2-port-patch-is-it-good-2000624465" target="_blank">Switch 2’s Most Visually Impressive Port Just Got Better</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-09-09 16:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Star-Wars-Beyond-Victory.jpg" alt="The Next ‘Star Wars’ VR Game Has a New Trailer and Release Date" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-wars-beyond-victory-vr-release-date-trailer-2000655685" target="_blank">The Next ‘Star Wars’ VR Game Has a New Trailer and Release Date</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-09 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/07/c71b0156783d163d32b709bee66d27bc.jpg" alt="A Bunch Of Resident Evil Games Are Reportedly Getting Switch 2 Ports" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/a-bunch-of-resident-evil-games-are-reportedly-getting-switch-2-ports-2000624442" target="_blank">A Bunch Of Resident Evil Games Are Reportedly Getting Switch 2 Ports</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-09 15:42</span>
             </div>
         </div>
 </div>
@@ -330,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 41 | 📸 With Images: 264 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
