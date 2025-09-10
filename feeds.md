@@ -1,39 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-10 00:04:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-10 01:29:33 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Wednesday, September 10, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, September 10, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,10 +47,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/09/nx-s1-5535887/nepal-protests-gen-z-explained" target="_blank">What to know about the mass Gen Z protests in Nepal</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-10 00:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/9/israeli-russian-researcher-freed-in-iraq-after-two-years-in-captivity?traffic_source=rss" target="_blank">Israeli-Russian researcher freed in Iraq after two years in captivity</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-09 23:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/kennedy-hearing-14-ap-gmh-250904_1756996780743_hpMain_4x3t_384.jpg" alt="Trump signs memorandum pressuring pharma companies to abide by ad laws" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-signs-memorandum-pressuring-pharma-companies-abide-ad/story?id=125404162" target="_blank">Trump signs memorandum pressuring pharma companies to abide by ad laws</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-09 23:26</span>
             </div>
         </div>
 <div class="story">
@@ -85,29 +98,20 @@
                 <span class="time">2025-09-09 21:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/doha-2-rt-gmh-250909_1757424603297_hpMain_4x3t_384.jpg" alt="Israel told US military of plan to strike Hamas, but didn&#x27;t say where: US official" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/israel-told-us-military-plan-strike-hamas-us/story?id=125413197" target="_blank">Israel told US military of plan to strike Hamas, but didn&#x27;t say where: US official</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-09 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/9/frances-macron-names-sebastien-lecornu-prime-minister?traffic_source=rss" target="_blank">Macron names close ally Sebastien Lecornu as new French PM</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-09 21:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/775234/iphone-17-air-a19-memory-integrity-enforcement-mte-security" target="_blank">Apple says the iPhone 17 comes with a massive security upgrade</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-10 00:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68bf5d9c38f0968393a2d235/master/pass/Apple-Best-Feature-Has-Been-on-Android-Gear.jpg" alt="Apple’s Best New iOS 26 Feature Has Been on Pixel Phones for Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +157,20 @@
                 <span class="time">2025-09-09 21:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/775230/anthropic-piracy-class-action-lawsuit-settlement-rejected" target="_blank">Judge puts Anthropic&amp;#8217;s $1.5 billion book piracy settlement on hold</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-09 21:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-25.10-Lands-Linux-6.17" target="_blank">Linux 6.17 Successfully Lands In Ubuntu 25.10</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-10 00:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,21 +208,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/ubuntu-questing.jpg?resize=406%2C232&amp;ssl=1" alt="Linux 6.17 Kernel Arrives in Ubuntu 25.10 Daily Builds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Rust-Coreutils-0.2.2" target="_blank">Rust Coreutils 0.2.2 Released With Faster base64: Outperforming GNU&#x27;s base64</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-09 20:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18605689&w=600" alt="Using ChartMuseum as a Helm Repository" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/using-chartmuseum-as-a-helm-repository" target="_blank">Using ChartMuseum as a Helm Repository</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-09 20:00</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/linux-6-17-kernel-update-ubuntu-25-10" target="_blank">Linux 6.17 Kernel Arrives in Ubuntu 25.10 Daily Builds</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-09 20:46</span>
             </div>
         </div>
 </div>
@@ -309,6 +304,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5654.png" alt="Questionable Content" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5654" target="_blank">Questionable Content</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-09-10 01:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1757395025-20250909.png" alt="Saturday Morning Breakfast Cereal - Same" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -317,22 +321,13 @@
                 <span class="time">2025-09-09 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5653.png" alt="Comment Ça Va?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5653" target="_blank">Comment Ça Va?</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-09-09 01:11</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
