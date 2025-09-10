@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-10 07:01:56 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-09-10 08:02:38 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, September 10, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, September 10, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +49,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/10/nx-s1-5536450/poland-russia-drones-airspace-ukraine" target="_blank">Poland says it shot down Russian drones that violated its airspace</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-10 07:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/GettyImages-595081313_1757475972603_hpMain_4x3t_384.jpg" alt="Poland downs Russian drones as &#x27;huge number&#x27; violate airspace, prime minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/poland-airspace-repeatedly-violated-drone-type-objects-amid/story?id=125422386" target="_blank">Poland downs Russian drones as &#x27;huge number&#x27; violate airspace, prime minister says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-10 07:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/10/afghanistan-dominate-hong-kong-in-asia-cup-2025-cricket-opener?traffic_source=rss" target="_blank">Afghanistan dominate Hong Kong in Asia Cup 2025 cricket opener</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-10 07:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2cc/live/0e922040-8d6b-11f0-9cf6-cbf3e73ce2b9.jpg" alt="UK&#x27;s first &#x27;super-university&#x27; to be created as two merge from 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy85905dj2wo?at_medium=RSS&at_campaign=rss" target="_blank">UK&#x27;s first &#x27;super-university&#x27; to be created as two merge from 2026</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-10 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/09/09/nx-s1-5529281/appeals-court-lisa-cook-federal-reserve-independence-trump" target="_blank">Federal judge blocks Trump from firing Fed Governor Lisa Cook, for now</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-10 03:29</span>
@@ -63,42 +97,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/judge-temporarily-blocks-trumps-firing-lisa-cook-federal-reserve-rcna230241" target="_blank">Judge temporarily blocks Trump&#x27;s firing of Federal Reserve governor Lisa Cook</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-09-10 02:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/09/nx-s1-5535887/nepal-protests-gen-z-explained" target="_blank">What to know about the mass Gen Z protests in Nepal</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-10 00:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/10/israel-kills-dozens-in-gaza-qatar-calls-israels-attack-state-terror?traffic_source=rss" target="_blank">Israel kills over 50 in Gaza; Qatar calls Israeli attack ‘state terror’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-10 00:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/9/israeli-russian-researcher-freed-in-iraq-after-two-years-in-captivity?traffic_source=rss" target="_blank">Israeli-Russian researcher freed in Iraq after two years in captivity</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-09 23:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/kennedy-hearing-14-ap-gmh-250904_1756996780743_hpMain_4x3t_384.jpg" alt="Trump signs memorandum pressuring pharma companies to abide by ad laws" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-signs-memorandum-pressuring-pharma-companies-abide-ad/story?id=125404162" target="_blank">Trump signs memorandum pressuring pharma companies to abide by ad laws</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-09 23:26</span>
             </div>
         </div>
 </div>
@@ -169,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kazutora_hattori_66972c88/one-tool-for-both-registration-and-editing-basic-techniques-for-reusing-forms-in-react-5f81" target="_blank">One tool for both registration and editing! Basic Techniques for Reusing Forms in React</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-10 07:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/snehasishkonger/5-best-free-image-conversion-tools-you-can-use-right-now-63l" target="_blank">5 Best Free Image Conversion Tools You Can Use Right Now</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-10 03:50</span>
@@ -208,15 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Arm-Lumex-Platform-C1" target="_blank">Arm Announces Lumex Platform With C1 CPUs Boasting SME2, Mali G1-Ultra GPU</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-10 02:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-25.10-Lands-Linux-6.17" target="_blank">Linux 6.17 Successfully Lands In Ubuntu 25.10</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-10 00:39</span>
             </div>
         </div>
 </div>
@@ -329,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
