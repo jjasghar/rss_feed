@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-10 16:02:02 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-10 17:01:47 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, September 10, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, September 10, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/10/nx-s1-5536570/trump-dc-restaurant-protests-joes-seafood" target="_blank">Trump makes a rare D.C. restaurant visit to tout his federal crackdown on crime</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-10 16:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +97,29 @@
                 <span class="time">2025-09-10 12:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/10/iran-and-un-appear-at-odds-over-nuclear-deal?traffic_source=rss" target="_blank">Iran and UN appear at odds over nuclear deal</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-10 12:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/10/humanoids-avs-and-whats-next-in-ai-hardware-at-techcrunch-disrupt-2025/" target="_blank">Humanoids, AVs, and what’s next in AI hardware at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-10 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/773089/apple-watch-se-3-series-11-ultra-3-preorder-buy-price-release-date" target="_blank">How to preorder the Apple Watch SE 3, Apple Watch Series 11, and Apple Watch Ultra 3</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-10 16:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,24 +156,6 @@
                 <span class="time">2025-09-10 13:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6859cd35076cba5cdfcdd66d/master/pass/HYDRATION%20PACKS.png" alt="13 Best Electrolyte Powders (2025): Tasty and Effective" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-electrolyte-powders/" target="_blank">13 Best Electrolyte Powders (2025): Tasty and Effective</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-10 13:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/10/jaguar-land-rover-says-data-stolen-in-disruptive-cyberattack/" target="_blank">Jaguar Land Rover says data stolen in disruptive cyberattack</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-10 13:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -170,6 +168,33 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/09/10/ai-vs-gen-z/" target="_blank">AI vs Gen Z: How AI has changed the career pathway for junior developers</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-09-10 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fglama.ai%2Fuploads%2F1ba7e0zhbk" alt="Rethinking Tool Calling: Towards a Scalable Standard" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/om_shree_0709/rethinking-tool-calling-towards-a-scalable-standard-3pbe" target="_blank">Rethinking Tool Calling: Towards a Scalable Standard</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-10 16:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.thenexus.media/tiktok-won-now-everything-is-60-seconds/" target="_blank">TikTok won. Now everything is 60 seconds</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-10 16:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18610122&w=600" alt="Crafting Keys: Best Naming Strategies and Sorting Techniques in Redis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/best-naming-strategies-and-sorting-techniques-redis" target="_blank">Crafting Keys: Best Naming Strategies and Sorting Techniques in Redis</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-10 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -188,33 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/openSUSE-Disabling-Bcachefs" target="_blank">openSUSE Disabling Bcachefs Support For Its Linux 6.17+ Kernel Builds</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-10 15:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://zettelkasten.de/posts/the-scam-called-you-dont-have-to-remember-anything/" target="_blank">The Scam Called &quot;You Don&#x27;t Have to Remember Anything&quot;</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-10 14:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz97e8hisv5f3k24j1kxs.png" alt="V-Reel AI Generator" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aniruddhaadak/v-reel-ai-generator-189d" target="_blank">V-Reel AI Generator</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-10 13:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/llm-data-code-model-prompt/en/mediumimage/paul-iusztin-medium-1756298947850.jpeg" alt="Presentation: The Data Backbone of LLM Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/llm-data-code-model-prompt/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: The Data Backbone of LLM Systems</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-10 13:40</span>
             </div>
         </div>
 </div>
@@ -236,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/knolling-clips.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="&quot;They will be treasured&quot;: Unusual paper clip collection finds new guardians" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/10/they-will-be-treasured-unusual-paper-clip-collection-finds-new-guardians.html" target="_blank">&quot;They will be treasured&quot;: Unusual paper clip collection finds new guardians</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-10 16:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4T30YC2ZCMG0W6SA42ZX53Y/hero-image.jpg" alt="Spotify Finally Supports Lossless Audio" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/spotify-finally-supports-lossless-audio?utm_medium=RSS" target="_blank">Spotify Finally Supports Lossless Audio</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-10 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/scam-hackers.jpg" alt="Don’t Let Hackers Win, This 60% Off Solution Keeps Your Identity Safe at All Times" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +288,6 @@
                 <span class="time">2025-09-10 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4SNJQ7R0Z7NZH6GH9S0JC1G/hero-image.jpg" alt="How the New Apple Watch SE 3 Stacks Up Against the Series 11" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-new-apple-watch-se-3-stacks-up-against-series-11?utm_medium=RSS" target="_blank">How the New Apple Watch SE 3 Stacks Up Against the Series 11</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-10 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/dell-inspi-laptop.jpg" alt="This Dell Laptop with Ryzen 7 and Crazy Specs Is 73% Off on Amazon, Stock Is Flying Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/this-dell-laptop-with-ryzen-7-and-crazy-specs-is-73-off-on-amazon-stock-is-flying-out-2000624609" target="_blank">This Dell Laptop with Ryzen 7 and Crazy Specs Is 73% Off on Amazon, Stock Is Flying Out</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-10 13:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -298,10 +296,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/birds-on-the-moon/" target="_blank">Birds on the Moon</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2025-09-10 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1757395084-20250910.png" alt="Saturday Morning Breakfast Cereal - Suffering" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/suffering-4" target="_blank">Saturday Morning Breakfast Cereal - Suffering</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-09-10 15:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://www.penny-arcade.com/comic/2025/09/10/deadheads" target="_blank">Deadheads</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2025-09-10 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/biology_department.png" alt="Biology Department" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3140/" target="_blank">Biology Department</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-09-10 04:00</span>
             </div>
         </div>
 <div class="story">
@@ -318,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
