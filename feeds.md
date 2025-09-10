@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-10 06:02:30 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-10 07:01:56 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 23 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, September 10, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, September 10, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +109,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/cameras/775373/nikons-first-red-co-brand-is-the-nikon-zr" target="_blank">Nikon&amp;#8217;s first RED co-brand is the Nikon ZR</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-10 06:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/09/09/robinhood-embraces-copy-trading-after-warning-competitors-about-regulatory-risks/" target="_blank">Robinhood embraces copy trading after warning competitors about regulatory risks</a></span>
                 <span class="feed">TechCrunch</span>
@@ -145,15 +160,6 @@
                 <span class="time">2025-09-09 23:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/775309/apple-iphone-14-15-satellite-connectivity-free" target="_blank">Apple is giving iPhone 14 and 15 users another free year of satellite features</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-09 23:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +181,15 @@
                 <span class="title"><a href="https://itsfoss.com/compose-key-gnome-linux/" target="_blank">I Discovered the Wonderful Compose Key After 15 Years of Using Linux</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2025-09-10 03:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://joshfonseca.com/blogs/animal-crossing-llm" target="_blank">I replaced Animal Crossing&#x27;s dialogue with a live LLM by hacking GameCube memory</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-10 02:59</span>
             </div>
         </div>
 <div class="story">
@@ -202,15 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-25.10-Lands-Linux-6.17" target="_blank">Linux 6.17 Successfully Lands In Ubuntu 25.10</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-10 00:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/raghavendrake/numbee-number-arrange-puzzle-5gl1" target="_blank">Numbee (Number Arrange Puzzle)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-09 23:43</span>
             </div>
         </div>
 </div>
@@ -323,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
