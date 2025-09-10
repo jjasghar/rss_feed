@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-10 15:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-10 16:02:02 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, September 10, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, September 10, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/10/pro-palestine-protests-bring-extraordinary-security-for-spains-vuelta?traffic_source=rss" target="_blank">Pro-Palestine protests bring ‘extraordinary’ security for Spain’s Vuelta</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-10 15:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/10/iran-and-un-appear-at-odds-over-nuclear-deal?traffic_source=rss" target="_blank">Iran and UN appear at odds over nuclear deal</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-10 12:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/09/10/g-s1-87614/dr-peter-hotez-science-rfk-jr" target="_blank">Dr. Peter Hotez takes the war against science very personally</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-10 11:18</span>
             </div>
         </div>
 </div>
@@ -171,6 +173,33 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq5k7yewo9a8hzxuceana.png" alt="A Step-by-Step Guide to Checking Image and Video Safety Using an HTML Editor Software" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ideradevtools/a-step-by-step-guide-to-checking-image-and-video-safety-using-an-html-editor-software-48o0" target="_blank">A Step-by-Step Guide to Checking Image and Video Safety Using an HTML Editor Software</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-10 15:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/openSUSE-Disabling-Bcachefs" target="_blank">openSUSE Disabling Bcachefs Support For Its Linux 6.17+ Kernel Builds</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-10 15:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://zettelkasten.de/posts/the-scam-called-you-dont-have-to-remember-anything/" target="_blank">The Scam Called &quot;You Don&#x27;t Have to Remember Anything&quot;</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-10 14:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz97e8hisv5f3k24j1kxs.png" alt="V-Reel AI Generator" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -180,39 +209,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://res.infoq.com/presentations/llm-data-code-model-prompt/en/mediumimage/paul-iusztin-medium-1756298947850.jpeg" alt="Presentation: The Data Backbone of LLM Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Hyprland-0.51" target="_blank">Hyprland 0.51 Compositor Released With Reworked Gesture System, New Animations</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-10 13:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/static-workspace.jpg?resize=406%2C232&amp;ssl=1" alt="Stop Wallpaper Moving When You Switch Workspace in GNOME" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/static-workspace-background-gnome-extension" target="_blank">Stop Wallpaper Moving When You Switch Workspace in GNOME</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-10 12:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Pogocache-1.2-Released" target="_blank">Pogocache 1.2 Now Uses Microsoft&#x27;s Mimalloc By Default: &quot;Excellent Performance&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-10 12:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa896t6c60qv8ri6ltm40.png" alt="GitHub Coding Agent the Magical Autonomous AI: The Prequel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/anchildress1/github-coding-agent-the-magical-autonomous-ai-the-prequel-4h11" target="_blank">GitHub Coding Agent the Magical Autonomous AI: The Prequel</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-10 11:52</span>
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/llm-data-code-model-prompt/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: The Data Backbone of LLM Systems</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-10 13:40</span>
             </div>
         </div>
 </div>
@@ -234,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/scam-hackers.jpg" alt="Don’t Let Hackers Win, This 60% Off Solution Keeps Your Identity Safe at All Times" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dont-let-hackers-win-this-60-off-solution-keeps-your-identity-safe-at-all-times-2000624647" target="_blank">Don’t Let Hackers Win, This 60% Off Solution Keeps Your Identity Safe at All Times</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-10 15:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/ringing-black-holes-illustration-gw250114.jpg" alt="LIGO’s Sharpest Detection Yet Confirms Famous Stephen Hawking Theory" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +290,6 @@
                 <span class="time">2025-09-10 13:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/1751TEASER1200-rfk-jr-brain-worm-medical-science.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Tom the Dancing Bug: RFK Jr.&#x27;s Brain Worm presents The History of Medical Science" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/10/tom-the-dancing-bug-rfk-jr-s-brain-worm-presents-the-history-of-medical-science.html" target="_blank">Tom the Dancing Bug: RFK Jr.&#x27;s Brain Worm presents The History of Medical Science</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-10 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,22 +313,13 @@
                 <span class="time">2025-09-10 01:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1757395025-20250909.png" alt="Saturday Morning Breakfast Cereal - Same" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/same-2" target="_blank">Saturday Morning Breakfast Cereal - Same</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-09-09 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
