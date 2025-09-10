@@ -1,43 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-10 18:01:50 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-09-10 19:01:37 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 11 new posts out of 33 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, September 10, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, September 10, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/charlie-kirk-gty-lv-240715_1721094534329_hpMain_2_4x3t_384.jpg" alt="Charlie Kirk shot during event at Utah university, JD Vance says to &#x27;say a prayer&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/charlie-kirk-shot-event-utah-university-jd-vance/story?id=125451514" target="_blank">Charlie Kirk shot during event at Utah university, JD Vance says to &#x27;say a prayer&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-10 18:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -98,20 +96,29 @@
                 <span class="time">2025-09-10 15:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/09/10/nx-s1-5535877/california-shield-law-abortion-prescription-label" target="_blank">California considers allowing doctors to prescribe abortion drugs anonymously</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-10 14:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/10/openai-and-oracle-reportedly-ink-historic-cloud-computing-deal/" target="_blank">OpenAI and Oracle reportedly ink historic cloud computing deal</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-10 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68c1a79782c1abee12931e76/master/pass/starship-1536x864.jpg" alt="SpaceX Targets an Orbital Starship Flight with a Next-Gen Vehicle in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/spacex-targets-an-orbital-starship-flight-with-a-next-gen-vehicle-in-2026/" target="_blank">SpaceX Targets an Orbital Starship Flight with a Next-Gen Vehicle in 2026</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-10 18:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,29 +155,29 @@
                 <span class="time">2025-09-10 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/773089/apple-watch-se-3-series-11-ultra-3-preorder-buy-price-release-date" target="_blank">How to preorder the Apple Watch SE 3, Apple Watch Series 11, and Apple Watch Ultra 3</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-10 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/773085/iphone-17-pro-max-air-comparison-specs-price-features" target="_blank">How all the 2025 iPhone models compare on paper</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-10 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsxzr88187iq734kawa4l.png" alt="The Backwards Way to $10K MRR: Build SEO First, Product Second" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shayy/the-backwards-way-to-10k-mrr-build-seo-first-product-second-1e82" target="_blank">The Backwards Way to $10K MRR: Build SEO First, Product Second</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-10 18:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18610158&w=600" alt="Supercharging Your Chatbot With Context-Aware AI on AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/supercharging-your-chatbot-with-context-aware-ai-aws" target="_blank">Supercharging Your Chatbot With Context-Aware AI on AWS</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-10 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/05/ubuntu-circuit.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Switches to Dracut by Default" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,24 +214,6 @@
                 <span class="time">2025-09-10 16:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://platform.openai.com/docs/guides/developer-mode" target="_blank">ChatGPT Developer Mode</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-10 16:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18610122&w=600" alt="Crafting Keys: Best Naming Strategies and Sorting Techniques in Redis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/best-naming-strategies-and-sorting-techniques-redis" target="_blank">Crafting Keys: Best Naming Strategies and Sorting Techniques in Redis</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-10 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/New-Project-8.jpg" alt="Gorillaz Just Revived Their 26-Year-Old Flash Game Site And It’s Wonderful" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/gorillaz-revive-26-year-old-flash-game-site-kong-studios-2000624770" target="_blank">Gorillaz Just Revived Their 26-Year-Old Flash Game Site And It’s Wonderful</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-10 18:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4T96YRWTYN3XQK7PKG91S57/hero-image.png" alt="These Two New Features Cement Google’s NotebookLM As One of My Favorite Study Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/googles-notebooklm-introduces-quizzes-flashcards-tools?utm_medium=RSS" target="_blank">These Two New Features Cement Google’s NotebookLM As One of My Favorite Study Apps</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-10 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/beagle-pulling-on-leash.jpg" alt="Was Your Dog Harder to Train During the Pandemic? Science Says You’re Not Alone" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +285,6 @@
                 <span class="title"><a href="https://kotaku.com/dont-let-hackers-win-this-60-off-solution-keeps-your-identity-safe-at-all-times-2000624647" target="_blank">Don’t Let Hackers Win, This 60% Off Solution Keeps Your Identity Safe at All Times</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-09-10 15:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/ringing-black-holes-illustration-gw250114.jpg" alt="LIGO’s Sharpest Detection Yet Confirms Famous Stephen Hawking Theory" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ligos-sharpest-detection-yet-confirms-famous-stephen-hawking-theory-2000656839" target="_blank">LIGO’s Sharpest Detection Yet Confirms Famous Stephen Hawking Theory</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-10 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/quest-3-batman.jpg" alt="Meta Quest 3 512GB with Batman Game Drops to a New Record Low, the Ultimate VR Headset for Gaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/meta-quest-3-512gb-with-batman-game-drops-to-a-new-record-low-the-ultimate-vr-headset-for-gaming-2000624612" target="_blank">Meta Quest 3 512GB with Batman Game Drops to a New Record Low, the Ultimate VR Headset for Gaming</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-10 14:40</span>
             </div>
         </div>
 </div>
@@ -353,8 +342,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 156 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 157 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
