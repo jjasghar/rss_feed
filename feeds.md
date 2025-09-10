@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-10 19:01:37 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-09-10 20:01:53 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 23 feeds processed -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, September 10, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Wednesday, September 10, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +46,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/abcnewsl-abc-ml-250107_1736267930625_hpMain_4x3t_384.jpg" alt="LIVE:  Political activist Charlie Kirk shot during event in Utah" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Political activist Charlie Kirk shot during event in Utah</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-10 19:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/10/south-africa-to-reopen-steve-biko-inquest-48-years-after-death-in-police-custody" target="_blank">South Africa to reopen Steve Biko inquest 48 years after death in police custody</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-09-10 19:09</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/charlie-kirk-gty-lv-240715_1721094534329_hpMain_2_4x3t_384.jpg" alt="Charlie Kirk shot during event at Utah university, JD Vance says to &#x27;say a prayer&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/US/charlie-kirk-shot-event-utah-university-jd-vance/story?id=125451514" target="_blank">Charlie Kirk shot during event at Utah university, JD Vance says to &#x27;say a prayer&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-10 18:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c5/live/9e0e72f0-8e6a-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Accidental or deliberate? Russia&#x27;s drone incursion into Poland is a test for Nato" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clydk8821nro?at_medium=RSS&at_campaign=rss" target="_blank">Accidental or deliberate? Russia&#x27;s drone incursion into Poland is a test for Nato</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-10 18:56</span>
             </div>
         </div>
 <div class="story">
@@ -69,38 +99,20 @@
                 <span class="time">2025-09-10 17:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/10/nx-s1-5536528/an-election-law-expert-weighs-in-on-trumps-effort-to-reshape-our-democracy" target="_blank">An election law expert weighs in on Trump&#x27;s effort to reshape our democracy</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-10 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/10/nx-s1-5536570/trump-dc-restaurant-protests-joes-seafood" target="_blank">Trump makes a rare D.C. restaurant visit to tout his federal crackdown on crime</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-10 16:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/10/pro-palestine-protests-bring-extraordinary-security-for-spains-vuelta?traffic_source=rss" target="_blank">Pro-Palestine protests bring ‘extraordinary’ security for Spain’s Vuelta</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-10 15:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-500x500.jpg" alt="Senator blasts Microsoft for making default Windows vulnerable to “Kerberoasting”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/09/senator-blasts-microsoft-for-making-default-windows-vulnerable-to-kerberoasting/" target="_blank">Senator blasts Microsoft for making default Windows vulnerable to “Kerberoasting”</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-10 19:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -108,6 +120,15 @@
                 <span class="title"><a href="https://techcrunch.com/2025/09/10/openai-and-oracle-reportedly-ink-historic-cloud-computing-deal/" target="_blank">OpenAI and Oracle reportedly ink historic cloud computing deal</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-09-10 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/23639378/best-ipad-apple-buy-model-price" target="_blank">The best iPad to buy</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-10 18:31</span>
             </div>
         </div>
 <div class="story">
@@ -137,24 +158,6 @@
                 <span class="time">2025-09-10 17:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/08/getty-binary-data-money-500x500-1737735425.jpg" alt="Can we please keep our broadband money, Republican governor asks Trump admin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/can-we-please-keep-our-broadband-money-republican-governor-asks-trump-admin/" target="_blank">Can we please keep our broadband money, Republican governor asks Trump admin</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-10 17:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/10/humanoids-avs-and-whats-next-in-ai-hardware-at-techcrunch-disrupt-2025/" target="_blank">Humanoids, AVs, and what’s next in AI hardware at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-10 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +170,15 @@
                 <span class="title"><a href="https://dev.to/shayy/the-backwards-way-to-10k-mrr-build-seo-first-product-second-1e82" target="_blank">The Backwards Way to $10K MRR: Build SEO First, Product Second</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-10 18:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fwupd-2.0.15" target="_blank">Fwupd 2.0.15 Released With Support For Newer NVIDIA ConnectX NICs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-10 18:54</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +217,6 @@
                 <span class="time">2025-09-10 16:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.thenexus.media/tiktok-won-now-everything-is-60-seconds/" target="_blank">TikTok won. Now everything is 60 seconds</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-10 16:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/New-Project-10.jpg" alt="Soon-To-Be-Demolished Fry’s Electronics Is Your Daily Dose Of Liminal Dread" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/frys-electronics-store-abandoned-liminal-phoenix-az-2000624785" target="_blank">Soon-To-Be-Demolished Fry’s Electronics Is Your Daily Dose Of Liminal Dread</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-10 19:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/New-Project-8.jpg" alt="Gorillaz Just Revived Their 26-Year-Old Flash Game Site And It’s Wonderful" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +288,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/spotify-finally-supports-lossless-audio?utm_medium=RSS" target="_blank">Spotify Finally Supports Lossless Audio</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-10 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/scam-hackers.jpg" alt="Don’t Let Hackers Win, This 60% Off Solution Keeps Your Identity Safe at All Times" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dont-let-hackers-win-this-60-off-solution-keeps-your-identity-safe-at-all-times-2000624647" target="_blank">Don’t Let Hackers Win, This 60% Off Solution Keeps Your Identity Safe at All Times</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-10 15:40</span>
             </div>
         </div>
 </div>
@@ -342,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 157 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 153 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
