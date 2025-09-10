@@ -1,31 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-10 12:02:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-10 13:07:42 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, September 10, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Wednesday, September 10, 2025 - 13:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,12 +43,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/International/poland-main_1757499248990_hpMain_4x3t_384.jpg" alt="NATO planes down Russian drones in Polish airspace after &#x27;unprecedented&#x27; aggression" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/poland-airspace-repeatedly-violated-drone-type-objects-amid/story?id=125422386" target="_blank">NATO planes down Russian drones in Polish airspace after &#x27;unprecedented&#x27; aggression</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-10 12:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/10/iran-and-un-appear-at-odds-over-nuclear-deal?traffic_source=rss" target="_blank">Iran and UN appear at odds over nuclear deal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-10 12:53</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/09/10/g-s1-87614/dr-peter-hotez-science-rfk-jr" target="_blank">Dr. Peter Hotez takes the war against science very personally</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-10 11:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-vladimir-putin-russian_7016116.jpg?20250910134606" alt="Drones and salami: How Putin is testing the West, a little bit at a time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/drones-and-salami-how-putin-is-testing-the-west-with-poland-airspace-violation-13428128" target="_blank">Drones and salami: How Putin is testing the West, a little bit at a time</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-10 10:59</span>
             </div>
         </div>
 <div class="story">
@@ -63,36 +91,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/10/cape-town-shootings-six-people-dead-two-days" target="_blank">Cape Town shootings leave six people dead in two days</a></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/10/cape-town-shootings-six-people-dead-two-days" target="_blank">Six shot dead in two days as Cape Town reels from gang violence</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-09-10 10:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/10/nx-s1-5533120/pritzker-trump-chicago-troops" target="_blank">Trump says he&#x27;s fighting crime. Illinois Gov. Pritzker sees a power grab before 2026</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-10 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/10/hundreds-arrested-as-block-everything-protests-grip-france?traffic_source=rss" target="_blank">Hundreds arrested as ‘Block Everything’ protests grip France</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-10 09:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/GettyImages-595081313_1757475972603_hpMain_4x3t_384.jpg" alt="Poland accuses Moscow of &#x27;unprecedented&#x27; aggression after downing Russian drones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/poland-airspace-repeatedly-violated-drone-type-objects-amid/story?id=125422386" target="_blank">Poland accuses Moscow of &#x27;unprecedented&#x27; aggression after downing Russian drones</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-10 09:31</span>
             </div>
         </div>
 </div>
@@ -100,6 +101,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/774748/zoox-amazon-robotaxi-las-vegas-public" target="_blank">Zoox’s robotaxis are open for business in Las Vegas</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-10 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +155,20 @@
                 <span class="time">2025-09-10 04:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/09/sources-ai-training-startup-mercor-eyes-10b-valuation-on-450-million-run-rate/" target="_blank">Sources: AI training startup Mercor eyes $10B+ valuation on $450 million run rate</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-10 01:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Pogocache-1.2-Released" target="_blank">Pogocache 1.2 Now Uses Microsoft&#x27;s Mimalloc By Default: &quot;Excellent Performance&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-10 12:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa896t6c60qv8ri6ltm40.png" alt="GitHub Coding Agent the Magical Autonomous AI: The Prequel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -204,15 +214,6 @@
                 <span class="time">2025-09-10 09:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/odunayo_dada/protect-your-nodejs-api-rate-limiting-with-fixed-window-sliding-window-and-token-bucket-4278" target="_blank">Protect Your Node.js API: Rate Limiting with Fixed Window, Sliding Window, and Token Bucket</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-10 09:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/ZendayaStarling.jpg" alt="Bryan Fuller Wants Zendaya to Play Clarice Starling in ‘Hannibal’ Follow-Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/bryan-fuller-wants-zendaya-to-play-clarice-starling-in-hannibal-follow-up-2000656725" target="_blank">Bryan Fuller Wants Zendaya to Play Clarice Starling in ‘Hannibal’ Follow-Up</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-10 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4S72ZMMWHDWKR91BXSG980N/hero-image.png" alt="This Motorola Razr+ Foldable Is $450 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/motorola-razr-plus-foldable-phone-deal?utm_medium=RSS" target="_blank">This Motorola Razr+ Foldable Is $450 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-10 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/mbari-bumpy-snailfish-pink-and-round.jpg" alt="These Newly Discovered Deep-Sea Snailfish Just Became Our Latest Obsession" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,24 +285,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/09/poop-cannons-robot-birds-and-sewer-submarines-welcome-to-the-ultrawild.html" target="_blank">Poop cannons, robot birds, and sewer submarines: Welcome to the ULTRAWILD</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-09 23:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Dolly-Fantastic-Fest.jpg" alt="The 15 Wildest, Coolest Films We Can’t Wait to See at Fantastic Fest 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-15-wildest-coolest-films-we-cant-wait-to-see-at-fantastic-fest-2025-2000654109" target="_blank">The 15 Wildest, Coolest Films We Can’t Wait to See at Fantastic Fest 2025</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-09 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4R5ZD4S8VYSR3P7E2AEP1WR/hero-image.jpg" alt="Some iPhone Users Are Getting Another Year of Free Satellite Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-iphone-users-getting-another-year-of-free-satellite-features?utm_medium=RSS" target="_blank">Some iPhone Users Are Getting Another Year of Free Satellite Features</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-09 22:30</span>
             </div>
         </div>
 </div>
@@ -323,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 13:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
