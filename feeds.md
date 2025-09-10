@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-10 09:01:56 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-10 10:02:01 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 23 feeds processed -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, September 10, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, September 10, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/10/hundreds-arrested-as-block-everything-protests-grip-france?traffic_source=rss" target="_blank">Hundreds arrested as ‘Block Everything’ protests grip France</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-10 09:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/GettyImages-595081313_1757475972603_hpMain_4x3t_384.jpg" alt="Poland accuses Moscow of &#x27;unprecedented&#x27; aggression after downing Russian drones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/poland-airspace-repeatedly-violated-drone-type-objects-amid/story?id=125422386" target="_blank">Poland accuses Moscow of &#x27;unprecedented&#x27; aggression after downing Russian drones</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-10 09:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/10/nx-s1-5535569/lachlan-murdoch-rupert-news-corp-fox" target="_blank">Who is Lachlan Murdoch, the anointed media tycoon?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-10 09:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,38 +98,20 @@
                 <span class="time">2025-09-10 07:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2cc/live/0e922040-8d6b-11f0-9cf6-cbf3e73ce2b9.jpg" alt="UK&#x27;s first &#x27;super-university&#x27; to be created as two merge from 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy85905dj2wo?at_medium=RSS&at_campaign=rss" target="_blank">UK&#x27;s first &#x27;super-university&#x27; to be created as two merge from 2026</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-10 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/09/nx-s1-5529281/appeals-court-lisa-cook-federal-reserve-independence-trump" target="_blank">Federal judge blocks Trump from firing Fed Governor Lisa Cook, for now</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-10 03:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250826-lisa-cook-rs-ef348f.jpg" alt="Judge temporarily blocks Trump&#x27;s firing of Federal Reserve governor Lisa Cook" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/judge-temporarily-blocks-trumps-firing-lisa-cook-federal-reserve-rcna230241" target="_blank">Judge temporarily blocks Trump&#x27;s firing of Federal Reserve governor Lisa Cook</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-10 02:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68bade91fdb5bd3fec4ecb07/master/pass/Daniel+Aili-Johan+Junker-2025-LiU-5136.jpeg" alt="Researchers Create 3D-Printed Artificial Skin That Allows Blood Circulation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/researchers-create-3d-printed-artificial-skin-that-allows-blood-circulation/" target="_blank">Researchers Create 3D-Printed Artificial Skin That Allows Blood Circulation</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-10 09:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +157,47 @@
                 <span class="time">2025-09-10 00:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68bf5d9c38f0968393a2d235/master/pass/Apple-Best-Feature-Has-Been-on-Android-Gear.jpg" alt="Apple’s Best New iOS 26 Feature Has Been on Pixel Phones for Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/apple-call-screening-ios-26-has-been-on-pixel-for-years/" target="_blank">Apple’s Best New iOS 26 Feature Has Been on Pixel Phones for Years</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-09 23:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-NPU-Maintainer-Leaves" target="_blank">Intel Loses One Of Its NPU Driver Maintainers: &quot;Let Someone Else Deal With The NPU Bugs&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-10 09:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/state-of-open-source-adoption-in-europe" target="_blank">What’s the state of open source adoption in Europe?</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-09-10 09:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/odunayo_dada/protect-your-nodejs-api-rate-limiting-with-fixed-window-sliding-window-and-token-bucket-4278" target="_blank">Protect Your Node.js API: Rate Limiting with Fixed Window, Sliding Window, and Token Bucket</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-10 09:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/articles/timeseries-db-rust/en/headerimage/time-series-database-using-open-source-rebuilding-InfluxDB-in-apache-arrow-rust-header-1757058446201.jpg" alt="Article: Engineering a Time Series Database Using Open Source: Rebuilding InfluxDB 3 in Apache Arrow and Rust" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/articles/timeseries-db-rust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Engineering a Time Series Database Using Open Source: Rebuilding InfluxDB 3 in Apache Arrow and Rust</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-10 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -176,42 +214,6 @@
                 <span class="title"><a href="https://dev.to/snehasishkonger/5-best-free-image-conversion-tools-you-can-use-right-now-63l" target="_blank">5 Best Free Image Conversion Tools You Can Use Right Now</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-10 03:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/compose-key-gnome-linux/" target="_blank">I Discovered the Wonderful Compose Key After 15 Years of Using Linux</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-09-10 03:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://joshfonseca.com/blogs/animal-crossing-llm" target="_blank">I replaced Animal Crossing&#x27;s dialogue with a live LLM by hacking GameCube memory</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-10 02:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-100-meters-official-trailer-english-subtitles-4pi8" target="_blank">IGN: 100 METERS - Official Trailer (English Subtitles)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-10 02:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Arm-Lumex-Platform-C1" target="_blank">Arm Announces Lumex Platform With C1 CPUs Boasting SME2, Mali G1-Ultra GPU</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-10 02:00</span>
             </div>
         </div>
 </div>
@@ -302,6 +304,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/09/10/deadheads" target="_blank">Deadheads</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-09-10 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5654.png" alt="Questionable Content" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -324,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
