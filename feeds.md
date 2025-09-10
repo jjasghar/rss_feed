@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-10 10:02:01 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-10 11:01:36 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, September 10, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, September 10, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/poland-main_1757499248990_hpMain_4x3t_384.jpg" alt="Russian drones over Poland &#x27;unprecedented&#x27; aggression, military says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/poland-airspace-repeatedly-violated-drone-type-objects-amid/story?id=125422386" target="_blank">Russian drones over Poland &#x27;unprecedented&#x27; aggression, military says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-10 10:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/10/cape-town-shootings-six-people-dead-two-days" target="_blank">Cape Town shootings leave six people dead in two days</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-09-10 10:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/10/nx-s1-5533120/pritzker-trump-chicago-troops" target="_blank">Trump says he&#x27;s fighting crime. Illinois Gov. Pritzker sees a power grab before 2026</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-10 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +100,20 @@
                 <span class="time">2025-09-10 09:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/10/nx-s1-5536450/poland-russia-drones-airspace-ukraine" target="_blank">Poland says it shot down Russian drones that violated its airspace</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-10 07:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/GettyImages-595081313_1757475972603_hpMain_4x3t_384.jpg" alt="Poland downs Russian drones as &#x27;huge number&#x27; violate airspace, prime minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/poland-airspace-repeatedly-violated-drone-type-objects-amid/story?id=125422386" target="_blank">Poland downs Russian drones as &#x27;huge number&#x27; violate airspace, prime minister says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-10 07:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/10/afghanistan-dominate-hong-kong-in-asia-cup-2025-cricket-opener?traffic_source=rss" target="_blank">Afghanistan dominate Hong Kong in Asia Cup 2025 cricket opener</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-10 07:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/10/googles-former-security-leads-raise-13m-to-fight-email-threats-before-they-reach-you/" target="_blank">Google’s former security leads raise $13M to fight email threats before they reach you</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-10 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68bade91fdb5bd3fec4ecb07/master/pass/Daniel+Aili-Johan+Junker-2025-LiU-5136.jpeg" alt="Researchers Create 3D-Printed Artificial Skin That Allows Blood Circulation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,20 +159,29 @@
                 <span class="time">2025-09-10 01:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/775234/iphone-17-air-a19-memory-integrity-enforcement-mte-security" target="_blank">Apple says the iPhone 17 comes with a massive security upgrade</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-10 00:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/creator_x/day-3-unleash-questbots-power-2p3c" target="_blank">Day 3: Unleash QuestBot&#x27;s Power🎯</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-10 10:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/09/honeycomb-hosted-mcp/en/headerimage/header-1757190377363.jpeg" alt="Honeycomb Hosted MCP Brings Observability Data into the IDE" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/honeycomb-hosted-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Honeycomb Hosted MCP Brings Observability Data into the IDE</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-10 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,24 +216,6 @@
                 <span class="title"><a href="https://www.infoq.com/articles/timeseries-db-rust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Engineering a Time Series Database Using Open Source: Rebuilding InfluxDB 3 in Apache Arrow and Rust</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-09-10 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kazutora_hattori_66972c88/one-tool-for-both-registration-and-editing-basic-techniques-for-reusing-forms-in-react-5f81" target="_blank">One tool for both registration and editing! Basic Techniques for Reusing Forms in React</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-10 07:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/snehasishkonger/5-best-free-image-conversion-tools-you-can-use-right-now-63l" target="_blank">5 Best Free Image Conversion Tools You Can Use Right Now</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-10 03:50</span>
             </div>
         </div>
 </div>
@@ -335,8 +337,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
