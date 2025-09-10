@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-10 20:01:53 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-09-10 21:01:42 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Wednesday, September 10, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, September 10, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/10/trump-conservative-activist-charlie-kirk-dead-after-being-shot?traffic_source=rss" target="_blank">Trump: conservative activist Charlie Kirk dead after being shot</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-10 20:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6e4/live/739a8cd0-8e7d-11f0-8c2b-d3304d08feaa.jpg" alt="Starmer facing pressure over Mandelson&#x27;s Epstein links" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwy9jqn0vyjo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer facing pressure over Mandelson&#x27;s Epstein links</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-10 20:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/abcnewsl-abc-ml-250107_1736267930625_hpMain_4x3t_384.jpg" alt="LIVE:  Political activist Charlie Kirk shot during event in Utah" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,29 +99,20 @@
                 <span class="time">2025-09-10 18:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/9/10/buy-now-pay-later-company-klarna-goes-public-in-largest-ipo-of-2025?traffic_source=rss" target="_blank">Buy-now-pay-later company Klarna goes public in largest IPO of 2025</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-10 17:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-3-gty-gmh-250910_1757509668312_hpMain_4x3t_384.jpg" alt="&#x27;Here we go&#x27;: Trump reacts after Russian drones shot down over Poland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/polish-foreign-minister-putin-laughs-trumps-peace-efforts/story?id=125440375" target="_blank">&#x27;Here we go&#x27;: Trump reacts after Russian drones shot down over Poland</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-10 17:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/776079/charlie-kirk-shooting" target="_blank">Charlie Kirk fatally shot at Turning Point USA event in Utah</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-10 20:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-500x500.jpg" alt="Senator blasts Microsoft for making default Windows vulnerable to “Kerberoasting”" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -111,6 +120,15 @@
                 <span class="title"><a href="https://arstechnica.com/security/2025/09/senator-blasts-microsoft-for-making-default-windows-vulnerable-to-kerberoasting/" target="_blank">Senator blasts Microsoft for making default Windows vulnerable to “Kerberoasting”</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-09-10 19:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/10/while-u-s-stalls-australia-and-anduril-move-to-put-xl-undersea-vehicle-into-service/" target="_blank">While US stalls, Australia and Anduril move to put XL undersea vehicle into service</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-10 19:12</span>
             </div>
         </div>
 <div class="story">
@@ -140,29 +158,20 @@
                 <span class="time">2025-09-10 18:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/775918/playstation-family-parental-controls-ios-android-app" target="_blank">PlayStation launches new app for parental controls</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-10 17:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c19b4a8f0bade039bb8750/master/pass/iPhone%2017%20Pro%20SOURCE%20Julian%20Chokkattu.jpg" alt="3 Exciting Camera Features on Apple&#x27;s New iPhone 17 Lineup" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/exciting-camera-features-on-apples-new-iphone-17-lineup/" target="_blank">3 Exciting Camera Features on Apple&#x27;s New iPhone 17 Lineup</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-10 17:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/marco_cheung_/server-side-rendering-the-security-reality-check-every-developer-needs-f13" target="_blank">Server-Side Rendering: The Security Reality Check Every Developer Needs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-10 20:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsxzr88187iq734kawa4l.png" alt="The Backwards Way to $10K MRR: Build SEO First, Product Second" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +217,6 @@
                 <span class="time">2025-09-10 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fglama.ai%2Fuploads%2F1ba7e0zhbk" alt="Rethinking Tool Calling: Towards a Scalable Standard" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/om_shree_0709/rethinking-tool-calling-towards-a-scalable-standard-3pbe" target="_blank">Rethinking Tool Calling: Towards a Scalable Standard</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-10 16:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/mussolini.jpeg?fit=1080%2C574&amp;quality=60&amp;ssl=1" alt="Just how horrifying was Mussolini? New series about world&#x27;s first fascist leader starts today (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/10/just-how-horrifying-was-mussolini-new-series-about-worlds-first-fascist-leader-starts-today-video.html" target="_blank">Just how horrifying was Mussolini? New series about world&#x27;s first fascist leader starts today (video)</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-10 20:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/New-Project-10.jpg" alt="Soon-To-Be-Demolished Fry’s Electronics Is Your Daily Dose Of Liminal Dread" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +288,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/10/they-will-be-treasured-unusual-paper-clip-collection-finds-new-guardians.html" target="_blank">&quot;They will be treasured&quot;: Unusual paper clip collection finds new guardians</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-10 16:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4T30YC2ZCMG0W6SA42ZX53Y/hero-image.jpg" alt="Spotify Finally Supports Lossless Audio" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/spotify-finally-supports-lossless-audio?utm_medium=RSS" target="_blank">Spotify Finally Supports Lossless Audio</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-10 16:00</span>
             </div>
         </div>
 </div>
@@ -345,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 153 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
