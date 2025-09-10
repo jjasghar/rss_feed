@@ -1,38 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-09-10 03:09:55 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-10 04:01:39 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 5 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, September 10, 2025 - 03:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, September 10, 2025 - 04:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/09/nx-s1-5529281/appeals-court-lisa-cook-federal-reserve-independence-trump" target="_blank">Federal judge blocks Trump from firing Fed Governor Lisa Cook, for now</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-10 03:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-08/250826-lisa-cook-rs-ef348f.jpg" alt="Judge temporarily blocks Trump&#x27;s firing of Federal Reserve governor Lisa Cook" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/judge-temporarily-blocks-trumps-firing-lisa-cook-federal-reserve-rcna230241" target="_blank">Judge temporarily blocks Trump&#x27;s firing of Federal Reserve governor Lisa Cook</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-10 02:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +93,20 @@
                 <span class="time">2025-09-09 23:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2025/sep/10/junk-food-upf-more-children-obese-than-underweight-unicef" target="_blank">Junk food leads to more children being obese than underweight for first time</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-09-09 23:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/09/nx-s1-5535578/hollywood-stars-boycott-israeli-film-companies-in-response-to-gaza-crisis" target="_blank">Hollywood stars boycott Israeli film companies in response to Gaza crisis</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-09 22:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/09/sources-ai-training-startup-mercor-eyes-10b-valuation-on-450-million-run-rate/" target="_blank">Sources: AI training startup Mercor eyes $10B+ valuation on $450 million run rate</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-10 01:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67194d3ac6e04fef4b6ba5f1/master/pass/Uncanny-Valley-Podcast-Artwork.jpg" alt="Watch WIRED’s ‘Uncanny Valley’ Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +152,29 @@
                 <span class="time">2025-09-09 22:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/IMG_5808-500x500.jpeg" alt="Hands-on with the iPhone 17 lineup, including the wispy Air and the lumpy Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/hands-on-with-the-iphone-17-lineup-including-the-wispy-air-and-the-lumpy-pro/" target="_blank">Hands-on with the iPhone 17 lineup, including the wispy Air and the lumpy Pro</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-09 21:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/snehasishkonger/5-best-free-image-conversion-tools-you-can-use-right-now-63l" target="_blank">5 Best Free Image Conversion Tools You Can Use Right Now</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-10 03:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/compose-key-gnome-linux/" target="_blank">I Discovered the Wonderful Compose Key After 15 Years of Using Linux</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-09-10 03:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +209,6 @@
                 <span class="title"><a href="https://dev.to/raghavendrake/numbee-number-arrange-puzzle-5gl1" target="_blank">Numbee (Number Arrange Puzzle)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-09 23:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/enterprise-software/devsecops/how-to-use-the-github-and-jfrog-integration-for-secure-traceable-builds-from-commit-to-production/" target="_blank">How to use the GitHub and JFrog integration for secure, traceable builds from commit to production</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-09-09 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/manujb25/iac-for-startups-terraform-aws-in-a-weekend-2cji" target="_blank">IaC for Startups: Terraform + AWS in a Weekend</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-09 21:28</span>
             </div>
         </div>
 </div>
@@ -330,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 03:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 04:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
