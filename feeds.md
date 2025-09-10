@@ -1,39 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-09 23:01:53 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-10 00:04:34 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
 <!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, September 09, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, September 10, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,10 +52,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/9/israeli-russian-researcher-freed-in-iraq-after-two-years-in-captivity?traffic_source=rss" target="_blank">Israeli-Russian researcher freed in Iraq after two years in captivity</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-09 23:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/09/09/nx-s1-5535578/hollywood-stars-boycott-israeli-film-companies-in-response-to-gaza-crisis" target="_blank">Hollywood stars boycott Israeli film companies in response to Gaza crisis</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-09 22:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fdc/live/6cf35910-8dc0-11f0-b391-6936825093bd.jpg" alt="Reeves tightens departmental spending ahead of budget" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cyv63l3395zo?at_medium=RSS&at_campaign=rss" target="_blank">Reeves tightens departmental spending ahead of budget</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-09 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-qatar-israel-trump_7015659.jpg?20250910003346" alt="Trump denies knowledge of Israel&#x27;s &#x27;unfortunate&#x27; strike on Qatar - as Starmer joins global condemnation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/trump-denies-knowledge-of-israels-unfortunate-strike-on-qatar-as-starmer-joins-global-condemnation-13427908" target="_blank">Trump denies knowledge of Israel&#x27;s &#x27;unfortunate&#x27; strike on Qatar - as Starmer joins global condemnation</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-09 21:58</span>
             </div>
         </div>
 <div class="story">
@@ -76,38 +103,29 @@
                 <span class="time">2025-09-09 21:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/9/hamas-leaders-survive-israeli-strike-on-qatar-us-denies-involvement?traffic_source=rss" target="_blank">Hamas leaders survive Israeli strike on Qatar; US denies involvement</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-09 20:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250904-donald-trump-mn-1220-a67568.jpg" alt="Supreme Court agrees to quickly decide whether Trump&#x27;s tariffs are legal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/supreme-court/supreme-court-agrees-consider-whether-trumps-tariffs-are-legal-rcna229069" target="_blank">Supreme Court agrees to quickly decide whether Trump&#x27;s tariffs are legal</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-09 20:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a170/live/3bdb93c0-8d88-11f0-b391-6936825093bd.jpg" alt="Hamas claims leadership survived Israeli attack in Doha, but confirms six deaths" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ced58zywdwno?at_medium=RSS&at_campaign=rss" target="_blank">Hamas claims leadership survived Israeli attack in Doha, but confirms six deaths</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-09 20:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68bf5d9c38f0968393a2d235/master/pass/Apple-Best-Feature-Has-Been-on-Android-Gear.jpg" alt="Apple’s Best New iOS 26 Feature Has Been on Pixel Phones for Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/apple-call-screening-ios-26-has-been-on-pixel-for-years/" target="_blank">Apple’s Best New iOS 26 Feature Has Been on Pixel Phones for Years</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-09 23:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/775309/apple-iphone-14-15-satellite-connectivity-free" target="_blank">Apple is giving iPhone 14 and 15 users another free year of satellite features</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-09 23:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/Apple-iPhone-17-Pro-color-lineup-250909-500x500.jpg" alt="New iPhones use Apple N1 wireless chip—and we’ll probably start seeing it everywhere" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,29 +162,29 @@
                 <span class="time">2025-09-09 21:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/09/apples-creator-centric-iphone-17-pro-will-make-the-vlogging-camera-obsolete/" target="_blank">Apple’s creator-centric iPhone 17 Pro will make the vlogging camera obsolete</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-09 20:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c0616ed23cd18a6a0cef83/master/pass/Apple-Roundup-Tim-Cook-Gear-DSC_5834-2.jpg" alt="Everything Apple Announced: iPhone Air, iPhone 17, Apple Watches, AirPods Pro 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/everything-apple-announced-iphone-air-iphone-17-apple-watches-airpods-pro-3/" target="_blank">Everything Apple Announced: iPhone Air, iPhone 17, Apple Watches, AirPods Pro 3</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-09 20:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/raghavendrake/numbee-number-arrange-puzzle-5gl1" target="_blank">Numbee (Number Arrange Puzzle)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-09 23:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/enterprise-software/devsecops/how-to-use-the-github-and-jfrog-integration-for-secure-traceable-builds-from-commit-to-production/" target="_blank">How to use the GitHub and JFrog integration for secure, traceable builds from commit to production</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-09-09 22:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,24 +221,6 @@
                 <span class="time">2025-09-09 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.bancreek.com/p/demise-of-dynamic-duo/" target="_blank">Fed helpless as US economy faces structural challenges, not monetary</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-09 19:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18605671&w=600" alt="Tutorial: RAG at Scale With Vector Databases vs. Lakehouse Architectures" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/tutorial-rag-at-scale-with-vector-databases-vs-lakehouse" target="_blank">Tutorial: RAG at Scale With Vector Databases vs. Lakehouse Architectures</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-09 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,6 +249,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Cover-inset-from-ULTRAWILD_2C-Steve-Mushin.-Used-w.jpg?fit=1080%2C607&amp;quality=60&amp;ssl=1" alt="Poop cannons, robot birds, and sewer submarines: Welcome to the ULTRAWILD" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/09/poop-cannons-robot-birds-and-sewer-submarines-welcome-to-the-ultrawild.html" target="_blank">Poop cannons, robot birds, and sewer submarines: Welcome to the ULTRAWILD</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-09 23:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Dolly-Fantastic-Fest.jpg" alt="The 15 Wildest, Coolest Films We Can’t Wait to See at Fantastic Fest 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -294,15 +303,6 @@
                 <span class="time">2025-09-09 20:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/God-War-Sad.jpg" alt="The Top 20 Best-Selling Games Ever On PlayStation In The U.S. Is A Very Sad List" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/playstation-ps5-best-selling-games-all-time-gta-minecraft-2000624513" target="_blank">The Top 20 Best-Selling Games Ever On PlayStation In The U.S. Is A Very Sad List</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-09 20:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
