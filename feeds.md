@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-09-10 11:01:36 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-10 12:02:29 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, September 10, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, September 10, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/09/10/g-s1-87614/dr-peter-hotez-science-rfk-jr" target="_blank">Dr. Peter Hotez takes the war against science very personally</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-10 11:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/poland-main_1757499248990_hpMain_4x3t_384.jpg" alt="Russian drones over Poland &#x27;unprecedented&#x27; aggression, military says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +95,20 @@
                 <span class="time">2025-09-10 09:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/10/nx-s1-5535569/lachlan-murdoch-rupert-news-corp-fox" target="_blank">Who is Lachlan Murdoch, the anointed media tycoon?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-10 09:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/774485/joby-blade-uber-evtol-helicopter-air-taxi" target="_blank">Blade’s air taxis are coming to the Uber app</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-10 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +154,20 @@
                 <span class="time">2025-09-10 01:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67194d3ac6e04fef4b6ba5f1/master/pass/Uncanny-Valley-Podcast-Artwork.jpg" alt="Watch WIRED’s ‘Uncanny Valley’ Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-live-show-san-francisco/" target="_blank">Watch WIRED’s ‘Uncanny Valley’ Live</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-10 01:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa896t6c60qv8ri6ltm40.png" alt="GitHub Coding Agent the Magical Autonomous AI: The Prequel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/anchildress1/github-coding-agent-the-magical-autonomous-ai-the-prequel-4h11" target="_blank">GitHub Coding Agent the Magical Autonomous AI: The Prequel</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-10 11:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +213,6 @@
                 <span class="time">2025-09-10 09:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/articles/timeseries-db-rust/en/headerimage/time-series-database-using-open-source-rebuilding-InfluxDB-in-apache-arrow-rust-header-1757058446201.jpg" alt="Article: Engineering a Time Series Database Using Open Source: Rebuilding InfluxDB 3 in Apache Arrow and Rust" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/articles/timeseries-db-rust/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Article: Engineering a Time Series Database Using Open Source: Rebuilding InfluxDB 3 in Apache Arrow and Rust</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-10 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,15 +225,6 @@
                 <span class="title"><a href="https://krebsonsecurity.com/2025/09/microsoft-patch-tuesday-september-2025-edition/" target="_blank">Microsoft Patch Tuesday, September 2025 Edition</a></span>
                 <span class="feed">Krebs on Security</span>
                 <span class="time">2025-09-09 21:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/new-cryptanalysis-of-the-fiat-shamir-protocol.html" target="_blank">New Cryptanalysis of the Fiat-Shamir Protocol</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-09-09 11:02</span>
             </div>
         </div>
 </div>
@@ -337,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
