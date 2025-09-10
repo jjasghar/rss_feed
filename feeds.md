@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-10 01:29:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-10 02:25:23 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, September 10, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, September 10, 2025 - 02:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -57,6 +61,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/10/israel-kills-dozens-in-gaza-qatar-calls-israels-attack-state-terror?traffic_source=rss" target="_blank">Israel kills over 50 in Gaza; Qatar calls Israeli attack ‘state terror’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-10 00:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/9/israeli-russian-researcher-freed-in-iraq-after-two-years-in-captivity?traffic_source=rss" target="_blank">Israeli-Russian researcher freed in Iraq after two years in captivity</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-09 23:28</span>
@@ -74,28 +87,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/global-development/2025/sep/10/junk-food-upf-more-children-obese-than-underweight-unicef" target="_blank">Junk food leads to more children being obese than underweight for first time</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-09-09 23:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/09/09/nx-s1-5535578/hollywood-stars-boycott-israeli-film-companies-in-response-to-gaza-crisis" target="_blank">Hollywood stars boycott Israeli film companies in response to Gaza crisis</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-09 22:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fdc/live/6cf35910-8dc0-11f0-b391-6936825093bd.jpg" alt="Reeves tightens departmental spending ahead of budget" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cyv63l3395zo?at_medium=RSS&at_campaign=rss" target="_blank">Reeves tightens departmental spending ahead of budget</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-09 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-qatar-israel-trump_7015659.jpg?20250910003346" alt="Trump denies knowledge of Israel&#x27;s &#x27;unfortunate&#x27; strike on Qatar - as Starmer joins global condemnation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/trump-denies-knowledge-of-israels-unfortunate-strike-on-qatar-as-starmer-joins-global-condemnation-13427908" target="_blank">Trump denies knowledge of Israel&#x27;s &#x27;unfortunate&#x27; strike on Qatar - as Starmer joins global condemnation</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-09 21:58</span>
             </div>
         </div>
 </div>
@@ -103,6 +107,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67194d3ac6e04fef4b6ba5f1/master/pass/Uncanny-Valley-Podcast-Artwork.jpg" alt="Watch WIRED’s ‘Uncanny Valley’ Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-live-show-san-francisco/" target="_blank">Watch WIRED’s ‘Uncanny Valley’ Live</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-10 01:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +161,29 @@
                 <span class="time">2025-09-09 21:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c086b8a090cc6a539ba25d/master/pass/GettyImages-1475304113.jpg" alt="Moderna CEO Responds to RFK Jr.’s Crusade Against the Covid-19 Vaccine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/moderna-ceo-responds-to-rfk-jrs-crusade-against-the-covid-19-vaccine/" target="_blank">Moderna CEO Responds to RFK Jr.’s Crusade Against the Covid-19 Vaccine</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-09 21:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/ign-100-meters-official-trailer-english-subtitles-4pi8" target="_blank">IGN: 100 METERS - Official Trailer (English Subtitles)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-10 02:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Arm-Lumex-Platform-C1" target="_blank">Arm Announces Lumex Platform With C1 CPUs Boasting SME2, Mali G1-Ultra GPU</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-10 02:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +220,6 @@
                 <span class="time">2025-09-09 21:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/cloud-sky-ops/bash-solutions-nuf-and-process-substitutions-ep2" target="_blank">Bash Solutions: NUF and process substitutions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-09 20:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/ubuntu-questing.jpg?resize=406%2C232&amp;ssl=1" alt="Linux 6.17 Kernel Arrives in Ubuntu 25.10 Daily Builds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/linux-6-17-kernel-update-ubuntu-25-10" target="_blank">Linux 6.17 Kernel Arrives in Ubuntu 25.10 Daily Builds</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-09 20:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +248,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/mud.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="Burning Man 2025 began with a murder and ended in a muddy disaster" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/09/burning-man-2025-began-with-a-murder-and-ended-in-a-muddy-disaster.html" target="_blank">Burning Man 2025 began with a murder and ended in a muddy disaster</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-10 00:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Cover-inset-from-ULTRAWILD_2C-Steve-Mushin.-Used-w.jpg?fit=1080%2C607&amp;quality=60&amp;ssl=1" alt="Poop cannons, robot birds, and sewer submarines: Welcome to the ULTRAWILD" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -289,15 +302,6 @@
                 <span class="time">2025-09-09 21:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/10/shutterstock_33885607-e1740688660250.jpg?fit=1080%2C771&amp;quality=60&amp;ssl=1" alt="California&#x27;s undersea toxic dumpsites are warping ocean life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/09/californias-undersea-toxic-dumpsites-are-warping-ocean-life.html" target="_blank">California&#x27;s undersea toxic dumpsites are warping ocean life</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-09 20:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 02:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
