@@ -1,29 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-10 04:01:39 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-10 05:01:54 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 21 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, September 10, 2025 - 04:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, September 10, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +107,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/09/robinhood-embraces-copy-trading-after-warning-competitors-about-regulatory-risks/" target="_blank">Robinhood embraces copy trading after warning competitors about regulatory risks</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-10 04:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/09/09/sources-ai-training-startup-mercor-eyes-10b-valuation-on-450-million-run-rate/" target="_blank">Sources: AI training startup Mercor eyes $10B+ valuation on $450 million run rate</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-09-10 01:36</span>
@@ -141,15 +155,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/775309/apple-iphone-14-15-satellite-connectivity-free" target="_blank">Apple is giving iPhone 14 and 15 users another free year of satellite features</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-09 23:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/Apple-iPhone-17-Pro-color-lineup-250909-500x500.jpg" alt="New iPhones use Apple N1 wireless chip—and we’ll probably start seeing it everywhere" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/apples-n1-chip-extends-its-custom-silicon-into-wi-fi-bluetooth-and-thread/" target="_blank">New iPhones use Apple N1 wireless chip—and we’ll probably start seeing it everywhere</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-09 22:45</span>
             </div>
         </div>
 </div>
@@ -240,6 +245,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/ipp.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="Apple&#x27;s authoritarian-pleasing antics have alienated me" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/09/apples-authoritarian-pleasing-antics-have-alienated-me.html" target="_blank">Apple&#x27;s authoritarian-pleasing antics have alienated me</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-10 00:38</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/mud.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="Burning Man 2025 began with a murder and ended in a muddy disaster" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -284,15 +298,6 @@
                 <span class="time">2025-09-09 21:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/iphone-air.jpg?fit=1200%2C702&amp;quality=60&amp;ssl=1" alt="New iPhone Air promises &quot;paradox&quot; experience, investors unimpressed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/09/new-iphone-air-promises-paradox-experience-investors-unimpressed.html" target="_blank">New iPhone Air promises &quot;paradox&quot; experience, investors unimpressed</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-09 21:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 04:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
