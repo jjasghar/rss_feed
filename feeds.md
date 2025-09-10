@@ -1,32 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-09-10 13:07:42 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-10 14:01:41 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 12 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Wednesday, September 10, 2025 - 13:07 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, September 10, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/10/israel-has-attacked-at-least-six-countries-this-year?traffic_source=rss" target="_blank">Israel has attacked at least six countries this year</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-10 13:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/poland-main_1757499248990_hpMain_4x3t_384.jpg" alt="NATO planes down Russian drones in Polish airspace after &#x27;unprecedented&#x27; aggression" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,20 +104,38 @@
                 <span class="time">2025-09-10 10:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/10/cape-town-shootings-six-people-dead-two-days" target="_blank">Six shot dead in two days as Cape Town reels from gang violence</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-09-10 10:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/dinner-500x500.jpg" alt="AI vs. MAGA: Populists alarmed by Trump’s embrace of AI, Big Tech" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/ai-vs-maga-populists-alarmed-by-trumps-embrace-of-ai-big-tech/" target="_blank">AI vs. MAGA: Populists alarmed by Trump’s embrace of AI, Big Tech</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-10 13:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/6859cd35076cba5cdfcdd66d/master/pass/HYDRATION%20PACKS.png" alt="13 Best Electrolyte Powders (2025): Tasty and Effective" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-electrolyte-powders/" target="_blank">13 Best Electrolyte Powders (2025): Tasty and Effective</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-10 13:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/10/jaguar-land-rover-says-data-stolen-in-disruptive-cyberattack/" target="_blank">Jaguar Land Rover says data stolen in disruptive cyberattack</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-10 13:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -128,38 +163,38 @@
                 <span class="time">2025-09-10 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68bade91fdb5bd3fec4ecb07/master/pass/Daniel+Aili-Johan+Junker-2025-LiU-5136.jpeg" alt="Researchers Create 3D-Printed Artificial Skin That Allows Blood Circulation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/researchers-create-3d-printed-artificial-skin-that-allows-blood-circulation/" target="_blank">Researchers Create 3D-Printed Artificial Skin That Allows Blood Circulation</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-10 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/cameras/775373/nikons-first-red-co-brand-is-the-nikon-zr" target="_blank">Nikon&amp;#8217;s first RED co-brand is the Nikon ZR</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-10 06:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/09/robinhood-embraces-copy-trading-after-warning-competitors-about-regulatory-risks/" target="_blank">Robinhood embraces copy trading after warning competitors about regulatory risks</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-10 04:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/09/10/ai-vs-gen-z/" target="_blank">AI vs Gen Z: How AI has changed the career pathway for junior developers</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-09-10 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz97e8hisv5f3k24j1kxs.png" alt="V-Reel AI Generator" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aniruddhaadak/v-reel-ai-generator-189d" target="_blank">V-Reel AI Generator</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-10 13:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Hyprland-0.51" target="_blank">Hyprland 0.51 Compositor Released With Reworked Gesture System, New Animations</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-10 13:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -181,37 +216,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/creator_x/day-3-unleash-questbots-power-2p3c" target="_blank">Day 3: Unleash QuestBot&#x27;s Power🎯</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-10 10:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/honeycomb-hosted-mcp/en/headerimage/header-1757190377363.jpeg" alt="Honeycomb Hosted MCP Brings Observability Data into the IDE" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/honeycomb-hosted-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Honeycomb Hosted MCP Brings Observability Data into the IDE</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-10 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-NPU-Maintainer-Leaves" target="_blank">Intel Loses One Of Its NPU Driver Maintainers: &quot;Let Someone Else Deal With The NPU Bugs&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-10 09:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/state-of-open-source-adoption-in-europe" target="_blank">What’s the state of open source adoption in Europe?</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-09-10 09:51</span>
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://labs.quansight.org/blog/scaling-asyncio-on-free-threaded-python" target="_blank">Scaling asyncio on Free-Threaded Python</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-09-10 11:34</span>
             </div>
         </div>
 </div>
@@ -233,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/dell-inspi-laptop.jpg" alt="This Dell Laptop with Ryzen 7 and Crazy Specs Is 73% Off on Amazon, Stock Is Flying Out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-dell-laptop-with-ryzen-7-and-crazy-specs-is-73-off-on-amazon-stock-is-flying-out-2000624609" target="_blank">This Dell Laptop with Ryzen 7 and Crazy Specs Is 73% Off on Amazon, Stock Is Flying Out</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-10 13:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/1751TEASER1200-rfk-jr-brain-worm-medical-science.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Tom the Dancing Bug: RFK Jr.&#x27;s Brain Worm presents The History of Medical Science" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/10/tom-the-dancing-bug-rfk-jr-s-brain-worm-presents-the-history-of-medical-science.html" target="_blank">Tom the Dancing Bug: RFK Jr.&#x27;s Brain Worm presents The History of Medical Science</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-10 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/ZendayaStarling.jpg" alt="Bryan Fuller Wants Zendaya to Play Clarice Starling in ‘Hannibal’ Follow-Up" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,24 +293,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/09/apples-authoritarian-pleasing-antics-have-alienated-me.html" target="_blank">Apple&#x27;s authoritarian-pleasing antics have alienated me</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-10 00:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/mud.jpg?fit=1200%2C801&amp;quality=60&amp;ssl=1" alt="Burning Man 2025 began with a murder and ended in a muddy disaster" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/09/burning-man-2025-began-with-a-murder-and-ended-in-a-muddy-disaster.html" target="_blank">Burning Man 2025 began with a murder and ended in a muddy disaster</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-10 00:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Cover-inset-from-ULTRAWILD_2C-Steve-Mushin.-Used-w.jpg?fit=1080%2C607&amp;quality=60&amp;ssl=1" alt="Poop cannons, robot birds, and sewer submarines: Welcome to the ULTRAWILD" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/09/poop-cannons-robot-birds-and-sewer-submarines-welcome-to-the-ultrawild.html" target="_blank">Poop cannons, robot birds, and sewer submarines: Welcome to the ULTRAWILD</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-09 23:39</span>
             </div>
         </div>
 </div>
@@ -324,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 146 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 13:07 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
