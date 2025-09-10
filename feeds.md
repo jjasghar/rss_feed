@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-10 21:01:42 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-10 22:01:39 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 8 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, September 10, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, September 10, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +46,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Political activist Charlie Kirk has died, Trump says: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Political activist Charlie Kirk has died, Trump says: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-10 21:01</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/10/trump-conservative-activist-charlie-kirk-dead-after-being-shot?traffic_source=rss" target="_blank">Trump: conservative activist Charlie Kirk dead after being shot</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-10 20:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/10/nx-s1-5537068/charlie-kirk-shot-utah-university-campus" target="_blank">Trump says right-wing activist Charlie Kirk has died after shooting</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-10 20:45</span>
             </div>
         </div>
 <div class="story">
@@ -81,29 +99,20 @@
                 <span class="time">2025-09-10 19:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/charlie-kirk-gty-lv-240715_1721094534329_hpMain_2_4x3t_384.jpg" alt="Charlie Kirk shot during event at Utah university, JD Vance says to &#x27;say a prayer&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/charlie-kirk-shot-event-utah-university-jd-vance/story?id=125451514" target="_blank">Charlie Kirk shot during event at Utah university, JD Vance says to &#x27;say a prayer&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-10 18:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c5/live/9e0e72f0-8e6a-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Accidental or deliberate? Russia&#x27;s drone incursion into Poland is a test for Nato" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clydk8821nro?at_medium=RSS&at_campaign=rss" target="_blank">Accidental or deliberate? Russia&#x27;s drone incursion into Poland is a test for Nato</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-10 18:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/776130/senator-ted-cruz-ai-sandbox-bill" target="_blank">Ted Cruz’s new bill would let AI companies set their own rules for up to 10 years</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-10 21:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +158,6 @@
                 <span class="time">2025-09-10 18:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c1a79782c1abee12931e76/master/pass/starship-1536x864.jpg" alt="SpaceX Targets an Orbital Starship Flight with a Next-Gen Vehicle in 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/spacex-targets-an-orbital-starship-flight-with-a-next-gen-vehicle-in-2026/" target="_blank">SpaceX Targets an Orbital Starship Flight with a Next-Gen Vehicle in 2026</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-10 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,10 +166,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-Drops-VDPAU" target="_blank">Mesa Drops VDPAU Video Acceleration In Favor Of VA-API</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-10 21:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/marco_cheung_/server-side-rendering-the-security-reality-check-every-developer-needs-f13" target="_blank">Server-Side Rendering: The Security Reality Check Every Developer Needs</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-10 20:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/company-news/your-guide-to-github-universe-2025-the-schedule-just-launched/" target="_blank">Your guide to GitHub Universe 2025: The schedule just launched!</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-09-10 20:52</span>
             </div>
         </div>
 <div class="story">
@@ -199,38 +217,6 @@
                 <span class="time">2025-09-10 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/05/ubuntu-circuit.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Switches to Dracut by Default" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/ubuntu-25-10-switches-to-dracut-by-default" target="_blank">Ubuntu 25.10 Switches to Dracut by Default</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-10 17:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/09/10/ai-vs-gen-z/" target="_blank">AI vs Gen Z: How AI has changed the career pathway for junior developers</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-09-10 17:00</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/09/microsoft-patch-tuesday-september-2025-edition/" target="_blank">Microsoft Patch Tuesday, September 2025 Edition</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-09-09 21:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -243,6 +229,15 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/10/just-how-horrifying-was-mussolini-new-series-about-worlds-first-fascist-leader-starts-today-video.html" target="_blank">Just how horrifying was Mussolini? New series about world&#x27;s first fascist leader starts today (video)</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-10 20:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4TCK30XY5DK0EGM5M17S385/hero-image.jpg" alt="We Already Know How Much Faster the iPhone 17 Is" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/we-already-know-how-much-faster-the-iphone-17-is?utm_medium=RSS" target="_blank">We Already Know How Much Faster the iPhone 17 Is</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-10 20:30</span>
             </div>
         </div>
 <div class="story">
@@ -279,15 +274,6 @@
                 <span class="title"><a href="https://gizmodo.com/was-your-dog-harder-to-train-during-the-pandemic-science-says-youre-not-alone-2000656447" target="_blank">Was Your Dog Harder to Train During the Pandemic? Science Says You’re Not Alone</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-10 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/knolling-clips.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="&quot;They will be treasured&quot;: Unusual paper clip collection finds new guardians" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/10/they-will-be-treasured-unusual-paper-clip-collection-finds-new-guardians.html" target="_blank">&quot;They will be treasured&quot;: Unusual paper clip collection finds new guardians</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-10 16:38</span>
             </div>
         </div>
 </div>
@@ -345,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 150 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
