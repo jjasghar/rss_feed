@@ -1,40 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-10 23:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-11 00:04:37 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, September 10, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, September 11, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +42,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/charlie-kirk-waving-rt-jt-250910_1757536809498_hpMain_4x3t_384.jpg" alt="Charlie Kirk fatally shot at Utah university in &#x27;political assassination&#x27;: Governor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/charlie-kirk-shot-event-utah-university-jd-vance/story?id=125451514" target="_blank">Charlie Kirk fatally shot at Utah university in &#x27;political assassination&#x27;: Governor</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-11 00:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/10/nx-s1-5537045/charlie-kirk-shot-utah" target="_blank">Charlie Kirk, a Trump ally and voice for young conservatives, is shot down at age 31</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-10 23:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/media/2025/sep/11/global-press-freedom-suffers-sharpest-fall-in-50-years-report-finds" target="_blank">Global press freedom suffers sharpest fall in 50 years, report finds</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-09-10 23:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Person of interest in custody in Charlie Kirk shooting: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,33 +96,6 @@
                 <span class="time">2025-09-10 21:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/10/trump-conservative-activist-charlie-kirk-dead-after-being-shot?traffic_source=rss" target="_blank">Trump: conservative activist Charlie Kirk dead after being shot</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-10 20:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/10/nx-s1-5537068/charlie-kirk-shot-utah-university-campus" target="_blank">Trump says right-wing activist Charlie Kirk has died after shooting</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-10 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6e4/live/739a8cd0-8e7d-11f0-8c2b-d3304d08feaa.jpg" alt="Starmer facing pressure over Mandelson&#x27;s Epstein links" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwy9jqn0vyjo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer facing pressure over Mandelson&#x27;s Epstein links</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-10 20:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -113,9 +105,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/776187/charlie-kirk-shooting-videos-platforms-meta-youtube" target="_blank">How platforms are responding to the Charlie Kirk shooting</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-10 23:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/776170/oracle-openai-300-billion-contract-project-stargate" target="_blank">OpenAI reportedly signs $300 billion Project Stargate cloud deal with Oracle</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-10 23:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/10/thinking-machines-lab-wants-to-make-ai-models-more-consistent/" target="_blank">Thinking Machines Lab wants to make AI models more consistent</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-10 21:30</span>
             </div>
         </div>
 <div class="story">
@@ -145,24 +155,6 @@
                 <span class="time">2025-09-10 19:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/10/while-u-s-stalls-australia-and-anduril-move-to-put-xl-undersea-vehicle-into-service/" target="_blank">While US stalls, Australia and Anduril move to put XL undersea vehicle into service</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-10 19:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/10/openai-and-oracle-reportedly-ink-historic-cloud-computing-deal/" target="_blank">OpenAI and Oracle reportedly ink historic cloud computing deal</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-10 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -184,6 +176,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Mesa-Drops-VDPAU" target="_blank">Mesa Drops VDPAU Video Acceleration In Favor Of VA-API</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-10 21:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/" target="_blank">KDE launches its own distribution</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-10 21:49</span>
             </div>
         </div>
 <div class="story">
@@ -213,15 +214,6 @@
                 <span class="time">2025-09-10 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsxzr88187iq734kawa4l.png" alt="The Backwards Way to $10K MRR: Build SEO First, Product Second" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shayy/the-backwards-way-to-10k-mrr-build-seo-first-product-second-1e82" target="_blank">The Backwards Way to $10K MRR: Build SEO First, Product Second</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-10 18:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -243,6 +235,15 @@
                 <span class="title"><a href="https://kotaku.com/nintendo-direct-switch-2-leaks-mario-re7-smash-bros-2000624779" target="_blank">Switch 2 Games, Upgrades, And Ports: What To Expect From The Longest Nintendo Direct Ever</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-09-10 21:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Apple-MacBook-Air-13.3-1.jpg?fit=1300%2C976&amp;quality=60&amp;ssl=1" alt="Second laptops aren&#x27;t luxuries when they&#x27;re under $200" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/10/second-laptops-arent-luxuries-when-theyre-under-200.html" target="_blank">Second laptops aren&#x27;t luxuries when they&#x27;re under $200</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-10 21:00</span>
             </div>
         </div>
 <div class="story">
@@ -270,15 +271,6 @@
                 <span class="title"><a href="https://kotaku.com/frys-electronics-store-abandoned-liminal-phoenix-az-2000624785" target="_blank">Soon-To-Be-Demolished Fry’s Electronics Is Your Daily Dose Of Liminal Dread</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-09-10 19:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/New-Project-8.jpg" alt="Gorillaz Just Revived Their 26-Year-Old Flash Game Site And It’s Wonderful" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/gorillaz-revive-26-year-old-flash-game-site-kong-studios-2000624770" target="_blank">Gorillaz Just Revived Their 26-Year-Old Flash Game Site And It’s Wonderful</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-10 18:39</span>
             </div>
         </div>
 </div>
@@ -336,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
