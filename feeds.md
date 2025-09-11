@@ -1,37 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-11 03:13:54 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-11 04:02:08 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, September 11, 2025 - 03:14 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, September 11, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/11/tributes-pour-in-for-charlie-kirk-conservative-activist-and-trump-ally?traffic_source=rss" target="_blank">Tributes pour in for Charlie Kirk, conservative activist and Trump ally</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-11 03:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/10/nx-s1-5537187/trump-charlie-kirk-blames-left" target="_blank">Trump blames rhetoric from the left for political violence after Charlie Kirk murder</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-11 02:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/charlie-kirk-waving-rt-jt-250910_1757536809498_hpMain_4x3t_384.jpg" alt="Manhunt for shooter continues after Charlie Kirk killed in &#x27;political assassination&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/charlie-kirk-shot-event-utah-university-jd-vance/story?id=125451514" target="_blank">Manhunt for shooter continues after Charlie Kirk killed in &#x27;political assassination&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-11 02:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,38 +98,38 @@
                 <span class="time">2025-09-10 23:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/10/nx-s1-5537045/charlie-kirk-shot-utah" target="_blank">Charlie Kirk, a Trump ally and voice for young conservatives, dies at age 31</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-10 23:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/10/nx-s1-5537045/charlie-kirk-shot-utah" target="_blank">Charlie Kirk, a Trump ally and voice for young conservatives, is shot down at age 31</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-10 23:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/media/2025/sep/11/global-press-freedom-suffers-sharpest-fall-in-50-years-report-finds" target="_blank">Global press freedom suffers sharpest fall in 50 years, report finds</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-09-10 23:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/10/perplexity-reportedly-raised-200m-at-20b-valuation/" target="_blank">Perplexity reportedly raised $200M at $20B valuation</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-11 03:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/f9tranche1-1-500x500.jpg" alt="Pentagon begins deploying new satellite network to link sensors with shooters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/09/pentagon-begins-deploying-new-satellite-network-to-link-sensors-with-shooters/" target="_blank">Pentagon begins deploying new satellite network to link sensors with shooters</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-11 02:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68c1d0639fcf6b1cd7c96d5f/master/pass/pol_charliekirk_GettyImages-2179971149.jpg" alt="‘War Is Here’: The Far-Right Responds to Charlie Kirk Shooting With Calls for Violence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/far-right-reactions-charlie-kirk-shooting-civil-war/" target="_blank">‘War Is Here’: The Far-Right Responds to Charlie Kirk Shooting With Calls for Violence</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-11 00:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,38 +157,20 @@
                 <span class="time">2025-09-10 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/verizon-500x500-1752087145.jpg" alt="Court rejects Verizon claim that selling location data without consent is legal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/" target="_blank">Court rejects Verizon claim that selling location data without consent is legal</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-10 21:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/776130/senator-ted-cruz-ai-sandbox-bill" target="_blank">Ted Cruz’s new bill would let AI companies set their own rules for up to 10 years</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-10 21:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/776079/charlie-kirk-shooting" target="_blank">Charlie Kirk fatally shot at Turning Point USA event in Utah</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-10 20:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/youssef_bkj_5ed1dffabfd95/how-to-show-multi-quality-video-streaming-hd-sd-fhd-5d3" target="_blank">How to show multi-quality video streaming (HD, SD, FHD)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-11 03:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/dyfet/blind-coding-70b" target="_blank">Blind coding</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-10 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-Drops-VDPAU" target="_blank">Mesa Drops VDPAU Video Acceleration In Favor Of VA-API</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-10 21:55</span>
             </div>
         </div>
 </div>
@@ -319,22 +316,13 @@
                 <span class="time">2025-09-10 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/biology_department.png" alt="Biology Department" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3140/" target="_blank">Biology Department</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-09-10 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 03:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
