@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-11 00:04:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-11 01:29:13 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, September 11, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, September 11, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +49,24 @@
                 <span class="title"><a href="https://abcnews.go.com/US/charlie-kirk-shot-event-utah-university-jd-vance/story?id=125451514" target="_blank">Charlie Kirk fatally shot at Utah university in &#x27;political assassination&#x27;: Governor</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-11 00:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757548655641_nn_kwe_who_was_charlie_kirck_250910_1920x1080-pt9k3l.jpg" alt="Charlie Kirk helped the MAGA movement gain traction with young voters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/charlie-kirk-helped-the-maga-movement-gain-traction-with-young-voters-247327813915" target="_blank">Charlie Kirk helped the MAGA movement gain traction with young voters</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-10 23:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/10/nx-s1-5537045/charlie-kirk-shot-utah" target="_blank">Charlie Kirk, a Trump ally and voice for young conservatives, dies at age 31</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-10 23:25</span>
             </div>
         </div>
 <div class="story">
@@ -76,24 +94,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Person of interest in custody in Charlie Kirk shooting: ABC News Live</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-10 22:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250910-kirk-trump-ch-1536-e42fc5.jpg" alt="Charlie Kirk&#x27;s death prompts outpouring of shock, grief and condemnations of political violence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/politics-news/charlie-kirks-death-prompts-outpouring-shock-grief-condemnations-polit-rcna230472" target="_blank">Charlie Kirk&#x27;s death prompts outpouring of shock, grief and condemnations of political violence</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-10 22:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Political activist Charlie Kirk has died, Trump says: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Political activist Charlie Kirk has died, Trump says: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-10 21:01</span>
             </div>
         </div>
 </div>
@@ -129,6 +129,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/07/verizon-500x500-1752087145.jpg" alt="Court rejects Verizon claim that selling location data without consent is legal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/court-rejects-verizon-claim-that-selling-location-data-without-consent-is-legal/" target="_blank">Court rejects Verizon claim that selling location data without consent is legal</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-10 21:28</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -146,20 +155,20 @@
                 <span class="time">2025-09-10 20:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-500x500.jpg" alt="Senator blasts Microsoft for making default Windows vulnerable to “Kerberoasting”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2025/09/senator-blasts-microsoft-for-making-default-windows-vulnerable-to-kerberoasting/" target="_blank">Senator blasts Microsoft for making default Windows vulnerable to “Kerberoasting”</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-10 19:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ivanjarkov/how-to-properly-configure-robotstxt-and-why-it-matters-for-seo-4mmb" target="_blank">How to Properly Configure robots.txt and Why It Matters for SEO</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-11 01:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,20 +214,20 @@
                 <span class="time">2025-09-10 20:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18615678&w=600" alt="Getting Started With Apple&#x27;s Vision Framework" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/apples-vision-framework" target="_blank">Getting Started With Apple&#x27;s Vision Framework</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-10 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Chucky-final-popmart-.jpg" alt="Pop Mart Unleashes Its Blind Box ‘Chucky’ Collection Just in Time for Halloween" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/pop-mart-unleashes-its-blind-box-chucky-collection-just-in-time-for-halloween-2000657269" target="_blank">Pop Mart Unleashes Its Blind Box ‘Chucky’ Collection Just in Time for Halloween</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-10 23:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/F9-Fast-Furious-Space.jpg" alt="Universal Executive Regrets Most Hilarious, Perfect Part of ‘Fast and Furious’ Franchise" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,20 +273,20 @@
                 <span class="time">2025-09-10 20:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/New-Project-10.jpg" alt="Soon-To-Be-Demolished Fry’s Electronics Is Your Daily Dose Of Liminal Dread" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/frys-electronics-store-abandoned-liminal-phoenix-az-2000624785" target="_blank">Soon-To-Be-Demolished Fry’s Electronics Is Your Daily Dose Of Liminal Dread</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-10 19:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5655.png" alt="Sex Ed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5655" target="_blank">Sex Ed</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-09-11 00:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -314,22 +323,13 @@
                 <span class="time">2025-09-10 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5654.png" alt="Questionable Content" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5654" target="_blank">Questionable Content</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-09-10 01:10</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
