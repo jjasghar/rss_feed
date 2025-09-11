@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-11 10:01:46 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing 54 RSS feeds at 2025-09-11 11:01:53 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, September 11, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, September 11, 2025 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/09/11/g-s1-77007/hiv-condoms-hiv-positive-u-s-aid-cuts" target="_blank">Love, drugs and condoms: Couples with different HIV status face a new reality</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-11 10:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/11/trump-response-to-israels-qatar-attack-undermines-us-credibility-analysts?traffic_source=rss" target="_blank">Trump response to Israel’s Qatar attack undermines US credibility: Analysts</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-11 10:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/charlie-kirk-speaking-gty-jt-250910_1757547358804_hpMain_4x3t_384.jpg" alt="Manhunt for Charlie Kirk&#x27;s killer continues as Trump blames Democrats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/charlie-kirk-shooting-fbi-appeals-tips-manhunt-continues/story?id=125469211" target="_blank">Manhunt for Charlie Kirk&#x27;s killer continues as Trump blames Democrats</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-11 10:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/289e/live/37ee9840-8edf-11f0-a84b-ed021aa99e21.jpg" alt="Thornberry and Barker pull out of deputy Labour leader race" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,38 +96,20 @@
                 <span class="time">2025-09-11 07:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-doha-qatar_7015380.jpg?20250909162305" alt="Qatari PM says Israel &#x27;killed any hope&#x27; of releasing hostages as criticism over Doha attack intensifies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/qatari-pm-says-israel-killed-any-hope-of-releasing-hostages-as-criticism-over-doha-attack-intensifies-13428564" target="_blank">Qatari PM says Israel &#x27;killed any hope&#x27; of releasing hostages as criticism over Doha attack intensifies</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-11 07:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/11/three-dead-dozens-injured-in-mexico-city-gas-tanker-explosion?traffic_source=rss" target="_blank">Three dead, dozens injured in Mexico City gas tanker explosion</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-11 06:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5b8/live/18af2db0-8ed4-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Killing of Trump ally lays bare America&#x27;s bloody and broken politics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cm2z9z4m22ro?at_medium=RSS&at_campaign=rss" target="_blank">Killing of Trump ally lays bare America&#x27;s bloody and broken politics</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-11 05:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/776211/david-zaslav-hbo-max-way-underpriced-password-sharing" target="_blank">David Zaslav thinks HBO Max is ‘way underpriced’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-11 08:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +155,29 @@
                 <span class="time">2025-09-10 23:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/776170/oracle-openai-300-billion-contract-project-stargate" target="_blank">OpenAI reportedly signs $300 billion Project Stargate cloud deal with Oracle</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-10 23:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rawveg/beyond-wearables-20aj" target="_blank">Beyond Wearables</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-11 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/09/azure-service-groups-preview/en/headerimage/generatedHeaderImage-1757411283972.jpg" alt="Azure Service Groups Enter Public Preview Offering New Abstraction Layer for Resource Management" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/azure-service-groups-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Azure Service Groups Enter Public Preview Offering New Abstraction Layer for Resource Management</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-11 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -198,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/divyasinghdev/habitforge-ai-where-resolutions-become-realities-you-can-see-4e8d" target="_blank">⚡HabitForge AI – Where Resolutions Become Realities You Can See 👀</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-11 06:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-37/" target="_blank">FOSS Weekly #25.37: Mint 22.2 Released, Official KDE Distro, Kazeta Linux for 90s Gaming, Ubuntu 25.10&#x27;s New Terminal and More Linux Stuff</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-09-11 04:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/youssef_bkj_5ed1dffabfd95/how-to-show-multi-quality-video-streaming-hd-sd-fhd-5d3" target="_blank">How to show multi-quality video streaming (HD, SD, FHD)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-11 03:38</span>
             </div>
         </div>
 </div>
@@ -324,7 +320,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 10:02 UTC
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
