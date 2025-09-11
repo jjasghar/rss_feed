@@ -1,27 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-09-11 17:01:32 UTC -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-09-11 18:02:14 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 18 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, September 11, 2025 - 17:01 UTC</div>
+    <div class="newspaper-date">Thursday, September 11, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2cd/live/f6e3f740-8f0c-11f0-84c8-99de564f0440.png" alt="Rifle found but suspect still at large - what we know about Kirk shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy04p4x21e5o?at_medium=RSS&at_campaign=rss" target="_blank">Rifle found but suspect still at large - what we know about Kirk shooting</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-11 17:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757606946802_now_daily_a_patterson_poi_photo_250911_1920x1080-803lyu.jpg" alt="FBI releases photo of person of interest in Charlie Kirk assassination" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/fbi-releases-photo-of-person-of-interest-in-charlie-kirk-assassination-247379013580" target="_blank">FBI releases photo of person of interest in Charlie Kirk assassination</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-11 16:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,24 +92,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/11/satellite-images-show-israel-has-totally-destroyed-areas-of-gaza-city?traffic_source=rss" target="_blank">Satellite images show Israel has totally destroyed areas of Gaza City</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-11 14:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2924/live/5cd5fbd0-8ef3-11f0-84c8-99de564f0440.jpg" alt="Farage faces questions over who funded £885,000 Clacton constituency home" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce845w70g0yo?at_medium=RSS&at_campaign=rss" target="_blank">Farage faces questions over who funded £885,000 Clacton constituency home</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-11 14:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757597734846_tdy_news_sr_charlie_kirk_update_1_250911_1920x1080-9mlebw.jpg" alt="Charlie Kirk Shooting: FBI Recovers High-Powered Rifle in Woods" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/high-powered-rifle-recovered-after-charlie-kirk-shooting-fbi-247365189970" target="_blank">Charlie Kirk Shooting: FBI Recovers High-Powered Rifle in Woods</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-11 13:35</span>
             </div>
         </div>
 </div>
@@ -215,6 +218,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/bacteria-microbe-concrete.jpg" alt="Scientists Infuse Cement With Bacteria to Create Living Energy Device" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/scientists-infuse-cement-with-bacteria-to-create-living-energy-device-2000657611" target="_blank">Scientists Infuse Cement With Bacteria to Create Living Energy Device</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-11 17:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4WN3YPNGWH2A0CBKDGPQ3NN/hero-image.jpg" alt="Here&#x27;s When (and How) You Can Preorder the iPhone 17" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/preorder-iphone-17?utm_medium=RSS" target="_blank">Here&#x27;s When (and How) You Can Preorder the iPhone 17</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-11 17:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Tron-Ares-Jeff-Bridges.jpg" alt="Flynn Lives in New ‘Tron: Ares’ Trailer That Goes Heavy on Jeff Bridges" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -242,30 +263,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4WH8P9B4CAEBEF06Z5730R4/hero-image.png" alt="Poshmark Is Lowering Its Shipping Fees for the First Time in a Decade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/poshmark-is-lowering-its-shipping-fees?utm_medium=RSS" target="_blank">Poshmark Is Lowering Its Shipping Fees for the First Time in a Decade</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-11 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2018/09/playstation_classic_01_1920.jpg?fit=1600%2C1067&amp;quality=60&amp;ssl=1" alt="PlayStation turns 30: How Sony&#x27;s gray box changed gaming forever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/badvibes.jpg?fit=1280%2C924&amp;quality=60&amp;ssl=1" alt="Humans fixing bad vibe code for good money" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/11/playstation-turns-30-how-sonys-gray-box-changed-gaming-forever.html" target="_blank">PlayStation turns 30: How Sony&#x27;s gray box changed gaming forever</a></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/11/humans-fixing-bad-vibe-code-for-good-money.html" target="_blank">Humans fixing bad vibe code for good money</a></span>
                 <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-11 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/the-real-tarzan.jpg" alt="This American Influencer Traveled to Australia to Film Himself Tackling Crocodiles. Australians Aren’t Happy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/american-influencer-traveled-australia-film-himself-tackling-crocodiles-2000657380" target="_blank">This American Influencer Traveled to Australia to Film Himself Tackling Crocodiles. Australians Aren’t Happy</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-11 15:01</span>
+                <span class="time">2025-09-11 16:00</span>
             </div>
         </div>
 </div>
@@ -296,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
