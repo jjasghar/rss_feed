@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-11 22:01:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-11 23:01:51 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, September 11, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Thursday, September 11, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +109,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/776884/openai-microsoft-mou" target="_blank">Microsoft and OpenAI have a new deal that could clear the way for an IPO</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-11 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/07/openai_microsoft_3-500x500.jpg" alt="OpenAI and Microsoft sign preliminary deal to revise partnership terms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/09/openai-and-microsoft-sign-preliminary-deal-to-revise-partnership-terms/" target="_blank">OpenAI and Microsoft sign preliminary deal to revise partnership terms</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-11 22:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/09/11/apples-latest-iphone-security-feature-just-made-life-more-difficult-for-spyware-makers/" target="_blank">Apple’s latest iPhone security feature just made life more difficult for spyware makers</a></span>
                 <span class="feed">TechCrunch</span>
@@ -142,24 +160,6 @@
                 <span class="time">2025-09-11 18:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/LIGO-TOP-500x500.jpg" alt="New black hole merger bolsters Hawking area theorem" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/09/new-black-hole-merger-bolsters-hawking-area-theorem/" target="_blank">New black hole merger bolsters Hawking area theorem</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-11 18:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c20f68cd6cf58db85176c6/master/pass/charlie-kirk-video-biz-2234095256.jpg" alt="Charlie Kirk Was Shot and Killed in a Post-Content Moderation World" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/charlie-kirk-shot-videos-spread-social-media/" target="_blank">Charlie Kirk Was Shot and Killed in a Post-Content Moderation World</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-11 18:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +172,15 @@
                 <span class="title"><a href="https://dev.to/codingsayed/get-to-know-me-m29" target="_blank">Get to know me :)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-11 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-43-Beta-Next-Week" target="_blank">Fedora 43 Beta Being Released Next Week</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-11 20:09</span>
             </div>
         </div>
 <div class="story">
@@ -210,15 +219,6 @@
                 <span class="time">2025-09-11 18:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/embedding-gemma/en/headerimage/header+%2850%29-1757614506140.jpg" alt="Google DeepMind Launches EmbeddingGemma, an Open Model for On-Device Embeddings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/embedding-gemma/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google DeepMind Launches EmbeddingGemma, an Open Model for On-Device Embeddings</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-11 18:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Beetlejuice-Warner-Bros.jpg" alt="Someone Finally Got the Note and Fixed This ‘Beetlejuice’ Sign" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/someone-finally-got-the-note-and-fixed-this-beetlejuice-sign-2000657774" target="_blank">Someone Finally Got the Note and Fixed This ‘Beetlejuice’ Sign</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-11 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Image-YouTube-Makerinator.jpg?fit=1080%2C601&amp;quality=60&amp;ssl=1" alt="Outsource your decisions to this handy device" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/11/outsource-your-decisions-to-this-handy-device.html" target="_blank">Outsource your decisions to this handy device</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-11 21:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/brd.jpg" alt="Borderlands 4‘s Launch On Steam Is Huge, But Some Are Struggling To Play It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +290,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/i-replaced-my-massage-gun-with-this-chirp-roller?utm_medium=RSS" target="_blank">I Swapped My Massage Gun for This Chirp Roller and My Muscles Have Never Felt Better</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-11 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/bacteria-microbe-concrete.jpg" alt="Scientists Infuse Cement With Bacteria to Create Living Energy Device" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/scientists-infuse-cement-with-bacteria-to-create-living-energy-device-2000657611" target="_blank">Scientists Infuse Cement With Bacteria to Create Living Energy Device</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-11 17:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4WN3YPNGWH2A0CBKDGPQ3NN/hero-image.jpg" alt="Here&#x27;s When (and How) You Can Preorder the iPhone 17" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/preorder-iphone-17?utm_medium=RSS" target="_blank">Here&#x27;s When (and How) You Can Preorder the iPhone 17</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-11 17:30</span>
             </div>
         </div>
 </div>
@@ -329,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
