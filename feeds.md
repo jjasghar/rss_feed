@@ -1,34 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-09-11 04:02:08 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-11 05:01:33 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, September 11, 2025 - 04:02 UTC</div>
+    <div class="newspaper-date">Thursday, September 11, 2025 - 05:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +52,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/11/politicians-in-at-least-51-countries-used-anti-lgbtq-rhetoric-during-elections-ngo-finds" target="_blank">Politicians in at least 51 countries used anti-LGBTQ+ rhetoric during elections, NGO finds</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-09-11 04:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/11/israels-president-herzog-said-argued-out-of-respect-with-british-pm?traffic_source=rss" target="_blank">Israel’s President Herzog said ‘argued out of respect’ with British PM</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-11 03:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a11/live/57791530-8ea0-11f0-b391-6936825093bd.png" alt="Campus killing lays bare America&#x27;s bloody and broken politics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cm2z9z4m22ro?at_medium=RSS&at_campaign=rss" target="_blank">Campus killing lays bare America&#x27;s bloody and broken politics</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-11 03:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,33 +104,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/charlie-kirk-shot-event-utah-university-jd-vance/story?id=125451514" target="_blank">Manhunt for shooter continues after Charlie Kirk killed in &#x27;political assassination&#x27;</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-11 02:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/11/india-vs-pakistan-asia-cup-2025-match-start-time-team-news-and-lineups?traffic_source=rss" target="_blank">India vs Pakistan – Asia Cup 2025: Match start time, team news and lineups</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-11 02:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/charlie-kirk-waving-rt-jt-250910_1757536809498_hpMain_4x3t_384.jpg" alt="Charlie Kirk fatally shot at Utah university in &#x27;political assassination&#x27;: Governor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/charlie-kirk-shot-event-utah-university-jd-vance/story?id=125451514" target="_blank">Charlie Kirk fatally shot at Utah university in &#x27;political assassination&#x27;: Governor</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-11 00:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757548655641_nn_kwe_who_was_charlie_kirck_250910_1920x1080-pt9k3l.jpg" alt="Charlie Kirk helped the MAGA movement gain traction with young voters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/charlie-kirk-helped-the-maga-movement-gain-traction-with-young-voters-247327813915" target="_blank">Charlie Kirk helped the MAGA movement gain traction with young voters</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-10 23:57</span>
             </div>
         </div>
 </div>
@@ -165,6 +173,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/09/11/how-ai-is-reshaping-developer-teams/" target="_blank">How AI is reshaping developer teams and the future of software development</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-09-11 07:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/youssef_bkj_5ed1dffabfd95/how-to-show-multi-quality-video-streaming-hd-sd-fhd-5d3" target="_blank">How to show multi-quality video streaming (HD, SD, FHD)</a></span>
                 <span class="feed">DEV Community</span>
@@ -205,15 +222,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/spotify-lossless-available-to-all-premium-subscribers" target="_blank">Spotify Finally Adds Lossless Audio Streaming Option</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-09-10 22:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dyfet/blind-coding-70b" target="_blank">Blind coding</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-10 22:30</span>
             </div>
         </div>
 </div>
@@ -321,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 145 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 05:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
