@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-11 21:02:05 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-11 22:01:36 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, September 11, 2025 - 21:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, September 11, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/kirk-shooter-suspect-split-ht-jt-250911_1757606542845_hpMain_4x3t_384.jpg" alt="FBI releases images of person of interest amid manhunt for Charlie Kirk&#x27;s killer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/charlie-kirk-shooting-fbi-appeals-tips-manhunt-continues/story?id=125469211" target="_blank">FBI releases images of person of interest amid manhunt for Charlie Kirk&#x27;s killer</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-11 21:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +101,29 @@
                 <span class="time">2025-09-11 16:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/11/nx-s1-5537908/political-violence-charlie-kirk" target="_blank">The killing of Charlie Kirk adds to a time of political upheaval and violence</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-11 15:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/11/apples-latest-iphone-security-feature-just-made-life-more-difficult-for-spyware-makers/" target="_blank">Apple’s latest iPhone security feature just made life more difficult for spyware makers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-11 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68c33e23056a2fb79e26a2d1/master/pass/iPhone%2017%20Pro%20Hero%20Image%20SOURCE%20Julian%20Chokkattu.jpg" alt="Which iPhone 17 Model Should You Buy?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/which-apple-iphone-17-models-to-buy/" target="_blank">Which iPhone 17 Model Should You Buy?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-11 21:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/Tron-Ares-Jeff-Bridges-1600x1067-1-500x500.jpg" alt="Latest TRON: Ares trailer takes us back to 1982" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,24 +158,6 @@
                 <span class="title"><a href="https://www.wired.com/story/charlie-kirk-shot-videos-spread-social-media/" target="_blank">Charlie Kirk Was Shot and Killed in a Post-Content Moderation World</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-09-11 18:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/netflix/776477/netflix-movie-theaters-frankenstein-knives-out" target="_blank">Netflix&amp;#8217;s best movies deserve more time on the big screen</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-11 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/02/gmail-app-1-500x500.jpg" alt="Gmail gets a dedicated place to track all your purchases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/gmail-gets-a-dedicated-place-to-track-all-your-purchases/" target="_blank">Gmail gets a dedicated place to track all your purchases</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-11 16:01</span>
             </div>
         </div>
 </div>
@@ -238,6 +239,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/brd.jpg" alt="Borderlands 4‘s Launch On Steam Is Huge, But Some Are Struggling To Play It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/borderlands-4s-launch-on-steam-is-huge-but-some-are-struggling-to-play-it-2000625009" target="_blank">Borderlands 4‘s Launch On Steam Is Huge, But Some Are Struggling To Play It</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-11 21:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K4X61JKKCRRW0JPA824VGMDS/hero-image.jpg" alt="PlayStation Has a New Parental Control App" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -282,15 +292,6 @@
                 <span class="time">2025-09-11 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Tron-Ares-Jeff-Bridges.jpg" alt="Flynn Lives in New ‘Tron: Ares’ Trailer That Goes Heavy on Jeff Bridges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/flynn-lives-in-new-tron-ares-trailer-that-goes-heavy-on-jeff-bridges-2000657613" target="_blank">Flynn Lives in New ‘Tron: Ares’ Trailer That Goes Heavy on Jeff Bridges</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-11 16:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -328,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
