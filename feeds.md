@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-11 13:07:47 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-11 14:01:41 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, September 11, 2025 - 13:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, September 11, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/11/video-israeli-right-wing-channel-host-celebrates-attack-on-hamas-in-qatar?traffic_source=rss" target="_blank">Video: Israeli right-wing channel host celebrates attack on Hamas in Qatar</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-11 13:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +100,38 @@
                 <span class="time">2025-09-11 10:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/charlie-kirk-speaking-gty-jt-250910_1757547358804_hpMain_4x3t_384.jpg" alt="Manhunt for Charlie Kirk&#x27;s killer continues as Trump blames Democrats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/charlie-kirk-shooting-fbi-appeals-tips-manhunt-continues/story?id=125469211" target="_blank">Manhunt for Charlie Kirk&#x27;s killer continues as Trump blames Democrats</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-11 10:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/decoder-podcast-with-nilay-patel/773904/sierra-ceo-bret-taylor-ai-agents-openai-bubble-interview" target="_blank">Sierra CEO Bret Taylor on why the AI bubble feels like the dotcom boom</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-11 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1-500x500.jpg" alt="The US is now the largest investor in commercial spyware" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/09/the-us-is-now-the-largest-investor-in-commercial-spyware/" target="_blank">The US is now the largest investor in commercial spyware</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-11 13:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68c22bfadb02b730f61b1d5f/master/pass/Review-%20All-Clad%20Gas%20Pizza%20Oven.png" alt="All-Clad Gas Pizza Oven Review (2025): A Pie That Rotates Itself" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/all-clad-gas-pizza-oven/" target="_blank">All-Clad Gas Pizza Oven Review (2025): A Pie That Rotates Itself</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-11 13:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,38 +159,29 @@
                 <span class="time">2025-09-11 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/683109f6e43728b4f265f9a8/master/pass/Update-%20The%20Best%20Reusable%20Water%20Bottles%20That%20Aren%E2%80%99t%20Stanley%20Cups.png" alt="Best Reusable Water Bottles of 2025, Tested &amp; Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-reusable-water-bottles/" target="_blank">Best Reusable Water Bottles of 2025, Tested &amp; Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-11 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/776211/david-zaslav-hbo-max-way-underpriced-password-sharing" target="_blank">David Zaslav thinks HBO Max is ‘way underpriced’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-11 08:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/10/a-california-bill-that-would-regulate-ai-companion-chatbots-is-close-to-becoming-law/" target="_blank">A California bill that would regulate AI companion chatbots is close to becoming law</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-11 05:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://discuss.grapheneos.org/d/13107-grapheneos-and-forensic-extraction-of-data" target="_blank">GrapheneOS and Forensic Extraction of Data</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-11 12:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/what-our-users-make-with-ubuntu-pro-episode-2" target="_blank">What our users make with Ubuntu Pro &amp;#8211; Episode 2</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-09-11 12:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/presentations/architecture-best-practices/en/mediumimage/gregor-hohpe-medium-1756297866716.jpg" alt="Presentation: Thinking Like an Architect" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,29 +218,20 @@
                 <span class="time">2025-09-11 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/PipeWire-1.4.8-Released" target="_blank">PipeWire 1.4.8 Improves Compatibility With Apple Home Pod Mini Speakers</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-11 10:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/azure-service-groups-preview/en/headerimage/generatedHeaderImage-1757411283972.jpg" alt="Azure Service Groups Enter Public Preview Offering New Abstraction Layer for Resource Management" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/azure-service-groups-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Azure Service Groups Enter Public Preview Offering New Abstraction Layer for Resource Management</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-11 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/MacBook-Pro-14-Doom-Dark-Ages-GeForce-now-1.jpg" alt="Streaming Can’t Replace Your PC, but Nvidia’s Updated GeForce Now Comes Close" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/streaming-cant-replace-your-pc-but-nvidias-updated-geforce-now-comes-close-2000657060" target="_blank">Streaming Can’t Replace Your PC, but Nvidia’s Updated GeForce Now Comes Close</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-11 13:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2023/07/e4b2c2dc2a22231c0fd46eae4b138b10.jpg" alt="Bluesky Launches Age Verification in Select States" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,15 +275,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/10/second-laptops-arent-luxuries-when-theyre-under-200.html" target="_blank">Second laptops aren&#x27;t luxuries when they&#x27;re under $200</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-10 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/mussolini.jpeg?fit=1080%2C574&amp;quality=60&amp;ssl=1" alt="Just how horrifying was Mussolini? New series about world&#x27;s first fascist leader starts today (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/10/just-how-horrifying-was-mussolini-new-series-about-worlds-first-fascist-leader-starts-today-video.html" target="_blank">Just how horrifying was Mussolini? New series about world&#x27;s first fascist leader starts today (video)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-10 20:31</span>
             </div>
         </div>
 </div>
@@ -324,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 13:08 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
