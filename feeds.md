@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-11 09:01:44 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-11 10:01:46 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, September 11, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Thursday, September 11, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/289e/live/37ee9840-8edf-11f0-a84b-ed021aa99e21.jpg" alt="Thornberry and Barker pull out of deputy Labour leader race" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cg7dzejkz4ro?at_medium=RSS&at_campaign=rss" target="_blank">Thornberry and Barker pull out of deputy Labour leader race</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-11 09:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/charlie-kirk-speaking-gty-jt-250910_1757547358804_hpMain_4x3t_384.jpg" alt="Charlie Kirk shooting: FBI appeals for tips as manhunt continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -64,6 +74,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-doha-qatar_7015380.jpg?20250909162305" alt="Qatari PM says Israel &#x27;killed any hope&#x27; of releasing hostages as criticism over Doha attack intensifies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/qatari-pm-says-israel-killed-any-hope-of-releasing-hostages-as-criticism-over-doha-attack-intensifies-13428564" target="_blank">Qatari PM says Israel &#x27;killed any hope&#x27; of releasing hostages as criticism over Doha attack intensifies</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-11 07:52</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -79,24 +98,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cm2z9z4m22ro?at_medium=RSS&at_campaign=rss" target="_blank">Killing of Trump ally lays bare America&#x27;s bloody and broken politics</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-11 05:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/11/nx-s1-5537731/anniversary-911-terror-attacks" target="_blank">U.S. marks 24th anniversary of 9/11 terror attacks</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-11 05:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/11/politicians-in-at-least-51-countries-used-anti-lgbtq-rhetoric-during-elections-ngo-finds" target="_blank">Politicians in at least 51 countries used anti-LGBTQ+ rhetoric during elections, NGO finds</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-09-11 04:01</span>
             </div>
         </div>
 </div>
@@ -166,6 +167,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/data_fortune_64fa15d5eff3/5-common-performance-pitfalls-in-mobile-apps-and-how-to-fix-them-417h" target="_blank">5 Common Performance Pitfalls in Mobile Apps (And How to Fix Them)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-11 09:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/09/openai-gpt-realtime/en/headerimage/GettyImages-1138451118-1757517374254.jpeg" alt="OpenAI’s gpt-realtime Enables Production-Ready Voice Agents with End-to-End Speech Processing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/openai-gpt-realtime/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI’s gpt-realtime Enables Production-Ready Voice Agents with End-to-End Speech Processing</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-11 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2025/09/11/how-ai-is-reshaping-developer-teams/" target="_blank">How AI is reshaping developer teams and the future of software development</a></span>
                 <span class="feed">Stack Overflow Blog</span>
@@ -197,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/youssef_bkj_5ed1dffabfd95/how-to-show-multi-quality-video-streaming-hd-sd-fhd-5d3" target="_blank">How to show multi-quality video streaming (HD, SD, FHD)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-11 03:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/walker876/ai-and-art-how-creators-can-navigate-the-evolving-landscape-1gb4" target="_blank">AI and Art: How Creators Can Navigate the Evolving Landscape</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-11 02:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://english.hani.co.kr/arti/english_edition/e_international/1218025.html" target="_blank">Seoul says US must fix its visa system if it wants Korea&#x27;s investments</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-11 01:58</span>
             </div>
         </div>
 </div>
@@ -322,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
