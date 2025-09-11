@@ -1,30 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-09-11 18:02:14 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-09-11 19:01:27 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, September 11, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, September 11, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2484/live/4a3c56a0-8ef7-11f0-ad1d-477615c292d0.jpg" alt="Starmer facing fresh questions after Mandelson sacking" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy0v81zeggko?at_medium=RSS&at_campaign=rss" target="_blank">Starmer facing fresh questions after Mandelson sacking</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-11 18:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/11/g-s1-88213/south-korean-hyundai-workers-immigration-raid-atlanta-airport" target="_blank">South Korean workers detained in immigration raid leave Atlanta and head home</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-11 18:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2cd/live/f6e3f740-8f0c-11f0-84c8-99de564f0440.png" alt="Rifle found but suspect still at large - what we know about Kirk shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,29 +105,38 @@
                 <span class="time">2025-09-11 15:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/9/11/with-the-doha-strike-netanyahu-has-declared-war-on-the-world?traffic_source=rss" target="_blank">With the Doha strike, Netanyahu has declared war on the world</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-11 15:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/11/satellite-images-show-israel-has-totally-destroyed-areas-of-gaza-city?traffic_source=rss" target="_blank">Satellite images show Israel has totally destroyed areas of Gaza City</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-11 14:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/nasa/776554/nasa-mars-jezero-crater-budget-cuts" target="_blank">NASA found clues of life on Mars, but budget cuts threaten future missions</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-11 18:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/LIGO-TOP-500x500.jpg" alt="New black hole merger bolsters Hawking area theorem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/09/new-black-hole-merger-bolsters-hawking-area-theorem/" target="_blank">New black hole merger bolsters Hawking area theorem</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-11 18:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68c20f68cd6cf58db85176c6/master/pass/charlie-kirk-video-biz-2234095256.jpg" alt="Charlie Kirk Was Shot and Killed in a Post-Content Moderation World" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/charlie-kirk-shot-videos-spread-social-media/" target="_blank">Charlie Kirk Was Shot and Killed in a Post-Content Moderation World</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-11 18:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -126,38 +164,20 @@
                 <span class="time">2025-09-11 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c1e7369f996c85f0188f7a/master/pass/The%207%20Best%20Travel%20Cameras.png" alt="Best Travel Cameras (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-travel-cameras/" target="_blank">Best Travel Cameras (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-11 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/decoder-podcast-with-nilay-patel/773904/sierra-ceo-bret-taylor-ai-agents-openai-bubble-interview" target="_blank">Sierra CEO Bret Taylor on why the AI bubble feels like the dotcom boom</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-11 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1-500x500.jpg" alt="The US is now the largest investor in commercial spyware" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2025/09/the-us-is-now-the-largest-investor-in-commercial-spyware/" target="_blank">The US is now the largest investor in commercial spyware</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-11 13:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/09/embedding-gemma/en/headerimage/header+%2850%29-1757614506140.jpg" alt="Google DeepMind Launches EmbeddingGemma, an Open Model for On-Device Embeddings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/embedding-gemma/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google DeepMind Launches EmbeddingGemma, an Open Model for On-Device Embeddings</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-11 18:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,13 +223,18 @@
                 <span class="time">2025-09-11 15:30</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F392464%2F38017c9b-89f2-42ab-b7d3-41a25728aead.jpeg" alt="Hey devs, checkout my article on building a production ready react + vite application using an awesome boilerplate. 🚀" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/singhamandeep007/hey-devs-checkout-my-article-on-building-a-production-ready-react-vite-application-using-an-2n6k" target="_blank">Hey devs, checkout my article on building a production ready react + vite application using an awesome boilerplate. 🚀</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-11 14:51</span>
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/09/bulletproof-host-stark-industries-evades-eu-sanctions/" target="_blank">Bulletproof Host Stark Industries Evades EU Sanctions</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-09-11 17:40</span>
             </div>
         </div>
 </div>
@@ -217,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/ufo-1.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="&quot;What the hell is that?&quot; — U.S. missile bounces off UFO" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/11/what-the-hell-is-that-u-s-missile-bounces-off-ufo.html" target="_blank">&quot;What the hell is that?&quot; — U.S. missile bounces off UFO</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-11 18:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4WSSPGJGFAYDCBDTX06S303/hero-image.jpg" alt="I Swapped My Massage Gun for This Chirp Roller and My Muscles Have Never Felt Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/i-replaced-my-massage-gun-with-this-chirp-roller?utm_medium=RSS" target="_blank">I Swapped My Massage Gun for This Chirp Roller and My Muscles Have Never Felt Better</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-11 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/bacteria-microbe-concrete.jpg" alt="Scientists Infuse Cement With Bacteria to Create Living Energy Device" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -253,24 +296,6 @@
                 <span class="time">2025-09-11 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/star-trek-strange-new-worlds-recap-new-life-and-new-civilizations.jpg" alt="‘Star Trek: Strange New Worlds’ Ends Its Bumpy Season With a Similarly Bumpy Finale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-trek-strange-new-worlds-finale-recap-batel-2000655154" target="_blank">‘Star Trek: Strange New Worlds’ Ends Its Bumpy Season With a Similarly Bumpy Finale</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-11 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/badvibes.jpg?fit=1280%2C924&amp;quality=60&amp;ssl=1" alt="Humans fixing bad vibe code for good money" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/11/humans-fixing-bad-vibe-code-for-good-money.html" target="_blank">Humans fixing bad vibe code for good money</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-11 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -299,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
