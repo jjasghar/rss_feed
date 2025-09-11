@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-11 12:02:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-11 13:07:47 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, September 11, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, September 11, 2025 - 13:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/11/nx-s1-5537074/inflation-economy-grocery-gas-federal-reserve" target="_blank">Inflation climbs in August as grocery and gas prices jump</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-11 12:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/11/what-we-know-about-us-conservative-activist-charlie-kirk-shooting?traffic_source=rss" target="_blank">What we know about US conservative activist Charlie Kirk shooting</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-11 12:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757590290953_tdy_news_7a_winter_charlie_kirk_250911_1920x1080-e1d9z4.jpg" alt="Search for Shooter Intensifies Following Charlie Kirk Assassination" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/search-for-shooter-intensifies-following-charlie-kirk-assassination-247360069761" target="_blank">Search for Shooter Intensifies Following Charlie Kirk Assassination</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-11 11:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,38 +101,29 @@
                 <span class="time">2025-09-11 10:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/289e/live/37ee9840-8edf-11f0-a84b-ed021aa99e21.jpg" alt="Thornberry and Barker pull out of deputy Labour leader race" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cg7dzejkz4ro?at_medium=RSS&at_campaign=rss" target="_blank">Thornberry and Barker pull out of deputy Labour leader race</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-11 09:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/charlie-kirk-speaking-gty-jt-250910_1757547358804_hpMain_4x3t_384.jpg" alt="Charlie Kirk shooting: FBI appeals for tips as manhunt continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/charlie-kirk-shooting-fbi-appeals-tips-manhunt-continues/story?id=125469211" target="_blank">Charlie Kirk shooting: FBI appeals for tips as manhunt continues</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-11 08:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/9/11/9-11-was-avenged-on-us-on-its-anniversary-i-refuse-to?traffic_source=rss" target="_blank">9/11 was avenged on us. On its anniversary, I refuse to forgive</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-11 07:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/776247/nothing-ear-3-wireless-earbuds-design-microphone-charging-case-aluminum" target="_blank">Nothing’s Ear 3 earbuds have a microphone and ‘talk’ button on their charging case</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-11 12:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68b9cec729d5e74472f40061/master/pass/Review-%20DreamCloud%20Hybrid%20Mattress.png" alt="DreamCloud Hybrid Mattress Review: Support and Value" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/dreamcloud-hybrid-mattress/" target="_blank">DreamCloud Hybrid Mattress Review: Support and Value</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-11 12:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +160,20 @@
                 <span class="time">2025-09-11 05:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/10/perplexity-reportedly-raised-200m-at-20b-valuation/" target="_blank">Perplexity reportedly raised $200M at $20B valuation</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-11 03:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/f9tranche1-1-500x500.jpg" alt="Pentagon begins deploying new satellite network to link sensors with shooters" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/09/pentagon-begins-deploying-new-satellite-network-to-link-sensors-with-shooters/" target="_blank">Pentagon begins deploying new satellite network to link sensors with shooters</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-11 02:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/presentations/architecture-best-practices/en/mediumimage/gregor-hohpe-medium-1756297866716.jpg" alt="Presentation: Thinking Like an Architect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/architecture-best-practices/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Thinking Like an Architect</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-11 12:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,20 +219,20 @@
                 <span class="time">2025-09-11 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/data_fortune_64fa15d5eff3/5-common-performance-pitfalls-in-mobile-apps-and-how-to-fix-them-417h" target="_blank">5 Common Performance Pitfalls in Mobile Apps (And How to Fix Them)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-11 09:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2023/07/e4b2c2dc2a22231c0fd46eae4b138b10.jpg" alt="Bluesky Launches Age Verification in Select States" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/bluesky-launches-age-verification-in-select-states-2000657248" target="_blank">Bluesky Launches Age Verification in Select States</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-11 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Chucky-final-popmart-.jpg" alt="Pop Mart Unleashes Its Blind Box ‘Chucky’ Collection Just in Time for Halloween" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,15 +276,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/10/just-how-horrifying-was-mussolini-new-series-about-worlds-first-fascist-leader-starts-today-video.html" target="_blank">Just how horrifying was Mussolini? New series about world&#x27;s first fascist leader starts today (video)</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-10 20:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4TCK30XY5DK0EGM5M17S385/hero-image.jpg" alt="We Already Know How Much Faster the iPhone 17 Is" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/we-already-know-how-much-faster-the-iphone-17-is?utm_medium=RSS" target="_blank">We Already Know How Much Faster the iPhone 17 Is</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-10 20:30</span>
             </div>
         </div>
 </div>
@@ -319,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 13:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
