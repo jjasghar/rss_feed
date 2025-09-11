@@ -1,32 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-11 02:27:28 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2025-09-11 03:13:54 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, September 11, 2025 - 02:27 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, September 11, 2025 - 03:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/11/india-vs-pakistan-asia-cup-2025-match-start-time-team-news-and-lineups?traffic_source=rss" target="_blank">India vs Pakistan – Asia Cup 2025: Match start time, team news and lineups</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-11 02:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/charlie-kirk-waving-rt-jt-250910_1757536809498_hpMain_4x3t_384.jpg" alt="Charlie Kirk fatally shot at Utah university in &#x27;political assassination&#x27;: Governor" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,15 +99,6 @@
                 <span class="title"><a href="https://www.theguardian.com/media/2025/sep/11/global-press-freedom-suffers-sharpest-fall-in-50-years-report-finds" target="_blank">Global press freedom suffers sharpest fall in 50 years, report finds</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-09-10 23:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Person of interest in custody in Charlie Kirk shooting: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Person of interest in custody in Charlie Kirk shooting: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-10 22:48</span>
             </div>
         </div>
 </div>
@@ -164,6 +169,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/walker876/ai-and-art-how-creators-can-navigate-the-evolving-landscape-1gb4" target="_blank">AI and Art: How Creators Can Navigate the Evolving Landscape</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-11 02:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://english.hani.co.kr/arti/english_edition/e_international/1218025.html" target="_blank">Seoul says US must fix its visa system if it wants Korea&#x27;s investments</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-11 01:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ivanjarkov/how-to-properly-configure-robotstxt-and-why-it-matters-for-seo-4mmb" target="_blank">How to Properly Configure robots.txt and Why It Matters for SEO</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-11 01:23</span>
@@ -194,24 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Mesa-Drops-VDPAU" target="_blank">Mesa Drops VDPAU Video Acceleration In Favor Of VA-API</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-10 21:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://lwn.net/SubscriberLink/1037166/caa6979c16a99c9e/" target="_blank">KDE launches its own distribution</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-10 21:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/marco_cheung_/server-side-rendering-the-security-reality-check-every-developer-needs-f13" target="_blank">Server-Side Rendering: The Security Reality Check Every Developer Needs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-10 20:53</span>
             </div>
         </div>
 </div>
@@ -328,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 02:27 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 03:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
