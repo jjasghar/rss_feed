@@ -1,36 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-09-11 16:01:56 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing 54 RSS feeds at 2025-09-11 17:01:32 UTC -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 12 new posts out of 28 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, September 11, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, September 11, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +37,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/11/nx-s1-5537908/political-violence-charlie-kirk" target="_blank">The killing of Charlie Kirk adds to a time of political upheaval and violence</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-11 15:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/charlie-kirk-speaking-gty-jt-250910_1757547358804_hpMain_4x3t_384.jpg" alt="More details emerge as manhunt continues for Charlie Kirk’s killer: FBI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +91,29 @@
                 <span class="time">2025-09-11 13:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/11/video-israeli-right-wing-channel-host-celebrates-attack-on-hamas-in-qatar?traffic_source=rss" target="_blank">Video: Israeli right-wing channel host celebrates attack on Hamas in Qatar</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-11 13:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/netflix/776477/netflix-movie-theaters-frankenstein-knives-out" target="_blank">Netflix&amp;#8217;s best movies deserve more time on the big screen</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-11 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/02/gmail-app-1-500x500.jpg" alt="Gmail gets a dedicated place to track all your purchases" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/gmail-gets-a-dedicated-place-to-track-all-your-purchases/" target="_blank">Gmail gets a dedicated place to track all your purchases</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-11 16:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +150,20 @@
                 <span class="time">2025-09-11 13:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c22bfadb02b730f61b1d5f/master/pass/Review-%20All-Clad%20Gas%20Pizza%20Oven.png" alt="All-Clad Gas Pizza Oven Review (2025): A Pie That Rotates Itself" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/all-clad-gas-pizza-oven/" target="_blank">All-Clad Gas Pizza Oven Review (2025): A Pie That Rotates Itself</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-11 13:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/776247/nothing-ear-3-wireless-earbuds-design-microphone-charging-case-aluminum" target="_blank">Nothing’s Ear 3 earbuds have a microphone and ‘talk’ button on their charging case</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-11 12:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-write-cache-pages" target="_blank">Linux 6.18 Will Further Complicate Non-GPL Out-Of-Tree File-Systems</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-11 16:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -185,6 +185,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://spiraldb.com/post/announcing-spiral" target="_blank">Spiral</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-11 15:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://anishathalye.com/semlib/" target="_blank">Semlib: LLM-powered Data Processing</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
@@ -200,29 +209,29 @@
                 <span class="time">2025-09-11 14:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/CUPS-2.4.13-Released" target="_blank">CUPS 2.4.13 Print Server Released With &quot;Important&quot; Security Fix</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-11 14:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://discuss.grapheneos.org/d/13107-grapheneos-and-forensic-extraction-of-data" target="_blank">GrapheneOS and Forensic Extraction of Data</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-11 12:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Tron-Ares-Jeff-Bridges.jpg" alt="Flynn Lives in New ‘Tron: Ares’ Trailer That Goes Heavy on Jeff Bridges" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/flynn-lives-in-new-tron-ares-trailer-that-goes-heavy-on-jeff-bridges-2000657613" target="_blank">Flynn Lives in New ‘Tron: Ares’ Trailer That Goes Heavy on Jeff Bridges</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-11 16:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4WPVKEF8G5QP859GGPYFVPP/hero-image.jpg" alt="How the Apple Watch Series 11 Stacks Up Against the Ultra 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-the-apple-watch-series-11-stacks-up-against-ultra-3?utm_medium=RSS" target="_blank">How the Apple Watch Series 11 Stacks Up Against the Ultra 3</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-11 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/star-trek-strange-new-worlds-recap-new-life-and-new-civilizations.jpg" alt="‘Star Trek: Strange New Worlds’ Ends Its Bumpy Season With a Similarly Bumpy Finale" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -259,24 +268,6 @@
                 <span class="time">2025-09-11 15:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/12/bb-12.jpg?fit=1036%2C514&amp;quality=60&amp;ssl=1" alt="Cyberpunk 2077 puzzle deepens as players uncover secret Night City website" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/11/cyberpunk-2077-puzzle-deepens-as-players-uncover-secret-night-city-website.html" target="_blank">Cyberpunk 2077 puzzle deepens as players uncover secret Night City website</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-11 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/MacBook-Pro-14-Doom-Dark-Ages-GeForce-now-1.jpg" alt="Streaming Can’t Replace Your PC, but Nvidia’s Updated GeForce Now Comes Close" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/streaming-cant-replace-your-pc-but-nvidias-updated-geforce-now-comes-close-2000657060" target="_blank">Streaming Can’t Replace Your PC, but Nvidia’s Updated GeForce Now Comes Close</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-11 13:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -305,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
