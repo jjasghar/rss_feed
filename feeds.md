@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-11 14:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-11 15:01:51 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, September 11, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, September 11, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/11/satellite-images-show-israel-has-totally-destroyed-areas-of-gaza-city?traffic_source=rss" target="_blank">Satellite images show Israel has totally destroyed areas of Gaza City</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-11 14:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757597734846_tdy_news_sr_charlie_kirk_update_1_250911_1920x1080-9mlebw.jpg" alt="Charlie Kirk Shooting: FBI Recovers High-Powered Rifle in Woods" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/high-powered-rifle-recovered-after-charlie-kirk-shooting-fbi-247365189970" target="_blank">Charlie Kirk Shooting: FBI Recovers High-Powered Rifle in Woods</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-11 13:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +102,20 @@
                 <span class="time">2025-09-11 11:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/09/11/g-s1-77007/hiv-condoms-hiv-positive-u-s-aid-cuts" target="_blank">Love, drugs and condoms: Couples with different HIV status face a new reality</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-11 10:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/11/trump-response-to-israels-qatar-attack-undermines-us-credibility-analysts?traffic_source=rss" target="_blank">Trump response to Israel’s Qatar attack undermines US credibility: Analysts</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-11 10:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68c1e7369f996c85f0188f7a/master/pass/The%207%20Best%20Travel%20Cameras.png" alt="Best Travel Cameras (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-travel-cameras/" target="_blank">Best Travel Cameras (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-11 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +161,29 @@
                 <span class="time">2025-09-11 12:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/776148/borderlands-4-review-coop-looter-shooter-gearbox" target="_blank">Borderlands 4 turns off your brain and turns on the fun</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-11 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F392464%2F38017c9b-89f2-42ab-b7d3-41a25728aead.jpeg" alt="Hey devs, checkout my article on building a production ready react + vite application using an awesome boilerplate. 🚀" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/singhamandeep007/hey-devs-checkout-my-article-on-building-a-production-ready-react-vite-application-using-an-2n6k" target="_blank">Hey devs, checkout my article on building a production ready react + vite application using an awesome boilerplate. 🚀</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-11 14:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/CUPS-2.4.13-Released" target="_blank">CUPS 2.4.13 Print Server Released With &quot;Important&quot; Security Fix</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-11 14:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,29 +220,29 @@
                 <span class="time">2025-09-11 12:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/growing-junior-staff/en/headerimage/generatedHeaderImage-1757449109449.jpg" alt="Lessons Learned from Growing from Junior to Staff and Beyond" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/growing-junior-staff/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Lessons Learned from Growing from Junior to Staff and Beyond</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-11 11:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rawveg/beyond-wearables-20aj" target="_blank">Beyond Wearables</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-11 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/the-real-tarzan.jpg" alt="This American Influencer Traveled to Australia to Film Himself Tackling Crocodiles. Australians Aren’t Happy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/american-influencer-traveled-australia-film-himself-tackling-crocodiles-2000657380" target="_blank">This American Influencer Traveled to Australia to Film Himself Tackling Crocodiles. Australians Aren’t Happy</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-11 15:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/12/bb-12.jpg?fit=1036%2C514&amp;quality=60&amp;ssl=1" alt="Cyberpunk 2077 puzzle deepens as players uncover secret Night City website" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/11/cyberpunk-2077-puzzle-deepens-as-players-uncover-secret-night-city-website.html" target="_blank">Cyberpunk 2077 puzzle deepens as players uncover secret Night City website</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-11 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/MacBook-Pro-14-Doom-Dark-Ages-GeForce-now-1.jpg" alt="Streaming Can’t Replace Your PC, but Nvidia’s Updated GeForce Now Comes Close" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -257,24 +277,6 @@
                 <span class="title"><a href="https://gizmodo.com/universal-executive-regrets-most-hilarious-perfect-part-of-fast-and-furious-franchise-2000657222" target="_blank">Universal Executive Regrets Most Hilarious, Perfect Part of ‘Fast and Furious’ Franchise</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-10 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/New-Project-9.jpg" alt="Switch 2 Games, Upgrades, And Ports: What To Expect From The Longest Nintendo Direct Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/nintendo-direct-switch-2-leaks-mario-re7-smash-bros-2000624779" target="_blank">Switch 2 Games, Upgrades, And Ports: What To Expect From The Longest Nintendo Direct Ever</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-10 21:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Apple-MacBook-Air-13.3-1.jpg?fit=1300%2C976&amp;quality=60&amp;ssl=1" alt="Second laptops aren&#x27;t luxuries when they&#x27;re under $200" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/10/second-laptops-arent-luxuries-when-theyre-under-200.html" target="_blank">Second laptops aren&#x27;t luxuries when they&#x27;re under $200</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-10 21:00</span>
             </div>
         </div>
 </div>
@@ -323,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 140 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 269 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
