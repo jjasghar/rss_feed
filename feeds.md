@@ -1,41 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-11 06:02:31 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-11 07:01:42 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 32 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, September 11, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, September 11, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/11/three-dead-dozens-injured-in-mexico-city-gas-tanker-explosion?traffic_source=rss" target="_blank">Three dead, dozens injured in Mexico City gas tanker explosion</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-11 06:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5b8/live/18af2db0-8ed4-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Killing of Trump ally lays bare America&#x27;s bloody and broken politics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -94,15 +100,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cm2z9z4m22ro?at_medium=RSS&at_campaign=rss" target="_blank">Campus killing lays bare America&#x27;s bloody and broken politics</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-11 03:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/11/tributes-pour-in-for-charlie-kirk-conservative-activist-and-trump-ally?traffic_source=rss" target="_blank">Tributes pour in for Charlie Kirk, conservative activist and Trump ally</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-11 03:00</span>
             </div>
         </div>
 </div>
@@ -179,6 +176,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0ydyzur6spt0f42zkezx.png" alt="⚡HabitForge AI – Where Resolutions Become Realities You Can See 👀" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/divyasinghdev/habitforge-ai-where-resolutions-become-realities-you-can-see-4e8d" target="_blank">⚡HabitForge AI – Where Resolutions Become Realities You Can See 👀</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-11 06:51</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -212,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/ivanjarkov/how-to-properly-configure-robotstxt-and-why-it-matters-for-seo-4mmb" target="_blank">How to Properly Configure robots.txt and Why It Matters for SEO</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-11 01:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/spotify-lossless.jpg?resize=406%2C232&amp;ssl=1" alt="Spotify Finally Adds Lossless Audio Streaming Option" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/spotify-lossless-available-to-all-premium-subscribers" target="_blank">Spotify Finally Adds Lossless Audio Streaming Option</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-10 22:48</span>
             </div>
         </div>
 </div>
@@ -323,22 +320,13 @@
                 <span class="time">2025-09-10 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/09/10/deadheads" target="_blank">Deadheads</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-09-10 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 151 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
