@@ -1,26 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-11 20:01:51 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-11 21:02:05 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 18 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, September 11, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, September 11, 2025 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/11/g-s1-86969/hotel-safety-wheelchair-mobility" target="_blank">Are hotel rooms accessible for people who use wheelchairs? NPR wants to hear from you</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-11 20:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2484/live/4a3c56a0-8ef7-11f0-ad1d-477615c292d0.jpg" alt="Starmer facing fresh questions after Mandelson sacking" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,20 +100,20 @@
                 <span class="time">2025-09-11 15:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/charlie-kirk-speaking-gty-jt-250910_1757547358804_hpMain_4x3t_384.jpg" alt="More details emerge as manhunt continues for Charlie Kirk’s killer: FBI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/charlie-kirk-shooting-fbi-appeals-tips-manhunt-continues/story?id=125469211" target="_blank">More details emerge as manhunt continues for Charlie Kirk’s killer: FBI</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-11 15:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/Tron-Ares-Jeff-Bridges-1600x1067-1-500x500.jpg" alt="Latest TRON: Ares trailer takes us back to 1982" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/09/latest-tron-ares-trailer-takes-us-back-to-1982/" target="_blank">Latest TRON: Ares trailer takes us back to 1982</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-11 19:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,20 +159,20 @@
                 <span class="time">2025-09-11 16:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/776305/google-gmail-purchases-tab-online-orders" target="_blank">Gmail is launching a tab for all your Amazon purchases</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-11 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/codingsayed/get-to-know-me-m29" target="_blank">Get to know me :)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-11 21:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -182,30 +201,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/SWE-bench/SWE-bench/issues/465" target="_blank">Top model scores may be skewed by Git history leaks in SWE-bench</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-11 18:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/09/embedding-gemma/en/headerimage/header+%2850%29-1757614506140.jpg" alt="Google DeepMind Launches EmbeddingGemma, an Open Model for On-Device Embeddings" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
                 <span class="title"><a href="https://www.infoq.com/news/2025/09/embedding-gemma/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google DeepMind Launches EmbeddingGemma, an Open Model for On-Device Embeddings</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-09-11 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/05/firefox-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Firefox Adding Google Lens, Stock Data, AI “Page Buddy” Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/firefox-google-lens-stock-market-ai-page-buddy-features" target="_blank">Firefox Adding Google Lens, Stock Data, AI “Page Buddy” Features</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-11 17:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-write-cache-pages" target="_blank">Linux 6.18 Will Further Complicate Non-GPL Out-Of-Tree File-Systems</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-11 16:53</span>
             </div>
         </div>
 </div>
@@ -227,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4X61JKKCRRW0JPA824VGMDS/hero-image.jpg" alt="PlayStation Has a New Parental Control App" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/playstation-new-parental-control-app?utm_medium=RSS" target="_blank">PlayStation Has a New Parental Control App</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-11 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/ufo-1.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="&quot;What the hell is that?&quot; — U.S. missile bounces off UFO" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,20 +291,20 @@
                 <span class="time">2025-09-11 16:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4WPVKEF8G5QP859GGPYFVPP/hero-image.jpg" alt="How the Apple Watch Series 11 Stacks Up Against the Ultra 3" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-the-apple-watch-series-11-stacks-up-against-ultra-3?utm_medium=RSS" target="_blank">How the Apple Watch Series 11 Stacks Up Against the Ultra 3</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-11 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1757476488-20250911.png" alt="Saturday Morning Breakfast Cereal - AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/ai-16" target="_blank">Saturday Morning Breakfast Cereal - AI</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-09-11 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -309,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
