@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-11 15:01:51 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-11 16:01:56 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 12 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, September 11, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, September 11, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +47,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/charlie-kirk-speaking-gty-jt-250910_1757547358804_hpMain_4x3t_384.jpg" alt="More details emerge as manhunt continues for Charlie Kirk’s killer: FBI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/charlie-kirk-shooting-fbi-appeals-tips-manhunt-continues/story?id=125469211" target="_blank">More details emerge as manhunt continues for Charlie Kirk’s killer: FBI</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-11 15:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/9/11/with-the-doha-strike-netanyahu-has-declared-war-on-the-world?traffic_source=rss" target="_blank">With the Doha strike, Netanyahu has declared war on the world</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-11 15:28</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/11/satellite-images-show-israel-has-totally-destroyed-areas-of-gaza-city?traffic_source=rss" target="_blank">Satellite images show Israel has totally destroyed areas of Gaza City</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-11 14:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2924/live/5cd5fbd0-8ef3-11f0-84c8-99de564f0440.jpg" alt="Farage faces questions over who funded £885,000 Clacton constituency home" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce845w70g0yo?at_medium=RSS&at_campaign=rss" target="_blank">Farage faces questions over who funded £885,000 Clacton constituency home</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-11 14:03</span>
             </div>
         </div>
 <div class="story">
@@ -75,38 +100,20 @@
                 <span class="time">2025-09-11 13:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/11/nx-s1-5537074/inflation-economy-grocery-gas-federal-reserve" target="_blank">Inflation climbs in August as grocery and gas prices jump</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-11 12:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/11/what-we-know-about-us-conservative-activist-charlie-kirk-shooting?traffic_source=rss" target="_blank">What we know about US conservative activist Charlie Kirk shooting</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-11 12:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757590290953_tdy_news_7a_winter_charlie_kirk_250911_1920x1080-e1d9z4.jpg" alt="Search for Shooter Intensifies Following Charlie Kirk Assassination" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/search-for-shooter-intensifies-following-charlie-kirk-assassination-247360069761" target="_blank">Search for Shooter Intensifies Following Charlie Kirk Assassination</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-11 11:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/776305/google-gmail-purchases-tab-online-orders" target="_blank">Gmail is launching a tab for all your Amazon purchases</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-11 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68c1e7369f996c85f0188f7a/master/pass/The%207%20Best%20Travel%20Cameras.png" alt="Best Travel Cameras (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -152,20 +159,38 @@
                 <span class="time">2025-09-11 12:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68b9cec729d5e74472f40061/master/pass/Review-%20DreamCloud%20Hybrid%20Mattress.png" alt="DreamCloud Hybrid Mattress Review: Support and Value" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/dreamcloud-hybrid-mattress/" target="_blank">DreamCloud Hybrid Mattress Review: Support and Value</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-11 12:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/github-copilot-coding-agent-101-getting-started-with-agentic-workflows-on-github/" target="_blank">GitHub Copilot coding agent 101: Getting started with agentic workflows on GitHub</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-09-11 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/killallskywalker/the-data-awakens-my-first-pipeline-with-mage-ai-1333" target="_blank">The Data Awakens: My First Pipeline with Mage AI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-11 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://anishathalye.com/semlib/" target="_blank">Semlib: LLM-powered Data Processing</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-09-11 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F392464%2F38017c9b-89f2-42ab-b7d3-41a25728aead.jpeg" alt="Hey devs, checkout my article on building a production ready react + vite application using an awesome boilerplate. 🚀" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -193,38 +218,38 @@
                 <span class="time">2025-09-11 12:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/what-our-users-make-with-ubuntu-pro-episode-2" target="_blank">What our users make with Ubuntu Pro &amp;#8211; Episode 2</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-09-11 12:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/architecture-best-practices/en/mediumimage/gregor-hohpe-medium-1756297866716.jpg" alt="Presentation: Thinking Like an Architect" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/architecture-best-practices/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Thinking Like an Architect</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-11 12:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/music_youtube/kexp-sea-lemon-sunken-cost-live-on-kexp-1dmc" target="_blank">KEXP: Sea Lemon - Sunken Cost (Live on KEXP)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-11 12:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/star-trek-strange-new-worlds-recap-new-life-and-new-civilizations.jpg" alt="‘Star Trek: Strange New Worlds’ Ends Its Bumpy Season With a Similarly Bumpy Finale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-trek-strange-new-worlds-finale-recap-batel-2000655154" target="_blank">‘Star Trek: Strange New Worlds’ Ends Its Bumpy Season With a Similarly Bumpy Finale</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-11 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4WH8P9B4CAEBEF06Z5730R4/hero-image.png" alt="Poshmark Is Lowering Its Shipping Fees for the First Time in a Decade" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/poshmark-is-lowering-its-shipping-fees?utm_medium=RSS" target="_blank">Poshmark Is Lowering Its Shipping Fees for the First Time in a Decade</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-11 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2018/09/playstation_classic_01_1920.jpg?fit=1600%2C1067&amp;quality=60&amp;ssl=1" alt="PlayStation turns 30: How Sony&#x27;s gray box changed gaming forever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/11/playstation-turns-30-how-sonys-gray-box-changed-gaming-forever.html" target="_blank">PlayStation turns 30: How Sony&#x27;s gray box changed gaming forever</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-11 15:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/the-real-tarzan.jpg" alt="This American Influencer Traveled to Australia to Film Himself Tackling Crocodiles. Australians Aren’t Happy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -252,33 +277,6 @@
                 <span class="time">2025-09-11 13:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2023/07/e4b2c2dc2a22231c0fd46eae4b138b10.jpg" alt="Bluesky Launches Age Verification in Select States" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/bluesky-launches-age-verification-in-select-states-2000657248" target="_blank">Bluesky Launches Age Verification in Select States</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-11 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Chucky-final-popmart-.jpg" alt="Pop Mart Unleashes Its Blind Box ‘Chucky’ Collection Just in Time for Halloween" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/pop-mart-unleashes-its-blind-box-chucky-collection-just-in-time-for-halloween-2000657269" target="_blank">Pop Mart Unleashes Its Blind Box ‘Chucky’ Collection Just in Time for Halloween</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-10 23:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/F9-Fast-Furious-Space.jpg" alt="Universal Executive Regrets Most Hilarious, Perfect Part of ‘Fast and Furious’ Franchise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/universal-executive-regrets-most-hilarious-perfect-part-of-fast-and-furious-franchise-2000657222" target="_blank">Universal Executive Regrets Most Hilarious, Perfect Part of ‘Fast and Furious’ Franchise</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-10 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,31 +300,13 @@
                 <span class="time">2025-09-11 00:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/birds-on-the-moon/" target="_blank">Birds on the Moon</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2025-09-10 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1757395084-20250910.png" alt="Saturday Morning Breakfast Cereal - Suffering" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/suffering-4" target="_blank">Saturday Morning Breakfast Cereal - Suffering</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-09-10 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 41 | 📸 With Images: 269 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
