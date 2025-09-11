@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-11 08:02:29 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-09-11 09:01:44 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 23 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, September 11, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, September 11, 2025 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/charlie-kirk-speaking-gty-jt-250910_1757547358804_hpMain_4x3t_384.jpg" alt="Charlie Kirk shooting: FBI appeals for tips as manhunt continues" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/charlie-kirk-shooting-fbi-appeals-tips-manhunt-continues/story?id=125469211" target="_blank">Charlie Kirk shooting: FBI appeals for tips as manhunt continues</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-11 08:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/9/11/9-11-was-avenged-on-us-on-its-anniversary-i-refuse-to?traffic_source=rss" target="_blank">9/11 was avenged on us. On its anniversary, I refuse to forgive</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-11 07:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,24 +97,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2025/sep/11/politicians-in-at-least-51-countries-used-anti-lgbtq-rhetoric-during-elections-ngo-finds" target="_blank">Politicians in at least 51 countries used anti-LGBTQ+ rhetoric during elections, NGO finds</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-09-11 04:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/11/israels-president-herzog-said-argued-out-of-respect-with-british-pm?traffic_source=rss" target="_blank">Israel’s President Herzog said ‘argued out of respect’ with British PM</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-11 03:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a11/live/57791530-8ea0-11f0-b391-6936825093bd.png" alt="Campus killing lays bare America&#x27;s bloody and broken politics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cm2z9z4m22ro?at_medium=RSS&at_campaign=rss" target="_blank">Campus killing lays bare America&#x27;s bloody and broken politics</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-11 03:11</span>
             </div>
         </div>
 </div>
@@ -319,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 148 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 147 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
