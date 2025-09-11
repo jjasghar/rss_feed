@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-11 11:01:53 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-11 12:02:48 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, September 11, 2025 - 11:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, September 11, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +105,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/776148/borderlands-4-review-coop-looter-shooter-gearbox" target="_blank">Borderlands 4 turns off your brain and turns on the fun</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-11 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/683109f6e43728b4f265f9a8/master/pass/Update-%20The%20Best%20Reusable%20Water%20Bottles%20That%20Aren%E2%80%99t%20Stanley%20Cups.png" alt="Best Reusable Water Bottles of 2025, Tested &amp; Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-reusable-water-bottles/" target="_blank">Best Reusable Water Bottles of 2025, Tested &amp; Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-11 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/776211/david-zaslav-hbo-max-way-underpriced-password-sharing" target="_blank">David Zaslav thinks HBO Max is ‘way underpriced’</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-11 08:57</span>
@@ -137,24 +155,6 @@
                 <span class="time">2025-09-11 02:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c1d0639fcf6b1cd7c96d5f/master/pass/pol_charliekirk_GettyImages-2179971149.jpg" alt="‘War Is Here’: The Far-Right Responds to Charlie Kirk Shooting With Calls for Violence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/far-right-reactions-charlie-kirk-shooting-civil-war/" target="_blank">‘War Is Here’: The Far-Right Responds to Charlie Kirk Shooting With Calls for Violence</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-11 00:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/776187/charlie-kirk-shooting-videos-platforms-meta-youtube" target="_blank">How platforms are responding to the Charlie Kirk shooting</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-10 23:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -164,9 +164,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/music_youtube/kexp-sea-lemon-sunken-cost-live-on-kexp-1dmc" target="_blank">KEXP: Sea Lemon - Sunken Cost (Live on KEXP)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-11 12:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/09/growing-junior-staff/en/headerimage/generatedHeaderImage-1757449109449.jpg" alt="Lessons Learned from Growing from Junior to Staff and Beyond" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/growing-junior-staff/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Lessons Learned from Growing from Junior to Staff and Beyond</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-11 11:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/rawveg/beyond-wearables-20aj" target="_blank">Beyond Wearables</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-11 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/PipeWire-1.4.8-Released" target="_blank">PipeWire 1.4.8 Improves Compatibility With Apple Home Pod Mini Speakers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-11 10:45</span>
             </div>
         </div>
 <div class="story">
@@ -185,33 +212,6 @@
                 <span class="title"><a href="https://dev.to/data_fortune_64fa15d5eff3/5-common-performance-pitfalls-in-mobile-apps-and-how-to-fix-them-417h" target="_blank">5 Common Performance Pitfalls in Mobile Apps (And How to Fix Them)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-11 09:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/openai-gpt-realtime/en/headerimage/GettyImages-1138451118-1757517374254.jpeg" alt="OpenAI’s gpt-realtime Enables Production-Ready Voice Agents with End-to-End Speech Processing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/openai-gpt-realtime/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI’s gpt-realtime Enables Production-Ready Voice Agents with End-to-End Speech Processing</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-11 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/09/11/how-ai-is-reshaping-developer-teams/" target="_blank">How AI is reshaping developer teams and the future of software development</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-09-11 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0ydyzur6spt0f42zkezx.png" alt="⚡HabitForge AI – Where Resolutions Become Realities You Can See 👀" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/divyasinghdev/habitforge-ai-where-resolutions-become-realities-you-can-see-4e8d" target="_blank">⚡HabitForge AI – Where Resolutions Become Realities You Can See 👀</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-11 06:51</span>
             </div>
         </div>
 </div>
@@ -319,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
