@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-12 20:01:53 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-12 21:01:46 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Friday, September 12, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, September 12, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/12/un-passes-resolution-endorsing-two-state-solution-for-israel-and-palestine?traffic_source=rss" target="_blank">UNGA backs resolution on two-state solution for Israel and Palestine</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-12 20:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b02/live/9658b530-8ff9-11f0-a5f1-addf1091094f.jpg" alt="Nine Met Police officers suspended after BBC investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +96,47 @@
                 <span class="time">2025-09-12 16:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb1a/live/3a20b7a0-8fe9-11f0-bc75-8732789f1605.jpg" alt="Labour MP says PM not up to the job, as Mandelson backlash grows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx238pwwqg6o?at_medium=RSS&at_campaign=rss" target="_blank">Labour MP says PM not up to the job, as Mandelson backlash grows</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-12 16:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1558526744-500x500.jpg" alt="Department of Energy gets rid of climate skeptics group to dodge lawsuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/09/department-of-energy-gets-rid-of-climate-skeptics-group-to-dodge-lawsuit/" target="_blank">Department of Energy gets rid of climate skeptics group to dodge lawsuit</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-12 20:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/12/pilot-union-urges-faa-to-reject-rainmakers-drone-cloud-seeding-plan/" target="_blank">Pilot union urges FAA to reject Rainmaker’s drone cloud-seeding plan</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-12 20:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68c320aa50a2ad1d6d34f281/master/pass/Lee-Pace-Q-&-A-Culture-Foundation_Photo_030205.jpg" alt="Lee Pace Has Big Hopes for the Fourth Season of ‘Foundation’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/lee-pace-foundation-interview/" target="_blank">Lee Pace Has Big Hopes for the Fourth Season of ‘Foundation’</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-12 20:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/777574/stellantis-cancels-ram-1500-ev-ramcharger" target="_blank">Stellantis cancels Ram 1500 REV as electric truck demand dims</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-12 20:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2234343516-500x500-1757702397.jpg" alt="After Kirk shooting, Utah governor calls social media a “cancer.” Will we treat it like one?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -122,47 +155,29 @@
                 <span class="time">2025-09-12 18:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/777344/perplexity-lawsuit-encyclopedia-britannica-merriam-webster" target="_blank">Encyclopedia Britannica and Merriam-Webster sue Perplexity for copying their definitions</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-12 17:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/12/micro1-a-competitor-to-scale-ai-raises-funds-at-500m-valuation/" target="_blank">Micro1, a competitor to Scale AI, raises funds at $500M valuation</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-12 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/newfoudnland_lighthouse-500x500.jpg" alt="Education report calling for ethical AI use contains over 15 fake sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/09/education-report-calling-for-ethical-ai-use-contains-over-15-fake-sources/" target="_blank">Education report calling for ethical AI use contains over 15 fake sources</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-12 16:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/politics/777313/charlie-kirks-alleged-killer-scratched-bullets-with-a-helldivers-combo-and-a-furry-sex-meme" target="_blank">Charlie Kirk&amp;#8217;s alleged killer scratched bullets with a Helldivers combo and a furry sex meme</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-12 15:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/onlineproxy/unlocking-the-future-with-ai-agents-a-new-era-of-automation-and-innovation-k77" target="_blank">Unlocking the Future with AI Agents: A New Era of Automation and Innovation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-12 20:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-10.15-Released" target="_blank">Wine 10.15 Released With Initial NTSYNC Usage, Unicode 17.0 Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-12 20:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,29 +214,20 @@
                 <span class="time">2025-09-12 18:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18617240&w=600" alt="AI for Ensuring Data Integrity and Simplifying Migration in Microservices Ecosystems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-data-integrity-microservices-migration" target="_blank">AI for Ensuring Data Integrity and Simplifying Migration in Microservices Ecosystems</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-12 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/GNOME-49-Features.jpg?resize=406%2C232&amp;ssl=1" alt="GNOME 49: Best New Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/gnome-49-new-features" target="_blank">GNOME 49: Best New Features</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-12 16:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4ZM33J6FK4E5M7Y3W541VVD/hero-image.jpg" alt="The Little Bean Guy in Your Focus Friend App Now Has Two Rooms in His House" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/focus-friend-bean-now-has-a-living-room?utm_medium=RSS" target="_blank">The Little Bean Guy in Your Focus Friend App Now Has Two Rooms in His House</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-12 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/ghost-of-yotei.jpg" alt="Ghost Of Yotei Dev Fired For Charlie Kirk Joke After Right-Wing Pressure Campaign" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,15 +273,6 @@
                 <span class="time">2025-09-12 15:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/mariomissing.jpg" alt="Hey Nintendo, Where Mario?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/3d-mario-game-switch-2-missing-nintendo-direct-2000625355" target="_blank">Hey Nintendo, Where Mario?</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-12 14:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 274 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
