@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-12 08:01:58 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-09-12 09:01:39 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, September 12, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, September 12, 2025 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee69/live/00065ba0-8fb3-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Labour MPs despondent, says minister after Mandelson and Rayner chaos" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx238pwwqg6o?at_medium=RSS&at_campaign=rss" target="_blank">Labour MPs despondent, says minister after Mandelson and Rayner chaos</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-12 08:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/12/more-than-300-south-korean-workers-return-home-after-us-immigration-raid?traffic_source=rss" target="_blank">More than 300 South Korean workers return home after US immigration raid</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-12 08:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +96,20 @@
                 <span class="time">2025-09-12 04:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757642779462_now_brk_video_kirk_suspect_250911_1920x1080-a0qsbg.jpg" alt="Video shows apparent shooter fleeing after Charlie Kirk shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/video-shows-apparent-shooter-fleeing-after-charlie-kirk-shooting-247429189621" target="_blank">Video shows apparent shooter fleeing after Charlie Kirk shooting</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-12 02:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/11/nx-s1-5538453/charlie-kirk-killing-high-stakes-campus-security" target="_blank">Charlie Kirk&#x27;s killing raises the stakes for campus security</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-12 01:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/776968/microsoft-teams-eu-commitments-avoid-fine" target="_blank">Microsoft avoids EU fine after Slack complained about Teams bundling</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-12 08:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +155,20 @@
                 <span class="time">2025-09-11 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/07/openai_microsoft_3-500x500.jpg" alt="OpenAI and Microsoft sign preliminary deal to revise partnership terms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/09/openai-and-microsoft-sign-preliminary-deal-to-revise-partnership-terms/" target="_blank">OpenAI and Microsoft sign preliminary deal to revise partnership terms</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-11 22:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fabhoometg94t207igxtu.png" alt="Bug in CloudFront&#x27;s Continuous Deployment Feature" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/bug-in-cloudfronts-continuous-deployment-features-47ok" target="_blank">Bug in CloudFront&#x27;s Continuous Deployment Feature</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-12 08:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -167,6 +176,15 @@
                 <span class="title"><a href="https://dev.to/dimension-zero/mvc-vs-mvvm-whats-the-difference-c-example-45ah" target="_blank">MVC vs MVVM: what&#x27;s the difference? (C# example)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-12 07:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list" target="_blank">Qwen3-Next</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-12 06:32</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +212,6 @@
                 <span class="title"><a href="https://tekhne.dev/internet-resist/" target="_blank">We traded blogs for black boxes, now we&#x27;re paying for it</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-09-12 00:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Bcachefs-DKMS-Plans" target="_blank">Bcachefs Outlines Plans For Shipping As A DKMS Out-Of-Tree Kernel Module</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-12 00:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-september-12-2025-red-hat" target="_blank">Friday Five — September 12, 2025</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2025-09-12 00:00</span>
             </div>
         </div>
 </div>
@@ -315,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
