@@ -1,42 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-09-12 01:29:00 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-12 02:25:09 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 3 new posts out of 33 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, September 12, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, September 12, 2025 - 02:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/9/12/live-charlie-kirk-shot-dead-fbi-releases-images-of-person-of-interest?traffic_source=rss" target="_blank">LIVE: Charlie Kirk shot dead; new images of ‘person of interest’ released</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-12 00:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,15 +93,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/11/g-s1-88213/south-korean-hyundai-workers-immigration-raid-atlanta-airport" target="_blank">South Korean workers detained in immigration raid leave Atlanta and head home</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-11 18:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2cd/live/f6e3f740-8f0c-11f0-84c8-99de564f0440.png" alt="Rifle found but suspect still at large - what we know about Kirk shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy04p4x21e5o?at_medium=RSS&at_campaign=rss" target="_blank">Rifle found but suspect still at large - what we know about Kirk shooting</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-11 17:29</span>
             </div>
         </div>
 </div>
@@ -171,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foi3rnzkfkxf10h82kqma.png" alt="How a Web Browser Works: Inside Modern Browsers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/giovanni786/how-a-web-browser-works-inside-modern-browsers-3j8d" target="_blank">How a Web Browser Works: Inside Modern Browsers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-12 02:09</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -215,15 +213,6 @@
                 <span class="time">2025-09-11 19:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff821f2y2fnsm85x70g3p.jpg" alt="Conversations That Mattered: My Journey Mentoring a Senior into Leadership" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/berlin-tech-blog/conversations-that-mattered-my-journey-mentoring-a-senior-into-leadership-2p4m" target="_blank">Conversations That Mattered: My Journey Mentoring a Senior into Leadership</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-11 19:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +233,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Mcon-Phone-Controller-2.jpg" alt="This Pop-Out Phone Controller Could Reinvent How We Think of Mobile Gaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/this-pop-out-phone-controller-could-reinvent-how-we-think-of-mobile-gaming-2000657772" target="_blank">This Pop-Out Phone Controller Could Reinvent How We Think of Mobile Gaming</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-12 02:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Wednesday-Agnes-Enid-Dance.jpg" alt="‘Wednesday’ Star Evie Templeton on Agnes’ Progression From Stalker to Friend" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -258,6 +256,15 @@
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/someone-finally-got-the-note-and-fixed-this-beetlejuice-sign-2000657774" target="_blank">Someone Finally Got the Note and Fixed This ‘Beetlejuice’ Sign</a></span>
                 <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-11 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JX3BGFCEJDMMY2BH921CN3HM/hero-image.jpg" alt="Four Things I Wish I Knew Before Training With the Garmin Forerunner 265" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/what-i-wish-i-knew-before-training-with-the-garmin-forerunner-265?utm_medium=RSS" target="_blank">Four Things I Wish I Knew Before Training With the Garmin Forerunner 265</a></span>
+                <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-11 22:00</span>
             </div>
         </div>
@@ -279,29 +286,20 @@
                 <span class="time">2025-09-11 21:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4X61JKKCRRW0JPA824VGMDS/hero-image.jpg" alt="PlayStation Has a New Parental Control App" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/playstation-new-parental-control-app?utm_medium=RSS" target="_blank">PlayStation Has a New Parental Control App</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-11 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/ufo-1.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="&quot;What the hell is that?&quot; — U.S. missile bounces off UFO" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/11/what-the-hell-is-that-u-s-missile-bounces-off-ufo.html" target="_blank">&quot;What the hell is that?&quot; — U.S. missile bounces off UFO</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-11 18:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5656.png" alt="Good Talk, Everybody" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5656" target="_blank">Good Talk, Everybody</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-09-12 01:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1757476488-20250911.png" alt="Saturday Morning Breakfast Cereal - AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -325,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 02:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
