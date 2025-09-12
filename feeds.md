@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-12 21:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-12 22:01:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, September 12, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, September 12, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/12/at-least-193-killed-in-two-separate-boat-accidents-in-northwestern-dr-congo?traffic_source=rss" target="_blank">At least 193 killed in two separate boat accidents in northwestern DR Congo</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-12 21:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/12/nx-s1-5539821/guantanamo-migrants-water-deportations-ice" target="_blank">Water failure at Guantánamo Bay affects U.S. migrant operations there</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-12 20:56</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +100,29 @@
                 <span class="time">2025-09-12 16:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/12/sri-lanka-vs-bangladesh-t20-asia-cup-teams-start-time-lineups?traffic_source=rss" target="_blank">Bangladesh vs Sri Lanka: T20 Asia Cup – start time, teams/lineups</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-12 16:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-f-16-eurofighter_7018181.jpg?20250912185436" alt="UK joins NATO operation to bolster Europe&#x27;s eastern flank" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/uk-joins-nato-operation-to-bolster-europes-eastern-flank-after-russian-drone-incursions-into-poland-13429427" target="_blank">UK joins NATO operation to bolster Europe&#x27;s eastern flank</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-12 16:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2203339270-500x500.jpg" alt="COVID shot access could tighten; RFK Jr. may claim they cause child deaths" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/09/covid-shot-access-could-tighten-rfk-jr-may-claim-they-cause-child-deaths/" target="_blank">COVID shot access could tighten; RFK Jr. may claim they cause child deaths</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-12 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/777615/republicans-radical-left-select-committee" target="_blank">Congress Republicans want to target liberal donors after Charlie Kirk&amp;#8217;s death</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-12 21:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1558526744-500x500.jpg" alt="Department of Energy gets rid of climate skeptics group to dodge lawsuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,29 +159,20 @@
                 <span class="time">2025-09-12 20:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2234343516-500x500-1757702397.jpg" alt="After Kirk shooting, Utah governor calls social media a “cancer.” Will we treat it like one?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2025/09/after-kirk-shooting-utah-governor-calls-social-media-a-cancer-will-we-treat-it-like-one/" target="_blank">After Kirk shooting, Utah governor calls social media a “cancer.” Will we treat it like one?</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-12 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/12/google-is-a-bad-actor-says-people-ceo-accusing-the-company-of-stealing-content/" target="_blank">Google is a ‘bad actor’ says People CEO, accusing the company of stealing content</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-12 18:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9rwj9bly8nxmk9jmkaij.png" alt="Probabilistic Reasoning (Bite-size Article)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/koshirok096/probabilistic-reasoning-bite-size-article-1klh" target="_blank">Probabilistic Reasoning (Bite-size Article)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-12 21:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -173,9 +186,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wine-10.15-Released" target="_blank">Wine 10.15 Released With Initial NTSYNC Bits, Unicode 17.0 Support</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-12 20:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Wine-10.15-Released" target="_blank">Wine 10.15 Released With Initial NTSYNC Usage, Unicode 17.0 Support</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-12 20:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18225349&w=600" alt="Enhancing AI Privacy: Federated Learning and Differential Privacy in Machine Learning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/privacy-preserving-machine-learning-models-federat" target="_blank">Enhancing AI Privacy: Federated Learning and Differential Privacy in Machine Learning</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-12 20:00</span>
             </div>
         </div>
 <div class="story">
@@ -187,38 +218,20 @@
                 <span class="time">2025-09-12 19:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18617243&w=600" alt="Shifting Left in Software Testing: Integrating AI-Driven Early Defect Detection into Agile Development Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/shifting-left-ai-defect-detection-agile" target="_blank">Shifting Left in Software Testing: Integrating AI-Driven Early Defect Detection into Agile Development Workflows</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-12 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://iamvishnu.com/posts/utf8-is-brilliant-design" target="_blank">UTF-8 is a brilliant design</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-12 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.weplanet.org/post/eu-court-rules-nuclear-energy-is-clean-energy" target="_blank">EU court rules nuclear energy is clean energy</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-12 18:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/sharareh-moghaddam.jpeg?fit=1200%2C656&amp;quality=60&amp;ssl=1" alt="Woman lured to fake citizenship event, grabbed by ICE agents and sent to detention camp" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/12/woman-lured-to-fake-citizenship-event-grabbed-by-ice-agents-and-sent-to-dentention-camp.html" target="_blank">Woman lured to fake citizenship event, grabbed by ICE agents and sent to detention camp</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-12 20:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K4ZM33J6FK4E5M7Y3W541VVD/hero-image.jpg" alt="The Little Bean Guy in Your Focus Friend App Now Has Two Rooms in His House" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,15 +277,6 @@
                 <span class="time">2025-09-12 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/mega_stones_thumbnail-1192w.jpg" alt="Pokémon Legends: Z-A Is Fixing One Of X And Y‘s Biggest Mistakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-legends-za-mega-evolution-greninja-delphox-2000625428" target="_blank">Pokémon Legends: Z-A Is Fixing One Of X And Y‘s Biggest Mistakes</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-12 15:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,6 +301,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/mantle_model.png" alt="Mantle Model" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3141/" target="_blank">Mantle Model</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-09-12 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5656.png" alt="Good Talk, Everybody" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -310,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 274 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 273 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
