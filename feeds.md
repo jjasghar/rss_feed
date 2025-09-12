@@ -1,39 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-12 16:01:54 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-12 17:01:45 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, September 12, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, September 12, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f7d/live/c4a48080-8ff5-11f0-9cf6-cbf3e73ce2b9.png" alt="Who is Tyler Robinson, the suspect in custody for shooting Charlie Kirk?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp8wl2y66p9o?at_medium=RSS&at_campaign=rss" target="_blank">Who is Tyler Robinson, the suspect in custody for shooting Charlie Kirk?</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-12 16:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/12/sri-lanka-vs-bangladesh-t20-asia-cup-teams-start-time-lineups?traffic_source=rss" target="_blank">Bangladesh vs Sri Lanka: T20 Asia Cup – start time, teams/lineups</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-12 16:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb1a/live/3a20b7a0-8fe9-11f0-bc75-8732789f1605.jpg" alt="Labour MP says PM not up to the job, as Mandelson backlash grows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx238pwwqg6o?at_medium=RSS&at_campaign=rss" target="_blank">Labour MP says PM not up to the job, as Mandelson backlash grows</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-12 16:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,38 +102,20 @@
                 <span class="time">2025-09-12 14:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/12/israeli-forces-arrest-palestinians-en-masse-laying-siege-to-tulkarem?traffic_source=rss" target="_blank">Israeli forces arrest Palestinians en masse, laying siege to Tulkarem</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-12 14:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/12/nx-s1-5539205/charlie-kirk-suspect-shooter" target="_blank">Authorities arrest suspect in the killing of conservative activist Charlie Kirk</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-12 14:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/kirk-4-abc-gmh-250912_1757686213868_hpMain_4x3t_384.jpg" alt="Suspect arrested, identified in shooting of Charlie Kirk, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/manhunt-charlie-kirks-killer-enters-3rd-day-questions/story?id=125504696" target="_blank">Suspect arrested, identified in shooting of Charlie Kirk, officials say</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-12 14:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/12/micro1-a-competitor-to-scale-ai-raises-funds-at-500m-valuation/" target="_blank">Micro1, a competitor to Scale AI, raises funds at $500M valuation</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-12 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/newfoudnland_lighthouse-500x500.jpg" alt="Education report calling for ethical AI use contains over 15 fake sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +161,29 @@
                 <span class="time">2025-09-12 14:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/optimizer-newsletter/776772/optimizer-newsletter-meta-connect-ray-ban-oakley-smart-glasses" target="_blank">It’s time for Meta to add a display to its smart glasses</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-12 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/GNOME-49-Features.jpg?resize=406%2C232&amp;ssl=1" alt="GNOME 49: Best New Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/gnome-49-new-features" target="_blank">GNOME 49: Best New Features</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-12 16:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18617224&w=600" alt="Security Concerns in Open GPTs: Emerging Threats, Vulnerabilities, and Mitigation Strategies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/security-concerns-in-open-gpts" target="_blank">Security Concerns in Open GPTs: Emerging Threats, Vulnerabilities, and Mitigation Strategies</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-12 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,24 +220,6 @@
                 <span class="time">2025-09-12 14:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/intel-mtl-i915-xe-linux" target="_blank">Intel i915 vs. Xe Graphics Driver Benchmarks For Meteor Lake: Extra Performance In 2025</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-12 14:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/orimdominic/accepted-into-enye-cohort-5-55ib" target="_blank">Accepted Into Enye Cohort 5</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-12 13:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/bullet.jpg" alt="Charlie Kirk Shooter Allegedly Had Bullet With Possible Helldivers 2 Reference Engraved On It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/charlie-kirk-shooter-helldivers-bullet-engraving-2000625439" target="_blank">Charlie Kirk Shooter Allegedly Had Bullet With Possible Helldivers 2 Reference Engraved On It</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-12 16:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Borderlands-4-review_jpg_75.jpg?fit=1200%2C720&amp;quality=60&amp;ssl=1" alt="Borderlands 4 launch marred by &quot;terrible performance&quot; across all hardware" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/12/borderlands-4-launch-marred-by-terrible-performance-across-all-hardware.html" target="_blank">Borderlands 4 launch marred by &quot;terrible performance&quot; across all hardware</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-12 16:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/zwo-astronomy-the-comet-12p-pons-brooks-dan-bartlett.jpg" alt="Take a Trip to the Final Frontier With This Year’s Best Astronomy Photography" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +293,6 @@
                 <span class="time">2025-09-12 14:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/kewpie.jpg?fit=1200%2C823&amp;quality=60&amp;ssl=1" alt="Adorable giant Kewpee doll greets customers at historic burger joint in Lima, Ohio" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/12/adorable-giant-kewpee-doll-greets-customers-at-historic-burger-joint-in-lima-ohio.html" target="_blank">Adorable giant Kewpee doll greets customers at historic burger joint in Lima, Ohio</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-12 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/04/d218ce5fa7b03d5e69ee70869d89ce9f.jpg" alt="Roku Wants to Improve Your TV Viewing Experience With a Monsoon of AI-Generated Ads" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/roku-ads-ai-2000657877" target="_blank">Roku Wants to Improve Your TV Viewing Experience With a Monsoon of AI-Generated Ads</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-12 13:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -322,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 275 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
