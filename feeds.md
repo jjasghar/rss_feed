@@ -1,37 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-09-11 23:01:51 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-12 00:04:32 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Error processing https://ubuntu.com/blog/feed: The read operation timed out -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, September 11, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, September 12, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/09/11/nx-s1-5538105/covid-vaccine-shots-pharmacy-fda" target="_blank">They want a COVID shot to protect their health or at-risk family. They can&#x27;t get it</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-11 23:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/kirk-shooter-suspect-split-ht-jt-250911_1757606542845_hpMain_4x3t_384.jpg" alt="FBI releases images of person of interest amid manhunt for Charlie Kirk&#x27;s killer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +104,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cy04p4x21e5o?at_medium=RSS&at_campaign=rss" target="_blank">Rifle found but suspect still at large - what we know about Kirk shooting</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-11 17:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757606946802_now_daily_a_patterson_poi_photo_250911_1920x1080-803lyu.jpg" alt="FBI releases photo of person of interest in Charlie Kirk assassination" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/fbi-releases-photo-of-person-of-interest-in-charlie-kirk-assassination-247379013580" target="_blank">FBI releases photo of person of interest in Charlie Kirk assassination</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-11 16:09</span>
             </div>
         </div>
 </div>
@@ -168,6 +173,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/iannuttall/fartscroll-lid" target="_blank">Fartscroll-Lid: An app that plays fart sounds when opening or closing a MacBook</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-11 22:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/codingsayed/get-to-know-me-m29" target="_blank">Get to know me :)</a></span>
                 <span class="feed">DEV Community</span>
@@ -210,15 +224,6 @@
                 <span class="time">2025-09-11 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/SWE-bench/SWE-bench/issues/465" target="_blank">Top model scores may be skewed by Git history leaks in SWE-bench</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-11 18:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Wednesday-Agnes-Enid-Dance.jpg" alt="‘Wednesday’ Star Evie Templeton on Agnes’ Progression From Stalker to Friend" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/wednesday-star-evie-templeton-on-agnes-progression-from-stalker-to-friend-2000657912" target="_blank">‘Wednesday’ Star Evie Templeton on Agnes’ Progression From Stalker to Friend</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-11 23:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Beetlejuice-Warner-Bros.jpg" alt="Someone Finally Got the Note and Fixed This ‘Beetlejuice’ Sign" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +297,6 @@
                 <span class="time">2025-09-11 18:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4WSSPGJGFAYDCBDTX06S303/hero-image.jpg" alt="I Swapped My Massage Gun for This Chirp Roller and My Muscles Have Never Felt Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/i-replaced-my-massage-gun-with-this-chirp-roller?utm_medium=RSS" target="_blank">I Swapped My Massage Gun for This Chirp Roller and My Muscles Have Never Felt Better</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-11 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
