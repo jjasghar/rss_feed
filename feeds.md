@@ -1,43 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-12 03:09:23 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-12 04:02:15 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 33 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, September 12, 2025 - 03:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, September 12, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -53,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/11/nx-s1-5538453/charlie-kirk-killing-high-stakes-campus-security" target="_blank">Charlie Kirk&#x27;s killing raises the stakes for campus security</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-12 01:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -98,20 +96,20 @@
                 <span class="time">2025-09-11 18:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/11/g-s1-88213/south-korean-hyundai-workers-immigration-raid-atlanta-airport" target="_blank">South Korean workers detained in immigration raid leave Atlanta and head home</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-11 18:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68c308fbcdda439993449ab6/master/pass/nasseri%20-%20wired%20-%20kirk%20final-5.jpg" alt="Scenes From Charlie Kirk&#x27;s Spontaneous Memorial in Utah" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/a-vigil-for-charlie-kirk/" target="_blank">Scenes From Charlie Kirk&#x27;s Spontaneous Memorial in Utah</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-12 02:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,15 +153,6 @@
                 <span class="title"><a href="https://www.wired.com/story/which-apple-iphone-17-models-to-buy/" target="_blank">Which iPhone 17 Model Should You Buy?</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-09-11 21:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/Tron-Ares-Jeff-Bridges-1600x1067-1-500x500.jpg" alt="Latest TRON: Ares trailer takes us back to 1982" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2025/09/latest-tron-ares-trailer-takes-us-back-to-1982/" target="_blank">Latest TRON: Ares trailer takes us back to 1982</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-11 19:02</span>
             </div>
         </div>
 </div>
@@ -335,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 03:09 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
