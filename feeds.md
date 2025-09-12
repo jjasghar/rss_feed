@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-12 18:02:22 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-12 19:01:36 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, September 12, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, September 12, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b02/live/9658b530-8ff9-11f0-a5f1-addf1091094f.jpg" alt="Nine Met Police officers suspended after BBC investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn839398xzpo?at_medium=RSS&at_campaign=rss" target="_blank">Nine Met Police officers suspended after BBC investigation</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-12 18:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +102,20 @@
                 <span class="time">2025-09-12 15:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/09/12/g-s1-88287/mpox-monkeypox-virus-stigma" target="_blank">In 2022, the name &#x27;monkeypox&#x27; was rejected as inapt. Now the U.S. is reviving it</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-12 15:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/12/google-is-a-bad-actor-says-people-ceo-accusing-the-company-of-stealing-content/" target="_blank">Google is a ‘bad actor’ says People CEO, accusing the company of stealing content</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-12 18:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +161,29 @@
                 <span class="time">2025-09-12 15:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/12/last-day-to-amplify-your-brand-host-your-side-event-at-disrupt-2025/" target="_blank">Last day to amplify your brand: Host your Side Event at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-12 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.weplanet.org/post/eu-court-rules-nuclear-energy-is-clean-energy" target="_blank">EU court rules nuclear energy is clean energy</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-12 18:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18617240&w=600" alt="AI for Ensuring Data Integrity and Simplifying Migration in Microservices Ecosystems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-data-integrity-microservices-migration" target="_blank">AI for Ensuring Data Integrity and Simplifying Migration in Microservices Ecosystems</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-12 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/GNOME-49-Features.jpg?resize=406%2C232&amp;ssl=1" alt="GNOME 49: Best New Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/zeedu_dev/i-built-a-bloom-filter-data-structure-simulator-2o3l" target="_blank">I Built a Bloom Filter Data Structure Simulator</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-12 15:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18617221&w=600" alt="AI for Data Cleaning: How AI Can Clean Your Data and Save You Hours and Money" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-for-data-cleaning" target="_blank">AI for Data Cleaning: How AI Can Clean Your Data and Save You Hours and Money</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-12 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ml318097/forward-networks-round-1-javascript-310k" target="_blank">Forward Networks - Round 1 (JavaScript)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-12 14:58</span>
             </div>
         </div>
 </div>
@@ -311,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 124 | 📡 Total Sources: 41 | 📸 With Images: 274 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 119 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
