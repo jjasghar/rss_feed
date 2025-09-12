@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-12 15:01:41 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-09-12 16:01:54 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 12 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, September 12, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, September 12, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/12/suspect-in-charlie-kirks-killing-arrested-utah-governor-says?traffic_source=rss" target="_blank">Suspect in Charlie Kirk’s killing arrested, Utah Governor says</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-12 15:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/09/12/g-s1-88287/mpox-monkeypox-virus-stigma" target="_blank">In 2022, the name &#x27;monkeypox&#x27; was rejected as inapt. Now the U.S. is reviving it</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-12 15:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/charlie-kirk-15-gty-gmh-250911_1757612817020_hpMain_4x3t_384.jpg" alt="What to know about Tyler Robinson, Charlie Kirk shooting suspect: How he was caught" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/tyler-robinson-charlie-kirk-suspect-shooter-utah/story?id=125474359" target="_blank">What to know about Tyler Robinson, Charlie Kirk shooting suspect: How he was caught</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-12 14:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,38 +103,38 @@
                 <span class="time">2025-09-12 14:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/12/brazils-bolsonaro-gets-27-year-prison-sentence-for-attempted?traffic_source=rss" target="_blank">Brazil’s Bolsonaro gets 27-year prison sentence for ‘attempted coup’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-12 13:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/12/nx-s1-5539024/south-africa-reopens-inquest-death-steve-biko" target="_blank">South Africa reopens inquest into death of Steve Biko</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-12 12:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Trump says person in custody in Charlie Kirk shooting: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Trump says person in custody in Charlie Kirk shooting: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-12 12:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/newfoudnland_lighthouse-500x500.jpg" alt="Education report calling for ethical AI use contains over 15 fake sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/09/education-report-calling-for-ethical-ai-use-contains-over-15-fake-sources/" target="_blank">Education report calling for ethical AI use contains over 15 fake sources</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-12 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/politics/777313/charlie-kirks-alleged-killer-scratched-bullets-with-a-helldivers-combo-and-a-furry-sex-meme" target="_blank">Charlie Kirk&amp;#8217;s alleged killer scratched bullets with a Helldivers combo and a furry sex meme</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-12 15:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68c428b8a29b822c3095e940/master/pass/091225-culture-Super-Mario.jpg" alt="Nintendo Drops Surprise Trailer for New Super Mario Galaxy Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/super-mario-galaxy-movie-new-trailer/" target="_blank">Nintendo Drops Surprise Trailer for New Super Mario Galaxy Movie</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-12 15:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,38 +162,38 @@
                 <span class="time">2025-09-12 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/04/office_icons_01-500x500.jpeg" alt="Microsoft dodges EU fine by unbundling Teams from Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/microsoft-dodges-eu-fine-by-unbundling-teams-from-office/" target="_blank">Microsoft dodges EU fine by unbundling Teams from Office</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-12 13:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68bf50b180e9634d4134ea2f/master/pass/Should%20I%20Buy%20a%20Mesh%20System%20or%20a%20Wi-Fi%20Router_.png" alt="Wi-Fi Router Vs Mesh System: Which Is Best for You?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/mesh-system-vs-wi-fi-router/" target="_blank">Wi-Fi Router Vs Mesh System: Which Is Best for You?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-12 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/772748/iphone-17-pro-air-preorder-price-how-to-buy-release-date" target="_blank">Apple’s 2025 iPhone lineup is now available to preorder</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-12 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/maintainers/building-personal-apps-with-open-source-and-ai/" target="_blank">Building personal apps with open source and AI</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-09-12 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fniyrtu3xy0wa31e4xp5j.png" alt="I Built a Bloom Filter Data Structure Simulator" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/zeedu_dev/i-built-a-bloom-filter-data-structure-simulator-2o3l" target="_blank">I Built a Bloom Filter Data Structure Simulator</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-12 15:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18617221&w=600" alt="AI for Data Cleaning: How AI Can Clean Your Data and Save You Hours and Money" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-for-data-cleaning" target="_blank">AI for Data Cleaning: How AI Can Clean Your Data and Save You Hours and Money</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-12 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -177,46 +206,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/intel-mtl-i915-xe-linux" target="_blank">Intel i915 vs. Xe Graphics Driver Benchmarks For Meteor Lake: Extra Performance In 2025</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-12 14:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/orimdominic/accepted-into-enye-cohort-5-55ib" target="_blank">Accepted Into Enye Cohort 5</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-12 13:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.3-Faster-Intel-Shader" target="_blank">Intel Linux Graphics Driver Seeing 2~5% Faster Shader Compilation Times, Up To ~20%</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-12 13:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18615752&w=600" alt="Demystifying Kubernetes on AWS: A Comparative Analysis of Deployment Options" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/kubernetes-aws-deployment-options" target="_blank">Demystifying Kubernetes on AWS: A Comparative Analysis of Deployment Options</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-12 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.tftc.io/treasury-iexpanding-patriot-act/" target="_blank">The Treasury Is Expanding the Patriot Act to Attack Bitcoin Self Custody</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-12 12:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fish-Shell-4.0.6-Released" target="_blank">Fish Shell 4.0.6 Released With Many Fixes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-12 10:39</span>
             </div>
         </div>
 </div>
@@ -238,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/zwo-astronomy-the-comet-12p-pons-brooks-dan-bartlett.jpg" alt="Take a Trip to the Final Frontier With This Year’s Best Astronomy Photography" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/take-a-trip-to-the-final-frontier-with-this-years-best-astronomy-photography-2000658088" target="_blank">Take a Trip to the Final Frontier With This Year’s Best Astronomy Photography</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-12 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/mega_stones_thumbnail-1192w.jpg" alt="Pokémon Legends: Z-A Is Fixing One Of X And Y‘s Biggest Mistakes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-legends-za-mega-evolution-greninja-delphox-2000625428" target="_blank">Pokémon Legends: Z-A Is Fixing One Of X And Y‘s Biggest Mistakes</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-12 15:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/mariomissing.jpg" alt="Hey Nintendo, Where Mario?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +294,6 @@
                 <span class="time">2025-09-12 13:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/03/bolsonaro-1.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Brazil&#x27;s Bolsonaro jailed 27 years over attempted coup" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/12/brazils-bolsonaro-jailed-27-years-over-attempted-coup.html" target="_blank">Brazil&#x27;s Bolsonaro jailed 27 years over attempted coup</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-12 11:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/macos-sequoia-safari-account-apple-com-threat-notification.jpg?fit=1200%2C515&amp;quality=60&amp;ssl=1" alt="Apple sends threat alerts as sophisticated spyware targets high-profile iPhone users" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/11/apple-sends-threat-alerts-as-sophisticated-spyware-targets-high-profile-iphone-users.html" target="_blank">Apple sends threat alerts as sophisticated spyware targets high-profile iPhone users</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-12 02:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,22 +317,13 @@
                 <span class="time">2025-09-12 01:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1757476488-20250911.png" alt="Saturday Morning Breakfast Cereal - AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/ai-16" target="_blank">Saturday Morning Breakfast Cereal - AI</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-09-11 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
