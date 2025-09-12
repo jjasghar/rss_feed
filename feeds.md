@@ -1,32 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-09-12 11:01:24 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-12 12:02:37 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, September 12, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, September 12, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,12 +55,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/12/bolsonaros-guilty-verdict-what-it-means-for-us-brazil-relations?traffic_source=rss" target="_blank">Bolsonaro’s guilty verdict – what it means for US-Brazil relations</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-12 11:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/charlie-kirk-vigil_1757671488266_hpMain_4x3t_384.jpg" alt="Manhunt for Charlie Kirk&#x27;s &#x27;assassin&#x27; enters 3rd day as questions swirl" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/manhunt-charlie-kirks-killer-enters-3rd-day-questions/story?id=125504696" target="_blank">Manhunt for Charlie Kirk&#x27;s &#x27;assassin&#x27; enters 3rd day as questions swirl</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-12 11:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee69/live/00065ba0-8fb3-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Labour MPs&#x27; growing fury over Mandelson appointment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cx238pwwqg6o?at_medium=RSS&at_campaign=rss" target="_blank">Labour MPs&#x27; growing fury over Mandelson appointment</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-12 10:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/12/nx-s1-5538120/the-latest-on-the-murder-of-right-wing-activist-charlie-kirk" target="_blank">The latest on the murder of right-wing activist Charlie Kirk</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-12 10:48</span>
             </div>
         </div>
 <div class="story">
@@ -69,38 +108,29 @@
                 <span class="time">2025-09-12 10:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/9/12/difficult-to-calculate-trumps-red-line-for-israel?traffic_source=rss" target="_blank">“Difficult to calculate” Trump’s red line for Israel</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-12 10:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/12/nx-s1-5539034/prince-harry-visit-ukraine-wounded-troops" target="_blank">Prince Harry makes surprise visit to Ukraine in support of wounded troops</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-12 09:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee69/live/00065ba0-8fb3-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Labour MPs despondent, says minister after Mandelson and Rayner chaos" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx238pwwqg6o?at_medium=RSS&at_campaign=rss" target="_blank">Labour MPs despondent, says minister after Mandelson and Rayner chaos</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-12 08:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/772748/iphone-17-pro-air-preorder-price-how-to-buy-release-date" target="_blank">Apple’s 2025 iPhone lineup is now available to preorder</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-12 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/raskin1-500x500.png" alt="Jef Raskin’s cul-de-sac and the quest for the humane computer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/jef-raskins-cul-de-sac-and-the-quest-for-the-humane-computer/" target="_blank">Jef Raskin’s cul-de-sac and the quest for the humane computer</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-12 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6840a3e3b89efac7e73753ef/master/pass/Update-%20Espresso%20Machines.png" alt="8 Best Espresso Machines for Home (2025), Tested by Coffee Pros" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,24 +167,6 @@
                 <span class="time">2025-09-12 07:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/776942/apple-watch-hypertension-feature-cleared-by-fda" target="_blank">Apple Watch hypertension alerts cleared by FDA for new and old watches</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-12 06:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" alt="Lenovo Coupon Codes and Deals: Up to $500 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/lenovo-coupon-code/" target="_blank">Lenovo Coupon Codes and Deals: Up to $500 Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-12 05:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +179,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Fish-Shell-4.0.6-Released" target="_blank">Fish Shell 4.0.6 Released With Many Fixes</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-12 10:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/security-workflow-team/en/mediumimage/stefania-chaplin-medium-1756299628025.jpeg" alt="Presentation: Secure by Design: Building Security into Engineering Workflows and Teams" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/security-workflow-team/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Secure by Design: Building Security into Engineering Workflows and Teams</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-12 10:15</span>
             </div>
         </div>
 <div class="story">
@@ -203,15 +224,6 @@
                 <span class="title"><a href="https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-23ai" target="_blank">NocoBase Weekly Updates: Optimization and Bug Fixes</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-12 02:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foi3rnzkfkxf10h82kqma.png" alt="How a Web Browser Works: Inside Modern Browsers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/giovanni786/how-a-web-browser-works-inside-modern-browsers-3j8d" target="_blank">How a Web Browser Works: Inside Modern Browsers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-12 02:09</span>
             </div>
         </div>
 </div>
@@ -324,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
