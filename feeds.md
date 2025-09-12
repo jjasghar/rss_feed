@@ -1,38 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-12 19:01:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-12 20:01:53 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, September 12, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, September 12, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -85,6 +82,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-f-16-eurofighter_7018181.jpg?20250912185436" alt="UK joins NATO operation to bolster Europe&#x27;s eastern flank" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/uk-joins-nato-operation-to-bolster-europes-eastern-flank-after-russian-drone-incursions-into-poland-13429427" target="_blank">UK joins NATO operation to bolster Europe&#x27;s eastern flank</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-12 16:27</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb1a/live/3a20b7a0-8fe9-11f0-bc75-8732789f1605.jpg" alt="Labour MP says PM not up to the job, as Mandelson backlash grows" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -93,20 +99,20 @@
                 <span class="time">2025-09-12 16:19</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/12/suspect-in-charlie-kirks-killing-arrested-utah-governor-says?traffic_source=rss" target="_blank">Suspect in Charlie Kirk’s killing arrested, Utah Governor says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-12 15:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2234343516-500x500-1757702397.jpg" alt="After Kirk shooting, Utah governor calls social media a “cancer.” Will we treat it like one?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/09/after-kirk-shooting-utah-governor-calls-social-media-a-cancer-will-we-treat-it-like-one/" target="_blank">After Kirk shooting, Utah governor calls social media a “cancer.” Will we treat it like one?</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-12 19:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +158,38 @@
                 <span class="time">2025-09-12 15:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c428b8a29b822c3095e940/master/pass/091225-culture-Super-Mario.jpg" alt="Nintendo Drops Surprise Trailer for New Super Mario Galaxy Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/super-mario-galaxy-movie-new-trailer/" target="_blank">Nintendo Drops Surprise Trailer for New Super Mario Galaxy Movie</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-12 15:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/casperday11/day-93-the-exhaustion-behind-the-expertise-4emc" target="_blank">Day 93: The Exhaustion Behind the Expertise</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-12 19:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18617243&w=600" alt="Shifting Left in Software Testing: Integrating AI-Driven Early Defect Detection into Agile Development Workflows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/shifting-left-ai-defect-detection-agile" target="_blank">Shifting Left in Software Testing: Integrating AI-Driven Early Defect Detection into Agile Development Workflows</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-12 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://iamvishnu.com/posts/utf8-is-brilliant-design" target="_blank">UTF-8 is a brilliant design</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-12 18:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,38 +217,20 @@
                 <span class="time">2025-09-12 16:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18617224&w=600" alt="Security Concerns in Open GPTs: Emerging Threats, Vulnerabilities, and Mitigation Strategies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/security-concerns-in-open-gpts" target="_blank">Security Concerns in Open GPTs: Emerging Threats, Vulnerabilities, and Mitigation Strategies</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-12 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/open-source/maintainers/building-personal-apps-with-open-source-and-ai/" target="_blank">Building personal apps with open source and AI</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-09-12 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fniyrtu3xy0wa31e4xp5j.png" alt="I Built a Bloom Filter Data Structure Simulator" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/zeedu_dev/i-built-a-bloom-filter-data-structure-simulator-2o3l" target="_blank">I Built a Bloom Filter Data Structure Simulator</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-12 15:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/ghost-of-yotei.jpg" alt="Ghost Of Yotei Dev Fired For Charlie Kirk Joke After Right-Wing Pressure Campaign" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ghost-yotei-charlie-kirk-joke-playstation-sony-2000625478" target="_blank">Ghost Of Yotei Dev Fired For Charlie Kirk Joke After Right-Wing Pressure Campaign</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-12 18:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/bullet.jpg" alt="Charlie Kirk Shooter Allegedly Had Bullet With Possible Helldivers 2 Reference Engraved On It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,15 +276,6 @@
                 <span class="time">2025-09-12 14:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Virtual-Boy-Nintendo-Switch-2-1.jpg" alt="The Worst-Selling Nintendo Console Ever Is Returning as a Switch 2 Accessory" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-worst-selling-nintendo-console-ever-is-returning-as-a-switch-2-accessory-2000658149" target="_blank">The Worst-Selling Nintendo Console Ever Is Returning as a Switch 2 Accessory</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-12 14:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 119 | 📡 Total Sources: 41 | 📸 With Images: 275 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
