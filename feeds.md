@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-12 10:02:27 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-12 11:01:24 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 24 feeds processed -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, September 12, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, September 12, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,42 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee69/live/00065ba0-8fb3-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Labour MPs&#x27; growing fury over Mandelson appointment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx238pwwqg6o?at_medium=RSS&at_campaign=rss" target="_blank">Labour MPs&#x27; growing fury over Mandelson appointment</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-12 10:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/charlie-kirk-vigil_1757671488266_hpMain_4x3t_384.jpg" alt="Manhunt for Charlie Kirk&#x27;s killer enters 3rd day as questions swirl" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/manhunt-charlie-kirks-killer-enters-3rd-day-questions/story?id=125504696" target="_blank">Manhunt for Charlie Kirk&#x27;s killer enters 3rd day as questions swirl</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-12 10:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/12/g-s1-88389/up-first-newsletter-charlie-kirk-shooting-suspect-inflation-jobs-jair-bolsonaro" target="_blank">Police share video of Charlie Kirk shooting person of interest. And, prices rise</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-12 10:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/9/12/difficult-to-calculate-trumps-red-line-for-israel?traffic_source=rss" target="_blank">“Difficult to calculate” Trump’s red line for Israel</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-12 10:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -60,47 +96,29 @@
                 <span class="time">2025-09-12 08:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/12/more-than-300-south-korean-workers-return-home-after-us-immigration-raid?traffic_source=rss" target="_blank">More than 300 South Korean workers return home after US immigration raid</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-12 08:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/9/12/live-israel-kills-dozens-in-gaza-unsc-condemns-doha-attack?traffic_source=rss" target="_blank">LIVE: Israel kills dozens in Gaza, UNSC condemns Doha attack</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-12 07:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/12/chinas-newest-aircraft-carrier-transits-taiwan-strait-for-final-tests?traffic_source=rss" target="_blank">China’s newest aircraft carrier transits Taiwan Strait for final tests</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-12 05:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/fbi-video-still_1757645084724_hpMain_4x3t_384.jpg" alt="Video shows Charlie Kirk shooting suspect jump down from roof, make getaway" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/charlie-kirk-shooting-fbi-appeals-tips-manhunt-continues/story?id=125469211" target="_blank">Video shows Charlie Kirk shooting suspect jump down from roof, make getaway</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-12 04:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6840a3e3b89efac7e73753ef/master/pass/Update-%20Espresso%20Machines.png" alt="8 Best Espresso Machines for Home (2025), Tested by Coffee Pros" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-espresso-machines/" target="_blank">8 Best Espresso Machines for Home (2025), Tested by Coffee Pros</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-12 10:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/hands-on/776797/xbox-ally-x-prongs-comfort-editorial" target="_blank">Prongs rock</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-12 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +155,20 @@
                 <span class="time">2025-09-12 05:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c308fbcdda439993449ab6/master/pass/nasseri%20-%20wired%20-%20kirk%20final-5.jpg" alt="Scenes From Charlie Kirk&#x27;s Spontaneous Memorial in Utah" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/a-vigil-for-charlie-kirk/" target="_blank">Scenes From Charlie Kirk&#x27;s Spontaneous Memorial in Utah</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-12 02:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/776884/openai-microsoft-mou" target="_blank">Microsoft and OpenAI have a new deal that could clear the way for an IPO</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-11 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fish-Shell-4.0.6-Released" target="_blank">Fish Shell 4.0.6 Released With Many Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-12 10:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fabhoometg94t207igxtu.png" alt="Bug in CloudFront&#x27;s Continuous Deployment Feature" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/giovanni786/how-a-web-browser-works-inside-modern-browsers-3j8d" target="_blank">How a Web Browser Works: Inside Modern Browsers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-12 02:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://tekhne.dev/internet-resist/" target="_blank">We traded blogs for black boxes, now we&#x27;re paying for it</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-12 00:39</span>
             </div>
         </div>
 </div>
@@ -293,6 +293,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/09/12/patential" target="_blank">Patential</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-09-12 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5656.png" alt="Good Talk, Everybody" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -315,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
