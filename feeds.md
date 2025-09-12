@@ -1,44 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-12 12:02:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-12 13:06:46 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 36 feeds processed -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, September 12, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, September 12, 2025 - 13:07 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/12/nx-s1-5539024/south-africa-reopens-inquest-death-steve-biko" target="_blank">South Africa reopens inquest into death of Steve Biko</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-12 12:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Trump says person in custody in Charlie Kirk shooting: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Trump says person in custody in Charlie Kirk shooting: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-12 12:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,29 +96,29 @@
                 <span class="time">2025-09-12 10:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/charlie-kirk-vigil_1757671488266_hpMain_4x3t_384.jpg" alt="Manhunt for Charlie Kirk&#x27;s killer enters 3rd day as questions swirl" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/manhunt-charlie-kirks-killer-enters-3rd-day-questions/story?id=125504696" target="_blank">Manhunt for Charlie Kirk&#x27;s killer enters 3rd day as questions swirl</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-12 10:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/12/g-s1-88389/up-first-newsletter-charlie-kirk-shooting-suspect-inflation-jobs-jair-bolsonaro" target="_blank">Police share video of Charlie Kirk shooting person of interest. And, prices rise</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-12 10:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/04/office_icons_01-500x500.jpeg" alt="Microsoft dodges EU fine by unbundling Teams from Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/microsoft-dodges-eu-fine-by-unbundling-teams-from-office/" target="_blank">Microsoft dodges EU fine by unbundling Teams from Office</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-12 13:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68bf50b180e9634d4134ea2f/master/pass/Should%20I%20Buy%20a%20Mesh%20System%20or%20a%20Wi-Fi%20Router_.png" alt="Wi-Fi Router Vs Mesh System: Which Is Best for You?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/mesh-system-vs-wi-fi-router/" target="_blank">Wi-Fi Router Vs Mesh System: Which Is Best for You?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-12 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,29 +155,20 @@
                 <span class="time">2025-09-12 10:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/776968/microsoft-teams-eu-commitments-avoid-fine" target="_blank">Microsoft avoids EU fine after Slack complained about Teams bundling</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-12 08:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/776667/asus-proart-p16-laptop-creators-nvidia-rtx-5090-4k-price-specs" target="_blank">Asus gives its $4,000 creator laptop a 4K tandem OLED and RTX 5090</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-12 07:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.tftc.io/treasury-iexpanding-patriot-act/" target="_blank">The Treasury Is Expanding the Patriot Act to Attack Bitcoin Self Custody</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-12 12:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -217,15 +214,6 @@
                 <span class="time">2025-09-12 06:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F66qf0fuohv233at2nnzv.png" alt="NocoBase Weekly Updates: Optimization and Bug Fixes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-23ai" target="_blank">NocoBase Weekly Updates: Optimization and Bug Fixes</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-12 02:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/03/bolsonaro-1.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Brazil&#x27;s Bolsonaro jailed 27 years over attempted coup" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/12/brazils-bolsonaro-jailed-27-years-over-attempted-coup.html" target="_blank">Brazil&#x27;s Bolsonaro jailed 27 years over attempted coup</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-12 11:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/macos-sequoia-safari-account-apple-com-threat-notification.jpg?fit=1200%2C515&amp;quality=60&amp;ssl=1" alt="Apple sends threat alerts as sophisticated spyware targets high-profile iPhone users" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +287,6 @@
                 <span class="time">2025-09-11 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Image-YouTube-Makerinator.jpg?fit=1080%2C601&amp;quality=60&amp;ssl=1" alt="Outsource your decisions to this handy device" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/11/outsource-your-decisions-to-this-handy-device.html" target="_blank">Outsource your decisions to this handy device</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-11 21:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -336,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 13:07 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
