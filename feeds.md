@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-12 14:01:45 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-09-12 15:01:41 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, September 12, 2025 - 14:01 UTC</div>
+    <div class="newspaper-date">Friday, September 12, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/12/israeli-forces-arrest-palestinians-en-masse-laying-siege-to-tulkarem?traffic_source=rss" target="_blank">Israeli forces arrest Palestinians en masse, laying siege to Tulkarem</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-12 14:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/12/nx-s1-5539205/charlie-kirk-suspect-shooter" target="_blank">Authorities arrest suspect in the killing of conservative activist Charlie Kirk</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-12 14:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/kirk-4-abc-gmh-250912_1757686213868_hpMain_4x3t_384.jpg" alt="Suspect arrested, identified in shooting of Charlie Kirk, officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/manhunt-charlie-kirks-killer-enters-3rd-day-questions/story?id=125504696" target="_blank">Suspect arrested, identified in shooting of Charlie Kirk, officials say</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-12 14:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,38 +101,29 @@
                 <span class="time">2025-09-12 12:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8365/live/f25b1f40-8fc6-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Man jailed for 34 years over shooting of girl, 9" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cgknmmnje17o?at_medium=RSS&at_campaign=rss" target="_blank">Man jailed for 34 years over shooting of girl, 9</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-12 11:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/12/bolsonaros-guilty-verdict-what-it-means-for-us-brazil-relations?traffic_source=rss" target="_blank">Bolsonaro’s guilty verdict – what it means for US-Brazil relations</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-12 11:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757675643220_tdy_news_7a_winter_kirk_250912_1920x1080-hj8jhe.jpg" alt="Officials ‘Relying on the Public’s Help’ to Find Charlie Kirk’s Killer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/officials-relying-on-the-public-s-help-to-find-charlie-kirk-s-killer-247444037530" target="_blank">Officials ‘Relying on the Public’s Help’ to Find Charlie Kirk’s Killer</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-12 11:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/12/last-day-to-amplify-your-brand-host-your-side-event-at-disrupt-2025/" target="_blank">Last day to amplify your brand: Host your Side Event at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-12 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/Spider-Man-No-Way-Home-Blu-Ray-via-Sony-Pictures-500x500.jpg" alt="Ex-DVD company employee gets 4 years for leaking Spider-Man Blu-ray" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/ex-dvd-company-employee-gets-4-years-for-leaking-spider-man-blu-ray/" target="_blank">Ex-DVD company employee gets 4 years for leaking Spider-Man Blu-ray</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-12 14:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,29 +160,20 @@
                 <span class="time">2025-09-12 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/raskin1-500x500.png" alt="Jef Raskin’s cul-de-sac and the quest for the humane computer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/jef-raskins-cul-de-sac-and-the-quest-for-the-humane-computer/" target="_blank">Jef Raskin’s cul-de-sac and the quest for the humane computer</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-12 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6840a3e3b89efac7e73753ef/master/pass/Update-%20Espresso%20Machines.png" alt="8 Best Espresso Machines for Home (2025), Tested by Coffee Pros" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-espresso-machines/" target="_blank">8 Best Espresso Machines for Home (2025), Tested by Coffee Pros</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-12 10:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ml318097/forward-networks-round-1-javascript-310k" target="_blank">Forward Networks - Round 1 (JavaScript)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-12 14:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +219,6 @@
                 <span class="time">2025-09-12 10:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/security-workflow-team/en/mediumimage/stefania-chaplin-medium-1756299628025.jpeg" alt="Presentation: Secure by Design: Building Security into Engineering Workflows and Teams" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/security-workflow-team/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Secure by Design: Building Security into Engineering Workflows and Teams</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-12 10:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +238,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/mariomissing.jpg" alt="Hey Nintendo, Where Mario?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/3d-mario-game-switch-2-missing-nintendo-direct-2000625355" target="_blank">Hey Nintendo, Where Mario?</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-12 14:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Virtual-Boy-Nintendo-Switch-2-1.jpg" alt="The Worst-Selling Nintendo Console Ever Is Returning as a Switch 2 Accessory" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-worst-selling-nintendo-console-ever-is-returning-as-a-switch-2-accessory-2000658149" target="_blank">The Worst-Selling Nintendo Console Ever Is Returning as a Switch 2 Accessory</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-12 14:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/kewpie.jpg?fit=1200%2C823&amp;quality=60&amp;ssl=1" alt="Adorable giant Kewpee doll greets customers at historic burger joint in Lima, Ohio" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/12/adorable-giant-kewpee-doll-greets-customers-at-historic-burger-joint-in-lima-ohio.html" target="_blank">Adorable giant Kewpee doll greets customers at historic burger joint in Lima, Ohio</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-12 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/04/d218ce5fa7b03d5e69ee70869d89ce9f.jpg" alt="Roku Wants to Improve Your TV Viewing Experience With a Monsoon of AI-Generated Ads" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,33 +290,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/11/apple-sends-threat-alerts-as-sophisticated-spyware-targets-high-profile-iphone-users.html" target="_blank">Apple sends threat alerts as sophisticated spyware targets high-profile iPhone users</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-12 02:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Mcon-Phone-Controller-2.jpg" alt="This Pop-Out Phone Controller Could Reinvent How We Think of Mobile Gaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/this-pop-out-phone-controller-could-reinvent-how-we-think-of-mobile-gaming-2000657772" target="_blank">This Pop-Out Phone Controller Could Reinvent How We Think of Mobile Gaming</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-12 02:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Wednesday-Agnes-Enid-Dance.jpg" alt="‘Wednesday’ Star Evie Templeton on Agnes’ Progression From Stalker to Friend" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/wednesday-star-evie-templeton-on-agnes-progression-from-stalker-to-friend-2000657912" target="_blank">‘Wednesday’ Star Evie Templeton on Agnes’ Progression From Stalker to Friend</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-11 23:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Beetlejuice-Warner-Bros.jpg" alt="Someone Finally Got the Note and Fixed This ‘Beetlejuice’ Sign" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/someone-finally-got-the-note-and-fixed-this-beetlejuice-sign-2000657774" target="_blank">Someone Finally Got the Note and Fixed This ‘Beetlejuice’ Sign</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-11 22:00</span>
             </div>
         </div>
 </div>
@@ -331,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
