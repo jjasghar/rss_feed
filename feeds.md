@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-12 22:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-12 23:01:33 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, September 12, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, September 12, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/12/asia-cup-post-conflict-india-vs-pakistan-cricket-match-divides-opinion?traffic_source=rss" target="_blank">Asia Cup: Post-conflict India vs Pakistan cricket match divides opinion</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-12 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/12/g-s1-88442/cost-of-living-prices" target="_blank">What&#x27;s costing you more lately, and how is it affecting you? NPR wants to hear</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-12 22:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,30 +94,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b02/live/9658b530-8ff9-11f0-a5f1-addf1091094f.jpg" alt="Nine Met Police officers suspended after BBC investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://s.abcnews.com/images/Politics/kirk-vigil-01-gty-jef-250912_1757679270774_hpMain_2_4x3t_384.jpg" alt="After Charlie Kirk&#x27;s killing, MAGA world mourns, but some say &#x27;we&#x27;re at war&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn839398xzpo?at_medium=RSS&at_campaign=rss" target="_blank">Nine Met Police officers suspended after BBC investigation</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-12 18:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/12/nato-fighter-jets-headed-to-eastern-europe-under-new-eastern?traffic_source=rss" target="_blank">NATO fighter jets headed to eastern Europe under new ‘Eastern Sentry’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-12 17:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f7d/live/c4a48080-8ff5-11f0-9cf6-cbf3e73ce2b9.png" alt="Who is Tyler Robinson, the suspect in custody for shooting Charlie Kirk?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp8wl2y66p9o?at_medium=RSS&at_campaign=rss" target="_blank">Who is Tyler Robinson, the suspect in custody for shooting Charlie Kirk?</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-12 16:48</span>
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/after-charlie-kirks-killing-maga-world-mourns-war/story?id=125483603" target="_blank">After Charlie Kirk&#x27;s killing, MAGA world mourns, but some say &#x27;we&#x27;re at war&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-12 18:59</span>
             </div>
         </div>
 </div>
@@ -105,6 +107,33 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/12/ram-ends-ev-pickup-truck-plans/" target="_blank">Ram ends EV pickup truck plans</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-12 22:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68c43de4a29b822c3095e943/master/pass/091225-spencox-cox-utah-charlie-kirk-press-conference.jpg" alt="Bullets Found After the Charlie Kirk Shooting Carried Messages. Here’s What They Mean" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/charlie-kirk-bullet-memes/" target="_blank">Bullets Found After the Charlie Kirk Shooting Carried Messages. Here’s What They Mean</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-12 22:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2203339270-500x500.jpg" alt="RFK Jr.’s CDC may limit COVID shots to 75 and up, claim they killed kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/09/covid-shot-access-could-tighten-rfk-jr-may-claim-they-cause-child-deaths/" target="_blank">RFK Jr.’s CDC may limit COVID shots to 75 and up, claim they killed kids</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-12 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2203339270-500x500.jpg" alt="COVID shot access could tighten; RFK Jr. may claim they cause child deaths" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -130,33 +159,6 @@
                 <span class="title"><a href="https://arstechnica.com/science/2025/09/department-of-energy-gets-rid-of-climate-skeptics-group-to-dodge-lawsuit/" target="_blank">Department of Energy gets rid of climate skeptics group to dodge lawsuit</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-09-12 20:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/12/pilot-union-urges-faa-to-reject-rainmakers-drone-cloud-seeding-plan/" target="_blank">Pilot union urges FAA to reject Rainmaker’s drone cloud-seeding plan</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-12 20:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c320aa50a2ad1d6d34f281/master/pass/Lee-Pace-Q-&-A-Culture-Foundation_Photo_030205.jpg" alt="Lee Pace Has Big Hopes for the Fourth Season of ‘Foundation’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/lee-pace-foundation-interview/" target="_blank">Lee Pace Has Big Hopes for the Fourth Season of ‘Foundation’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-12 20:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/777574/stellantis-cancels-ram-1500-ev-ramcharger" target="_blank">Stellantis cancels Ram 1500 REV as electric truck demand dims</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-12 20:17</span>
             </div>
         </div>
 </div>
@@ -220,9 +222,32 @@
         </div>
 </div>
 </div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/assessing-the-quality-of-dried-squid.html" target="_blank">Assessing the Quality of Dried Squid</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-09-12 21:05</span>
+            </div>
+        </div>
+</div>
+</div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/KWG-912.jpg" alt="Kotaku’s Weekend Guide: 5 Cool Games We Can’t Wait To Get Back To" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/kotaku-games-to-play-borderlands-silksong-shadow-2000625508" target="_blank">Kotaku’s Weekend Guide: 5 Cool Games We Can’t Wait To Get Back To</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-12 21:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/sharareh-moghaddam.jpeg?fit=1200%2C656&amp;quality=60&amp;ssl=1" alt="Woman lured to fake citizenship event, grabbed by ICE agents and sent to detention camp" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,20 +293,20 @@
                 <span class="time">2025-09-12 16:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/zwo-astronomy-the-comet-12p-pons-brooks-dan-bartlett.jpg" alt="Take a Trip to the Final Frontier With This Year’s Best Astronomy Photography" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/take-a-trip-to-the-final-frontier-with-this-years-best-astronomy-photography-2000658088" target="_blank">Take a Trip to the Final Frontier With This Year’s Best Astronomy Photography</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-12 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1757700613-bookreview2025julycolor.png" alt="Saturday Morning Breakfast Cereal - July 2025 Book Reviews" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/july-2025-book-reviews" target="_blank">Saturday Morning Breakfast Cereal - July 2025 Book Reviews</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-09-12 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1757482017-20250912.png" alt="Saturday Morning Breakfast Cereal - Climax" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -323,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 273 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 273 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
