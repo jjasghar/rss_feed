@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-12 05:02:18 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-12 06:02:29 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, September 12, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, September 12, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +48,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/fbi-video-still_1757645084724_hpMain_4x3t_384.jpg" alt="Video shows Charlie Kirk shooting suspect jump down from roof, make getaway" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/charlie-kirk-shooting-fbi-appeals-tips-manhunt-continues/story?id=125469211" target="_blank">Video shows Charlie Kirk shooting suspect jump down from roof, make getaway</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-12 04:33</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db79/live/7e21b940-8f8f-11f0-b391-6936825093bd.jpg" alt="New clues in hunt for Charlie Kirk&#x27;s killer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/videos/ce84y9ep1z8o?at_medium=RSS&at_campaign=rss" target="_blank">New clues in hunt for Charlie Kirk&#x27;s killer</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-12 04:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757642779462_now_brk_video_kirk_suspect_250911_1920x1080-a0qsbg.jpg" alt="Video shows apparent shooter fleeing after Charlie Kirk shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/video-shows-apparent-shooter-fleeing-after-charlie-kirk-shooting-247429189621" target="_blank">Video shows apparent shooter fleeing after Charlie Kirk shooting</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-12 02:06</span>
             </div>
         </div>
 <div class="story">
@@ -78,24 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/9/12/live-charlie-kirk-shot-dead-fbi-releases-images-of-person-of-interest?traffic_source=rss" target="_blank">LIVE: Charlie Kirk shot dead; new images of ‘person of interest’ released</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-12 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/09/11/nx-s1-5538105/covid-vaccine-shots-pharmacy-fda" target="_blank">They want a COVID shot to protect their health or at-risk family. They can&#x27;t get it</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-11 23:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/kirk-shooter-suspect-split-ht-jt-250911_1757606542845_hpMain_4x3t_384.jpg" alt="FBI releases images of person of interest amid manhunt for Charlie Kirk&#x27;s killer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/charlie-kirk-shooting-fbi-appeals-tips-manhunt-continues/story?id=125469211" target="_blank">FBI releases images of person of interest amid manhunt for Charlie Kirk&#x27;s killer</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-11 21:54</span>
             </div>
         </div>
 </div>
@@ -312,22 +315,13 @@
                 <span class="time">2025-09-11 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/09/11/deadheads" target="_blank">Deadheads</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-09-11 05:15</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
