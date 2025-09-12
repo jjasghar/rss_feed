@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-12 13:06:46 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-12 14:01:45 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, September 12, 2025 - 13:07 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, September 12, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/12/brazils-bolsonaro-gets-27-year-prison-sentence-for-attempted?traffic_source=rss" target="_blank">Brazil’s Bolsonaro gets 27-year prison sentence for ‘attempted coup’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-12 13:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -61,6 +77,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8365/live/f25b1f40-8fc6-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Man jailed for 34 years over shooting of girl, 9" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cgknmmnje17o?at_medium=RSS&at_campaign=rss" target="_blank">Man jailed for 34 years over shooting of girl, 9</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-12 11:50</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -70,30 +95,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/US/charlie-kirk-vigil_1757671488266_hpMain_4x3t_384.jpg" alt="Manhunt for Charlie Kirk&#x27;s &#x27;assassin&#x27; enters 3rd day as questions swirl" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757675643220_tdy_news_7a_winter_kirk_250912_1920x1080-hj8jhe.jpg" alt="Officials ‘Relying on the Public’s Help’ to Find Charlie Kirk’s Killer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/manhunt-charlie-kirks-killer-enters-3rd-day-questions/story?id=125504696" target="_blank">Manhunt for Charlie Kirk&#x27;s &#x27;assassin&#x27; enters 3rd day as questions swirl</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-12 11:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee69/live/00065ba0-8fb3-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Labour MPs&#x27; growing fury over Mandelson appointment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx238pwwqg6o?at_medium=RSS&at_campaign=rss" target="_blank">Labour MPs&#x27; growing fury over Mandelson appointment</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-12 10:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/12/nx-s1-5538120/the-latest-on-the-murder-of-right-wing-activist-charlie-kirk" target="_blank">The latest on the murder of right-wing activist Charlie Kirk</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-12 10:48</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/officials-relying-on-the-public-s-help-to-find-charlie-kirk-s-killer-247444037530" target="_blank">Officials ‘Relying on the Public’s Help’ to Find Charlie Kirk’s Killer</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-12 11:14</span>
             </div>
         </div>
 </div>
@@ -101,6 +108,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/optimizer-newsletter/776772/optimizer-newsletter-meta-connect-ray-ban-oakley-smart-glasses" target="_blank">It’s time for Meta to add a display to its smart glasses</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-12 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/04/office_icons_01-500x500.jpeg" alt="Microsoft dodges EU fine by unbundling Teams from Office" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -146,20 +162,38 @@
                 <span class="time">2025-09-12 10:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/hands-on/776797/xbox-ally-x-prongs-comfort-editorial" target="_blank">Prongs rock</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-12 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/orimdominic/accepted-into-enye-cohort-5-55ib" target="_blank">Accepted Into Enye Cohort 5</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-12 13:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-25.3-Faster-Intel-Shader" target="_blank">Intel Linux Graphics Driver Seeing 2~5% Faster Shader Compilation Times, Up To ~20%</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-12 13:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18615752&w=600" alt="Demystifying Kubernetes on AWS: A Comparative Analysis of Deployment Options" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/kubernetes-aws-deployment-options" target="_blank">Demystifying Kubernetes on AWS: A Comparative Analysis of Deployment Options</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-12 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -187,33 +221,6 @@
                 <span class="time">2025-09-12 10:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fabhoometg94t207igxtu.png" alt="Bug in CloudFront&#x27;s Continuous Deployment Feature" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/bug-in-cloudfronts-continuous-deployment-features-47ok" target="_blank">Bug in CloudFront&#x27;s Continuous Deployment Feature</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-12 08:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dimension-zero/mvc-vs-mvvm-whats-the-difference-c-example-45ah" target="_blank">MVC vs MVVM: what&#x27;s the difference? (C# example)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-12 07:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list" target="_blank">Qwen3-Next</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-12 06:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/04/d218ce5fa7b03d5e69ee70869d89ce9f.jpg" alt="Roku Wants to Improve Your TV Viewing Experience With a Monsoon of AI-Generated Ads" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/roku-ads-ai-2000657877" target="_blank">Roku Wants to Improve Your TV Viewing Experience With a Monsoon of AI-Generated Ads</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-12 13:55</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/03/bolsonaro-1.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Brazil&#x27;s Bolsonaro jailed 27 years over attempted coup" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +294,6 @@
                 <span class="time">2025-09-11 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JX3BGFCEJDMMY2BH921CN3HM/hero-image.jpg" alt="Four Things I Wish I Knew Before Training With the Garmin Forerunner 265" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/what-i-wish-i-knew-before-training-with-the-garmin-forerunner-265?utm_medium=RSS" target="_blank">Four Things I Wish I Knew Before Training With the Garmin Forerunner 265</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-11 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 13:07 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
