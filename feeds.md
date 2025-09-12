@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-09-12 06:02:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-12 07:02:00 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, September 12, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Friday, September 12, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/12/chinas-newest-aircraft-carrier-transits-taiwan-strait-for-final-tests?traffic_source=rss" target="_blank">China’s newest aircraft carrier transits Taiwan Strait for final tests</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-12 05:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/fbi-video-still_1757645084724_hpMain_4x3t_384.jpg" alt="Video shows Charlie Kirk shooting suspect jump down from roof, make getaway" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,21 +96,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50ba/live/13f2a2b0-8f66-11f0-b391-6936825093bd.jpg" alt="Young fans and critics debate Charlie Kirk&#x27;s political legacy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/9/12/live-charlie-kirk-shot-dead-fbi-releases-images-of-person-of-interest?traffic_source=rss" target="_blank">LIVE: Charlie Kirk shot dead; new video, images of suspect shooter released</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-12 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/9/12/live-charlie-kirk-shot-dead-fbi-releases-images-of-person-of-interest?traffic_source=rss" target="_blank">LIVE: Charlie Kirk shot dead; new images of ‘person of interest’ released</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-12 00:00</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c62n6ql215ro?at_medium=RSS&at_campaign=rss" target="_blank">Young fans and critics debate Charlie Kirk&#x27;s political legacy</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-12 00:03</span>
             </div>
         </div>
 </div>
@@ -106,6 +109,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/776942/apple-watch-hypertension-feature-cleared-by-fda" target="_blank">Apple Watch hypertension alerts cleared by FDA for new and old watches</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-12 06:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" alt="Lenovo Coupon Codes and Deals: Up to $500 Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/lenovo-coupon-code/" target="_blank">Lenovo Coupon Codes and Deals: Up to $500 Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-12 05:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68c308fbcdda439993449ab6/master/pass/nasseri%20-%20wired%20-%20kirk%20final-5.jpg" alt="Scenes From Charlie Kirk&#x27;s Spontaneous Memorial in Utah" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,24 +161,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/09/11/a-california-bill-that-would-regulate-ai-companion-chatbots-is-close-to-becoming-law/" target="_blank">A California bill that would regulate AI companion chatbots is close to becoming law</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-09-11 22:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/11/apples-latest-iphone-security-feature-just-made-life-more-difficult-for-spyware-makers/" target="_blank">Apple’s latest iPhone security feature just made life more difficult for spyware makers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-11 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c33e23056a2fb79e26a2d1/master/pass/iPhone%2017%20Pro%20Hero%20Image%20SOURCE%20Julian%20Chokkattu.jpg" alt="Which iPhone 17 Model Should You Buy?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/which-apple-iphone-17-models-to-buy/" target="_blank">Which iPhone 17 Model Should You Buy?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-11 21:43</span>
             </div>
         </div>
 </div>
@@ -320,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
