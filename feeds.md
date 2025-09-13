@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-13 01:28:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-13 02:20:45 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
 <!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, September 13, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, September 13, 2025 - 02:20 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -56,12 +55,30 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/9/13/live-police-arrest-22-year-old-tyler-robinson-for-charlie-kirks-murder?traffic_source=rss" target="_blank">LIVE: Suspected Charlie Kirk killer, Tyler Robinson, 22, held in custody</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-13 00:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e073/live/a67247f0-9031-11f0-b391-6936825093bd.jpg" alt="Charlie Kirk&#x27;s suspected killer brought into custody after confessing to father" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cly7417ge50o?at_medium=RSS&at_campaign=rss" target="_blank">Charlie Kirk&#x27;s suspected killer brought into custody after confessing to father</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-12 23:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757720161621_nn_mch_kirk_assassination_suspect_arrested_250912_1920x1080-imbaeu.jpg" alt="Suspect arrested in Charlie Kirk assassination" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/suspect-arrested-in-charlie-kirk-assassination-247493189761" target="_blank">Suspect arrested in Charlie Kirk assassination</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-12 23:22</span>
             </div>
         </div>
 <div class="story">
@@ -82,24 +99,6 @@
                 <span class="time">2025-09-12 22:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/12/at-least-193-killed-in-two-separate-boat-accidents-in-northwestern-dr-congo?traffic_source=rss" target="_blank">At least 193 killed in two separate boat accidents in northwestern DR Congo</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-12 21:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/12/nx-s1-5539821/guantanamo-migrants-water-deportations-ice" target="_blank">Water failure at Guantánamo Bay affects U.S. migrant operations there</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-12 20:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -112,6 +111,15 @@
                 <span class="title"><a href="https://www.theverge.com/news/777666/tucker-carlson-altman-openai-interview" target="_blank">Tucker Carlson asks Sam Altman if an OpenAI employee was murdered &amp;#8216;on your orders&amp;#8217;</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-13 00:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/AirandSpaceChantilly_49-500x500.jpg" alt="Scientists: It’s do or die time for America’s primacy exploring the Solar System" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/09/scientists-its-do-or-die-time-for-americas-primacy-exploring-the-solar-system/" target="_blank">Scientists: It’s do or die time for America’s primacy exploring the Solar System</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-12 23:48</span>
             </div>
         </div>
 <div class="story">
@@ -150,20 +158,20 @@
                 <span class="time">2025-09-12 22:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2203339270-500x500.jpg" alt="RFK Jr.’s CDC may limit COVID shots to 75 and up, claim they killed kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/09/covid-shot-access-could-tighten-rfk-jr-may-claim-they-cause-child-deaths/" target="_blank">RFK Jr.’s CDC may limit COVID shots to 75 and up, claim they killed kids</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-12 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://acoup.blog/2025/09/12/collections-life-work-death-and-the-peasant-part-ivc-rent-and-extraction/" target="_blank">Life, work, death and the peasant: Rent and extraction</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-13 01:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9rwj9bly8nxmk9jmkaij.png" alt="Probabilistic Reasoning (Bite-size Article)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +217,6 @@
                 <span class="time">2025-09-12 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/casperday11/day-93-the-exhaustion-behind-the-expertise-4emc" target="_blank">Day 93: The Exhaustion Behind the Expertise</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-12 19:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Lin-Shaye-Insidious.jpg" alt="Horror Icon Lin Shaye Is Returning to ‘Insidious’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/horror-icon-lin-shaye-is-returning-to-insidious-2000658499" target="_blank">Horror Icon Lin Shaye Is Returning to ‘Insidious’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-12 23:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/KWG-912.jpg" alt="Kotaku’s Weekend Guide: 5 Cool Games We Can’t Wait To Get Back To" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,15 +288,6 @@
                 <span class="title"><a href="https://kotaku.com/ghost-yotei-charlie-kirk-joke-playstation-sony-2000625478" target="_blank">Ghost Of Yotei Dev Fired For Charlie Kirk Joke After Right-Wing Pressure Campaign</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-09-12 18:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/bullet.jpg" alt="Charlie Kirk Shooter Allegedly Had Bullet With Possible Helldivers 2 Reference Engraved On It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/charlie-kirk-shooter-helldivers-bullet-engraving-2000625439" target="_blank">Charlie Kirk Shooter Allegedly Had Bullet With Possible Helldivers 2 Reference Engraved On It</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-12 16:19</span>
             </div>
         </div>
 </div>
@@ -346,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 02:20 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
