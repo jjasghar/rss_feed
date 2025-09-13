@@ -1,32 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-09-13 12:02:24 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-09-13 13:04:36 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 5 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, September 13, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, September 13, 2025 - 13:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +37,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/13/nx-s1-5540143/erika-kirk-charlie-kirk" target="_blank">Charlie Kirk&#x27;s widow: &#x27;You have no idea what you have just unleashed&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-13 12:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/13/israeli-bomb-drops-during-al-jazeera-reporters-live?traffic_source=rss" target="_blank">Israeli bomb drops during Al Jazeera reporter’s live</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-13 12:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757763433805_tdy_sat_winter_charlie_kirk_suspect_250913_1920x1080-yq9h5p.jpg" alt="What’s Next After Capture of Suspect in Charlie Kirk Assassination" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/suspect-captured-in-assassination-of-charlie-kirk-what-s-next-247523397741" target="_blank">What’s Next After Capture of Suspect in Charlie Kirk Assassination</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-13 11:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,33 +91,6 @@
                 <span class="time">2025-09-13 10:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/13/g-s1-88626/anti-israel-protests-spanish-vuelta" target="_blank">Anti-Israel protests turn Spanish Vuelta cycling race into a diplomatic battleground</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-13 09:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/13/uc-berkeley-shares-information-on-160-staff-students-with-us-government?traffic_source=rss" target="_blank">UC Berkeley shares information on 160 staff, students with US government</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-13 09:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/13/nepal-sets-march-5-vote-restrictions-eased-as-interim-govt-takes-charge?traffic_source=rss" target="_blank">Nepal sets March 5 vote, restrictions eased as interim gov’t takes charge</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-13 08:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -108,6 +103,15 @@
                 <span class="title"><a href="https://www.wired.com/review/dell-27-plus-4k-monitor-s2725qs/" target="_blank">Dell 27 Plus 4K Review (S2725QS): The Monitor Almost Everyone Should Buy</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-09-13 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2018/09/GettyImages-978392268-500x500.jpg" alt="The US is trying to kick-start a “nuclear energy renaissance”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/09/the-us-is-trying-to-kick-start-a-nuclear-energy-renaissance/" target="_blank">The US is trying to kick-start a “nuclear energy renaissance”</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-13 11:23</span>
             </div>
         </div>
 <div class="story">
@@ -146,20 +150,20 @@
                 <span class="time">2025-09-12 22:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c43de4a29b822c3095e943/master/pass/091225-spencox-cox-utah-charlie-kirk-press-conference.jpg" alt="Bullets Found After the Charlie Kirk Shooting Carried Messages. Here’s What They Mean" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/charlie-kirk-bullet-memes/" target="_blank">Bullets Found After the Charlie Kirk Shooting Carried Messages. Here’s What They Mean</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-12 22:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkcguzr3yaklos0l9cuur.png" alt="How does low-rank adaptation for large language models work" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lewis_won/how-do-low-rank-adaptation-of-large-language-models-work-3ga6" target="_blank">How does low-rank adaptation for large language models work</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-13 12:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +207,6 @@
                 <span class="title"><a href="https://dev.to/latchudevops/part-47-trigger-a-cloud-function-based-on-the-cloud-storage-events-in-gcp-28hh" target="_blank">Part-47: Trigger a Cloud Function based on the Cloud Storage Events in GCP</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-13 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://skiftos.org" target="_blank">SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-13 04:55</span>
             </div>
         </div>
 </div>
@@ -324,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 13:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
