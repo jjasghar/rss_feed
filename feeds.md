@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-09-13 03:05:22 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-13 04:02:10 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, September 13, 2025 - 03:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, September 13, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/13/russia-ukraine-war-list-of-key-events-day-1297?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,297</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-13 03:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68d0/live/53a9ef60-904e-11f0-84c8-99de564f0440.png" alt="&#x27;I will never let your legacy die&#x27; - Charlie Kirk&#x27;s widow gives tearful address after shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cz9je8lxge4o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;I will never let your legacy die&#x27; - Charlie Kirk&#x27;s widow gives tearful address after shooting</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-13 02:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68d0/live/53a9ef60-904e-11f0-84c8-99de564f0440.png" alt="Charlie Kirk&#x27;s widow pays tribute to husband&#x27;s legacy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,24 +102,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cly7417ge50o?at_medium=RSS&at_campaign=rss" target="_blank">Charlie Kirk&#x27;s suspected killer brought into custody after confessing to father</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-12 23:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757720161621_nn_mch_kirk_assassination_suspect_arrested_250912_1920x1080-imbaeu.jpg" alt="Suspect arrested in Charlie Kirk assassination" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/suspect-arrested-in-charlie-kirk-assassination-247493189761" target="_blank">Suspect arrested in Charlie Kirk assassination</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-12 23:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/12/asia-cup-post-conflict-india-vs-pakistan-cricket-match-divides-opinion?traffic_source=rss" target="_blank">Asia Cup: Post-conflict India vs Pakistan cricket match divides opinion</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-12 22:30</span>
             </div>
         </div>
 </div>
@@ -190,6 +196,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Colin-King-Leaving-Intel" target="_blank">Intel Loses Another Prominent Linux Engineer - Now Going To NVIDIA</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-13 00:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9rwj9bly8nxmk9jmkaij.png" alt="Probabilistic Reasoning (Bite-size Article)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -205,15 +220,6 @@
                 <span class="title"><a href="https://dev.to/onlineproxy/unlocking-the-future-with-ai-agents-a-new-era-of-automation-and-innovation-k77" target="_blank">Unlocking the Future with AI Agents: A New Era of Automation and Innovation</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-12 20:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wine-10.15-Released" target="_blank">Wine 10.15 Released With Initial NTSYNC Bits, Unicode 17.0 Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-12 20:06</span>
             </div>
         </div>
 </div>
@@ -263,6 +269,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/OysterVPN.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="There&#x27;s finally a VPN that doesn&#x27;t charge a monthly fee, and it&#x27;s only $31" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/12/theres-finally-a-vpn-that-doesnt-charge-a-monthly-fee-and-its-only-31.html" target="_blank">There&#x27;s finally a VPN that doesn&#x27;t charge a monthly fee, and it&#x27;s only $31</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-12 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/sharareh-moghaddam.jpeg?fit=1200%2C656&amp;quality=60&amp;ssl=1" alt="Woman lured to fake citizenship event, grabbed by ICE agents and sent to detention camp" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -278,15 +293,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/focus-friend-bean-now-has-a-living-room?utm_medium=RSS" target="_blank">The Little Bean Guy in Your Focus Friend App Now Has Two Rooms in His House</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-12 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/ghost-of-yotei.jpg" alt="Ghost Of Yotei Dev Fired For Charlie Kirk Joke After Right-Wing Pressure Campaign" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ghost-yotei-charlie-kirk-joke-playstation-sony-2000625478" target="_blank">Ghost Of Yotei Dev Fired For Charlie Kirk Joke After Right-Wing Pressure Campaign</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-12 18:47</span>
             </div>
         </div>
 </div>
@@ -330,22 +336,13 @@
                 <span class="time">2025-09-12 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/mantle_model.png" alt="Mantle Model" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3141/" target="_blank">Mantle Model</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-09-12 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 03:05 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
