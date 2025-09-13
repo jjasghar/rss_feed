@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-13 09:01:41 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-13 10:01:42 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 2 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, September 13, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, September 13, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/13/g-s1-88626/anti-israel-protests-spanish-vuelta" target="_blank">Anti-Israel protests turn Spanish Vuelta cycling race into a diplomatic battleground</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-13 09:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/13/uc-berkeley-shares-information-on-160-staff-students-with-us-government?traffic_source=rss" target="_blank">UC Berkeley shares information on 160 staff, students with US government</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-13 09:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,24 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/by-the-numbers-3/2025/9/13/why-the-israeli-military-is-widely-accused-of-avoiding-accountability?traffic_source=rss" target="_blank">Why the Israeli military is widely accused of avoiding accountability</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-13 04:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-charlie-kirk-erika-kirk_7018579.jpg?20250913033522" alt="Charlie Kirk&#x27;s widow pays tribute to &#x27;perfect&#x27; husband and says her cries &#x27;will echo around the world&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/charlie-kirks-widow-pays-tribute-to-perfect-husband-and-says-her-cries-will-echo-around-the-world-13429729" target="_blank">Charlie Kirk&#x27;s widow pays tribute to &#x27;perfect&#x27; husband and says her cries &#x27;will echo around the world&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-13 03:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/13/russia-ukraine-war-list-of-key-events-day-1297?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,297</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-13 03:26</span>
             </div>
         </div>
 </div>
@@ -165,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fffsq2vghs4ix372d305b.png" alt="Enigma Machine : How a step on its rotor change the mapping" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/heavenhunter/enigma-machine-how-a-step-on-its-rotor-change-the-mapping-24nf" target="_blank">Enigma Machine : How a step on its rotor change the mapping</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-13 09:48</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,15 +215,6 @@
                 <span class="title"><a href="https://egglog-python.readthedocs.io/latest/tutorials/tut_1_basics.html" target="_blank">Basics of Equality Saturation</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-09-13 03:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://ma.tt/2025/09/legal-win/" target="_blank">Legal win</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-13 01:55</span>
             </div>
         </div>
 </div>
@@ -328,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
