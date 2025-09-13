@@ -1,29 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-13 20:01:39 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-09-13 21:01:26 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, September 13, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, September 13, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250911-kirk-trump-ch-1006-a5c532.jpg" alt="Trump says he wants national healing — while blaming the &#x27;radical left&#x27; as a barrier" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-radical-left-healing-charlie-kirk-assassination-rcna231032" target="_blank">Trump says he wants national healing — while blaming the &#x27;radical left&#x27; as a barrier</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-13 20:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8370/live/235fe800-90df-11f0-9294-e79bb3a0c05b.png" alt="Dozens of officers injured as up to 150,000 join Tommy Robinson rally" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwydezxl0xlo?at_medium=RSS&at_campaign=rss" target="_blank">Dozens of officers injured as up to 150,000 join Tommy Robinson rally</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-13 20:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,29 +98,20 @@
                 <span class="time">2025-09-13 15:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/13/video-tens-of-thousands-march-in-rival-london-protests-over-immigration?traffic_source=rss" target="_blank">Video: Tens of thousands march in rival London protests over immigration</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-13 15:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/13/us-officials-meet-taliban-in-kabul-to-discuss-americans-held-in-afghanistan?traffic_source=rss" target="_blank">US officials meet Taliban in Kabul to discuss Americans held in Afghanistan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-13 14:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/13/pilot-union-urges-faa-to-reject-rainmakers-drone-cloud-seeding-plan/" target="_blank">Pilot union urges FAA to reject Rainmaker’s drone cloud-seeding plan</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-13 19:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,15 +154,6 @@
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/hands-on/777691/spotify-lossless-flac-audio-inconvenient-improvement" target="_blank">Spotify Lossless is an inconvenient improvement</a></span>
                 <span class="feed">The Verge</span>
-                <span class="time">2025-09-13 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/13/heres-the-tech-powering-ices-deportation-crackdown/" target="_blank">Here’s the tech powering ICE’s deportation crackdown</a></span>
-                <span class="feed">TechCrunch</span>
                 <span class="time">2025-09-13 15:00</span>
             </div>
         </div>
@@ -231,6 +236,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/03/48843d1be25326a64b077f7c9c7f890b.jpg" alt="Every Super Mario Game, Ranked From Worst To Best" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/nintendo-switch-super-mario-bros-best-ranked-odyssey-1850286446" target="_blank">Every Super Mario Game, Ranked From Worst To Best</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-13 19:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/TheStrangers2.jpg" alt="‘The Strangers: Chapter 2’ Opening Is a Game of Hide and Seek" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -275,15 +289,6 @@
                 <span class="time">2025-09-13 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Lin-Shaye-Insidious.jpg" alt="Horror Icon Lin Shaye Is Returning to ‘Insidious’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/horror-icon-lin-shaye-is-returning-to-insidious-2000658499" target="_blank">Horror Icon Lin Shaye Is Returning to ‘Insidious’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-12 23:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
