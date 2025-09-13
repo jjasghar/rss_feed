@@ -1,34 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-09-13 19:01:36 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-13 20:01:39 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 2 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Saturday, September 13, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, September 13, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/13/g-s1-88654/israel-gaza-hamas-hospital-32-dead" target="_blank">Israel ramps up strikes on Gaza City and hospital says at least 32 are dead</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-13 19:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,15 +91,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/13/us-officials-meet-taliban-in-kabul-to-discuss-americans-held-in-afghanistan?traffic_source=rss" target="_blank">US officials meet Taliban in Kabul to discuss Americans held in Afghanistan</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-13 14:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/13/nx-s1-5540664/trump-russia-sanctions-nato-ukraine" target="_blank">Trump tells NATO members they must move first on Russia sanctions over Ukraine</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-13 14:05</span>
             </div>
         </div>
 </div>
@@ -326,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 95 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
