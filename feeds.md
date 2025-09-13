@@ -1,42 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-13 17:01:38 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-13 18:01:42 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 33 feeds processed -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, September 13, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Saturday, September 13, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/13/nx-s1-5540728/boeing-faa-safety-fines-door-plug-blowout" target="_blank">FAA seeks to fine Boeing $3.1 million for safety violations, door plug blowout</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-13 17:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb65/live/04128f00-90b9-11f0-8e77-75a1ddfa3616.png" alt="More than 100,000 join Tommy Robinson rally, as counter-protesters demonstrate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwydezxl0xlo?at_medium=RSS&at_campaign=rss" target="_blank">More than 100,000 join Tommy Robinson rally, as counter-protesters demonstrate</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-13 17:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b41/live/b000b990-90a0-11f0-9501-e11accb9a258.jpg" alt="Thousands join Tommy Robinson rally, as counter-protesters demonstrate" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,24 +101,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/13/nx-s1-5540664/trump-russia-sanctions-nato-ukraine" target="_blank">Trump tells NATO members they must move first on Russia sanctions over Ukraine</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-13 14:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b41/live/b000b990-90a0-11f0-9501-e11accb9a258.jpg" alt="Thousands taking part in &#x27;Unite the Kingdom&#x27; rally and counter protest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwydezxl0xlo?at_medium=RSS&at_campaign=rss" target="_blank">Thousands taking part in &#x27;Unite the Kingdom&#x27; rally and counter protest</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-13 13:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/13/nx-s1-5540143/erika-kirk-charlie-kirk" target="_blank">Charlie Kirk&#x27;s widow: &#x27;You have no idea what you have just unleashed&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-13 12:45</span>
             </div>
         </div>
 </div>
@@ -173,6 +170,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://worksinprogress.co/issue/magical-systems-thinking/" target="_blank">Magical Systems Thinking</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-13 16:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jiminlee/44-llm-in-context-learning-hype-and-the-road-ahead-1229" target="_blank">(4/4) LLM: In-Context Learning, Hype, and the Road Ahead</a></span>
                 <span class="feed">DEV Community</span>
@@ -213,15 +219,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-Sheaves-AMD-Performance" target="_blank">Linux&#x27;s New &quot;Sheaves&quot; Per-CPU Caching Layer Showing Massive Wins For AMD Performance</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-13 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fffsq2vghs4ix372d305b.png" alt="Enigma Machine : How a step on its rotor change the mapping" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/heavenhunter/enigma-machine-how-a-step-on-its-rotor-change-the-mapping-24nf" target="_blank">Enigma Machine : How a step on its rotor change the mapping</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-13 09:48</span>
             </div>
         </div>
 </div>
@@ -334,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 98 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
