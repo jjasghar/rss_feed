@@ -1,27 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-09-13 13:04:36 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-13 14:01:33 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 19 feeds processed -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Saturday, September 13, 2025 - 13:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, September 13, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b41/live/b000b990-90a0-11f0-9501-e11accb9a258.jpg" alt="Thousands taking part in &#x27;Unite the Kingdom&#x27; rally and counter protest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cwydezxl0xlo?at_medium=RSS&at_campaign=rss" target="_blank">Thousands taking part in &#x27;Unite the Kingdom&#x27; rally and counter protest</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-13 13:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,20 +94,20 @@
                 <span class="time">2025-09-13 11:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/13/video-who-is-nepals-new-prime-minister-and-what-challenges-does-she-face?traffic_source=rss" target="_blank">Video: Who is Nepal’s new prime minister and what challenges does she face?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-13 10:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tv/777484/women-wearing-shoulder-pads-interview" target="_blank">Adult Swim&amp;#8217;s new stop-motion series is a celebration of Latin American culture</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-13 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68c4c64e5a96d6ae40ca43b3/master/pass/Review-%20Dell%2027%20Plus%204K%20Monitor.png" alt="Dell 27 Plus 4K Review (S2725QS): The Monitor Almost Everyone Should Buy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,15 +153,6 @@
                 <span class="time">2025-09-12 23:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/12/ram-ends-ev-pickup-truck-plans/" target="_blank">Ram ends EV pickup truck plans</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-12 22:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -162,6 +165,15 @@
                 <span class="title"><a href="https://dev.to/lewis_won/how-do-low-rank-adaptation-of-large-language-models-work-3ga6" target="_blank">How does low-rank adaptation for large language models work</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-13 12:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://anycrap.shop/" target="_blank">A store that generates products from anything you type in search</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-13 12:02</span>
             </div>
         </div>
 <div class="story">
@@ -200,15 +212,6 @@
                 <span class="time">2025-09-13 06:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fauz6khc5whtrnyas6zfn.png" alt="Part-47: Trigger a Cloud Function based on the Cloud Storage Events in GCP" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/latchudevops/part-47-trigger-a-cloud-function-based-on-the-cloud-storage-events-in-gcp-28hh" target="_blank">Part-47: Trigger a Cloud Function based on the Cloud Storage Events in GCP</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-13 06:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -228,6 +231,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Bolide-impact-in-Chesapeake-Bay.jpg" alt="Evidence of Ancient Asteroid Impact and Tsunami Found in North Carolina" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/evidence-of-ancient-asteroid-impact-and-tsunami-found-in-north-carolina-2000657598" target="_blank">Evidence of Ancient Asteroid Impact and Tsunami Found in North Carolina</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-13 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Lin-Shaye-Insidious.jpg" alt="Horror Icon Lin Shaye Is Returning to ‘Insidious’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,15 +285,6 @@
                 <span class="time">2025-09-12 20:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4ZM33J6FK4E5M7Y3W541VVD/hero-image.jpg" alt="The Little Bean Guy in Your Focus Friend App Now Has Two Rooms in His House" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/focus-friend-bean-now-has-a-living-room?utm_medium=RSS" target="_blank">The Little Bean Guy in Your Focus Friend App Now Has Two Rooms in His House</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-12 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 116 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 13:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
