@@ -1,32 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-13 00:04:20 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-13 01:28:45 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, September 13, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, September 13, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/GMA/Erika-Frantzve-gty-gmh-250911_1757596468596_hpMain_3_4x3t_384.jpg" alt="Erika Kirk delivers remarks to the nation after killing of husband Charlie Kirk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/charlie-kirks-widow-erika-set-deliver-1st-public/story?id=125528319" target="_blank">Erika Kirk delivers remarks to the nation after killing of husband Charlie Kirk</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-13 01:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e073/live/a67247f0-9031-11f0-b391-6936825093bd.jpg" alt="Charlie Kirk&#x27;s suspected killer brought into custody after confessing to father" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly7417ge50o?at_medium=RSS&at_campaign=rss" target="_blank">Charlie Kirk&#x27;s suspected killer brought into custody after confessing to father</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-12 23:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +100,20 @@
                 <span class="time">2025-09-12 20:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/12/un-passes-resolution-endorsing-two-state-solution-for-israel-and-palestine?traffic_source=rss" target="_blank">UNGA backs resolution on two-state solution for Israel and Palestine</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-12 20:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/kirk-vigil-01-gty-jef-250912_1757679270774_hpMain_2_4x3t_384.jpg" alt="After Charlie Kirk&#x27;s killing, MAGA world mourns, but some say &#x27;we&#x27;re at war&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/after-charlie-kirks-killing-maga-world-mourns-war/story?id=125483603" target="_blank">After Charlie Kirk&#x27;s killing, MAGA world mourns, but some say &#x27;we&#x27;re at war&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-12 18:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/777666/tucker-carlson-altman-openai-interview" target="_blank">Tucker Carlson asks Sam Altman if an OpenAI employee was murdered &amp;#8216;on your orders&amp;#8217;</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-13 00:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68c446a1a9a6207649453950/master/pass/Art-Censorship-Culture-sp2702PreviewImage21.jpg" alt="Cancel Culture Comes for Artists Who Posted About Charlie Kirk’s Death" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -142,15 +155,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
                 <span class="title"><a href="https://arstechnica.com/health/2025/09/covid-shot-access-could-tighten-rfk-jr-may-claim-they-cause-child-deaths/" target="_blank">RFK Jr.’s CDC may limit COVID shots to 75 and up, claim they killed kids</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-12 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2203339270-500x500.jpg" alt="COVID shot access could tighten; RFK Jr. may claim they cause child deaths" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/09/covid-shot-access-could-tighten-rfk-jr-may-claim-they-cause-child-deaths/" target="_blank">COVID shot access could tighten; RFK Jr. may claim they cause child deaths</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-09-12 22:00</span>
             </div>
@@ -243,6 +247,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4ZNPFMQA7JVA1BNSQZDA94T/hero-image.jpg" alt="Meta Might Unveil a Smart Watch to Control Its Next-Gen AI Glasses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/meta-smart-watch-prada-rumors?utm_medium=RSS" target="_blank">Meta Might Unveil a Smart Watch to Control Its Next-Gen AI Glasses</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-12 21:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/sharareh-moghaddam.jpeg?fit=1200%2C656&amp;quality=60&amp;ssl=1" alt="Woman lured to fake citizenship event, grabbed by ICE agents and sent to detention camp" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -276,15 +289,6 @@
                 <span class="title"><a href="https://kotaku.com/charlie-kirk-shooter-helldivers-bullet-engraving-2000625439" target="_blank">Charlie Kirk Shooter Allegedly Had Bullet With Possible Helldivers 2 Reference Engraved On It</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-09-12 16:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Borderlands-4-review_jpg_75.jpg?fit=1200%2C720&amp;quality=60&amp;ssl=1" alt="Borderlands 4 launch marred by &quot;terrible performance&quot; across all hardware" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/12/borderlands-4-launch-marred-by-terrible-performance-across-all-hardware.html" target="_blank">Borderlands 4 launch marred by &quot;terrible performance&quot; across all hardware</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-12 16:10</span>
             </div>
         </div>
 </div>
@@ -337,22 +341,13 @@
                 <span class="time">2025-09-12 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5656.png" alt="Good Talk, Everybody" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5656" target="_blank">Good Talk, Everybody</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-09-12 01:03</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 272 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
