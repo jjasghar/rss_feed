@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-13 08:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-13 09:01:41 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, September 13, 2025 - 08:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, September 13, 2025 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/13/nepal-sets-march-5-vote-restrictions-eased-as-interim-govt-takes-charge?traffic_source=rss" target="_blank">Nepal sets March 5 vote, restrictions eased as interim gov’t takes charge</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-13 08:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/13/russia-ukraine-war-list-of-key-events-day-1297?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,297</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-13 03:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68d0/live/53a9ef60-904e-11f0-84c8-99de564f0440.png" alt="&#x27;I will never let your legacy die&#x27; - Charlie Kirk&#x27;s widow gives tearful address after shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cz9je8lxge4o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;I will never let your legacy die&#x27; - Charlie Kirk&#x27;s widow gives tearful address after shooting</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-13 02:35</span>
             </div>
         </div>
 </div>
@@ -191,6 +194,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://skiftos.org" target="_blank">SkiftOS: A hobby OS built from scratch using C/C++ for ARM, x86, and RISC-V</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-13 04:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://egglog-python.readthedocs.io/latest/tutorials/tut_1_basics.html" target="_blank">Basics of Equality Saturation</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
@@ -204,15 +216,6 @@
                 <span class="title"><a href="https://ma.tt/2025/09/legal-win/" target="_blank">Legal win</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-09-13 01:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://acoup.blog/2025/09/12/collections-life-work-death-and-the-peasant-part-ivc-rent-and-extraction/" target="_blank">Life, work, death and the peasant: Rent and extraction</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-13 01:15</span>
             </div>
         </div>
 </div>
@@ -325,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 08:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
