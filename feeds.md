@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-09-13 22:01:38 UTC -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2025-09-13 23:01:41 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, September 13, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, September 13, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/13/venezuela-condemns-us-destroyer-for-hostile-occupation-of-fishing-vessel?traffic_source=rss" target="_blank">Venezuela condemns US destroyer for hostile occupation of fishing vessel</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-13 22:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,15 +102,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/13/g-s1-88654/israel-gaza-hamas-hospital-32-dead" target="_blank">Israel ramps up strikes on Gaza City and hospital says at least 32 are dead</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-13 19:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/13/nx-s1-5540728/boeing-faa-safety-fines-door-plug-blowout" target="_blank">FAA seeks to fine Boeing $3.1 million for safety violations, door plug blowout</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-13 17:45</span>
             </div>
         </div>
 </div>
@@ -166,12 +169,39 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/pattee_green_write/hello-business-world-21m5" target="_blank">hello business world.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-13 22:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.tuni.fi/en/news/myocardial-infarction-may-be-infectious-disease" target="_blank">Heart attacks may be triggered by bacteria</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-13 21:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr77px5u4hroe40x8vnoq.png" alt="From Code to Cloud: Seamless CI/CD with GitHub Actions and Azure Web Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ibrahimbioabu/from-code-to-cloud-seamless-cicd-with-github-actions-and-azure-web-apps-3f0h" target="_blank">From Code to Cloud: Seamless CI/CD with GitHub Actions and Azure Web Apps</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-13 21:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/01/linux-mint-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint 22.3 Plans App Menu Revamp, Better Wayland Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/linux-mint-22-3-will-bring-revamped-app-menu-better-wayland-support" target="_blank">Linux Mint 22.3 Plans App Menu Revamp, Better Wayland Support</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-13 18:57</span>
             </div>
         </div>
 <div class="story">
@@ -192,38 +222,29 @@
                 <span class="time">2025-09-13 18:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://worksinprogress.co/issue/magical-systems-thinking/" target="_blank">Magical Systems Thinking</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-13 16:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jiminlee/44-llm-in-context-learning-hype-and-the-road-ahead-1229" target="_blank">(4/4) LLM: In-Context Learning, Hype, and the Road Ahead</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-13 14:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkcguzr3yaklos0l9cuur.png" alt="How does low-rank adaptation for large language models work" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lewis_won/how-do-low-rank-adaptation-of-large-language-models-work-3ga6" target="_blank">How does low-rank adaptation for large language models work</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-13 12:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Mini-Night-Vision-Binoculars-with-2.4.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Night vision? You better believe it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/13/night-vision-you-better-believe-it.html" target="_blank">Night vision? You better believe it</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-13 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/10/GavinNewsom.jpg" alt="California Lawmakers Once Again Challenge Newsom’s Tech Ties with AI Bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/california-lawmakers-once-again-challenge-newsoms-tech-ties-with-ai-bill-2000658616" target="_blank">California Lawmakers Once Again Challenge Newsom’s Tech Ties with AI Bill</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-13 20:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/03/48843d1be25326a64b077f7c9c7f890b.jpg" alt="Every Super Mario Game, Ranked From Worst To Best" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,24 +281,6 @@
                 <span class="time">2025-09-13 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/07/cdf7d8bf3b613a06b486e7a234fa51e4.jpg" alt="Battlefield 6 Devs Struggled To Get It Running On Xbox Series S" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/battlefield-6-devs-struggled-xbox-series-s-60-fps-switch-2-2000625487" target="_blank">Battlefield 6 Devs Struggled To Get It Running On Xbox Series S</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-13 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Bolide-impact-in-Chesapeake-Bay.jpg" alt="Evidence of Ancient Asteroid Impact and Tsunami Found in North Carolina" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/evidence-of-ancient-asteroid-impact-and-tsunami-found-in-north-carolina-2000657598" target="_blank">Evidence of Ancient Asteroid Impact and Tsunami Found in North Carolina</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-13 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -306,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
