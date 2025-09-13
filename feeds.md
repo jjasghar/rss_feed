@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-13 02:20:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-13 03:05:22 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Saturday, September 13, 2025 - 02:20 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, September 13, 2025 - 03:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68d0/live/53a9ef60-904e-11f0-84c8-99de564f0440.png" alt="Charlie Kirk&#x27;s widow pays tribute to husband&#x27;s legacy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cz9je8lxge4o?at_medium=RSS&at_campaign=rss" target="_blank">Charlie Kirk&#x27;s widow pays tribute to husband&#x27;s legacy</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-13 02:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/GMA/Erika-Frantzve-gty-gmh-250911_1757596468596_hpMain_3_4x3t_384.jpg" alt="Erika Kirk delivers remarks to the nation after killing of husband Charlie Kirk" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,15 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/12/asia-cup-post-conflict-india-vs-pakistan-cricket-match-divides-opinion?traffic_source=rss" target="_blank">Asia Cup: Post-conflict India vs Pakistan cricket match divides opinion</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-12 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/12/g-s1-88442/cost-of-living-prices" target="_blank">What&#x27;s costing you more lately, and how is it affecting you? NPR wants to hear</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-12 22:03</span>
             </div>
         </div>
 </div>
@@ -166,6 +165,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://egglog-python.readthedocs.io/latest/tutorials/tut_1_basics.html" target="_blank">Basics of Equality Saturation</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-09-13 03:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://ma.tt/2025/09/legal-win/" target="_blank">Legal win</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-13 01:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://acoup.blog/2025/09/12/collections-life-work-death-and-the-peasant-part-ivc-rent-and-extraction/" target="_blank">Life, work, death and the peasant: Rent and extraction</a></span>
                 <span class="feed">Hacker News</span>
@@ -197,24 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Wine-10.15-Released" target="_blank">Wine 10.15 Released With Initial NTSYNC Bits, Unicode 17.0 Support</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-12 20:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wine-10.15-Released" target="_blank">Wine 10.15 Released With Initial NTSYNC Usage, Unicode 17.0 Support</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-12 20:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18225349&w=600" alt="Enhancing AI Privacy: Federated Learning and Differential Privacy in Machine Learning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/privacy-preserving-machine-learning-models-federat" target="_blank">Enhancing AI Privacy: Federated Learning and Differential Privacy in Machine Learning</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-12 20:00</span>
             </div>
         </div>
 </div>
@@ -345,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 02:20 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 03:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
