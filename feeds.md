@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-13 21:01:26 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2025-09-13 22:01:38 UTC -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, September 13, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, September 13, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/13/nx-s1-5540689/earl-richardson-obit" target="_blank">Earl Richardson, an educator &#x27;armed with history&#x27; and who changed HBCUs, dies</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-13 21:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250911-kirk-trump-ch-1006-a5c532.jpg" alt="Trump says he wants national healing — while blaming the &#x27;radical left&#x27; as a barrier" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -65,6 +77,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/13/us-teachers-targeted-by-far-right-in-doxxing-after-charlie-kirks-death?traffic_source=rss" target="_blank">Far-right groups are doxxing online critics after Charlie Kirk’s death</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-13 20:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/09/13/g-s1-88654/israel-gaza-hamas-hospital-32-dead" target="_blank">Israel ramps up strikes on Gaza City and hospital says at least 32 are dead</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -80,29 +101,20 @@
                 <span class="time">2025-09-13 17:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb65/live/04128f00-90b9-11f0-8e77-75a1ddfa3616.png" alt="More than 100,000 join Tommy Robinson rally, as counter-protesters demonstrate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwydezxl0xlo?at_medium=RSS&at_campaign=rss" target="_blank">More than 100,000 join Tommy Robinson rally, as counter-protesters demonstrate</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-13 17:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b41/live/b000b990-90a0-11f0-9501-e11accb9a258.jpg" alt="Thousands join Tommy Robinson rally, as counter-protesters demonstrate" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwydezxl0xlo?at_medium=RSS&at_campaign=rss" target="_blank">Thousands join Tommy Robinson rally, as counter-protesters demonstrate</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-13 15:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/13/tesla-board-chair-calls-debate-over-elon-musks-1t-pay-package-a-little-bit-weird/" target="_blank">Tesla board chair calls debate over Elon Musk’s $1T pay package ‘a little bit weird’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-13 21:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +160,20 @@
                 <span class="time">2025-09-13 15:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/hands-on/777691/spotify-lossless-flac-audio-inconvenient-improvement" target="_blank">Spotify Lossless is an inconvenient improvement</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-13 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr77px5u4hroe40x8vnoq.png" alt="From Code to Cloud: Seamless CI/CD with GitHub Actions and Azure Web Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ibrahimbioabu/from-code-to-cloud-seamless-cicd-with-github-actions-and-azure-web-apps-3f0h" target="_blank">From Code to Cloud: Seamless CI/CD with GitHub Actions and Azure Web Apps</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-13 21:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/01/linux-mint-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint 22.3 Will Bring Revamped App Menu, Better Wayland Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -205,29 +217,6 @@
                 <span class="title"><a href="https://dev.to/lewis_won/how-do-low-rank-adaptation-of-large-language-models-work-3ga6" target="_blank">How does low-rank adaptation for large language models work</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-13 12:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/cloudflare-automated-scoring/en/headerimage/generatedHeaderImage-1757110665701.jpg" alt="Cloudflare Introduces Automated Scoring for Shadow AI Risk Assessment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/cloudflare-automated-scoring/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Introduces Automated Scoring for Shadow AI Risk Assessment</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-13 12:11</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/assessing-the-quality-of-dried-squid.html" target="_blank">Assessing the Quality of Dried Squid</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-09-12 21:05</span>
             </div>
         </div>
 </div>
@@ -312,22 +301,13 @@
                 <span class="time">2025-09-12 23:02</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1757700613-bookreview2025julycolor.png" alt="Saturday Morning Breakfast Cereal - July 2025 Book Reviews" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/july-2025-book-reviews" target="_blank">Saturday Morning Breakfast Cereal - July 2025 Book Reviews</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-09-12 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 271 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
