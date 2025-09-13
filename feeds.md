@@ -1,30 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-09-13 14:01:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-13 15:01:33 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, September 13, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, September 13, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/13/us-officials-meet-taliban-in-kabul-to-discuss-americans-held-in-afghanistan?traffic_source=rss" target="_blank">US officials meet Taliban in Kabul to discuss Americans held in Afghanistan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-13 14:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/13/nx-s1-5540664/trump-russia-sanctions-nato-ukraine" target="_blank">Trump tells NATO members they must move first on Russia sanctions over Ukraine</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-13 14:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b41/live/b000b990-90a0-11f0-9501-e11accb9a258.jpg" alt="Thousands taking part in &#x27;Unite the Kingdom&#x27; rally and counter protest" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -76,29 +104,29 @@
                 <span class="time">2025-09-13 11:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2025/9/13/my-village-is-a-graveyard-afghans-describe-devastation-after-earthquake?traffic_source=rss" target="_blank">‘My village is a graveyard’: Afghans describe devastation after earthquake</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-13 11:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d64/live/219cd7b0-9091-11f0-84c8-99de564f0440.jpg" alt="Thousands gather for &#x27;Unite the Kingdom&#x27; rally and counter protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwydezxl0xlo?at_medium=RSS&at_campaign=rss" target="_blank">Thousands gather for &#x27;Unite the Kingdom&#x27; rally and counter protests</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-13 11:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/hands-on/777691/spotify-lossless-flac-audio-inconvenient-improvement" target="_blank">Spotify Lossless is an inconvenient improvement</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-13 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/13/heres-the-tech-powering-ices-deportation-crackdown/" target="_blank">Here’s the tech powering ICE’s deportation crackdown</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-13 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,29 +163,20 @@
                 <span class="time">2025-09-13 00:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/AirandSpaceChantilly_49-500x500.jpg" alt="Scientists: It’s do or die time for America’s primacy exploring the Solar System" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/09/scientists-its-do-or-die-time-for-americas-primacy-exploring-the-solar-system/" target="_blank">Scientists: It’s do or die time for America’s primacy exploring the Solar System</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-12 23:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c446a1a9a6207649453950/master/pass/Art-Censorship-Culture-sp2702PreviewImage21.jpg" alt="Cancel Culture Comes for Artists Who Posted About Charlie Kirk’s Death" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/charlie-kirk-art-censorship/" target="_blank">Cancel Culture Comes for Artists Who Posted About Charlie Kirk’s Death</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-12 23:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jiminlee/44-llm-in-context-learning-hype-and-the-road-ahead-1229" target="_blank">(4/4) LLM: In-Context Learning, Hype, and the Road Ahead</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-13 14:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkcguzr3yaklos0l9cuur.png" alt="How does low-rank adaptation for large language models work" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -201,15 +220,6 @@
                 <span class="title"><a href="https://dev.to/clara_peters_40b4f8e83421/the-top-benefits-of-using-cross-dex-for-multi-chain-traders-2djm" target="_blank">The Top Benefits of Using Cross Dex for Multi-Chain Traders</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-13 07:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.noemamag.com/the-last-days-of-social-media/" target="_blank">The Last Days of Social Media</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-13 06:27</span>
             </div>
         </div>
 </div>
@@ -322,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 114 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 106 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
