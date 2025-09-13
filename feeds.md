@@ -1,37 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-09-13 16:01:37 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-13 17:01:38 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, September 13, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Saturday, September 13, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +112,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/68c31b4931a9a8a5fa5d619e/master/pass/gear_colorfulwatch_7.jpg" alt="How a 2020 Rolex Collection Changed the Face of Watch Design" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-a-2020-rolex-collection-changed-the-face-of-watch-design/" target="_blank">How a 2020 Rolex Collection Changed the Face of Watch Design</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-13 16:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/777057/paramount-plus-baseus-dash-cam-solar-lego-earbuds-deal-sale" target="_blank">Time is running out to get half off a year of Paramount Plus</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-13 16:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -140,24 +163,6 @@
                 <span class="title"><a href="https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/" target="_blank">6 Best Digital Notebooks, Tablets, and Smart Pens (2025)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-09-13 14:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tv/777484/women-wearing-shoulder-pads-interview" target="_blank">Adult Swim&amp;#8217;s new stop-motion series is a celebration of Latin American culture</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-13 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c4c64e5a96d6ae40ca43b3/master/pass/Review-%20Dell%2027%20Plus%204K%20Monitor.png" alt="Dell 27 Plus 4K Review (S2725QS): The Monitor Almost Everyone Should Buy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/dell-27-plus-4k-monitor-s2725qs/" target="_blank">Dell 27 Plus 4K Review (S2725QS): The Monitor Almost Everyone Should Buy</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-13 12:00</span>
             </div>
         </div>
 </div>
@@ -239,6 +244,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Keith-Rabois.jpg" alt="Opendoor Board Chair Thinks the Company Should Cut Its Workforce by 85 Percent" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/opendoor-layoffs-85-percent-meme-stock-2000658512" target="_blank">Opendoor Board Chair Thinks the Company Should Cut Its Workforce by 85 Percent</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-13 17:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/09/Elon-Musk-speaks-at-a-conference-in-Beverly-Hills.jpg" alt="Elon Musk’s Comments on Houston Flood Tunnels Are Misleading, Experts Say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -283,15 +297,6 @@
                 <span class="time">2025-09-12 21:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4ZNPFMQA7JVA1BNSQZDA94T/hero-image.jpg" alt="Meta Might Unveil a Smart Watch to Control Its Next-Gen AI Glasses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/meta-smart-watch-prada-rumors?utm_medium=RSS" target="_blank">Meta Might Unveil a Smart Watch to Control Its Next-Gen AI Glasses</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-12 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 104 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 98 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
