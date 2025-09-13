@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-12 23:01:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-13 00:04:20 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, September 12, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, September 13, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +102,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/68c446a1a9a6207649453950/master/pass/Art-Censorship-Culture-sp2702PreviewImage21.jpg" alt="Cancel Culture Comes for Artists Who Posted About Charlie Kirk’s Death" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/charlie-kirk-art-censorship/" target="_blank">Cancel Culture Comes for Artists Who Posted About Charlie Kirk’s Death</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-12 23:24</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -126,6 +129,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/politics/777630/wsj-trans-misinformation-charlie-kirk" target="_blank">The WSJ carelessly spread anti-trans misinformation</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-12 22:03</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2203339270-500x500.jpg" alt="RFK Jr.’s CDC may limit COVID shots to 75 and up, claim they killed kids" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -141,24 +153,6 @@
                 <span class="title"><a href="https://arstechnica.com/health/2025/09/covid-shot-access-could-tighten-rfk-jr-may-claim-they-cause-child-deaths/" target="_blank">COVID shot access could tighten; RFK Jr. may claim they cause child deaths</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-09-12 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/777615/republicans-radical-left-select-committee" target="_blank">Congress Republicans want to target liberal donors after Charlie Kirk&amp;#8217;s death</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-12 21:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1558526744-500x500.jpg" alt="Department of Energy gets rid of climate skeptics group to dodge lawsuit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/09/department-of-energy-gets-rid-of-climate-skeptics-group-to-dodge-lawsuit/" target="_blank">Department of Energy gets rid of climate skeptics group to dodge lawsuit</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-12 20:58</span>
             </div>
         </div>
 </div>
@@ -299,6 +293,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/09/12/patential" target="_blank">Patential</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-09-12 23:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1757700613-bookreview2025julycolor.png" alt="Saturday Morning Breakfast Cereal - July 2025 Book Reviews" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -348,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 273 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 129 | 📡 Total Sources: 41 | 📸 With Images: 272 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
