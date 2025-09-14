@@ -1,37 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-09-14 08:02:24 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-14 09:01:45 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 0 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, September 14, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, September 14, 2025 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +40,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-romania-f16s-fighter_7019950.jpg?20250914092356" alt="Romania scrambles jets after Russian drone &#x27;breaches airspace&#x27; - as Zelenskyy warns of war &#x27;expansion&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/romania-scrambles-fighter-jets-after-russian-drone-breaches-airspace-as-zelenskyy-warns-of-war-expansion-13430684" target="_blank">Romania scrambles jets after Russian drone &#x27;breaches airspace&#x27; - as Zelenskyy warns of war &#x27;expansion&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-14 07:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +94,20 @@
                 <span class="time">2025-09-14 00:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/GMA/Erika-Frantzve-gty-gmh-250911_1757596468596_hpMain_3_4x3t_384.jpg" alt="Details of Charlie Kirk&#x27;s memorial announced" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/charlie-kirks-widow-erika-set-deliver-1st-public/story?id=125528319" target="_blank">Details of Charlie Kirk&#x27;s memorial announced</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-13 22:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68c4bc176e6a2ce2f329e2cb/master/pass/The%20Best%20Sex%20Machines%20for%20Solo,%20Couple,%20or%20Long-Distance%20Playtime.png" alt="6 Best Sex Machines for Solo, Couple, or Long-Distance Playtime (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-sex-machines/" target="_blank">6 Best Sex Machines for Solo, Couple, or Long-Distance Playtime (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-14 08:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +153,20 @@
                 <span class="time">2025-09-13 16:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/777057/paramount-plus-baseus-dash-cam-solar-lego-earbuds-deal-sale" target="_blank">Time is running out to get half off a year of Paramount Plus</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-13 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ed-wantuil/10-passos-para-conduzir-um-pos-mortem-que-realmente-evita-novos-incidentes-4795" target="_blank">10 Passos Para Conduzir um Pós-Mortem Que Realmente Evita Novos Incidentes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-14 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +210,6 @@
                 <span class="title"><a href="https://dev.to/ali_haider_3e2f954c5c0bb0/ai-dev-tools-i-use-everyday-44hd" target="_blank">AI Dev Tools I Use Everyday</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-14 01:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Redox-OS-2026-Plans" target="_blank">Redox OS To Focus More On Wayland, &quot;Redox Server&quot; &amp; Performance Over The Next Year</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-14 00:23</span>
             </div>
         </div>
 </div>
@@ -297,8 +290,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
