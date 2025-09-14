@@ -1,28 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-14 12:02:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-14 13:04:23 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 20 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Sunday, September 14, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Sunday, September 14, 2025 - 13:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/9/14/live-manchester-city-vs-manchester-united-premier-league?traffic_source=rss" target="_blank">LIVE: Manchester City vs Manchester United – Premier League</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-14 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07a7/live/79d3b290-9155-11f0-9223-171c11f85051.png" alt="Prince Andrew needs to be fully investigated, Giuffre family says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2nynd3deno?at_medium=RSS&at_campaign=rss" target="_blank">Prince Andrew needs to be fully investigated, Giuffre family says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-14 12:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/09/14/g-s1-87246/ukraine-heart-transplant-war-russia" target="_blank">Whatever happened to .... the 12-year-old Ukrainian girl in need of a heart transplant?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-14 11:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -63,33 +99,6 @@
                 <span class="title"><a href="https://news.sky.com/story/romania-scrambles-fighter-jets-after-russian-drone-breaches-airspace-as-zelenskyy-warns-of-war-expansion-13430684" target="_blank">Romania scrambles jets after Russian drone &#x27;breaches airspace&#x27; - as Zelenskyy warns of war &#x27;expansion&#x27;</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-09-14 07:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/9/14/gaza-safe-zones-are-concentration-camps-where-killing-continues?traffic_source=rss" target="_blank">Gaza safe zones are “concentration camps” where killing continues</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-14 05:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/14/romania-reports-drone-incursion-during-russian-attack-on-ukraine?traffic_source=rss" target="_blank">Romania reports drone incursion during Russian attack on Ukraine</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-14 03:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0310/live/6089f2d0-9106-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Netanyahu is only obstacle to bringing hostages home, families say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1dqrg32zd9o?at_medium=RSS&at_campaign=rss" target="_blank">Netanyahu is only obstacle to bringing hostages home, families say</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-14 02:12</span>
             </div>
         </div>
 </div>
@@ -157,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxj26m7id9kng8x5arhcr.png" alt="Building a Hands-Free AI Fitness Applet with Gemini Live API" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/prema_ananda/building-a-hands-free-ai-fitness-applet-with-gemini-live-api-3fg1" target="_blank">Building a Hands-Free AI Fitness Applet with Gemini Live API</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-14 12:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3gpuyohqq9q9wfib1r4c.jpg" alt="Day 7 of My Quantum Computing Journey: Completing Week 1 &amp; First Steps into Quantum Programming" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -201,20 +219,20 @@
                 <span class="time">2025-09-14 07:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/codingstreets/rock-paper-scissors-python-tutorial-2025-32bf" target="_blank">Rock, Paper, Scissors Python Tutorial 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-14 06:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/nintendo-switch-2-size-comparison-01.jpg" alt="After the Virtual Boy, There’s No Reason Why Nintendo Can’t Bring Back Its Best Handheld" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/after-the-virtual-boy-theres-no-reason-why-nintendo-cant-bring-back-its-best-handheld-2000658275" target="_blank">After the Virtual Boy, There’s No Reason Why Nintendo Can’t Bring Back Its Best Handheld</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-14 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/kilmeade.jpg?fit=1200%2C795&amp;quality=60&amp;ssl=1" alt="&quot;Just kill &#x27;em&quot; — Fox host suggests &quot;lethal injection&quot; for homeless people who refuse help" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,15 +278,6 @@
                 <span class="time">2025-09-13 18:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Keith-Rabois.jpg" alt="Opendoor Board Chair Thinks the Company Should Cut Its Workforce by 85 Percent" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/opendoor-layoffs-85-percent-meme-stock-2000658512" target="_blank">Opendoor Board Chair Thinks the Company Should Cut Its Workforce by 85 Percent</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-13 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -288,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 271 |
+        🔄 Last Updated: 13:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
