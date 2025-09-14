@@ -1,35 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-09-14 11:01:36 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-14 12:02:26 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, September 14, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Sunday, September 14, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +98,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/the-stepback-newsletter/776517/silicon-carbon-batteries-phones" target="_blank">Phone batteries are getting more compact, but the US is missing out</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-14 12:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/68c4bc176e6a2ce2f329e2cb/master/pass/The%20Best%20Sex%20Machines%20for%20Solo,%20Couple,%20or%20Long-Distance%20Playtime.png" alt="6 Best Sex Machines for Solo, Couple, or Long-Distance Playtime (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -149,20 +151,20 @@
                 <span class="time">2025-09-13 18:56</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c31b4931a9a8a5fa5d619e/master/pass/gear_colorfulwatch_7.jpg" alt="How a 2020 Rolex Collection Changed the Face of Watch Design" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-a-2020-rolex-collection-changed-the-face-of-watch-design/" target="_blank">How a 2020 Rolex Collection Changed the Face of Watch Design</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-13 16:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3gpuyohqq9q9wfib1r4c.jpg" alt="Day 7 of My Quantum Computing Journey: Completing Week 1 &amp; First Steps into Quantum Programming" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/keshabkjha/day-7-of-my-quantum-computing-journey-completing-week-1-first-steps-into-quantum-programming-2808" target="_blank">Day 7 of My Quantum Computing Journey: Completing Week 1 &amp; First Steps into Quantum Programming</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-14 11:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +208,6 @@
                 <span class="title"><a href="https://dev.to/codingstreets/rock-paper-scissors-python-tutorial-2025-32bf" target="_blank">Rock, Paper, Scissors Python Tutorial 2025</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-14 06:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/sudo-vs-sudo-rs/" target="_blank">sudo vs sudo-rs: What You Need to Know About the Rust Takeover of Classic Sudo Command</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-09-14 05:37</span>
             </div>
         </div>
 </div>
@@ -295,8 +288,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 70 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
