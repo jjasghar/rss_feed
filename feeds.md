@@ -1,30 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-09-14 09:01:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-14 10:01:38 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Questionable Content -->
+<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, September 14, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, September 14, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/14/chinas-military-warns-philippines-against-provocations-in-south-china-sea?traffic_source=rss" target="_blank">China’s military warns Philippines against provocations in South China Sea</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-14 09:07</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/25/09/1920x1080/skynews-romania-f16s-fighter_7019950.jpg?20250914092356" alt="Romania scrambles jets after Russian drone &#x27;breaches airspace&#x27; - as Zelenskyy warns of war &#x27;expansion&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,15 +102,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/14/russia-ukraine-war-list-of-key-events-day-1298?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,298</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-14 01:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/13/g-s1-88663/london-protest-by-far-right-activist" target="_blank">Over 100,000 attend London rally organized by far-right activist, clashes break out</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-14 00:23</span>
             </div>
         </div>
 </div>
@@ -161,6 +171,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Samsung-Exynos-7870-Linux-6.18" target="_blank">Samsung Exynos 7870 Seeing New Open-Source Driver Activity For Linux 6.18</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-14 09:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ed-wantuil/10-passos-para-conduzir-um-pos-mortem-que-realmente-evita-novos-incidentes-4795" target="_blank">10 Passos Para Conduzir um Pós-Mortem Que Realmente Evita Novos Incidentes</a></span>
                 <span class="feed">DEV Community</span>
@@ -201,15 +220,6 @@
                 <span class="title"><a href="https://dev.to/augusto_joaquinriveramu/visualization-and-dashboard-tools-in-python-streamlit-dash-and-bokeh-with-code-examples-and-26l8" target="_blank">Visualization and Dashboard Tools in Python: Streamlit, Dash, and Bokeh (with Code Examples and Cloud Deployment)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-14 02:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ali_haider_3e2f954c5c0bb0/ai-dev-tools-i-use-everyday-44hd" target="_blank">AI Dev Tools I Use Everyday</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-14 01:02</span>
             </div>
         </div>
 </div>
@@ -290,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
