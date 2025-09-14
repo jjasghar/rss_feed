@@ -1,39 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-09-14 16:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-14 17:01:34 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, September 14, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, September 14, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c439/live/a88b3800-9151-11f0-b391-6936825093bd.jpg" alt="Romania becomes second Nato country to report Russian drone in its airspace" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c80g7g5rmlno?at_medium=RSS&at_campaign=rss" target="_blank">Romania becomes second Nato country to report Russian drone in its airspace</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-14 16:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/14/attacking-qatar-only-shows-israel-doesnt-want-a-gaza-ceasefire?traffic_source=rss" target="_blank">Attacking Qatar shows Israel doesn’t want a Gaza ceasefire</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-14 15:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/TW-SPENCER-COX-20250914-ABC-JH_1757856510258_hpMain_4x3t_384.jpeg" alt="Utah governor says alleged Kirk shooter not cooperating with authorities" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -68,6 +78,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757855641082_mtp_full_cox_250914_1920x1080-21x0ui.jpg" alt="Utah Gov. Spencer Cox shares new details about Charlie Kirk shooting suspect: Full interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/utah-gov-spencer-cox-shares-new-details-about-charlie-kirk-shooting-suspect-full-interview-247550021915" target="_blank">Utah Gov. Spencer Cox shares new details about Charlie Kirk shooting suspect: Full interview</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-14 13:14</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -76,38 +95,20 @@
                 <span class="time">2025-09-14 12:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/9/14/live-manchester-city-vs-manchester-united-premier-league?traffic_source=rss" target="_blank">LIVE: Manchester City vs Manchester United – Premier League</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-14 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07a7/live/79d3b290-9155-11f0-9223-171c11f85051.png" alt="Prince Andrew needs to be fully investigated, Giuffre family says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2nynd3deno?at_medium=RSS&at_campaign=rss" target="_blank">Prince Andrew needs to be fully investigated, Giuffre family says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-14 12:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/09/14/g-s1-87246/ukraine-heart-transplant-war-russia" target="_blank">Whatever happened to .... the 12-year-old Ukrainian girl in need of a heart transplant?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-14 11:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/777788/rolling-stone-penske-media-sue-google-ai-overviews" target="_blank">Rolling Stone’s parent company sues Google over AI Overviews</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-14 16:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -127,6 +128,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/685b6ae56526d11a084d6fc0/master/pass/Best%20Protein%20Powders.png" alt="11 Best Protein Powders, According to Years of Testing (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-protein-powders/" target="_blank">11 Best Protein Powders, According to Years of Testing (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-14 14:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -142,24 +152,6 @@
                 <span class="title"><a href="https://www.theverge.com/the-stepback-newsletter/776517/silicon-carbon-batteries-phones" target="_blank">Phone batteries are getting more compact, but the US is missing out</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-14 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c4bc176e6a2ce2f329e2cb/master/pass/The%20Best%20Sex%20Machines%20for%20Solo,%20Couple,%20or%20Long-Distance%20Playtime.png" alt="6 Best Sex Machines for Solo, Couple, or Long-Distance Playtime (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-sex-machines/" target="_blank">6 Best Sex Machines for Solo, Couple, or Long-Distance Playtime (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-14 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/netflix/777590/the-witcher-netflix-season-4-trailer-release-date-liam-hemsworth" target="_blank">Liam Hemsworth is Geralt in the first Witcher season 4 trailer</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-14 01:30</span>
             </div>
         </div>
 </div>
@@ -219,6 +211,20 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Samsung-Exynos-7870-Linux-6.18" target="_blank">Samsung Exynos 7870 Seeing New Open-Source Driver Activity For Linux 6.18</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-14 09:44</span>
+            </div>
+        </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/upcoming-speaking-engagements-48.html" target="_blank">Upcoming Speaking Engagements</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-09-14 16:02</span>
             </div>
         </div>
 </div>
@@ -299,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 41 | 📸 With Images: 271 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 69 | 📡 Total Sources: 41 | 📸 With Images: 270 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
