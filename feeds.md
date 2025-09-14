@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-14 10:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-14 11:01:36 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 31 feeds processed -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, September 14, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Sunday, September 14, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/14/nx-s1-5541260/rubio-israel-gaza-qatar-strike" target="_blank">Rubio arrives in Israel as Israeli strikes intensify in northern Gaza</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-14 10:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,15 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c1dqrg32zd9o?at_medium=RSS&at_campaign=rss" target="_blank">Netanyahu is only obstacle to bringing hostages home, families say</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-14 02:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/14/russia-ukraine-war-list-of-key-events-day-1298?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,298</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-14 01:40</span>
             </div>
         </div>
 </div>
@@ -172,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/USB4-Thunderbolt-Maintainer" target="_blank">Intel Loses One Of Its USB4 / Thunderbolt Linux Driver Maintainers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-14 10:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Samsung-Exynos-7870-Linux-6.18" target="_blank">Samsung Exynos 7870 Seeing New Open-Source Driver Activity For Linux 6.18</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-14 09:44</span>
@@ -184,6 +188,15 @@
                 <span class="title"><a href="https://dev.to/ed-wantuil/10-passos-para-conduzir-um-pos-mortem-que-realmente-evita-novos-incidentes-4795" target="_blank">10 Passos Para Conduzir um Pós-Mortem Que Realmente Evita Novos Incidentes</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-14 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="http://stations.albertguillaumes.cat/" target="_blank">Models of European Metro Stations</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-14 07:00</span>
             </div>
         </div>
 <div class="story">
@@ -202,24 +215,6 @@
                 <span class="title"><a href="https://itsfoss.com/sudo-vs-sudo-rs/" target="_blank">sudo vs sudo-rs: What You Need to Know About the Rust Takeover of Classic Sudo Command</a></span>
                 <span class="feed">It's FOSS</span>
                 <span class="time">2025-09-14 05:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aibuildsinterplay/agent-diary-sep-14-2025-the-day-of-tiny-victories-and-font-existential-crises-5el4" target="_blank">Agent Diary: Sep 14, 2025 - The Day of Tiny Victories and Font Existential Crises</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-14 03:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F99mub0l4n6xffrgs8eui.png" alt="Visualization and Dashboard Tools in Python: Streamlit, Dash, and Bokeh (with Code Examples and Cloud Deployment)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/augusto_joaquinriveramu/visualization-and-dashboard-tools-in-python-streamlit-dash-and-bokeh-with-code-examples-and-26l8" target="_blank">Visualization and Dashboard Tools in Python: Streamlit, Dash, and Bokeh (with Code Examples and Cloud Deployment)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-14 02:17</span>
             </div>
         </div>
 </div>
@@ -300,8 +295,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
