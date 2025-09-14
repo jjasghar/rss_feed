@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-14 20:02:00 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-14 21:01:49 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, September 14, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, September 14, 2025 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/14/global-sumud-flotilla-sets-sail-from-tunisia-to-break-gaza-blockade?traffic_source=rss" target="_blank">Global Sumud Flotilla sets sail from Tunisia to break Gaza blockade</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-14 20:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +101,29 @@
                 <span class="time">2025-09-14 13:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/TW-SPENCER-COX-20250914-ABC-JH_1757856510258_hpMain_4x3t_384.jpeg" alt="Utah governor says alleged Kirk shooter not cooperating with authorities" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/utah-governor-alleged-kirk-shooter-cooperating-authorities/story?id=125552756" target="_blank">Utah governor says alleged Kirk shooter not cooperating with authorities</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-14 13:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/14/openai-board-chair-bret-taylor-says-were-in-an-ai-bubble-but-thats-okay/" target="_blank">OpenAI board chair Bret Taylor says we’re in an AI bubble (but that’s okay)</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-14 19:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/apple-rumors/777791/whats-next-for-apple-iphone-17-m5-ipad-pro" target="_blank">What’s next for Apple after the iPhone 17?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-14 19:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,24 +158,6 @@
                 <span class="title"><a href="https://www.theverge.com/games/777738/helldivers-community-reddit-discord-charlie-kirk" target="_blank">The Helldivers community is coping with a spotlight it doesn’t want</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-14 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685b6ae56526d11a084d6fc0/master/pass/Best%20Protein%20Powders.png" alt="11 Best Protein Powders, According to Years of Testing (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-protein-powders/" target="_blank">11 Best Protein Powders, According to Years of Testing (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-14 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/toronto-international-film-festival/777609/tiff-2025-reviews-scarlet-project-y-sentimental-value" target="_blank">Scarlet turns Shakespeare into an animated fantasy epic</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-14 14:00</span>
             </div>
         </div>
 </div>
@@ -273,24 +274,6 @@
                 <span class="time">2025-09-13 22:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Mini-Night-Vision-Binoculars-with-2.4.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Night vision? You better believe it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/13/night-vision-you-better-believe-it.html" target="_blank">Night vision? You better believe it</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-13 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/10/GavinNewsom.jpg" alt="California Lawmakers Once Again Challenge Newsom’s Tech Ties with AI Bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/california-lawmakers-once-again-challenge-newsoms-tech-ties-with-ai-bill-2000658616" target="_blank">California Lawmakers Once Again Challenge Newsom’s Tech Ties with AI Bill</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-13 20:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 69 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 67 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
