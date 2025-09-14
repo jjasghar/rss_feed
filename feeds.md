@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-14 18:01:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-14 19:01:23 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, September 14, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, September 14, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/14/doha-secures-arab-islamic-support-after-barbaric-israel-attack-qatar-pm?traffic_source=rss" target="_blank">Qatar PM blasts Israel, appreciates Arab, Islamic support ahead of summit</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-14 18:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,6 +82,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3063/live/53bfc500-9185-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Beckham and Fury lead tributes to champion boxer Ricky Hatton after his death aged 46" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/sport/boxing/articles/cd0724eg90ko?at_medium=RSS&at_campaign=rss" target="_blank">Beckham and Fury lead tributes to champion boxer Ricky Hatton after his death aged 46</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-14 13:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/TW-SPENCER-COX-20250914-ABC-JH_1757856510258_hpMain_4x3t_384.jpeg" alt="Utah governor says alleged Kirk shooter not cooperating with authorities" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -77,29 +99,20 @@
                 <span class="time">2025-09-14 13:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/14/us-secretary-of-state-rubio-poses-with-netanyahu-at-western-wall?traffic_source=rss" target="_blank">US Secretary of State Rubio poses with Netanyahu at Western Wall</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-14 13:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757855641082_mtp_full_cox_250914_1920x1080-21x0ui.jpg" alt="Utah Gov. Spencer Cox shares new details about Charlie Kirk shooting suspect: Full interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/utah-gov-spencer-cox-shares-new-details-about-charlie-kirk-shooting-suspect-full-interview-247550021915" target="_blank">Utah Gov. Spencer Cox shares new details about Charlie Kirk shooting suspect: Full interview</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-14 13:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/14/vibe-coding-has-turned-senior-devs-into-ai-babysitters-but-they-say-its-worth-it/" target="_blank">Vibe coding has turned senior devs into ‘AI babysitters,’ but they say it’s worth it</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-14 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +158,6 @@
                 <span class="time">2025-09-14 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/the-stepback-newsletter/776517/silicon-carbon-batteries-phones" target="_blank">Phone batteries are getting more compact, but the US is missing out</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-14 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -181,6 +185,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://popovicu.com/posts/writing-an-operating-system-kernel-from-scratch/" target="_blank">Writing an operating system kernel from scratch</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-14 15:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://earthjustice.org/press/2025/epa-seeks-to-roll-back-pfas-drinking-water-rules-keeping-millions-exposed-to-toxic-forever-chemicals-in-tap-water" target="_blank">EPA Seeks to Eliminate Critical PFAS Drinking Water Protections</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-09-14 14:04</span>
@@ -202,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/keshabkjha/day-7-of-my-quantum-computing-journey-completing-week-1-first-steps-into-quantum-programming-2808" target="_blank">Day 7 of My Quantum Computing Journey: Completing Week 1 &amp; First Steps into Quantum Programming</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-14 11:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/USB4-Thunderbolt-Maintainer" target="_blank">Intel Loses One Of Its USB4 / Thunderbolt Linux Driver Maintainers</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-14 10:43</span>
             </div>
         </div>
 </div>
@@ -305,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 69 | 📡 Total Sources: 41 | 📸 With Images: 270 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 68 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
