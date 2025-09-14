@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-14 01:29:11 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-14 02:28:32 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, September 14, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, September 14, 2025 - 02:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/13/g-s1-88663/london-protest-by-far-right-activist" target="_blank">Over 100,000 attend London rally organized by far-right activist, clashes break out</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-14 00:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/GMA/Erika-Frantzve-gty-gmh-250911_1757596468596_hpMain_3_4x3t_384.jpg" alt="Details of Charlie Kirk&#x27;s memorial announced" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,20 +100,20 @@
                 <span class="time">2025-09-13 20:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/13/us-teachers-targeted-by-far-right-in-doxxing-after-charlie-kirks-death?traffic_source=rss" target="_blank">Far-right groups are doxxing online critics after Charlie Kirk’s death</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-13 20:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/netflix/777590/the-witcher-netflix-season-4-trailer-release-date-liam-hemsworth" target="_blank">Liam Hemsworth is Geralt in the first Witcher season 4 trailer</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-14 01:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +159,20 @@
                 <span class="time">2025-09-13 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/13/xai-reportedly-lays-off-500-workers-from-data-annotation-team/" target="_blank">xAI reportedly lays off 500 workers from data annotation team</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-13 15:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F99mub0l4n6xffrgs8eui.png" alt="Visualization and Dashboard Tools in Python: Streamlit, Dash, and Bokeh (with Code Examples and Cloud Deployment)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/augusto_joaquinriveramu/visualization-and-dashboard-tools-in-python-streamlit-dash-and-bokeh-with-code-examples-and-26l8" target="_blank">Visualization and Dashboard Tools in Python: Streamlit, Dash, and Bokeh (with Code Examples and Cloud Deployment)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-14 02:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +214,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/linux-mint-22-3-will-bring-revamped-app-menu-better-wayland-support" target="_blank">Linux Mint 22.3 Plans App Menu Revamp, Better Wayland Support</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-13 18:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/01/linux-mint-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint 22.3 Will Bring Revamped App Menu, Better Wayland Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/linux-mint-22-3-will-bring-revamped-app-menu-better-wayland-support" target="_blank">Linux Mint 22.3 Will Bring Revamped App Menu, Better Wayland Support</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-09-13 18:57</span>
             </div>
@@ -297,8 +296,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 02:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
