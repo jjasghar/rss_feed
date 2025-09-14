@@ -1,39 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-14 15:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-14 16:01:48 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 30 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, September 14, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, September 14, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +111,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/14/selling-coffee-beans-to-starbucks-how-the-ai-boom-could-leave-ais-biggest-companies-behind/" target="_blank">‘Selling coffee beans to Starbucks’ – how the AI boom could leave AI’s biggest companies behind</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-14 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/games/777738/helldivers-community-reddit-discord-charlie-kirk" target="_blank">The Helldivers community is coping with a spotlight it doesn’t want</a></span>
                 <span class="feed">The Verge</span>
@@ -153,20 +162,20 @@
                 <span class="time">2025-09-14 01:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/13/tesla-board-chair-calls-debate-over-elon-musks-1t-pay-package-a-little-bit-weird/" target="_blank">Tesla board chair calls debate over Elon Musk’s $1T pay package ‘a little bit weird’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-13 21:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp6ykgk8h7t7ocaiw76px.png" alt="Kong Cluster" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mirrorsan/kong-cluster-1cg6" target="_blank">Kong Cluster</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-14 15:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,20 +221,20 @@
                 <span class="time">2025-09-14 09:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ed-wantuil/10-passos-para-conduzir-um-pos-mortem-que-realmente-evita-novos-incidentes-4795" target="_blank">10 Passos Para Conduzir um Pós-Mortem Que Realmente Evita Novos Incidentes</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-14 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Samsung-Galaxy-Buds-3-FE-4.jpg" alt="Galaxy Buds 3 FE Review: Samsung’s ‘Fan Edition” Wireless Earbuds Are Just Enough" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/galaxy-buds-3-fe-review-samsungs-fan-edition-wireless-earbuds-are-just-enough-2000657752" target="_blank">Galaxy Buds 3 FE Review: Samsung’s ‘Fan Edition” Wireless Earbuds Are Just Enough</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-14 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/nintendo-switch-2-size-comparison-01.jpg" alt="After the Virtual Boy, There’s No Reason Why Nintendo Can’t Bring Back Its Best Handheld" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,27 +280,18 @@
                 <span class="time">2025-09-13 19:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/TheStrangers2.jpg" alt="‘The Strangers: Chapter 2’ Opening Is a Game of Hide and Seek" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-strangers-chapter-2-opening-is-a-game-of-hide-and-seek-2000658522" target="_blank">‘The Strangers: Chapter 2’ Opening Is a Game of Hide and Seek</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-13 18:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
-            <img src="https://www.smbc-comics.com/comics/1757652206-20250913.png" alt="Saturday Morning Breakfast Cereal - Chips" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1757808857-20250914.png" alt="Saturday Morning Breakfast Cereal - Bet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/chips" target="_blank">Saturday Morning Breakfast Cereal - Chips</a></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/bet" target="_blank">Saturday Morning Breakfast Cereal - Bet</a></span>
                 <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-09-13 15:20</span>
+                <span class="time">2025-09-14 15:20</span>
             </div>
         </div>
 </div>
@@ -299,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 67 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 41 | 📸 With Images: 271 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
