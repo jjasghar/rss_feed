@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-14 02:28:32 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-14 03:14:39 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, September 14, 2025 - 02:28 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, September 14, 2025 - 03:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/14/russia-ukraine-war-list-of-key-events-day-1298?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,298</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-14 01:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -89,15 +99,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-radical-left-healing-charlie-kirk-assassination-rcna231032" target="_blank">Trump says he wants national healing — while blaming the &#x27;radical left&#x27; as a barrier</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-09-13 20:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8370/live/235fe800-90df-11f0-9294-e79bb3a0c05b.png" alt="Dozens of officers injured as up to 150,000 join Tommy Robinson rally" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cwydezxl0xlo?at_medium=RSS&at_campaign=rss" target="_blank">Dozens of officers injured as up to 150,000 join Tommy Robinson rally</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-13 20:41</span>
             </div>
         </div>
 </div>
@@ -185,10 +186,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Redox-OS-2026-Plans" target="_blank">Redox OS To Focus More On Wayland, &quot;Redox Server&quot; &amp; Performance Over The Next Year</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-14 00:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/pattee_green_write/hello-business-world-21m5" target="_blank">hello business world.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-13 22:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.tuni.fi/en/news/myocardial-infarction-may-be-infectious-disease" target="_blank">Myocardial infarction may be an infectious disease</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-13 21:55</span>
             </div>
         </div>
 <div class="story">
@@ -200,29 +219,20 @@
                 <span class="time">2025-09-13 21:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr77px5u4hroe40x8vnoq.png" alt="From Code to Cloud: Seamless CI/CD with GitHub Actions and Azure Web Apps" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ibrahimbioabu/from-code-to-cloud-seamless-cicd-with-github-actions-and-azure-web-apps-3f0h" target="_blank">From Code to Cloud: Seamless CI/CD with GitHub Actions and Azure Web Apps</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-13 21:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/01/linux-mint-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Mint 22.3 Plans App Menu Revamp, Better Wayland Support" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/linux-mint-22-3-will-bring-revamped-app-menu-better-wayland-support" target="_blank">Linux Mint 22.3 Plans App Menu Revamp, Better Wayland Support</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-13 18:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/kilmeade.jpg?fit=1200%2C795&amp;quality=60&amp;ssl=1" alt="&quot;Just kill &#x27;em&quot; — Fox host suggests &quot;lethal injection&quot; for homeless people who refuse help" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/13/just-kill-em-fox-host-suggests-lethal-injection-for-homeless-people-who-refuse-help.html" target="_blank">&quot;Just kill &#x27;em&quot; — Fox host suggests &quot;lethal injection&quot; for homeless people who refuse help</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-13 22:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Mini-Night-Vision-Binoculars-with-2.4.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Night vision? You better believe it" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +278,6 @@
                 <span class="time">2025-09-13 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/09/Elon-Musk-speaks-at-a-conference-in-Beverly-Hills.jpg" alt="Elon Musk’s Comments on Houston Flood Tunnels Are Misleading, Experts Say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/elon-musks-comments-on-houston-flood-tunnels-are-misleading-experts-say-2000658393" target="_blank">Elon Musk’s Comments on Houston Flood Tunnels Are Misleading, Experts Say</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-13 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -296,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 02:28 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 03:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
