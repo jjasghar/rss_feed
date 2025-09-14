@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-14 19:01:23 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-14 20:02:00 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Sunday, September 14, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, September 14, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -164,6 +165,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbq3emwo7gccjsbk5sgvx.png" alt="#DAY 8: Guardian of the Filesystem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/samueladeduntan/day-8-guardian-of-the-filesystem-4ll" target="_blank">#DAY 8: Guardian of the Filesystem</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-14 19:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/04/turntable-main.jpg?resize=406%2C232&amp;ssl=1" alt="Turntable Update Adds Offline Scrobbling and Free Window Resizing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/turntable-offline-scrobbling-resizable-update" target="_blank">Turntable Update Adds Offline Scrobbling and Free Window Resizing</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-14 19:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://disobey.net/@yawnbox/115203365485529363" target="_blank">ChatControl update: blocking minority held but Denmark is moving forward anyway</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-14 19:15</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -190,33 +218,6 @@
                 <span class="time">2025-09-14 15:44</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://earthjustice.org/press/2025/epa-seeks-to-roll-back-pfas-drinking-water-rules-keeping-millions-exposed-to-toxic-forever-chemicals-in-tap-water" target="_blank">EPA Seeks to Eliminate Critical PFAS Drinking Water Protections</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-14 14:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxj26m7id9kng8x5arhcr.png" alt="Building a Hands-Free AI Fitness Applet with Gemini Live API" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/prema_ananda/building-a-hands-free-ai-fitness-applet-with-gemini-live-api-3fg1" target="_blank">Building a Hands-Free AI Fitness Applet with Gemini Live API</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-14 12:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3gpuyohqq9q9wfib1r4c.jpg" alt="Day 7 of My Quantum Computing Journey: Completing Week 1 &amp; First Steps into Quantum Programming" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/keshabkjha/day-7-of-my-quantum-computing-journey-completing-week-1-first-steps-into-quantum-programming-2808" target="_blank">Day 7 of My Quantum Computing Journey: Completing Week 1 &amp; First Steps into Quantum Programming</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-14 11:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2019/08/SIMPSONSFOXNEWS-1.jpg?fit=560%2C311&amp;quality=60&amp;ssl=1" alt="Fox News eager to claim Kilmeade apologizes, just not for what" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/14/fox-news-eager-to-claim-kilmeade-apologizes-just-not-for-what.html" target="_blank">Fox News eager to claim Kilmeade apologizes, just not for what</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-14 16:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Samsung-Galaxy-Buds-3-FE-4.jpg" alt="Galaxy Buds 3 FE Review: Samsung’s ‘Fan Edition” Wireless Earbuds Are Just Enough" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,15 +291,6 @@
                 <span class="time">2025-09-13 20:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/03/48843d1be25326a64b077f7c9c7f890b.jpg" alt="Every Super Mario Game, Ranked From Worst To Best" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/nintendo-switch-super-mario-bros-best-ranked-odyssey-1850286446" target="_blank">Every Super Mario Game, Ranked From Worst To Best</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-13 19:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -309,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 68 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 69 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
