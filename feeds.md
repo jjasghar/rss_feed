@@ -1,31 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-14 22:01:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-14 23:01:43 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Sunday, September 14, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, September 14, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/14/israel-flattens-more-gaza-towers-as-strikes-kill-fifty-three-and-famine-toll-rises?traffic_source=rss" target="_blank">Israel flattens more Gaza towers as strikes kill 53 and famine toll rises</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-14 22:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,15 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/14/nx-s1-5541328/charlie-kirk-murder-suspect-set-to-face-aggravated-murder-charge-in-utah" target="_blank">Charlie Kirk murder suspect set to face aggravated murder charge in Utah</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-14 17:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c439/live/a88b3800-9151-11f0-b391-6936825093bd.jpg" alt="Romania becomes second Nato country to report Russian drone in its airspace" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c80g7g5rmlno?at_medium=RSS&at_campaign=rss" target="_blank">Romania becomes second Nato country to report Russian drone in its airspace</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-14 16:41</span>
             </div>
         </div>
 </div>
@@ -160,6 +163,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.sdstate.edu/news/2025/08/can-grapevines-help-slow-plastic-waste-problem" target="_blank">Grapevine cellulose makes stronger plastic alternative, biodegrades in 17 days</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-14 22:15</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwo12k19n2mcf7ozzpsja.png" alt="Spooky Smart AI That Designs Your Halloween Look" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -178,6 +190,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/04/turntable-main.jpg?resize=406%2C232&amp;ssl=1" alt="Turntable Adds Offline Scrobbling, Resizing &amp; More Bling" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/turntable-offline-scrobbling-resizable-update" target="_blank">Turntable Adds Offline Scrobbling, Resizing &amp; More Bling</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-14 19:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/04/turntable-main.jpg?resize=406%2C232&amp;ssl=1" alt="Turntable Update Adds Offline Scrobbling and Free Window Resizing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -193,24 +214,6 @@
                 <span class="title"><a href="https://disobey.net/@yawnbox/115203365485529363" target="_blank">ChatControl update: blocking minority held but Denmark is moving forward anyway</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-09-14 19:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/charles_koffler_bcabc582b/introducing-clprolf-a-new-programming-language-for-clear-oop-3mjk" target="_blank">Introducing Clprolf: a New Programming Language for Clear OOP</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-14 17:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp6ykgk8h7t7ocaiw76px.png" alt="Kong Cluster" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mirrorsan/kong-cluster-1cg6" target="_blank">Kong Cluster</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-14 15:51</span>
             </div>
         </div>
 </div>
@@ -232,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Demon-Slayer-1©Copyright_-©Koyoharu-Gotoge-_-SHUEISHA-Aniplex-ufotable-1.jpg" alt="The Latest ‘Demon Slayer’ Movie is Another Record-Breaking Hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-latest-demon-slayer-movie-is-another-record-breaking-hit-2000658653" target="_blank">The Latest ‘Demon Slayer’ Movie is Another Record-Breaking Hit</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-14 20:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2019/08/SIMPSONSFOXNEWS-1.jpg?fit=560%2C311&amp;quality=60&amp;ssl=1" alt="Fox News eager to claim Kilmeade apologizes, just not for what" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -259,15 +271,6 @@
                 <span class="time">2025-09-14 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/kilmeade.jpg?fit=1200%2C795&amp;quality=60&amp;ssl=1" alt="&quot;Just kill &#x27;em&quot; — Fox host suggests &quot;lethal injection&quot; for homeless people who refuse help" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/13/just-kill-em-fox-host-suggests-lethal-injection-for-homeless-people-who-refuse-help.html" target="_blank">&quot;Just kill &#x27;em&quot; — Fox host suggests &quot;lethal injection&quot; for homeless people who refuse help</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-13 22:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -288,7 +291,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 24 | 📅 Last 24h: 64 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 22:01 UTC
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
