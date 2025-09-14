@@ -1,31 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-09-14 17:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-14 18:01:43 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
+<!-- Generated 2 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, September 14, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Sunday, September 14, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/14/nx-s1-5541328/charlie-kirk-murder-suspect-set-to-face-aggravated-murder-charge-in-utah" target="_blank">Charlie Kirk murder suspect set to face aggravated murder charge in Utah</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-14 17:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c439/live/a88b3800-9151-11f0-b391-6936825093bd.jpg" alt="Romania becomes second Nato country to report Russian drone in its airspace" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,15 +93,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/utah-gov-spencer-cox-shares-new-details-about-charlie-kirk-shooting-suspect-full-interview-247550021915" target="_blank">Utah Gov. Spencer Cox shares new details about Charlie Kirk shooting suspect: Full interview</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-09-14 13:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/14/nx-s1-5540131/the-latest-in-the-case-against-tyler-robinson-the-man-accused-of-shooting-charlie-kirk" target="_blank">The latest in the case against Tyler Robinson, the man accused of shooting Charlie Kirk</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-14 12:54</span>
             </div>
         </div>
 </div>
@@ -160,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/charles_koffler_bcabc582b/introducing-clprolf-a-new-programming-language-for-clear-oop-3mjk" target="_blank">Introducing Clprolf: a New Programming Language for Clear OOP</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-14 17:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp6ykgk8h7t7ocaiw76px.png" alt="Kong Cluster" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -202,15 +211,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/USB4-Thunderbolt-Maintainer" target="_blank">Intel Loses One Of Its USB4 / Thunderbolt Linux Driver Maintainers</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-14 10:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Samsung-Exynos-7870-Linux-6.18" target="_blank">Samsung Exynos 7870 Seeing New Open-Source Driver Activity For Linux 6.18</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-14 09:44</span>
             </div>
         </div>
 </div>
@@ -306,7 +306,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 26 | 📅 Last 24h: 69 | 📡 Total Sources: 41 | 📸 With Images: 270 |
-        🔄 Last Updated: 17:01 UTC
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
