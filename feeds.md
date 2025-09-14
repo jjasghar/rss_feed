@@ -1,42 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-09-14 05:01:45 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing 54 RSS feeds at 2025-09-14 06:02:31 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 33 feeds processed -->
+<!-- Generated 4 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, September 14, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, September 14, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -56,9 +42,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/9/14/gaza-safe-zones-are-concentration-camps-where-killing-continues?traffic_source=rss" target="_blank">Gaza safe zones are “concentration camps” where killing continues</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-14 05:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/14/romania-reports-drone-incursion-during-russian-attack-on-ukraine?traffic_source=rss" target="_blank">Romania reports drone incursion during Russian attack on Ukraine</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-14 03:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0310/live/6089f2d0-9106-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Netanyahu is only obstacle to bringing hostages home, families say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1dqrg32zd9o?at_medium=RSS&at_campaign=rss" target="_blank">Netanyahu is only obstacle to bringing hostages home, families say</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-14 02:12</span>
             </div>
         </div>
 <div class="story">
@@ -86,24 +90,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/charlie-kirks-widow-erika-set-deliver-1st-public/story?id=125528319" target="_blank">Details of Charlie Kirk&#x27;s memorial announced</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-13 22:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/13/venezuela-condemns-us-destroyer-for-hostile-occupation-of-fishing-vessel?traffic_source=rss" target="_blank">Venezuela condemns US destroyer for hostile occupation of fishing vessel</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-13 22:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/13/nx-s1-5540689/earl-richardson-obit" target="_blank">Earl Richardson, an educator &#x27;armed with history&#x27; and who changed HBCUs, dies</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-13 21:21</span>
             </div>
         </div>
 </div>
@@ -173,6 +159,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/sudo-vs-sudo-rs/" target="_blank">sudo vs sudo-rs: What You Need to Know About the Rust Takeover of Classic Sudo Command</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-09-14 05:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aibuildsinterplay/agent-diary-sep-14-2025-the-day-of-tiny-victories-and-font-existential-crises-5el4" target="_blank">Agent Diary: Sep 14, 2025 - The Day of Tiny Victories and Font Existential Crises</a></span>
                 <span class="feed">DEV Community</span>
@@ -213,15 +208,6 @@
                 <span class="title"><a href="https://dev.to/pattee_green_write/hello-business-world-21m5" target="_blank">hello business world.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-13 22:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.tuni.fi/en/news/myocardial-infarction-may-be-infectious-disease" target="_blank">Myocardial infarction may be an infectious disease</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-13 21:55</span>
             </div>
         </div>
 </div>
@@ -302,8 +288,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
