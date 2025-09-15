@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-15 20:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-15 21:01:35 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Generated 11 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, September 15, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, September 15, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f40/live/3bfcd330-9271-11f0-b8e5-3be75a11e2ba.png" alt="US destroys alleged Venezuelan drug boat, killing three" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2jel4gyezo?at_medium=RSS&at_campaign=rss" target="_blank">US destroys alleged Venezuelan drug boat, killing three</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-15 20:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757967926067_now_mtp_brk_trump_boat_strike_250915_1920x1080-u8acln.jpg" alt="Trump says U.S. military carried out strike targeting drug cartel boat from Venezuela" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/trump-says-u-s-military-carried-out-strike-targeting-drug-cartel-boat-from-venezuela-247623237874" target="_blank">Trump says U.S. military carried out strike targeting drug cartel boat from Venezuela</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-15 20:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,29 +99,29 @@
                 <span class="time">2025-09-15 18:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/15/nx-s1-5542126/stephen-miran-fed-reserve-board" target="_blank">Who is Fed nominee Stephen Miran, and why is he so controversial?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-15 17:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250717-Maurene-Comey-se-250p-5239f5.jpg" alt="Former federal prosecutor Maurene Comey sues Trump administration over her firing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/former-federal-prosecutor-maurene-comey-sues-trump-admin-firing-rcna231406" target="_blank">Former federal prosecutor Maurene Comey sues Trump administration over her firing</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-15 17:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/778472/facebook-gave-our-data-to-cambridge-analytica-and-all-i-got-was-this-38-36" target="_blank">Facebook gave our data to Cambridge Analytica and all I got was this $38.36</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-15 20:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68c85e82b2b1586ca36f8a89/master/pass/Save%20up%20to%20$40%20on%20Our%20Favorite%20Buy-For-Life%20Coffee%20Maker.png" alt="Save $40 on a Handmade Dutch Coffeemaker That&#x27;s Built for Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/save-up-to-dollar40-on-our-favorite-buy-for-life-coffee-maker/" target="_blank">Save $40 on a Handmade Dutch Coffeemaker That&#x27;s Built for Life</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-15 20:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,29 +158,29 @@
                 <span class="time">2025-09-15 16:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/gunsTOP-500x500.jpg" alt="Get into the cockpit as new crop of “Top Gun” pilots get their wings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/09/get-into-the-cockpit-as-new-crop-of-top-gun-pilots-get-their-wings/" target="_blank">Get into the cockpit as new crop of “Top Gun” pilots get their wings</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-15 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/778106/google-gemini-nano-banana-image-editor" target="_blank">Here&amp;#8217;s why usage of Gemini&amp;#8217;s Nano Banana image editor is growing</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-15 14:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.linux.com/news/sep25-training-promo/" target="_blank">Back to School. Back to Skills. Save 40% Sitewide!</a></span>
+                <span class="feed">Linux.com</span>
+                <span class="time">2025-09-15 20:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18631873&w=600" alt="From Laptop to Cloud: Building and Scaling AI Agents With Docker Compose and Offload" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-agents-docker-compose-cloud-offload" target="_blank">From Laptop to Cloud: Building and Scaling AI Agents With Docker Compose and Offload</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-15 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/10/nvidia-logo-on-green.jpg?resize=406%2C232&amp;ssl=1" alt="Canonical Make It Easier to Install NVIDIA CUDA on Ubuntu" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -204,24 +217,6 @@
                 <span class="time">2025-09-15 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr8a97t5nteojtvvg39v0.jpg" alt="Here&#x27;s what ISO 27001 Is - and Why You Should Care About Your Data Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/heyjoshlee/heres-what-iso-27001-is-and-why-you-should-care-about-your-data-security-3kfb" target="_blank">Here&#x27;s what ISO 27001 Is - and Why You Should Care About Your Data Security</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-15 16:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Libxml2-No-Maintainer" target="_blank">libxml2 Maintainer Stepping Down - &quot;More Or Less Unmaintained For Now&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-15 16:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +237,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/09/trump-shutterstock_1190031697.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Trump has the law broken to honor a traitor,  Confederate General Robert E. Lee" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/15/trump-has-the-law-broken-to-honor-a-traitor-confederate-general-robert-e-lee.html" target="_blank">Trump has the law broken to honor a traitor,  Confederate General Robert E. Lee</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-15 20:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/Hollow-Knight_-Silksong-All-Seth-Interactions-YouTube-0-0-14.jpeg" alt="Silksong Memorializes Fan Who Lost Battle With Cancer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/silksong-hollow-knight-team-cherry-seth-goldman-2000625769" target="_blank">Silksong Memorializes Fan Who Lost Battle With Cancer</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-15 20:24</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2023/03/d4c7e6f59be8577e51eefa955da33532-e1757964970726.jpg" alt="OpenAI Reveals How (and Which) People Are Using ChatGPT" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -260,39 +273,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K57CMKHAAJYPH8XN6MMEPPGT/hero-image.jpg" alt="The First Eight Settings to Change After Installing iOS 26" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/settings-to-change-after-installing-ios-26?utm_medium=RSS" target="_blank">The First Eight Settings to Change After Installing iOS 26</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-15 19:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/01_the-trolley-solution.jpg" alt="Don’t Bring Me Trolley Problems, Bring Me Trolley Solutions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/the-trolley-solution-puzzle-game-problem-steam-2000625685" target="_blank">Don’t Bring Me Trolley Problems, Bring Me Trolley Solutions</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-09-15 17:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K573Z2F61TSE61J9W02QASZR/hero-image.jpg" alt="I Tested AI &#x27;Humanizers&#x27; to See How Well They Actually Disguise AI Writing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/ai-humanizer-tools-efficiency?utm_medium=RSS" target="_blank">I Tested AI &#x27;Humanizers&#x27; to See How Well They Actually Disguise AI Writing</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-15 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/conan-1.jpg?fit=1200%2C769&amp;quality=60&amp;ssl=1" alt="Frazetta&#x27;s iconic Conan painting shatters records with $13.5 million sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/15/frazettas-iconic-conan-painting-shatters-records-with-13-5-million-sale.html" target="_blank">Frazetta&#x27;s iconic Conan painting shatters records with $13.5 million sale</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-15 17:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Apple-Event-iPhone-Apple-Watch-Airpods-18.jpg" alt="Liquid Glass on iOS 26 Is Here to Stay, Whether You Like It or Not" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/liquid-glass-on-ios-26-is-here-to-stay-whether-you-like-it-or-not-2000658876" target="_blank">Liquid Glass on iOS 26 Is Here to Stay, Whether You Like It or Not</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-15 17:18</span>
             </div>
         </div>
 </div>
@@ -327,13 +322,22 @@
                 <span class="time">2025-09-15 07:01</span>
             </div>
         </div>
+<div class="story">
+            <img src="https://imgs.xkcd.com/comics/city_style_pizza.png" alt="-Style Pizza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3142/" target="_blank">-Style Pizza</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-09-15 04:00</span>
+            </div>
+        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
