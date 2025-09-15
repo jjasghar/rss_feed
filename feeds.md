@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-15 01:29:23 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-15 02:29:35 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 2 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, September 15, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, September 15, 2025 - 02:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -162,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdoxcjucwvbkjpqnlf359.webp" alt="Kiwi Pi Pro 5: Just another SBC?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dongpei_liao_8092a14d7c50/kiwi-pi-pro-5-just-another-sbc-3if5" target="_blank">Kiwi Pi Pro 5: Just another SBC?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-15 02:26</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -204,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/samueladeduntan/day-8-guardian-of-the-filesystem-4ll" target="_blank">#DAY 8: Guardian of the Filesystem</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-14 19:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/04/turntable-main.jpg?resize=406%2C232&amp;ssl=1" alt="Turntable Adds Offline Scrobbling, Resizing &amp; More Bling" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/turntable-offline-scrobbling-resizable-update" target="_blank">Turntable Adds Offline Scrobbling, Resizing &amp; More Bling</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-14 19:52</span>
             </div>
         </div>
 </div>
@@ -289,8 +292,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 64 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 61 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 02:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
