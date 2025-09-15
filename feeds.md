@@ -1,36 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-15 10:01:50 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-15 11:01:33 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Slashdot -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Monday, September 15, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, September 15, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/15/g-s1-88848/up-first-newsletter-charlie-kirk-shooting-investigation-middle-east-meetings-emmys-recap" target="_blank">What we know about the suspect arrested in Charlie Kirk&#x27;s killing. And, Emmy takeaways</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-15 10:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +101,20 @@
                 <span class="time">2025-09-15 07:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/9/15/boxing-legend-ricky-hatton-dies-at-46-in-manchester-home?traffic_source=rss" target="_blank">Boxing legend Ricky Hatton dies at 46 in Manchester home</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-15 07:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/777898/microsoft-xbox-controller-changes-windows-11" target="_blank">Microsoft is changing how Xbox controllers work on Windows 11</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-15 10:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +160,29 @@
                 <span class="time">2025-09-14 16:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/14/selling-coffee-beans-to-starbucks-how-the-ai-boom-could-leave-ais-biggest-companies-behind/" target="_blank">‘Selling coffee beans to Starbucks’ – how the AI boom could leave AI’s biggest companies behind</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-14 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rawveg/the-great-automotive-safety-reckoning-13i7" target="_blank">The Great Automotive Safety Reckoning</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-15 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/tekaratzas/RustGPT" target="_blank">RustGPT: A pure-Rust transformer LLM built from scratch</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-15 09:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,24 +219,6 @@
                 <span class="time">2025-09-15 07:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-builders/q-the-future-enterprise-productivity-with-aws-q-business-5fn" target="_blank">Q the Future: Enterprise Productivity with AWS Q Business</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-15 05:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-15.0-Alpha-2" target="_blank">FreeBSD 15.0 Alpha 2 Released With Builds Now Being Properly Reproducible</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-15 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/unicorn.jpg?fit=2186%2C1172&amp;quality=60&amp;ssl=1" alt="Anycrap store offers AI slop products you can&#x27;t buy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/15/anycrap-store-offers-ai-slop-products-you-cant-buy.html" target="_blank">Anycrap store offers AI slop products you can&#x27;t buy</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-15 09:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/polishing-cloth.jpg?fit=2146%2C1504&amp;quality=60&amp;ssl=1" alt="Apple Polishing Cloth compatibility list grows" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +292,6 @@
                 <span class="time">2025-09-14 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/nintendo-switch-2-size-comparison-01.jpg" alt="After the Virtual Boy, There’s No Reason Why Nintendo Can’t Bring Back Its Best Handheld" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/after-the-virtual-boy-theres-no-reason-why-nintendo-cant-bring-back-its-best-handheld-2000658275" target="_blank">After the Virtual Boy, There’s No Reason Why Nintendo Can’t Bring Back Its Best Handheld</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-14 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
