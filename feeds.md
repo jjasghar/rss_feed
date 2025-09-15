@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-15 17:01:42 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-09-15 18:02:43 UTC -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 28 feeds processed -->
+<!-- Generated 12 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, September 15, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, September 15, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/15/nx-s1-5542126/stephen-miran-fed-reserve-board" target="_blank">Who is Fed nominee Stephen Miran, and why is he so controversial?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-15 17:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250717-Maurene-Comey-se-250p-5239f5.jpg" alt="Former federal prosecutor Maurene Comey sues Trump admin over her firing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/former-federal-prosecutor-maurene-comey-sues-trump-admin-firing-rcna231406" target="_blank">Former federal prosecutor Maurene Comey sues Trump admin over her firing</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-15 17:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +99,20 @@
                 <span class="time">2025-09-15 14:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/15/two-men-found-guilty-of-witchcraft-plot-to-kill-zambias-president" target="_blank">Two men found guilty of witchcraft plot to kill Zambia’s president</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-09-15 14:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250912-tiktok-se-359p-6337da.jpg" alt="U.S. has &#x27;framework&#x27; for deal with China over TikTok" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/tech/tech-news/trump-china-tiktok-deal-rcna231313" target="_blank">U.S. has &#x27;framework&#x27; for deal with China over TikTok</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-15 12:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/778272/microsoft-office-free-copilot-ai-features-copilot-chat" target="_blank">Microsoft’s Office apps now have free Copilot Chat features</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-15 17:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68c335e050a2ad1d6d34f283/master/pass/Hundreds-Google-AI-Workers-Fired-Amid-Row-Over-Working-Conditions-Business-2226698932.jpg" alt="Hundreds of Google AI Workers Were Fired Amid Fight Over Working Conditions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +158,29 @@
                 <span class="time">2025-09-15 13:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/777737/rpm-raceway-kart-klash-mario-kart-irl" target="_blank">Battling for the lead at an IRL version of Mario Kart</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-15 13:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sazardev/transform-business-productivity-with-devops-culture-49ah" target="_blank">Transform Business Productivity with DevOps Culture</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-15 17:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18620335&w=600" alt="Mastering Approximate Top K: Choosing Optimal Count-Min Sketch Parameters" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/top-k-count-min-sketch-configuration" target="_blank">Mastering Approximate Top K: Choosing Optimal Count-Min Sketch Parameters</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-15 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr8a97t5nteojtvvg39v0.jpg" alt="Here&#x27;s what ISO 27001 Is - and Why You Should Care About Your Data Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -177,46 +193,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Libxml2-No-Maintainer" target="_blank">libxml2 Maintainer Stepping Down - &quot;More Or Less Unmaintained For Now&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-15 16:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.asciinema.org/post/three-point-o/" target="_blank">Asciinema CLI 3.0 rewritten in Rust, adds live streaming, upgrades file format</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-15 16:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gg_news/ign-digested-gameplay-survi-vore-horror-3a9j" target="_blank">IGN: Digested Gameplay - Survi-Vore Horror?!</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-15 16:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18619999&w=600" alt="How AI and Machine Learning Are Shaping the Fight Against Ransomware" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-ai-and-machine-learning-are-shaping-the-fight" target="_blank">How AI and Machine Learning Are Shaping the Fight Against Ransomware</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-15 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/engineering/platform-security/post-quantum-security-for-ssh-access-on-github/" target="_blank">Post-quantum security for SSH access on GitHub</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-09-15 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18618914&w=600" alt="Toward Explainable AI (Part 10): Bridging Theory and Practice—Responsible AI: Ambition or Illusion?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/explainable-ai-responsible-ai" target="_blank">Toward Explainable AI (Part 10): Bridging Theory and Practice—Responsible AI: Ambition or Illusion?</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-15 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/windows-11-wsl2-2025" target="_blank">The Performance Cost To Ubuntu WSL2 On Windows 11 25H2</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-15 14:50</span>
             </div>
         </div>
 </div>
@@ -239,6 +237,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/01_the-trolley-solution.jpg" alt="Don’t Bring Me Trolley Problems, Bring Me Trolley Solutions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/the-trolley-solution-puzzle-game-problem-steam-2000625685" target="_blank">Don’t Bring Me Trolley Problems, Bring Me Trolley Solutions</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-15 17:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K573Z2F61TSE61J9W02QASZR/hero-image.jpg" alt="I Tested AI &#x27;Humanizers&#x27; to See How Well They Actually Disguise AI Writing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/ai-humanizer-tools-efficiency?utm_medium=RSS" target="_blank">I Tested AI &#x27;Humanizers&#x27; to See How Well They Actually Disguise AI Writing</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-15 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/conan-1.jpg?fit=1200%2C769&amp;quality=60&amp;ssl=1" alt="Frazetta&#x27;s iconic Conan painting shatters records with $13.5 million sale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/15/frazettas-iconic-conan-painting-shatters-records-with-13-5-million-sale.html" target="_blank">Frazetta&#x27;s iconic Conan painting shatters records with $13.5 million sale</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-15 17:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Apple-Event-iPhone-Apple-Watch-Airpods-18.jpg" alt="Liquid Glass on iOS 26 Is Here to Stay, Whether You Like It or Not" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/liquid-glass-on-ios-26-is-here-to-stay-whether-you-like-it-or-not-2000658876" target="_blank">Liquid Glass on iOS 26 Is Here to Stay, Whether You Like It or Not</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-15 17:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Witcher.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="Netflix gambles on Witcher future with controversial recasting" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -254,42 +288,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/amazon-samsung-galaxy-tab-s11-deal?utm_medium=RSS" target="_blank">Amazon Will Give You Twice the Storage on a New Samsung Galaxy Tab S11 for Free</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-15 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/1min.AI-Advanced-Business-Plan-Lifetime-Subscription-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Ditch AI subscriptions! Get ChatGPT, Gemini, and more with a one-time payment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/15/ditch-ai-subscriptions-get-chatgpt-gemini-and-more-with-a-one-time-payment.html" target="_blank">Ditch AI subscriptions! Get ChatGPT, Gemini, and more with a one-time payment</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-15 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/Moxy.jpg" alt="Borderlands 4 Might Be Getting FOV Sliders On Console After All Following Flood Of Complaints" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/borderlands-4-fov-sliders-ps5-settings-update-patch-2000625687" target="_blank">Borderlands 4 Might Be Getting FOV Sliders On Console After All Following Flood Of Complaints</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-15 13:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K5669BNQA7E8KW4VMYZABARW/hero-image.png" alt="This Samsung Q-Series Dolby Atmos Soundbar Is on Sale for $600" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-q-series-dolby-atmos-soundbar-deal?utm_medium=RSS" target="_blank">This Samsung Q-Series Dolby Atmos Soundbar Is on Sale for $600</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-15 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Apple-AirPods-Pro-3-Review-6.jpg" alt="AirPods Pro 3 Review: Skating to Where the Puck Is Going, Not Where It Has Been" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/airpods-pro-3-review-skating-to-where-the-puck-is-going-not-where-it-has-been-2000658726" target="_blank">AirPods Pro 3 Review: Skating to Where the Puck Is Going, Not Where It Has Been</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-15 12:00</span>
             </div>
         </div>
 </div>
@@ -311,8 +309,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
