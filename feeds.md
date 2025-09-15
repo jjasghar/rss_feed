@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-15 02:29:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-15 03:18:01 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Garfield -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, September 15, 2025 - 02:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, September 15, 2025 - 03:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/15/russia-ukraine-war-list-of-key-events-day-1299?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,299</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-15 02:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250914-patel-ch-1929-dbebb3.jpg" alt="FBI Director Kash Patel criticized for his actions and posts during Charlie Kirk shooting investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/kash-patel-criticized-actions-posts-charlie-kirk-shooting-investigatio-rcna231043" target="_blank">FBI Director Kash Patel criticized for his actions and posts during Charlie Kirk shooting investigation</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-15 01:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/14/nx-s1-5541399/bobby-hart-monkees-dead" target="_blank">Bobby Hart, who co-wrote &#x27;Last Train to Clarksville&#x27; and other Monkees hits, dies</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-15 00:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,33 +98,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/14/nx-s1-5530023/adapting-to-coastal-erosion-in-louisiana-and-alaska" target="_blank">Adapting to coastal erosion in Louisiana and Alaska</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-14 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d10a/live/fec88e30-8fe3-11f0-b391-6936825093bd.jpg" alt="&#x27;My wife died giving birth after Trump cut funding to our clinic&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckgqdneev1no?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;My wife died giving birth after Trump cut funding to our clinic&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-14 20:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/14/global-sumud-flotilla-sets-sail-from-tunisia-to-break-gaza-blockade?traffic_source=rss" target="_blank">Global Sumud Flotilla sets sail from Tunisia to break Gaza blockade</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-14 20:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/14/doha-secures-arab-islamic-support-after-barbaric-israel-attack-qatar-pm?traffic_source=rss" target="_blank">Qatar PM blasts Israel, appreciates Arab, Islamic support ahead of summit</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-14 18:34</span>
             </div>
         </div>
 </div>
@@ -165,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://riffq.com/" target="_blank">riffq is a Postgres wire protocol compatibility layer for Python</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-09-15 02:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdoxcjucwvbkjpqnlf359.webp" alt="Kiwi Pi Pro 5: Just another SBC?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -209,15 +218,6 @@
                 <span class="time">2025-09-14 21:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbq3emwo7gccjsbk5sgvx.png" alt="#DAY 8: Guardian of the Filesystem" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/samueladeduntan/day-8-guardian-of-the-filesystem-4ll" target="_blank">#DAY 8: Guardian of the Filesystem</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-14 19:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Sony-WH-1000XM5-Wireless-Noise-Canceling-Headphones.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Block out the noise with these half-price Sony Headphones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/14/block-out-the-noise-with-these-half-price-sony-headphones.html" target="_blank">Block out the noise with these half-price Sony Headphones</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-14 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Demon-Slayer-1©Copyright_-©Koyoharu-Gotoge-_-SHUEISHA-Aniplex-ufotable-1.jpg" alt="The Latest ‘Demon Slayer’ Movie is Another Record-Breaking Hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 61 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 02:29 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 66 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 03:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
