@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-15 16:02:00 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-15 17:01:42 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Monday, September 15, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, September 15, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/15/israel-destroys-gazas-tallest-residential-building?traffic_source=rss" target="_blank">Israel destroys Gaza’s tallest residential building</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-15 16:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/15/nx-s1-5539868/tiktok-framework-bessent-trump" target="_blank">Officials announce a &#x27;framework&#x27; for keeping TikTok online in the U.S.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-15 15:44</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/235a/live/6302c940-923e-11f0-b391-6936825093bd.jpg" alt="PM: I would never have appointed Mandelson had I known full Epstein links" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,29 +101,20 @@
                 <span class="time">2025-09-15 12:37</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5f6/live/46f38540-920d-11f0-85c7-5bdf6c05d36f.jpg" alt="Netanyahu does not rule out further strikes on Hamas leaders" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czxw4xkxg51o?at_medium=RSS&at_campaign=rss" target="_blank">Netanyahu does not rule out further strikes on Hamas leaders</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-15 12:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/287e/live/7aa0fe80-9222-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Tory MP and shadow minister Danny Kruger defects to Reform" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce802dmgnyro?at_medium=RSS&at_campaign=rss" target="_blank">Tory MP and shadow minister Danny Kruger defects to Reform</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-15 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68c335e050a2ad1d6d34f283/master/pass/Hundreds-Google-AI-Workers-Fired-Amid-Row-Over-Working-Conditions-Business-2226698932.jpg" alt="Hundreds of Google AI Workers Were Fired Amid Fight Over Working Conditions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/hundreds-of-google-ai-workers-were-fired-amid-fight-over-working-conditions/" target="_blank">Hundreds of Google AI Workers Were Fired Amid Fight Over Working Conditions</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-15 16:42</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/gunsTOP-500x500.jpg" alt="Get into the cockpit as new crop of “Top Gun” pilots get their wings" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +160,20 @@
                 <span class="time">2025-09-15 13:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c4f0b3021fc084e07da314/master/pass/The%20Best%20Computer%20Monitors%20to%20Upgrade%20Your%20Desk%20Setup.png" alt="11 Best Computer Monitors (2025): Budget, OLED, 4K" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-computer-monitors/" target="_blank">11 Best Computer Monitors (2025): Budget, OLED, 4K</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-15 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr8a97t5nteojtvvg39v0.jpg" alt="Here&#x27;s what ISO 27001 Is - and Why You Should Care About Your Data Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/heyjoshlee/heres-what-iso-27001-is-and-why-you-should-care-about-your-data-security-3kfb" target="_blank">Here&#x27;s what ISO 27001 Is - and Why You Should Care About Your Data Security</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-15 16:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -170,6 +181,15 @@
                 <span class="title"><a href="https://dev.to/gg_news/ign-digested-gameplay-survi-vore-horror-3a9j" target="_blank">IGN: Digested Gameplay - Survi-Vore Horror?!</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-15 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18619999&w=600" alt="How AI and Machine Learning Are Shaping the Fight Against Ransomware" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-ai-and-machine-learning-are-shaping-the-fight" target="_blank">How AI and Machine Learning Are Shaping the Fight Against Ransomware</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-15 16:00</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +219,6 @@
                 <span class="time">2025-09-15 14:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/canonical-announces-it-will-support-and-distribute-nvidia-cuda-in-ubuntu" target="_blank">Canonical announces it will support and distribute NVIDIA CUDA in Ubuntu</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-09-15 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/pinterest-pinconsole-unified-idp/en/headerimage/pinconsolearchitecture_resize-1756947019611.jpeg" alt="Pinterest Unifies Engineering Tools with New Pinconsole Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/pinterest-pinconsole-unified-idp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pinterest Unifies Engineering Tools with New Pinconsole Platform</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-15 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,20 +233,20 @@
                 <span class="time">2025-09-15 11:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/upcoming-speaking-engagements-48.html" target="_blank">Upcoming Speaking Engagements</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-09-14 16:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Witcher.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="Netflix gambles on Witcher future with controversial recasting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/15/netflix-gambles-on-witcher-future-with-controversial-recasting.html" target="_blank">Netflix gambles on Witcher future with controversial recasting</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-15 16:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K4NC8T0BTRC7W4TBPQG6K7NN/hero-image.png" alt="Amazon Will Give You Twice the Storage on a New Samsung Galaxy Tab S11 for Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +292,6 @@
                 <span class="time">2025-09-15 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/atari_gamestationgo_1.webp?fit=900%2C600&amp;quality=55&amp;ssl=1" alt="Atari&#x27;s retro pocket portable finally lands" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/15/ataris-retro-pocket-portable-finally-lands.html" target="_blank">Atari&#x27;s retro pocket portable finally lands</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-15 10:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +311,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 96 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
