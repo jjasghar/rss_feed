@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-15 12:02:33 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-15 13:09:06 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, September 15, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, September 15, 2025 - 13:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250912-tiktok-se-359p-6337da.jpg" alt="U.S. has &#x27;framework&#x27; for deal with China over TikTok" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/tech/tech-news/trump-china-tiktok-deal-rcna231313" target="_blank">U.S. has &#x27;framework&#x27; for deal with China over TikTok</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-15 12:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5f6/live/46f38540-920d-11f0-85c7-5bdf6c05d36f.jpg" alt="Netanyahu does not rule out further strikes on Hamas leaders" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czxw4xkxg51o?at_medium=RSS&at_campaign=rss" target="_blank">Netanyahu does not rule out further strikes on Hamas leaders</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-15 12:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/287e/live/7aa0fe80-9222-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Tory MP and shadow minister Danny Kruger defects to Reform" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -81,29 +98,38 @@
                 <span class="time">2025-09-15 09:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5f6/live/46f38540-920d-11f0-85c7-5bdf6c05d36f.jpg" alt="Rubio meets Netanyahu to discuss fallout from Israel&#x27;s Qatar strike" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czxw4xkxg51o?at_medium=RSS&at_campaign=rss" target="_blank">Rubio meets Netanyahu to discuss fallout from Israel&#x27;s Qatar strike</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-15 08:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/15/iran-pushes-for-iaea-resolution-as-top-council-backs-nuclear-inspections?traffic_source=rss" target="_blank">Iran pushes for IAEA resolution as top council backs nuclear inspections</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-15 08:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/777737/rpm-raceway-kart-klash-mario-kart-irl" target="_blank">Battling for the lead at an IRL version of Mario Kart</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-15 13:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68c4f0b3021fc084e07da314/master/pass/The%20Best%20Computer%20Monitors%20to%20Upgrade%20Your%20Desk%20Setup.png" alt="11 Best Computer Monitors (2025): Budget, OLED, 4K" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-computer-monitors/" target="_blank">11 Best Computer Monitors (2025): Budget, OLED, 4K</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-15 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/15/spotify-will-now-let-free-users-pick-and-play-tracks/" target="_blank">Spotify will now let free users pick and play tracks</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-15 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68c5d02443639cdb65aa5400/master/pass/Courtesy%20of%20Canyon%20Ranch.jpg" alt="DEXA Scan Deep Dive, With Insights From the Experts (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -129,33 +155,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/776676/seagate-lacie-rugged-ssd4-external-drive-apple-prores-4k" target="_blank">The SSD version of LaCie’s iconic Rugged drive gets a speed boost</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-15 08:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/14/openai-board-chair-bret-taylor-says-were-in-an-ai-bubble-but-thats-okay/" target="_blank">OpenAI board chair Bret Taylor says we’re in an AI bubble (but that’s okay)</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-14 19:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/apple-rumors/777791/whats-next-for-apple-iphone-17-m5-ipad-pro" target="_blank">What’s next for Apple after the iPhone 17?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-14 19:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/14/vibe-coding-has-turned-senior-devs-into-ai-babysitters-but-they-say-its-worth-it/" target="_blank">Vibe coding has turned senior devs into ‘AI babysitters,’ but they say it’s worth it</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-14 19:00</span>
             </div>
         </div>
 </div>
@@ -226,6 +225,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/lawsuit-about-whatsapp-security.html" target="_blank">Lawsuit About WhatsApp Security</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-09-15 11:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/upcoming-speaking-engagements-48.html" target="_blank">Upcoming Speaking Engagements</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2025-09-14 16:02</span>
@@ -243,6 +251,15 @@
                 <span class="title"><a href="https://gizmodo.com/airpods-pro-3-review-skating-to-where-the-puck-is-going-not-where-it-has-been-2000658726" target="_blank">AirPods Pro 3 Review: Skating to Where the Puck Is Going, Not Where It Has Been</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-15 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/atari_gamestationgo_1.webp?fit=900%2C600&amp;quality=55&amp;ssl=1" alt="Atari&#x27;s retro pocket portable finally lands" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/15/ataris-retro-pocket-portable-finally-lands.html" target="_blank">Atari&#x27;s retro pocket portable finally lands</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-15 10:20</span>
             </div>
         </div>
 <div class="story">
@@ -281,15 +298,6 @@
                 <span class="time">2025-09-14 20:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2019/08/SIMPSONSFOXNEWS-1.jpg?fit=560%2C311&amp;quality=60&amp;ssl=1" alt="Fox News eager to claim Kilmeade apologizes, just not for what" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/14/fox-news-eager-to-claim-kilmeade-apologizes-just-not-for-what.html" target="_blank">Fox News eager to claim Kilmeade apologizes, just not for what</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-14 16:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 88 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 13:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
