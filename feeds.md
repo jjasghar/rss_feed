@@ -1,31 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-15 22:01:35 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-09-15 23:01:35 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: DZone -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, September 15, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, September 15, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/venezuela-ht-er-250915_1757975110091_hpMain_4x3t_384.jpg" alt="3 killed in US strike on an 2nd alleged Venezuelan drug boat, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/3-killed-2nd-strike-alleged-venezuelan-drug-boat/story?id=125599866" target="_blank">3 killed in US strike on an 2nd alleged Venezuelan drug boat, Trump says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-15 22:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/09/15/nx-s1-5542390/cdc-vaccine-advisers-committee" target="_blank">5 new members added to CDC vaccine advisory panel ahead of key meeting</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-15 21:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f40/live/3bfcd330-9271-11f0-b8e5-3be75a11e2ba.png" alt="US destroys alleged Venezuelan drug boat, killing three" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,29 +98,20 @@
                 <span class="time">2025-09-15 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/kirk-11-gty-gmh-250912_1757696989143_hpMain_4x3t_384.jpg" alt="Alleged shooter in Charlie Kirk killing had &#x27;obsession&#x27; with influencer: FBI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/charlie-kirk-killing-tyler-robinson-obsession-influencer/story?id=125582085" target="_blank">Alleged shooter in Charlie Kirk killing had &#x27;obsession&#x27; with influencer: FBI</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-15 19:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/15/belarus-russia-conduct-joint-military-drills-amid-nato-tensions?traffic_source=rss" target="_blank">Belarus, Russia conduct joint military drills amid NATO tensions</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-15 18:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/ng23encap1-500x500.jpg" alt="Northrop Grumman’s new spacecraft is a real chonker" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/09/northrop-grummans-new-spacecraft-is-a-real-chonker/" target="_blank">Northrop Grumman’s new spacecraft is a real chonker</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-15 22:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,15 +155,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/778334/trump-ice-hyundai-raid-korean-workers" target="_blank">Trump says foreign workers are &amp;#8216;welcome&amp;#8217; after ICE raid in Georgia targets hundreds of South Koreans</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-15 18:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c8076d7df85988d447dd31/master/pass/iPhone%202G%20SOURCE%20Grid%20Studio.jpeg" alt="Turn Your Old Tech Into Art—Now With a 20% Discount" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/grid-studio-5-anniversary-sale/" target="_blank">Turn Your Old Tech Into Art—Now With a 20% Discount</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-15 18:17</span>
             </div>
         </div>
 </div>
@@ -233,6 +236,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/longwalkkids.jpg" alt="‘The Long Walk’ Star Garrett Wareing on His Character’s Big Surprise" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/long-walker-spoilers-billy-stebbins-garrett-wareing-mark-hamill-2000658947" target="_blank">‘The Long Walk’ Star Garrett Wareing on His Character’s Big Surprise</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-15 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/war2.jpg" alt="Ice Cube Explains How That Awful War Of The Worlds Movie Happened" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/ice-cube-war-of-the-worlds-amazon-awful-worst-movie-kai-cenat-2000625785" target="_blank">Ice Cube Explains How That Awful War Of The Worlds Movie Happened</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-15 21:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/costco-sign.jpg" alt="Your Valdobbiadene Is at Risk of Shattering!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -266,24 +287,6 @@
                 <span class="title"><a href="https://gizmodo.com/openai-how-people-use-chatgpt-2000658906" target="_blank">OpenAI Reveals How (and Which) People Are Using ChatGPT</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-15 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/05/def1ac18bc5e50f11aa975b081d1516a.jpg" alt="Gaming Gets Dragged Into Debate Over Radicalization Of Charlie Kirk Shooter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/charlie-kirk-shooter-tyler-robinson-discord-reddit-memes-2000625746" target="_blank">Gaming Gets Dragged Into Debate Over Radicalization Of Charlie Kirk Shooter</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-15 19:34</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K57CMKHAAJYPH8XN6MMEPPGT/hero-image.jpg" alt="The First Eight Settings to Change After Installing iOS 26" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/settings-to-change-after-installing-ios-26?utm_medium=RSS" target="_blank">The First Eight Settings to Change After Installing iOS 26</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-15 19:30</span>
             </div>
         </div>
 </div>
@@ -332,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 123 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
