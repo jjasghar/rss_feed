@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-15 07:02:36 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2025-09-15 08:02:26 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Monday, September 15, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, September 15, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7d2/live/de6d3750-91d0-11f0-b391-6936825093bd.jpg" alt="Starmer facing leadership questions after Mandelson sacking" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce32qepq12qo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer facing leadership questions after Mandelson sacking</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-15 07:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/9/15/boxing-legend-ricky-hatton-dies-at-46-in-manchester-home?traffic_source=rss" target="_blank">Boxing legend Ricky Hatton dies at 46 in Manchester home</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-15 07:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/15/russia-ukraine-war-list-of-key-events-day-1299?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,299</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-15 02:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250914-patel-ch-1929-dbebb3.jpg" alt="FBI Director Kash Patel criticized for his actions and posts during Charlie Kirk shooting investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/kash-patel-criticized-actions-posts-charlie-kirk-shooting-investigatio-rcna231043" target="_blank">FBI Director Kash Patel criticized for his actions and posts during Charlie Kirk shooting investigation</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-15 01:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/14/nx-s1-5541399/bobby-hart-monkees-dead" target="_blank">Bobby Hart, who co-wrote &#x27;Last Train to Clarksville&#x27; and other Monkees hits, dies</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-15 00:45</span>
             </div>
         </div>
 </div>
@@ -164,6 +167,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Rust-Code-Maker-LibreOffice-262" target="_blank">&quot;Rustmaker&quot; Merged For LibreOffice 26.2 Development As Latest Rust Integration</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-15 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aws-builders/q-the-future-enterprise-productivity-with-aws-q-business-5fn" target="_blank">Q the Future: Enterprise Productivity with AWS Q Business</a></span>
                 <span class="feed">DEV Community</span>
@@ -177,6 +189,15 @@
                 <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-15.0-Alpha-2" target="_blank">FreeBSD 15.0 Alpha 2 Released With Builds Now Being Properly Reproducible</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-15 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://nickyoder.com/johnson-lindenstrauss/" target="_blank">Language Models Pack Billions of Concepts into 12,000 Dimensions</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-15 03:54</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +216,6 @@
                 <span class="title"><a href="https://riffq.com/" target="_blank">riffq is a Postgres wire protocol compatibility layer for Python</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-09-15 02:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/java-news-roundup-sep08-2025/en/headerimage/java-istock-image-01-1757852908457.jpg" alt="Java News Roundup: OpenJDK JEPs, TornadoVM, Spring Framework, Open Liberty, JBang" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/java-news-roundup-sep08-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: OpenJDK JEPs, TornadoVM, Spring Framework, Open Liberty, JBang</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-15 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdoxcjucwvbkjpqnlf359.webp" alt="Kiwi Pi Pro 5: Just another SBC?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dongpei_liao_8092a14d7c50/kiwi-pi-pro-5-just-another-sbc-3if5" target="_blank">Kiwi Pi Pro 5: Just another SBC?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-15 02:26</span>
             </div>
         </div>
 </div>
@@ -298,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 69 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
