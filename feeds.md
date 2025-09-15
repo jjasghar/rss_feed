@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-15 11:01:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-15 12:02:33 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, September 15, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Monday, September 15, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/287e/live/7aa0fe80-9222-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Tory MP and shadow minister Danny Kruger defects to Reform" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce802dmgnyro?at_medium=RSS&at_campaign=rss" target="_blank">Tory MP and shadow minister Danny Kruger defects to Reform</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-15 11:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +99,20 @@
                 <span class="time">2025-09-15 08:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7d2/live/de6d3750-91d0-11f0-b391-6936825093bd.jpg" alt="Starmer facing leadership questions after Mandelson sacking" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce32qepq12qo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer facing leadership questions after Mandelson sacking</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-15 07:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68c5d02443639cdb65aa5400/master/pass/Courtesy%20of%20Canyon%20Ranch.jpg" alt="DEXA Scan Deep Dive, With Insights From the Experts (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/do-you-need-a-dexa-scan/" target="_blank">DEXA Scan Deep Dive, With Insights From the Experts (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-15 11:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +158,29 @@
                 <span class="time">2025-09-14 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/777788/rolling-stone-penske-media-sue-google-ai-overviews" target="_blank">Rolling Stone’s parent company sues Google over AI Overviews</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-14 16:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/tariqsiddiqui01/stop-making-these-portfolio-mistakes-your-future-self-will-thank-you-mmd" target="_blank">Stop Making These Portfolio Mistakes (Your Future Self Will Thank You)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-15 11:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18608364&w=600" alt="Tuples and Records (Part 5): Performance Challenges" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/tuples-and-records-part-5" target="_blank">Tuples and Records (Part 5): Performance Challenges</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-15 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +217,6 @@
                 <span class="time">2025-09-15 08:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://ryelang.org/blog/posts/comparing_tables_to_python/" target="_blank">Rye Tables vs Python/Pandas: A Different Way to Wrangle Data</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-09-15 08:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Rust-Code-Maker-LibreOffice-262" target="_blank">&quot;Rustmaker&quot; Merged For LibreOffice 26.2 Development As Latest Rust Integration</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-15 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Apple-AirPods-Pro-3-Review-6.jpg" alt="AirPods Pro 3 Review: Skating to Where the Puck Is Going, Not Where It Has Been" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/airpods-pro-3-review-skating-to-where-the-puck-is-going-not-where-it-has-been-2000658726" target="_blank">AirPods Pro 3 Review: Skating to Where the Puck Is Going, Not Where It Has Been</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-15 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/unicorn.jpg?fit=2186%2C1172&amp;quality=60&amp;ssl=1" alt="Anycrap store offers AI slop products you can&#x27;t buy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +290,6 @@
                 <span class="time">2025-09-14 16:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Samsung-Galaxy-Buds-3-FE-4.jpg" alt="Galaxy Buds 3 FE Review: Samsung’s ‘Fan Edition” Wireless Earbuds Are Just Enough" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/galaxy-buds-3-fe-review-samsungs-fan-edition-wireless-earbuds-are-just-enough-2000657752" target="_blank">Galaxy Buds 3 FE Review: Samsung’s ‘Fan Edition” Wireless Earbuds Are Just Enough</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-14 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
