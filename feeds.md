@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-09-15 19:01:35 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-15 20:01:38 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Monday, September 15, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, September 15, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/15/nx-s1-5542176/jd-vance-charlie-kirk-show" target="_blank">JD Vance hosts &#x27;The Charlie Kirk Show,&#x27; paying tribute with top White House officials</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-15 19:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/9/15/tiktok-ban-in-flux-as-white-house-announces-china-us-framework-deal?traffic_source=rss" target="_blank">TikTok ban in flux as White House announces China-US framework deal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-15 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/kirk-11-gty-gmh-250912_1757696989143_hpMain_4x3t_384.jpg" alt="Alleged shooter in Charlie Kirk killing had &#x27;obsession&#x27; with influencer: FBI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/charlie-kirk-killing-tyler-robinson-obsession-influencer/story?id=125582085" target="_blank">Alleged shooter in Charlie Kirk killing had &#x27;obsession&#x27; with influencer: FBI</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-15 19:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,33 +102,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/former-federal-prosecutor-maurene-comey-sues-trump-admin-firing-rcna231406" target="_blank">Former federal prosecutor Maurene Comey sues Trump administration over her firing</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-09-15 17:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250717-Maurene-Comey-se-250p-5239f5.jpg" alt="Former federal prosecutor Maurene Comey sues Trump admin over her firing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/former-federal-prosecutor-maurene-comey-sues-trump-admin-firing-rcna231406" target="_blank">Former federal prosecutor Maurene Comey sues Trump admin over her firing</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-15 17:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/15/israel-destroys-gazas-tallest-residential-building?traffic_source=rss" target="_blank">Israel destroys Gaza’s tallest residential building</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-15 16:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/15/nx-s1-5539868/tiktok-framework-bessent-trump" target="_blank">Officials announce a &#x27;framework&#x27; for keeping TikTok online in the U.S.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-15 15:44</span>
             </div>
         </div>
 </div>
@@ -235,6 +242,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2023/03/d4c7e6f59be8577e51eefa955da33532-e1757964970726.jpg" alt="OpenAI Reveals How (and Which) People Are Using ChatGPT" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/openai-how-people-use-chatgpt-2000658906" target="_blank">OpenAI Reveals How (and Which) People Are Using ChatGPT</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-15 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/05/def1ac18bc5e50f11aa975b081d1516a.jpg" alt="Gaming Gets Dragged Into Debate Over Radicalization Of Charlie Kirk Shooter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/charlie-kirk-shooter-tyler-robinson-discord-reddit-memes-2000625746" target="_blank">Gaming Gets Dragged Into Debate Over Radicalization Of Charlie Kirk Shooter</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-15 19:34</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/01_the-trolley-solution.jpg" alt="Don’t Bring Me Trolley Problems, Bring Me Trolley Solutions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -270,29 +295,20 @@
                 <span class="time">2025-09-15 17:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Witcher.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="Netflix gambles on Witcher future with controversial recasting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/15/netflix-gambles-on-witcher-future-with-controversial-recasting.html" target="_blank">Netflix gambles on Witcher future with controversial recasting</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-15 16:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4NC8T0BTRC7W4TBPQG6K7NN/hero-image.png" alt="Amazon Will Give You Twice the Storage on a New Samsung Galaxy Tab S11 for Free" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/amazon-samsung-galaxy-tab-s11-deal?utm_medium=RSS" target="_blank">Amazon Will Give You Twice the Storage on a New Samsung Galaxy Tab S11 for Free</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-15 15:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/09/15/hedge-wizardry" target="_blank">Hedge Wizardry</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-09-15 19:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1757808993-20250915.png" alt="Saturday Morning Breakfast Cereal - Unread" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -316,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
