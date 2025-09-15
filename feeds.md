@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-15 09:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-15 10:01:50 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Monday, September 15, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, September 15, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/9/15/us-china-talk-trade-amid-threats-over-russian-oil-tiktok-ban?traffic_source=rss" target="_blank">US, China talk trade amid threats over Russian oil, TikTok ban</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-15 09:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/charlie-kirk-1-rt-gmh-250911_1757598366925_hpMain_4x3t_384.jpg" alt="Fatal shooting of Charlie Kirk puts Utah Valley University&#x27;s security under scrutiny" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/fatal-shooting-charlie-kirk-puts-utah-valley-universitys/story?id=125474742" target="_blank">Fatal shooting of Charlie Kirk puts Utah Valley University&#x27;s security under scrutiny</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-15 09:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5f6/live/46f38540-920d-11f0-85c7-5bdf6c05d36f.jpg" alt="Rubio meets Netanyahu to discuss fallout from Israel&#x27;s Qatar strike" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czxw4xkxg51o?at_medium=RSS&at_campaign=rss" target="_blank">Rubio meets Netanyahu to discuss fallout from Israel&#x27;s Qatar strike</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-15 08:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,33 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/gallery/2025/9/15/boxing-legend-ricky-hatton-dies-at-46-in-manchester-home?traffic_source=rss" target="_blank">Boxing legend Ricky Hatton dies at 46 in Manchester home</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-15 07:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/15/new-york-governor-hochul-endorses-zohran-mamdani-for-mayor-amid-poll-surge?traffic_source=rss" target="_blank">New York Governor Hochul endorses Zohran Mamdani for mayor amid poll surge</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-15 06:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/9/15/live-6-year-old-twins-among-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss" target="_blank">Live: 6-year-old twins among Palestinians killed in Israeli attacks on Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-15 05:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/15/lula-defends-bolsonaro-verdict-tells-trump-brazils-democracy-not-on-table?traffic_source=rss" target="_blank">Lula hails Bolsonaro verdict, tells Trump Brazil’s democracy not negotiable</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-15 04:34</span>
             </div>
         </div>
 </div>
@@ -163,12 +165,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Rust-Atomic-LKMM-Linux-6.18" target="_blank">Linux 6.18 To Allow Rust And C Code To Use The Same Memory Model</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-15 09:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/09/finepdfs/en/headerimage/generatedHeaderImage-1757926150946.jpg" alt="Hugging Face Releases FinePDFs: A 3-Trillion-Token Dataset Built from PDFs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
                 <span class="title"><a href="https://www.infoq.com/news/2025/09/finepdfs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Hugging Face Releases FinePDFs: A 3-Trillion-Token Dataset Built from PDFs</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-09-15 08:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://ryelang.org/blog/posts/comparing_tables_to_python/" target="_blank">Rye Tables vs Python/Pandas: A Different Way to Wrangle Data</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-09-15 08:52</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +218,6 @@
                 <span class="time">2025-09-15 04:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://nickyoder.com/johnson-lindenstrauss/" target="_blank">Language Models Pack Billions of Concepts into 12k Dimensions</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-15 03:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://nickyoder.com/johnson-lindenstrauss/" target="_blank">Language Models Pack Billions of Concepts into 12,000 Dimensions</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-15 03:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/polishing-cloth.jpg?fit=2146%2C1504&amp;quality=60&amp;ssl=1" alt="Apple Polishing Cloth compatibility list grows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/15/apple-polishing-cloth-compatibility-list-grows.html" target="_blank">Apple Polishing Cloth compatibility list grows</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-15 09:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Sony-WH-1000XM5-Wireless-Noise-Canceling-Headphones.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Block out the noise with these half-price Sony Headphones" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -308,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
