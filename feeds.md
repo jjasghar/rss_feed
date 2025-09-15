@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-15 08:02:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-15 09:01:44 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, September 15, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, September 15, 2025 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/15/iran-pushes-for-iaea-resolution-as-top-council-backs-nuclear-inspections?traffic_source=rss" target="_blank">Iran pushes for IAEA resolution as top council backs nuclear inspections</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-15 08:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7d2/live/de6d3750-91d0-11f0-b391-6936825093bd.jpg" alt="Starmer facing leadership questions after Mandelson sacking" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +98,20 @@
                 <span class="time">2025-09-15 04:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/15/russia-ukraine-war-list-of-key-events-day-1299?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,299</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-15 02:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/776676/seagate-lacie-rugged-ssd4-external-drive-apple-prores-4k" target="_blank">The SSD version of LaCie’s iconic Rugged drive gets a speed boost</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-15 08:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +157,20 @@
                 <span class="time">2025-09-14 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/777738/helldivers-community-reddit-discord-charlie-kirk" target="_blank">The Helldivers community is coping with a spotlight it doesn’t want</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-14 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/09/finepdfs/en/headerimage/generatedHeaderImage-1757926150946.jpg" alt="Hugging Face Releases FinePDFs: A 3-Trillion-Token Dataset Built from PDFs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/finepdfs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Hugging Face Releases FinePDFs: A 3-Trillion-Token Dataset Built from PDFs</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-15 08:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,27 +202,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://nickyoder.com/johnson-lindenstrauss/" target="_blank">Language Models Pack Billions of Concepts into 12,000 Dimensions</a></span>
+                <span class="title"><a href="https://nickyoder.com/johnson-lindenstrauss/" target="_blank">Language Models Pack Billions of Concepts into 12k Dimensions</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-09-15 03:54</span>
             </div>
         </div>
 <div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz3v9jswoejku7bnzrmin.PNG" alt="Transform Lectures into Summaries, Questions, and Blog Ideas with Lecture lab AI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/techsplot/transform-lectures-into-summaries-questions-and-blog-ideas-with-lecture-lab-ai-2e80" target="_blank">Transform Lectures into Summaries, Questions, and Blog Ideas with Lecture lab AI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-15 03:49</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://riffq.com/" target="_blank">riffq is a Postgres wire protocol compatibility layer for Python</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-09-15 02:48</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://nickyoder.com/johnson-lindenstrauss/" target="_blank">Language Models Pack Billions of Concepts into 12,000 Dimensions</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-15 03:54</span>
             </div>
         </div>
 </div>
@@ -288,6 +286,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/09/15/hedge-wizard" target="_blank">Hedge Wizardry</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-09-15 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1757808857-20250914.png" alt="Saturday Morning Breakfast Cereal - Bet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -301,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
