@@ -1,34 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-09-15 13:09:06 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-15 14:01:59 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, September 15, 2025 - 13:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, September 15, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -104,6 +99,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/11/nvidia-sign-1-500x500.jpg" alt="China rules that Nvidia violated its antitrust laws" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/china-rules-that-nvidia-violated-its-antitrust-laws/" target="_blank">China rules that Nvidia violated its antitrust laws</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-15 13:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -148,20 +152,38 @@
                 <span class="time">2025-09-15 10:16</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/776676/seagate-lacie-rugged-ssd4-external-drive-apple-prores-4k" target="_blank">The SSD version of LaCie’s iconic Rugged drive gets a speed boost</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-15 08:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/09/pinterest-pinconsole-unified-idp/en/headerimage/pinconsolearchitecture_resize-1756947019611.jpeg" alt="Pinterest Unifies Engineering Tools with New Pinconsole Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/pinterest-pinconsole-unified-idp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Pinterest Unifies Engineering Tools with New Pinconsole Platform</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-15 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alexmercedcoder/apache-polaris-dev-list-digest-sept-8-12-2025-5ggo" target="_blank">Apache Polaris dev list digest (Sept 8–12, 2025)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-15 13:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Riddell-Leaves-KDE" target="_blank">Jonathan Riddell Leaving KDE Development After 25 Years</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-15 12:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -187,33 +209,6 @@
                 <span class="title"><a href="https://dev.to/rawveg/the-great-automotive-safety-reckoning-13i7" target="_blank">The Great Automotive Safety Reckoning</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-15 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/tekaratzas/RustGPT" target="_blank">RustGPT: A pure-Rust transformer LLM built from scratch</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-15 09:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Rust-Atomic-LKMM-Linux-6.18" target="_blank">Linux 6.18 To Allow Rust And C Code To Use The Same Memory Model</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-15 09:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/finepdfs/en/headerimage/generatedHeaderImage-1757926150946.jpg" alt="Hugging Face Releases FinePDFs: A 3-Trillion-Token Dataset Built from PDFs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/finepdfs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Hugging Face Releases FinePDFs: A 3-Trillion-Token Dataset Built from PDFs</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-15 08:55</span>
             </div>
         </div>
 </div>
@@ -244,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/Moxy.jpg" alt="Borderlands 4 Might Be Getting FOV Sliders On Console After All Following Flood Of Complaints" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/borderlands-4-fov-sliders-ps5-settings-update-patch-2000625687" target="_blank">Borderlands 4 Might Be Getting FOV Sliders On Console After All Following Flood Of Complaints</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-15 13:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K5669BNQA7E8KW4VMYZABARW/hero-image.png" alt="This Samsung Q-Series Dolby Atmos Soundbar Is on Sale for $600" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-q-series-dolby-atmos-soundbar-deal?utm_medium=RSS" target="_blank">This Samsung Q-Series Dolby Atmos Soundbar Is on Sale for $600</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-15 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Apple-AirPods-Pro-3-Review-6.jpg" alt="AirPods Pro 3 Review: Skating to Where the Puck Is Going, Not Where It Has Been" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -280,24 +293,6 @@
                 <span class="time">2025-09-15 09:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Sony-WH-1000XM5-Wireless-Noise-Canceling-Headphones.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Block out the noise with these half-price Sony Headphones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/14/block-out-the-noise-with-these-half-price-sony-headphones.html" target="_blank">Block out the noise with these half-price Sony Headphones</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-14 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Demon-Slayer-1©Copyright_-©Koyoharu-Gotoge-_-SHUEISHA-Aniplex-ufotable-1.jpg" alt="The Latest ‘Demon Slayer’ Movie is Another Record-Breaking Hit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-latest-demon-slayer-movie-is-another-record-breaking-hit-2000658653" target="_blank">The Latest ‘Demon Slayer’ Movie is Another Record-Breaking Hit</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-14 20:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -326,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 88 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 13:09 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 88 | 📡 Total Sources: 41 | 📸 With Images: 264 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
