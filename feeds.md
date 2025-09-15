@@ -1,29 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-15 14:01:59 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-15 15:01:47 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 20 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, September 15, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, September 15, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/kirk-11-gty-gmh-250912_1757696989143_hpMain_4x3t_384.jpg" alt="Suspect in Charlie Kirk shooting had &#x27;obsession&#x27; with the influencer, FBI says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/charlie-kirk-killing-tyler-robinson-obsession-influencer/story?id=125582085" target="_blank">Suspect in Charlie Kirk shooting had &#x27;obsession&#x27; with the influencer, FBI says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-15 14:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/15/two-men-found-guilty-of-witchcraft-plot-to-kill-zambias-president" target="_blank">Two men found guilty of witchcraft plot to kill Zambia’s president</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-09-15 14:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250912-tiktok-se-359p-6337da.jpg" alt="U.S. has &#x27;framework&#x27; for deal with China over TikTok" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,29 +98,29 @@
                 <span class="time">2025-09-15 10:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/9/15/us-china-talk-trade-amid-threats-over-russian-oil-tiktok-ban?traffic_source=rss" target="_blank">US, China talk trade amid threats over Russian oil, TikTok ban</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-15 09:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/charlie-kirk-1-rt-gmh-250911_1757598366925_hpMain_4x3t_384.jpg" alt="Fatal shooting of Charlie Kirk puts Utah Valley University&#x27;s security under scrutiny" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/fatal-shooting-charlie-kirk-puts-utah-valley-universitys/story?id=125474742" target="_blank">Fatal shooting of Charlie Kirk puts Utah Valley University&#x27;s security under scrutiny</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-15 09:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/778106/google-gemini-nano-banana-image-editor" target="_blank">Here&amp;#8217;s why usage of Gemini&amp;#8217;s Nano Banana image editor is growing</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-15 14:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/15/by-popular-demand-10-extra-exhibit-tables-open-at-techcrunch-disrupt-2025/" target="_blank">By popular demand: 10 extra exhibit tables open at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-15 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/11/nvidia-sign-1-500x500.jpg" alt="China rules that Nvidia violated its antitrust laws" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -134,29 +157,20 @@
                 <span class="time">2025-09-15 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c5d02443639cdb65aa5400/master/pass/Courtesy%20of%20Canyon%20Ranch.jpg" alt="DEXA Scan Deep Dive, With Insights From the Experts (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/do-you-need-a-dexa-scan/" target="_blank">DEXA Scan Deep Dive, With Insights From the Experts (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-15 11:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/777898/microsoft-xbox-controller-changes-windows-11" target="_blank">Microsoft is changing how Xbox controllers work on Windows 11</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-15 10:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/canonical-announces-it-will-support-and-distribute-nvidia-cuda-in-ubuntu" target="_blank">Canonical announces it will support and distribute NVIDIA CUDA in Ubuntu</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-09-15 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/09/pinterest-pinconsole-unified-idp/en/headerimage/pinconsolearchitecture_resize-1756947019611.jpeg" alt="Pinterest Unifies Engineering Tools with New Pinconsole Platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -187,28 +201,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/tariqsiddiqui01/stop-making-these-portfolio-mistakes-your-future-self-will-thank-you-mmd" target="_blank">Stop Making These Portfolio Mistakes (Your Future Self Will Thank You)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-15 11:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18608364&w=600" alt="Tuples and Records (Part 5): Performance Challenges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/tuples-and-records-part-5" target="_blank">Tuples and Records (Part 5): Performance Challenges</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-15 11:00</span>
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/android-on-device-ai/" target="_blank">I Ran Local LLMs on My Android Phone</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-09-15 11:58</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rawveg/the-great-automotive-safety-reckoning-13i7" target="_blank">The Great Automotive Safety Reckoning</a></span>
+                <span class="title"><a href="https://dev.to/tariqsiddiqui01/stop-making-these-portfolio-mistakes-your-future-self-will-thank-you-mmd" target="_blank">Stop Making These Portfolio Mistakes (Your Future Self Will Thank You)</a></span>
                 <span class="feed">DEV Community</span>
-                <span class="time">2025-09-15 11:00</span>
+                <span class="time">2025-09-15 11:55</span>
             </div>
         </div>
 </div>
@@ -321,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 88 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
