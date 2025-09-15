@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-15 00:04:55 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-09-15 01:29:23 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Generated 3 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, September 15, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Monday, September 15, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -167,6 +164,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shiva_shanker_k/visual-studio-2026-insider-the-good-the-bad-and-the-wtf-49f7" target="_blank">Visual Studio 2026 Insider: The Good, The Bad, and The WTF 🤯</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-15 01:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-rc6-Released" target="_blank">Linux 6.17-rc6 Released With VMSCAPE Mitigation, FLYDIGI APEX 5 Support &amp; Fixes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-14 23:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.sdstate.edu/news/2025/08/can-grapevines-help-slow-plastic-waste-problem" target="_blank">Grapevine cellulose makes stronger plastic alternative, biodegrades in 17 days</a></span>
                 <span class="feed">Hacker News</span>
@@ -198,24 +213,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/turntable-offline-scrobbling-resizable-update" target="_blank">Turntable Adds Offline Scrobbling, Resizing &amp; More Bling</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-09-14 19:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/04/turntable-main.jpg?resize=406%2C232&amp;ssl=1" alt="Turntable Update Adds Offline Scrobbling and Free Window Resizing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/turntable-offline-scrobbling-resizable-update" target="_blank">Turntable Update Adds Offline Scrobbling and Free Window Resizing</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-14 19:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://disobey.net/@yawnbox/115203365485529363" target="_blank">ChatControl update: blocking minority held but Denmark is moving forward anyway</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-14 19:15</span>
             </div>
         </div>
 </div>
@@ -292,8 +289,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 65 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 64 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
