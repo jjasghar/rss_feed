@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-15 18:02:43 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing 54 RSS feeds at 2025-09-15 19:01:35 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Hacker News -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 12 new posts out of 26 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, September 15, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Monday, September 15, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,10 +46,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/15/belarus-russia-conduct-joint-military-drills-amid-nato-tensions?traffic_source=rss" target="_blank">Belarus, Russia conduct joint military drills amid NATO tensions</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-15 18:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/09/15/nx-s1-5542126/stephen-miran-fed-reserve-board" target="_blank">Who is Fed nominee Stephen Miran, and why is he so controversial?</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-15 17:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250717-Maurene-Comey-se-250p-5239f5.jpg" alt="Former federal prosecutor Maurene Comey sues Trump administration over her firing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/former-federal-prosecutor-maurene-comey-sues-trump-admin-firing-rcna231406" target="_blank">Former federal prosecutor Maurene Comey sues Trump administration over her firing</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-15 17:23</span>
             </div>
         </div>
 <div class="story">
@@ -81,29 +97,29 @@
                 <span class="time">2025-09-15 15:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/235a/live/6302c940-923e-11f0-b391-6936825093bd.jpg" alt="PM: I would never have appointed Mandelson had I known full Epstein links" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx25xn2e8zqo?at_medium=RSS&at_campaign=rss" target="_blank">PM: I would never have appointed Mandelson had I known full Epstein links</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-15 15:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/kirk-11-gty-gmh-250912_1757696989143_hpMain_4x3t_384.jpg" alt="Suspect in Charlie Kirk shooting had &#x27;obsession&#x27; with the influencer, FBI says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/charlie-kirk-killing-tyler-robinson-obsession-influencer/story?id=125582085" target="_blank">Suspect in Charlie Kirk shooting had &#x27;obsession&#x27; with the influencer, FBI says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-15 14:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/778334/trump-ice-hyundai-raid-korean-workers" target="_blank">Trump says foreign workers are &amp;#8216;welcome&amp;#8217; after ICE raid in Georgia targets hundreds of South Koreans</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-15 18:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68c8076d7df85988d447dd31/master/pass/iPhone%202G%20SOURCE%20Grid%20Studio.jpeg" alt="Turn Your Old Tech Into Art—Now With a 20% Discount" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/grid-studio-5-anniversary-sale/" target="_blank">Turn Your Old Tech Into Art—Now With a 20% Discount</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-15 18:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +156,29 @@
                 <span class="time">2025-09-15 14:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/15/by-popular-demand-10-extra-exhibit-tables-open-at-techcrunch-disrupt-2025/" target="_blank">By popular demand: 10 extra exhibit tables open at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-15 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/11/nvidia-sign-1-500x500.jpg" alt="China rules that Nvidia violated its antitrust laws" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/china-rules-that-nvidia-violated-its-antitrust-laws/" target="_blank">China rules that Nvidia violated its antitrust laws</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-15 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/10/nvidia-logo-on-green.jpg?resize=406%2C232&amp;ssl=1" alt="Canonical Make It Easier to Install NVIDIA CUDA on Ubuntu" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/canonical-adds-nvidia-cuda-ubuntu-repos" target="_blank">Canonical Make It Easier to Install NVIDIA CUDA on Ubuntu</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-15 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/wsmithparsec/the-rise-of-kiro-as-an-agentic-ide-for-ai-development-4d93" target="_blank">The Rise of Kiro as an Agentic IDE for AI Development</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-15 18:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Libxml2-No-Maintainer" target="_blank">libxml2 Maintainer Stepping Down - &quot;More Or Less Unmaintained For Now&quot;</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-15 16:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.asciinema.org/post/three-point-o/" target="_blank">Asciinema CLI 3.0 rewritten in Rust, adds live streaming, upgrades file format</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-15 16:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-digested-gameplay-survi-vore-horror-3a9j" target="_blank">IGN: Digested Gameplay - Survi-Vore Horror?!</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-15 16:01</span>
             </div>
         </div>
 </div>
@@ -296,6 +294,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1757808993-20250915.png" alt="Saturday Morning Breakfast Cereal - Unread" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/unread" target="_blank">Saturday Morning Breakfast Cereal - Unread</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-09-15 15:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -309,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
