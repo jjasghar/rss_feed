@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-09-16 14:01:57 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2025-09-16 15:01:52 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 24 feeds processed -->
+<!-- Generated 8 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, September 16, 2025 - 14:02 UTC</div>
+    <div class="newspaper-date">Tuesday, September 16, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e22/live/6f455330-9301-11f0-a647-dff301f4a439.jpg" alt="Mandelson red flags were missed or ignored, senior Labour MP says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c147k2zpg68o?at_medium=RSS&at_campaign=rss" target="_blank">Mandelson red flags were missed or ignored, senior Labour MP says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-16 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/kash-patel-3-ap-gmh-250916_1758028575835_hpMain_4x3t_384.jpg" alt="Kash Patel faces questions on Charlie Kirk investigation in congressional hearings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/patel-face-questions-charlie-kirk-investigation-congressional-hearings/story?id=125585288" target="_blank">Kash Patel faces questions on Charlie Kirk investigation in congressional hearings</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-16 13:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +95,38 @@
                 <span class="time">2025-09-16 11:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/16/ukrainians-horrified-by-killing-of-refugee-iryna-zarutska-us-culture-wars?traffic_source=rss" target="_blank">Ukrainians horrified by killing of refugee Iryna Zarutska, US culture wars</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-16 10:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/16/g-s1-88997/up-first-newsletter-jd-vance-charlie-kirk-kash-patel-testimony-federal-reserve-interest-rates" target="_blank">JD Vance vows to carry on Kirk&#x27;s legacy. And, the Fed meets to decide interest rates.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-16 10:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/16/d-id-acquires-berlin-based-video-startup-simpleshow/" target="_blank">D-ID acquires Berlin-based video startup Simpleshow</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-16 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/778789/tiktok-us-china-deal-investors-oracle" target="_blank">The China-US deal for TikTok could take another month to work out</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-16 14:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/ccm-hero-image2-500x500.jpg" alt="How Nissan leveraged its driver assist to cut traffic jams" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/09/how-nissan-leveraged-its-driver-assist-to-cut-traffic-jams/" target="_blank">How Nissan leveraged its driver assist to cut traffic jams</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-16 14:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -129,33 +154,6 @@
                 <span class="time">2025-09-16 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/robot_church-500x500.jpg" alt="Millions turn to AI chatbots for spiritual guidance and confession" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/09/millions-turn-to-ai-chatbots-for-spiritual-guidance-and-confession/" target="_blank">Millions turn to AI chatbots for spiritual guidance and confession</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-16 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c48919e1492c11d224ada4/master/pass/091225-culture-human-design.jpg" alt="Human Design Is Blowing Up. Following It Might Make You Leave Your Spouse" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/human-design-is-blowing-up-following-it-might-make-you-leave-your-spouse/" target="_blank">Human Design Is Blowing Up. Following It Might Make You Leave Your Spouse</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-16 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" alt="Up to $2,000 Off LG Promo Codes &amp; Coupons" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/lg-promo-code/" target="_blank">Up to $2,000 Off LG Promo Codes &amp; Coupons</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-16 05:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -168,6 +166,24 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/09/16/what-an-mcp-implementation-looks-like-at-a-crm-company/" target="_blank">What an MCP implementation looks like at a CRM company</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-09-16 19:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F274998%2F09f57f7f-daec-4303-8766-138cfd1396d9.png" alt="Top 7 Featured DEV Posts of the Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5e1" target="_blank">Top 7 Featured DEV Posts of the Week</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-16 14:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18624447&w=600" alt="Automating RCA and Decision Support Using AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/automating-rca-and-decision-support-using-ai-agent" target="_blank">Automating RCA and Decision Support Using AI Agents</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-16 14:00</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +211,6 @@
                 <span class="title"><a href="https://dev.to/ajeetchouksey/ai-as-a-tool-not-a-goal-16fg" target="_blank">AI as a Tool, Not a Goal</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-16 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18624405&w=600" alt="How TBMQ Uses Redis for Persistent Message Storage" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/tbmq-redis-persistent-message-storage" target="_blank">How TBMQ Uses Redis for Persistent Message Storage</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-16 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/accessibility-xr/en/mediumimage/dylan-fox-medium-1756891034995.jpg" alt="Presentation: Accessible Innovation in XR: Maximizing the Curb Cut Effect" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/accessibility-xr/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Accessible Innovation in XR: Maximizing the Curb Cut Effect</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-16 12:41</span>
             </div>
         </div>
 </div>
@@ -316,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
