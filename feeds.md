@@ -1,33 +1,26 @@
-<!-- Processing 54 RSS feeds at 2025-09-16 19:01:29 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-09-16 20:01:51 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 17 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Tuesday, September 16, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, September 16, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +36,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/Charlie-Kirk-5-ht-gmh-250916_1758047119799_hpMain_4x3t_384.jpg" alt="Tyler Robinson said he killed Charlie Kirk because he &#x27;spreads too much hate&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/tyler-robinson-set-face-formal-charges-shooting-death/story?id=125614396" target="_blank">Tyler Robinson said he killed Charlie Kirk because he &#x27;spreads too much hate&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-16 19:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/16/syria-jordan-us-unveil-plan-to-restore-security-in-suwayda-after-violence?traffic_source=rss" target="_blank">Syria, Jordan, US unveil plan to restore security in Suwayda after violence</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-16 19:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd92/live/93f892f0-930b-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Eritrean man wins block on removal to France under &#x27;one in, one out&#x27; deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -62,6 +73,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758047267140_nbc_spec_robinson_charges_250916_1920x1080-o3cbvg.jpg" alt="Charlie Kirk suspected shooter charged with aggravated murder, prosecutors seek death penalty" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/charlie-kirk-suspected-shooter-charged-with-aggravated-murder-prosecutors-seek-death-penalty-247695429833" target="_blank">Charlie Kirk suspected shooter charged with aggravated murder, prosecutors seek death penalty</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-16 18:27</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  News conference on Charlie Kirk shooting: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -70,38 +90,20 @@
                 <span class="time">2025-09-16 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250916-pam-bondi-vl-1120a-30e3c3.jpg" alt="Attorney General Pam Bondi says DOJ will be &#x27;targeting&#x27; people who use &#x27;hate speech&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/justice-department/attorney-general-pam-bondi-doj-hate-speech-rcna231633" target="_blank">Attorney General Pam Bondi says DOJ will be &#x27;targeting&#x27; people who use &#x27;hate speech&#x27;</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-16 16:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/16/kenyas-kipyegon-wins-record-fourth-1500m-title-at-world-athletics?traffic_source=rss" target="_blank">Kenya’s Kipyegon wins record fourth 1,500m title at World Athletics</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-16 16:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/16/nx-s1-5543189/house-republican-stopgap-shutdown" target="_blank">Republicans release 7-week spending bill as Democrats warn of a potential shutdown</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-16 16:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/779079/consumer-reports-windows-10-extended-support-microsoft" target="_blank">Consumer Reports asks Microsoft to keep supporting Windows 10</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-16 19:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,15 +147,6 @@
                 <span class="title"><a href="https://arstechnica.com/space/2025/09/a-new-report-finds-chinas-space-program-will-soon-equal-that-of-the-us/" target="_blank">A new report finds China’s space program will soon equal that of the US</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-09-16 16:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c04fc2d23cd18a6a0cef78/master/pass/burner-phone-sec-1368457493.jpg" alt="How to Set Up and Use a Burner Phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-to-set-up-use-burner-phone/" target="_blank">How to Set Up and Use a Burner Phone</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-16 15:44</span>
             </div>
         </div>
 </div>
@@ -312,12 +305,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://www.smbc-comics.com/comics/1757980806-20250916.png" alt="Saturday Morning Breakfast Cereal - Happiness" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/09/15/hedge-wizardry" target="_blank">Hedge Wizardry</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-09-15 19:48</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/happiness-5" target="_blank">Saturday Morning Breakfast Cereal - Happiness</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-09-16 15:20</span>
             </div>
         </div>
 </div>
@@ -325,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 144 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
