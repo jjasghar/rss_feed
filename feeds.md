@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-16 13:08:55 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-16 14:01:57 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Error processing https://ubuntu.com/blog/feed: The read operation timed out -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, September 16, 2025 - 13:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, September 16, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -66,6 +62,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b10/live/c2545e70-92f4-11f0-84c8-99de564f0440.png" alt="Starmer orders investigation into MI5 after BBC exposed false evidence in spy case" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn834zwe83lo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer orders investigation into MI5 after BBC exposed false evidence in spy case</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-16 11:37</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -92,20 +97,29 @@
                 <span class="time">2025-09-16 10:03</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/uk-news/2025/sep/16/kenya-seeks-arrest-former-british-soldier-alleged-agnes-wanjiru" target="_blank">Kenya seeks arrest of former British soldier over alleged murder of Agnes Wanjiru</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-09-16 10:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/16/salesforce-launches-missonforce-a-national-security-focused-business-unit/" target="_blank">Salesforce launches ‘Missonforce,’ a national security-focused business unit</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-16 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/778121/roku-tv-os-aurzen-d1r-cube-smart-projector" target="_blank">This is the first Roku TV smart projector</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-16 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -142,24 +156,6 @@
                 <span class="time">2025-09-16 05:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/774151/amazon-october-prime-day-fall-dates-2025" target="_blank">Amazon’s next Prime Day sale is happening on October 7th</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-16 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/15/nothing-closes-200m-series-c-led-by-tiger-global-plans-ai-first-device-launch/" target="_blank">Nothing closes $200M Series C led by Tiger Global, plans AI-first device launch</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-16 04:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,6 +168,24 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/09/16/what-an-mcp-implementation-looks-like-at-a-crm-company/" target="_blank">What an MCP implementation looks like at a CRM company</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-09-16 19:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/navidreza80/heres-how-far-ive-come-after-7-days-of-grinding-on-system-design-55j3" target="_blank">Here’s how far I’ve come after 7 days of grinding on system design.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-16 13:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-ROCm-7.0-Released" target="_blank">AMD ROCm 7.0 Officially Released With Many Significant Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-16 13:00</span>
             </div>
         </div>
 <div class="story">
@@ -201,24 +215,6 @@
                 <span class="time">2025-09-16 12:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vino123/built-an-all-in-one-ai-tool-to-turn-software-development-chaos-into-structure-need-your-3lk" target="_blank">Built an all in one 🤖AI tool to turn software development chaos into structure - need your feedback! [Use it for FREE]</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-16 11:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Fedora-43-Beta-Released" target="_blank">Fedora 43 Beta ISOs Released For Testing This Leading-Edge Linux OS</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-16 11:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/MS-0916-Mobile-Suit-Gundam-Amuro-Ray.jpg" alt="The Casting Rumors for the ‘Gundam’ Movie Are Only Getting Weirder" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/mobile-suit-gundam-movie-benson-boone-sydney-sweeney-2000659220" target="_blank">The Casting Rumors for the ‘Gundam’ Movie Are Only Getting Weirder</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-16 14:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Robert-Redford-at-a-Press-Conference-Supporting-.jpg?fit=1080%2C717&amp;quality=60&amp;ssl=1" alt="Robert Redford dead at 89" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/16/robert-redford-dead-at-89.html" target="_blank">Robert Redford dead at 89</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-16 13:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/robert-redford-captain-america-civil-war.jpg" alt="Hollywood Legend Robert Redford Has Died at Age 89" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -274,24 +288,6 @@
                 <span class="time">2025-09-15 23:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/longwalkkids.jpg" alt="‘The Long Walk’ Star Garrett Wareing on His Character’s Big Surprise" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/long-walker-spoilers-billy-stebbins-garrett-wareing-mark-hamill-2000658947" target="_blank">‘The Long Walk’ Star Garrett Wareing on His Character’s Big Surprise</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-15 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/war2.jpg" alt="Ice Cube Explains How That Awful War Of The Worlds Movie Happened" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/ice-cube-war-of-the-worlds-amazon-awful-worst-movie-kai-cenat-2000625785" target="_blank">Ice Cube Explains How That Awful War Of The Worlds Movie Happened</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-15 21:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 13:09 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
