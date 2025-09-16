@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-16 00:04:28 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-09-16 01:29:02 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, September 16, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, September 16, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/15/nx-s1-5539252/lisa-cook-fed-trump-firing-court" target="_blank">Appeals court says Lisa Cook can stay on the Federal Reserve board -- for now</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-16 00:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-trump-zelenskyy_6994969.jpg?20250819035248" alt="Zelenskyy makes demand of Trump - and issues warning to NATO" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/zelenskyy-makes-demand-of-trump-and-issues-warning-to-nato-13431947" target="_blank">Zelenskyy makes demand of Trump - and issues warning to NATO</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-15 22:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757977992015_nn_sgo_nbcnews_vaccine_rates_report_250915_1920x1080-86ie4a.jpg" alt="NBC News investigation finds steep decline in childhood vaccination rates" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/nbc-news-investigation-finds-steep-decline-in-childhood-vaccination-rates-247628357985" target="_blank">NBC News investigation finds steep decline in childhood vaccination rates</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-15 22:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/venezuela-ht-er-250915_1757975110091_hpMain_4x3t_384.jpg" alt="3 killed in US strike on an 2nd alleged Venezuelan drug boat, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,33 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cx2jel4gyezo?at_medium=RSS&at_campaign=rss" target="_blank">US destroys alleged Venezuelan drug boat, killing three</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-15 20:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1757967926067_now_mtp_brk_trump_boat_strike_250915_1920x1080-u8acln.jpg" alt="Trump says U.S. military carried out strike targeting drug cartel boat from Venezuela" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/trump-says-u-s-military-carried-out-strike-targeting-drug-cartel-boat-from-venezuela-247623237874" target="_blank">Trump says U.S. military carried out strike targeting drug cartel boat from Venezuela</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-15 20:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/15/nx-s1-5542176/jd-vance-charlie-kirk-show" target="_blank">JD Vance hosts &#x27;The Charlie Kirk Show,&#x27; paying tribute with top White House officials</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-15 19:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/9/15/tiktok-ban-in-flux-as-white-house-announces-china-us-framework-deal?traffic_source=rss" target="_blank">TikTok ban in flux as White House announces China-US framework deal</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-15 19:30</span>
             </div>
         </div>
 </div>
@@ -166,6 +168,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ayako_yk/the-lifecycle-of-useeffect-synchronization-in-react-1ge6" target="_blank">The Lifecycle of useEffect: Synchronization in React</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-16 01:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2017/07/tux-gaming-linux.jpg?resize=406%2C232&amp;ssl=1" alt="GNOME’s Tetris Clone Gets ‘Significant’ Changes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/gnome-tetris-clone-gets-major-update" target="_blank">GNOME’s Tetris Clone Gets ‘Significant’ Changes</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-15 22:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-ABMC-TIP-Queued" target="_blank">AMD ABMC Expected To Go Upstream For Linux 6.18</a></span>
                 <span class="feed">Phoronix</span>
@@ -199,24 +219,6 @@
                 <span class="time">2025-09-15 18:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/wsmithparsec/the-rise-of-kiro-as-an-agentic-ide-for-ai-development-4d93" target="_blank">The Rise of Kiro as an Agentic IDE for AI Development</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-15 18:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sazardev/transform-business-productivity-with-devops-culture-49ah" target="_blank">Transform Business Productivity with DevOps Culture</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-15 17:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +238,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/bladerunner2049.jpg" alt="The Tesla ‘Blade Runner 2049’ AI Lawsuit Just Hit an Interesting Snag" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-tesla-blade-runner-2049-ai-lawsuit-just-hit-an-interesting-snag-2000659087" target="_blank">The Tesla ‘Blade Runner 2049’ AI Lawsuit Just Hit an Interesting Snag</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-15 23:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/longwalkkids.jpg" alt="‘The Long Walk’ Star Garrett Wareing on His Character’s Big Surprise" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +290,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/15/trump-has-the-law-broken-to-honor-a-traitor-confederate-general-robert-e-lee.html" target="_blank">Trump has the law broken to honor a traitor,  Confederate General Robert E. Lee</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-15 20:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/Hollow-Knight_-Silksong-All-Seth-Interactions-YouTube-0-0-14.jpeg" alt="Silksong Memorializes Fan Who Lost Battle With Cancer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/silksong-hollow-knight-team-cherry-seth-goldman-2000625769" target="_blank">Silksong Memorializes Fan Who Lost Battle With Cancer</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-15 20:24</span>
             </div>
         </div>
 </div>
@@ -336,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 268 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
