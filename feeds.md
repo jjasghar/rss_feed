@@ -1,37 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-09-16 01:29:02 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-16 02:25:37 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Tuesday, September 16, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Tuesday, September 16, 2025 - 02:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +57,15 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/15/nx-s1-5539252/lisa-cook-fed-trump-firing-court" target="_blank">Appeals court says Lisa Cook can stay on the Federal Reserve board -- for now</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-16 00:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/16/gaza-city-residents-forced-to-flee-as-israel-carries-out-intense-strikes?traffic_source=rss" target="_blank">Gaza City residents forced to flee as Israel carries out intense strikes</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-16 00:40</span>
             </div>
         </div>
 <div class="story">
@@ -90,15 +102,6 @@
                 <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/09/15/nx-s1-5542390/cdc-vaccine-advisers-committee" target="_blank">5 new members added to CDC vaccine advisory panel ahead of key meeting</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-15 21:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f40/live/3bfcd330-9271-11f0-b8e5-3be75a11e2ba.png" alt="US destroys alleged Venezuelan drug boat, killing three" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2jel4gyezo?at_medium=RSS&at_campaign=rss" target="_blank">US destroys alleged Venezuelan drug boat, killing three</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-15 20:31</span>
             </div>
         </div>
 </div>
@@ -169,9 +172,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hejhdiss/raw-sound-as-building-blocks-next-gen-ai-speech-creation-fpb" target="_blank">Raw Sound as Building Blocks: Next-Gen AI Speech Creation</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-16 02:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/ayako_yk/the-lifecycle-of-useeffect-synchronization-in-react-1ge6" target="_blank">The Lifecycle of useEffect: Synchronization in React</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-16 01:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Introducing the MCP Registry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/introducing-mcp-registry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Introducing the MCP Registry</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-15 23:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Godot-4.5-Released" target="_blank">Godot 4.5 Open-Source Game Engine Released With A Multitude Of Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-15 22:24</span>
             </div>
         </div>
 <div class="story">
@@ -190,33 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/AMD-ABMC-TIP-Queued" target="_blank">AMD ABMC Expected To Go Upstream For Linux 6.18</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-15 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.linux.com/news/sep25-training-promo/" target="_blank">Back to School. Back to Skills. Save 40% Sitewide!</a></span>
-                <span class="feed">Linux.com</span>
-                <span class="time">2025-09-15 20:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18631873&w=600" alt="From Laptop to Cloud: Building and Scaling AI Agents With Docker Compose and Offload" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-agents-docker-compose-cloud-offload" target="_blank">From Laptop to Cloud: Building and Scaling AI Agents With Docker Compose and Offload</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-15 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2023/10/nvidia-logo-on-green.jpg?resize=406%2C232&amp;ssl=1" alt="Canonical Make It Easier to Install NVIDIA CUDA on Ubuntu" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/canonical-adds-nvidia-cuda-ubuntu-repos" target="_blank">Canonical Make It Easier to Install NVIDIA CUDA on Ubuntu</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-15 18:50</span>
             </div>
         </div>
 </div>
@@ -338,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 41 | 📸 With Images: 268 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 02:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
