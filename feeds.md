@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-16 05:02:20 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-16 06:02:24 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, September 16, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, September 16, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +47,48 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9d9/live/c8e5c450-92c1-11f0-84c8-99de564f0440.jpg" alt="Israel escalates bombardment as defence minister says &#x27;Gaza is burning&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c749q1245pwo?at_medium=RSS&at_campaign=rss" target="_blank">Israel escalates bombardment as defence minister says &#x27;Gaza is burning&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-16 05:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/9/16/us-appeals-court-blocks-trumps-bid-to-fire-lisa-cook-from-federal-reserve?traffic_source=rss" target="_blank">US appeals court blocks Trump’s bid to fire Lisa Cook from Federal Reserve</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-16 05:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/16/g-s1-88985/u-s-military-again-targeted-boat-carrying-drugs-venezuela" target="_blank">Trump says the U.S. military targeted a boat allegedly carrying drugs from Venezuela</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-16 05:31</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/16/trump-orders-national-guard-troops-to-memphis-in-latest-military-deployment?traffic_source=rss" target="_blank">Trump orders National Guard troops to Memphis in latest military deployment</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-16 04:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/389b/live/674d8820-9287-11f0-a951-dbb92f84a2fc.jpg" alt="Google owner reveals £5bn AI investment in UK ahead of Trump visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crmek723dz9o?at_medium=RSS&at_campaign=rss" target="_blank">Google owner reveals £5bn AI investment in UK ahead of Trump visit</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-16 04:00</span>
             </div>
         </div>
 <div class="story">
@@ -63,47 +100,38 @@
                 <span class="time">2025-09-16 04:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/16/suspect-in-charlie-kirks-murder-linked-to-scene-by-dna-fbi-chief-says?traffic_source=rss" target="_blank">Suspect in Charlie Kirk’s murder linked to scene by DNA, FBI chief says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-16 03:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2025/9/16/sri-lanka-bangladesh-nepal-is-south-asia-fertile-for-gen-z-revolutions?traffic_source=rss" target="_blank">Sri Lanka, Bangladesh, Nepal: Is South Asia fertile for Gen Z revolutions?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-16 02:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/15/nx-s1-5539252/lisa-cook-fed-trump-firing-court" target="_blank">Appeals court says Lisa Cook can stay on the Federal Reserve board -- for now</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-16 00:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/16/gaza-city-residents-forced-to-flee-as-israel-carries-out-intense-strikes?traffic_source=rss" target="_blank">Gaza City residents forced to flee as Israel carries out intense strikes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-16 00:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" alt="Up to $2,000 Off LG Promo Codes &amp; Coupons" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/lg-promo-code/" target="_blank">Up to $2,000 Off LG Promo Codes &amp; Coupons</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-16 05:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/774151/amazon-october-prime-day-fall-dates-2025" target="_blank">Amazon’s next Prime Day sale is happening on October 7th</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-16 05:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/15/nothing-closes-200m-series-c-led-by-tiger-global-plans-ai-first-device-launch/" target="_blank">Nothing closes $200M Series C led by Tiger Global, plans AI-first device launch</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-16 04:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/ng23encap1-500x500.jpg" alt="Northrop Grumman’s new spacecraft is a real chonker" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -131,33 +159,6 @@
                 <span class="time">2025-09-15 21:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/15/rodatherm-energy-wants-to-make-geothermal-more-efficient-but-will-it-be-cheaper/" target="_blank">Rodatherm Energy wants to make geothermal more efficient, but will it be cheaper?</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-15 21:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2221878046-500x500.jpg" alt="RFK Jr. adds more anti-vaccine members to CDC vaccine advisory panel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/09/meet-the-latest-anti-vaccine-voices-on-rfk-jr-s-cdc-advisory-panel/" target="_blank">RFK Jr. adds more anti-vaccine members to CDC vaccine advisory panel</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-15 21:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/778472/facebook-gave-our-data-to-cambridge-analytica-and-all-i-got-was-this-38-36" target="_blank">Facebook gave our data to Cambridge Analytica and all I got was this $38.36</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-15 20:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -166,10 +167,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/09/16/what-an-mcp-implementation-looks-like-at-a-crm-company/" target="_blank">What an MCP implementation looks like at a CRM company</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-09-16 19:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/alekseiberezkin/stop-memorizing-start-scripting-my-journey-to-cli-bits-79h" target="_blank">Stop Memorizing, Start Scripting: My Journey to cli-bits</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-16 04:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Blackhole-SoC-Patches" target="_blank">Linux Patches Posted For Enabling The Tenstorrent Blackhole SoC</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-16 04:00</span>
             </div>
         </div>
 <div class="story">
@@ -184,37 +203,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://alexplescan.com/posts/2025/09/15/gifs/" target="_blank">Just for fun: animating a mosaic of 90s GIFs</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-09-16 03:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/madgan95/introduction-to-us-stock-market-5g32" target="_blank">Introduction to US Stock Market</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-16 02:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hejhdiss/raw-sound-as-building-blocks-next-gen-ai-speech-creation-fpb" target="_blank">Raw Sound as Building Blocks: Next-Gen AI Speech Creation</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-16 02:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ayako_yk/the-lifecycle-of-useeffect-synchronization-in-react-1ge6" target="_blank">The Lifecycle of useEffect: Synchronization in React</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-16 01:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.infoq.com/styles/static/images/logo/logo_bigger.jpg" alt="Introducing the MCP Registry" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/introducing-mcp-registry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Introducing the MCP Registry</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-15 23:59</span>
             </div>
         </div>
 </div>
@@ -327,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
