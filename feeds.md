@@ -1,40 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-16 11:01:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-16 12:02:43 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Tuesday, September 16, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, September 16, 2025 - 12:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/9/16/here-is-the-reason-why-markets-in-gaza-are-full-while-we-starve?traffic_source=rss" target="_blank">Here is the reason why markets in Gaza are ‘full’ while we starve</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-16 11:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +102,38 @@
                 <span class="time">2025-09-16 09:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d70/live/eca4eba0-92c1-11f0-aabe-7b11bbfd55ab.jpg" alt="State pension likely to rise by 4.7% in April" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c62lnzdndkeo?at_medium=RSS&at_campaign=rss" target="_blank">State pension likely to rise by 4.7% in April</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-16 09:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/777541/meta-connect-2025-what-to-expect" target="_blank">Meta&amp;#8217;s new smart glasses are coming this week</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-16 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/robot_church-500x500.jpg" alt="Millions turn to AI chatbots for spiritual guidance and confession" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/09/millions-turn-to-ai-chatbots-for-spiritual-guidance-and-confession/" target="_blank">Millions turn to AI chatbots for spiritual guidance and confession</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-16 11:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68c48919e1492c11d224ada4/master/pass/091225-culture-human-design.jpg" alt="Human Design Is Blowing Up. Following It Might Make You Leave Your Spouse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/human-design-is-blowing-up-following-it-might-make-you-leave-your-spouse/" target="_blank">Human Design Is Blowing Up. Following It Might Make You Leave Your Spouse</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-16 10:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" alt="Up to $2,000 Off LG Promo Codes &amp; Coupons" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -136,33 +161,6 @@
                 <span class="time">2025-09-16 04:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/ng23encap1-500x500.jpg" alt="Northrop Grumman’s new spacecraft is a real chonker" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/09/northrop-grummans-new-spacecraft-is-a-real-chonker/" target="_blank">Northrop Grumman’s new spacecraft is a real chonker</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-15 22:22</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/23025443/best-xbox-controllers-one-series-x-s" target="_blank">The best Xbox controller to buy right now</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-15 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c86db22eb1f38f93ca5ecb/master/pass/WIRED-AI-Summit-Roundup-Business-2235586965.jpg" alt="How AI Is Upending Politics, Tech, the Media, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/wired-ai-summit-tech-politics-media/" target="_blank">How AI Is Upending Politics, Tech, the Media, and More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-15 21:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -175,6 +173,33 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/09/16/what-an-mcp-implementation-looks-like-at-a-crm-company/" target="_blank">What an MCP implementation looks like at a CRM company</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-09-16 19:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vino123/built-an-all-in-one-ai-tool-to-turn-software-development-chaos-into-structure-need-your-3lk" target="_blank">Built an all in one 🤖AI tool to turn software development chaos into structure - need your feedback! [Use it for FREE]</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-16 11:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Fedora-43-Beta-Released" target="_blank">Fedora 43 Beta ISOs Released For Testing This Leading-Edge Linux OS</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-16 11:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18620442&w=600" alt="Super Massively Distributed Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/super-massively-distributed-systems" target="_blank">Super Massively Distributed Systems</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-16 11:00</span>
             </div>
         </div>
 <div class="story">
@@ -195,33 +220,6 @@
                 <span class="time">2025-09-16 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/linux-security-rootkit/en/headerimage/generatedHeaderImage-1758009408850.jpg" alt="Linux Security Tools Bypassed by io_uring Rootkit Technique, ARMO Research Reveals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/linux-security-rootkit/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Linux Security Tools Bypassed by io_uring Rootkit Technique, ARMO Research Reveals</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-16 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-ROCm-7.0-Rolling-Out" target="_blank">AMD ROCm 7.0 Begins Rocking Out On GitHub</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-16 09:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/fedora-43-beta" target="_blank">Fedora Workstation 43 Beta Is Running Well On AMD Strix Halo / Framework Desktop</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-16 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,9 +229,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/lawsuit-about-whatsapp-security.html" target="_blank">Lawsuit About WhatsApp Security</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/microsoft-still-uses-rc4.html" target="_blank">Microsoft Still Uses RC4</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2025-09-15 11:05</span>
+                <span class="time">2025-09-16 11:06</span>
             </div>
         </div>
 </div>
@@ -323,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 12:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
