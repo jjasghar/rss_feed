@@ -1,34 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-09-16 09:01:55 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-16 10:01:46 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 6 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, September 16, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Tuesday, September 16, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +53,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/633f/live/df611810-92df-11f0-b391-6936825093bd.jpg" alt="Israel has committed genocide in Gaza, UN commission of inquiry says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c8641wv0n4go?at_medium=RSS&at_campaign=rss" target="_blank">Israel has committed genocide in Gaza, UN commission of inquiry says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-16 09:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/16/un-inquiry-finds-israel-committing-genocide-in-gaza?traffic_source=rss" target="_blank">UN inquiry finds Israel committing genocide in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-16 09:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d70/live/eca4eba0-92c1-11f0-aabe-7b11bbfd55ab.jpg" alt="State pension likely to rise by 4.7% in April" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c62lnzdndkeo?at_medium=RSS&at_campaign=rss" target="_blank">State pension likely to rise by 4.7% in April</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-16 09:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/16/g-s1-88926/fbi-director-patel-testimony-congress" target="_blank">FBI Director Patel set to testify on Capitol Hill amid questions over his leadership</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-16 09:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -60,42 +104,6 @@
                 <span class="title"><a href="https://news.sky.com/story/un-commission-says-israel-is-committing-genocide-in-gaza-13431987" target="_blank">UN Commission says Israel is committing genocide in Gaza</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-09-16 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250728-donald-trump-keir-starmer-mn-1340-19df63.jpg" alt="Trump heads for state visit to an unsettled, unhappy Britain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/united-kingdom/trump-state-visit-britain-starmer-king-charles-royals-rcna231109" target="_blank">Trump heads for state visit to an unsettled, unhappy Britain</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-16 06:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9d9/live/c8e5c450-92c1-11f0-84c8-99de564f0440.jpg" alt="Israel escalates bombardment as defence minister says &#x27;Gaza is burning&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c749q1245pwo?at_medium=RSS&at_campaign=rss" target="_blank">Israel escalates bombardment as defence minister says &#x27;Gaza is burning&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-16 05:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/9/16/us-appeals-court-blocks-trumps-bid-to-fire-lisa-cook-from-federal-reserve?traffic_source=rss" target="_blank">US appeals court blocks Trump’s bid to fire Lisa Cook from Federal Reserve</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-16 05:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/16/g-s1-88985/u-s-military-again-targeted-boat-carrying-drugs-venezuela" target="_blank">Trump says the U.S. military targeted a boat allegedly carrying drugs from Venezuela</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-16 05:31</span>
             </div>
         </div>
 </div>
@@ -172,6 +180,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwhu3j6rkw3iwdm96jqeg.png" alt="FastAPI Authentication Fundamentals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/masteringbackend/fastapi-authentication-fundamentals-4bdn" target="_blank">FastAPI Authentication Fundamentals</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-16 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/fedora-43-beta" target="_blank">Fedora Workstation 43 Beta Is Running Well On AMD Strix Halo / Framework Desktop</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-16 09:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -196,24 +222,6 @@
                 <span class="title"><a href="https://dev.to/itsmearka/react-typescript-async-functions-1307" target="_blank">React + TypeScript: async functions</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-16 06:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alekseiberezkin/stop-memorizing-start-scripting-my-journey-to-cli-bits-79h" target="_blank">Stop Memorizing, Start Scripting: My Journey to cli-bits</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-16 04:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Blackhole-SoC-Patches" target="_blank">Linux Patches Posted For Enabling The Tenstorrent Blackhole SoC</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-16 04:00</span>
             </div>
         </div>
 </div>
@@ -317,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
