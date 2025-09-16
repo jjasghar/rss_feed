@@ -1,26 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-16 20:01:51 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-09-16 21:01:46 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 17 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, September 16, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, September 16, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/16/prosecutor-to-seek-death-penalty-for-kirk-shooting-suspect?traffic_source=rss" target="_blank">Prosecutor to seek death penalty for Kirk shooting suspect</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-16 20:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/16/nx-s1-5543413/tiktok-trump-ban-china" target="_blank">Trump extends TikTok reprieve as deal nears</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-16 20:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/Charlie-Kirk-5-ht-gmh-250916_1758047119799_hpMain_4x3t_384.jpg" alt="Tyler Robinson said he killed Charlie Kirk because he &#x27;spreads too much hate&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,29 +103,38 @@
                 <span class="time">2025-09-16 18:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758047267140_nbc_spec_robinson_charges_250916_1920x1080-o3cbvg.jpg" alt="Charlie Kirk suspected shooter charged with aggravated murder, prosecutors seek death penalty" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/charlie-kirk-suspected-shooter-charged-with-aggravated-murder-prosecutors-seek-death-penalty-247695429833" target="_blank">Charlie Kirk suspected shooter charged with aggravated murder, prosecutors seek death penalty</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-16 18:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  News conference on Charlie Kirk shooting: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  News conference on Charlie Kirk shooting: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-16 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68c990923d8d455d1e07c475/master/pass/Model-Behavior-How-People-Actually-Use-ChatGPT.jpg" alt="OpenAI Rolls Out Teen Safety Features Amid Growing Scrutiny" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/openai-launches-teen-safety-features/" target="_blank">OpenAI Rolls Out Teen Safety Features Amid Growing Scrutiny</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-16 20:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/779053/sam-altman-says-chatgpt-will-stop-talking-about-suicide-with-teens" target="_blank">Sam Altman says ChatGPT will stop talking about suicide with teens</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-16 20:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/16/same-day-delivery-comes-to-space-as-impulse-promises-satellite-transport-in-hours-not-months/" target="_blank">Same-day delivery comes to space, as Impulse promises satellite transport in hours, not months</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-16 20:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -122,33 +162,6 @@
                 <span class="time">2025-09-16 18:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/778972/right-wing-harassment-firings-charlie-kirk" target="_blank">The right wing is creating a society of snitches</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-16 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/16/figure-reaches-39b-valuation-in-latest-funding-round/" target="_blank">Figure reaches $39B valuation in latest funding round</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-16 16:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/12/GettyImages-2183848672-500x500.jpg" alt="A new report finds China’s space program will soon equal that of the US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/09/a-new-report-finds-chinas-space-program-will-soon-equal-that-of-the-us/" target="_blank">A new report finds China’s space program will soon equal that of the US</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-16 16:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -157,10 +170,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Rust-DRM-Drivers-Linux-6.18-Tyr" target="_blank">Tyr Driver Being Submitted For Linux 6.18 As Rust-Based Arm Mali Driver</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-16 20:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2025/09/16/what-an-mcp-implementation-looks-like-at-a-crm-company/" target="_blank">What an MCP implementation looks like at a CRM company</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-09-16 19:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18624618&w=600" alt="How to Migrate from Java 8 to Java 17+ Using Amazon Q Developer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/upgrading-java-version-using-amazon-q-developer" target="_blank">How to Migrate from Java 8 to Java 17+ Using Amazon Q Developer</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-16 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -188,24 +219,6 @@
                 <span class="title"><a href="https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit" target="_blank">Waymo has received our pilot permit allowing for commercial operations at SFO</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-09-16 16:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/meet-the-github-mcp-registry-the-fastest-way-to-discover-mcp-servers/" target="_blank">Meet the GitHub MCP Registry: The fastest way to discover MCP Servers</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-09-16 16:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/ed8da31d-9320-423a-a191-eed404025666_1480x874.png" alt="How tech companies measure the impact of AI on software development" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/how-tech-companies-measure-the-impact-of-ai" target="_blank">How tech companies measure the impact of AI on software development</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-09-16 16:09</span>
             </div>
         </div>
 </div>
@@ -236,6 +249,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K5A0JSCPTB9J92X3337M7BK6/hero-image.png" alt="YouTube Livestreams Are About to Get Much More Mobile Friendly" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/youtube-livestreams-are-about-to-get-much-more-mobile-friendly?utm_medium=RSS" target="_blank">YouTube Livestreams Are About to Get Much More Mobile Friendly</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-16 20:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/sdr.jpg?fit=1200%2C700&amp;quality=60&amp;ssl=1" alt="Weather balloons, Russian &quot;buzzer&quot; stations, and more: 50 things you can listen to with a $30 software defined radio" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/16/weather-balloons-russian-buzzer-stations-and-more-50-things-you-can-listen-to-with-a-30-software-defined-radio.html" target="_blank">Weather balloons, Russian &quot;buzzer&quot; stations, and more: 50 things you can listen to with a $30 software defined radio</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-16 19:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/tarkov.jpg" alt="Escape From Tarkov On Steam Will Require A Separate Purchase" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +303,6 @@
                 <span class="time">2025-09-16 17:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JXB7HE8SVPYYYW9RP720WPBM/hero-image.jpg" alt="All of the Best Hidden Features in iOS 26" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/all-the-best-ios-26-hidden-features?utm_medium=RSS" target="_blank">All of the Best Hidden Features in iOS 26</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-16 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/KpopDemonHunters_ProRes422HQ_SDR_2ch_20250424.00_28_26_16.Still029_L-1.jpg" alt="KPop Demon Hunters Songwriter Reportedly Says He Used ChatGPT To Help Write One Of Its Biggest Songs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/kpop-demon-hunters-soda-pop-ai-vince-chatgpt-soundtrack-2000626044" target="_blank">KPop Demon Hunters Songwriter Reportedly Says He Used ChatGPT To Help Write One Of Its Biggest Songs</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-16 16:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -318,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 255 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
