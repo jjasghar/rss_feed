@@ -1,44 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-16 04:01:58 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-16 05:02:20 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 35 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, September 16, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, September 16, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/16/trump-orders-national-guard-troops-to-memphis-in-latest-military-deployment?traffic_source=rss" target="_blank">Trump orders National Guard troops to Memphis in latest military deployment</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-16 04:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/389b/live/674d8820-9287-11f0-a951-dbb92f84a2fc.jpg" alt="Google-owner reveals £5bn AI investment in UK ahead of Trump visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/crmek723dz9o?at_medium=RSS&at_campaign=rss" target="_blank">Google-owner reveals £5bn AI investment in UK ahead of Trump visit</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-16 04:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,24 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/16/gaza-city-residents-forced-to-flee-as-israel-carries-out-intense-strikes?traffic_source=rss" target="_blank">Gaza City residents forced to flee as Israel carries out intense strikes</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-16 00:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/bondi-1-abc-er-250915_1757973364826_hpMain_4x3t_384.jpg" alt="Attorney General Pam Bondi claims &#x27;left-wing radicals&#x27; killed Charlie Kirk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/attorney-general-pam-bondi-claims-left-wing-radicals/story?id=125604411" target="_blank">Attorney General Pam Bondi claims &#x27;left-wing radicals&#x27; killed Charlie Kirk</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-15 23:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-trump-zelenskyy_6994969.jpg?20250819035248" alt="Zelenskyy makes demand of Trump - and issues warning to NATO" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/zelenskyy-makes-demand-of-trump-and-issues-warning-to-nato-13431947" target="_blank">Zelenskyy makes demand of Trump - and issues warning to NATO</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-15 22:53</span>
             </div>
         </div>
 </div>
@@ -173,6 +164,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alekseiberezkin/stop-memorizing-start-scripting-my-journey-to-cli-bits-79h" target="_blank">Stop Memorizing, Start Scripting: My Journey to cli-bits</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-16 04:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fthocio221d7ag257l3uv.png" alt="Part-60: Google Cloud Networking – Cloud NAT Gateway with Internal-Only VM" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -215,15 +215,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/09/introducing-mcp-registry/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Introducing the MCP Registry</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-09-15 23:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Godot-4.5-Released" target="_blank">Godot 4.5 Open-Source Game Engine Released With A Multitude Of Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-15 22:24</span>
             </div>
         </div>
 </div>
@@ -273,6 +264,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/12/dui-e1757971791142.jpeg?fit=768%2C513&amp;quality=60&amp;ssl=1" alt="Taxpayers footing the bill for officers charging sober drivers with DUI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/15/taxpayers-footing-the-bill-for-officers-charging-sober-drivers-with-dui.html" target="_blank">Taxpayers footing the bill for officers charging sober drivers with DUI</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-15 21:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/06/everest-e1755118144565.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="China&#x27;s &quot;first&quot; Everest ascent: mystery, intrigue, and missing tents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -288,15 +288,6 @@
                 <span class="title"><a href="https://gizmodo.com/your-valdobbiadene-is-at-risk-of-shattering-2000659020" target="_blank">Your Valdobbiadene Is at Risk of Shattering!</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-15 21:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/09/trump-shutterstock_1190031697.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Trump has the law broken to honor a traitor,  Confederate General Robert E. Lee" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/15/trump-has-the-law-broken-to-honor-a-traitor-confederate-general-robert-e-lee.html" target="_blank">Trump has the law broken to honor a traitor,  Confederate General Robert E. Lee</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-15 20:43</span>
             </div>
         </div>
 </div>
@@ -336,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
