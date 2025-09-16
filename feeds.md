@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-16 08:02:05 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-16 09:01:55 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 1 new posts out of 29 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, September 16, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, September 16, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/16/nx-s1-5543007/israel-military-gaza" target="_blank">Israel&#x27;s military says its expanded operation in Gaza City has begun</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-16 08:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-gaza-israel_7021263.jpg?20250916072100" alt="UN Commission says Israel is committing genocide in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/un-commission-says-israel-is-committing-genocide-in-gaza-13431987" target="_blank">UN Commission says Israel is committing genocide in Gaza</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-16 07:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-07/250728-donald-trump-keir-starmer-mn-1340-19df63.jpg" alt="Trump heads for state visit to an unsettled, unhappy Britain" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,24 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/16/g-s1-88985/u-s-military-again-targeted-boat-carrying-drugs-venezuela" target="_blank">Trump says the U.S. military targeted a boat allegedly carrying drugs from Venezuela</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-16 05:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/16/trump-orders-national-guard-troops-to-memphis-in-latest-military-deployment?traffic_source=rss" target="_blank">Trump orders National Guard troops to Memphis in latest military deployment</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-16 04:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/389b/live/674d8820-9287-11f0-a951-dbb92f84a2fc.jpg" alt="Google owner reveals £5bn AI investment in UK ahead of Trump visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/crmek723dz9o?at_medium=RSS&at_campaign=rss" target="_blank">Google owner reveals £5bn AI investment in UK ahead of Trump visit</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-16 04:00</span>
             </div>
         </div>
 </div>
@@ -178,6 +174,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jaycrys/building-a-legal-document-intelligence-platform-with-bigquery-ai-99-efficiency-implementation-5ajo" target="_blank">Building a Legal Document Intelligence Platform with BigQuery AI: 99% Efficiency Implementation Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-16 08:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-USBIO-USB-Drivers-6.18" target="_blank">Intel USBIO USB IO Expander Drivers Expected To Be Merged For Linux 6.18</a></span>
                 <span class="feed">Phoronix</span>
@@ -211,15 +216,6 @@
                 <span class="time">2025-09-16 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fthocio221d7ag257l3uv.png" alt="Part-60: Google Cloud Networking – Cloud NAT Gateway with Internal-Only VM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/latchudevops/part-60-google-cloud-networking-cloud-nat-gateway-with-internal-only-vm-5c2p" target="_blank">Part-60: Google Cloud Networking – Cloud NAT Gateway with Internal-Only VM</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-16 03:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/psychedelic-mushrooms-main-e1757967908186.jpg" alt="Some Magic Mushroom Edibles Have Zero Psilocybin—Just Junk That Still Gets You High" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/some-magic-mushroom-edibles-have-zero-psilocybin-just-junk-that-still-gets-you-high-2000659049" target="_blank">Some Magic Mushroom Edibles Have Zero Psilocybin—Just Junk That Still Gets You High</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-16 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/bladerunner2049.jpg" alt="The Tesla ‘Blade Runner 2049’ AI Lawsuit Just Hit an Interesting Snag" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +289,6 @@
                 <span class="time">2025-09-15 21:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/costco-sign.jpg" alt="Your Valdobbiadene Is at Risk of Shattering!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/your-valdobbiadene-is-at-risk-of-shattering-2000659020" target="_blank">Your Valdobbiadene Is at Risk of Shattering!</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-15 21:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
