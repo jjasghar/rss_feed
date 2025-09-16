@@ -1,36 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-09-16 17:01:42 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-16 18:02:42 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Generated 10 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, September 16, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Tuesday, September 16, 2025 - 18:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +54,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/Live/abc_news_live-abc-ml-250210_1739199021469_hpMain_4x3t_384.jpg" alt="LIVE:  News conference on Charlie Kirk shooting: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  News conference on Charlie Kirk shooting: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-16 18:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/16/kenyas-kipyegon-wins-record-fourth-1500m-title-at-world-athletics?traffic_source=rss" target="_blank">Kenya’s Kipyegon wins record fourth 1,500m title at World Athletics</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-16 16:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/16/nx-s1-5543189/house-republican-stopgap-shutdown" target="_blank">Republicans release 7-week spending bill as Democrats warn of a potential shutdown</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-16 16:27</span>
             </div>
         </div>
 <div class="story">
@@ -82,29 +107,20 @@
                 <span class="time">2025-09-16 15:27</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/16/g-s1-88927/ice-raids-trump-life-impact" target="_blank">Has everyday life changed due to increased ICE activity in your area? We want to know</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-16 15:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e22/live/6f455330-9301-11f0-a647-dff301f4a439.jpg" alt="Mandelson red flags were missed or ignored, senior Labour MP says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c147k2zpg68o?at_medium=RSS&at_campaign=rss" target="_blank">Mandelson red flags were missed or ignored, senior Labour MP says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-16 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/778972/right-wing-harassment-firings-charlie-kirk" target="_blank">The right wing is creating a society of snitches</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-16 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +166,6 @@
                 <span class="time">2025-09-16 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/778789/tiktok-us-china-deal-investors-oracle" target="_blank">The China-US deal for TikTok could take another month to work out</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-16 14:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,12 +181,39 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18624989&w=600" alt="Beyond Code: How to Use AI to Modernize Software Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-modernize-software-architecture" target="_blank">Beyond Code: How to Use AI to Modernize Software Architecture</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-16 17:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jppradhan/simple-mcp-tool-using-nodejs-13dm" target="_blank">Simple MCP tool using NodeJS</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-16 16:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit" target="_blank">Waymo has received our pilot permit allowing for commercial operations at SFO</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-16 16:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/meet-the-github-mcp-registry-the-fastest-way-to-discover-mcp-servers/" target="_blank">Meet the GitHub MCP Registry: The fastest way to discover MCP Servers</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-09-16 16:27</span>
             </div>
         </div>
 <div class="story">
@@ -191,38 +225,20 @@
                 <span class="time">2025-09-16 16:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F274998%2F09f57f7f-daec-4303-8766-138cfd1396d9.png" alt="Top 7 Featured DEV Posts of the Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5e1" target="_blank">Top 7 Featured DEV Posts of the Week</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-16 14:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blinry.org/50-things-with-sdr/" target="_blank">Things you can do with a Software Defined Radio (2024)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-16 14:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blinry.org/50-things-with-sdr/" target="_blank">Fifty Things you can do with a Software Defined Radio</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-16 14:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
 <h2 class="section-header">🔒 Security</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/" target="_blank">Self-Replicating Worm Hits 180+ Software Packages</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-09-16 14:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -237,6 +253,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/bf6image.jpg" alt="Battlefield 6 Devs Were Extremely Focused On Optimization And Performance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/battlefield-6-framerate-fps-xbox-series-s-ps5-2000626043" target="_blank">Battlefield 6 Devs Were Extremely Focused On Optimization And Performance</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-16 18:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/splintercell-sam-fisher.jpg" alt="The New ‘Splinter Cell: Deathwatch Trailer’ Is a Dark Slaughterfest" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-new-splinter-cell-deathwatch-trailer-is-a-dark-slaughterfest-2000659431" target="_blank">The New ‘Splinter Cell: Deathwatch Trailer’ Is a Dark Slaughterfest</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-16 17:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JXB7HE8SVPYYYW9RP720WPBM/hero-image.jpg" alt="All of the Best Hidden Features in iOS 26" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/all-the-best-ios-26-hidden-features?utm_medium=RSS" target="_blank">All of the Best Hidden Features in iOS 26</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-16 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/KpopDemonHunters_ProRes422HQ_SDR_2ch_20250424.00_28_26_16.Still029_L-1.jpg" alt="KPop Demon Hunters Songwriter Reportedly Says He Used ChatGPT To Help Write One Of Its Biggest Songs" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,33 +307,6 @@
                 <span class="time">2025-09-16 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2020/09/Screenshotter-YouTube-SylvanEsso-FerrisWheelAnimalCrossingMusicVideo-142.jpg?fit=1280%2C720&amp;quality=60&amp;ssl=1" alt="Making Animal Crossing more real — and more terrifying – with AI chatbots" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/16/making-animal-crossing-more-real-and-more-terrifying-with-ai-chatbots.html" target="_blank">Making Animal Crossing more real — and more terrifying – with AI chatbots</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-16 15:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/MS-0916-Mobile-Suit-Gundam-Amuro-Ray.jpg" alt="The Casting Rumors for the ‘Gundam’ Movie Are Only Getting Weirder" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/mobile-suit-gundam-movie-benson-boone-sydney-sweeney-2000659220" target="_blank">The Casting Rumors for the ‘Gundam’ Movie Are Only Getting Weirder</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-16 14:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Robert-Redford-at-a-Press-Conference-Supporting-.jpg?fit=1080%2C717&amp;quality=60&amp;ssl=1" alt="Robert Redford dead at 89" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/16/robert-redford-dead-at-89.html" target="_blank">Robert Redford dead at 89</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-16 13:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 18:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
