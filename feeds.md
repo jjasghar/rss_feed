@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-15 23:01:35 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-16 00:04:28 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, September 15, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Tuesday, September 16, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -122,6 +123,24 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/68c86db22eb1f38f93ca5ecb/master/pass/WIRED-AI-Summit-Roundup-Business-2235586965.jpg" alt="How AI Is Upending Politics, Tech, the Media, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/wired-ai-summit-tech-politics-media/" target="_blank">How AI Is Upending Politics, Tech, the Media, and More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-15 21:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/15/rodatherm-energy-wants-to-make-geothermal-more-efficient-but-will-it-be-cheaper/" target="_blank">Rodatherm Energy wants to make geothermal more efficient, but will it be cheaper?</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-15 21:48</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/GettyImages-2221878046-500x500.jpg" alt="RFK Jr. adds more anti-vaccine members to CDC vaccine advisory panel" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -137,24 +156,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/778472/facebook-gave-our-data-to-cambridge-analytica-and-all-i-got-was-this-38-36" target="_blank">Facebook gave our data to Cambridge Analytica and all I got was this $38.36</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-15 20:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c85e82b2b1586ca36f8a89/master/pass/Save%20up%20to%20$40%20on%20Our%20Favorite%20Buy-For-Life%20Coffee%20Maker.png" alt="Save $40 on a Handmade Dutch Coffeemaker That&#x27;s Built for Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/save-up-to-dollar40-on-our-favorite-buy-for-life-coffee-maker/" target="_blank">Save $40 on a Handmade Dutch Coffeemaker That&#x27;s Built for Life</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-15 20:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/778334/trump-ice-hyundai-raid-korean-workers" target="_blank">Trump says foreign workers are &amp;#8216;welcome&amp;#8217; after ICE raid in Georgia targets hundreds of South Koreans</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-15 18:39</span>
             </div>
         </div>
 </div>
@@ -254,6 +255,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/06/everest-e1755118144565.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="China&#x27;s &quot;first&quot; Everest ascent: mystery, intrigue, and missing tents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/15/chinas-first-everest-ascent-mystery-intrigue-and-missing-tents.html" target="_blank">China&#x27;s &quot;first&quot; Everest ascent: mystery, intrigue, and missing tents</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-15 21:23</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/costco-sign.jpg" alt="Your Valdobbiadene Is at Risk of Shattering!" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -278,15 +288,6 @@
                 <span class="title"><a href="https://kotaku.com/silksong-hollow-knight-team-cherry-seth-goldman-2000625769" target="_blank">Silksong Memorializes Fan Who Lost Battle With Cancer</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-09-15 20:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2023/03/d4c7e6f59be8577e51eefa955da33532-e1757964970726.jpg" alt="OpenAI Reveals How (and Which) People Are Using ChatGPT" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/openai-how-people-use-chatgpt-2000658906" target="_blank">OpenAI Reveals How (and Which) People Are Using ChatGPT</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-15 20:00</span>
             </div>
         </div>
 </div>
@@ -335,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
