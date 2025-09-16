@@ -1,42 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-09-16 10:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-16 11:01:43 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 33 feeds processed -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Tuesday, September 16, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Tuesday, September 16, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/16/ukrainians-horrified-by-killing-of-refugee-iryna-zarutska-us-culture-wars?traffic_source=rss" target="_blank">Ukrainians horrified by killing of refugee Iryna Zarutska, US culture wars</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-16 10:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/16/g-s1-88997/up-first-newsletter-jd-vance-charlie-kirk-kash-patel-testimony-federal-reserve-interest-rates" target="_blank">JD Vance vows to carry on Kirk&#x27;s legacy. And, the Fed meets to decide interest rates.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-16 10:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/uk-news/2025/sep/16/kenya-seeks-arrest-former-british-soldier-alleged-agnes-wanjiru" target="_blank">Kenya seeks arrest of former British soldier over alleged murder of Agnes Wanjiru</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-09-16 10:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/633f/live/df611810-92df-11f0-b391-6936825093bd.jpg" alt="Israel has committed genocide in Gaza, UN commission of inquiry says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,33 +102,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c62lnzdndkeo?at_medium=RSS&at_campaign=rss" target="_blank">State pension likely to rise by 4.7% in April</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-16 09:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/16/g-s1-88926/fbi-director-patel-testimony-congress" target="_blank">FBI Director Patel set to testify on Capitol Hill amid questions over his leadership</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-16 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/16/nx-s1-5543007/israel-military-gaza" target="_blank">Israel&#x27;s military says its expanded operation in Gaza City has begun</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-16 08:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-gaza-israel_7021263.jpg?20250916072100" alt="UN Commission says Israel is committing genocide in Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/un-commission-says-israel-is-committing-genocide-in-gaza-13431987" target="_blank">UN Commission says Israel is committing genocide in Gaza</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-16 07:00</span>
             </div>
         </div>
 </div>
@@ -180,6 +178,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bhaskar_kumararya_ab8da9/supercharge-your-whatsapp-introducing-the-ai-copilot-desktop-app-2gkg" target="_blank">&quot;Supercharge Your WhatsApp: Introducing the AI Copilot Desktop App&quot;</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-16 10:54</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwhu3j6rkw3iwdm96jqeg.png" alt="FastAPI Authentication Fundamentals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -189,39 +196,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/09/linux-security-rootkit/en/headerimage/generatedHeaderImage-1758009408850.jpg" alt="Linux Security Tools Bypassed by io_uring Rootkit Technique, ARMO Research Reveals" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/linux-security-rootkit/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Linux Security Tools Bypassed by io_uring Rootkit Technique, ARMO Research Reveals</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-16 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-ROCm-7.0-Rolling-Out" target="_blank">AMD ROCm 7.0 Begins Rocking Out On GitHub</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-16 09:55</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/review/fedora-43-beta" target="_blank">Fedora Workstation 43 Beta Is Running Well On AMD Strix Halo / Framework Desktop</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-16 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jaycrys/building-a-legal-document-intelligence-platform-with-bigquery-ai-99-efficiency-implementation-5ajo" target="_blank">Building a Legal Document Intelligence Platform with BigQuery AI: 99% Efficiency Implementation Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-16 08:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-USBIO-USB-Drivers-6.18" target="_blank">Intel USBIO USB IO Expander Drivers Expected To Be Merged For Linux 6.18</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-16 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/itsmearka/react-typescript-async-functions-1307" target="_blank">React + TypeScript: async functions</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-16 06:54</span>
             </div>
         </div>
 </div>
@@ -325,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
