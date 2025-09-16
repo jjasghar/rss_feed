@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-16 22:01:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-16 23:01:34 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Tuesday, September 16, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, September 16, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/16/us-president-donald-trump-arrives-in-uk-for-second-state-visit?traffic_source=rss" target="_blank">US President Donald Trump arrives in UK for second state visit</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-16 22:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +101,29 @@
                 <span class="time">2025-09-16 19:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd92/live/93f892f0-930b-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Eritrean man wins block on removal to France under &#x27;one in, one out&#x27; deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1dqe2443l1o?at_medium=RSS&at_campaign=rss" target="_blank">Eritrean man wins block on removal to France under &#x27;one in, one out&#x27; deal</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-16 18:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/16/al-gore-on-chinas-climate-rise-i-would-not-have-seen-this-coming/" target="_blank">Al Gore on China’s climate rise: ‘I would not have seen this coming’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-16 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/779351/luigi-mangione-hearing-new-york-social-media-ecosystem" target="_blank">Can Luigi Mangione get too big to jail?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-16 22:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2235676237-500x500.jpg" alt="“China keeps the algorithm”: Critics attack Trump’s TikTok deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,24 +158,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/09/16/same-day-delivery-comes-to-space-as-impulse-promises-satellite-transport-in-hours-not-months/" target="_blank">Same-day delivery comes to space, as Impulse promises satellite transport in hours, not months</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-09-16 20:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/779079/consumer-reports-windows-10-extended-support-microsoft" target="_blank">Consumer Reports asks Microsoft to keep supporting Windows 10</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-16 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/16/silicon-valley-bets-big-on-environments-to-train-ai-agents/" target="_blank">Silicon Valley bets big on ‘environments’ to train AI agents</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-16 19:00</span>
             </div>
         </div>
 </div>
@@ -257,6 +257,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/borderlands-goldkeys.jpg" alt="How Shift Codes And Gold Keys Work In Borderlands 4" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/how-shift-codes-gold-keys-work-borderlands-4-help-get-more-2000626107" target="_blank">How Shift Codes And Gold Keys Work In Borderlands 4</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-16 21:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Babbel-Language-Learning-3.png?fit=2000%2C1333&amp;quality=55&amp;ssl=1" alt="Bedtime just got an upgrade with Readmio&#x27;s voice-activated magic" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -292,15 +301,6 @@
                 <span class="time">2025-09-16 18:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/05/waltdisneyworld-e1758045791338.jpeg?fit=768%2C407&amp;quality=60&amp;ssl=1" alt="Scuba bandit robs Disney Springs restaurant, swims off into the night" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/16/scuba-bandit-robs-disney-springs-restaurant-swims-off-into-the-night.html" target="_blank">Scuba bandit robs Disney Springs restaurant, swims off into the night</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-16 18:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 255 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
