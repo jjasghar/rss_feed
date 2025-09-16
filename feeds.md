@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-16 02:25:37 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-16 03:11:03 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 32 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Tuesday, September 16, 2025 - 02:25 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, September 16, 2025 - 03:11 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2025/9/16/sri-lanka-bangladesh-nepal-is-south-asia-fertile-for-gen-z-revolutions?traffic_source=rss" target="_blank">Sri Lanka, Bangladesh, Nepal: Is South Asia fertile for Gen Z revolutions?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-16 02:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,6 +75,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/bondi-1-abc-er-250915_1757973364826_hpMain_4x3t_384.jpg" alt="Attorney General Pam Bondi claims &#x27;left-wing radicals&#x27; killed Charlie Kirk" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/attorney-general-pam-bondi-claims-left-wing-radicals/story?id=125604411" target="_blank">Attorney General Pam Bondi claims &#x27;left-wing radicals&#x27; killed Charlie Kirk</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-15 23:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/25/08/1920x1080/skynews-trump-zelenskyy_6994969.jpg?20250819035248" alt="Zelenskyy makes demand of Trump - and issues warning to NATO" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -84,24 +99,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/nbc-news-investigation-finds-steep-decline-in-childhood-vaccination-rates-247628357985" target="_blank">NBC News investigation finds steep decline in childhood vaccination rates</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-09-15 22:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/venezuela-ht-er-250915_1757975110091_hpMain_4x3t_384.jpg" alt="3 killed in US strike on an 2nd alleged Venezuelan drug boat, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/3-killed-2nd-strike-alleged-venezuelan-drug-boat/story?id=125599866" target="_blank">3 killed in US strike on an 2nd alleged Venezuelan drug boat, Trump says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-15 22:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/09/15/nx-s1-5542390/cdc-vaccine-advisers-committee" target="_blank">5 new members added to CDC vaccine advisory panel ahead of key meeting</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-15 21:04</span>
             </div>
         </div>
 </div>
@@ -172,6 +169,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/madgan95/introduction-to-us-stock-market-5g32" target="_blank">Introduction to US Stock Market</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-16 02:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hejhdiss/raw-sound-as-building-blocks-next-gen-ai-speech-creation-fpb" target="_blank">Raw Sound as Building Blocks: Next-Gen AI Speech Creation</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-16 02:07</span>
@@ -211,15 +217,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/gnome-tetris-clone-gets-major-update" target="_blank">GNOME’s Tetris Clone Gets ‘Significant’ Changes</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-09-15 22:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-ABMC-TIP-Queued" target="_blank">AMD ABMC Expected To Go Upstream For Linux 6.18</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-15 21:00</span>
             </div>
         </div>
 </div>
@@ -341,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 02:25 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 03:11 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
