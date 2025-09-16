@@ -1,31 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-16 15:01:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-16 16:01:50 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 22 feeds processed -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, September 16, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, September 16, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/16/desperate-palestinians-flee-gaza-city-as-israel-launches-ground-offensive?traffic_source=rss" target="_blank">Desperate Palestinians flee Gaza City as Israel launches ground offensive</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-16 15:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/16/g-s1-88927/ice-raids-trump-life-impact" target="_blank">Has everyday life changed due to increased ICE activity in your area? We want to know</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-16 15:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e22/live/6f455330-9301-11f0-a647-dff301f4a439.jpg" alt="Mandelson red flags were missed or ignored, senior Labour MP says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,29 +98,29 @@
                 <span class="time">2025-09-16 12:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b10/live/c2545e70-92f4-11f0-84c8-99de564f0440.png" alt="Starmer orders investigation into MI5 after BBC exposed false evidence in spy case" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn834zwe83lo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer orders investigation into MI5 after BBC exposed false evidence in spy case</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-16 11:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/9/16/here-is-the-reason-why-markets-in-gaza-are-full-while-we-starve?traffic_source=rss" target="_blank">Here is the reason why markets in Gaza are ‘full’ while we starve</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-16 11:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68c04fc2d23cd18a6a0cef78/master/pass/burner-phone-sec-1368457493.jpg" alt="How to Set Up and Use a Burner Phone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-set-up-use-burner-phone/" target="_blank">How to Set Up and Use a Burner Phone</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-16 15:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/778766/apple-watch-solo-loop-band-ipad-air-m3-deal-sale" target="_blank">Official watch bands for your new Apple Watch are $34 off at Woot</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-16 15:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -136,24 +157,6 @@
                 <span class="time">2025-09-16 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/778121/roku-tv-os-aurzen-d1r-cube-smart-projector" target="_blank">This is the first Roku TV smart projector</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-16 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/777541/meta-connect-2025-what-to-expect" target="_blank">Meta&amp;#8217;s new smart glasses are coming this week</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-16 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -178,6 +181,24 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blinry.org/50-things-with-sdr/" target="_blank">Fifty Things you can do with a Software Defined Radio</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-16 14:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/intel-xeon-6980p-2025" target="_blank">Intel Xeon 6980P &quot;Granite Rapids&quot; Linux Performance One Year Later</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-16 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18624447&w=600" alt="Automating RCA and Decision Support Using AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -193,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/navidreza80/heres-how-far-ive-come-after-7-days-of-grinding-on-system-design-55j3" target="_blank">Here’s how far I’ve come after 7 days of grinding on system design.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-16 13:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-ROCm-7.0-Released" target="_blank">AMD ROCm 7.0 Officially Released With Many Significant Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-16 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ajeetchouksey/ai-as-a-tool-not-a-goal-16fg" target="_blank">AI as a Tool, Not a Goal</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-16 13:00</span>
             </div>
         </div>
 </div>
@@ -232,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/dispatch-game.jpg" alt="Superhero Workplace Game ‘Dispatch’ Suits Up in October" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/superhero-workplace-game-dispatch-suits-up-in-october-2000659395" target="_blank">Superhero Workplace Game ‘Dispatch’ Suits Up in October</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-16 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2020/09/Screenshotter-YouTube-SylvanEsso-FerrisWheelAnimalCrossingMusicVideo-142.jpg?fit=1280%2C720&amp;quality=60&amp;ssl=1" alt="Making Animal Crossing more real — and more terrifying – with AI chatbots" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/16/making-animal-crossing-more-real-and-more-terrifying-with-ai-chatbots.html" target="_blank">Making Animal Crossing more real — and more terrifying – with AI chatbots</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-16 15:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/MS-0916-Mobile-Suit-Gundam-Amuro-Ray.jpg" alt="The Casting Rumors for the ‘Gundam’ Movie Are Only Getting Weirder" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,24 +289,6 @@
                 <span class="time">2025-09-16 11:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/psychedelic-mushrooms-main-e1757967908186.jpg" alt="Some Magic Mushroom Edibles Have Zero Psilocybin—Just Junk That Still Gets You High" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/some-magic-mushroom-edibles-have-zero-psilocybin-just-junk-that-still-gets-you-high-2000659049" target="_blank">Some Magic Mushroom Edibles Have Zero Psilocybin—Just Junk That Still Gets You High</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-16 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/bladerunner2049.jpg" alt="The Tesla ‘Blade Runner 2049’ AI Lawsuit Just Hit an Interesting Snag" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-tesla-blade-runner-2049-ai-lawsuit-just-hit-an-interesting-snag-2000659087" target="_blank">The Tesla ‘Blade Runner 2049’ AI Lawsuit Just Hit an Interesting Snag</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-15 23:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -300,22 +303,13 @@
                 <span class="time">2025-09-15 19:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1757808993-20250915.png" alt="Saturday Morning Breakfast Cereal - Unread" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/unread" target="_blank">Saturday Morning Breakfast Cereal - Unread</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-09-15 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
