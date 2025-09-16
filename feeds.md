@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-16 12:02:43 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-16 13:08:55 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Error processing https://ubuntu.com/blog/feed: The read operation timed out -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, September 16, 2025 - 12:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, September 16, 2025 - 13:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/by-the-numbers-3/2025/9/16/how-israel-is-stretching-its-war-far-beyond-its-borders?traffic_source=rss" target="_blank">How Israel is stretching its war far beyond its borders</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-16 12:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/16/nx-s1-5543055/colombia-drugs-u-s-trump-petro" target="_blank">For first time in decades, U.S. says Colombia is falling short in drug war</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-16 12:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,24 +99,6 @@
                 <span class="title"><a href="https://www.theguardian.com/uk-news/2025/sep/16/kenya-seeks-arrest-former-british-soldier-alleged-agnes-wanjiru" target="_blank">Kenya seeks arrest of former British soldier over alleged murder of Agnes Wanjiru</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-09-16 10:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/633f/live/df611810-92df-11f0-b391-6936825093bd.jpg" alt="Israel has committed genocide in Gaza, UN commission of inquiry says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c8641wv0n4go?at_medium=RSS&at_campaign=rss" target="_blank">Israel has committed genocide in Gaza, UN commission of inquiry says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-16 09:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/16/un-inquiry-finds-israel-committing-genocide-in-gaza?traffic_source=rss" target="_blank">UN inquiry finds Israel committing genocide in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-16 09:18</span>
             </div>
         </div>
 </div>
@@ -179,6 +178,33 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ajeetchouksey/ai-as-a-tool-not-a-goal-16fg" target="_blank">AI as a Tool, Not a Goal</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-16 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18624405&w=600" alt="How TBMQ Uses Redis for Persistent Message Storage" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/tbmq-redis-persistent-message-storage" target="_blank">How TBMQ Uses Redis for Persistent Message Storage</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-16 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/accessibility-xr/en/mediumimage/dylan-fox-medium-1756891034995.jpg" alt="Presentation: Accessible Innovation in XR: Maximizing the Curb Cut Effect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/accessibility-xr/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Accessible Innovation in XR: Maximizing the Curb Cut Effect</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-16 12:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/vino123/built-an-all-in-one-ai-tool-to-turn-software-development-chaos-into-structure-need-your-3lk" target="_blank">Built an all in one 🤖AI tool to turn software development chaos into structure - need your feedback! [Use it for FREE]</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-16 11:43</span>
@@ -191,33 +217,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Fedora-43-Beta-Released" target="_blank">Fedora 43 Beta ISOs Released For Testing This Leading-Edge Linux OS</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-16 11:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18620442&w=600" alt="Super Massively Distributed Systems" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/super-massively-distributed-systems" target="_blank">Super Massively Distributed Systems</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-16 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/bhaskar_kumararya_ab8da9/supercharge-your-whatsapp-introducing-the-ai-copilot-desktop-app-2gkg" target="_blank">&quot;Supercharge Your WhatsApp: Introducing the AI Copilot Desktop App&quot;</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-16 10:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwhu3j6rkw3iwdm96jqeg.png" alt="FastAPI Authentication Fundamentals" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/masteringbackend/fastapi-authentication-fundamentals-4bdn" target="_blank">FastAPI Authentication Fundamentals</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-16 10:00</span>
             </div>
         </div>
 </div>
@@ -239,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/robert-redford-captain-america-civil-war.jpg" alt="Hollywood Legend Robert Redford Has Died at Age 89" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/robert-redford-dead-captain-america-butch-cassidy-petes-dragon-2000659319" target="_blank">Hollywood Legend Robert Redford Has Died at Age 89</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-16 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Eau-de-8-bit.jpg?fit=1080%2C657&amp;quality=60&amp;ssl=1" alt="Fragrances inspired by classic home computers of the 1980s" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/16/fragrances-inspired-by-classic-home-computers-of-the-1980s.html" target="_blank">Fragrances inspired by classic home computers of the 1980s</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-16 11:10</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/psychedelic-mushrooms-main-e1757967908186.jpg" alt="Some Magic Mushroom Edibles Have Zero Psilocybin—Just Junk That Still Gets You High" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +292,6 @@
                 <span class="time">2025-09-15 21:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/12/dui-e1757971791142.jpeg?fit=768%2C513&amp;quality=60&amp;ssl=1" alt="Taxpayers footing the bill for officers charging sober drivers with DUI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/15/taxpayers-footing-the-bill-for-officers-charging-sober-drivers-with-dui.html" target="_blank">Taxpayers footing the bill for officers charging sober drivers with DUI</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-15 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/06/everest-e1755118144565.jpg?fit=768%2C512&amp;quality=60&amp;ssl=1" alt="China&#x27;s &quot;first&quot; Everest ascent: mystery, intrigue, and missing tents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/15/chinas-first-everest-ascent-mystery-intrigue-and-missing-tents.html" target="_blank">China&#x27;s &quot;first&quot; Everest ascent: mystery, intrigue, and missing tents</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-15 21:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 12:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 13:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
