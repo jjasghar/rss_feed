@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-16 21:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-16 22:01:30 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, September 16, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Tuesday, September 16, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/16/uk-court-temporarily-blocks-deportation-of-eritrean-asylum-seeker?traffic_source=rss" target="_blank">UK court temporarily blocks deportation of Eritrean asylum seeker</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-16 21:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,20 +101,20 @@
                 <span class="time">2025-09-16 18:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/16/landmark-ruling-convicts-seven-farc-ex-leaders-of-wartime-crimes?traffic_source=rss" target="_blank">Landmark ruling convicts seven FARC ex-leaders of wartime crimes</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-16 18:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2235676237-500x500.jpg" alt="“China keeps the algorithm”: Critics attack Trump’s TikTok deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/china-keeps-the-algorithm-critics-attack-trumps-tiktok-deal/" target="_blank">“China keeps the algorithm”: Critics attack Trump’s TikTok deal</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-16 21:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68c990923d8d455d1e07c475/master/pass/Model-Behavior-How-People-Actually-Use-ChatGPT.jpg" alt="OpenAI Rolls Out Teen Safety Features Amid Growing Scrutiny" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +160,20 @@
                 <span class="time">2025-09-16 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c4798931a26ba50e7e48b1/master/pass/Charlie-Kirk-Shooting-Suspect-Charges%20Filed-Security-2234339654.jpg" alt="Charlie Kirk Shooting Suspect Charged as Prosecutor Seeks Death Penalty" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/charlie-kirk-shooting-suspect-tyler-robinson-charged-death-penalty/" target="_blank">Charlie Kirk Shooting Suspect Charged as Prosecutor Seeks Death Penalty</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-16 18:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F633t3qlqxegwijwkxe7e.png" alt="NestJS Authentication with Stytch: Complete Starter Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/u11d/nestjs-authentication-with-stytch-complete-starter-guide-3aon" target="_blank">NestJS Authentication with Stytch: Complete Starter Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-16 22:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +219,6 @@
                 <span class="time">2025-09-16 16:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://waymo.com/blog/#short-all-systems-go-at-sfo-waymo-has-received-our-pilot-permit" target="_blank">Waymo has received our pilot permit allowing for commercial operations at SFO</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-16 16:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -249,6 +247,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Insta360-Go-Ultra-action-camera-01.jpg" alt="Insta360 Go Ultra Review: This Tiny Action Camera Got Swacked by a Sword, and Survived" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/insta360-go-ultra-review-2000658899" target="_blank">Insta360 Go Ultra Review: This Tiny Action Camera Got Swacked by a Sword, and Survived</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-16 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Babbel-Language-Learning-3.png?fit=2000%2C1333&amp;quality=55&amp;ssl=1" alt="Bedtime just got an upgrade with Readmio&#x27;s voice-activated magic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/16/bedtime-just-got-an-upgrade-with-readmios-voice-activated-magic.html" target="_blank">Bedtime just got an upgrade with Readmio&#x27;s voice-activated magic</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-16 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K5A0JSCPTB9J92X3337M7BK6/hero-image.png" alt="YouTube Livestreams Are About to Get Much More Mobile Friendly" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,24 +301,6 @@
                 <span class="time">2025-09-16 18:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/bf6image.jpg" alt="Battlefield 6 Devs Were Extremely Focused On Optimization And Performance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/battlefield-6-framerate-fps-xbox-series-s-ps5-2000626043" target="_blank">Battlefield 6 Devs Were Extremely Focused On Optimization And Performance</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-16 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/splintercell-sam-fisher.jpg" alt="The New ‘Splinter Cell: Deathwatch Trailer’ Is a Dark Slaughterfest" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-new-splinter-cell-deathwatch-trailer-is-a-dark-slaughterfest-2000659431" target="_blank">The New ‘Splinter Cell: Deathwatch Trailer’ Is a Dark Slaughterfest</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-16 17:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 255 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
