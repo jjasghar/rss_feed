@@ -1,37 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-17 01:28:59 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-09-17 02:25:45 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, September 17, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, September 17, 2025 - 02:25 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/17/brazils-bolsonaro-taken-to-hospital-after-feeling-unwell?traffic_source=rss" target="_blank">Brazil’s Bolsonaro taken to hospital after feeling unwell</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-17 01:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c06/live/03630030-934d-11f0-b391-6936825093bd.jpg" alt="Charlie Kirk suspect confessed in hidden note to roommate, prosecutors allege" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,15 +95,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/now/video/suspect-in-charlie-kirk-killing-makes-first-court-appearance-247710277882" target="_blank">Suspect in Charlie Kirk killing makes first court appearance</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-09-16 21:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/16/uk-court-temporarily-blocks-deportation-of-eritrean-asylum-seeker?traffic_source=rss" target="_blank">UK court temporarily blocks deportation of Eritrean asylum seeker</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-16 21:03</span>
             </div>
         </div>
 </div>
@@ -169,6 +165,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/morteza-jangjoo/sql-server-ledger-tables-complete-guide-with-banking-example-4f65" target="_blank">SQL Server Ledger Tables: Complete Guide with Banking Example</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-17 02:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://blog.pypi.org/posts/2025-09-16-github-actions-token-exfiltration/" target="_blank">PyPI Token Exfiltration Campaign via GitHub Actions Workflows</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-09-17 02:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sergiocolqueponce/modern-data-visualization-tools-a-comprehensive-guide-to-streamlit-dash-and-bokeh-7ed" target="_blank">Modern Data Visualization Tools: A Comprehensive Guide to Streamlit, Dash, and Bokeh</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-17 01:02</span>
@@ -199,24 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Rust-DRM-Drivers-Linux-6.18-Tyr" target="_blank">Tyr Driver Being Submitted For Linux 6.18 As Rust-Based Arm Mali Driver</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-16 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/java25-released/en/headerimage/java-istock-image-01-1758050604272.jpg" alt="Java 25, the Next LTS Release, Delivers Finalized Features and Focus on Performance and Runtime" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/java25-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java 25, the Next LTS Release, Delivers Finalized Features and Focus on Performance and Runtime</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-16 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/09/16/what-an-mcp-implementation-looks-like-at-a-crm-company/" target="_blank">What an MCP implementation looks like at a CRM company</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-09-16 19:08</span>
             </div>
         </div>
 </div>
@@ -257,6 +253,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/16/at-89-philosopher-bertrand-russell-wrote-a-masterful-response-to-a-fascist-leader-seeking-legitimacy.html" target="_blank">At 89, philosopher Bertrand Russell wrote a masterful response to a fascist leader seeking legitimacy</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-16 23:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Insta360-Go-Ultra-action-camera-01.jpg" alt="Insta360 Go Ultra Review: This Tiny Action Camera Got Swacked by a Sword, and Survived" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -290,15 +295,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/16/bedtime-just-got-an-upgrade-with-readmios-voice-activated-magic.html" target="_blank">Bedtime just got an upgrade with Readmio&#x27;s voice-activated magic</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-16 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K5A0JSCPTB9J92X3337M7BK6/hero-image.png" alt="YouTube Livestreams Are About to Get Much More Mobile Friendly" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/youtube-livestreams-are-about-to-get-much-more-mobile-friendly?utm_medium=RSS" target="_blank">YouTube Livestreams Are About to Get Much More Mobile Friendly</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-16 20:04</span>
             </div>
         </div>
 </div>
@@ -338,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 143 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 02:25 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
