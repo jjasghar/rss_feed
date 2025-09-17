@@ -1,38 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-09-17 03:09:58 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-17 04:02:18 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 29 feeds processed -->
+<!-- Generated 2 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, September 17, 2025 - 03:10 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, September 17, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -249,12 +240,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/Ozempic.jpg" alt="Ozempic May Be Less Effective for Emotional Eaters, Study Suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ozempic-may-be-less-effective-for-emotional-eaters-study-suggests-2000659004" target="_blank">Ozempic May Be Less Effective for Emotional Eaters, Study Suggests</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-17 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Apple-Watch-SE-3-Series-11-Ultra-3-Sleep-Score-Hypertension-2.jpg" alt="Do You Really Need a New Apple Watch If You Already Have One?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/do-you-really-need-a-new-apple-watch-if-you-already-have-one-2000659714" target="_blank">Do You Really Need a New Apple Watch If You Already Have One?</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-17 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/bezos-yacht.jpg?fit=1200%2C798&amp;quality=60&amp;ssl=1" alt="&quot;I will retire with debt&quot; — credit scores drop at fastest rate since Great Recession" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/16/i-will-retire-with-debt-credit-scores-drop-at-fastest-rate-since-great-recession.html" target="_blank">&quot;I will retire with debt&quot; — credit scores drop at fastest rate since Great Recession</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-16 23:23</span>
             </div>
         </div>
 <div class="story">
@@ -282,24 +291,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/how-to-fix-tilted-dark-mode-app-icons-in-ios-26?utm_medium=RSS" target="_blank">How to Fix &#x27;Tilted&#x27; Dark Mode App Icons in iOS 26</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-16 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/borderlands-goldkeys.jpg" alt="How Shift Codes And Gold Keys Work In Borderlands 4" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/how-shift-codes-gold-keys-work-borderlands-4-help-get-more-2000626107" target="_blank">How Shift Codes And Gold Keys Work In Borderlands 4</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-16 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Babbel-Language-Learning-3.png?fit=2000%2C1333&amp;quality=55&amp;ssl=1" alt="Bedtime just got an upgrade with Readmio&#x27;s voice-activated magic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/16/bedtime-just-got-an-upgrade-with-readmios-voice-activated-magic.html" target="_blank">Bedtime just got an upgrade with Readmio&#x27;s voice-activated magic</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-16 21:00</span>
             </div>
         </div>
 </div>
@@ -339,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 03:10 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
