@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-17 12:02:34 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-17 13:08:39 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 10 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, September 17, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, September 17, 2025 - 13:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,12 +50,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/17/as-israel-struck-qatar-south-africans-saw-echo-of-last-decade-of-apartheid?traffic_source=rss" target="_blank">As Israel struck Qatar, South Africans saw echo of last decade of apartheid</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-17 12:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/International/trump-king-charles_1758109677757_hpMain_4x3t_384.jpg" alt="Trump arrives for UK state visit, welcomed by king, prince at Windsor Castle" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/Politics/trump-begin-historic-uk-state-visit-royal-reception/story?id=125651147" target="_blank">Trump arrives for UK state visit, welcomed by king, prince at Windsor Castle</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-17 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758108342270_tdy_news_7a_winter_charlie_kirk_suspect_250917_1920x1080-nciqud.jpg" alt="Will Charlie Kirk&#x27;s Alleged Assassin Face Federal Charges?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/will-charlie-kirk-s-alleged-assassin-face-federal-charges-247746117570" target="_blank">Will Charlie Kirk&#x27;s Alleged Assassin Face Federal Charges?</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-17 11:25</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +103,29 @@
                 <span class="time">2025-09-17 09:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/17/nx-s1-5544096/madeleine-mccann-suspect-germany" target="_blank">Suspect in UK toddler disappearance is released after serving time in unrelated case</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-17 09:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aed/live/9f05e7c0-934b-11f0-b391-6936825093bd.jpg" alt="Trump hails &#x27;very good&#x27; relationship as he begins UK state visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cz9jyzl4532o?at_medium=RSS&at_campaign=rss" target="_blank">Trump hails &#x27;very good&#x27; relationship as he begins UK state visit</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-17 09:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/777565/meta-connect-2025-how-to-watch-keynote-mark-zuckerberg" target="_blank">How to watch Mark Zuckerberg’s keynote at Meta Connect 2025</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-17 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68ca28baf61482153c9f5115/master/pass/Apple%20iPhone%20Air%20Hero%20Image%20SOURCE%20Julian%20Chokkattu.jpg" alt="Apple iPhone Air Review: Better Than Expected" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/apple-iphone-air/" target="_blank">Apple iPhone Air Review: Better Than Expected</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-17 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,35 +162,44 @@
                 <span class="time">2025-09-17 05:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/16/groww-backed-by-satya-nadella-set-to-become-first-indian-startup-to-go-public-after-u-s-to-india-move/" target="_blank">Groww, backed by Satya Nadella, set to become first Indian startup to go public after U.S.-to-India move</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-17 01:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c99b1771407ee7357f113e/master/pass/Save%20$100%20or%20More%20on%20a%20Mac%20Mini.png" alt="Mac Mini Sale: Get Into MacOS for Less Than $500 Today" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/save-dollar100-or-more-on-a-mac-mini-today/" target="_blank">Mac Mini Sale: Get Into MacOS for Less Than $500 Today</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-16 23:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sajan_kumarsingh_b556129/api-security-in-2025-essential-best-practices-for-developers-building-production-ready-systems-878" target="_blank">API Security in 2025: Essential Best Practices for Developers Building Production-Ready Systems</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-17 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18626099&w=600" alt="Beyond Retrieval: How Knowledge Graphs Supercharge RAG" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/how-knowledge-graphs-supercharge-rag" target="_blank">Beyond Retrieval: How Knowledge Graphs Supercharge RAG</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-17 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18626094&w=600" alt="Mastering Fluent Bit: Top 3 Telemetry Pipeline Input Plugins for Developers (Part 6)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/telemetry-pipeline-input-plugins-for-developers" target="_blank">Mastering Fluent Bit: Top 3 Telemetry Pipeline Input Plugins for Developers (Part 6)</a></span>
                 <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-17 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/09/code-optimizations-dotnet/en/headerimage/header-1757973593442.jpg" alt="Improved Application Insights Code Optimizations Identify .NET Performance Bottlenecks Automatically" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/code-optimizations-dotnet/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Improved Application Insights Code Optimizations Identify .NET Performance Bottlenecks Automatically</a></span>
+                <span class="feed">InfoQ</span>
                 <span class="time">2025-09-17 12:00</span>
             </div>
         </div>
@@ -187,33 +219,6 @@
                 <span class="title"><a href="https://dev.to/theaialchemist2025/turning-your-ideas-into-gold-why-the-ai-alchemist-is-about-to-be-your-secret-weapon-1j8j" target="_blank">Turning Your Ideas into Gold: Why The AI Alchemist Is About to Be Your Secret Weapon 🧙‍♂️</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-17 10:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/c-sharp-startup/en/mediumimage/sam-cox-medium-1756893017502.jpg" alt="Presentation: Questioning Convention: C# as a Shortcut to Startup Velocity" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/c-sharp-startup/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Questioning Convention: C# as a Shortcut to Startup Velocity</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-17 10:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Detect-Bhyve" target="_blank">Linux 6.18 To Add Detection For FreeBSD&#x27;s Bhyve Hypervisor</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-17 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://tane.dev/2025/09/oh-no-not-again...-a-meditation-on-npm-supply-chain-attacks/" target="_blank">Oh no, not again a meditation on NPM supply chain attacks</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-17 09:57</span>
             </div>
         </div>
 </div>
@@ -244,6 +249,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/07/Watch-Pornhub-in-Florida-Anonymously.jpg" alt="Michigan Bill Would Digitally Cockblock Entire State" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/michigan-bill-would-digitally-cockblock-entire-state-2000659675" target="_blank">Michigan Bill Would Digitally Cockblock Entire State</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-17 12:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Lynch.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="David Lynch&#x27;s $15M Hollywood Hills estate hits the market" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/16/david-lynchs-15m-hollywood-hills-estate-hits-the-market.html" target="_blank">David Lynch&#x27;s $15M Hollywood Hills estate hits the market</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-17 05:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/Ozempic.jpg" alt="Ozempic May Be Less Effective for Emotional Eaters, Study Suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +301,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/16/at-89-philosopher-bertrand-russell-wrote-a-masterful-response-to-a-fascist-leader-seeking-legitimacy.html" target="_blank">At 89, philosopher Bertrand Russell wrote a masterful response to a fascist leader seeking legitimacy</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-16 23:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Insta360-Go-Ultra-action-camera-01.jpg" alt="Insta360 Go Ultra Review: This Tiny Action Camera Got Swacked by a Sword, and Survived" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/insta360-go-ultra-review-2000658899" target="_blank">Insta360 Go Ultra Review: This Tiny Action Camera Got Swacked by a Sword, and Survived</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-16 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K5A4WSPKV5RBXJX07X91NPGQ/hero-image.png" alt="How to Fix &#x27;Tilted&#x27; Dark Mode App Icons in iOS 26" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-fix-tilted-dark-mode-app-icons-in-ios-26?utm_medium=RSS" target="_blank">How to Fix &#x27;Tilted&#x27; Dark Mode App Icons in iOS 26</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-16 21:30</span>
             </div>
         </div>
 </div>
@@ -344,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 250 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 255 |
+        🔄 Last Updated: 13:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
