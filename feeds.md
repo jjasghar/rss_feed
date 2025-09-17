@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-17 16:01:57 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-17 17:01:36 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, September 17, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, September 17, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/17/war-on-free-speech-outcry-after-maldives-passes-controversial-media-bill?traffic_source=rss" target="_blank">‘War on free speech’: Outcry after Maldives passes controversial media bill</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-17 16:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,15 +100,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/watch-live-former-cdc-director-susan-monarez-testifies-at-senate-hearing-247750725915" target="_blank">Former CDC Director Susan Monarez testifies at Senate hearing</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-09-17 13:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/susan-monarez-rt-jt-250916_1758039945978_hpMain_4x3t_384.jpg" alt="Former CDC director Susan Monarez to testify to Senate about her ouster and RFK Jr." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/susan-monarez-former-cdc-director-testify-senate-ouster/story?id=125628812" target="_blank">Former CDC director Susan Monarez to testify to Senate about her ouster and RFK Jr.</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-17 12:55</span>
             </div>
         </div>
 </div>
@@ -167,6 +167,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs7v6soepv687wewtwtxb.png" alt="Classification in a Nutshell" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vaishakhvipin/classification-in-a-nutshell-4b5g" target="_blank">Classification in a Nutshell</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-17 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/04/gnome-logo.jpg?resize=406%2C232&amp;ssl=1" alt="GNOME 49 Officially Released" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/gnome-49-officially-released" target="_blank">GNOME 49 Officially Released</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-17 16:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18626162&w=600" alt="Anything Rigid Is Not Sustainable: Why Flexibility Beats Dogma in Agile and Project Management" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/flexibility-vs-dogma-agile-project-management" target="_blank">Anything Rigid Is Not Sustainable: Why Flexibility Beats Dogma in Agile and Project Management</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-17 16:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
@@ -193,33 +220,6 @@
                 <span class="time">2025-09-17 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sajan_kumarsingh_b556129/api-security-in-2025-essential-best-practices-for-developers-building-production-ready-systems-878" target="_blank">API Security in 2025: Essential Best Practices for Developers Building Production-Ready Systems</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-17 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18626099&w=600" alt="Beyond Retrieval: How Knowledge Graphs Supercharge RAG" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/how-knowledge-graphs-supercharge-rag" target="_blank">Beyond Retrieval: How Knowledge Graphs Supercharge RAG</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-17 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18626094&w=600" alt="Mastering Fluent Bit: Top 3 Telemetry Pipeline Input Plugins for Developers (Part 6)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/telemetry-pipeline-input-plugins-for-developers" target="_blank">Mastering Fluent Bit: Top 3 Telemetry Pipeline Input Plugins for Developers (Part 6)</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-17 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +240,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Screenshot-2025-09-17-at-10.37.44-AM.png?fit=1200%2C724&amp;quality=55&amp;ssl=1" alt="Dig this funkified AI/AC/DC version of Back in Black" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/17/dig-this-funkified-ai-ac-dc-version-of-back-in-black.html" target="_blank">Dig this funkified AI/AC/DC version of Back in Black</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-17 16:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/wickedforgood.jpg" alt="‘Wicked: For Good’ Wants to Crash That ‘KPop Demon Hunters’ Soundtrack Oscar Push" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/wicked-for-good-soundtrack-release-date-oscars-new-songs-2000660067" target="_blank">‘Wicked: For Good’ Wants to Crash That ‘KPop Demon Hunters’ Soundtrack Oscar Push</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-17 16:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/SeagateForXbox.jpg" alt="Seagate’s 2TB Xbox Expansion Card Is Cheaper per TB Than the 1TB One, All-Time Low Ahead of Prime Day in October" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/seagates-2tb-xbox-expansion-card-is-cheaper-per-tb-than-the-1tb-one-all-time-low-ahead-of-prime-day-in-october-2000626069" target="_blank">Seagate’s 2TB Xbox Expansion Card Is Cheaper per TB Than the 1TB One, All-Time Low Ahead of Prime Day in October</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-17 16:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K5C529Z4FTRP9GDKP0KF1958/hero-image.jpg" alt="Five iOS 26 Features That Changed How I Use My iPhone" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/the-best-five-ios-26-features?utm_medium=RSS" target="_blank">Five iOS 26 Features That Changed How I Use My iPhone</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-17 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/Skate-4.jpg" alt="Skate 4 Is Getting Savaged In Early Steam Reviews But These Clips Are Incredible" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -257,47 +293,20 @@
                 <span class="time">2025-09-17 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/image-10.jpg" alt="Bandai Namco Condemns Mockups Of Gunpla Models Of Charlie Kirk’s Assassination" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/charlie-kirk-assassination-bandai-namco-ai-model-gunpla-2000626472" target="_blank">Bandai Namco Condemns Mockups Of Gunpla Models Of Charlie Kirk’s Assassination</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-17 13:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/11/zuckerberg_loves_america1.png" alt="Zuckerberg Gets a Personal Political Piggy Bank With Meta Super Pac" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/zuckerberg-gets-a-personal-political-piggy-bank-with-meta-super-pac-2000659581" target="_blank">Zuckerberg Gets a Personal Political Piggy Bank With Meta Super Pac</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-17 13:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/07/IMG-2624-scaled-e1743081777536.jpg?fit=1280%2C960&amp;quality=60&amp;ssl=1" alt="17 extraordinary gardens to visit before winter hibernation begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/17/17-extraordinary-gardens-to-visit-before-winter-hibernation-begins.html" target="_blank">17 extraordinary gardens to visit before winter hibernation begins</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-17 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/07/Watch-Pornhub-in-Florida-Anonymously.jpg" alt="Michigan Bill Would Digitally Cockblock Entire State" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/michigan-bill-would-digitally-cockblock-entire-state-2000659675" target="_blank">Michigan Bill Would Digitally Cockblock Entire State</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-17 12:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1757980876-20250917.png" alt="Saturday Morning Breakfast Cereal - O Monks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/o-monks" target="_blank">Saturday Morning Breakfast Cereal - O Monks</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-09-17 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -316,22 +325,13 @@
                 <span class="time">2025-09-17 00:09</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/09/16/star-wars-outlaws-on-switch2" target="_blank">Star Wars Outlaws on Switch2</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-09-16 16:38</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
