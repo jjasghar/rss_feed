@@ -1,35 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-17 14:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-17 15:01:39 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 10 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, September 17, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, September 17, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/2235355168-e54e23.jpg" alt="A king, a carriage and an ancient castle greet Trump at historic U.K. visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/world/united-kingdom/trump-uk-state-visit-royal-windsor-king-charles-rcna231863" target="_blank">A king, a carriage and an ancient castle greet Trump at historic U.K. visit</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-17 13:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9087/live/f129c3b0-93c2-11f0-b391-6936825093bd.jpg" alt="Trump given spectacular royal welcome in Windsor" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,30 +80,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef8e/live/60e75040-93d3-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Tests show Navalny was poisoned in jail, his widow says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5ye0x28vzqo?at_medium=RSS&at_campaign=rss" target="_blank">Tests show Navalny was poisoned in jail, his widow says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-17 12:49</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/17/as-israel-struck-qatar-south-africans-saw-echo-of-last-decade-of-apartheid?traffic_source=rss" target="_blank">As Israel struck Qatar, South Africans saw echo of last decade of apartheid</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-17 12:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/International/trump-king-charles_1758109677757_hpMain_4x3t_384.jpg" alt="Trump arrives for UK state visit, welcomed by king, prince at Windsor Castle" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-begin-historic-uk-state-visit-royal-reception/story?id=125651147" target="_blank">Trump arrives for UK state visit, welcomed by king, prince at Windsor Castle</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-17 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758108342270_tdy_news_7a_winter_charlie_kirk_suspect_250917_1920x1080-nciqud.jpg" alt="Will Charlie Kirk&#x27;s Alleged Assassin Face Federal Charges?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/will-charlie-kirk-s-alleged-assassin-face-federal-charges-247746117570" target="_blank">Will Charlie Kirk&#x27;s Alleged Assassin Face Federal Charges?</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-17 11:25</span>
             </div>
         </div>
 </div>
@@ -108,9 +106,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/17/from-startup-battlefield-200-to-the-disrupt-stage-discord-founder-jason-citron-returns-to-techcrunch-disrupt-2025/" target="_blank">From Startup Battlefield to the Disrupt Stage: Discord founder Jason Citron returns to TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-17 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/09/17/lovable-ceo-anton-osika-on-building-one-of-the-fastest-growing-startups-in-history-at-techcrunch-disrupt-2025/" target="_blank">Lovable co-founder and CEO Anton Osika on building one of the fastest-growing startups in history at TechCrunch Disrupt 2025</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-09-17 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68cab7d93e5e2149419670d9/master/pass/JensenBanana.png" alt="Nvidia CEO Jensen Huang Is Bananas for Google Gemini’s AI Image Generator" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/jensen-huang-has-gone-nano-bananas/" target="_blank">Nvidia CEO Jensen Huang Is Bananas for Google Gemini’s AI Image Generator</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-17 13:53</span>
             </div>
         </div>
 <div class="story">
@@ -140,29 +156,20 @@
                 <span class="time">2025-09-17 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68ca28baf61482153c9f5115/master/pass/Apple%20iPhone%20Air%20Hero%20Image%20SOURCE%20Julian%20Chokkattu.jpg" alt="Apple iPhone Air Review: Better Than Expected" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/apple-iphone-air/" target="_blank">Apple iPhone Air Review: Better Than Expected</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-17 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/779265/iphone-17-pro-max-review" target="_blank">Apple’s iPhone 17 Pro is a bold redesign but a basic upgrade</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-17 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18626102&w=600" alt="Development of System Configuration Management: Performance Considerations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/system-configuration-management-performance-considerations" target="_blank">Development of System Configuration Management: Performance Considerations</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-17 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +215,6 @@
                 <span class="time">2025-09-17 11:07</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/theaialchemist2025/turning-your-ideas-into-gold-why-the-ai-alchemist-is-about-to-be-your-secret-weapon-1j8j" target="_blank">Turning Your Ideas into Gold: Why The AI Alchemist Is About to Be Your Secret Weapon 🧙‍♂️</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-17 10:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -229,15 +227,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/hacking-electronic-safes.html" target="_blank">Hacking Electronic Safes</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2025-09-17 11:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/" target="_blank">Self-Replicating Worm Hits 180+ Software Packages</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-09-16 14:08</span>
             </div>
         </div>
 </div>
@@ -345,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
