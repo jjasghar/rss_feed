@@ -1,37 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-17 21:01:35 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-09-17 22:01:46 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, September 17, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, September 17, 2025 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/17/g-s1-89333/pennsylvania-police-shooting-north-codorus" target="_blank">At least 2 seriously hurt in Pennsylvania shooting involving police</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-17 21:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/17/firings-over-reactions-to-kirk-killing-spark-free-speech-debate-in-the-us?traffic_source=rss" target="_blank">Firings over reactions to Kirk killing spark free speech debate in the US</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-17 21:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,24 +99,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c4gv881exj2o?at_medium=RSS&at_campaign=rss" target="_blank">Israeli tanks push into major Gaza City residential area</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-17 18:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/17/nx-s1-5544256/russia-ukraine-war-children-military-training-reeducation-yale" target="_blank">Russia gives Ukrainian kids military training and reeducation, Yale researchers find</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-17 18:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/9/17/us-federal-reserve-cuts-interest-rates-for-the-first-time-since-december?traffic_source=rss" target="_blank">US Federal Reserve cuts interest rates for the first time since December</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-17 18:17</span>
             </div>
         </div>
 </div>
@@ -239,6 +239,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/star-wars-andor-nemik-navigator.jpg" alt="Alex Lawther Didn’t Know Just How Much His ‘Andor’ Manifesto Hit Until Season 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/alex-lawther-andor-season-2-nemik-manifesto-star-wars-2000660097" target="_blank">Alex Lawther Didn’t Know Just How Much His ‘Andor’ Manifesto Hit Until Season 2</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-17 21:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K5CP54WEJV1Z3JZ7SSFTC6NH/hero-image.png" alt="The JBL Flip 7 Speaker Is Just $100 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/jbl-flip-7-speaker-sale?utm_medium=RSS" target="_blank">The JBL Flip 7 Speaker Is Just $100 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-17 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/05/Trump-may-23-2025.jpg" alt="Spirit Airlines Pilot Reportedly Warned to ‘Get Off the iPad’ After Veering Too Close to Air Force One" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -272,24 +290,6 @@
                 <span class="title"><a href="https://lifehacker.com/health/where-to-see-apple-watch-sleep-score?utm_medium=RSS" target="_blank">How to Find (and Use) Your Apple Watch&#x27;s New Sleep Score</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-17 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Kash-Patel.jpg?fit=680%2C383&amp;quality=60&amp;ssl=1" alt="Rep. Swalwell backs Kash Patel into a corner" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/17/rep-swalwell-backs-kash-patel-into-a-corner.html" target="_blank">Rep. Swalwell backs Kash Patel into a corner</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-17 18:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/sea-of-thieves.jpg" alt="Alleged Shooter’s Discord Chats Cut Against Rush To Blame Online Games And Memes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/charlie-kirk-shooter-discord-politics-helldivers-memes-2000626029" target="_blank">Alleged Shooter’s Discord Chats Cut Against Rush To Blame Online Games And Memes</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-17 18:06</span>
             </div>
         </div>
 </div>
@@ -329,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
