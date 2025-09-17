@@ -1,40 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-17 10:01:54 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-17 11:01:23 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Wednesday, September 17, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, September 17, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-gaza-israeli-strike_7022688.jpg?20250917084551" alt="&#x27;At least 16&#x27; killed in latest Gaza attacks - as 10 children arrive in UK for NHS treatment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/at-least-16-killed-in-latest-israeli-attacks-on-gaza-as-10-children-arrive-in-uk-for-nhs-treatment-13432634" target="_blank">&#x27;At least 16&#x27; killed in latest Gaza attacks - as 10 children arrive in UK for NHS treatment</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-17 09:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,21 +94,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b062/live/199eed10-84dd-11f0-bdc5-0bac48b207b6.png" alt="Madeleine McCann suspect freed from German prison" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/17/video-al-jazeera-challenges-un-chief-over-gaza-genocide?traffic_source=rss" target="_blank">Video: Al Jazeera challenges UN chief over Gaza genocide</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-17 07:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/17/iran-executes-man-it-says-spied-for-israel-activists-say-false-confession?traffic_source=rss" target="_blank">Iran executes man it says spied for Israel, activists say false confession</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-17 06:33</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy4rydzmrmvo?at_medium=RSS&at_campaign=rss" target="_blank">Madeleine McCann suspect freed from German prison</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-17 08:51</span>
             </div>
         </div>
 </div>
@@ -109,6 +107,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/17/sonair-built-its-3d-ultrasonic-sensor-with-robotic-safety-in-mind/" target="_blank">Sonair built its 3D ultrasonic sensor with robotic safety in mind</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-17 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +161,38 @@
                 <span class="time">2025-09-16 23:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/16/al-gore-on-chinas-climate-rise-i-would-not-have-seen-this-coming/" target="_blank">Al Gore on China’s climate rise: ‘I would not have seen this coming’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-16 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/theaialchemist2025/turning-your-ideas-into-gold-why-the-ai-alchemist-is-about-to-be-your-secret-weapon-1j8j" target="_blank">Turning Your Ideas into Gold: Why The AI Alchemist Is About to Be Your Secret Weapon 🧙‍♂️</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-17 10:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/c-sharp-startup/en/mediumimage/sam-cox-medium-1756893017502.jpg" alt="Presentation: Questioning Convention: C# as a Shortcut to Startup Velocity" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/c-sharp-startup/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Questioning Convention: C# as a Shortcut to Startup Velocity</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-17 10:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://tane.dev/2025/09/oh-no-not-again...-a-meditation-on-npm-supply-chain-attacks/" target="_blank">Oh no, not again a meditation on NPM supply chain attacks</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-17 09:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/09/hugging-face-vscode/en/headerimage/generatedHeaderImage-1758101843050.jpg" alt="Hugging Face Brings Open-Source LLMs to GitHub Copilot Chat in VS Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -193,33 +218,6 @@
                 <span class="title"><a href="https://dev.to/shawon/how-to-suppress-build-errors-in-nextjs-with-typescript-1dnl" target="_blank">How To Suppress Build Errors in Next.js with TypeScript</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-17 08:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa0u67428ihmggwm5ygwd.png" alt="Deploy Vaultwarden on Nanocl" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/0xle0ne/deploy-vaultwarden-on-nanocl-gg1" target="_blank">Deploy Vaultwarden on Nanocl</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-17 06:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/wildboar_developer/static-single-assignment-ssa-51m3" target="_blank">Static Single Assignment (SSA)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-17 04:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Haiku-Slow-Git-Status" target="_blank">Haiku OS Addressing Slow &quot;git status&quot; Performance Relative To Linux</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-17 04:00</span>
             </div>
         </div>
 </div>
@@ -350,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 253 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 252 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
