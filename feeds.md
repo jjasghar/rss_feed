@@ -1,29 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-17 04:02:18 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-17 05:02:21 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, September 17, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, September 17, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/17/nx-s1-5539164/npr-public-media-funding-budget" target="_blank">NPR to trim $5 million this year as public radio stations struggle to pay bills</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-17 04:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,15 +96,6 @@
                 <span class="time">2025-09-16 22:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/16/us-president-donald-trump-arrives-in-uk-for-second-state-visit?traffic_source=rss" target="_blank">US President Donald Trump arrives in UK for second state visit</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-16 22:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -105,6 +108,15 @@
                 <span class="title"><a href="https://www.wired.com/story/save-dollar100-or-more-on-a-mac-mini-today/" target="_blank">Mac Mini Sale: Get Into MacOS for Less Than $500 Today</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-09-16 23:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/53859480979_df0a011fa7_k-500x500.jpg" alt="A record supply load won’t reach the International Space Station as scheduled" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/09/a-record-supply-load-wont-reach-the-international-space-station-as-scheduled/" target="_blank">A record supply load won’t reach the International Space Station as scheduled</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-16 23:13</span>
             </div>
         </div>
 <div class="story">
@@ -143,20 +155,20 @@
                 <span class="time">2025-09-16 20:53</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/ai-artificial-intelligence/779053/sam-altman-says-chatgpt-will-stop-talking-about-suicide-with-teens" target="_blank">Sam Altman says ChatGPT will stop talking about suicide with teens</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-16 20:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/wildboar_developer/static-single-assignment-ssa-51m3" target="_blank">Static Single Assignment (SSA)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-17 04:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -200,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/u11d/nestjs-authentication-with-stytch-complete-starter-guide-3aon" target="_blank">NestJS Authentication with Stytch: Complete Starter Guide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-16 22:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Rust-DRM-Drivers-Linux-6.18-Tyr" target="_blank">Tyr Driver Being Submitted For Linux 6.18 As Rust-Based Arm Mali Driver</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-16 20:30</span>
             </div>
         </div>
 </div>
@@ -330,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
