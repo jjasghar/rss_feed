@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-09-17 09:02:11 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-17 10:01:54 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Wednesday, September 17, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Wednesday, September 17, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +54,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/17/qatars-emir-visits-jordan-to-set-military-cooperation-after-israel-attack?traffic_source=rss" target="_blank">Qatar’s emir visits Jordan to set military cooperation after Israel attack</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-17 09:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/17/nx-s1-5544096/madeleine-mccann-suspect-germany" target="_blank">Suspect in UK toddler disappearance is released after serving time in unrelated case</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-17 09:18</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aed/live/9f05e7c0-934b-11f0-b391-6936825093bd.jpg" alt="Trump hails &#x27;very good&#x27; relationship as he begins UK state visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cz9jyzl4532o?at_medium=RSS&at_campaign=rss" target="_blank">Trump hails &#x27;very good&#x27; relationship as he begins UK state visit</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-17 09:12</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250917-kirk-2-rs-e5860e.jpg" alt="Trump administration says it will target far left groups for Kirk&#x27;s assassination. Prosecutors make no such link." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/white-house/trump-administration-says-will-target-far-left-groups-kirks-assassinat-rcna231605" target="_blank">Trump administration says it will target far left groups for Kirk&#x27;s assassination. Prosecutors make no such link.</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-17 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/17/video-al-jazeera-challenges-un-chief-over-gaza-genocide?traffic_source=rss" target="_blank">Video: Al Jazeera challenges UN chief over Gaza genocide</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-17 07:19</span>
@@ -60,42 +102,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/17/iran-executes-man-it-says-spied-for-israel-activists-say-false-confession?traffic_source=rss" target="_blank">Iran executes man it says spied for Israel, activists say false confession</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-17 06:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/17/nx-s1-5539164/npr-public-media-funding-budget" target="_blank">NPR to trim $5 million this year as public radio stations struggle to pay bills</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-17 04:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/17/brazils-bolsonaro-taken-to-hospital-after-feeling-unwell?traffic_source=rss" target="_blank">Brazil’s Bolsonaro taken to hospital after feeling unwell</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-17 01:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c06/live/03630030-934d-11f0-b391-6936825093bd.jpg" alt="Charlie Kirk suspect confessed in hidden note to roommate, prosecutors allege" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckg2r8lvjn2o?at_medium=RSS&at_campaign=rss" target="_blank">Charlie Kirk suspect confessed in hidden note to roommate, prosecutors allege</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-17 00:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-gaza-city-israel_7022637.jpg?20250917013535" alt="Israel&#x27;s Gaza City offensive branded &#x27;horrific&#x27; - as pressure mounts for Starmer to act" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/pressure-mounts-on-pm-to-raise-israels-gaza-offensive-with-trump-13432530" target="_blank">Israel&#x27;s Gaza City offensive branded &#x27;horrific&#x27; - as pressure mounts for Starmer to act</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-17 00:02</span>
             </div>
         </div>
 </div>
@@ -163,6 +169,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/09/hugging-face-vscode/en/headerimage/generatedHeaderImage-1758101843050.jpg" alt="Hugging Face Brings Open-Source LLMs to GitHub Copilot Chat in VS Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/hugging-face-vscode/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Hugging Face Brings Open-Source LLMs to GitHub Copilot Chat in VS Code</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-17 09:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Compute-25.35.35096.9" target="_blank">Intel Compute Runtime 25.35.35096.9 Ships Newest Features &amp; Optimizations</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-17 09:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -196,24 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Haiku-Slow-Git-Status" target="_blank">Haiku OS Addressing Slow &quot;git status&quot; Performance Relative To Linux</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-17 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://midnight-commander.org/" target="_blank">GNU Midnight Commander</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-17 03:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/morteza-jangjoo/sql-server-ledger-tables-complete-guide-with-banking-example-4f65" target="_blank">SQL Server Ledger Tables: Complete Guide with Banking Example</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-17 02:14</span>
             </div>
         </div>
 </div>
@@ -344,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 253 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 253 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
