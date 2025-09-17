@@ -1,37 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-09-17 22:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-17 23:01:46 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, September 17, 2025 - 22:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, September 17, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/17/g-s1-89333/pennsylvania-police-shooting-north-codorus" target="_blank">3 police officers killed and 2 injured in rural Pennsylvania shooting</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-17 21:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +105,20 @@
                 <span class="time">2025-09-17 19:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/125f/live/5580c0d0-93f4-11f0-9cf6-cbf3e73ce2b9.png" alt="Israeli tanks push into major Gaza City residential area" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4gv881exj2o?at_medium=RSS&at_campaign=rss" target="_blank">Israeli tanks push into major Gaza City residential area</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-17 18:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/17/irregular-raises-80-million-to-secure-frontier-ai-models/" target="_blank">Irregular raises $80 million to secure frontier AI models</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-17 21:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68caf947622b125cceb3d7db/master/pass/Save%20Big%20on%20Our%20Favorite%20TCL%20Televisions.png" alt="Big Deals on Big TCL TVs—Some Of Our Top Tested Models Are Nearly 50% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +164,29 @@
                 <span class="time">2025-09-17 19:54</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c9baa8417de5cb5d2fa3c8/master/pass/Susan-Monarez-Testifies-Before-Senate-Science-2221407764.jpg" alt="Fired CDC Director Says RFK Jr. Pressured Her to Blindly Approve Vaccine Changes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/susan-monarez-fired-cdc-director-senate-testimony/" target="_blank">Fired CDC Director Says RFK Jr. Pressured Her to Blindly Approve Vaccine Changes</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-17 18:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/thunderbird-143.jpg?resize=406%2C232&amp;ssl=1" alt="Thunderbird 143 Released" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/thunderbird-143-release-brings-bug-fixes-aplenty" target="_blank">Thunderbird 143 Released</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-17 22:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lewiz17/shopify-no-es-solo-para-grandes-marcas-como-las-pymes-pueden-escalar-su-e-commerce-2pmc" target="_blank">Shopify 🚀 no es solo para grandes marcas: cómo las pymes pueden escalar su e-commerce</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-17 22:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,24 +223,6 @@
                 <span class="time">2025-09-17 18:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18630595&w=600" alt="Building a Platform Abstraction for EKS Cluster Using Crossplane" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/platform-abstraction-eks-cluster-crossplane" target="_blank">Building a Platform Abstraction for EKS Cluster Using Crossplane</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-17 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18626170&w=600" alt="From Data Growth to Data Responsibility: Building Secure Data Systems in AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-secure-data-systems-aws" target="_blank">From Data Growth to Data Responsibility: Building Secure Data Systems in AWS</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-17 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +243,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/alienromulus.jpg" alt="Fede Álvarez Wrote the ‘Alien: Romulus’ Sequel to Avoid an ‘Alien 3’ Situation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/alien-romulus-sequel-fede-alvarez-alien-3-2000660375" target="_blank">Fede Álvarez Wrote the ‘Alien: Romulus’ Sequel to Avoid an ‘Alien 3’ Situation</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-17 22:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K5CPEZWZPJS0BQTJWDREQXGG/hero-image.png" alt="Garmin’s Venu 4 Has a New Fitness Coach and a Flashlight" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/garmin-new-venu-4-watch?utm_medium=RSS" target="_blank">Garmin’s Venu 4 Has a New Fitness Coach and a Flashlight</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-17 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/star-wars-andor-nemik-navigator.jpg" alt="Alex Lawther Didn’t Know Just How Much His ‘Andor’ Manifesto Hit Until Season 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -257,39 +279,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/memoryOS-Expert-Plan.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Train your brain with the app that helps you actually remember names, dates, and passwords" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/17/train-your-brain-with-the-app-that-helps-you-actually-remember-names-dates-and-passwords.html" target="_blank">Train your brain with the app that helps you actually remember names, dates, and passwords</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-17 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/05/Trump-may-23-2025.jpg" alt="Spirit Airlines Pilot Reportedly Warned to ‘Get Off the iPad’ After Veering Too Close to Air Force One" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/spirit-airlines-pilot-reportedly-warned-to-get-off-the-ipad-after-veering-too-close-to-air-force-one-2000660292" target="_blank">Spirit Airlines Pilot Reportedly Warned to ‘Get Off the iPad’ After Veering Too Close to Air Force One</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-17 20:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/bloodlinezs.jpg" alt="Bloodlines 2 Won’t Lock Clans Behind Paywall After Everyone Yelled At Them Enough" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/vampire-masquerade-bloodlines-2-day-one-dlc-clans-paradox-change-story-pack-2000626573" target="_blank">Bloodlines 2 Won’t Lock Clans Behind Paywall After Everyone Yelled At Them Enough</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-17 20:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/man-who-sold-the-moon.jpg?fit=1200%2C858&amp;quality=60&amp;ssl=1" alt="Company claims ownership of Moon&#x27;s resources, sells helium for quantum computing refrigeration" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/17/company-claims-ownership-of-moons-resources-sells-helium-for-quantum-computing-refrigeration.html" target="_blank">Company claims ownership of Moon&#x27;s resources, sells helium for quantum computing refrigeration</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-17 20:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K5CEF8QQP827DHRE9GKZ0E9Z/hero-image.jpg" alt="How to Find (and Use) Your Apple Watch&#x27;s New Sleep Score" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/where-to-see-apple-watch-sleep-score?utm_medium=RSS" target="_blank">How to Find (and Use) Your Apple Watch&#x27;s New Sleep Score</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-17 18:30</span>
             </div>
         </div>
 </div>
@@ -329,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
