@@ -1,44 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-17 19:01:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-17 20:01:39 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 11 new posts out of 34 feeds processed -->
+<!-- Generated 9 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, September 17, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, September 17, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/jerome-powell-1-rt-gmh-250917_1758134175320_hpMain_4x3t_384.jpg" alt="Fed cuts interest rates for 1st time in Trump&#x27;s 2nd term" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Business/fed-set-interest-rates-trump-seeks-shakeup-top/story?id=125623802" target="_blank">Fed cuts interest rates for 1st time in Trump&#x27;s 2nd term</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-17 19:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/17/saudi-arabia-signs-mutual-defence-pact-with-nuclear-armed-pakistan?traffic_source=rss" target="_blank">Saudi Arabia signs mutual defence pact with nuclear-armed Pakistan</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-17 19:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,29 +98,29 @@
                 <span class="time">2025-09-17 17:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/17/war-on-free-speech-outcry-after-maldives-passes-controversial-media-bill?traffic_source=rss" target="_blank">‘War on free speech’: Outcry after Maldives passes controversial media bill</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-17 16:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/17/nx-s1-5544168/how-charlie-kirk-became-a-leader-of-the-conservative-youth-movement" target="_blank">How Charlie Kirk became a leader of the conservative youth movement</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-17 16:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/17/kleiner-perkins-backed-voice-ai-startup-keplar-aims-to-replace-traditional-market-research/" target="_blank">Kleiner Perkins-backed voice AI startup Keplar aims to replace traditional market research</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-17 19:54</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68c9baa8417de5cb5d2fa3c8/master/pass/Susan-Monarez-Testifies-Before-Senate-Science-2221407764.jpg" alt="Fired CDC Director Says RFK Jr. Pressured Her to Blindly Approve Vaccine Changes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/susan-monarez-fired-cdc-director-senate-testimony/" target="_blank">Fired CDC Director Says RFK Jr. Pressured Her to Blindly Approve Vaccine Changes</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-17 18:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,29 +157,38 @@
                 <span class="time">2025-09-17 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/779968/bonfire-studios-arkheron-trailer-alpha-date" target="_blank">Former World of Warcraft lead designer finally shows off new multiplayer game</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-17 16:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/17/the-new-face-of-defense-tech-takes-the-ai-stage-at-techcrunch-disrupt-2025/" target="_blank">AI and the Future of Defense: Mach Industries’ Ethan Thornton at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-17 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/ign-hyrule-warriors-age-of-imprisonment-official-fight-the-epic-imprisoning-war-trailer-14ne" target="_blank">IGN: Hyrule Warriors: Age of Imprisonment - Official &#x27;Fight the Epic Imprisoning War&#x27; Trailer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-17 20:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18631882&w=600" alt="Enable AWS Budget Notifications With SNS Using AWS CDK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/aws-budget-notifications-sns-cdk" target="_blank">Enable AWS Budget Notifications With SNS Using AWS CDK</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-17 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://webassembly.org/news/2025-09-17-wasm-3.0/" target="_blank">WASM 3.0 Completed</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-17 18:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18630595&w=600" alt="Building a Platform Abstraction for EKS Cluster Using Crossplane" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,33 +216,6 @@
                 <span class="time">2025-09-17 16:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/GNOME-49-2.jpg?resize=406%2C232&amp;ssl=1" alt="GNOME 49 Officially Released, This is What’s New" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/gnome-49-officially-released" target="_blank">GNOME 49 Officially Released, This is What’s New</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-17 16:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/04/gnome-logo.jpg?resize=406%2C232&amp;ssl=1" alt="GNOME 49 Officially Released" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/gnome-49-officially-released" target="_blank">GNOME 49 Officially Released</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-17 16:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18626162&w=600" alt="Anything Rigid Is Not Sustainable: Why Flexibility Beats Dogma in Agile and Project Management" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/flexibility-vs-dogma-agile-project-management" target="_blank">Anything Rigid Is Not Sustainable: Why Flexibility Beats Dogma in Agile and Project Management</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-17 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K5CEF8QQP827DHRE9GKZ0E9Z/hero-image.jpg" alt="How to Find (and Use) Your Apple Watch&#x27;s New Sleep Score" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/where-to-see-apple-watch-sleep-score?utm_medium=RSS" target="_blank">How to Find (and Use) Your Apple Watch&#x27;s New Sleep Score</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-17 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Kash-Patel.jpg?fit=680%2C383&amp;quality=60&amp;ssl=1" alt="Rep. Swalwell backs Kash Patel into a corner" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -290,15 +289,6 @@
                 <span class="time">2025-09-17 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Screenshot-2025-09-17-at-10.37.44-AM.png?fit=1200%2C724&amp;quality=55&amp;ssl=1" alt="Dig this funkified AI/AC/DC version of Back in Black" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/17/dig-this-funkified-ai-ac-dc-version-of-back-in-black.html" target="_blank">Dig this funkified AI/AC/DC version of Back in Black</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-17 16:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -336,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
