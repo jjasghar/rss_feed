@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-16 23:01:34 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-09-17 00:04:30 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, September 16, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, September 17, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +56,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/16/us-president-donald-trump-arrives-in-uk-for-second-state-visit?traffic_source=rss" target="_blank">US President Donald Trump arrives in UK for second state visit</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-16 22:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758058774794_now_brk_kirk_robinson_court_250916_1920x1080-ymxm80.jpg" alt="Suspect in Charlie Kirk killing makes first court appearance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/suspect-in-charlie-kirk-killing-makes-first-court-appearance-247710277882" target="_blank">Suspect in Charlie Kirk killing makes first court appearance</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-16 21:39</span>
             </div>
         </div>
 <div class="story">
@@ -92,20 +103,20 @@
                 <span class="time">2025-09-16 19:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/16/syria-jordan-us-unveil-plan-to-restore-security-in-suwayda-after-violence?traffic_source=rss" target="_blank">Syria, Jordan, US unveil plan to restore security in Suwayda after violence</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-16 19:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68c99b1771407ee7357f113e/master/pass/Save%20$100%20or%20More%20on%20a%20Mac%20Mini.png" alt="Mac Mini Sale: Get Into MacOS for Less Than $500 Today" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/save-dollar100-or-more-on-a-mac-mini-today/" target="_blank">Mac Mini Sale: Get Into MacOS for Less Than $500 Today</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-16 23:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +162,20 @@
                 <span class="time">2025-09-16 20:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/16/same-day-delivery-comes-to-space-as-impulse-promises-satellite-transport-in-hours-not-months/" target="_blank">Same-day delivery comes to space, as Impulse promises satellite transport in hours, not months</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-16 20:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/12/kdenlive-1.jpg?resize=406%2C232&amp;ssl=1" alt="Kdenlive Devs Plan New Pro Editing Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/kdenlive-preps-new-pro-editing-features" target="_blank">Kdenlive Devs Plan New Pro Editing Features</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-16 22:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F633t3qlqxegwijwkxe7e.png" alt="NestJS Authentication with Stytch: Complete Starter Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,15 +221,6 @@
                 <span class="time">2025-09-16 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jppradhan/simple-mcp-tool-using-nodejs-13dm" target="_blank">Simple MCP tool using NodeJS</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-16 16:57</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -247,6 +249,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Apple-Watch-SE-3-Series-11-Ultra-3-Sleep-Score-Hypertension-2.jpg" alt="Do You Really Need a New Apple Watch If You Already Have One?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/do-you-really-need-a-new-apple-watch-if-you-already-have-one-2000659714" target="_blank">Do You Really Need a New Apple Watch If You Already Have One?</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-17 00:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Insta360-Go-Ultra-action-camera-01.jpg" alt="Insta360 Go Ultra Review: This Tiny Action Camera Got Swacked by a Sword, and Survived" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -292,15 +303,6 @@
                 <span class="time">2025-09-16 19:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/tarkov.jpg" alt="Escape From Tarkov On Steam Will Require A Separate Purchase" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/escape-from-tarkov-1-0-arena-steam-epic-unheard-edition-2000626063" target="_blank">Escape From Tarkov On Steam Will Require A Separate Purchase</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-16 18:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 255 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
