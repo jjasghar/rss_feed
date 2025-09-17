@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-17 13:08:39 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-17 14:01:38 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 30 feeds processed -->
+<!-- Generated 10 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, September 17, 2025 - 13:08 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, September 17, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9087/live/f129c3b0-93c2-11f0-b391-6936825093bd.jpg" alt="Trump given spectacular royal welcome in Windsor" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cz9jyzl4532o?at_medium=RSS&at_campaign=rss" target="_blank">Trump given spectacular royal welcome in Windsor</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-17 13:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/susan-monarez-rt-jt-250916_1758039945978_hpMain_4x3t_384.jpg" alt="Former CDC director Susan Monarez to testify to Senate about her ouster and RFK Jr." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/susan-monarez-former-cdc-director-testify-senate-ouster/story?id=125628812" target="_blank">Former CDC director Susan Monarez to testify to Senate about her ouster and RFK Jr.</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-17 12:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/17/g-s1-89071/cats-american-university-beirut-lebanon" target="_blank">Greetings from American University of Beirut, where more than 1,000 cats roam</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-17 12:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,38 +99,38 @@
                 <span class="time">2025-09-17 11:25</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/17/g-s1-89178/up-first-newsletter-charlie-kirk-tyler-robinson-trump-uk-visit-kash-patel" target="_blank">Kirk&#x27;s alleged shooter faces death penalty. And, Pritzker concerned for 2026 elections</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-17 11:09</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-gaza-israeli-strike_7022688.jpg?20250917084551" alt="&#x27;At least 16&#x27; killed in latest Gaza attacks - as 10 children arrive in UK for NHS treatment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/at-least-16-killed-in-latest-israeli-attacks-on-gaza-as-10-children-arrive-in-uk-for-nhs-treatment-13432634" target="_blank">&#x27;At least 16&#x27; killed in latest Gaza attacks - as 10 children arrive in UK for NHS treatment</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-17 09:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/17/qatars-emir-visits-jordan-to-set-military-cooperation-after-israel-attack?traffic_source=rss" target="_blank">Qatar’s emir visits Jordan to set military cooperation after Israel attack</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-17 09:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/17/lovable-ceo-anton-osika-on-building-one-of-the-fastest-growing-startups-in-history-at-techcrunch-disrupt-2025/" target="_blank">Lovable co-founder and CEO Anton Osika on building one of the fastest-growing startups in history at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-17 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68cab7d93e5e2149419670d9/master/pass/JensenBanana.png" alt="Jensen Huang Has Gone Nano Bananas!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/jensen-huang-has-gone-nano-bananas/" target="_blank">Jensen Huang Has Gone Nano Bananas!</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-17 13:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/nvidia-500x500.jpg" alt="China blocks sale of Nvidia AI chips" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/china-blocks-sale-of-nvidia-ai-chips/" target="_blank">China blocks sale of Nvidia AI chips</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-17 13:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,33 +156,6 @@
                 <span class="title"><a href="https://www.theverge.com/tech/779265/iphone-17-pro-max-review" target="_blank">Apple’s iPhone 17 Pro is a bold redesign but a basic upgrade</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-17 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/17/sonair-built-its-3d-ultrasonic-sensor-with-robotic-safety-in-mind/" target="_blank">Sonair built its 3D ultrasonic sensor with robotic safety in mind</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-17 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/16/indias-urban-company-soars-58-above-ipo-price-in-years-most-subscribed-offering/" target="_blank">India’s Urban Company soars 58% above IPO price in year’s most subscribed offering</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-17 06:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="Canon Promo Codes: 10% Off | September 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/canon-promo-code/" target="_blank">Canon Promo Codes: 10% Off | September 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-17 05:10</span>
             </div>
         </div>
 </div>
@@ -250,6 +246,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/image-10.jpg" alt="Bandai Namco Condemns Mockups Of Gunpla Models Of Charlie Kirk’s Assassination" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/charlie-kirk-assassination-bandai-namco-ai-model-gunpla-2000626472" target="_blank">Bandai Namco Condemns Mockups Of Gunpla Models Of Charlie Kirk’s Assassination</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-17 13:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/11/zuckerberg_loves_america1.png" alt="Zuckerberg Gets a Personal Political Piggy Bank With Meta Super Pac" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/zuckerberg-gets-a-personal-political-piggy-bank-with-meta-super-pac-2000659581" target="_blank">Zuckerberg Gets a Personal Political Piggy Bank With Meta Super Pac</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-17 13:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/07/IMG-2624-scaled-e1743081777536.jpg?fit=1280%2C960&amp;quality=60&amp;ssl=1" alt="17 extraordinary gardens to visit before winter hibernation begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/17/17-extraordinary-gardens-to-visit-before-winter-hibernation-begins.html" target="_blank">17 extraordinary gardens to visit before winter hibernation begins</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-17 13:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/07/Watch-Pornhub-in-Florida-Anonymously.jpg" alt="Michigan Bill Would Digitally Cockblock Entire State" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -274,33 +297,6 @@
                 <span class="title"><a href="https://gizmodo.com/ozempic-may-be-less-effective-for-emotional-eaters-study-suggests-2000659004" target="_blank">Ozempic May Be Less Effective for Emotional Eaters, Study Suggests</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-17 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Apple-Watch-SE-3-Series-11-Ultra-3-Sleep-Score-Hypertension-2.jpg" alt="Do You Really Need a New Apple Watch If You Already Have One?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/do-you-really-need-a-new-apple-watch-if-you-already-have-one-2000659714" target="_blank">Do You Really Need a New Apple Watch If You Already Have One?</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-17 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/bezos-yacht.jpg?fit=1200%2C798&amp;quality=60&amp;ssl=1" alt="&quot;I will retire with debt&quot; — credit scores drop at fastest rate since Great Recession" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/16/i-will-retire-with-debt-credit-scores-drop-at-fastest-rate-since-great-recession.html" target="_blank">&quot;I will retire with debt&quot; — credit scores drop at fastest rate since Great Recession</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-16 23:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/16/at-89-philosopher-bertrand-russell-wrote-a-masterful-response-to-a-fascist-leader-seeking-legitimacy.html" target="_blank">At 89, philosopher Bertrand Russell wrote a masterful response to a fascist leader seeking legitimacy</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-16 23:01</span>
             </div>
         </div>
 </div>
@@ -349,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 255 |
-        🔄 Last Updated: 13:08 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
