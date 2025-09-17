@@ -1,32 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-09-17 05:02:21 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-17 06:02:28 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, September 17, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, September 17, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -70,6 +67,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-gaza-city-israel_7022637.jpg?20250917013535" alt="Israel&#x27;s Gaza City offensive branded &#x27;horrific&#x27; - as pressure mounts for Starmer to act" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/pressure-mounts-on-pm-to-raise-israels-gaza-offensive-with-trump-13432530" target="_blank">Israel&#x27;s Gaza City offensive branded &#x27;horrific&#x27; - as pressure mounts for Starmer to act</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-17 00:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/25/09/1920x1080/skynews-gaza-city-israel_7022637.jpg?20250917013535" alt="&#x27;We cannot be bystanders&#x27;: Starmer urged to raise Israel&#x27;s Gaza offensive with Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
@@ -87,20 +93,29 @@
                 <span class="time">2025-09-16 23:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758063569825_nn_mch_charlie_kirk_shooter_death_penalty_250916_1920x1080-8tk8vr.jpg" alt="Suspect in Charlie Kirk assassination to face death penalty" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/suspect-in-charlie-kirk-assassination-to-face-death-penalty-247718981516" target="_blank">Suspect in Charlie Kirk assassination to face death penalty</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-16 22:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="Canon Promo Codes: 10% Off | September 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/canon-promo-code/" target="_blank">Canon Promo Codes: 10% Off | September 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-17 05:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/16/groww-backed-by-satya-nadella-set-to-become-first-indian-startup-to-go-public-after-u-s-to-india-move/" target="_blank">Groww, backed by Satya Nadella, set to become first Indian startup to go public after U.S.-to-India move</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-17 01:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68c99b1771407ee7357f113e/master/pass/Save%20$100%20or%20More%20on%20a%20Mac%20Mini.png" alt="Mac Mini Sale: Get Into MacOS for Less Than $500 Today" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -137,24 +152,6 @@
                 <span class="time">2025-09-16 22:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2235676237-500x500.jpg" alt="“China keeps the algorithm”: Critics attack Trump’s TikTok deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/china-keeps-the-algorithm-critics-attack-trumps-tiktok-deal/" target="_blank">“China keeps the algorithm”: Critics attack Trump’s TikTok deal</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-16 21:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c990923d8d455d1e07c475/master/pass/Model-Behavior-How-People-Actually-Use-ChatGPT.jpg" alt="OpenAI Rolls Out Teen Safety Features Amid Growing Scrutiny" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/openai-launches-teen-safety-features/" target="_blank">OpenAI Rolls Out Teen Safety Features Amid Growing Scrutiny</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-16 20:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -167,6 +164,24 @@
                 <span class="title"><a href="https://dev.to/wildboar_developer/static-single-assignment-ssa-51m3" target="_blank">Static Single Assignment (SSA)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-17 04:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Haiku-Slow-Git-Status" target="_blank">Haiku OS Addressing Slow &quot;git status&quot; Performance Relative To Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-17 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://midnight-commander.org/" target="_blank">GNU Midnight Commander</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-17 03:54</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +209,6 @@
                 <span class="title"><a href="https://dev.to/sergiocolqueponce/modern-data-visualization-tools-a-comprehensive-guide-to-streamlit-dash-and-bokeh-7ed" target="_blank">Modern Data Visualization Tools: A Comprehensive Guide to Streamlit, Dash, and Bokeh</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-17 01:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/12/kdenlive-1.jpg?resize=406%2C232&amp;ssl=1" alt="Kdenlive Devs Plan New Pro Editing Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/kdenlive-preps-new-pro-editing-features" target="_blank">Kdenlive Devs Plan New Pro Editing Features</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-16 22:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F633t3qlqxegwijwkxe7e.png" alt="NestJS Authentication with Stytch: Complete Starter Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/u11d/nestjs-authentication-with-stytch-complete-starter-guide-3aon" target="_blank">NestJS Authentication with Stytch: Complete Starter Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-16 22:00</span>
             </div>
         </div>
 </div>
@@ -333,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
