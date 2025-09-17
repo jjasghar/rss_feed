@@ -1,36 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-09-17 18:02:17 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-17 19:01:32 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Wednesday, September 17, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, September 17, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,10 +57,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/17/nx-s1-5544256/russia-ukraine-war-children-military-training-reeducation-yale" target="_blank">Russia gives Ukrainian kids military training and reeducation, Yale researchers find</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-17 18:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/9/17/us-federal-reserve-cuts-interest-rates-for-the-first-time-since-december?traffic_source=rss" target="_blank">US Federal Reserve cuts interest rates for the first time since December</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-17 18:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/17/fired-cdc-director-warns-of-backslide-in-us-vaccine-science-under-rfk-jr?traffic_source=rss" target="_blank">Fired CDC director warns of backslide in US vaccine science under RFK Jr</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-17 17:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/jerome_powell-lufc2p.jpg" alt="Fed Chair Powell speaks after interest rate decision" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/watch-live-fed-chair-powell-speaks-after-interest-rate-decision-247769157781" target="_blank">Fed Chair Powell speaks after interest rate decision</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-17 17:29</span>
             </div>
         </div>
 <div class="story">
@@ -73,38 +108,29 @@
                 <span class="time">2025-09-17 16:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/09/17/nx-s1-5544143/cdc-director-susan-monarez-testimony-rfk" target="_blank">Ousted CDC director testifies on why she was fired</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-17 15:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Susan-Monarez-1-rt-gmh-250917_1758118188513_hpMain_4x3t_384.jpg" alt="Former CDC director tells Senate committee &#x27;true reason&#x27; she was fired" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/susan-monarez-former-cdc-director-testify-senate-ouster/story?id=125628812" target="_blank">Former CDC director tells Senate committee &#x27;true reason&#x27; she was fired</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-17 15:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/17/sudan-family-torn-apart-by-war-is-reunited-after-al-jazeera-report?traffic_source=rss" target="_blank">Sudan family torn apart by war is reunited after Al Jazeera report</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-17 15:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/17/the-iphone-airs-real-breakthrough-is-its-battery/" target="_blank">The iPhone Air’s real breakthrough is its battery</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-17 18:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/delete-doge-500x500-1742411613.jpg" alt="Trump admin says Social Security database wasn’t “leaked, hacked, or shared”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/trump-admin-denies-doge-put-social-security-data-into-insecure-cloud-system/" target="_blank">Trump admin says Social Security database wasn’t “leaked, hacked, or shared”</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-17 17:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68c9ff081b7c6d3f808ffd96/master/pass/Your%20Kindle%20Can%20Speak%20Multiple%20Languages.png" alt="How to Change Your Kindle’s Language: Spanish, French, Japanese, and More (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,29 +167,20 @@
                 <span class="time">2025-09-17 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/17/from-startup-battlefield-200-to-the-disrupt-stage-discord-founder-jason-citron-returns-to-techcrunch-disrupt-2025/" target="_blank">From Startup Battlefield to the Disrupt Stage: Discord founder Jason Citron returns to TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-17 14:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/17/lovable-ceo-anton-osika-on-building-one-of-the-fastest-growing-startups-in-history-at-techcrunch-disrupt-2025/" target="_blank">Lovable co-founder and CEO Anton Osika on building one of the fastest-growing startups in history at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-17 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18630595&w=600" alt="Building a Platform Abstraction for EKS Cluster Using Crossplane" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/platform-abstraction-eks-cluster-crossplane" target="_blank">Building a Platform Abstraction for EKS Cluster Using Crossplane</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-17 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18626170&w=600" alt="From Data Growth to Data Responsibility: Building Secure Data Systems in AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +226,6 @@
                 <span class="time">2025-09-17 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-49-Released" target="_blank">GNOME 49 Officially Released With Wayland Improvements, Showtime As Video Player</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-17 15:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,12 +246,39 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Kash-Patel.jpg?fit=680%2C383&amp;quality=60&amp;ssl=1" alt="Rep. Swalwell backs Kash Patel into a corner" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/17/rep-swalwell-backs-kash-patel-into-a-corner.html" target="_blank">Rep. Swalwell backs Kash Patel into a corner</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-17 18:10</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/sea-of-thieves.jpg" alt="Alleged Shooter’s Discord Chats Cut Against Rush To Blame Online Games And Memes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/charlie-kirk-shooter-discord-politics-helldivers-memes-2000626029" target="_blank">Alleged Shooter’s Discord Chats Cut Against Rush To Blame Online Games And Memes</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-17 18:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/henry-halfhead.jpg" alt="Henry Halfhead Gave Me Whimsical Whiplash In The Best Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/henry-halfhead-review-cozy-sandbox-sim-switch-2000626517" target="_blank">Henry Halfhead Gave Me Whimsical Whiplash In The Best Way</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-09-17 17:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K5C62HN10W7B8AN4Q4QB0RXD/hero-image.png" alt="What It&#x27;s Like to Race With the Garmin Forerunner 165" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/what-its-like-to-race-with-the-garmin-forerunner-165?utm_medium=RSS" target="_blank">What It&#x27;s Like to Race With the Garmin Forerunner 165</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-17 17:30</span>
             </div>
         </div>
 <div class="story">
@@ -262,33 +297,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/17/dig-this-funkified-ai-ac-dc-version-of-back-in-black.html" target="_blank">Dig this funkified AI/AC/DC version of Back in Black</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-17 16:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/wickedforgood.jpg" alt="‘Wicked: For Good’ Wants to Crash That ‘KPop Demon Hunters’ Soundtrack Oscar Push" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/wicked-for-good-soundtrack-release-date-oscars-new-songs-2000660067" target="_blank">‘Wicked: For Good’ Wants to Crash That ‘KPop Demon Hunters’ Soundtrack Oscar Push</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-17 16:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/SeagateForXbox.jpg" alt="Seagate’s 2TB Xbox Expansion Card Is Cheaper per TB Than the 1TB One, All-Time Low Ahead of Prime Day in October" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/seagates-2tb-xbox-expansion-card-is-cheaper-per-tb-than-the-1tb-one-all-time-low-ahead-of-prime-day-in-october-2000626069" target="_blank">Seagate’s 2TB Xbox Expansion Card Is Cheaper per TB Than the 1TB One, All-Time Low Ahead of Prime Day in October</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-17 16:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K5C529Z4FTRP9GDKP0KF1958/hero-image.jpg" alt="Five iOS 26 Features That Changed How I Use My iPhone" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/the-best-five-ios-26-features?utm_medium=RSS" target="_blank">Five iOS 26 Features That Changed How I Use My iPhone</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-17 16:00</span>
             </div>
         </div>
 </div>
@@ -328,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
