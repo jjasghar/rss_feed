@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-17 20:01:39 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-09-17 21:01:35 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, September 17, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, September 17, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,15 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/17/smotrich-gaza-could-be-a-real-estate?traffic_source=rss" target="_blank">Smotrich: Gaza could be a ‘real estate bonanza’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-17 20:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/jerome-powell-1-rt-gmh-250917_1758134175320_hpMain_4x3t_384.jpg" alt="Fed cuts interest rates for 1st time in Trump&#x27;s 2nd term" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -60,6 +72,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/17/saudi-arabia-signs-mutual-defence-pact-with-nuclear-armed-pakistan?traffic_source=rss" target="_blank">Saudi Arabia signs mutual defence pact with nuclear-armed Pakistan</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-17 19:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/125f/live/5580c0d0-93f4-11f0-9cf6-cbf3e73ce2b9.png" alt="Israeli tanks push into major Gaza City residential area" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gv881exj2o?at_medium=RSS&at_campaign=rss" target="_blank">Israeli tanks push into major Gaza City residential area</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-17 18:52</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +101,47 @@
                 <span class="time">2025-09-17 18:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/17/fired-cdc-director-warns-of-backslide-in-us-vaccine-science-under-rfk-jr?traffic_source=rss" target="_blank">Fired CDC director warns of backslide in US vaccine science under RFK Jr</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-17 17:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/jerome_powell-lufc2p.jpg" alt="Fed Chair Powell speaks after interest rate decision" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/watch-live-fed-chair-powell-speaks-after-interest-rate-decision-247769157781" target="_blank">Fed Chair Powell speaks after interest rate decision</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-17 17:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68caf947622b125cceb3d7db/master/pass/Save%20Big%20on%20Our%20Favorite%20TCL%20Televisions.png" alt="Big Deals on Big TCL TVs—Some Of Our Top Tested Models Are Nearly 50% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/save-big-on-our-favorite-tcl-televisions/" target="_blank">Big Deals on Big TCL TVs—Some Of Our Top Tested Models Are Nearly 50% Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-17 20:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/sc2000-1-500x500-1758136437.jpg" alt="Why, as a responsible adult, SimCity 2000 hits differently" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2025/09/thirty-years-later-simcity-2000-hasnt-changed-but-i-have/" target="_blank">Why, as a responsible adult, SimCity 2000 hits differently</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-17 20:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/17/tesla-is-redesigning-its-door-handles-following-safety-probe-bloomberg-investigation/" target="_blank">Tesla is redesigning its door handles following safety probe, Bloomberg investigation</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-17 20:23</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/780287/microsoft-paint-project-files-feature-photoshop-psd" target="_blank">Microsoft Paint is getting its own Photoshop-like project files</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-17 20:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -121,47 +160,20 @@
                 <span class="time">2025-09-17 18:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/17/the-iphone-airs-real-breakthrough-is-its-battery/" target="_blank">The iPhone Air’s real breakthrough is its battery</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-17 18:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/03/delete-doge-500x500-1742411613.jpg" alt="Trump admin says Social Security database wasn’t “leaked, hacked, or shared”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/trump-admin-denies-doge-put-social-security-data-into-insecure-cloud-system/" target="_blank">Trump admin says Social Security database wasn’t “leaked, hacked, or shared”</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-17 17:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c9ff081b7c6d3f808ffd96/master/pass/Your%20Kindle%20Can%20Speak%20Multiple%20Languages.png" alt="How to Change Your Kindle’s Language: Spanish, French, Japanese, and More (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-to-change-kindle-language/" target="_blank">How to Change Your Kindle’s Language: Spanish, French, Japanese, and More (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-17 17:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/17/zoom-launches-a-cross-application-ai-notetaker-ai-avatars-and-more-in-its-latest-update/" target="_blank">Zoom launches a cross application AI notetaker, AI avatars and more in its latest update</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-17 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dfkdigitals/smart-contract-upgradeability-patterns-a-developers-guide-4leo" target="_blank">Smart Contract Upgradeability Patterns: A Developer&#x27;s Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-17 20:53</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +219,6 @@
                 <span class="time">2025-09-17 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs7v6soepv687wewtwtxb.png" alt="Classification in a Nutshell" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vaishakhvipin/classification-in-a-nutshell-4b5g" target="_blank">Classification in a Nutshell</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-17 16:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +238,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/05/Trump-may-23-2025.jpg" alt="Spirit Airlines Pilot Reportedly Warned to ‘Get Off the iPad’ After Veering Too Close to Air Force One" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/spirit-airlines-pilot-reportedly-warned-to-get-off-the-ipad-after-veering-too-close-to-air-force-one-2000660292" target="_blank">Spirit Airlines Pilot Reportedly Warned to ‘Get Off the iPad’ After Veering Too Close to Air Force One</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-17 20:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/bloodlinezs.jpg" alt="Bloodlines 2 Won’t Lock Clans Behind Paywall After Everyone Yelled At Them Enough" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/vampire-masquerade-bloodlines-2-day-one-dlc-clans-paradox-change-story-pack-2000626573" target="_blank">Bloodlines 2 Won’t Lock Clans Behind Paywall After Everyone Yelled At Them Enough</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-17 20:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/man-who-sold-the-moon.jpg?fit=1200%2C858&amp;quality=60&amp;ssl=1" alt="Company claims ownership of Moon&#x27;s resources, sells helium for quantum computing refrigeration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/17/company-claims-ownership-of-moons-resources-sells-helium-for-quantum-computing-refrigeration.html" target="_blank">Company claims ownership of Moon&#x27;s resources, sells helium for quantum computing refrigeration</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-17 20:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K5CEF8QQP827DHRE9GKZ0E9Z/hero-image.jpg" alt="How to Find (and Use) Your Apple Watch&#x27;s New Sleep Score" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,33 +290,6 @@
                 <span class="title"><a href="https://kotaku.com/charlie-kirk-shooter-discord-politics-helldivers-memes-2000626029" target="_blank">Alleged Shooter’s Discord Chats Cut Against Rush To Blame Online Games And Memes</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-09-17 18:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/henry-halfhead.jpg" alt="Henry Halfhead Gave Me Whimsical Whiplash In The Best Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/henry-halfhead-review-cozy-sandbox-sim-switch-2000626517" target="_blank">Henry Halfhead Gave Me Whimsical Whiplash In The Best Way</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-17 17:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K5C62HN10W7B8AN4Q4QB0RXD/hero-image.png" alt="What It&#x27;s Like to Race With the Garmin Forerunner 165" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/what-its-like-to-race-with-the-garmin-forerunner-165?utm_medium=RSS" target="_blank">What It&#x27;s Like to Race With the Garmin Forerunner 165</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-17 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K5C6S5REB95A96GWXAPH5SYV/hero-image.png" alt="My Favorite Amazon Deal of the Day: The 13-Inch M4 MacBook Air" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/my-favorite-amazon-deal-of-the-day-13-inch-m4-macbook-air?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: The 13-Inch M4 MacBook Air</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-17 17:00</span>
             </div>
         </div>
 </div>
@@ -326,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
