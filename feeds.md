@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-17 00:04:30 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-17 01:28:59 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Wednesday, September 17, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, September 17, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c06/live/03630030-934d-11f0-b391-6936825093bd.jpg" alt="Charlie Kirk suspect confessed in hidden note to roommate, prosecutors allege" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckg2r8lvjn2o?at_medium=RSS&at_campaign=rss" target="_blank">Charlie Kirk suspect confessed in hidden note to roommate, prosecutors allege</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-17 00:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/16/thousands-of-palestinians-flee-as-israeli-bombs-rain-down-on-gaza-city?traffic_source=rss" target="_blank">Thousands of Palestinians flee as Israeli bombs rain down on Gaza City</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-16 23:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758063569825_nn_mch_charlie_kirk_shooter_death_penalty_250916_1920x1080-8tk8vr.jpg" alt="Suspect in Charlie Kirk assassination to face death penalty" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/suspect-in-charlie-kirk-assassination-to-face-death-penalty-247718981516" target="_blank">Suspect in Charlie Kirk assassination to face death penalty</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-16 22:59</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,33 +99,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/16/uk-court-temporarily-blocks-deportation-of-eritrean-asylum-seeker?traffic_source=rss" target="_blank">UK court temporarily blocks deportation of Eritrean asylum seeker</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-16 21:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/16/prosecutor-to-seek-death-penalty-for-kirk-shooting-suspect?traffic_source=rss" target="_blank">Prosecutor to seek death penalty for Kirk shooting suspect</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-16 20:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/16/nx-s1-5543413/tiktok-trump-ban-china" target="_blank">Trump extends TikTok reprieve as deal nears</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-16 20:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/Charlie-Kirk-5-ht-gmh-250916_1758047119799_hpMain_4x3t_384.jpg" alt="Tyler Robinson said he killed Charlie Kirk because he &#x27;spreads too much hate&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/tyler-robinson-set-face-formal-charges-shooting-death/story?id=125614396" target="_blank">Tyler Robinson said he killed Charlie Kirk because he &#x27;spreads too much hate&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-16 19:57</span>
             </div>
         </div>
 </div>
@@ -168,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sergiocolqueponce/modern-data-visualization-tools-a-comprehensive-guide-to-streamlit-dash-and-bokeh-7ed" target="_blank">Modern Data Visualization Tools: A Comprehensive Guide to Streamlit, Dash, and Bokeh</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-17 01:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/12/kdenlive-1.jpg?resize=406%2C232&amp;ssl=1" alt="Kdenlive Devs Plan New Pro Editing Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -195,30 +202,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/09/java25-released/en/headerimage/java-istock-image-01-1758050604272.jpg" alt="Java 25, the Next LTS Release, Delivers Finalized Features and Focus on Performance and Runtime" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/java25-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java 25, the Next LTS Release, Delivers Finalized Features and Focus on Performance and Runtime</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-16 19:30</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2025/09/16/what-an-mcp-implementation-looks-like-at-a-crm-company/" target="_blank">What an MCP implementation looks like at a CRM company</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-09-16 19:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18624618&w=600" alt="How to Migrate from Java 8 to Java 17+ Using Amazon Q Developer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/upgrading-java-version-using-amazon-q-developer" target="_blank">How to Migrate from Java 8 to Java 17+ Using Amazon Q Developer</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-16 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18624989&w=600" alt="Beyond Code: How to Use AI to Modernize Software Architecture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-modernize-software-architecture" target="_blank">Beyond Code: How to Use AI to Modernize Software Architecture</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-16 17:00</span>
             </div>
         </div>
 </div>
@@ -268,6 +266,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K5A4WSPKV5RBXJX07X91NPGQ/hero-image.png" alt="How to Fix &#x27;Tilted&#x27; Dark Mode App Icons in iOS 26" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-to-fix-tilted-dark-mode-app-icons-in-ios-26?utm_medium=RSS" target="_blank">How to Fix &#x27;Tilted&#x27; Dark Mode App Icons in iOS 26</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-16 21:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/borderlands-goldkeys.jpg" alt="How Shift Codes And Gold Keys Work In Borderlands 4" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -294,20 +301,20 @@
                 <span class="time">2025-09-16 20:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/sdr.jpg?fit=1200%2C700&amp;quality=60&amp;ssl=1" alt="Weather balloons, Russian &quot;buzzer&quot; stations, and more: 50 things you can listen to with a $30 software defined radio" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/16/weather-balloons-russian-buzzer-stations-and-more-50-things-you-can-listen-to-with-a-30-software-defined-radio.html" target="_blank">Weather balloons, Russian &quot;buzzer&quot; stations, and more: 50 things you can listen to with a $30 software defined radio</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-16 19:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/09/17/new-lookouts-art" target="_blank">New Lookouts Art!</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-09-17 00:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -331,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
