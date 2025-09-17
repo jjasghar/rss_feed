@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-17 17:01:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-17 18:02:17 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, September 17, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, September 17, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,9 +50,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/17/fired-cdc-director-warns-of-backslide-in-us-vaccine-science-under-rfk-jr?traffic_source=rss" target="_blank">Fired CDC director warns of backslide in US vaccine science under RFK Jr</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-17 17:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/17/war-on-free-speech-outcry-after-maldives-passes-controversial-media-bill?traffic_source=rss" target="_blank">‘War on free speech’: Outcry after Maldives passes controversial media bill</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-17 16:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/17/nx-s1-5544168/how-charlie-kirk-became-a-leader-of-the-conservative-youth-movement" target="_blank">How Charlie Kirk became a leader of the conservative youth movement</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-17 16:06</span>
             </div>
         </div>
 <div class="story">
@@ -67,6 +83,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/Susan-Monarez-1-rt-gmh-250917_1758118188513_hpMain_4x3t_384.jpg" alt="Former CDC director tells Senate committee &#x27;true reason&#x27; she was fired" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/susan-monarez-former-cdc-director-testify-senate-ouster/story?id=125628812" target="_blank">Former CDC director tells Senate committee &#x27;true reason&#x27; she was fired</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-17 15:54</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -75,38 +100,29 @@
                 <span class="time">2025-09-17 15:26</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/2235355168-e54e23.jpg" alt="A king, a carriage and an ancient castle greet Trump at historic U.K. visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/world/united-kingdom/trump-uk-state-visit-royal-windsor-king-charles-rcna231863" target="_blank">A king, a carriage and an ancient castle greet Trump at historic U.K. visit</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-17 13:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9087/live/f129c3b0-93c2-11f0-b391-6936825093bd.jpg" alt="Trump given spectacular royal welcome in Windsor" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cz9jyzl4532o?at_medium=RSS&at_campaign=rss" target="_blank">Trump given spectacular royal welcome in Windsor</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-17 13:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/monarez_test-n4wxmv.jpg" alt="Former CDC Director Susan Monarez testifies at Senate hearing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/watch-live-former-cdc-director-susan-monarez-testifies-at-senate-hearing-247750725915" target="_blank">Former CDC Director Susan Monarez testifies at Senate hearing</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-17 13:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68c9ff081b7c6d3f808ffd96/master/pass/Your%20Kindle%20Can%20Speak%20Multiple%20Languages.png" alt="How to Change Your Kindle’s Language: Spanish, French, Japanese, and More (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-change-kindle-language/" target="_blank">How to Change Your Kindle’s Language: Spanish, French, Japanese, and More (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-17 17:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/17/zoom-launches-a-cross-application-ai-notetaker-ai-avatars-and-more-in-its-latest-update/" target="_blank">Zoom launches a cross application AI notetaker, AI avatars and more in its latest update</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-17 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +159,20 @@
                 <span class="time">2025-09-17 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68cab7d93e5e2149419670d9/master/pass/JensenBanana.png" alt="Nvidia CEO Jensen Huang Is Bananas for Google Gemini’s AI Image Generator" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/jensen-huang-has-gone-nano-bananas/" target="_blank">Nvidia CEO Jensen Huang Is Bananas for Google Gemini’s AI Image Generator</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-17 13:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68cab7d93e5e2149419670d9/master/pass/JensenBanana.png" alt="Jensen Huang Has Gone Nano Bananas!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/jensen-huang-has-gone-nano-bananas/" target="_blank">Jensen Huang Has Gone Nano Bananas!</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-17 13:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18626170&w=600" alt="From Data Growth to Data Responsibility: Building Secure Data Systems in AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-secure-data-systems-aws" target="_blank">From Data Growth to Data Responsibility: Building Secure Data Systems in AWS</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-17 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs7v6soepv687wewtwtxb.png" alt="Classification in a Nutshell" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -173,6 +180,15 @@
                 <span class="title"><a href="https://dev.to/vaishakhvipin/classification-in-a-nutshell-4b5g" target="_blank">Classification in a Nutshell</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-17 16:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/GNOME-49-2.jpg?resize=406%2C232&amp;ssl=1" alt="GNOME 49 Officially Released, This is What’s New" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/gnome-49-officially-released" target="_blank">GNOME 49 Officially Released, This is What’s New</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-17 16:17</span>
             </div>
         </div>
 <div class="story">
@@ -202,24 +218,6 @@
                 <span class="time">2025-09-17 15:29</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18626159&w=600" alt="Terraform Compact Function: Clean Up and Simplify Lists" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/terraform-compact-function" target="_blank">Terraform Compact Function: Clean Up and Simplify Lists</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-17 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18626102&w=600" alt="Development of System Configuration Management: Performance Considerations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/system-configuration-management-performance-considerations" target="_blank">Development of System Configuration Management: Performance Considerations</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-17 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -239,6 +237,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/henry-halfhead.jpg" alt="Henry Halfhead Gave Me Whimsical Whiplash In The Best Way" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/henry-halfhead-review-cozy-sandbox-sim-switch-2000626517" target="_blank">Henry Halfhead Gave Me Whimsical Whiplash In The Best Way</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-17 17:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K5C6S5REB95A96GWXAPH5SYV/hero-image.png" alt="My Favorite Amazon Deal of the Day: The 13-Inch M4 MacBook Air" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/my-favorite-amazon-deal-of-the-day-13-inch-m4-macbook-air?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: The 13-Inch M4 MacBook Air</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-17 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Screenshot-2025-09-17-at-10.37.44-AM.png?fit=1200%2C724&amp;quality=55&amp;ssl=1" alt="Dig this funkified AI/AC/DC version of Back in Black" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +289,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/the-best-five-ios-26-features?utm_medium=RSS" target="_blank">Five iOS 26 Features That Changed How I Use My iPhone</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-17 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/Skate-4.jpg" alt="Skate 4 Is Getting Savaged In Early Steam Reviews But These Clips Are Incredible" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/skate-4-steam-reviews-microtransactions-always-online-2000626503" target="_blank">Skate 4 Is Getting Savaged In Early Steam Reviews But These Clips Are Incredible</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-17 15:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JQX40XQ4BZ33B4GJFZXKMRRM/hero-image.png" alt="You Can Get a One-Year BJ&#x27;s Membership for Just $15 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/bjs-membership-stacksocial-sale?utm_medium=RSS" target="_blank">You Can Get a One-Year BJ&#x27;s Membership for Just $15 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-17 14:00</span>
             </div>
         </div>
 </div>
@@ -330,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 264 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
