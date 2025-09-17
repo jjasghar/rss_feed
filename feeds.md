@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-17 11:01:23 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-17 12:02:34 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DZone -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, September 17, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Wednesday, September 17, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/International/trump-king-charles_1758109677757_hpMain_4x3t_384.jpg" alt="Trump arrives for UK state visit, welcomed by king, prince at Windsor Castle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-begin-historic-uk-state-visit-royal-reception/story?id=125651147" target="_blank">Trump arrives for UK state visit, welcomed by king, prince at Windsor Castle</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-17 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/17/g-s1-89178/up-first-newsletter-charlie-kirk-tyler-robinson-trump-uk-visit-kash-patel" target="_blank">Kirk&#x27;s alleged shooter faces death penalty. And, Pritzker concerned for 2026 elections</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-17 11:09</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/25/09/1920x1080/skynews-gaza-israeli-strike_7022688.jpg?20250917084551" alt="&#x27;At least 16&#x27; killed in latest Gaza attacks - as 10 children arrive in UK for NHS treatment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,29 +98,20 @@
                 <span class="time">2025-09-17 09:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250917-kirk-2-rs-e5860e.jpg" alt="Trump administration says it will target far left groups for Kirk&#x27;s assassination. Prosecutors make no such link." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/white-house/trump-administration-says-will-target-far-left-groups-kirks-assassinat-rcna231605" target="_blank">Trump administration says it will target far left groups for Kirk&#x27;s assassination. Prosecutors make no such link.</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-17 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b062/live/199eed10-84dd-11f0-bdc5-0bac48b207b6.png" alt="Madeleine McCann suspect freed from German prison" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy4rydzmrmvo?at_medium=RSS&at_campaign=rss" target="_blank">Madeleine McCann suspect freed from German prison</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-17 08:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/779265/iphone-17-pro-max-review" target="_blank">Apple’s iPhone 17 Pro is a bold redesign but a basic upgrade</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-17 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +157,29 @@
                 <span class="time">2025-09-16 23:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/53859480979_df0a011fa7_k-500x500.jpg" alt="A record supply load won’t reach the International Space Station as scheduled" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/09/a-record-supply-load-wont-reach-the-international-space-station-as-scheduled/" target="_blank">A record supply load won’t reach the International Space Station as scheduled</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-16 23:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18626094&w=600" alt="Mastering Fluent Bit: Top 3 Telemetry Pipeline Input Plugins for Developers (Part 6)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/telemetry-pipeline-input-plugins-for-developers" target="_blank">Mastering Fluent Bit: Top 3 Telemetry Pipeline Input Plugins for Developers (Part 6)</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-17 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/" target="_blank">Apple Photos App Corrupts Images</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-17 11:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -187,37 +201,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-Detect-Bhyve" target="_blank">Linux 6.18 To Add Detection For FreeBSD&#x27;s Bhyve Hypervisor</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-17 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://tane.dev/2025/09/oh-no-not-again...-a-meditation-on-npm-supply-chain-attacks/" target="_blank">Oh no, not again a meditation on NPM supply chain attacks</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-09-17 09:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/hugging-face-vscode/en/headerimage/generatedHeaderImage-1758101843050.jpg" alt="Hugging Face Brings Open-Source LLMs to GitHub Copilot Chat in VS Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/hugging-face-vscode/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Hugging Face Brings Open-Source LLMs to GitHub Copilot Chat in VS Code</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-17 09:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Compute-25.35.35096.9" target="_blank">Intel Compute Runtime 25.35.35096.9 Ships Newest Features &amp; Optimizations</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-17 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/shawon/how-to-suppress-build-errors-in-nextjs-with-typescript-1dnl" target="_blank">How To Suppress Build Errors in Next.js with TypeScript</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-17 08:47</span>
             </div>
         </div>
 </div>
@@ -228,19 +224,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/" target="_blank">Self-Replicating Worm Hits 180+ Software Packages</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-09-16 14:08</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/hacking-electronic-safes.html" target="_blank">Hacking Electronic Safes</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-09-17 11:05</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/microsoft-still-uses-rc4.html" target="_blank">Microsoft Still Uses RC4</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-09-16 11:06</span>
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/" target="_blank">Self-Replicating Worm Hits 180+ Software Packages</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-09-16 14:08</span>
             </div>
         </div>
 </div>
@@ -348,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 252 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 250 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
