@@ -1,31 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-17 08:02:05 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-17 09:02:11 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 23 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, September 17, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Wednesday, September 17, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -101,6 +104,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/16/indias-urban-company-soars-58-above-ipo-price-in-years-most-subscribed-offering/" target="_blank">India’s Urban Company soars 58% above IPO price in year’s most subscribed offering</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-17 06:44</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="Canon Promo Codes: 10% Off | September 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -145,20 +157,20 @@
                 <span class="time">2025-09-16 23:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/779351/luigi-mangione-hearing-new-york-social-media-ecosystem" target="_blank">Can Luigi Mangione get too big to jail?</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-16 22:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/shawon/how-to-suppress-build-errors-in-nextjs-with-typescript-1dnl" target="_blank">How To Suppress Build Errors in Next.js with TypeScript</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-17 08:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa0u67428ihmggwm5ygwd.png" alt="Deploy Vaultwarden on Nanocl" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -202,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/morteza-jangjoo/sql-server-ledger-tables-complete-guide-with-banking-example-4f65" target="_blank">SQL Server Ledger Tables: Complete Guide with Banking Example</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-17 02:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://blog.pypi.org/posts/2025-09-16-github-actions-token-exfiltration/" target="_blank">PyPI Token Exfiltration Campaign via GitHub Actions Workflows</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-09-17 02:07</span>
             </div>
         </div>
 </div>
@@ -304,6 +307,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/09/17/the-price-is-wrong" target="_blank">The Price Is Wrong</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-09-17 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/09/17/new-lookouts-art" target="_blank">New Lookouts Art!</a></span>
                 <span class="feed">Penny Arcade</span>
                 <span class="time">2025-09-17 00:09</span>
@@ -332,8 +344,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 255 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 253 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
