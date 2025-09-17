@@ -1,33 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-17 15:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-17 16:01:57 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, September 17, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, September 17, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/09/17/nx-s1-5544143/cdc-director-susan-monarez-testimony-rfk" target="_blank">Ousted CDC director testifies on why she was fired</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-17 15:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/17/sudan-family-torn-apart-by-war-is-reunited-after-al-jazeera-report?traffic_source=rss" target="_blank">Sudan family torn apart by war is reunited after Al Jazeera report</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-17 15:26</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/2235355168-e54e23.jpg" alt="A king, a carriage and an ancient castle greet Trump at historic U.K. visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -62,6 +85,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/monarez_test-n4wxmv.jpg" alt="Former CDC Director Susan Monarez testifies at Senate hearing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/watch-live-former-cdc-director-susan-monarez-testifies-at-senate-hearing-247750725915" target="_blank">Former CDC Director Susan Monarez testifies at Senate hearing</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-17 13:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/susan-monarez-rt-jt-250916_1758039945978_hpMain_4x3t_384.jpg" alt="Former CDC director Susan Monarez to testify to Senate about her ouster and RFK Jr." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -70,38 +102,29 @@
                 <span class="time">2025-09-17 12:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/17/g-s1-89071/cats-american-university-beirut-lebanon" target="_blank">Greetings from American University of Beirut, where more than 1,000 cats roam</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-17 12:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef8e/live/60e75040-93d3-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Tests show Navalny was poisoned in jail, his widow says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5ye0x28vzqo?at_medium=RSS&at_campaign=rss" target="_blank">Tests show Navalny was poisoned in jail, his widow says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-17 12:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/17/as-israel-struck-qatar-south-africans-saw-echo-of-last-decade-of-apartheid?traffic_source=rss" target="_blank">As Israel struck Qatar, South Africans saw echo of last decade of apartheid</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-17 12:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/779968/bonfire-studios-arkheron-trailer-alpha-date" target="_blank">Former World of Warcraft lead designer finally shows off new multiplayer game</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-17 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/17/the-new-face-of-defense-tech-takes-the-ai-stage-at-techcrunch-disrupt-2025/" target="_blank">AI and the Future of Defense: Mach Industries’ Ethan Thornton at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-17 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,29 +161,29 @@
                 <span class="time">2025-09-17 13:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/nvidia-500x500.jpg" alt="China blocks sale of Nvidia AI chips" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/china-blocks-sale-of-nvidia-ai-chips/" target="_blank">China blocks sale of Nvidia AI chips</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-17 13:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/777565/meta-connect-2025-how-to-watch-keynote-mark-zuckerberg" target="_blank">How to watch Mark Zuckerberg’s keynote at Meta Connect 2025</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-17 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-49-Released" target="_blank">GNOME 49 Officially Released With Wayland Improvements, Showtime As Video Player</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-17 15:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18626159&w=600" alt="Terraform Compact Function: Clean Up and Simplify Lists" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/terraform-compact-function" target="_blank">Terraform Compact Function: Clean Up and Simplify Lists</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-17 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18626102&w=600" alt="Development of System Configuration Management: Performance Considerations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,24 +220,6 @@
                 <span class="time">2025-09-17 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/code-optimizations-dotnet/en/headerimage/header-1757973593442.jpg" alt="Improved Application Insights Code Optimizations Identify .NET Performance Bottlenecks Automatically" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/code-optimizations-dotnet/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Improved Application Insights Code Optimizations Identify .NET Performance Bottlenecks Automatically</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-17 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://tenderlovemaking.com/2025/09/17/apple-photos-app-corrupts-images/" target="_blank">Apple Photos App Corrupts Images</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-17 11:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/Skate-4.jpg" alt="Skate 4 Is Getting Savaged In Early Steam Reviews But These Clips Are Incredible" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/skate-4-steam-reviews-microtransactions-always-online-2000626503" target="_blank">Skate 4 Is Getting Savaged In Early Steam Reviews But These Clips Are Incredible</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-17 15:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JQX40XQ4BZ33B4GJFZXKMRRM/hero-image.png" alt="You Can Get a One-Year BJ&#x27;s Membership for Just $15 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/bjs-membership-stacksocial-sale?utm_medium=RSS" target="_blank">You Can Get a One-Year BJ&#x27;s Membership for Just $15 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-17 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/image-10.jpg" alt="Bandai Namco Condemns Mockups Of Gunpla Models Of Charlie Kirk’s Assassination" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +293,6 @@
                 <span class="time">2025-09-17 12:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Lynch.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="David Lynch&#x27;s $15M Hollywood Hills estate hits the market" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/16/david-lynchs-15m-hollywood-hills-estate-hits-the-market.html" target="_blank">David Lynch&#x27;s $15M Hollywood Hills estate hits the market</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-17 05:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/Ozempic.jpg" alt="Ozempic May Be Less Effective for Emotional Eaters, Study Suggests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ozempic-may-be-less-effective-for-emotional-eaters-study-suggests-2000659004" target="_blank">Ozempic May Be Less Effective for Emotional Eaters, Study Suggests</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-17 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,22 +325,13 @@
                 <span class="time">2025-09-16 16:38</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1757980806-20250916.png" alt="Saturday Morning Breakfast Cereal - Happiness" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/happiness-5" target="_blank">Saturday Morning Breakfast Cereal - Happiness</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-09-16 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
