@@ -1,34 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-18 00:04:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-18 01:29:09 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Generated 11 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, September 18, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, September 18, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,9 +51,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/18/trump-says-he-plans-to-designate-antifa-a-major-terrorist-group?traffic_source=rss" target="_blank">Trump says he plans to designate ANTIFA a ‘major terrorist’ group</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-18 01:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/17/israel-strikes-kill-palestinians-near-gazas-last-functioning-hospitals?traffic_source=rss" target="_blank">Israel strikes kill Palestinians near Gaza’s last functioning hospitals</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-17 23:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/17/g-s1-89333/pennsylvania-police-shooting-north-codorus" target="_blank">A shooting in Pennsylvania has left 3 officers dead and 2 injured</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-17 21:35</span>
             </div>
         </div>
 <div class="story">
@@ -80,29 +101,29 @@
                 <span class="time">2025-09-17 21:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/17/smotrich-gaza-could-be-a-real-estate?traffic_source=rss" target="_blank">Smotrich: Gaza could be a ‘real estate bonanza’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-17 20:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/jerome-powell-1-rt-gmh-250917_1758134175320_hpMain_4x3t_384.jpg" alt="Fed cuts interest rates for 1st time in Trump&#x27;s 2nd term" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Business/fed-set-interest-rates-trump-seeks-shakeup-top/story?id=125623802" target="_blank">Fed cuts interest rates for 1st time in Trump&#x27;s 2nd term</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-17 19:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/17/meta-launches-hyperscape-technology-to-turn-real-world-spaces-into-vr/" target="_blank">Meta launches Hyperscape, technology to turn real-world spaces into VR</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-18 00:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68c970f0dd665c0fef6ece1e/master/pass/091625_Meta-Glasses-Launch.jpg" alt="Meta Goes Even Harder Into Smart Glasses With 3 New Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/meta-smart-glasses-ray-ban-display-ray-ban-gen-2-oakley-vanguard/" target="_blank">Meta Goes Even Harder Into Smart Glasses With 3 New Models</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-18 00:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -122,6 +143,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1280616637-500x500.jpg" alt="You can hold on to your butts thanks to DNA that evolved in fish" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/09/distinct-digits-may-have-evolved-by-using-dna-that-makes-the-cloaca/" target="_blank">You can hold on to your butts thanks to DNA that evolved in fish</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-17 22:19</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -130,38 +160,38 @@
                 <span class="time">2025-09-17 21:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68caf947622b125cceb3d7db/master/pass/Save%20Big%20on%20Our%20Favorite%20TCL%20Televisions.png" alt="Big Deals on Big TCL TVs—Some Of Our Top Tested Models Are Nearly 50% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/save-big-on-our-favorite-tcl-televisions/" target="_blank">Big Deals on Big TCL TVs—Some Of Our Top Tested Models Are Nearly 50% Off</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-17 20:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/sc2000-1-500x500-1758136437.jpg" alt="Why, as a responsible adult, SimCity 2000 hits differently" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2025/09/thirty-years-later-simcity-2000-hasnt-changed-but-i-have/" target="_blank">Why, as a responsible adult, SimCity 2000 hits differently</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-17 20:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/17/tesla-is-redesigning-its-door-handles-following-safety-probe-bloomberg-investigation/" target="_blank">Tesla is redesigning its door handles following safety probe, Bloomberg investigation</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-17 20:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/marisbotero/docker-for-data-people-simplifying-development-with-containers-173g" target="_blank">Docker for Data People: Simplifying Development with Containers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-18 01:07</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-NumPy-x86-simd-sort" target="_blank">Intel&#x27;s Latest Open-Source Project To End &amp; Layoff Developers... But A New Home At NumPy</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-18 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/thunderbird-143.jpg?resize=406%2C232&amp;ssl=1" alt="Thunderbird 143 Release Delivers Mailbag Full of Fixes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/thunderbird-143-release-brings-bug-fixes-aplenty" target="_blank">Thunderbird 143 Release Delivers Mailbag Full of Fixes</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-17 22:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/thunderbird-143.jpg?resize=406%2C232&amp;ssl=1" alt="Thunderbird 143 Released" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -187,33 +217,6 @@
                 <span class="title"><a href="https://dev.to/dfkdigitals/smart-contract-upgradeability-patterns-a-developers-guide-4leo" target="_blank">Smart Contract Upgradeability Patterns: A Developer&#x27;s Guide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-17 20:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-GFX1251-LLVM-Target" target="_blank">AMD &quot;GFX1251&quot; Target Added To LLVM As Latest RDNA 4.5 APU</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-17 20:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-hyrule-warriors-age-of-imprisonment-official-fight-the-epic-imprisoning-war-trailer-14ne" target="_blank">IGN: Hyrule Warriors: Age of Imprisonment - Official &#x27;Fight the Epic Imprisoning War&#x27; Trailer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-17 20:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18631882&w=600" alt="Enable AWS Budget Notifications With SNS Using AWS CDK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/aws-budget-notifications-sns-cdk" target="_blank">Enable AWS Budget Notifications With SNS Using AWS CDK</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-17 19:00</span>
             </div>
         </div>
 </div>
@@ -313,12 +316,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://imgs.xkcd.com/comics/question_mark.png" alt="Question Mark" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/09/17/new-lookouts-art" target="_blank">New Lookouts Art!</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-09-17 00:09</span>
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3143/" target="_blank">Question Mark</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-09-17 04:00</span>
             </div>
         </div>
 </div>
@@ -326,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
