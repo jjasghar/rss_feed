@@ -1,41 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-17 23:01:46 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-09-18 00:04:29 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 32 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, September 17, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, September 18, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/17/israel-strikes-kill-palestinians-near-gazas-last-functioning-hospitals?traffic_source=rss" target="_blank">Israel strikes kill Palestinians near Gaza’s last functioning hospitals</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-17 23:04</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -96,20 +98,29 @@
                 <span class="time">2025-09-17 19:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/17/saudi-arabia-signs-mutual-defence-pact-with-nuclear-armed-pakistan?traffic_source=rss" target="_blank">Saudi Arabia signs mutual defence pact with nuclear-armed Pakistan</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-17 19:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/17/nvidia-ai-chip-challenger-groq-raises-even-more-than-expected-hits-6-9b-valuation/" target="_blank">Nvidia AI chip challenger Groq raises even more than expected, hits $6.9B valuation</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-17 23:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/780502/heres-the-jimmy-kimmel-clip-that-got-him-pulled-off-the-air" target="_blank">Here&amp;#8217;s the Jimmy Kimmel clip that got him pulled off the air</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-17 23:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,24 +155,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/09/17/tesla-is-redesigning-its-door-handles-following-safety-probe-bloomberg-investigation/" target="_blank">Tesla is redesigning its door handles following safety probe, Bloomberg investigation</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-09-17 20:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/780287/microsoft-paint-project-files-feature-photoshop-psd" target="_blank">Microsoft Paint is getting its own Photoshop-like project files</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-17 20:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/17/kleiner-perkins-backed-voice-ai-startup-keplar-aims-to-replace-traditional-market-research/" target="_blank">Kleiner Perkins-backed voice AI startup Keplar aims to replace traditional market research</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-17 19:54</span>
             </div>
         </div>
 </div>
@@ -199,6 +192,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-GFX1251-LLVM-Target" target="_blank">AMD &quot;GFX1251&quot; Target Added To LLVM As Latest RDNA 4.5 APU</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-17 20:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/gg_news/ign-hyrule-warriors-age-of-imprisonment-official-fight-the-epic-imprisoning-war-trailer-14ne" target="_blank">IGN: Hyrule Warriors: Age of Imprisonment - Official &#x27;Fight the Epic Imprisoning War&#x27; Trailer</a></span>
                 <span class="feed">DEV Community</span>
@@ -212,15 +214,6 @@
                 <span class="title"><a href="https://dzone.com/articles/aws-budget-notifications-sns-cdk" target="_blank">Enable AWS Budget Notifications With SNS Using AWS CDK</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-09-17 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://webassembly.org/news/2025-09-17-wasm-3.0/" target="_blank">WASM 3.0 Completed</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-17 18:16</span>
             </div>
         </div>
 </div>
@@ -242,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/twilight-imperium-digital.jpg" alt="The Digital Version of ‘Twilight Imperium’ Will Save You *So* Much Clean Up Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/twilight-imperium-digital-game-release-date-steam-2000660383" target="_blank">The Digital Version of ‘Twilight Imperium’ Will Save You *So* Much Clean Up Time</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-18 00:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/alienromulus.jpg" alt="Fede Álvarez Wrote the ‘Alien: Romulus’ Sequel to Avoid an ‘Alien 3’ Situation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -287,15 +289,6 @@
                 <span class="time">2025-09-17 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/05/Trump-may-23-2025.jpg" alt="Spirit Airlines Pilot Reportedly Warned to ‘Get Off the iPad’ After Veering Too Close to Air Force One" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/spirit-airlines-pilot-reportedly-warned-to-get-off-the-ipad-after-veering-too-close-to-air-force-one-2000660292" target="_blank">Spirit Airlines Pilot Reportedly Warned to ‘Get Off the iPad’ After Veering Too Close to Air Force One</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-17 20:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -333,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
