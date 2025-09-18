@@ -1,36 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-09-18 20:01:57 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-18 21:01:42 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, September 18, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Thursday, September 18, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/18/ukraine-says-russia-returns-1000-bodies-in-latest-exchange?traffic_source=rss" target="_blank">Ukraine says Russia returns 1,000 bodies in latest exchange</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-18 20:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -91,20 +104,29 @@
                 <span class="time">2025-09-18 15:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/18/us-revokes-visas-for-indian-executives-over-fentanyl-allegations?traffic_source=rss" target="_blank">US revokes visas for Indian executives over fentanyl allegations</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-18 14:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/18/how-ai-startups-are-fueling-googles-booming-cloud-business/" target="_blank">How AI startups are fueling Google’s booming cloud business</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-18 20:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2210790015-500x500.jpg" alt="“Get off the iPad!” warns air traffic control as Spirit flight nears Air Force One" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/09/get-off-the-ipad-warns-air-traffic-control-as-spirit-flight-nears-air-force-one/" target="_blank">“Get off the iPad!” warns air traffic control as Spirit flight nears Air Force One</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-18 20:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68caf1d48ab34197e02b0be8/master/pass/Uncanny-Valley-OpenAI-Humanoid-Robots-Business-2186604642.jpg" alt="Move Aside, Chatbots: AI Humanoids Are Here" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -141,29 +163,20 @@
                 <span class="time">2025-09-18 18:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/ng23issarrival-500x500.jpg" alt="Northrop Grumman successfully resupplies ISS after overcoming software glitch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/09/a-software-glitch-not-an-engine-failure-delayed-a-critical-iss-cargo-delivery/" target="_blank">Northrop Grumman successfully resupplies ISS after overcoming software glitch</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-18 18:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68cbe024283a297c1f641c28/master/pass/091825_Google-Chrome-Gemini.jpg" alt="Google Injects Gemini Into Chrome as AI Browsers Go Mainstream" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/google-gemini-ai-chrome-browser/" target="_blank">Google Injects Gemini Into Chrome as AI Browsers Go Mainstream</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-18 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fikuwnc1avp0syi1yplj0.png" alt="The shortest AI agent you can build" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thisismairaj/the-shortest-ai-agent-you-can-build-57p4" target="_blank">The shortest AI agent you can build</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-18 20:41</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +222,6 @@
                 <span class="time">2025-09-18 16:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://xeon.me/gnome/pythonbpf/" target="_blank">PythonBPF - Writing eBPF Programs in Pure Python | mallya&#x27;s blog</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-09-18 16:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,12 +242,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/xboxaly.jpg" alt="The Biggest Reason To Buy The Xbox Ally Handheld Just Leaked" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-rog-ally-x-windows-handheld-app-leak-2000626934" target="_blank">The Biggest Reason To Buy The Xbox Ally Handheld Just Leaked</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-18 20:59</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/falcon-9-starlink-launch.jpeg" alt="Russia’s Space Chief Touts ‘Rapid’ Development of Starlink Rival" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/russias-space-chief-touts-rapid-development-of-starlink-rival-2000661016" target="_blank">Russia’s Space Chief Touts ‘Rapid’ Development of Starlink Rival</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-18 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2GY1EGKVBM56BVJC4RJMWT/hero-image.jpg" alt="These Are the Best Price-Tracking Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/best-price-tracking-tools?utm_medium=RSS" target="_blank">These Are the Best Price-Tracking Tools</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-18 19:30</span>
             </div>
         </div>
 <div class="story">
@@ -271,24 +293,6 @@
                 <span class="title"><a href="https://kotaku.com/remakes-popular-report-survey-fallout-3-eso-oblivion-2000626866" target="_blank">The Era Of Video Game Remakes Is Just Getting Started, New Report Finds</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-09-18 17:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K4DVJT7XHNPQTQ2YCK1Q2XFK/hero-image.png" alt="The Next Boox Palma E-Reader Won&#x27;t Be a Phone After All" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/boox-palma-phone-report?utm_medium=RSS" target="_blank">The Next Boox Palma E-Reader Won&#x27;t Be a Phone After All</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-18 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/now-you-see-me-now-you-dont-.jpg" alt="‘Now You See Me, Now You Don’t’ Doubles Down on the Heist Hype in New Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/now-you-see-me-now-you-dont-trailer-rosamund-pike-dave-franco-2000660848" target="_blank">‘Now You See Me, Now You Don’t’ Doubles Down on the Heist Hype in New Trailer</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-18 16:45</span>
             </div>
         </div>
 </div>
@@ -328,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 279 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
