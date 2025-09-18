@@ -1,44 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-09-18 16:01:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-18 17:01:35 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 36 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Thursday, September 18, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Thursday, September 18, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/lisa-cook-1-rt-gmh-250828_1756387725372_hpMain_4x3t_384.jpg" alt="Trump asks SCOTUS to let him remove Lisa Cook from Fed Reserve" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-asks-scotus-remove-lisa-cook-fed-reserve/story?id=125707444" target="_blank">Trump asks SCOTUS to let him remove Lisa Cook from Fed Reserve</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-18 16:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-starmer-14-gty-jef-250918_1758205672097_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump says he told Kirk he could be president one day" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -97,15 +91,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Trump, British PM Starmer hold news conference: ABC News Live</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-18 14:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63f6/live/3e5c43e0-941a-11f0-9cf6-cbf3e73ce2b9.jpg" alt="ABC takes Jimmy Kimmel off air over Charlie Kirk comments" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c203n52x1y9o?at_medium=RSS&at_campaign=rss" target="_blank">ABC takes Jimmy Kimmel off air over Charlie Kirk comments</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-18 13:56</span>
             </div>
         </div>
 </div>
@@ -173,6 +158,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18628670&w=600" alt="Blueprint for Agentic AI: Azure AI Foundry, AutoGen, and Beyond" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/blueprint-agentic-ai-azure-foundry-autogen" target="_blank">Blueprint for Agentic AI: Azure AI Foundry, AutoGen, and Beyond</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-18 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18628642&w=600" alt="Remote Android Management: A Step-by-Step Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -217,13 +211,18 @@
                 <span class="time">2025-09-18 14:01</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/gamespot-sonic-racing-crossworlds-review-4moe" target="_blank">GameSpot: Sonic Racing: Crossworlds Review</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-18 14:01</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/time-of-check-time-of-use-attacks-against-llms.html" target="_blank">Time-of-Check Time-of-Use Attacks Against LLMs</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-09-18 11:06</span>
             </div>
         </div>
 </div>
@@ -231,6 +230,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/now-you-see-me-now-you-dont-.jpg" alt="‘Now You See Me, Now You Don’t’ Doubles Down on the Heist Hype in New Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/now-you-see-me-now-you-dont-trailer-rosamund-pike-dave-franco-2000660848" target="_blank">‘Now You See Me, Now You Don’t’ Doubles Down on the Heist Hype in New Trailer</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-18 16:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/mega-raichu-x-y-revealed-v0-kpspga8zqqof1.jpg" alt="Every New Mega Evolution Revealed For Pokémon Legends: Z-A So Far" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/pokemon-legends-z-a-mega-evolution-list-new-all-switch-2000621380" target="_blank">Every New Mega Evolution Revealed For Pokémon Legends: Z-A So Far</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-18 16:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/batman-vol4-iss1.jpg" alt="The New ‘Batman’ Run Is 2025’s Best-Selling Comic Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,24 +284,6 @@
                 <span class="time">2025-09-18 14:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K5EACGDB78091MW3TZQBH56W/hero-image.png" alt="These Powerbeats Pro Earbuds Are 60% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/beats-powerbeats-pro-earbuds-open-box-deal?utm_medium=RSS" target="_blank">These Powerbeats Pro Earbuds Are 60% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-18 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/MS-0918-Resident-Evil-Zombie.jpg" alt="Zach Cregger’s ‘Resident Evil’ Movie Adds an Intriguing New Star" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/zach-creggers-resident-evil-movie-adds-an-intriguing-new-star-2000660567" target="_blank">Zach Cregger’s ‘Resident Evil’ Movie Adds an Intriguing New Star</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-18 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,8 +312,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
