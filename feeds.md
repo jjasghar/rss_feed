@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-18 19:01:36 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-18 20:01:57 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, September 18, 2025 - 19:01 UTC</div>
+    <div class="newspaper-date">Thursday, September 18, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/18/nx-s1-5543373/bad-bunny-us-tour-ice" target="_blank">Bad Bunny skipped touring the states. Will other performers follow suit?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-18 19:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +100,38 @@
                 <span class="time">2025-09-18 14:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf96/live/8a7cd050-949c-11f0-ba1c-7d82afe5b321.jpg" alt="Planning approvals for new homes at record low, figures show" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cgmzwk4yd1eo?at_medium=RSS&at_campaign=rss" target="_blank">Planning approvals for new homes at record low, figures show</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-18 14:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68caf1d48ab34197e02b0be8/master/pass/Uncanny-Valley-OpenAI-Humanoid-Robots-Business-2186604642.jpg" alt="Move Aside, Chatbots: AI Humanoids Are Here" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-move-aside-chatbots-ai-humanoids-are-here/" target="_blank">Move Aside, Chatbots: AI Humanoids Are Here</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-18 19:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/04/Gemini-1-500x500-1743791269.jpg" alt="Google announces massive expansion of AI features in Chrome" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/google/2025/09/google-announces-massive-expansion-of-ai-features-in-chrome/" target="_blank">Google announces massive expansion of AI features in Chrome</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-18 19:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/18/tim-cook-sam-altman-and-more-attend-trumps-uk-state-banquet/" target="_blank">Tim Cook, Sam Altman, and more attend Trump’s UK state banquet</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-18 19:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -129,38 +159,20 @@
                 <span class="time">2025-09-18 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/780771/microsoft-xbox-copilot-windows-game-bar-available-download" target="_blank">Microsoft’s Xbox Copilot arrives on Windows 11 PCs worldwide</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-18 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/18/daclab-says-it-can-remove-co2-using-less-electricity-than-many-competitors/" target="_blank">DACLab says it can remove CO2 using less electricity than many competitors</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-18 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68cb7eb0f0991caeca24c01a/master/pass/Microsoft-Entra.jpg" alt="This Microsoft Entra ID Vulnerability Could Have Been Catastrophic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/microsoft-entra-id-vulnerability-digital-catastrophe/" target="_blank">This Microsoft Entra ID Vulnerability Could Have Been Catastrophic</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-18 15:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arkhan/composable-software-in-2025-building-systems-like-lego-511j" target="_blank">Composable Software in 2025: Building Systems Like Lego</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-18 19:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -180,6 +192,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/" target="_blank">Learn Your Way: Reimagining Textbooks with Generative AI</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-18 17:42</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://substack-post-media.s3.amazonaws.com/public/images/78cc458c-dd80-49c8-b375-a823d3cc1a15_932x1084.png" alt="The Pulse #146: How AI is changing tech interviews" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-wrench"></span>
@@ -195,24 +216,6 @@
                 <span class="title"><a href="https://xeon.me/gnome/pythonbpf/" target="_blank">PythonBPF - Writing eBPF Programs in Pure Python | mallya&#x27;s blog</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-09-18 16:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/5-ways-to-integrate-github-copilot-coding-agent-into-your-workflow/" target="_blank">5 ways to integrate GitHub Copilot coding agent into your workflow</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-09-18 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18628670&w=600" alt="Blueprint for Agentic AI: Azure AI Foundry, AutoGen, and Beyond" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/blueprint-agentic-ai-azure-foundry-autogen" target="_blank">Blueprint for Agentic AI: Azure AI Foundry, AutoGen, and Beyond</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-18 16:00</span>
             </div>
         </div>
 </div>
@@ -234,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/falcon-9-starlink-launch.jpeg" alt="Russia’s Space Chief Touts ‘Rapid’ Development of Starlink Rival" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/russias-space-chief-touts-rapid-development-of-starlink-rival-2000661016" target="_blank">Russia’s Space Chief Touts ‘Rapid’ Development of Starlink Rival</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-18 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Gen-V-Chance-Pedromo-Andre-Anderson-Sean-Patrick-Thomas.jpg" alt="‘Gen V’ Had Big Plans for Chance Perdomo Before His Untimely Death" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +291,6 @@
                 <span class="time">2025-09-18 16:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/mega-raichu-x-y-revealed-v0-kpspga8zqqof1.jpg" alt="Every New Mega Evolution Revealed For Pokémon Legends: Z-A So Far" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/pokemon-legends-z-a-mega-evolution-list-new-all-switch-2000621380" target="_blank">Every New Mega Evolution Revealed For Pokémon Legends: Z-A So Far</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-18 16:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
