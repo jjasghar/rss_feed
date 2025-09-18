@@ -1,29 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-18 05:01:46 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-09-18 06:02:24 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 20 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, September 18, 2025 - 05:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, September 18, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/18/nx-s1-5545391/mississippi-black-student-hanged-university" target="_blank">Mississippi police await autopsy results for Black student found hanged at university</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-18 05:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63f6/live/3e5c43e0-941a-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Jimmy Kimmel taken off air over Charlie Kirk comments" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -82,15 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/17/israel-strikes-kill-palestinians-near-gazas-last-functioning-hospitals?traffic_source=rss" target="_blank">Israel strikes kill Palestinians near Gaza’s last functioning hospitals</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-17 23:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758148830501_nn_ath_monarez_capitol_hill_testimony_250917_1920x1080-8ugz69.jpg" alt="Former CDC director says she was fired for refusing to rubber–stamp vaccine policies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/former-cdc-director-says-she-was-fired-for-refusing-to-rubber-stamp-vaccine-policies-247804485602" target="_blank">Former CDC director says she was fired for refusing to rubber–stamp vaccine policies</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-17 22:40</span>
             </div>
         </div>
 </div>
@@ -160,6 +164,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rishabhtpt/mastering-php-interviews-common-questions-and-expert-answers-58ki" target="_blank">Mastering PHP Interviews: Common Questions and Expert Answers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-18 05:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-38/" target="_blank">FOSS Weekly #25.38: GNOME 49 Release, KDE Drama, sudo vs sudo-rs, Local AI on Android and More Linux Stuff</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-09-18 04:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://skyfall.dev/posts/slack" target="_blank">Slack is extorting us with a $195k/yr bill increase</a></span>
                 <span class="feed">Hacker News</span>
@@ -191,24 +213,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-NumPy-x86-simd-sort" target="_blank">Intel&#x27;s Latest Open-Source Project To End &amp; Layoff Developers... But A New Home At NumPy</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-18 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/thunderbird-143.jpg?resize=406%2C232&amp;ssl=1" alt="Thunderbird 143 Release Delivers Mailbag Full of Fixes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/thunderbird-143-release-brings-bug-fixes-aplenty" target="_blank">Thunderbird 143 Release Delivers Mailbag Full of Fixes</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-17 22:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/thunderbird-143.jpg?resize=406%2C232&amp;ssl=1" alt="Thunderbird 143 Released" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/thunderbird-143-release-brings-bug-fixes-aplenty" target="_blank">Thunderbird 143 Released</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-17 22:57</span>
             </div>
         </div>
 </div>
@@ -321,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 05:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
