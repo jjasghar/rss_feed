@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-18 18:02:50 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-18 19:01:36 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, September 18, 2025 - 18:03 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, September 18, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/18/g-s1-89474/trump-suggests-u-s-troops-could-return-to-afghan-base-over-china-concerns" target="_blank">Trump suggests U.S. troops could return to Afghan base over China concerns</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-18 18:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab8a/live/3335d800-94ba-11f0-bdbf-efe153f15d50.jpg" alt="Trump suggests Starmer could use military to control UK borders" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cpd91wjypj9o?at_medium=RSS&at_campaign=rss" target="_blank">Trump suggests Starmer could use military to control UK borders</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-18 18:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/lisa-cook-1-rt-gmh-250828_1756387725372_hpMain_4x3t_384.jpg" alt="Trump asks SCOTUS to let him remove Lisa Cook from Fed Reserve" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,29 +97,29 @@
                 <span class="time">2025-09-18 14:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/18/nx-s1-5544343/trump-starmer-press-conference" target="_blank">Starmer says he and Trump talked about support for Ukraine, pressure on Russia</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-18 14:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Trump, British PM Starmer hold news conference: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Trump, British PM Starmer hold news conference: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-18 14:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/781433/ubiquiti-nas-unas-2-4-raid-backup" target="_blank">Ubiquiti’s new desktop NAS looks more like a wireless router</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-18 18:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/ng23issarrival-500x500.jpg" alt="Northrop Grumman successfully resupplies ISS after overcoming software glitch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/09/a-software-glitch-not-an-engine-failure-delayed-a-critical-iss-cargo-delivery/" target="_blank">Northrop Grumman successfully resupplies ISS after overcoming software glitch</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-18 18:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68cbe024283a297c1f641c28/master/pass/091825_Google-Chrome-Gemini.jpg" alt="Google Injects Gemini Into Chrome as AI Browsers Go Mainstream" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,29 +156,29 @@
                 <span class="time">2025-09-18 15:09</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/metadisplay-500x500-1758206317.png" alt="Meta’s $799 Ray-Ban Display is the company’s first big step from VR to AR" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/metas-799-ray-ban-display-is-the-companys-first-big-step-from-vr-to-ar/" target="_blank">Meta’s $799 Ray-Ban Display is the company’s first big step from VR to AR</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-18 14:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/779974/chatgpt-chatbots-ai-psychosis-mental-health" target="_blank">How chatbots — and their makers — are enabling AI psychosis</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-18 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nisarthpatel/the-smarter-way-to-code-stop-copy-pasting-and-start-reusing-1mk1" target="_blank">The Smarter Way to Code: Stop Copy-Pasting and Start Reusing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-18 18:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18628724&w=600" alt="LLMs for Debugging Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/llms-for-debugging-code" target="_blank">LLMs for Debugging Code</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-18 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://substack-post-media.s3.amazonaws.com/public/images/78cc458c-dd80-49c8-b375-a823d3cc1a15_932x1084.png" alt="The Pulse #146: How AI is changing tech interviews" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,24 +215,6 @@
                 <span class="time">2025-09-18 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18628642&w=600" alt="Remote Android Management: A Step-by-Step Guide" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/remote-android-management-guide" target="_blank">Remote Android Management: A Step-by-Step Guide</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-18 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffsmkbfpl87oc8315cyui.gif" alt="Why Most AI Prompts Fail - And How TAG &amp; RISE Can Fix That" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/werliton/why-most-ai-prompts-fail-and-how-tag-rise-can-fix-that-455b" target="_blank">Why Most AI Prompts Fail - And How TAG &amp; RISE Can Fix That</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-18 14:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Gen-V-Chance-Pedromo-Andre-Anderson-Sean-Patrick-Thomas.jpg" alt="‘Gen V’ Had Big Plans for Chance Perdomo Before His Untimely Death" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/gen-v-had-big-plans-for-chance-perdomo-before-his-untimely-death-2000660859" target="_blank">‘Gen V’ Had Big Plans for Chance Perdomo Before His Untimely Death</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-18 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JYRQJAXY60XDSAY4P2TV7QA0/hero-image.png" alt="You Can Turn Off Those Full-Screen Screenshots in iOS 26" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/disable-ios-26-annoying-new-screenshot-features?utm_medium=RSS" target="_blank">You Can Turn Off Those Full-Screen Screenshots in iOS 26</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-18 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/Oblivion.jpg" alt="The Era Of Video Game Remakes Is Just Getting Started, New Report Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +286,6 @@
                 <span class="title"><a href="https://kotaku.com/pokemon-legends-z-a-mega-evolution-list-new-all-switch-2000621380" target="_blank">Every New Mega Evolution Revealed For Pokémon Legends: Z-A So Far</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-09-18 16:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/batman-vol4-iss1.jpg" alt="The New ‘Batman’ Run Is 2025’s Best-Selling Comic Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-new-batman-run-is-2025s-best-selling-comic-yet-2000660095" target="_blank">The New ‘Batman’ Run Is 2025’s Best-Selling Comic Yet</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-18 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/fly-trapped-in-amber-fossil-south-america-main-e1758129773494.jpeg" alt="Scientists Just Found South America’s First Amber-Preserved Insects—and They’re Stunning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/scientists-just-found-south-americas-first-amber-preserved-insects-and-theyre-gorgeous-2000660129" target="_blank">Scientists Just Found South America’s First Amber-Preserved Insects—and They’re Stunning</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-18 15:00</span>
             </div>
         </div>
 </div>
@@ -326,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 18:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
