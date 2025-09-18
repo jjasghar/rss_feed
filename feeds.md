@@ -1,33 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-09-18 11:01:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-18 12:02:41 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Thursday, September 18, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, September 18, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +40,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7a9/live/e9aab620-947c-11f0-ad7d-63b0f51784c5.jpg" alt="First migrant deported to France under new returns deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckg653r06jgo?at_medium=RSS&at_campaign=rss" target="_blank">First migrant deported to France under new returns deal</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-18 11:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/9/18/western-bids-to-recognise-a-palestinian-state-put-israel-first?traffic_source=rss" target="_blank">Western bids to recognise a Palestinian state put Israel first</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-18 11:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/18/nx-s1-5508455/ai-technology-birds-new-zealand-conservation-predators-endangered-species" target="_blank">To save its unique and rare birds, New Zealand is turning to AI and genetic research</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-18 11:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/International/trump-starmer-chequers_1758192359096_hpMain_4x3t_384.jpg" alt="Trump arrives at Chequers to meet with Starmer on day 2 of UK state visit" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,38 +94,20 @@
                 <span class="time">2025-09-18 10:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/18/pennsylvania-shooting-what-happened-what-we-know-about-suspect-victims?traffic_source=rss" target="_blank">Pennsylvania shooting: What happened, what we know about suspect, victims</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-18 09:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-west-bank-smotrich_6990709.jpg?20250918101552" alt="Gaza could be &#x27;real estate bonanza&#x27;, Israeli minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/gaza-could-be-real-estate-bonanza-israeli-minister-bezalel-smotrich-says-13433205" target="_blank">Gaza could be &#x27;real estate bonanza&#x27;, Israeli minister says</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-18 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/18/nx-s1-5545391/mississippi-black-student-hanged-university" target="_blank">Mississippi police await autopsy results for Black student found hanged at university</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-18 05:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68cb83e86a7338e553645554/master/pass/iPhone%2017%20Sage%20SOURCE%20Julian%20Chokkattu.jpg" alt="What’s the Best iPhone to Buy or Avoid Right Now? (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/iphone-buying-guide/" target="_blank">What’s the Best iPhone to Buy or Avoid Right Now? (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-18 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +153,29 @@
                 <span class="time">2025-09-18 00:43</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c970f0dd665c0fef6ece1e/master/pass/091625_Meta-Glasses-Launch.jpg" alt="Meta Goes Even Harder Into Smart Glasses With 3 New Models" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/meta-smart-glasses-ray-ban-display-ray-ban-gen-2-oakley-vanguard/" target="_blank">Meta Goes Even Harder Into Smart Glasses With 3 New Models</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-18 00:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mrcaption49/audit-trigger-for-tracking-user-updates-and-deletions-in-table-dk8" target="_blank">Audit Trigger for Tracking User Updates and Deletions in table</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-18 11:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/canonical-iec-62443-4-1" target="_blank">Canonical achieves IEC 62443-4-1 compliance in Industrial Automation and Control Systems</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-09-18 11:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,38 +210,6 @@
                 <span class="title"><a href="https://dev.to/devstark_media/navigating-the-landscape-of-ai-risk-management-in-2025-3j3a" target="_blank">Navigating the Landscape of AI Risk Management in 2025</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-18 08:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rishabhtpt/mastering-php-interviews-common-questions-and-expert-answers-58ki" target="_blank">Mastering PHP Interviews: Common Questions and Expert Answers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-18 05:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-38/" target="_blank">FOSS Weekly #25.38: GNOME 49 Release, KDE Drama, sudo vs sudo-rs, Local AI on Android and More Linux Stuff</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-09-18 04:31</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/hacking-electronic-safes.html" target="_blank">Hacking Electronic Safes</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-09-17 11:05</span>
             </div>
         </div>
 </div>
@@ -316,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
