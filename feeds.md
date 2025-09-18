@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-18 03:11:52 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-18 04:02:25 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Thursday, September 18, 2025 - 03:12 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, September 18, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -186,6 +181,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/" target="_blank">Meta Ray-Ban Display</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-18 00:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Intel-NumPy-x86-simd-sort" target="_blank">Intel&#x27;s Latest Open-Source Project To End &amp; Layoff Developers... But A New Home At NumPy</a></span>
                 <span class="feed">Phoronix</span>
@@ -210,15 +214,6 @@
                 <span class="time">2025-09-17 22:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lewiz17/shopify-no-es-solo-para-grandes-marcas-como-las-pymes-pueden-escalar-su-e-commerce-2pmc" target="_blank">Shopify 🚀 no es solo para grandes marcas: cómo las pymes pueden escalar su e-commerce</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-17 22:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/06/metashrug.jpg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Watch Zuck blame &quot;the WIFI&quot; as LiveAI fails its first demo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/17/watch-zuck-blame-the-wifi-as-liveai-fails-its-first-demo.html" target="_blank">Watch Zuck blame &quot;the WIFI&quot; as LiveAI fails its first demo</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-18 02:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/twilight-imperium-digital.jpg" alt="The Digital Version of ‘Twilight Imperium’ Will Save You *So* Much Clean Up Time" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,20 +287,20 @@
                 <span class="time">2025-09-17 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/memoryOS-Expert-Plan.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Train your brain with the app that helps you actually remember names, dates, and passwords" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/17/train-your-brain-with-the-app-that-helps-you-actually-remember-names-dates-and-passwords.html" target="_blank">Train your brain with the app that helps you actually remember names, dates, and passwords</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-17 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/09/18/the-price-is-wrong" target="_blank">The Price Is Wrong</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-09-18 03:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1757980876-20250917.png" alt="Saturday Morning Breakfast Cereal - O Monks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -315,22 +319,13 @@
                 <span class="time">2025-09-17 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/question_mark.png" alt="Question Mark" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3143/" target="_blank">Question Mark</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-09-17 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 03:12 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 141 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
