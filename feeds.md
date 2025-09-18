@@ -1,31 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-18 02:25:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-18 03:11:52 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 23 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, September 18, 2025 - 02:25 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Thursday, September 18, 2025 - 03:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/18/russia-ukraine-war-list-of-key-events-day-1302?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,302</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-18 02:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -69,28 +84,19 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758148830501_nn_ath_monarez_capitol_hill_testimony_250917_1920x1080-8ugz69.jpg" alt="Former CDC director says she was fired for refusing to rubber–stamp vaccine policies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/former-cdc-director-says-she-was-fired-for-refusing-to-rubber-stamp-vaccine-policies-247804485602" target="_blank">Former CDC director says she was fired for refusing to rubber–stamp vaccine policies</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-17 22:40</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/09/17/g-s1-89333/pennsylvania-police-shooting-north-codorus" target="_blank">A shooting in Pennsylvania has left 3 officers dead and 2 injured</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-17 21:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/17/g-s1-89333/pennsylvania-police-shooting-north-codorus" target="_blank">3 police officers killed and 2 injured in rural Pennsylvania shooting</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-17 21:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/17/g-s1-89333/pennsylvania-police-shooting-north-codorus" target="_blank">At least 2 seriously hurt in Pennsylvania shooting involving police</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-17 21:35</span>
             </div>
@@ -100,6 +106,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/780087/meta-connect-2025-ray-ban-oakley-biggest-announcements" target="_blank">Meta Connect 2025: the 6 biggest announcements</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-18 01:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,15 +158,6 @@
                 <span class="title"><a href="https://arstechnica.com/science/2025/09/distinct-digits-may-have-evolved-by-using-dna-that-makes-the-cloaca/" target="_blank">You can hold on to your butts thanks to DNA that evolved in fish</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-09-17 22:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/17/irregular-raises-80-million-to-secure-frontier-ai-models/" target="_blank">Irregular raises $80 million to secure frontier AI models</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-17 21:52</span>
             </div>
         </div>
 </div>
@@ -323,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 02:25 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 142 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 03:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
