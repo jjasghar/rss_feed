@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-18 12:02:41 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-18 13:08:36 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Garfield -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 22 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, September 18, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Thursday, September 18, 2025 - 13:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/18/spanish-football-fans-fly-pro-palestine-banner-in-champions-league?traffic_source=rss" target="_blank">Spanish football fans fly pro-Palestine banner in Champions League</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-18 12:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7a9/live/e9aab620-947c-11f0-ad7d-63b0f51784c5.jpg" alt="First migrant deported to France under new returns deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,20 +99,20 @@
                 <span class="time">2025-09-18 10:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/18/g-s1-89416/up-first-newsletter-cdc-meeting-vaccines-fed-rate-cuts-jimmy-kimmel-live-suspended" target="_blank">How CDC&#x27;s vaccine advisers could affect policy. And, Jimmy Kimmel pulled off the air</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-18 10:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68c88d33de6509cf05546de7/master/pass/Review-%20Auk%20Mini.png" alt="Auk Mini Review: Start Your Own Seeds, Scandinavian Style" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/auk-mini/" target="_blank">Auk Mini Review: Start Your Own Seeds, Scandinavian Style</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-18 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68cb83e86a7338e553645554/master/pass/iPhone%2017%20Sage%20SOURCE%20Julian%20Chokkattu.jpg" alt="What’s the Best iPhone to Buy or Avoid Right Now? (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,20 +158,29 @@
                 <span class="time">2025-09-18 01:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/17/meta-launches-hyperscape-technology-to-turn-real-world-spaces-into-vr/" target="_blank">Meta launches Hyperscape, technology to turn real-world spaces into VR</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-18 00:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/nikita_kutafiev_c087adc8d/call-commands-that-cut-filler-talk-without-killing-flow-3b1b" target="_blank">Call Commands That Cut Filler Talk (Without Killing Flow)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-18 12:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18626711&w=600" alt="Creating a Distributed Computing Cluster for a Data Base Management System: Part 1" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/creating-dcc-for-dbms-part-1" target="_blank">Creating a Distributed Computing Cluster for a Data Base Management System: Part 1</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-18 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,29 +217,29 @@
                 <span class="time">2025-09-18 10:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/rust-lessons/en/mediumimage/ramya-krishnamoorthy-medium-1756891897399.jpg" alt="Presentation: Myth Busters: Is Rust a Slam Dunk?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/rust-lessons/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Myth Busters: Is Rust a Slam Dunk?</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-18 09:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devstark_media/navigating-the-landscape-of-ai-risk-management-in-2025-3j3a" target="_blank">Navigating the Landscape of AI Risk Management in 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-18 08:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/IMG_9660.jpg" alt="Sonic Racing Crossworlds Still Manages To Be A Great Kart Racer In The Face Of Crossover Slop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/sonic-racing-crossworlds-crossover-review-hatsune-miku-2000626583" target="_blank">Sonic Racing Crossworlds Still Manages To Be A Great Kart Racer In The Face Of Crossover Slop</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-18 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Him-movie-review.jpg" alt="‘Him’ Is Filled With Great, Creepy Ideas, But Never Quite Brings It All Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/him-movie-review-horror-sports-jordan-peele-2000656430" target="_blank">‘Him’ Is Filled With Great, Creepy Ideas, But Never Quite Brings It All Home</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-18 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/hayabusa2-touchdown.jpg" alt="Hayabusa2’s 2031 Landing Plan Faces an Unexpected Asteroid Nightmare" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -253,24 +276,6 @@
                 <span class="time">2025-09-18 00:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/alienromulus.jpg" alt="Fede Álvarez Wrote the ‘Alien: Romulus’ Sequel to Avoid an ‘Alien 3’ Situation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/alien-romulus-sequel-fede-alvarez-alien-3-2000660375" target="_blank">Fede Álvarez Wrote the ‘Alien: Romulus’ Sequel to Avoid an ‘Alien 3’ Situation</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-17 22:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K5CPEZWZPJS0BQTJWDREQXGG/hero-image.png" alt="Garmin’s Venu 4 Has a New Fitness Coach and a Flashlight" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/garmin-new-venu-4-watch?utm_medium=RSS" target="_blank">Garmin’s Venu 4 Has a New Fitness Coach and a Flashlight</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-17 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -299,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 13:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
