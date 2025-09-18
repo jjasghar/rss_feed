@@ -1,29 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-18 17:01:35 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing 54 RSS feeds at 2025-09-18 18:02:50 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Thursday, September 18, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, September 18, 2025 - 18:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -99,6 +104,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/68cbe024283a297c1f641c28/master/pass/091825_Google-Chrome-Gemini.jpg" alt="Google Injects Gemini Into Chrome as AI Browsers Go Mainstream" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/google-gemini-ai-chrome-browser/" target="_blank">Google Injects Gemini Into Chrome as AI Browsers Go Mainstream</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-18 17:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
@@ -143,20 +157,38 @@
                 <span class="time">2025-09-18 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c88d33de6509cf05546de7/master/pass/Review-%20Auk%20Mini.png" alt="Auk Mini Review: Start Your Own Seeds, Scandinavian Style" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/auk-mini/" target="_blank">Auk Mini Review: Start Your Own Seeds, Scandinavian Style</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-18 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/78cc458c-dd80-49c8-b375-a823d3cc1a15_932x1084.png" alt="The Pulse #146: How AI is changing tech interviews" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-146" target="_blank">The Pulse #146: How AI is changing tech interviews</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-09-18 16:11</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://xeon.me/gnome/pythonbpf/" target="_blank">PythonBPF - Writing eBPF Programs in Pure Python | mallya&#x27;s blog</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-09-18 16:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/5-ways-to-integrate-github-copilot-coding-agent-into-your-workflow/" target="_blank">5 ways to integrate GitHub Copilot coding agent into your workflow</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-09-18 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18628670&w=600" alt="Blueprint for Agentic AI: Azure AI Foundry, AutoGen, and Beyond" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -184,33 +216,6 @@
                 <span class="time">2025-09-18 14:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/ddr5-6400-mrdimm-8800" target="_blank">Revisiting DDR5-6400 vs. MRDIMM-8800 Performance With Intel Xeon 6 &quot;Granite Rapids&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-18 14:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/05/vivaldi-logo.jpg?resize=406%2C232&amp;ssl=1" alt="Vivaldi 7.6 Released with New Tab Bar Editor, Tab Button Menu + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/vivaldi-7-6-released-with-editable-tab-bar-address-bar-actions-more" target="_blank">Vivaldi 7.6 Released with New Tab Bar Editor, Tab Button Menu + More</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-18 14:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.perl.com/article/geizhals-donates-to-tprf/" target="_blank">Geizhals Preisvergleich Donates USD 10k to the Perl and Raku Foundation</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-18 14:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +235,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/Oblivion.jpg" alt="The Era Of Video Game Remakes Is Just Getting Started, New Report Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/remakes-popular-report-survey-fallout-3-eso-oblivion-2000626866" target="_blank">The Era Of Video Game Remakes Is Just Getting Started, New Report Finds</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-18 17:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K4DVJT7XHNPQTQ2YCK1Q2XFK/hero-image.png" alt="The Next Boox Palma E-Reader Won&#x27;t Be a Phone After All" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/boox-palma-phone-report?utm_medium=RSS" target="_blank">The Next Boox Palma E-Reader Won&#x27;t Be a Phone After All</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-18 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/now-you-see-me-now-you-dont-.jpg" alt="‘Now You See Me, Now You Don’t’ Doubles Down on the Heist Hype in New Trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,29 +289,20 @@
                 <span class="time">2025-09-18 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Youbooks-%E2%80%93-AI-Non-Fiction-Book-Generator.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Channel your creativity into something real with Youbooks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/18/channel-your-creativity-into-something-real-with-youbooks.html" target="_blank">Channel your creativity into something real with Youbooks</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-18 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Image-Bethsoft-on-social-media.jpg?fit=1080%2C776&amp;quality=60&amp;ssl=1" alt="Teaser of Indiana Jones mocking fascists in 1937 removed after complaint it somehow about Charlie Kirk" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/18/game-teaser-of-indiana-jones-making-fun-of-fascists-in-1937-removed-after-complaints-it-is-somehow-about-charlie-kirk.html" target="_blank">Teaser of Indiana Jones mocking fascists in 1937 removed after complaint it somehow about Charlie Kirk</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-18 14:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/trying-to-read/" target="_blank">Trying to Read</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2025-09-18 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1758139868-20250918.png" alt="Saturday Morning Breakfast Cereal - Theodicy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -312,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 18:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
