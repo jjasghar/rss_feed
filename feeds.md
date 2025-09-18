@@ -1,38 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-09-18 08:02:17 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-18 09:01:52 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 2 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, September 18, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, September 18, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -85,21 +77,21 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758158289789_nn_cme_abc_preempts_jimmy_kimmel_250917_1920x1080-0q5svc.jpg" alt="ABC preempts &#x27;Jimmy Kimmel Live&#x27; indefinitely" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/18/trump-says-he-plans-to-designate-antifa-a-major-terrorist-group?traffic_source=rss" target="_blank">Trump says he plans to designate ANTIFA a ‘major terrorist’ group</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-18 01:00</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/abc-preempts-jimmy-kimmel-live-indefinitely-247821893693" target="_blank">ABC preempts &#x27;Jimmy Kimmel Live&#x27; indefinitely</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-18 01:07</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/17/israel-strikes-kill-palestinians-near-gazas-last-functioning-hospitals?traffic_source=rss" target="_blank">Israel strikes kill Palestinians near Gaza’s last functioning hospitals</a></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/18/trump-says-he-plans-to-designate-antifa-a-major-terrorist-group?traffic_source=rss" target="_blank">Trump says he plans to designate ANTIFA a ‘major terrorist’ group</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-17 23:04</span>
+                <span class="time">2025-09-18 01:00</span>
             </div>
         </div>
 </div>
@@ -170,6 +162,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devstark_media/navigating-the-landscape-of-ai-risk-management-in-2025-3j3a" target="_blank">Navigating the Landscape of AI Risk Management in 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-18 08:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/rishabhtpt/mastering-php-interviews-common-questions-and-expert-answers-58ki" target="_blank">Mastering PHP Interviews: Common Questions and Expert Answers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-18 05:49</span>
@@ -209,15 +210,6 @@
                 <span class="title"><a href="https://dev.to/marisbotero/docker-for-data-people-simplifying-development-with-containers-173g" target="_blank">Docker for Data People: Simplifying Development with Containers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-18 01:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.meta.com/blog/meta-ray-ban-display-ai-glasses-connect-2025/" target="_blank">Meta Ray-Ban Display</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-18 00:30</span>
             </div>
         </div>
 </div>
@@ -321,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
