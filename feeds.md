@@ -1,40 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-18 21:01:42 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2025-09-18 22:01:39 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Thursday, September 18, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, September 18, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,12 +46,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/kirk-memorial-gty-jef-250918_1758222554168_hpMain_4x3t_384.jpg" alt="Charlie Kirk&#x27;s funeral designated SEAR 1 event by Dept. of Homeland Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/dept-homeland-security-enhances-security-charlie-kirks-funeral/story?id=125712750" target="_blank">Charlie Kirk&#x27;s funeral designated SEAR 1 event by Dept. of Homeland Security</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-18 20:56</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/18/ukraine-says-russia-returns-1000-bodies-in-latest-exchange?traffic_source=rss" target="_blank">Ukraine says Russia returns 1,000 bodies in latest exchange</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-18 20:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/18/g-s1-89492/ice-immigration-raids-gsa-office-space" target="_blank">Trump administration rushes to rent space for immigration officers conducting raids</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-18 20:14</span>
             </div>
         </div>
 <div class="story">
@@ -86,29 +99,20 @@
                 <span class="time">2025-09-18 18:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/lisa-cook-1-rt-gmh-250828_1756387725372_hpMain_4x3t_384.jpg" alt="Trump asks SCOTUS to let him remove Lisa Cook from Fed Reserve" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-asks-scotus-remove-lisa-cook-fed-reserve/story?id=125707444" target="_blank">Trump asks SCOTUS to let him remove Lisa Cook from Fed Reserve</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-18 16:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-starmer-14-gty-jef-250918_1758205672097_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump says he told Kirk he could be president one day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=125577990" target="_blank">Trump admin live updates: Trump says he told Kirk he could be president one day</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-18 15:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/18/term-sheets-traction-and-truth-bombs-inside-the-series-a-mindset-at-techcrunch-disrupt-2025/" target="_blank">Raising Series A in 2026: Insights from Top Early-Stage VCs at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-18 21:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -154,20 +158,29 @@
                 <span class="time">2025-09-18 19:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/781433/ubiquiti-nas-unas-2-4-raid-backup" target="_blank">Ubiquiti’s new desktop NAS looks more like a wireless router</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-18 18:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vishalmysore/what-is-google-ap2-protocol-step-by-step-guide-with-examples-2lcp" target="_blank">What is Google AP2 Protocol : Step by Step Guide with Examples</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-18 21:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/ubuntu-2510-quokka-beta.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Beta Released" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/ubuntu-25-10-beta-released" target="_blank">Ubuntu 25.10 Beta Released</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-18 21:51</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fikuwnc1avp0syi1yplj0.png" alt="The shortest AI agent you can build" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -175,6 +188,15 @@
                 <span class="title"><a href="https://dev.to/thisismairaj/the-shortest-ai-agent-you-can-build-57p4" target="_blank">The shortest AI agent you can build</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-18 20:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html" target="_blank">Apple: SSH and FileVault</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-18 20:15</span>
             </div>
         </div>
 <div class="story">
@@ -193,33 +215,6 @@
                 <span class="title"><a href="https://dev.to/nisarthpatel/the-smarter-way-to-code-stop-copy-pasting-and-start-reusing-1mk1" target="_blank">The Smarter Way to Code: Stop Copy-Pasting and Start Reusing</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-18 18:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18628724&w=600" alt="LLMs for Debugging Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/llms-for-debugging-code" target="_blank">LLMs for Debugging Code</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-18 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://research.google/blog/learn-your-way-reimagining-textbooks-with-generative-ai/" target="_blank">Learn Your Way: Reimagining Textbooks with Generative AI</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-18 17:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/78cc458c-dd80-49c8-b375-a823d3cc1a15_932x1084.png" alt="The Pulse #146: How AI is changing tech interviews" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-146" target="_blank">The Pulse #146: How AI is changing tech interviews</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-09-18 16:11</span>
             </div>
         </div>
 </div>
@@ -248,6 +243,15 @@
                 <span class="title"><a href="https://kotaku.com/xbox-rog-ally-x-windows-handheld-app-leak-2000626934" target="_blank">The Biggest Reason To Buy The Xbox Ally Handheld Just Leaked</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-09-18 20:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K5F883KV5G9BSH9MZP20JS64/hero-image.jpg" alt="Change These Settings to Extend Your New iPhone Air&#x27;s Battery Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/extend-iphone-air-battery-life?utm_medium=RSS" target="_blank">Change These Settings to Extend Your New iPhone Air&#x27;s Battery Life</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-18 20:30</span>
             </div>
         </div>
 <div class="story">
@@ -284,15 +288,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/disable-ios-26-annoying-new-screenshot-features?utm_medium=RSS" target="_blank">You Can Turn Off Those Full-Screen Screenshots in iOS 26</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-18 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/Oblivion.jpg" alt="The Era Of Video Game Remakes Is Just Getting Started, New Report Finds" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/remakes-popular-report-survey-fallout-3-eso-oblivion-2000626866" target="_blank">The Era Of Video Game Remakes Is Just Getting Started, New Report Finds</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-18 17:51</span>
             </div>
         </div>
 </div>
@@ -332,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 279 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
