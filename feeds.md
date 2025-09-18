@@ -1,30 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-18 09:01:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-18 10:01:44 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, September 18, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, September 18, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/18/pennsylvania-shooting-what-happened-what-we-know-about-suspect-victims?traffic_source=rss" target="_blank">Pennsylvania shooting: What happened, what we know about suspect, victims</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-18 09:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/08/1920x1080/skynews-west-bank-smotrich_6990709.jpg?20250918101552" alt="Gaza could be &#x27;real estate bonanza&#x27;, Israeli minister says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/gaza-could-be-real-estate-bonanza-israeli-minister-bezalel-smotrich-says-13433205" target="_blank">Gaza could be &#x27;real estate bonanza&#x27;, Israeli minister says</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-18 08:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,29 +102,20 @@
                 <span class="time">2025-09-18 02:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758158289789_nn_cme_abc_preempts_jimmy_kimmel_250917_1920x1080-0q5svc.jpg" alt="ABC preempts &#x27;Jimmy Kimmel Live&#x27; indefinitely" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/abc-preempts-jimmy-kimmel-live-indefinitely-247821893693" target="_blank">ABC preempts &#x27;Jimmy Kimmel Live&#x27; indefinitely</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-18 01:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/18/trump-says-he-plans-to-designate-antifa-a-major-terrorist-group?traffic_source=rss" target="_blank">Trump says he plans to designate ANTIFA a ‘major terrorist’ group</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-18 01:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/780757/samsung-brings-ads-to-us-fridges" target="_blank">Samsung brings ads to US fridges</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-18 09:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,20 +161,29 @@
                 <span class="time">2025-09-17 23:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/780502/heres-the-jimmy-kimmel-clip-that-got-him-pulled-off-the-air" target="_blank">Here&amp;#8217;s the Jimmy Kimmel clip that got him pulled off the air</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-17 23:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq2kojfsounc66oo8efu2.png" alt="How to Optimize Your LinkedIn as a Backend Developer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/masteringbackend/how-to-optimize-your-linkedin-as-a-backend-developer-48cm" target="_blank">How to Optimize Your LinkedIn as a Backend Developer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-18 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/rust-lessons/en/mediumimage/ramya-krishnamoorthy-medium-1756891897399.jpg" alt="Presentation: Myth Busters: Is Rust a Slam Dunk?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/rust-lessons/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Myth Busters: Is Rust a Slam Dunk?</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-18 09:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -194,24 +220,6 @@
                 <span class="time">2025-09-18 01:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://skyfall.dev/posts/slack" target="_blank">Slack is extorting us with a $195k/yr bill increase</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-18 01:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/marisbotero/docker-for-data-people-simplifying-development-with-containers-173g" target="_blank">Docker for Data People: Simplifying Development with Containers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-18 01:07</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,6 +239,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/hayabusa2-touchdown.jpg" alt="Hayabusa2’s 2031 Landing Plan Faces an Unexpected Asteroid Nightmare" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/hayabusa2s-2031-landing-plan-faces-an-unexpected-asteroid-nightmare-2000660086" target="_blank">Hayabusa2’s 2031 Landing Plan Faces an Unexpected Asteroid Nightmare</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-18 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Kimmel.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="Jimmy Kimmel taken off the air after comments made about Charlie Kirk" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +293,6 @@
                 <span class="time">2025-09-17 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/star-wars-andor-nemik-navigator.jpg" alt="Alex Lawther Didn’t Know Just How Much His ‘Andor’ Manifesto Hit Until Season 2" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/alex-lawther-andor-season-2-nemik-manifesto-star-wars-2000660097" target="_blank">Alex Lawther Didn’t Know Just How Much His ‘Andor’ Manifesto Hit Until Season 2</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-17 21:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -313,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
