@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-18 22:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-18 23:01:45 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, September 18, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Thursday, September 18, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/18/uk-court-clears-the-way-for-deportation-of-eritrean-asylum-seeker?traffic_source=rss" target="_blank">UK court clears the way for deportation of Eritrean asylum seeker</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-18 22:21</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/kirk-memorial-gty-jef-250918_1758222554168_hpMain_4x3t_384.jpg" alt="Charlie Kirk&#x27;s funeral designated SEAR 1 event by Dept. of Homeland Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -90,20 +99,20 @@
                 <span class="time">2025-09-18 18:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab8a/live/3335d800-94ba-11f0-bdbf-efe153f15d50.jpg" alt="Trump suggests Starmer could use military to control UK borders" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cpd91wjypj9o?at_medium=RSS&at_campaign=rss" target="_blank">Trump suggests Starmer could use military to control UK borders</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-18 18:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/781635/intel-says-arc-gpus-will-live-on-after-nvidia-deal" target="_blank">Intel says Arc GPUs will live on after Nvidia deal</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-18 22:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -120,6 +129,15 @@
                 <span class="title"><a href="https://techcrunch.com/2025/09/18/how-ai-startups-are-fueling-googles-booming-cloud-business/" target="_blank">How AI startups are fueling Google’s booming cloud business</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-09-18 20:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68cc50131c8be691cd113d06/master/pass/Save%20$200%20on%20Samsung's%20Monster%204K%20Gaming%20Monitor.png" alt="You Can Save $200 on Samsung’s Elite Gaming Monitor Today" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/save-dollar200-on-samsungs-monster-4k-gaming-monitor/" target="_blank">You Can Save $200 on Samsung’s Elite Gaming Monitor Today</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-18 20:45</span>
             </div>
         </div>
 <div class="story">
@@ -140,29 +158,29 @@
                 <span class="time">2025-09-18 19:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/04/Gemini-1-500x500-1743791269.jpg" alt="Google announces massive expansion of AI features in Chrome" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/google/2025/09/google-announces-massive-expansion-of-ai-features-in-chrome/" target="_blank">Google announces massive expansion of AI features in Chrome</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-18 19:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/18/tim-cook-sam-altman-and-more-attend-trumps-uk-state-banquet/" target="_blank">Tim Cook, Sam Altman, and more attend Trump’s UK state banquet</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-18 19:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/ozone-chrome.jpg?resize=406%2C232&amp;ssl=1" alt="Google Chrome is Now an AI Browser" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/google-chrome-ai-browser-announcement" target="_blank">Google Chrome is Now an AI Browser</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-18 23:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/durrello/automate-cloudwatch-agent-setup-on-ec2-with-terraform-and-aws-ssm-bh8" target="_blank">Automate CloudWatch Agent Setup on EC2 with Terraform and AWS SSM</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-18 22:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,24 +217,6 @@
                 <span class="time">2025-09-18 20:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arkhan/composable-software-in-2025-building-systems-like-lego-511j" target="_blank">Composable Software in 2025: Building Systems Like Lego</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-18 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/nisarthpatel/the-smarter-way-to-code-stop-copy-pasting-and-start-reusing-1mk1" target="_blank">The Smarter Way to Code: Stop Copy-Pasting and Start Reusing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-18 18:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Apple-Iphone-17-Series-Air-38.jpg" alt="iPhone 17 Review: The Best iPhone Value in Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/iphone-17-review-the-best-iphone-value-in-years-2000661144" target="_blank">iPhone 17 Review: The Best iPhone Value in Years</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-18 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K5F8SQ6PZBM719E5SEHXYQP8/hero-image.jpg" alt="Garmin Took One of Whoop’s Best Features, and You Don’t Need a New Watch to Use It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/garmin-whoop-feature-lifestyle-logging?utm_medium=RSS" target="_blank">Garmin Took One of Whoop’s Best Features, and You Don’t Need a New Watch to Use It</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-18 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/xboxaly.jpg" alt="The Biggest Reason To Buy The Xbox Ally Handheld Just Leaked" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +288,6 @@
                 <span class="title"><a href="https://lifehacker.com/best-price-tracking-tools?utm_medium=RSS" target="_blank">These Are the Best Price-Tracking Tools</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-18 19:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Gen-V-Chance-Pedromo-Andre-Anderson-Sean-Patrick-Thomas.jpg" alt="‘Gen V’ Had Big Plans for Chance Perdomo Before His Untimely Death" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/gen-v-had-big-plans-for-chance-perdomo-before-his-untimely-death-2000660859" target="_blank">‘Gen V’ Had Big Plans for Chance Perdomo Before His Untimely Death</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-18 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JYRQJAXY60XDSAY4P2TV7QA0/hero-image.png" alt="You Can Turn Off Those Full-Screen Screenshots in iOS 26" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/disable-ios-26-annoying-new-screenshot-features?utm_medium=RSS" target="_blank">You Can Turn Off Those Full-Screen Screenshots in iOS 26</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-18 18:00</span>
             </div>
         </div>
 </div>
@@ -327,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
