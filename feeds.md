@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-19 13:08:05 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-19 14:01:55 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Generated 1 new posts out of 24 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, September 19, 2025 - 13:08 UTC</div>
+    <div class="newspaper-date">Friday, September 19, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,9 +49,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/19/taliban-releases-elderly-british-couple-from-afghanistan-detention?traffic_source=rss" target="_blank">Taliban releases elderly British couple from Afghanistan detention</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-19 13:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/19/civilians-on-the-front-line-in-sudans-forgotten-war-un-warns?traffic_source=rss" target="_blank">Civilians on the front line in Sudan’s ‘forgotten’ war, UN warns</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-19 11:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/19/g-s1-89564/up-first-newsletter-free-speech-charlie-kirk-cdc-mmrv-vaccine-antifa-terror-designation" target="_blank">Kirk&#x27;s death fuels free speech disputes. And, vaccine panel changes MMRV guidance</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-19 11:08</span>
             </div>
         </div>
 <div class="story">
@@ -78,29 +99,29 @@
                 <span class="time">2025-09-19 09:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2025/sep/19/kenya-turkana-people-genetically-adapted-to-live-in-harsh-environment-study-suggests" target="_blank">Kenya’s Turkana people genetically adapted to live in harsh environment, study suggests</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-09-19 09:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1fb/live/8bd4d710-951c-11f0-b0e0-2f34a724e07f.jpg" alt="Migrant returned to France after government wins court challenge" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx273vnkjpmo?at_medium=RSS&at_campaign=rss" target="_blank">Migrant returned to France after government wins court challenge</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-19 08:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/64b060a53d9e6b1cb17a89c4/master/pass/Refresh-Rate-Explainer-Gear-GettyImages-1394308880.png" alt="What Is a High Refresh Rate? Explaining 120 Hz on Phones, TVs, and Monitors" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/high-refresh-rate-explained/" target="_blank">What Is a High Refresh Rate? Explaining 120 Hz on Phones, TVs, and Monitors</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-19 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/19/one-week-left-lock-in-discounted-pricing-for-techcrunch-disrupt-2025/" target="_blank">One week left: Lock in discounted pricing for TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-19 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,24 +156,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/09/18/indian-fintech-jar-turns-profitable-by-helping-millions-save-in-gold/" target="_blank">Indian fintech Jar turns profitable by enabling millions to save in gold</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-09-19 03:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/06/ransomware-500x500.jpeg" alt="Two UK teens charged in connection to Scattered Spider ransomware attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2025/09/two-uk-teens-charged-in-connection-to-scattered-spider-ransomware-attacks/" target="_blank">Two UK teens charged in connection to Scattered Spider ransomware attacks</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-19 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68ca90d79cf75430f93254bd/master/pass/GettyImages-1299295760.jpg" alt="Vaccine Panel Stacked by RFK Jr. Recommends Delaying MMRV Immunization" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/vaccine-panel-stacked-by-rfk-jr-recommends-delaying-mmrv-immunization/" target="_blank">Vaccine Panel Stacked by RFK Jr. Recommends Delaying MMRV Immunization</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-18 23:59</span>
             </div>
         </div>
 </div>
@@ -220,6 +223,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Jujutsu-Kaisen-Execution-Anime-Mappa-Gkids.jpg" alt="The Next ‘Jujutsu Kaisen’ Arc Is Getting the Big Movie Treatment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/jujutsu-kaisen-execution-trailer-season-3-gkids-release-date-2000661370" target="_blank">The Next ‘Jujutsu Kaisen’ Arc Is Getting the Big Movie Treatment</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-19 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/06/red-panda.jpg?fit=1080%2C720&amp;quality=60&amp;ssl=1" alt="Buffalo Zoo welcomes two adorable red panda cubs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/19/buffalo-zoo-welcomes-two-adorable-red-panda-cubs.html" target="_blank">Buffalo Zoo welcomes two adorable red panda cubs</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-19 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2024/08/0eb76ad65e2cdad6ca8914687bb8c464.jpg" alt="Blizzard Denies AI Art Accusations After Fans Speculate About Overwatch 2 Sprays" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -253,24 +274,6 @@
                 <span class="title"><a href="https://gizmodo.com/iphone-17-review-the-best-iphone-value-in-years-2000661144" target="_blank">iPhone 17 Review: The Best iPhone Value in Years</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-18 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Kash-Patel.jpg?fit=680%2C383&amp;quality=60&amp;ssl=1" alt="Enjoy watching the Senate beat the dumb out of Kash Patel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/18/enjoy-watching-the-senate-beat-the-dumb-out-of-kash-patel.html" target="_blank">Enjoy watching the Senate beat the dumb out of Kash Patel</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-18 21:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Image-YouTube-Fourier.jpg?fit=1080%2C603&amp;quality=60&amp;ssl=1" alt="Fourier GR-3 &quot;care-bot&quot; is a squishy, pint-sized companion" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/18/fourier-gr-3-care-bot-is-a-squishy-pint-sized-companion.html" target="_blank">Fourier GR-3 &quot;care-bot&quot; is a squishy, pint-sized companion</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-18 21:21</span>
             </div>
         </div>
 </div>
@@ -319,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 13:08 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
