@@ -1,37 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-19 11:01:39 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-09-19 12:02:40 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: DZone -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Friday, September 19, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, September 19, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/19/civilians-on-the-front-line-in-sudans-forgotten-war-un-warns?traffic_source=rss" target="_blank">Civilians on the front line in Sudan’s ‘forgotten’ war, UN warns</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-19 11:14</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -92,20 +96,20 @@
                 <span class="time">2025-09-19 08:23</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/19/afghanistan-rejects-us-return-to-bagram-airbase?traffic_source=rss" target="_blank">Afghanistan rejects US return to Bagram airbase</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-19 08:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/772748/iphone-17-pro-air-preorder-price-how-to-buy-release-date" target="_blank">Apple’s 2025 iPhone lineup is now available to buy in stores and online</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-19 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68ccc9396f221c14468868d4/master/pass/Meta-Torrenting-Porn-Business-2235586841.jpg" alt="Meta Accused of Torrenting Porn to Advance Its Goal of AI ‘Superintelligence’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +155,38 @@
                 <span class="time">2025-09-18 23:59</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/18/openais-research-on-ai-models-deliberately-lying-is-wild/" target="_blank">OpenAI’s research on AI models deliberately lying is wild</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-18 22:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aariff/fixing-vercel-supabase-env-issues-in-github-actions-1bak" target="_blank">Fixing Vercel + Supabase env issues in GitHub Actions</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-19 11:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18628736&w=600" alt="Spring Boot WebSocket: Building a Multichannel Chat in Java" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/spring-boot-websocket-multichannel-chat-java" target="_blank">Spring Boot WebSocket: Building a Multichannel Chat in Java</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-19 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Mesa-Contributor-Guidelines" target="_blank">Mesa Adds Contributor Guidelines - Will Allow AI Generated Code If Author Understands It</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-19 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/09/aws-localstack-integration/en/headerimage/generatedHeaderImage-1758265535927.jpg" alt="AWS Integrates LocalStack with VS-Code Toolkit to Streamline Serverless Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -192,52 +214,20 @@
                 <span class="time">2025-09-19 07:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/hyprland-distros/" target="_blank">Hyprland Made Easy: Preconfigured Beautiful Distros</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-09-19 06:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://nostr.com/" target="_blank">Nostr</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-19 05:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/09/19/off-with-your-cms-s-head-composability-and-security-in-headless-cms/" target="_blank">Off with your CMS’s head! Composability and security in headless CMS</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-09-19 04:40</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/time-of-check-time-of-use-attacks-against-llms.html" target="_blank">Time-of-Check Time-of-Use Attacks Against LLMs</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-09-18 11:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2024/08/0eb76ad65e2cdad6ca8914687bb8c464.jpg" alt="Blizzard Denies AI Art Accusations After Fans Speculate About Overwatch 2 Sprays" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/overwatch-2-wuyang-juno-venture-sprays-ai-generated-2000626941" target="_blank">Blizzard Denies AI Art Accusations After Fans Speculate About Overwatch 2 Sprays</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-19 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/06/cash.jpeg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Cash is more important than national security in Trumpland" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,15 +273,6 @@
                 <span class="time">2025-09-18 21:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K5F8SQ6PZBM719E5SEHXYQP8/hero-image.jpg" alt="Garmin Took One of Whoop’s Best Features, and You Don’t Need a New Watch to Use It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/garmin-whoop-feature-lifestyle-logging?utm_medium=RSS" target="_blank">Garmin Took One of Whoop’s Best Features, and You Don’t Need a New Watch to Use It</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-18 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
