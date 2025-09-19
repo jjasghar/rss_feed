@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-19 15:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-19 16:01:42 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Friday, September 19, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, September 19, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +105,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/781862/charlie-kirk-nick-fuentes-candace-owens-tucker-carlson" target="_blank">MAGA influencers are already fighting over Charlie Kirk’s death</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-19 15:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/19/final-hours-be-the-life-of-techcrunch-disrupt-2025-by-hosting-your-own-side-event/" target="_blank">Final hours to apply: Be the life of TechCrunch Disrupt 2025 by hosting your own Side Event</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-19 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2235571352-500x500.jpg" alt="RFK Jr.’s anti-vaccine panel realizes it has no idea what it’s doing, skips vote" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -137,29 +158,20 @@
                 <span class="time">2025-09-19 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/772748/iphone-17-pro-air-preorder-price-how-to-buy-release-date" target="_blank">Apple’s 2025 iPhone lineup is now available to buy in stores and online</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-19 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68ccc9396f221c14468868d4/master/pass/Meta-Torrenting-Porn-Business-2235586841.jpg" alt="Meta Accused of Torrenting Porn to Advance Its Goal of AI ‘Superintelligence’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/meta-lawsuit-strike-3-porn-copyright-ai/" target="_blank">Meta Accused of Torrenting Porn to Advance Its Goal of AI ‘Superintelligence’</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-19 10:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18630506&w=600" alt="A Backend-First Approach to Production-Scale LLM Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/backend-first-approach-production-llm-apps" target="_blank">A Backend-First Approach to Production-Scale LLM Applications</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-19 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -181,6 +193,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/linux-617-filesystems" target="_blank">Linux 6.17 File-System Benchmarks, Including OpenZFS &amp; Bcachefs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-19 13:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aariff/fixing-vercel-supabase-env-issues-in-github-actions-1bak" target="_blank">Fixing Vercel + Supabase env issues in GitHub Actions</a></span>
                 <span class="feed">DEV Community</span>
@@ -194,24 +215,6 @@
                 <span class="title"><a href="https://dzone.com/articles/spring-boot-websocket-multichannel-chat-java" target="_blank">Spring Boot WebSocket: Building a Multichannel Chat in Java</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-09-19 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Mesa-Contributor-Guidelines" target="_blank">Mesa Adds Contributor Guidelines - Will Allow AI Generated Code If Author Understands It</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-19 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/aws-localstack-integration/en/headerimage/generatedHeaderImage-1758265535927.jpg" alt="AWS Integrates LocalStack with VS-Code Toolkit to Streamline Serverless Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/aws-localstack-integration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Integrates LocalStack with VS-Code Toolkit to Streamline Serverless Development</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-19 09:00</span>
             </div>
         </div>
 </div>
@@ -233,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Primate-Movie-review.jpg" alt="We’ve Seen ‘Primate,’ the First Big Horror Movie of 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/primate-movie-review-2026-horror-fantastic-fest-2000661195" target="_blank">We’ve Seen ‘Primate,’ the First Big Horror Movie of 2026</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-19 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/2025-09-12-image-6-j-scaled.webp?fit=2560%2C1440&amp;quality=55&amp;ssl=1" alt="Kodak&#x27;s Charmera keychain camera sells out in hours" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/19/kodaks-charmera-keychain-camera-sells-out-in-hours.html" target="_blank">Kodak&#x27;s Charmera keychain camera sells out in hours</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-19 15:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Peacemaker-DC-Studios-Recap.jpg" alt="The Eagles Come Home to Roost in the Most Screwball ‘Peacemaker’ Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +290,6 @@
                 <span class="time">2025-09-19 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2024/08/0eb76ad65e2cdad6ca8914687bb8c464.jpg" alt="Blizzard Denies AI Art Accusations After Fans Speculate About Overwatch 2 Sprays" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/overwatch-2-wuyang-juno-venture-sprays-ai-generated-2000626941" target="_blank">Blizzard Denies AI Art Accusations After Fans Speculate About Overwatch 2 Sprays</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-19 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/06/cash.jpeg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Cash is more important than national security in Trumpland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/18/cash-is-more-important-than-national-security-in-trumpland.html" target="_blank">Cash is more important than national security in Trumpland</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-19 01:29</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,31 +313,13 @@
                 <span class="time">2025-09-19 04:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/trying-to-read/" target="_blank">Trying to Read</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2025-09-18 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1758139868-20250918.png" alt="Saturday Morning Breakfast Cereal - Theodicy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/theodicy-5" target="_blank">Saturday Morning Breakfast Cereal - Theodicy</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-09-18 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
