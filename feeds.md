@@ -1,41 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-19 22:01:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-19 23:01:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 33 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, September 19, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, September 19, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/19/palestinians-flee-as-israel-strikes-with-unprecedented-force-in-gaza-city?traffic_source=rss" target="_blank">Palestinians flee as Israel strikes Gaza City with ‘unprecedented force’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-19 22:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30a1/live/a6bd5c70-959c-11f0-bbd3-97206a9cd9e0.jpg" alt="Estonia seeks Nato consultation after Russian jets violate airspace" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,21 +89,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://s.abcnews.com/images/Health/cdc-meeting-gty-jef-250919_1758288372572_hpMain_4x3t_384.jpg" alt="CDC panel abandons COVID vaccine recommendation, saying it&#x27;s personal choice" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250919-covid-vaccine-ew-102-95cf7f.jpg" alt="CDC panel votes to limit eligibility for this fall&#x27;s Covid vaccines" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Health/cdc-hepatitis-bvaccine-vote-delayed-parents/story?id=125731004" target="_blank">CDC panel abandons COVID vaccine recommendation, saying it&#x27;s personal choice</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-19 19:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/19/pa-arrests-palestinian-suspect-decades-after-paris-restaurant-attack?traffic_source=rss" target="_blank">PA arrests Palestinian suspect decades after deadly Paris restaurant attack</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-19 19:41</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/health/health-news/covid-vaccine-eligibility-limit-over-65-health-conditions-cdc-rcna232374" target="_blank">CDC panel votes to limit eligibility for this fall&#x27;s Covid vaccines</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-19 20:06</span>
             </div>
         </div>
 </div>
@@ -110,6 +102,33 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/689e685bba007d0d81f82fea/master/pass/Netflix-Show-Guide-Culture-WEDNESDAY_202_Unit_04383RC2.jpg" alt="The 51 Best Shows on Netflix Right Now (September 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/netflix-best-shows-this-week/" target="_blank">The 51 Best Shows on Netflix Right Now (September 2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-19 22:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1133641758-1-500x500.jpg" alt="In a win for science, NASA told to use House budget as shutdown looms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/09/amid-budget-uncertainty-nasa-gets-some-good-news-use-house-funding-levels/" target="_blank">In a win for science, NASA told to use House budget as shutdown looms</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-19 22:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/782194/windows-11-share-with-copilot-button" target="_blank">Windows 11 is adding another Copilot button nobody asked for</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-19 22:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,33 +154,6 @@
                 <span class="title"><a href="https://arstechnica.com/culture/2025/09/oklahomas-big-tv-nudes-scandal-was-a-jackie-chan-movie-on-a-samsung-streaming-service/" target="_blank">Oklahoma’s big “TV nudes” scandal was… a Jackie Chan movie on a Samsung streaming service</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-09-19 20:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/782079/microsoft-xbox-console-price-increase-us" target="_blank">Microsoft is raising prices on Xbox consoles in the US again</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-19 19:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/19/techcrunchs-equity-podcast-is-on-video-starting-today/" target="_blank">TechCrunch’s Equity podcast is on video, starting today</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-19 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/781945/ugreen-finetrack-slim-smart-g-bluetooth-tracker-battery-life" target="_blank">Ugreen’s new super slim wallet tracker has 5 years of battery life</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-19 17:47</span>
             </div>
         </div>
 </div>
@@ -351,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
