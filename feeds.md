@@ -1,35 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-09-18 23:01:45 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-09-19 00:04:34 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, September 18, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Friday, September 19, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,9 +44,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/18/panic-in-gaza-city-as-israel-advances-on-centre-sandwiching-population?traffic_source=rss" target="_blank">Panic in Gaza City as Israel advances on centre, ‘sandwiching’ population</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-18 22:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/18/uk-court-clears-the-way-for-deportation-of-eritrean-asylum-seeker?traffic_source=rss" target="_blank">UK court clears the way for deportation of Eritrean asylum seeker</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-18 22:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-protester-france-nantes_7024743.jpg?20250918231005" alt="Police fire tear gas at protesters during day of strikes in France" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/police-fire-tear-gas-at-protesters-during-day-of-strikes-in-france-13433724" target="_blank">Police fire tear gas at protesters during day of strikes in France</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-18 21:55</span>
             </div>
         </div>
 <div class="story">
@@ -81,29 +94,20 @@
                 <span class="time">2025-09-18 20:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/18/nx-s1-5543373/bad-bunny-us-tour-ice" target="_blank">Bad Bunny skipped touring the states. Will other performers follow suit?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-18 19:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/18/g-s1-89474/trump-suggests-u-s-troops-could-return-to-afghan-base-over-china-concerns" target="_blank">Trump suggests U.S. troops could return to Afghan base over China concerns</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-18 18:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/18/openais-research-on-ai-models-deliberately-lying-is-wild/" target="_blank">OpenAI’s research on AI models deliberately lying is wild</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-18 22:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +153,20 @@
                 <span class="time">2025-09-18 20:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68caf1d48ab34197e02b0be8/master/pass/Uncanny-Valley-OpenAI-Humanoid-Robots-Business-2186604642.jpg" alt="Move Aside, Chatbots: AI Humanoids Are Here" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-move-aside-chatbots-ai-humanoids-are-here/" target="_blank">Move Aside, Chatbots: AI Humanoids Are Here</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-18 19:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/ozone-chrome.jpg?resize=406%2C232&amp;ssl=1" alt="Google Chrome is Becoming an AI Browser — Starting Today" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/google-chrome-ai-browser-announcement" target="_blank">Google Chrome is Becoming an AI Browser — Starting Today</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-18 23:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/ozone-chrome.jpg?resize=406%2C232&amp;ssl=1" alt="Google Chrome is Now an AI Browser" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +212,6 @@
                 <span class="time">2025-09-18 20:41</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://keith.github.io/xcode-man-pages/apple_ssh_and_filevault.7.html" target="_blank">Apple: SSH and FileVault</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-18 20:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,12 +232,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/stone-tool-in-Turkey.jpg" alt="The Land Bridge You’ve Never Heard Of" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-land-bridge-youve-never-heard-of-2000660883" target="_blank">The Land Bridge You’ve Never Heard Of</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-18 23:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Apple-Iphone-17-Series-Air-38.jpg" alt="iPhone 17 Review: The Best iPhone Value in Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/iphone-17-review-the-best-iphone-value-in-years-2000661144" target="_blank">iPhone 17 Review: The Best iPhone Value in Years</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-18 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Image-YouTube-Fourier.jpg?fit=1080%2C603&amp;quality=60&amp;ssl=1" alt="Fourier GR-3 &quot;care-bot&quot; is a squishy, pint-sized companion" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/18/fourier-gr-3-care-bot-is-a-squishy-pint-sized-companion.html" target="_blank">Fourier GR-3 &quot;care-bot&quot; is a squishy, pint-sized companion</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-18 21:21</span>
             </div>
         </div>
 <div class="story">
@@ -270,24 +283,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/extend-iphone-air-battery-life?utm_medium=RSS" target="_blank">Change These Settings to Extend Your New iPhone Air&#x27;s Battery Life</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-18 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/falcon-9-starlink-launch.jpeg" alt="Russia’s Space Chief Touts ‘Rapid’ Development of Starlink Rival" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/russias-space-chief-touts-rapid-development-of-starlink-rival-2000661016" target="_blank">Russia’s Space Chief Touts ‘Rapid’ Development of Starlink Rival</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-18 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2GY1EGKVBM56BVJC4RJMWT/hero-image.jpg" alt="These Are the Best Price-Tracking Tools" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/best-price-tracking-tools?utm_medium=RSS" target="_blank">These Are the Best Price-Tracking Tools</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-18 19:30</span>
             </div>
         </div>
 </div>
@@ -327,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
