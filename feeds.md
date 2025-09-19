@@ -1,42 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-19 07:01:50 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-19 08:01:58 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 32 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Friday, September 19, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Friday, September 19, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/uk-news/2025/sep/19/eritrean-man-is-second-to-be-deported-to-france-under-uk-one-in-one-out-deal" target="_blank">Eritrean man is second to be deported to France under UK’s ‘one in, one out’ deal</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-09-19 06:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,15 +94,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/trump-poised-fire-us-attorney-resisting-effort-charge/story?id=125700904" target="_blank">Trump poised to fire US attorney for resisting effort to charge NY AG: Sources</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-19 03:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758236804968_nn_lkr_jimmy_kimmel_pulled_offair_250918_1920x1080-f7iejg.jpg" alt="Hollywood rallies behind Kimmel, while Trump and supporters cheer suspension" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/hollywood-rallies-behind-kimmel-while-trump-and-supporters-cheer-suspension-247891014002" target="_blank">Hollywood rallies behind Kimmel, while Trump and supporters cheer suspension</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-18 23:06</span>
             </div>
         </div>
 </div>
@@ -173,6 +163,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/hyprland-distros/" target="_blank">Hyprland Made Easy: Preconfigured Beautiful Distros</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-09-19 06:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://nostr.com/" target="_blank">Nostr</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-19 05:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-stack-overflow"></span>
                 <span class="title"><a href="https://stackoverflow.blog/2025/09/19/off-with-your-cms-s-head-composability-and-security-in-headless-cms/" target="_blank">Off with your CMS’s head! Composability and security in headless CMS</a></span>
                 <span class="feed">Stack Overflow Blog</span>
@@ -204,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/ezekiel_umesi_5bd2fa6069c/the-dangerous-comfort-of-the-checkbox-why-compliance-is-not-security-nc4" target="_blank">The Dangerous Comfort of the Checkbox: Why Compliance is Not Security</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-19 01:17</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-25.10-Beta" target="_blank">Ubuntu 25.10 Beta Officially Released For Testing</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-19 00:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-september-19-2025-red-hat" target="_blank">Friday Five — September 19, 2025</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2025-09-19 00:00</span>
             </div>
         </div>
 </div>
@@ -325,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
