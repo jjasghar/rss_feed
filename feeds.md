@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-19 08:01:58 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-09-19 09:02:08 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Friday, September 19, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, September 19, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1fb/live/8bd4d710-951c-11f0-b0e0-2f34a724e07f.jpg" alt="Migrant returned to France after government wins court challenge" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx273vnkjpmo?at_medium=RSS&at_campaign=rss" target="_blank">Migrant returned to France after government wins court challenge</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-19 08:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +94,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/19/pentagon-official-denies-report-of-charlie-kirk-military-recruitment-drive?traffic_source=rss" target="_blank">Pentagon official denies report of Charlie Kirk military recruitment drive</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-19 03:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-17-gty-gmh-250916_1758054560870_hpMain_4x3t_384.jpg" alt="Trump poised to fire US attorney for resisting effort to charge NY AG: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/trump-poised-fire-us-attorney-resisting-effort-charge/story?id=125700904" target="_blank">Trump poised to fire US attorney for resisting effort to charge NY AG: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-19 03:22</span>
             </div>
         </div>
 </div>
@@ -161,6 +161,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/09/aws-localstack-integration/en/headerimage/generatedHeaderImage-1758265535927.jpg" alt="AWS Integrates LocalStack with VS-Code Toolkit to Streamline Serverless Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/aws-localstack-integration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS Integrates LocalStack with VS-Code Toolkit to Streamline Serverless Development</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-19 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/how-to-build-an-awesome-cloud-gaming-platform-with-anbox-cloud" target="_blank">How to build an awesome cloud gaming platform with Anbox Cloud</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-09-19 08:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://iterm2.com/documentation-web.html" target="_blank">iTerm2 Web Browser</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-19 07:14</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -185,33 +212,6 @@
                 <span class="title"><a href="https://stackoverflow.blog/2025/09/19/off-with-your-cms-s-head-composability-and-security-in-headless-cms/" target="_blank">Off with your CMS’s head! Composability and security in headless CMS</a></span>
                 <span class="feed">Stack Overflow Blog</span>
                 <span class="time">2025-09-19 04:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://gemini.google/overview/gemini-in-chrome/" target="_blank">Gemini in Chrome</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-19 02:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aimodels-fyi/a-beginners-guide-to-the-roop-model-by-okaris-on-replicate-12d5" target="_blank">A beginner&#x27;s guide to the Roop model by Okaris on Replicate</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-19 02:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa7szcbg4hncnxwt8a8y5.png" alt="The Dangerous Comfort of the Checkbox: Why Compliance is Not Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ezekiel_umesi_5bd2fa6069c/the-dangerous-comfort-of-the-checkbox-why-compliance-is-not-security-nc4" target="_blank">The Dangerous Comfort of the Checkbox: Why Compliance is Not Security</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-19 01:17</span>
             </div>
         </div>
 </div>
@@ -295,6 +295,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/09/19/v-ger" target="_blank">V&#x27;ger</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-09-19 07:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-pencil"></span>
                 <span class="title"><a href="https://poorlydrawnlines.com/comic/trying-to-read/" target="_blank">Trying to Read</a></span>
                 <span class="feed">Poorly Drawn Lines</span>
@@ -315,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
