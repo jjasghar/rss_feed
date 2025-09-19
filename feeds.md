@@ -1,35 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-09-19 16:01:42 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-19 17:01:41 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 7 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, September 19, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, September 19, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +40,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-xi-01-ap-jef-250919_1758283871525_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump talks with Xi about trade, TikTok deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=125577990" target="_blank">Trump admin live updates: Trump talks with Xi about trade, TikTok deal</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-19 15:47</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/09/19/nx-s1-5546769/cdc-vaccine-acip-hepatitis-b-covid" target="_blank">&#x27;We are rookies&#x27;: Day 2 of CDC vaccine meeting opens with a reversal and a surprise</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-19 14:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-mig-31-russia-air-force_7025320.jpg?20250919152947" alt="NATO responds after Russian military jets &#x27;violate&#x27; Estonian airspace" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/russian-military-jets-violate-estonian-airspace-officials-say-13434022" target="_blank">NATO responds after Russian military jets &#x27;violate&#x27; Estonian airspace</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-19 13:56</span>
             </div>
         </div>
 <div class="story">
@@ -81,29 +93,20 @@
                 <span class="time">2025-09-19 11:14</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/19/g-s1-89564/up-first-newsletter-free-speech-charlie-kirk-cdc-mmrv-vaccine-antifa-terror-designation" target="_blank">Kirk&#x27;s death fuels free speech disputes. And, vaccine panel changes MMRV guidance</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-19 11:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/goats-and-soda/2025/09/19/g-s1-88001/health-care-aid-cuts-uganda" target="_blank">Aid cuts hit Uganda hard. With worry and grit, it&#x27;s finding new ways to save lives</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-19 10:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/raskinfeature10-500x500.jpg" alt="Your very own humane interface: Try Jef Raskin’s ideas at home" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/your-very-own-humane-interface-try-jef-raskins-ideas-at-home/" target="_blank">Your very own humane interface: Try Jef Raskin’s ideas at home</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-19 16:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -111,6 +114,15 @@
                 <span class="title"><a href="https://www.theverge.com/policy/781862/charlie-kirk-nick-fuentes-candace-owens-tucker-carlson" target="_blank">MAGA influencers are already fighting over Charlie Kirk’s death</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-19 15:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68cc9f1b7b54fcb77b9e8782/master/pass/The%20Best%20Grills%20for%20Cookouts%20and%20Tailgates.png" alt="The 9 Best Grills of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-grills-and-smokers/" target="_blank">The 9 Best Grills of 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-19 15:33</span>
             </div>
         </div>
 <div class="story">
@@ -138,24 +150,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/781810/first-look-google-home-app-powered-by-gemini" target="_blank">First look at the Google Home app powered by Gemini</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-19 14:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/64b060a53d9e6b1cb17a89c4/master/pass/Refresh-Rate-Explainer-Gear-GettyImages-1394308880.png" alt="What Is a High Refresh Rate? Explaining 120 Hz on Phones, TVs, and Monitors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/high-refresh-rate-explained/" target="_blank">What Is a High Refresh Rate? Explaining 120 Hz on Phones, TVs, and Monitors</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-19 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/19/one-week-left-lock-in-discounted-pricing-for-techcrunch-disrupt-2025/" target="_blank">One week left: Lock in discounted pricing for TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-19 14:00</span>
             </div>
         </div>
 </div>
@@ -202,19 +196,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.smithsonianmag.com/smart-news/these-ant-queens-seem-to-defy-biology-they-lay-eggs-that-hatch-into-another-species-180987292/" target="_blank">Ants Seem to Defy Biology: They Lay Eggs That Hatch into Another Species</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-19 12:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aariff/fixing-vercel-supabase-env-issues-in-github-actions-1bak" target="_blank">Fixing Vercel + Supabase env issues in GitHub Actions</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-19 11:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18628736&w=600" alt="Spring Boot WebSocket: Building a Multichannel Chat in Java" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/spring-boot-websocket-multichannel-chat-java" target="_blank">Spring Boot WebSocket: Building a Multichannel Chat in Java</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-19 11:00</span>
             </div>
         </div>
 </div>
@@ -296,6 +290,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://www.smbc-comics.com/comics/1758139904-20250919.png" alt="Saturday Morning Breakfast Cereal - Sheep" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/sheep-2" target="_blank">Saturday Morning Breakfast Cereal - Sheep</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-09-19 15:20</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -318,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 41 | 📸 With Images: 269 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
