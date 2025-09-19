@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-19 01:28:58 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-19 02:27:31 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Friday, September 19, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Friday, September 19, 2025 - 02:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -115,6 +111,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media.wired.com/photos/68ca90d79cf75430f93254bd/master/pass/GettyImages-1299295760.jpg" alt="Vaccine Panel Stacked by RFK Jr. Recommends Delaying MMRV Immunization" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/vaccine-panel-stacked-by-rfk-jr-recommends-delaying-mmrv-immunization/" target="_blank">Vaccine Panel Stacked by RFK Jr. Recommends Delaying MMRV Immunization</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-18 23:59</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -150,20 +155,20 @@
                 <span class="time">2025-09-18 20:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68cc50131c8be691cd113d06/master/pass/Save%20$200%20on%20Samsung's%20Monster%204K%20Gaming%20Monitor.png" alt="You Can Save $200 on Samsung’s Elite Gaming Monitor Today" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/save-dollar200-on-samsungs-monster-4k-gaming-monitor/" target="_blank">You Can Save $200 on Samsung’s Elite Gaming Monitor Today</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-18 20:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aimodels-fyi/a-beginners-guide-to-the-roop-model-by-okaris-on-replicate-12d5" target="_blank">A beginner&#x27;s guide to the Roop model by Okaris on Replicate</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-19 02:08</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa7szcbg4hncnxwt8a8y5.png" alt="The Dangerous Comfort of the Checkbox: Why Compliance is Not Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -209,15 +214,6 @@
                 <span class="time">2025-09-18 23:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/durrello/automate-cloudwatch-agent-setup-on-ec2-with-terraform-and-aws-ssm-bh8" target="_blank">Automate CloudWatch Agent Setup on EC2 with Terraform and AWS SSM</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-18 22:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/06/cash.jpeg?fit=1500%2C1000&amp;quality=60&amp;ssl=1" alt="Cash is more important than national security in Trumpland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/18/cash-is-more-important-than-national-security-in-trumpland.html" target="_blank">Cash is more important than national security in Trumpland</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-19 01:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/stone-tool-in-Turkey.jpg" alt="The Land Bridge You’ve Never Heard Of" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +287,6 @@
                 <span class="time">2025-09-18 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/xboxaly.jpg" alt="The Biggest Reason To Buy The Xbox Ally Handheld Just Leaked" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-rog-ally-x-windows-handheld-app-leak-2000626934" target="_blank">The Biggest Reason To Buy The Xbox Ally Handheld Just Leaked</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-18 20:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -329,7 +325,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 01:29 UTC
+        🔄 Last Updated: 02:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
