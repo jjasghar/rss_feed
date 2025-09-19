@@ -1,30 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-19 00:04:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-19 01:28:58 UTC -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 22 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, September 19, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, September 19, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758236804968_nn_lkr_jimmy_kimmel_pulled_offair_250918_1920x1080-f7iejg.jpg" alt="Hollywood rallies behind Kimmel, while Trump and supporters cheer suspension" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/hollywood-rallies-behind-kimmel-while-trump-and-supporters-cheer-suspension-247891014002" target="_blank">Hollywood rallies behind Kimmel, while Trump and supporters cheer suspension</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-18 23:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +100,20 @@
                 <span class="time">2025-09-18 20:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/18/g-s1-89492/ice-immigration-raids-gsa-office-space" target="_blank">Trump administration rushes to rent space for immigration officers conducting raids</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-18 20:14</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2021/06/ransomware-500x500.jpeg" alt="Two UK teens charged in connection to Scattered Spider ransomware attacks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/09/two-uk-teens-charged-in-connection-to-scattered-spider-ransomware-attacks/" target="_blank">Two UK teens charged in connection to Scattered Spider ransomware attacks</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-19 00:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,20 +159,38 @@
                 <span class="time">2025-09-18 20:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2210790015-500x500.jpg" alt="“Get off the iPad!” warns air traffic control as Spirit flight nears Air Force One" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2025/09/get-off-the-ipad-warns-air-traffic-control-as-spirit-flight-nears-air-force-one/" target="_blank">“Get off the iPad!” warns air traffic control as Spirit flight nears Air Force One</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-18 20:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa7szcbg4hncnxwt8a8y5.png" alt="The Dangerous Comfort of the Checkbox: Why Compliance is Not Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ezekiel_umesi_5bd2fa6069c/the-dangerous-comfort-of-the-checkbox-why-compliance-is-not-security-nc4" target="_blank">The Dangerous Comfort of the Checkbox: Why Compliance is Not Security</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-19 01:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-25.10-Beta" target="_blank">Ubuntu 25.10 Beta Officially Released For Testing</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-19 00:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-hat-cowboy"></span>
+                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-september-19-2025-red-hat" target="_blank">Friday Five — September 19, 2025</a></span>
+                <span class="feed">Red Hat Blog</span>
+                <span class="time">2025-09-19 00:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/ozone-chrome.jpg?resize=406%2C232&amp;ssl=1" alt="Google Chrome is Becoming an AI Browser — Starting Today" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -183,33 +216,6 @@
                 <span class="title"><a href="https://dev.to/durrello/automate-cloudwatch-agent-setup-on-ec2-with-terraform-and-aws-ssm-bh8" target="_blank">Automate CloudWatch Agent Setup on EC2 with Terraform and AWS SSM</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-18 22:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vishalmysore/what-is-google-ap2-protocol-step-by-step-guide-with-examples-2lcp" target="_blank">What is Google AP2 Protocol : Step by Step Guide with Examples</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-18 21:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/ubuntu-2510-quokka-beta.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Beta Released" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/ubuntu-25-10-beta-released" target="_blank">Ubuntu 25.10 Beta Released</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-18 21:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fikuwnc1avp0syi1yplj0.png" alt="The shortest AI agent you can build" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thisismairaj/the-shortest-ai-agent-you-can-build-57p4" target="_blank">The shortest AI agent you can build</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-18 20:41</span>
             </div>
         </div>
 </div>
@@ -250,6 +256,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Kash-Patel.jpg?fit=680%2C383&amp;quality=60&amp;ssl=1" alt="Enjoy watching the Senate beat the dumb out of Kash Patel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/18/enjoy-watching-the-senate-beat-the-dumb-out-of-kash-patel.html" target="_blank">Enjoy watching the Senate beat the dumb out of Kash Patel</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-18 21:27</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Image-YouTube-Fourier.jpg?fit=1080%2C603&amp;quality=60&amp;ssl=1" alt="Fourier GR-3 &quot;care-bot&quot; is a squishy, pint-sized companion" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -274,15 +289,6 @@
                 <span class="title"><a href="https://kotaku.com/xbox-rog-ally-x-windows-handheld-app-leak-2000626934" target="_blank">The Biggest Reason To Buy The Xbox Ally Handheld Just Leaked</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-09-18 20:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K5F883KV5G9BSH9MZP20JS64/hero-image.jpg" alt="Change These Settings to Extend Your New iPhone Air&#x27;s Battery Life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/extend-iphone-air-battery-life?utm_medium=RSS" target="_blank">Change These Settings to Extend Your New iPhone Air&#x27;s Battery Life</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-18 20:30</span>
             </div>
         </div>
 </div>
@@ -322,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
