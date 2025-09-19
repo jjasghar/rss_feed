@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-19 19:01:53 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-19 20:01:40 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Friday, September 19, 2025 - 19:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Friday, September 19, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +50,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/Health/cdc-meeting-gty-jef-250919_1758288372572_hpMain_4x3t_384.jpg" alt="CDC panel abandons COVID vaccine recommendation, saying it&#x27;s personal choice" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Health/cdc-hepatitis-bvaccine-vote-delayed-parents/story?id=125731004" target="_blank">CDC panel abandons COVID vaccine recommendation, saying it&#x27;s personal choice</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-19 19:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/19/pa-arrests-palestinian-suspect-decades-after-paris-restaurant-attack?traffic_source=rss" target="_blank">PA arrests Palestinian suspect decades after deadly Paris restaurant attack</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-19 19:41</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/schumer-gty-jt-250918_1758223710185_hpMain_2_4x3t_384.jpg" alt="Senate fails to advance bills to fund government as shutdown looms" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/Politics/house-speaker-johnson-optimistic-vote-avert-shutdown-democrats/story?id=125707478" target="_blank">Senate fails to advance bills to fund government as shutdown looms</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-19 18:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/19/nx-s1-5546839/jimmy-kimmel-trump-jimmy-fallon-seth-meyers-colbert" target="_blank">&#x27;We are all Jimmy Kimmel&#x27;: What late night hosts are saying about Kimmel&#x27;s suspension</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-19 18:11</span>
             </div>
         </div>
 <div class="story">
@@ -73,38 +103,20 @@
                 <span class="time">2025-09-19 17:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/19/estonia-says-russian-fighter-jets-entered-airspace-in-brazen-intrusion?traffic_source=rss" target="_blank">Estonia says Russian fighter jets entered airspace in ‘brazen intrusion’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-19 17:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-xi-01-ap-jef-250919_1758283871525_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump talks with Xi about trade, TikTok deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=125577990" target="_blank">Trump admin live updates: Trump talks with Xi about trade, TikTok deal</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-19 15:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/09/19/nx-s1-5546769/cdc-vaccine-acip-hepatitis-b-covid" target="_blank">&#x27;We are rookies&#x27;: Day 2 of CDC vaccine meeting opens with a reversal and a surprise</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-19 14:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/782079/microsoft-xbox-console-price-increase-us" target="_blank">Microsoft is raising prices on Xbox consoles in the US again</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-19 19:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +162,20 @@
                 <span class="time">2025-09-19 15:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68cc9f1b7b54fcb77b9e8782/master/pass/The%20Best%20Grills%20for%20Cookouts%20and%20Tailgates.png" alt="The 9 Best Grills of 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-grills-and-smokers/" target="_blank">The 9 Best Grills of 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-19 15:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yaseer_arafat/-57n0" target="_blank">💣 𝗠𝗮𝗻𝗮𝗴𝗶𝗻𝗴 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗗𝗲𝗯𝘁 𝗪𝗶𝘁𝗵𝗼𝘂𝘁 𝗟𝗼𝘀𝗶𝗻𝗴 𝗬𝗼𝘂𝗿 𝗠𝗶𝗻𝗱</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-19 19:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +221,6 @@
                 <span class="time">2025-09-19 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18630506&w=600" alt="A Backend-First Approach to Production-Scale LLM Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/backend-first-approach-production-llm-apps" target="_blank">A Backend-First Approach to Production-Scale LLM Applications</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-19 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +240,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Him-Movie-Interview.jpg" alt="No, That Wasn’t an X-Men Reference in ‘Him’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/him-director-interview-justin-tipping-football-xmen-2000660737" target="_blank">No, That Wasn’t an X-Men Reference in ‘Him’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-19 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/roborock-s5v.jpg" alt="Roborock Doesn’t Want You Struggling With Housework, It’s Selling Its Latest Model With No Margin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/roborock-doesnt-want-you-fighting-housework-anymore-its-selling-its-latest-model-with-no-margin-2000627205" target="_blank">Roborock Doesn’t Want You Struggling With Housework, It’s Selling Its Latest Model With No Margin</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-19 19:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JRSK1DPQGGZQGAERGA9GFQNF/hero-image.png" alt="You Can Get Microsoft Office Pro Plus 2019 on Sale for Just $30 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/office-professional-plus-stacksocial-sale?utm_medium=RSS" target="_blank">You Can Get Microsoft Office Pro Plus 2019 on Sale for Just $30 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-19 18:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/81AfqpToiEL._AC_SL1500_.jpg?fit=1500%2C1151&amp;quality=60&amp;ssl=1" alt="Pepper spray or gel?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -262,33 +292,6 @@
                 <span class="title"><a href="https://lifehacker.com/money/best-amazon-prime-benefits?utm_medium=RSS" target="_blank">The Best Amazon Prime Benefits You Probably Don&#x27;t Know About</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-19 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Primate-Movie-review.jpg" alt="We’ve Seen ‘Primate,’ the First Big Horror Movie of 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/primate-movie-review-2026-horror-fantastic-fest-2000661195" target="_blank">We’ve Seen ‘Primate,’ the First Big Horror Movie of 2026</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-19 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/2025-09-12-image-6-j-scaled.webp?fit=2560%2C1440&amp;quality=55&amp;ssl=1" alt="Kodak&#x27;s Charmera keychain camera sells out in hours" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/19/kodaks-charmera-keychain-camera-sells-out-in-hours.html" target="_blank">Kodak&#x27;s Charmera keychain camera sells out in hours</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-19 15:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Peacemaker-DC-Studios-Recap.jpg" alt="The Eagles Come Home to Roost in the Most Screwball ‘Peacemaker’ Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/peacemaker-recap-back-to-the-suture-episode-5-dcu-2000661018" target="_blank">The Eagles Come Home to Roost in the Most Screwball ‘Peacemaker’ Yet</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-19 15:00</span>
             </div>
         </div>
 </div>
@@ -328,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 19:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
