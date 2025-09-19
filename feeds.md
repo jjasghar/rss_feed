@@ -1,35 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-19 14:01:55 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-19 15:01:44 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: NPR News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, September 19, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Friday, September 19, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,10 +45,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/09/19/nx-s1-5546769/cdc-vaccine-acip-hepatitis-b-covid" target="_blank">&#x27;We are rookies&#x27;: Day 2 of CDC vaccine meeting opens with a reversal and a surprise</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-19 14:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/19/taliban-releases-elderly-british-couple-from-afghanistan-detention?traffic_source=rss" target="_blank">Taliban releases elderly British couple from Afghanistan detention</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-19 13:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3640/live/8c5550e0-954c-11f0-9cf6-cbf3e73ce2b9.jpg" alt="US TV hosts back Kimmel as Trump threatens TV networks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clyxjve3pe2o?at_medium=RSS&at_campaign=rss" target="_blank">US TV hosts back Kimmel as Trump threatens TV networks</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-19 13:06</span>
             </div>
         </div>
 <div class="story">
@@ -81,29 +96,29 @@
                 <span class="time">2025-09-19 10:48</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0392/live/e22cf300-9534-11f0-ad73-8b4a30771edb.jpg" alt="Minister rejects Trump&#x27;s call for military to tackle illegal migration in UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c04qre9l0v3o?at_medium=RSS&at_campaign=rss" target="_blank">Minister rejects Trump&#x27;s call for military to tackle illegal migration in UK</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-19 10:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/19/nx-s1-5539547/grocery-prices-tariffs-food-inflation" target="_blank">Grocery prices have jumped up, and there&#x27;s no relief in sight</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-19 09:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2235571352-500x500.jpg" alt="RFK Jr.’s anti-vaccine panel realizes it has no idea what it’s doing, skips vote" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/09/rfk-jr-s-anti-vaccine-panel-realizes-it-has-no-idea-what-its-doing-skips-vote/" target="_blank">RFK Jr.’s anti-vaccine panel realizes it has no idea what it’s doing, skips vote</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-19 14:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/781810/first-look-google-home-app-powered-by-gemini" target="_blank">First look at the Google Home app powered by Gemini</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-19 14:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/64b060a53d9e6b1cb17a89c4/master/pass/Refresh-Rate-Explainer-Gear-GettyImages-1394308880.png" alt="What Is a High Refresh Rate? Explaining 120 Hz on Phones, TVs, and Monitors" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +155,29 @@
                 <span class="time">2025-09-19 10:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/19/mastodon-has-a-new-plan-to-make-money-hosting-and-support-services-for-the-open-social-web/" target="_blank">Mastodon has a new plan to make money: Hosting and support services for the open social web</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-19 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/18/indian-fintech-jar-turns-profitable-by-helping-millions-save-in-gold/" target="_blank">Indian fintech Jar turns profitable by enabling millions to save in gold</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-19 03:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.jeffgeerling.com/blog/2025/i-regret-building-3000-pi-ai-cluster" target="_blank">I regret building this $3000 Pi AI cluster</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-19 14:28</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18630480&w=600" alt="VS Code Agent Mode: An Architect&#x27;s Perspective for the .NET Ecosystem" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/vs-code-agent-mode-dotnet" target="_blank">VS Code Agent Mode: An Architect&#x27;s Perspective for the .NET Ecosystem</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-19 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,22 +214,18 @@
                 <span class="time">2025-09-19 09:00</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/how-to-build-an-awesome-cloud-gaming-platform-with-anbox-cloud" target="_blank">How to build an awesome cloud gaming platform with Anbox Cloud</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-09-19 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://iterm2.com/documentation-web.html" target="_blank">iTerm2 Web Browser</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-19 07:14</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/surveying-the-global-spyware-market.html" target="_blank">Surveying the Global Spyware Market</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-09-19 11:01</span>
             </div>
         </div>
 </div>
@@ -223,12 +234,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Peacemaker-DC-Studios-Recap.jpg" alt="The Eagles Come Home to Roost in the Most Screwball ‘Peacemaker’ Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/peacemaker-recap-back-to-the-suture-episode-5-dcu-2000661018" target="_blank">The Eagles Come Home to Roost in the Most Screwball ‘Peacemaker’ Yet</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-19 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Jujutsu-Kaisen-Execution-Anime-Mappa-Gkids.jpg" alt="The Next ‘Jujutsu Kaisen’ Arc Is Getting the Big Movie Treatment" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/jujutsu-kaisen-execution-trailer-season-3-gkids-release-date-2000661370" target="_blank">The Next ‘Jujutsu Kaisen’ Arc Is Getting the Big Movie Treatment</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-19 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/badurls.jpg?fit=1600%2C1000&amp;quality=60&amp;ssl=1" alt="A URL shortener that creates suspicious-looking URLs" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/19/a-url-shortener-that-creates-suspicious-looking-urls.html" target="_blank">A URL shortener that creates suspicious-looking URLs</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-19 13:51</span>
             </div>
         </div>
 <div class="story">
@@ -256,24 +285,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/18/cash-is-more-important-than-national-security-in-trumpland.html" target="_blank">Cash is more important than national security in Trumpland</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-19 01:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/stone-tool-in-Turkey.jpg" alt="The Land Bridge You’ve Never Heard Of" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-land-bridge-youve-never-heard-of-2000660883" target="_blank">The Land Bridge You’ve Never Heard Of</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-18 23:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Apple-Iphone-17-Series-Air-38.jpg" alt="iPhone 17 Review: The Best iPhone Value in Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/iphone-17-review-the-best-iphone-value-in-years-2000661144" target="_blank">iPhone 17 Review: The Best iPhone Value in Years</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-18 23:00</span>
             </div>
         </div>
 </div>
@@ -322,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
