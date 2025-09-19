@@ -1,39 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-19 20:01:40 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-19 21:01:55 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, September 19, 2025 - 20:01 UTC</div>
+    <div class="newspaper-date">Friday, September 19, 2025 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/19/nx-s1-5544339/climate-change-lawsuits-fossil-fuels" target="_blank">Ted Cruz claims without evidence that China is funding U.S. climate lawsuits</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-19 20:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Health/cdc-meeting-gty-jef-250919_1758288372572_hpMain_4x3t_384.jpg" alt="CDC panel abandons COVID vaccine recommendation, saying it&#x27;s a personal choice" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Health/cdc-hepatitis-bvaccine-vote-delayed-parents/story?id=125731004" target="_blank">CDC panel abandons COVID vaccine recommendation, saying it&#x27;s a personal choice</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-19 20:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Health/cdc-meeting-gty-jef-250919_1758288372572_hpMain_4x3t_384.jpg" alt="CDC panel abandons COVID vaccine recommendation, saying it&#x27;s personal choice" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -85,29 +96,20 @@
                 <span class="time">2025-09-19 18:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8007/live/0dfedb80-956f-11f0-aa3a-ddc192c3f339.jpg" alt="Nato intercepts Russian warplanes violating Estonian airspace" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czrp6p5mj3zo?at_medium=RSS&at_campaign=rss" target="_blank">Nato intercepts Russian warplanes violating Estonian airspace</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-19 17:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/mike-johnson-gty-jt-250919_1758297372776_hpMain_4x3t_384.jpg" alt="Senate fails to advance House-passed funding bill or Dem funding bill" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/house-speaker-johnson-optimistic-vote-avert-shutdown-democrats/story?id=125707478" target="_blank">Senate fails to advance House-passed funding bill or Dem funding bill</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-19 17:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/protector-500x500-1758312254.jpg" alt="Oklahoma’s big “TV nudes” scandal was… a Jackie Chan movie on a Samsung streaming service" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/09/oklahomas-big-tv-nudes-scandal-was-a-jackie-chan-movie-on-a-samsung-streaming-service/" target="_blank">Oklahoma’s big “TV nudes” scandal was… a Jackie Chan movie on a Samsung streaming service</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-19 20:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -153,15 +155,6 @@
                 <span class="time">2025-09-19 16:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/781862/charlie-kirk-nick-fuentes-candace-owens-tucker-carlson" target="_blank">MAGA influencers are already fighting over Charlie Kirk’s death</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-19 15:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -174,6 +167,15 @@
                 <span class="title"><a href="https://dev.to/yaseer_arafat/-57n0" target="_blank">💣 𝗠𝗮𝗻𝗮𝗴𝗶𝗻𝗴 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗗𝗲𝗯𝘁 𝗪𝗶𝘁𝗵𝗼𝘂𝘁 𝗟𝗼𝘀𝗶𝗻𝗴 𝗬𝗼𝘂𝗿 𝗠𝗶𝗻𝗱</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-19 19:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18632294&w=600" alt="Your SDLC Has an Evil Twin — and AI Built It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/evil-twin-sdlc-ai" target="_blank">Your SDLC Has an Evil Twin — and AI Built It</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-19 19:00</span>
             </div>
         </div>
 <div class="story">
@@ -212,15 +214,6 @@
                 <span class="time">2025-09-19 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/zorin-os-18.jpg?resize=406%2C232&amp;ssl=1" alt="Zorin OS 18 Beta Brings a ‘Redesigned’ Desktop" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/zorin-os-18-beta-released-new-look" target="_blank">Zorin OS 18 Beta Brings a ‘Redesigned’ Desktop</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-19 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +233,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/derfuhrersface.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Disney cancels Kimmel segment after threats, recalling Walt&#x27;s 1938 meeting with Nazi filmmaker" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/19/disney-cancels-kimmel-segment-after-threats-recalling-walts-1938-meeting-with-nazi-filmmaker.html" target="_blank">Disney cancels Kimmel segment after threats, recalling Walt&#x27;s 1938 meeting with Nazi filmmaker</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-19 20:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Him-Movie-Interview.jpg" alt="No, That Wasn’t an X-Men Reference in ‘Him’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,20 +287,20 @@
                 <span class="time">2025-09-19 17:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JYHYVVF3E2SN8A9K7M43R2V1/hero-image.png" alt="The Best Amazon Prime Benefits You Probably Don&#x27;t Know About" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/best-amazon-prime-benefits?utm_medium=RSS" target="_blank">The Best Amazon Prime Benefits You Probably Don&#x27;t Know About</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-19 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/09/19/v-ger" target="_blank">V&#x27;ger</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-09-19 19:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1758139904-20250919.png" alt="Saturday Morning Breakfast Cereal - Sheep" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -331,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
