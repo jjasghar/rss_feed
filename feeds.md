@@ -1,28 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-19 03:13:57 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-09-19 04:01:43 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: WIRED -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 1 new posts out of 20 feeds processed -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, September 19, 2025 - 03:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, September 19, 2025 - 04:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/19/pentagon-official-denies-report-of-charlie-kirk-military-recruitment-drive?traffic_source=rss" target="_blank">Pentagon official denies report of Charlie Kirk military recruitment drive</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-19 03:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-17-gty-gmh-250916_1758054560870_hpMain_4x3t_384.jpg" alt="Trump poised to fire US attorney for resisting effort to charge NY AG: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/trump-poised-fire-us-attorney-resisting-effort-charge/story?id=125700904" target="_blank">Trump poised to fire US attorney for resisting effort to charge NY AG: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-19 03:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758236804968_nn_lkr_jimmy_kimmel_pulled_offair_250918_1920x1080-f7iejg.jpg" alt="Hollywood rallies behind Kimmel, while Trump and supporters cheer suspension" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -72,24 +97,6 @@
                 <span class="title"><a href="https://news.sky.com/story/police-fire-tear-gas-at-protesters-during-day-of-strikes-in-france-13433724" target="_blank">Police fire tear gas at protesters during day of strikes in France</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-09-18 21:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/kirk-memorial-gty-jef-250918_1758222554168_hpMain_4x3t_384.jpg" alt="Charlie Kirk&#x27;s funeral designated SEAR 1 event by Dept. of Homeland Security" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/dept-homeland-security-enhances-security-charlie-kirks-funeral/story?id=125712750" target="_blank">Charlie Kirk&#x27;s funeral designated SEAR 1 event by Dept. of Homeland Security</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-18 20:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/18/ukraine-says-russia-returns-1000-bodies-in-latest-exchange?traffic_source=rss" target="_blank">Ukraine says Russia returns 1,000 bodies in latest exchange</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-18 20:42</span>
             </div>
         </div>
 </div>
@@ -159,6 +166,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://gemini.google/overview/gemini-in-chrome/" target="_blank">Gemini in Chrome</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-19 02:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/aimodels-fyi/a-beginners-guide-to-the-roop-model-by-okaris-on-replicate-12d5" target="_blank">A beginner&#x27;s guide to the Roop model by Okaris on Replicate</a></span>
                 <span class="feed">DEV Community</span>
@@ -197,15 +213,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/google-chrome-ai-browser-announcement" target="_blank">Google Chrome is Becoming an AI Browser — Starting Today</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-18 23:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/08/ozone-chrome.jpg?resize=406%2C232&amp;ssl=1" alt="Google Chrome is Now an AI Browser" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/google-chrome-ai-browser-announcement" target="_blank">Google Chrome is Now an AI Browser</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-09-18 23:01</span>
             </div>
@@ -306,22 +313,13 @@
                 <span class="time">2025-09-18 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/09/18/the-price-is-wrong" target="_blank">The Price Is Wrong</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-09-18 03:22</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 03:14 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 125 | 📡 Total Sources: 41 | 📸 With Images: 275 |
+        🔄 Last Updated: 04:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
