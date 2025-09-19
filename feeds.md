@@ -1,32 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-09-19 21:01:55 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-19 22:01:31 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 23 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, September 19, 2025 - 21:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, September 19, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30a1/live/a6bd5c70-959c-11f0-bbd3-97206a9cd9e0.jpg" alt="Estonia seeks Nato consultation after Russian jets violate airspace" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czrp6p5mj3zo?at_medium=RSS&at_campaign=rss" target="_blank">Estonia seeks Nato consultation after Russian jets violate airspace</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-19 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/19/us-govt-asks-supreme-court-to-end-protections-for-venezuelan-migrants?traffic_source=rss" target="_blank">US gov’t asks Supreme Court to end protections for Venezuelan migrants</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-19 21:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +105,29 @@
                 <span class="time">2025-09-19 19:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/schumer-gty-jt-250918_1758223710185_hpMain_2_4x3t_384.jpg" alt="Senate fails to advance bills to fund government as shutdown looms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/house-speaker-johnson-optimistic-vote-avert-shutdown-democrats/story?id=125707478" target="_blank">Senate fails to advance bills to fund government as shutdown looms</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-19 18:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/19/nx-s1-5546839/jimmy-kimmel-trump-jimmy-fallon-seth-meyers-colbert" target="_blank">&#x27;We are all Jimmy Kimmel&#x27;: What late night hosts are saying about Kimmel&#x27;s suspension</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-19 18:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/streaming/782191/ex-disney-ceo-michael-eisner-calls-the-fccs-threats-out-of-control-intimidation" target="_blank">Ex-Disney CEO Michael Eisner calls the FCC’s threats “out-of-control intimidation”</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-19 22:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68ca927739bdb01e906d623c/master/pass/GettyImages-2233024834.jpg" alt="RFK Jr.’s Vaccine Panel Votes Down Its Own Proposal to Require Prescriptions for Covid-19 Shots" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/rfk-jrs-vaccine-panel-votes-down-its-own-proposal-to-require-prescriptions-for-covid-19-shots/" target="_blank">RFK Jr.’s Vaccine Panel Votes Down Its Own Proposal to Require Prescriptions for Covid-19 Shots</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-19 21:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/protector-500x500-1758312254.jpg" alt="Oklahoma’s big “TV nudes” scandal was… a Jackie Chan movie on a Samsung streaming service" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,24 +162,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/781945/ugreen-finetrack-slim-smart-g-bluetooth-tracker-battery-life" target="_blank">Ugreen’s new super slim wallet tracker has 5 years of battery life</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-19 17:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68ccac118d273e101d2e0944/master/pass/Our%20Favorite%20Smartwatches%20Do%20Much%20More%20Than%20Just%20Tell%20Time.png" alt="10 Best Smartwatches (2025): Apple, Wear OS, Hybrid &amp; Kids’ Watches" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-smartwatches/" target="_blank">10 Best Smartwatches (2025): Apple, Wear OS, Hybrid &amp; Kids’ Watches</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-19 17:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/raskinfeature10-500x500.jpg" alt="Your very own humane interface: Try Jef Raskin’s ideas at home" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/your-very-own-humane-interface-try-jef-raskins-ideas-at-home/" target="_blank">Your very own humane interface: Try Jef Raskin’s ideas at home</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-19 16:58</span>
             </div>
         </div>
 </div>
@@ -223,6 +232,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/friday-squid-blogging-giant-squid-vs-blue-whale.html" target="_blank">Friday Squid Blogging: Giant Squid vs. Blue Whale</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-09-19 21:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/surveying-the-global-spyware-market.html" target="_blank">Surveying the Global Spyware Market</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2025-09-19 11:01</span>
@@ -233,6 +251,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Gladys.jpg" alt="‘Weapons’ Director Zach Cregger on Aunt Gladys’ Style Inspirations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/gladys-weapons-inspiration-twin-peaks-2000661591" target="_blank">‘Weapons’ Director Zach Cregger on Aunt Gladys’ Style Inspirations</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-19 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/derfuhrersface.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Disney cancels Kimmel segment after threats, recalling Walt&#x27;s 1938 meeting with Nazi filmmaker" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,15 +303,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/19/pepper-spray-or-gel.html" target="_blank">Pepper spray or gel?</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-19 18:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/04/TRUMPAMID.jpg?fit=1080%2C803&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s net approval rating plummets 13 points. Did something happen?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/19/trumps-net-approval-rating-plummets-13-points-did-something-happen.html" target="_blank">Trump&#x27;s net approval rating plummets 13 points. Did something happen?</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-19 17:53</span>
             </div>
         </div>
 </div>
@@ -333,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
