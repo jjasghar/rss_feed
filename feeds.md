@@ -1,41 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-20 14:01:32 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-09-20 15:01:39 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 6 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Saturday, September 20, 2025 - 14:01 UTC</div>
+    <div class="newspaper-date">Saturday, September 20, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -58,6 +54,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/9/20/live-manchester-united-vs-chelsea-premier-league?traffic_source=rss" target="_blank">LIVE: Manchester United vs Chelsea – Premier League</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-20 13:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/20/nx-s1-5547852/trump-military-strike-drug-smuggling-boat" target="_blank">Trump says U.S. military fatally struck another alleged drug-smuggling boat</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-20 13:11</span>
             </div>
         </div>
 <div class="story">
@@ -96,20 +101,20 @@
                 <span class="time">2025-09-20 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250911-charlie-kirk-investigation-mn-1241-a18d95.jpg" alt="Kirk assassin’s alleged gun was powerful, vintage and hard to trace" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/news/us-news/kirk-assassins-alleged-gun-was-powerful-vintage-hard-trace-rcna231334" target="_blank">Kirk assassin’s alleged gun was powerful, vintage and hard to trace</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-20 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/782245/iphone-air-jerryrigeverything-durability-test" target="_blank">The wafer-thin iPhone Air is surprisingly strong</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-20 14:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +160,29 @@
                 <span class="time">2025-09-20 10:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/reviews/781970/earbuds-that-block-snoring-soundcore-a30" target="_blank">Anker’s latest sleep buds can silence snoring</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-20 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/09/cloudflare-node-http-workers/en/headerimage/header%281%29-1758033144426.jpg" alt="Cloudflare Adds Node.js HTTP Servers to Cloudflare Workers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/cloudflare-node-http-workers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Adds Node.js HTTP Servers to Cloudflare Workers</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-20 14:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.openmymind.net/Is-Zigs-New-Io-Unsafe/" target="_blank">Is Zig&#x27;s New Writer Unsafe?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-20 14:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/03/vlc.jpg?resize=406%2C232&amp;ssl=1" alt="VLC’s First Update This Year Adds Qt6 Support, Dark Style + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -205,24 +219,6 @@
                 <span class="time">2025-09-20 11:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Phoronix-Fall-Promotion-2025" target="_blank">Ad-Free Viewing By Showing Your Support During The Phoronix Oktoberfest / Autumn Sale</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-20 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5cr5ipoljprbxsx9phb6.png" alt="ByteByteGo vs DesignGurus.io? Which is better for System Design Interview Preparation?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/somadevtoo/bytebytego-vs-designgurusio-which-is-better-for-system-design-interview-preparation-2e1o" target="_blank">ByteByteGo vs DesignGurus.io? Which is better for System Design Interview Preparation?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-20 10:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/trump-droopy-face-stroke-like.jpg" alt="TrumpRx: White House Considering Trump-Branded Prescription Drug Website" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/white-house-trump-prescription-drug-website-2000661678" target="_blank">TrumpRx: White House Considering Trump-Branded Prescription Drug Website</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-20 14:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/anker-soundcore-2.jpg" alt="Say No to $100 Speakers, This Anker Alternative Is Nearly Free on Amazon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/say-no-to-100-speakers-this-anker-alternative-is-nearly-free-on-amazon-2000627456" target="_blank">Say No to $100 Speakers, This Anker Alternative Is Nearly Free on Amazon</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-20 14:16</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/hack-antivirus.jpg" alt="If You’re Afraid of Getting Hacked, This Avast Tool Does More Than Stop Viruses" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +292,6 @@
                 <span class="time">2025-09-19 23:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/sucker-punch.jpg" alt="Sucker Punch Studio Head Comments On Firing Dev Who Joked About Charlie Kirk’s Death" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/sucker-punch-charlie-kirk-ghost-yotei-sony-2000627290" target="_blank">Sucker Punch Studio Head Comments On Firing Dev Who Joked About Charlie Kirk’s Death</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-19 22:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Gladys.jpg" alt="‘Weapons’ Director Zach Cregger on Aunt Gladys’ Style Inspirations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/gladys-weapons-inspiration-twin-peaks-2000661591" target="_blank">‘Weapons’ Director Zach Cregger on Aunt Gladys’ Style Inspirations</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-19 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 106 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
