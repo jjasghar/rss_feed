@@ -1,30 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-20 19:01:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-20 20:01:43 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Generated 7 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, September 20, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, September 20, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/20/police-fire-tear-gas-at-anti-immigration-protesters-in-the-hague?traffic_source=rss" target="_blank">Police fire tear gas at anti-immigration protesters in The Hague</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-20 19:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/state-farm-satdium-gty-jt-250920_1758393826740_hpMain_4x3t_384.jpg" alt="Armed man arrested at stadium ahead of Charlie Kirk memorial: Officials" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/armed-man-arrested-stadium-ahead-charlie-kirk-memorial/story?id=125770798" target="_blank">Armed man arrested at stadium ahead of Charlie Kirk memorial: Officials</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-20 19:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,29 +102,20 @@
                 <span class="time">2025-09-20 15:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/20/india-pakistan-keen-avoid-controversy-ahead-of-crucial-asia-cup-match?traffic_source=rss" target="_blank">India, Pakistan keen to avoid controversy ahead of crucial Asia Cup match</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-20 15:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/9/20/live-manchester-united-vs-chelsea-premier-league?traffic_source=rss" target="_blank">LIVE: Manchester United vs Chelsea – Premier League</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-20 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/20/trump-hits-h-1b-visas-with-100000-fee-targeting-the-program-that-launched-elon-musk-and-instagram/" target="_blank">Trump hits H-1B visas with $100,000 fee, targeting the program that launched Elon Musk and Instagram</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-20 19:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,20 +161,29 @@
                 <span class="time">2025-09-20 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/782029/google-doj-ad-tech-remedies-trial-break-up" target="_blank">The US government is taking a second stab at breaking up Google</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-20 13:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Git-Weighs-Mandatory-Rust" target="_blank">Git Developers Debate Making Rust Mandatory</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-20 18:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://jasonspielman.com/notebooklm" target="_blank">Designing NotebookLM</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-20 17:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fihi7kw5wgwovqmmkpvc6.png" alt="AlloyDB Omni: PostgreSQL Optimized for Hybrid and Multicloud Environments" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -194,24 +220,6 @@
                 <span class="time">2025-09-20 14:08</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/03/vlc.jpg?resize=406%2C232&amp;ssl=1" alt="VLC’s First Update This Year Adds Qt6 Support, Dark Style + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/vlc-player-update-2025" target="_blank">VLC’s First Update This Year Adds Qt6 Support, Dark Style + More</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-20 13:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnhg1nuxajl6joy3lsyt7.png" alt="Fixing My Gratuity Calculator: Adding Social Media Sharing Inside the Tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/ahsan_aman_fc0573aefd4526/fixing-my-gratuity-calculator-adding-social-media-sharing-inside-the-tool-5f67" target="_blank">Fixing My Gratuity Calculator: Adding Social Media Sharing Inside the Tool</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-20 11:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -238,6 +246,15 @@
                 <span class="title"><a href="https://gizmodo.com/an-ai-stan-lee-hologram-is-coming-to-la-comic-con-really-2000661671" target="_blank">An AI Stan Lee Hologram Is Coming to LA Comic Con (Really)</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-20 18:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Imagiyo-AI-Image-Generator.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Get lifetime access to an AI art generator for just $49" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/20/get-lifetime-access-to-an-ai-art-generator-for-just-49.html" target="_blank">Get lifetime access to an AI art generator for just $49</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-20 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -276,15 +293,6 @@
                 <span class="time">2025-09-20 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/xbox-controller.jpg" alt="Xbox Turns Up the Fun With Friends, and It’s Crashing the Price of Its Wireless Controller" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-turns-up-the-fun-with-friends-and-its-crashing-the-price-of-its-wireless-controller-2000627438" target="_blank">Xbox Turns Up the Fun With Friends, and It’s Crashing the Price of Its Wireless Controller</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-20 11:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -299,22 +307,13 @@
                 <span class="time">2025-09-20 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/09/19/v-ger" target="_blank">V&#x27;ger</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-09-19 19:38</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
