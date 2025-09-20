@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-20 03:09:41 UTC -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-09-20 04:01:48 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 3 new posts out of 22 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, September 20, 2025 - 03:09 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, September 20, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7251/live/fd9879c0-9561-11f0-84c8-99de564f0440.jpg" alt="British couple freed by Taliban hug daughter as family express &#x27;immense relief&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0q7l8ewj0wo?at_medium=RSS&at_campaign=rss" target="_blank">British couple freed by Taliban hug daughter as family express &#x27;immense relief&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-20 03:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -61,37 +75,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/19/nx-s1-5545531/ryan-routh-trial-header-tktkt" target="_blank">Prosecutors rest their case in trial of man accused in attempted Trump assassination</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-19 22:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250919-bob-iger-jimmy-kimmel-ew-957a-29e445.jpg" alt="Pressure mounts on Disney over Kimmel suspension as some boycott calls spread" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/business/business-news/pressure-mounts-disney-kimmel-suspension-boycott-calls-spread-rcna232396" target="_blank">Pressure mounts on Disney over Kimmel suspension as some boycott calls spread</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-19 22:31</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/19/palestinians-flee-as-israel-strikes-with-unprecedented-force-in-gaza-city?traffic_source=rss" target="_blank">Palestinians flee as Israel strikes Gaza City with ‘unprecedented force’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-19 22:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30a1/live/a6bd5c70-959c-11f0-bbd3-97206a9cd9e0.jpg" alt="Estonia seeks Nato consultation after Russian jets violate airspace" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czrp6p5mj3zo?at_medium=RSS&at_campaign=rss" target="_blank">Estonia seeks Nato consultation after Russian jets violate airspace</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-19 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/19/us-govt-asks-supreme-court-to-end-protections-for-venezuelan-migrants?traffic_source=rss" target="_blank">US gov’t asks Supreme Court to end protections for Venezuelan migrants</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-19 21:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/19/nx-s1-5544339/climate-change-lawsuits-fossil-fuels" target="_blank">Ted Cruz claims without evidence that China is funding U.S. climate lawsuits</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-19 20:57</span>
             </div>
         </div>
 </div>
@@ -162,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/matheussesso/criando-uma-api-restful-com-codeigniter-4-56b" target="_blank">Criando uma API RESTful com CodeIgniter 4</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-20 03:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/_768dd7ab130016ab8b0a/when-your-ceo-says-lets-use-ai-a-technology-selection-survival-guide-4m6h" target="_blank">When Your CEO Says &#x27;Let&#x27;s Use AI&#x27;: A Technology Selection Survival Guide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-20 03:00</span>
@@ -201,15 +215,6 @@
                 <span class="title"><a href="https://obsidian.md/blog/less-is-safer/" target="_blank">Less is safer: how Obsidian reduces the risk of supply chain attacks</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-09-19 22:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yaseer_arafat/-57n0" target="_blank">💣 𝗠𝗮𝗻𝗮𝗴𝗶𝗻𝗴 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗗𝗲𝗯𝘁 𝗪𝗶𝘁𝗵𝗼𝘂𝘁 𝗟𝗼𝘀𝗶𝗻𝗴 𝗬𝗼𝘂𝗿 𝗠𝗶𝗻𝗱</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-19 19:51</span>
             </div>
         </div>
 </div>
@@ -326,22 +331,13 @@
                 <span class="time">2025-09-19 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/phase_changes.png" alt="Phase Changes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3144/" target="_blank">Phase Changes</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-09-19 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 03:09 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
