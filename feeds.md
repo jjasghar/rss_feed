@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-20 06:02:18 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-20 07:01:42 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, September 20, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Saturday, September 20, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/9/20/live-israel-ramps-up-gaza-city-assault-kills-children-in-strike-on-tents?traffic_source=rss" target="_blank">LIVE: Israel ramps up Gaza City assault, kills children in strike on school</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-20 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +95,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/us-attorney-plans-resign-amid-pressure-trump-after/story?id=125750006" target="_blank">US attorney resigns amid pressure from Trump over NY AG probe: Sources</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-20 00:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/19/nx-s1-5545531/ryan-routh-trial-header-tktkt" target="_blank">Prosecutors rest their case in trial of man accused in attempted Trump assassination</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-19 22:47</span>
             </div>
         </div>
 </div>
@@ -165,6 +165,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/a11ynews/understanding-deaf-blindness-3eep" target="_blank">Understanding Deaf-Blindness</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-20 06:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jps27cse/full-guide-integrating-mongodb-with-spring-boot-crud-lombok-transactions-atlas-4c46" target="_blank">Full Guide: Integrating MongoDB with Spring Boot (CRUD, Lombok, Transactions, Atlas)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-20 05:52</span>
@@ -204,15 +213,6 @@
                 <span class="title"><a href="https://www.youtube.com/watch?v=3bZSCb644_M" target="_blank">The History of a Science Hidden in Astronomy Code</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
                 <span class="time">2025-09-20 01:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/williammdsilva/assinatura-digital-em-elixir-com-criptografia-assimetrica-1m6k" target="_blank">Assinatura Digital em Elixir com Criptografia Assimétrica</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-19 23:44</span>
             </div>
         </div>
 </div>
@@ -320,22 +320,13 @@
                 <span class="time">2025-09-19 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/09/19/v-ger" target="_blank">V&#x27;ger</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-09-19 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 41 | 📸 With Images: 276 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
