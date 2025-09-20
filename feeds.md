@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-20 05:01:58 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-20 06:02:18 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Error processing https://krebsonsecurity.com/feed/: The read operation timed out -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, September 20, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, September 20, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -55,6 +50,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/features/2025/9/20/we-lost-everything-twice-afghan-returnees-struggle-after-earthquake?traffic_source=rss" target="_blank">‘We lost everything twice’: Afghan returnees struggle after earthquake</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-20 04:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7251/live/fd9879c0-9561-11f0-84c8-99de564f0440.jpg" alt="British couple reunited with daughter after months held by Taliban" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0q7l8ewj0wo?at_medium=RSS&at_campaign=rss" target="_blank">British couple reunited with daughter after months held by Taliban</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-20 03:28</span>
             </div>
         </div>
 <div class="story">
@@ -93,20 +97,20 @@
                 <span class="time">2025-09-19 22:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250919-bob-iger-jimmy-kimmel-ew-957a-29e445.jpg" alt="Pressure mounts on Disney over Kimmel suspension as some boycott calls spread" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/business/business-news/pressure-mounts-disney-kimmel-suspension-boycott-calls-spread-rcna232396" target="_blank">Pressure mounts on Disney over Kimmel suspension as some boycott calls spread</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-19 22:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/19/google-isnt-kidding-around-about-cost-cutting-even-slashing-its-ft-subscription/" target="_blank">Google isn’t kidding around about cost cutting, even slashing its FT subscription</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-20 05:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +156,20 @@
                 <span class="time">2025-09-19 22:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/782194/windows-11-share-with-copilot-button" target="_blank">Windows 11 is adding another Copilot button nobody asked for</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-19 22:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jps27cse/full-guide-integrating-mongodb-with-spring-boot-crud-lombok-transactions-atlas-4c46" target="_blank">Full Guide: Integrating MongoDB with Spring Boot (CRUD, Lombok, Transactions, Atlas)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-20 05:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/williammdsilva/assinatura-digital-em-elixir-com-criptografia-assimetrica-1m6k" target="_blank">Assinatura Digital em Elixir com Criptografia Assimétrica</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-19 23:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://obsidian.md/blog/less-is-safer/" target="_blank">Less is safer: how Obsidian reduces the risk of supply chain attacks</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-19 22:02</span>
             </div>
         </div>
 </div>
@@ -339,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 120 | 📡 Total Sources: 41 | 📸 With Images: 276 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
