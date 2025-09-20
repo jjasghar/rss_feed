@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-20 12:02:24 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-20 13:05:37 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 2 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Saturday, September 20, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, September 20, 2025 - 13:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -74,6 +70,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250911-charlie-kirk-investigation-mn-1241-a18d95.jpg" alt="Charlie Kirk assassin&#x27;s alleged gun was powerful, vintage and hard to trace" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/kirk-assassins-alleged-gun-was-powerful-vintage-hard-trace-rcna231334" target="_blank">Charlie Kirk assassin&#x27;s alleged gun was powerful, vintage and hard to trace</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-20 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250911-charlie-kirk-investigation-mn-1241-a18d95.jpg" alt="Kirk assassin’s alleged gun was powerful, vintage and hard to trace" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
@@ -89,15 +94,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cly6ve2dg66o?at_medium=RSS&at_campaign=rss" target="_blank">Son of British couple held by Taliban &#x27;ecstatic&#x27; as they return to UK</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-20 06:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/03/1920x1080/skynews-heathrow-tarmac-airplanes_6862901.jpg?20250321081313" alt="Heathrow warns of delays as cyber attack disrupts European airports" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/heathrow-warns-of-delays-as-cyber-attack-disrupts-european-airports-13434407" target="_blank">Heathrow warns of delays as cyber attack disrupts European airports</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-20 05:28</span>
             </div>
         </div>
 </div>
@@ -238,6 +234,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/shutterstock_2314812733.jpg" alt="Looking to Buy an Electric Vehicle? You Should Do It Before October" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/looking-to-buy-an-electric-vehicle-you-should-do-it-before-october-2000660864" target="_blank">Looking to Buy an Electric Vehicle? You Should Do It Before October</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-20 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/xbox-controller.jpg" alt="Xbox Turns Up the Fun With Friends, and It’s Crashing the Price of Its Wireless Controller" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -282,15 +287,6 @@
                 <span class="time">2025-09-19 21:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Apple-MacBook-Air-13.3-2.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Apple MacBook Air with M1 chip now 73% off in rare refurbished deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/19/apple-macbook-air-with-m1-chip-now-73-off-in-rare-refurbished-deal.html" target="_blank">Apple MacBook Air with M1 chip now 73% off in rare refurbished deal</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-19 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -320,7 +316,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 27 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 12:02 UTC
+        🔄 Last Updated: 13:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
