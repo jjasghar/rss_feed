@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-19 23:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-20 00:04:20 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, September 19, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, September 20, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -103,6 +109,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/782218/trump-claims-the-us-is-about-to-get-a-tremendous-fee-for-taking-tiktok-out-of-china" target="_blank">Trump claims the US is about to get a tremendous fee for taking TikTok out of China</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-19 23:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/689e685bba007d0d81f82fea/master/pass/Netflix-Show-Guide-Culture-WEDNESDAY_202_Unit_04383RC2.jpg" alt="The 51 Best Shows on Netflix Right Now (September 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -147,20 +162,29 @@
                 <span class="time">2025-09-19 21:39</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/protector-500x500-1758312254.jpg" alt="Oklahoma’s big “TV nudes” scandal was… a Jackie Chan movie on a Samsung streaming service" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2025/09/oklahomas-big-tv-nudes-scandal-was-a-jackie-chan-movie-on-a-samsung-streaming-service/" target="_blank">Oklahoma’s big “TV nudes” scandal was… a Jackie Chan movie on a Samsung streaming service</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-19 20:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/williammdsilva/assinatura-digital-em-elixir-com-criptografia-assimetrica-1m6k" target="_blank">Assinatura Digital em Elixir com Criptografia Assimétrica</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-19 23:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://obsidian.md/blog/less-is-safer/" target="_blank">Less is safer: how Obsidian reduces the risk of supply chain attacks</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-19 22:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +221,6 @@
                 <span class="time">2025-09-19 18:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18630577&w=600" alt="Tiny Deltas, Big Wins: Schema-Less Thrift Patching at Planet Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/schema-less-thrift-patching" target="_blank">Tiny Deltas, Big Wins: Schema-Less Thrift Patching at Planet Scale</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-19 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/android-optimized-R8/en/headerimage/android-shrinking-1758304352229.jpeg" alt="Google Brings Optimized Resource Shrinking in Latest Android Gradle Plugin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/android-optimized-R8/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Brings Optimized Resource Shrinking in Latest Android Gradle Plugin</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-19 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,12 +250,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/sucker-punch.jpg" alt="Sucker Punch Studio Head Comments On Firing Dev Who Joked About Charlie Kirk’s Death" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/sucker-punch-charlie-kirk-ghost-yotei-sony-2000627290" target="_blank">Sucker Punch Studio Head Comments On Firing Dev Who Joked About Charlie Kirk’s Death</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-19 22:29</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Gladys.jpg" alt="‘Weapons’ Director Zach Cregger on Aunt Gladys’ Style Inspirations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/gladys-weapons-inspiration-twin-peaks-2000661591" target="_blank">‘Weapons’ Director Zach Cregger on Aunt Gladys’ Style Inspirations</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-19 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K5HWJ9BY153E422K8YHVT92S/hero-image.png" alt="Microsoft Is Raising Xbox Prices Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/entertainment/xbox-is-raising-the-prices-of-it-consoles-again?utm_medium=RSS" target="_blank">Microsoft Is Raising Xbox Prices Again</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-19 21:30</span>
             </div>
         </div>
 <div class="story">
@@ -277,24 +301,6 @@
                 <span class="title"><a href="https://kotaku.com/roborock-doesnt-want-you-fighting-housework-anymore-its-selling-its-latest-model-with-no-margin-2000627205" target="_blank">Roborock Doesn’t Want You Struggling With Housework, It’s Selling Its Latest Model With No Margin</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-09-19 19:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JRSK1DPQGGZQGAERGA9GFQNF/hero-image.png" alt="You Can Get Microsoft Office Pro Plus 2019 on Sale for Just $30 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/office-professional-plus-stacksocial-sale?utm_medium=RSS" target="_blank">You Can Get Microsoft Office Pro Plus 2019 on Sale for Just $30 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-19 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/81AfqpToiEL._AC_SL1500_.jpg?fit=1500%2C1151&amp;quality=60&amp;ssl=1" alt="Pepper spray or gel?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/19/pepper-spray-or-gel.html" target="_blank">Pepper spray or gel?</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-19 18:26</span>
             </div>
         </div>
 </div>
@@ -343,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
