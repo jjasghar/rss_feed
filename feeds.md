@@ -1,35 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-20 17:01:32 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-20 18:01:39 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, September 20, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Saturday, September 20, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/20/g-s1-89749/democrats-trump-meeting-government-shutdown" target="_blank">Top Democrats ask for a meeting with Trump ahead of government shutdown</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-20 17:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/mangione-courthouse_1758372447420_hpMain_4x3t_384.jpg" alt="Luigi Mangione&#x27;s lawyers say possible death penalty &#x27;based on politics, not merit&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/luigi-mangiones-lawyers-death-penalty-based-politics-merit/story?id=125762128" target="_blank">Luigi Mangione&#x27;s lawyers say possible death penalty &#x27;based on politics, not merit&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-20 17:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-palestine-west-bank_7025862.jpg?20250920170605" alt="Palestinian minister says UK recognition of state would be &#x27;courageous step&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/better-late-than-never-palestinian-minister-says-uk-recognition-of-state-would-be-courageous-step-13434423" target="_blank">Palestinian minister says UK recognition of state would be &#x27;courageous step&#x27;</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-20 15:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a28a/live/11237600-961d-11f0-b5f9-bf23d14527d7.png" alt="Ukraine says three killed in &#x27;massive&#x27; Russian aerial attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,33 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/9/20/live-manchester-united-vs-chelsea-premier-league?traffic_source=rss" target="_blank">LIVE: Manchester United vs Chelsea – Premier League</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-20 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/20/nx-s1-5547852/trump-military-strike-drug-smuggling-boat" target="_blank">Trump says U.S. military fatally struck another alleged drug-smuggling boat</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-20 13:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/20/g-s1-89568/china-us-lawyers-vs-engineers-dan-wang-book" target="_blank">Lawyers vs. engineers: Dan Wang sees U.S.-China dynamics in a new paradigm</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-20 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d98/live/11cab050-960e-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Cyber-attack causes delays at Heathrow and other European airports" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3drpgv33pxo?at_medium=RSS&at_campaign=rss" target="_blank">Cyber-attack causes delays at Heathrow and other European airports</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-20 10:50</span>
             </div>
         </div>
 </div>
@@ -191,6 +194,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://gwern.net/doc/science/2019-savage.pdf" target="_blank">Novelist Cormac McCarthy&#x27;s tips on how to write a great science paper [pdf]</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-20 14:08</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/03/vlc.jpg?resize=406%2C232&amp;ssl=1" alt="VLC’s First Update This Year Adds Qt6 Support, Dark Style + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -206,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/ahsan_aman_fc0573aefd4526/fixing-my-gratuity-calculator-adding-social-media-sharing-inside-the-tool-5f67" target="_blank">Fixing My Gratuity Calculator: Adding Social Media Sharing Inside the Tool</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-20 11:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://dgl.cx/2025/09/images-over-dns" target="_blank">Images over DNS</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-20 11:50</span>
             </div>
         </div>
 </div>
@@ -318,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 103 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
