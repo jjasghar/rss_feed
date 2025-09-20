@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-20 11:01:25 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-20 12:02:24 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: NPR News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, September 20, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Saturday, September 20, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +47,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/20/g-s1-89568/china-us-lawyers-vs-engineers-dan-wang-book" target="_blank">Lawyers vs. engineers: Dan Wang sees U.S.-China dynamics in a new paradigm</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-20 11:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d98/live/11cab050-960e-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Cyber-attack causes delays at Heathrow and other European airports" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/c3drpgv33pxo?at_medium=RSS&at_campaign=rss" target="_blank">Cyber-attack causes delays at Heathrow and other European airports</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-20 10:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-sudan-rsf-sudan-army_7026005.png?20250920113206" alt="At least 70 killed in Sudan after paramilitary attack on mosque" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/at-least-70-killed-in-sudan-after-paramilitary-attack-on-mosque-13434497" target="_blank">At least 70 killed in Sudan after paramilitary attack on mosque</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-20 09:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250911-charlie-kirk-investigation-mn-1241-a18d95.jpg" alt="Kirk assassin’s alleged gun was powerful, vintage and hard to trace" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/news/us-news/kirk-assassins-alleged-gun-was-powerful-vintage-hard-trace-rcna231334" target="_blank">Kirk assassin’s alleged gun was powerful, vintage and hard to trace</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-20 09:00</span>
             </div>
         </div>
 <div class="story">
@@ -70,38 +100,29 @@
                 <span class="time">2025-09-20 05:28</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/9/20/live-israel-ramps-up-gaza-city-assault-kills-children-in-strike-on-tents?traffic_source=rss" target="_blank">LIVE: Israel ramps up Gaza City assault, kills children in strike on school</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-20 05:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2025/9/20/we-lost-everything-twice-afghan-returnees-struggle-after-earthquake?traffic_source=rss" target="_blank">‘We lost everything twice’: Afghan returnees struggle after earthquake</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-20 04:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7251/live/fd9879c0-9561-11f0-84c8-99de564f0440.jpg" alt="British couple reunited with daughter after months held by Taliban" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0q7l8ewj0wo?at_medium=RSS&at_campaign=rss" target="_blank">British couple reunited with daughter after months held by Taliban</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-20 03:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/transportation/781869/ice-raid-georgia-hyundai-lg-ev-foreign-chilling" target="_blank">An ICE raid at an EV factory begs the question: how ‘stable’ is the US?</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-20 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-microsoft-padlock-500x500.jpg" alt="Microsoft’s Entra ID vulnerabilities could have been catastrophic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/09/microsofts-entra-id-vulnerabilities-could-have-been-catastrophic/" target="_blank">Microsoft’s Entra ID vulnerabilities could have been catastrophic</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-20 11:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68cddca0d2de985e53a79870/master/pass/Security-News-Roundup-Dangerous-Worm-Is-Eating-Its-Way-Through-Software-Packages-SecurityMCDDUNE_WB090.jpg" alt="Security News This Week: A Dangerous Worm Is Eating Its Way Through Software Packages" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +159,38 @@
                 <span class="time">2025-09-20 01:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/Gz3W8YUXcAAvZcM-500x500.jpg" alt="Starship will soon fly over towns and cities, but will dodge the biggest ones" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/09/starship-will-soon-fly-over-towns-and-cities-but-will-dodge-the-biggest-ones/" target="_blank">Starship will soon fly over towns and cities, but will dodge the biggest ones</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-20 00:18</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/782218/trump-claims-the-us-is-about-to-get-a-tremendous-fee-for-taking-tiktok-out-of-china" target="_blank">Trump claims the US is about to get a tremendous fee for taking TikTok out of China</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-19 23:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnhg1nuxajl6joy3lsyt7.png" alt="Fixing My Gratuity Calculator: Adding Social Media Sharing Inside the Tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/ahsan_aman_fc0573aefd4526/fixing-my-gratuity-calculator-adding-social-media-sharing-inside-the-tool-5f67" target="_blank">Fixing My Gratuity Calculator: Adding Social Media Sharing Inside the Tool</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-20 11:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://furilabs.com/flx1s-is-launched/" target="_blank">FLX1s Is Launched</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-20 11:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Phoronix-Fall-Promotion-2025" target="_blank">Ad-Free Viewing By Showing Your Support During The Phoronix Oktoberfest / Autumn Sale</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-20 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5cr5ipoljprbxsx9phb6.png" alt="ByteByteGo vs DesignGurus.io? Which is better for System Design Interview Preparation?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -188,33 +218,6 @@
                 <span class="time">2025-09-20 09:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kazutora_hattori_66972c88/summary-of-the-error-cryptohash-is-not-a-function-encountered-during-vite-firebase-hosting-322m" target="_blank">Summary of the Error ‘crypto.hash is not a function’ Encountered During Vite + Firebase Hosting Deployment and Its Solution</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-20 07:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/a11ynews/understanding-deaf-blindness-3eep" target="_blank">Understanding Deaf-Blindness</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-20 06:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.corning.com/worldwide/en/products/life-sciences/resources/stories/in-the-field/pyrex-vs-pyrex-whats-the-difference.html" target="_blank">PYREX vs. Pyrex: What&#x27;s the Difference?</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-20 06:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/xbox-controller.jpg" alt="Xbox Turns Up the Fun With Friends, and It’s Crashing the Price of Its Wireless Controller" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-turns-up-the-fun-with-friends-and-its-crashing-the-price-of-its-wireless-controller-2000627438" target="_blank">Xbox Turns Up the Fun With Friends, and It’s Crashing the Price of Its Wireless Controller</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-20 11:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/NightoftheReapertop.jpg" alt="‘Night of the Reaper’ Is a Retro Babysitter Slasher With a Mystery Twist" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +291,6 @@
                 <span class="time">2025-09-19 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/derfuhrersface.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Disney cancels Kimmel segment after threats, recalling Walt&#x27;s 1938 meeting with Nazi filmmaker" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/19/disney-cancels-kimmel-segment-after-threats-recalling-walts-1938-meeting-with-nazi-filmmaker.html" target="_blank">Disney cancels Kimmel segment after threats, recalling Walt&#x27;s 1938 meeting with Nazi filmmaker</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-19 20:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -316,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
