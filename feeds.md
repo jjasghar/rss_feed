@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-20 10:01:34 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-20 11:01:25 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, September 20, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, September 20, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d98/live/11cab050-960e-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Cyber-attack causes delays at Heathrow and other European airports" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3drpgv33pxo?at_medium=RSS&at_campaign=rss" target="_blank">Cyber-attack causes delays at Heathrow and other European airports</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-20 10:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8658/live/2f0ef280-95ea-11f0-90f2-5f87cb020b24.jpg" alt="Son of British couple held by Taliban &#x27;ecstatic&#x27; as they return to UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +97,20 @@
                 <span class="time">2025-09-20 03:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7251/live/fd9879c0-9561-11f0-84c8-99de564f0440.jpg" alt="British couple freed by Taliban hug daughter as family express &#x27;immense relief&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0q7l8ewj0wo?at_medium=RSS&at_campaign=rss" target="_blank">British couple freed by Taliban hug daughter as family express &#x27;immense relief&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-20 03:28</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68cddca0d2de985e53a79870/master/pass/Security-News-Roundup-Dangerous-Worm-Is-Eating-Its-Way-Through-Software-Packages-SecurityMCDDUNE_WB090.jpg" alt="Security News This Week: A Dangerous Worm Is Eating Its Way Through Software Packages" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/a-dangerous-worm-is-eating-its-way-through-software-packages/" target="_blank">Security News This Week: A Dangerous Worm Is Eating Its Way Through Software Packages</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-20 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +156,29 @@
                 <span class="time">2025-09-19 23:13</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/689e685bba007d0d81f82fea/master/pass/Netflix-Show-Guide-Culture-WEDNESDAY_202_Unit_04383RC2.jpg" alt="The 51 Best Shows on Netflix Right Now (September 2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/netflix-best-shows-this-week/" target="_blank">The 51 Best Shows on Netflix Right Now (September 2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-19 22:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5cr5ipoljprbxsx9phb6.png" alt="ByteByteGo vs DesignGurus.io? Which is better for System Design Interview Preparation?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/somadevtoo/bytebytego-vs-designgurusio-which-is-better-for-system-design-interview-preparation-2e1o" target="_blank">ByteByteGo vs DesignGurus.io? Which is better for System Design Interview Preparation?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-20 10:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/09/microsoft-logic-apps-mcp-servers/en/headerimage/generatedHeaderImage-1758189743474.jpg" alt="Microsoft Introduces Logic Apps as MCP Servers in Public Preview" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/microsoft-logic-apps-mcp-servers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Introduces Logic Apps as MCP Servers in Public Preview</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-20 10:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -197,24 +215,6 @@
                 <span class="time">2025-09-20 06:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jps27cse/full-guide-integrating-mongodb-with-spring-boot-crud-lombok-transactions-atlas-4c46" target="_blank">Full Guide: Integrating MongoDB with Spring Boot (CRUD, Lombok, Transactions, Atlas)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-20 05:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/matheussesso/criando-uma-api-restful-com-codeigniter-4-56b" target="_blank">Criando uma API RESTful com CodeIgniter 4</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-20 03:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -227,15 +227,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/friday-squid-blogging-giant-squid-vs-blue-whale.html" target="_blank">Friday Squid Blogging: Giant Squid vs. Blue Whale</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2025-09-19 21:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/surveying-the-global-spyware-market.html" target="_blank">Surveying the Global Spyware Market</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-09-19 11:01</span>
             </div>
         </div>
 </div>
@@ -325,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 112 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
