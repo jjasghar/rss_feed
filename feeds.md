@@ -1,38 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-09-20 20:01:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-20 21:01:42 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, September 20, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, September 20, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -67,6 +58,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2e1/live/0e833490-965d-11f0-90f2-5f87cb020b24.jpg" alt="Day of delays at Heathrow after cyber-attack brings disruption" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3drpgv33pxo?at_medium=RSS&at_campaign=rss" target="_blank">Day of delays at Heathrow after cyber-attack brings disruption</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-20 19:07</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
@@ -91,15 +91,6 @@
                 <span class="title"><a href="https://news.sky.com/story/better-late-than-never-palestinian-minister-says-uk-recognition-of-state-would-be-courageous-step-13434423" target="_blank">Palestinian minister says UK recognition of state would be &#x27;courageous step&#x27;</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-09-20 15:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a28a/live/11237600-961d-11f0-b5f9-bf23d14527d7.png" alt="Ukraine says three killed in &#x27;massive&#x27; Russian aerial attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce3253gxqvwo?at_medium=RSS&at_campaign=rss" target="_blank">Ukraine says three killed in &#x27;massive&#x27; Russian aerial attack</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-20 15:30</span>
             </div>
         </div>
 </div>
@@ -240,6 +231,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/boy-iron-box.jpg" alt="Netflix and Guillermo del Toro Team on ‘Boy in the Iron Box’ Film" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/netflix-and-guillermo-del-toro-team-on-boy-in-the-iron-box-film-2000661844" target="_blank">Netflix and Guillermo del Toro Team on ‘Boy in the Iron Box’ Film</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-20 20:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/image-23.png?fit=544%2C680&amp;quality=55&amp;ssl=1" alt="Colin Kaepernick is paying for an independent autopsy of Demartravion &quot;Trey&quot; Reed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/20/colin-kaepernick-is-paying-for-an-independent-autopsy-of-demartravion-trey-reed.html" target="_blank">Colin Kaepernick is paying for an independent autopsy of Demartravion &quot;Trey&quot; Reed</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-20 19:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/stan-lee-hologram.jpg" alt="An AI Stan Lee Hologram Is Coming to LA Comic Con (Really)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -275,24 +284,6 @@
                 <span class="time">2025-09-20 14:16</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/hack-antivirus.jpg" alt="If You’re Afraid of Getting Hacked, This Avast Tool Does More Than Stop Viruses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/if-youre-afraid-of-getting-hacked-this-avast-tool-does-more-than-stop-viruses-2000627306" target="_blank">If You’re Afraid of Getting Hacked, This Avast Tool Does More Than Stop Viruses</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-20 13:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/shutterstock_2314812733.jpg" alt="Looking to Buy an Electric Vehicle? You Should Do It Before October" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/looking-to-buy-an-electric-vehicle-you-should-do-it-before-october-2000660864" target="_blank">Looking to Buy an Electric Vehicle? You Should Do It Before October</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-20 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,8 +303,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
