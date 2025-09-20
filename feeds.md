@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-20 01:28:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-20 02:24:24 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, September 20, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Saturday, September 20, 2025 - 02:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -107,6 +109,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/19/trump-hits-h-1b-visas-with-100000-fee-targeting-the-program-that-launched-elon-musk-and-instagram/" target="_blank">Trump hits H-1B visas with $100,000 fee, targeting the program that launched Elon Musk and Instagram</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-20 01:34</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/Gz3W8YUXcAAvZcM-500x500.jpg" alt="Starship will soon fly over towns and cities, but will dodge the biggest ones" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/09/starship-will-soon-fly-over-towns-and-cities-but-will-dodge-the-biggest-ones/" target="_blank">Starship will soon fly over towns and cities, but will dodge the biggest ones</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-20 00:18</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/782218/trump-claims-the-us-is-about-to-get-a-tremendous-fee-for-taking-tiktok-out-of-china" target="_blank">Trump claims the US is about to get a tremendous fee for taking TikTok out of China</a></span>
                 <span class="feed">The Verge</span>
@@ -140,29 +160,20 @@
                 <span class="time">2025-09-19 22:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/streaming/782191/ex-disney-ceo-michael-eisner-calls-the-fccs-threats-out-of-control-intimidation" target="_blank">Ex-Disney CEO Michael Eisner calls the FCC’s threats “out-of-control intimidation”</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-19 22:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68ca927739bdb01e906d623c/master/pass/GettyImages-2233024834.jpg" alt="RFK Jr.’s Vaccine Panel Votes Down Its Own Proposal to Require Prescriptions for Covid-19 Shots" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/rfk-jrs-vaccine-panel-votes-down-its-own-proposal-to-require-prescriptions-for-covid-19-shots/" target="_blank">RFK Jr.’s Vaccine Panel Votes Down Its Own Proposal to Require Prescriptions for Covid-19 Shots</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-19 21:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hsachdeva9/contributing-a-code-change-to-an-open-source-project-188l" target="_blank">Contributing a Code Change to an Open Source Project</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-20 02:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +219,6 @@
                 <span class="time">2025-09-19 18:50</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/gamespot-ghost-of-yotei-everything-to-know-55na" target="_blank">GameSpot: Ghost of Yotei Everything To Know</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-19 18:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -246,6 +248,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/NightoftheReapertop.jpg" alt="‘Night of the Reaper’ Is a Retro Babysitter Slasher With a Mystery Twist" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/night-of-the-reaper-is-a-retro-babysitter-slasher-with-a-mystery-twist-2000658477" target="_blank">‘Night of the Reaper’ Is a Retro Babysitter Slasher With a Mystery Twist</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-19 23:47</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/sucker-punch.jpg" alt="Sucker Punch Studio Head Comments On Firing Dev Who Joked About Charlie Kirk’s Death" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -273,30 +284,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Apple-MacBook-Air-13.3-2.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Apple MacBook Air with M1 chip now 73% off in rare refurbished deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/19/apple-macbook-air-with-m1-chip-now-73-off-in-rare-refurbished-deal.html" target="_blank">Apple MacBook Air with M1 chip now 73% off in rare refurbished deal</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-19 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/derfuhrersface.jpg?fit=1200%2C675&amp;quality=60&amp;ssl=1" alt="Disney cancels Kimmel segment after threats, recalling Walt&#x27;s 1938 meeting with Nazi filmmaker" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
                 <span class="title"><a href="https://boingboing.net/2025/09/19/disney-cancels-kimmel-segment-after-threats-recalling-walts-1938-meeting-with-nazi-filmmaker.html" target="_blank">Disney cancels Kimmel segment after threats, recalling Walt&#x27;s 1938 meeting with Nazi filmmaker</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-19 20:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Him-Movie-Interview.jpg" alt="No, That Wasn’t an X-Men Reference in ‘Him’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/him-director-interview-justin-tipping-football-xmen-2000660737" target="_blank">No, That Wasn’t an X-Men Reference in ‘Him’</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-19 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/roborock-s5v.jpg" alt="Roborock Doesn’t Want You Struggling With Housework, It’s Selling Its Latest Model With No Margin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/roborock-doesnt-want-you-fighting-housework-anymore-its-selling-its-latest-model-with-no-margin-2000627205" target="_blank">Roborock Doesn’t Want You Struggling With Housework, It’s Selling Its Latest Model With No Margin</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-19 19:35</span>
             </div>
         </div>
 </div>
@@ -345,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 278 |
+        🔄 Last Updated: 02:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
