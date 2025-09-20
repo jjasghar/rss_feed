@@ -1,35 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-20 08:02:16 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-20 09:01:51 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, September 20, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, September 20, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8658/live/2f0ef280-95ea-11f0-90f2-5f87cb020b24.jpg" alt="Son of British couple held by Taliban &#x27;ecstatic&#x27; as they return to UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cly6ve2dg66o?at_medium=RSS&at_campaign=rss" target="_blank">Son of British couple held by Taliban &#x27;ecstatic&#x27; as they return to UK</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-20 06:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/03/1920x1080/skynews-heathrow-tarmac-airplanes_6862901.jpg?20250321081313" alt="Heathrow warns of delays as cyber attack disrupts European airports" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/heathrow-warns-of-delays-as-cyber-attack-disrupts-european-airports-13434407" target="_blank">Heathrow warns of delays as cyber attack disrupts European airports</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-20 05:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +96,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c0q7l8ewj0wo?at_medium=RSS&at_campaign=rss" target="_blank">British couple freed by Taliban hug daughter as family express &#x27;immense relief&#x27;</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-20 03:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/20/russia-ukraine-war-list-of-key-events-day-1304?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,304</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-20 00:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/erik-siebert-01-ap-jef-250919_1758291665745_hpMain_4x3t_384.jpg" alt="US attorney resigns amid pressure from Trump over NY AG probe: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/us-attorney-plans-resign-amid-pressure-trump-after/story?id=125750006" target="_blank">US attorney resigns amid pressure from Trump over NY AG probe: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-20 00:09</span>
             </div>
         </div>
 </div>
@@ -184,6 +183,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.corning.com/worldwide/en/products/life-sciences/resources/stories/in-the-field/pyrex-vs-pyrex-whats-the-difference.html" target="_blank">PYREX vs. Pyrex: What&#x27;s the Difference?</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-20 06:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jps27cse/full-guide-integrating-mongodb-with-spring-boot-crud-lombok-transactions-atlas-4c46" target="_blank">Full Guide: Integrating MongoDB with Spring Boot (CRUD, Lombok, Transactions, Atlas)</a></span>
                 <span class="feed">DEV Community</span>
@@ -206,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/_768dd7ab130016ab8b0a/when-your-ceo-says-lets-use-ai-a-technology-selection-survival-guide-4m6h" target="_blank">When Your CEO Says &#x27;Let&#x27;s Use AI&#x27;: A Technology Selection Survival Guide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-20 03:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hsachdeva9/contributing-a-code-change-to-an-open-source-project-188l" target="_blank">Contributing a Code Change to an Open Source Project</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-20 02:05</span>
             </div>
         </div>
 </div>
@@ -327,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 113 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
