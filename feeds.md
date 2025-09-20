@@ -1,37 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-09-20 02:24:24 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-09-20 03:09:41 UTC -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 3 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Saturday, September 20, 2025 - 02:24 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, September 20, 2025 - 03:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -169,9 +162,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/_768dd7ab130016ab8b0a/when-your-ceo-says-lets-use-ai-a-technology-selection-survival-guide-4m6h" target="_blank">When Your CEO Says &#x27;Let&#x27;s Use AI&#x27;: A Technology Selection Survival Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-20 03:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hsachdeva9/contributing-a-code-change-to-an-open-source-project-188l" target="_blank">Contributing a Code Change to an Open Source Project</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-20 02:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://www.youtube.com/watch?v=3bZSCb644_M" target="_blank">The History of a Science Hidden in Astronomy Code</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-09-20 01:10</span>
             </div>
         </div>
 <div class="story">
@@ -199,24 +210,6 @@
                 <span class="title"><a href="https://dev.to/yaseer_arafat/-57n0" target="_blank">💣 𝗠𝗮𝗻𝗮𝗴𝗶𝗻𝗴 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗗𝗲𝗯𝘁 𝗪𝗶𝘁𝗵𝗼𝘂𝘁 𝗟𝗼𝘀𝗶𝗻𝗴 𝗬𝗼𝘂𝗿 𝗠𝗶𝗻𝗱</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-19 19:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18632294&w=600" alt="Your SDLC Has an Evil Twin — and AI Built It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/evil-twin-sdlc-ai" target="_blank">Your SDLC Has an Evil Twin — and AI Built It</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-19 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/oleksandrakordonets/the-repo-packager-my-osd600-cli-that-helps-me-learn-faster-213i" target="_blank">The Repo Packager: My OSD600 CLI That Helps Me Learn Faster</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-19 18:50</span>
             </div>
         </div>
 </div>
@@ -347,8 +340,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 120 | 📡 Total Sources: 42 | 📸 With Images: 278 |
-        🔄 Last Updated: 02:24 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 03:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
