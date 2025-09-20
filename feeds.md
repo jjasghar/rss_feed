@@ -1,32 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-09-20 13:05:37 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-20 14:01:32 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
+<!-- Processing: The Verge -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, September 20, 2025 - 13:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Saturday, September 20, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/9/20/live-manchester-united-vs-chelsea-premier-league?traffic_source=rss" target="_blank">LIVE: Manchester United vs Chelsea – Premier League</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-20 13:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +105,29 @@
                 <span class="time">2025-09-20 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8658/live/2f0ef280-95ea-11f0-90f2-5f87cb020b24.jpg" alt="Son of British couple held by Taliban &#x27;ecstatic&#x27; as they return to UK" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cly6ve2dg66o?at_medium=RSS&at_campaign=rss" target="_blank">Son of British couple held by Taliban &#x27;ecstatic&#x27; as they return to UK</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-20 06:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/20/only-7-days-left-to-save-on-techcrunch-disrupt-2025-tickets-lock-in-regular-bird-pricing-now/" target="_blank">Only 7 days left to save on TechCrunch Disrupt 2025 tickets — lock in Regular Bird pricing now</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-20 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/782029/google-doj-ad-tech-remedies-trial-break-up" target="_blank">The US government is taking a second stab at breaking up Google</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-20 13:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +164,20 @@
                 <span class="time">2025-09-20 07:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/19/google-isnt-kidding-around-about-cost-cutting-even-slashing-its-ft-subscription/" target="_blank">Google isn’t kidding around about cost cutting, even slashing its FT subscription</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-20 05:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/19/trump-hits-h-1b-visas-with-100000-fee-targeting-the-program-that-launched-elon-musk-and-instagram/" target="_blank">Trump hits H-1B visas with $100,000 fee, targeting the program that launched Elon Musk and Instagram</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-20 01:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/03/vlc.jpg?resize=406%2C232&amp;ssl=1" alt="VLC’s First Update This Year Adds Qt6 Support, Dark Style + More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/vlc-player-update-2025" target="_blank">VLC’s First Update This Year Adds Qt6 Support, Dark Style + More</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-20 13:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnhg1nuxajl6joy3lsyt7.png" alt="Fixing My Gratuity Calculator: Adding Social Media Sharing Inside the Tool" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -167,6 +185,15 @@
                 <span class="title"><a href="https://dev.to/ahsan_aman_fc0573aefd4526/fixing-my-gratuity-calculator-adding-social-media-sharing-inside-the-tool-5f67" target="_blank">Fixing My Gratuity Calculator: Adding Social Media Sharing Inside the Tool</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-20 11:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://dgl.cx/2025/09/images-over-dns" target="_blank">Images over DNS</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-20 11:50</span>
             </div>
         </div>
 <div class="story">
@@ -196,24 +223,6 @@
                 <span class="time">2025-09-20 10:46</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/microsoft-logic-apps-mcp-servers/en/headerimage/generatedHeaderImage-1758189743474.jpg" alt="Microsoft Introduces Logic Apps as MCP Servers in Public Preview" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/microsoft-logic-apps-mcp-servers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Introduces Logic Apps as MCP Servers in Public Preview</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-20 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dmsmenula/how-i-built-5-projects-in-30-days-as-a-teen-developer-and-you-can-too-254h" target="_blank">🚀 How I Built 5 Projects in 30 Days as a 12-Year-Old Developer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-20 09:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/hack-antivirus.jpg" alt="If You’re Afraid of Getting Hacked, This Avast Tool Does More Than Stop Viruses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/if-youre-afraid-of-getting-hacked-this-avast-tool-does-more-than-stop-viruses-2000627306" target="_blank">If You’re Afraid of Getting Hacked, This Avast Tool Does More Than Stop Viruses</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-20 13:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/shutterstock_2314812733.jpg" alt="Looking to Buy an Electric Vehicle? You Should Do It Before October" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +296,6 @@
                 <span class="time">2025-09-19 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K5HWJ9BY153E422K8YHVT92S/hero-image.png" alt="Microsoft Is Raising Xbox Prices Again" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/xbox-is-raising-the-prices-of-it-consoles-again?utm_medium=RSS" target="_blank">Microsoft Is Raising Xbox Prices Again</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-19 21:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 114 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 13:05 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
