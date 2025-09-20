@@ -1,29 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-09-20 21:01:42 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing 54 RSS feeds at 2025-09-20 22:01:54 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: WIRED -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 20 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, September 20, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, September 20, 2025 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/20/nx-s1-5548568/h1b-visa-fee-trump-tech" target="_blank">Trump&#x27;s new $100K fee on H-1B visas will hurt the tech companies trying to woo him</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-20 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-01/250121-tiktok-ch-1655-c40155.jpg" alt="TikTok&#x27;s algorithm and data will be controlled &#x27;by America,&#x27; White House says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/politics-news/white-house-tiktok-algorithm-data-deal-trump-china-rcna232627" target="_blank">TikTok&#x27;s algorithm and data will be controlled &#x27;by America,&#x27; White House says</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-20 19:43</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,24 +93,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/20/g-s1-89749/democrats-trump-meeting-government-shutdown" target="_blank">Top Democrats ask for a meeting with Trump ahead of government shutdown</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-20 17:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/mangione-courthouse_1758372447420_hpMain_4x3t_384.jpg" alt="Luigi Mangione&#x27;s lawyers say possible death penalty &#x27;based on politics, not merit&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/luigi-mangiones-lawyers-death-penalty-based-politics-merit/story?id=125762128" target="_blank">Luigi Mangione&#x27;s lawyers say possible death penalty &#x27;based on politics, not merit&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-20 17:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-palestine-west-bank_7025862.jpg?20250920170605" alt="Palestinian minister says UK recognition of state would be &#x27;courageous step&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/better-late-than-never-palestinian-minister-says-uk-recognition-of-state-would-be-courageous-step-13434423" target="_blank">Palestinian minister says UK recognition of state would be &#x27;courageous step&#x27;</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-20 15:58</span>
             </div>
         </div>
 </div>
@@ -160,6 +162,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.cnx-software.com/2025/09/18/2-weact-display-fs-adds-a-0-96-inch-usb-information-display-to-your-computer/" target="_blank">$2 WeAct Display FS adds a 0.96-inch USB information display to your computer</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-20 21:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Git-Weighs-Mandatory-Rust" target="_blank">Git Developers Debate Making Rust Mandatory</a></span>
                 <span class="feed">Phoronix</span>
@@ -200,29 +211,6 @@
                 <span class="title"><a href="https://www.openmymind.net/Is-Zigs-New-Io-Unsafe/" target="_blank">Is Zig&#x27;s New Writer Unsafe?</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-09-20 14:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://gwern.net/doc/science/2019-savage.pdf" target="_blank">Novelist Cormac McCarthy&#x27;s tips on how to write a great science paper [pdf]</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-20 14:08</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/friday-squid-blogging-giant-squid-vs-blue-whale.html" target="_blank">Friday Squid Blogging: Giant Squid vs. Blue Whale</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-09-19 21:06</span>
             </div>
         </div>
 </div>
@@ -303,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
