@@ -1,40 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-09-21 06:02:09 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-09-21 07:01:38 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 31 feeds processed -->
+<!-- Generated 4 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, September 21, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, September 21, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +52,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/21/nx-s1-5549067/suspect-new-hampshire-country-club-shooting" target="_blank">Suspect in custody after New Hampshire country club shooting leaves 1 dead and several wounded</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-21 06:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/9/21/live-israel-kills-14-palestinians-in-gaza-since-dawn?traffic_source=rss" target="_blank">LIVE: Israel kills 14 Palestinians in Gaza since dawn</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-21 06:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c9b/live/cd279bf0-965f-11f0-937e-e53bdd730b8c.jpg" alt="Starmer set to announce UK recognition of Palestinian state" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce800enrglzo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer set to announce UK recognition of Palestinian state</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-21 06:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/GettyImages-2233768258_1758414789774_hpMain_4x3t_384.jpg" alt="Trump says he is appointing former defense attorney to lead key prosecutor&#x27;s office" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,33 +104,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/21/russia-ukraine-war-list-of-key-events-day-1305?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,305</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-21 03:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/20/nx-s1-5548577/gabrielle-hurricane-bermuda-forecast" target="_blank">Tropical Storm Gabrielle expected to become 2nd Atlantic hurricane of the season</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-21 00:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/20/nx-s1-5548558/abc10-shooting-arrest" target="_blank">Man arrested after drive-by shooting at ABC TV station in Sacramento</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-20 23:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/20/zelenskyy-plans-to-meet-trump-on-sidelines-of-un-as-russia-steps-up-attacks?traffic_source=rss" target="_blank">Zelenskyy plans to meet Trump on sidelines of UN as Russia steps up attacks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-20 23:01</span>
             </div>
         </div>
 </div>
@@ -171,6 +173,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/colecciom_repart_782646de/flores-amarillas-3mmg" target="_blank">Flores amarillas</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-21 06:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.ifixit.com/News/113171/iphone-air-teardown" target="_blank">iFixit iPhone Air teardown</a></span>
                 <span class="feed">Hacker News</span>
@@ -211,15 +222,6 @@
                 <span class="title"><a href="https://dev.to/alishirani/100-ways-to-earn-extra-cash-as-a-developer-6dk" target="_blank">100 Ways to Earn Extra Cash as a Developer 💰</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-20 22:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.cnx-software.com/2025/09/18/2-weact-display-fs-adds-a-0-96-inch-usb-information-display-to-your-computer/" target="_blank">$2 WeAct Display FS adds a 0.96-inch USB information display to your computer</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-20 21:04</span>
             </div>
         </div>
 </div>
@@ -300,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 75 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
