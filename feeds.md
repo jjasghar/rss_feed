@@ -1,34 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-21 14:01:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-21 15:01:41 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, September 21, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, September 21, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/21/charlie-kirk-mourned-as-jimmy-kimmel-supporters-fear-erosion-of-free-speech?traffic_source=rss" target="_blank">Charlie Kirk mourned as Jimmy Kimmel supporters fear erosion of free speech</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-21 14:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c9b/live/cd279bf0-965f-11f0-937e-e53bdd730b8c.jpg" alt="Starmer announces UK recognition of Palestinian state" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +103,29 @@
                 <span class="time">2025-09-21 09:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/21/thousands-rally-in-philippines-at-anticorruption-protests-in-manila?traffic_source=rss" target="_blank">Thousands rally in Philippines at anticorruption protests in Manila</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-21 08:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/report/782289/trumps-h-1b-visa-fee-isnt-about-immigration-its-about-fealty" target="_blank">Trump&amp;#8217;s H-1B visa fee isn&amp;#8217;t just about immigration, it&amp;#8217;s about fealty</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-21 14:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68ce4725210d0e11b5670884/master/pass/The%20Best%20Fitness%20Trackers%20and%20Watches%20for%20Everyone.png" alt="14 Best Fitness Trackers (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-fitness-tracker/" target="_blank">14 Best Fitness Trackers (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-21 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -139,29 +162,20 @@
                 <span class="time">2025-09-20 20:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/20/white-house-offers-more-details-about-potential-tiktok-deal/" target="_blank">White House offers more details about potential TikTok deal</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-20 20:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/20/trump-hits-h-1b-visas-with-100000-fee-targeting-the-program-that-launched-elon-musk-and-instagram/" target="_blank">Trump hits H-1B visas with $100,000 fee, targeting the program that launched Elon Musk and Instagram</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-20 19:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq5lo30z2szok38e2lpny.jpg" alt="Beyond Git: Features Every Young Professional Should Know in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devnotes/beyond-git-features-every-young-professional-should-know-in-2025-efb" target="_blank">Beyond Git: Features Every Young Professional Should Know in 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-21 14:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -183,6 +197,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://press.uchicago.edu/Misc/Chicago/511928.html" target="_blank">They Thought They Were Free (1955)</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-21 10:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-Multi-Kernel-Patches" target="_blank">Multi-Kernel Architecture Proposed For The Linux Kernel</a></span>
                 <span class="feed">Phoronix</span>
@@ -196,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/jajera/enable-bash-style-history-search-and-suggestions-in-powershell-2d52" target="_blank">Enable Bash-Style History Search and Suggestions in PowerShell</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-21 08:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/colecciom_repart_782646de/flores-amarillas-3mmg" target="_blank">Flores amarillas</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-21 06:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://donado.co/en/articles/2025-09-16-vibe-coding-cleanup-as-a-service/" target="_blank">Vibe Coding Cleanup as a Service</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-21 06:01</span>
             </div>
         </div>
 </div>
@@ -294,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
