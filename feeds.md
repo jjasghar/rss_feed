@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-21 08:01:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-21 09:02:16 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 3 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Sunday, September 21, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, September 21, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -168,9 +170,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jajera/enable-bash-style-history-search-and-suggestions-in-powershell-2d52" target="_blank">Enable Bash-Style History Search and Suggestions in PowerShell</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-21 08:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/colecciom_repart_782646de/flores-amarillas-3mmg" target="_blank">Flores amarillas</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-21 06:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://donado.co/en/articles/2025-09-16-vibe-coding-cleanup-as-a-service/" target="_blank">Vibe Coding Cleanup as a Service</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-21 06:01</span>
             </div>
         </div>
 <div class="story">
@@ -198,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/jaideepparashar/most-developers-still-think-of-ai-as-just-a-code-generator-but-the-real-power-lies-in-using-ai-3ba" target="_blank">Most developers still think of AI as “just a code generator.” But the real power lies in using AI to optimise entire workflows, from debugging to documentation.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-21 03:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jacklehamster/la-fin-des-reves-original-song-ingredient-16c5" target="_blank">La fin des reves (Original song ingredient)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-21 01:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-PCI-sysfs-serial-num" target="_blank">Linux 6.18 To Make It Easier Parsing PCI Device Serial Numbers</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-21 00:59</span>
             </div>
         </div>
 </div>
@@ -296,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
