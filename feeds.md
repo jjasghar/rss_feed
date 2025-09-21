@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-21 13:05:17 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-21 14:01:35 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, September 21, 2025 - 13:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, September 21, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c9b/live/cd279bf0-965f-11f0-937e-e53bdd730b8c.jpg" alt="Starmer announces UK recognition of Palestinian state" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce800enrglzo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer announces UK recognition of Palestinian state</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-21 13:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,20 +98,29 @@
                 <span class="time">2025-09-21 08:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/21/nx-s1-5549067/suspect-new-hampshire-country-club-shooting" target="_blank">Suspect in custody after New Hampshire country club shooting leaves 1 dead and several wounded</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-21 06:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/21/6-days-left-last-chance-for-regular-bird-pricing/" target="_blank">6 days left: Last chance for Regular Bird savings for TechCrunch Disrupt 2025 passes</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-21 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68ce42aec6b4aa718ec26a09/master/pass/The%20Best%20Mushroom%20Gummies%20That%20Make%20Wellness%20Taste%20Like%20Candy.png" alt="The Best Mushroom Gummies on the Market, Lab-Approved (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-mushroom-gummies/" target="_blank">The Best Mushroom Gummies on the Market, Lab-Approved (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-21 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68266fa1f47362e13129e192/master/pass/The%206%20Best%20Bamboo%20Sheets%20for%20Silky-Soft%20Sleep%20(Update).png" alt="Best Bamboo Sheets (2025): WIRED&#x27;s Brand-New Top Pick" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,24 +155,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/09/20/trump-hits-h-1b-visas-with-100000-fee-targeting-the-program-that-launched-elon-musk-and-instagram/" target="_blank">Trump hits H-1B visas with $100,000 fee, targeting the program that launched Elon Musk and Instagram</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-09-20 19:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/20/how-phoebe-gates-and-sophia-kianni-used-gen-z-methods-to-raise-8m-for-phia/" target="_blank">How Phoebe Gates and Sophia Kianni used Gen Z methods to raise $8M for Phia</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-20 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/782073/kindle-unlimited-subscription-ipad-m3-deal-sale" target="_blank">Prime members can get three months of Kindle Unlimited for free</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-20 16:00</span>
             </div>
         </div>
 </div>
@@ -220,6 +222,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/asteroid-2024-yr4.jpg" alt="An Asteroid Could Smash Into the Moon in 2032. Here’s Why We Should Destroy It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/an-asteroid-could-smash-into-the-moon-in-2032-heres-why-we-should-destroy-it-2000661550" target="_blank">An Asteroid Could Smash Into the Moon in 2032. Here’s Why We Should Destroy It</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-21 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Star-Wars-Outlaws-Switch-2-1.jpg" alt="The Switch 2’s Game Ports Have Reached Their High-Water Mark" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -264,15 +275,6 @@
                 <span class="time">2025-09-20 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/image-23.png?fit=544%2C680&amp;quality=55&amp;ssl=1" alt="Colin Kaepernick is paying for an independent autopsy of Demartravion &quot;Trey&quot; Reed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/20/colin-kaepernick-is-paying-for-an-independent-autopsy-of-demartravion-trey-reed.html" target="_blank">Colin Kaepernick is paying for an independent autopsy of Demartravion &quot;Trey&quot; Reed</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-20 19:31</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -292,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 13:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
