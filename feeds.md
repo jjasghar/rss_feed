@@ -1,44 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-21 21:01:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-21 22:01:41 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 35 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, September 21, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Sunday, September 21, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -54,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/hegsethvertthumb2-di0lny.jpg" alt="Pete Hegseth: Charlie Kirk died ‘speaking the truth’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/shorts/pete-hegseth-charlie-kirk-died-speaking-the-truth-248032837989" target="_blank">Pete Hegseth: Charlie Kirk died ‘speaking the truth’</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-21 21:41</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/tm-vert-luna-kbro0s.jpg" alt="Rep. Luna of Florida compares Kirk to JFK and MLK Jr." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -99,15 +100,6 @@
                 <span class="time">2025-09-21 18:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b9a/live/3fcba430-9700-11f0-90f2-5f87cb020b24.jpg" alt="UK formally recognises Palestinian state" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce800enrglzo?at_medium=RSS&at_campaign=rss" target="_blank">UK formally recognises Palestinian state</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-21 17:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -120,6 +112,15 @@
                 <span class="title"><a href="https://www.theverge.com/news/782366/foldable-details-iphone-air-ifixit-teardown" target="_blank">The foldable iPhone might look like two iPhone Airs stuck together</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-21 20:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/21/white-house-offers-more-details-about-potential-tiktok-deal/" target="_blank">Trump says Lachlan and Rupert Murdoch might invest in TikTok deal</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-21 19:43</span>
             </div>
         </div>
 <div class="story">
@@ -158,20 +159,20 @@
                 <span class="time">2025-09-21 14:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68ce4725210d0e11b5670884/master/pass/The%20Best%20Fitness%20Trackers%20and%20Watches%20for%20Everyone.png" alt="14 Best Fitness Trackers (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-fitness-tracker/" target="_blank">14 Best Fitness Trackers (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-21 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fifjs82btfktiy8z315ya.png" alt="Resourcing Plan: Aligning People and Resources for Project Success" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/writegenic/resourcing-plan-aligning-people-and-resources-for-project-success-1k9e" target="_blank">Resourcing Plan: Aligning People and Resources for Project Success</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-21 21:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjtsb169u437ig8s73bp9.png" alt="Big O Notation: Examples" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -215,15 +216,6 @@
                 <span class="title"><a href="https://github.com/rxi/sj.h" target="_blank">Sj.h: A tiny little JSON parsing library in ~150 lines of C99</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-09-21 16:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2betgb5mi4t0ec02o2bq.png" alt="Building Smarter Project Models: How We Handle Complex Cashflow Calculations in Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/abdul_shamim/building-smarter-project-models-how-we-handle-complex-cashflow-calculations-in-code-2nmg" target="_blank">Building Smarter Project Models: How We Handle Complex Cashflow Calculations in Code</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-21 15:49</span>
             </div>
         </div>
 </div>
@@ -305,7 +297,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 21:01 UTC
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
