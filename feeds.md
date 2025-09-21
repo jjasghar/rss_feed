@@ -1,33 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-09-21 19:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-21 20:01:44 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Sky News World -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 2 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, September 21, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, September 21, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/21/india-beat-pakistan-by-six-wickets-in-asia-cup-super-fours?traffic_source=rss" target="_blank">India beat Pakistan by six wickets in Asia Cup Super Fours</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-21 19:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -86,15 +93,6 @@
                 <span class="title"><a href="https://www.theguardian.com/world/2025/sep/21/kenya-issues-arrest-warrant-agnes-wanjiru-uk-must-rule-on-extradition" target="_blank">Kenya issues arrest warrant over death of Agnes Wanjiru but UK must rule on extradition</a></span>
                 <span class="feed">World news | The Guardian</span>
                 <span class="time">2025-09-21 17:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/21/nx-s1-5549175/aja-wilson-wnba-mvp-record" target="_blank">A&#x27;ja Wilson snags a record fourth WNBA MVP</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-21 17:32</span>
             </div>
         </div>
 </div>
@@ -165,6 +163,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/matrixswarm/matrixos-v010-the-swarm-gets-its-operating-system-4ffk" target="_blank">MatrixOS v0.1.0: The Swarm Gets Its Operating System</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-21 19:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/thanh_tngphm_6c0c8c78d/overcoming-the-drawbacks-of-official-flutter-json-serialization-with-jsonentity-b0p" target="_blank">Overcoming the Drawbacks of Official Flutter JSON Serialization with json_entity</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-21 17:47</span>
@@ -204,15 +211,6 @@
                 <span class="title"><a href="https://dev.to/devnotes/beyond-git-features-every-young-professional-should-know-in-2025-efb" target="_blank">Beyond Git: Features Every Young Professional Should Know in 2025</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-21 14:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/PSP-Encryption-Linux-6.18" target="_blank">Linux Ready To Upstream Support For Google&#x27;s PSP Encryption For TCP Connections</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-21 13:04</span>
             </div>
         </div>
 </div>
@@ -293,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
