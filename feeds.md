@@ -1,27 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-21 00:04:55 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-21 01:29:44 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 19 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 2 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, September 21, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, September 21, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/20/nx-s1-5548577/gabrielle-hurricane-bermuda-forecast" target="_blank">Tropical Storm Gabrielle expected to become 2nd Atlantic hurricane of the season</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-21 00:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,15 +99,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/politics-news/white-house-tiktok-algorithm-data-deal-trump-china-rcna232627" target="_blank">TikTok&#x27;s algorithm and data will be controlled &#x27;by America,&#x27; White House says</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-09-20 19:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/20/police-fire-tear-gas-at-anti-immigration-protesters-in-the-hague?traffic_source=rss" target="_blank">Police fire tear gas at anti-immigration protesters in The Hague</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-20 19:29</span>
             </div>
         </div>
 </div>
@@ -159,6 +169,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jacklehamster/la-fin-des-reves-original-song-ingredient-16c5" target="_blank">La fin des reves (Original song ingredient)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-21 01:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/alishirani/100-ways-to-earn-extra-cash-as-a-developer-6dk" target="_blank">100 Ways to Earn Extra Cash as a Developer 💰</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-20 22:46</span>
@@ -198,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/johnbulla/alloydb-omni-postgresql-optimized-for-hybrid-and-multicloud-environments-4991" target="_blank">AlloyDB Omni: PostgreSQL Optimized for Hybrid and Multicloud Environments</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-20 16:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/cloudflare-node-http-workers/en/headerimage/header%281%29-1758033144426.jpg" alt="Cloudflare Adds Node.js HTTP Servers to Cloudflare Workers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/cloudflare-node-http-workers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Cloudflare Adds Node.js HTTP Servers to Cloudflare Workers</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-20 14:26</span>
             </div>
         </div>
 </div>
@@ -287,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
