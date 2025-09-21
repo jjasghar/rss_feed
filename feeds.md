@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-21 18:01:47 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-09-21 19:01:37 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 8 new posts out of 25 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, September 21, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, September 21, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,12 +44,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/21/arsenal-snatch-1-1-draw-with-manchester-city-with-late-martinelli-goal?traffic_source=rss" target="_blank">Arsenal snatch 1-1 draw with Manchester City with late Martinelli goal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-21 18:14</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/charlie-kirk-memorial-01-abc-jt-250920_1758392780545_hpMain_4x3t_384.jpg" alt="LIVE:  Charlie Kirk memorial service underway in Arizona: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Charlie Kirk memorial service underway in Arizona: ABC News Live</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-21 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b9a/live/3fcba430-9700-11f0-90f2-5f87cb020b24.jpg" alt="UK formally recognises Palestinian state" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce800enrglzo?at_medium=RSS&at_campaign=rss" target="_blank">UK formally recognises Palestinian state</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-21 17:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/21/kenya-issues-arrest-warrant-agnes-wanjiru-uk-must-rule-on-extradition" target="_blank">Kenya’s arrest warrant is milestone in Agnes Wanjiru case but lengthy UK process awaits</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-09-21 17:39</span>
             </div>
         </div>
 <div class="story">
@@ -64,37 +91,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/21/germany-scrambles-jets-after-russia-military-aircraft-flies-over-baltic-sea?traffic_source=rss" target="_blank">Germany scrambles jets after Russia military aircraft flies over Baltic Sea</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-21 15:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b9a/live/3fcba430-9700-11f0-90f2-5f87cb020b24.jpg" alt="Starmer confirms formal UK recognition of Palestinian state" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce800enrglzo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer confirms formal UK recognition of Palestinian state</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-21 15:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/f_mo_crowd_kirk_memorial_250921.00_00_13_03.Still001-fxm0dl.jpg" alt="Attendees gather outside hours before Charlie Kirk’s memorial begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/attendees-gather-outside-hours-before-charlie-kirk-s-memorial-begins-248026693929" target="_blank">Attendees gather outside hours before Charlie Kirk’s memorial begins</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-21 15:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/21/trump-join-thousands-memorial-right-wing-us-activist-charlie-kirk?traffic_source=rss" target="_blank">Trump to join thousands at memorial for right-wing US activist Charlie Kirk</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-21 15:19</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/21/nx-s1-5549175/aja-wilson-wnba-mvp-record" target="_blank">A&#x27;ja Wilson snags a record fourth WNBA MVP</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-21 17:32</span>
             </div>
         </div>
 </div>
@@ -221,6 +221,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/woman-at-doctors-office.jpg" alt="AI Medical Tools Provide Worse Treatment for Women and Underrepresented Groups" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ai-medical-tools-provide-worse-treatment-for-women-and-underrepresented-groups-2000661945" target="_blank">AI Medical Tools Provide Worse Treatment for Women and Underrepresented Groups</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-21 19:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/07/james-gunn-superman-lex-luthor-mr-handsome.jpg" alt="James Gunn Wants ‘Man of Tomorrow’ to Show Lex Luthor’s Layers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -265,15 +274,6 @@
                 <span class="time">2025-09-21 12:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/lego-harrypotter-castle.jpg" alt="LEGO Is Offloading the Harry Potter Hogwarts Castle for Early Prime Day, Now Selling at a Steal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/lego-is-offloading-the-harry-potter-hogwarts-castle-for-early-prime-day-now-selling-at-a-steal-2000627467" target="_blank">LEGO Is Offloading the Harry Potter Hogwarts Castle for Early Prime Day, Now Selling at a Steal</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-21 11:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
