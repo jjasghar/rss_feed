@@ -1,36 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-21 17:01:33 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-09-21 18:01:47 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 8 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, September 21, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, September 21, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/charlie-kirk-memorial-01-abc-jt-250920_1758392780545_hpMain_4x3t_384.jpg" alt="LIVE:  Charlie Kirk memorial service underway in Arizona: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Charlie Kirk memorial service underway in Arizona: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-21 18:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/21/kenya-issues-arrest-warrant-agnes-wanjiru-uk-must-rule-on-extradition" target="_blank">Kenya issues arrest warrant over death of Agnes Wanjiru but UK must rule on extradition</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-09-21 17:39</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -65,39 +80,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/f_mo_crowd_kirk_memorial_250921.00_00_13_03.Still001-fxm0dl.jpg" alt="Attendees gather outside hours before Charlie Kirk’s memorial begins" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/attendees-gather-outside-hours-before-charlie-kirk-s-memorial-begins-248026693929" target="_blank">Attendees gather outside hours before Charlie Kirk’s memorial begins</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-21 15:34</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/21/trump-join-thousands-memorial-right-wing-us-activist-charlie-kirk?traffic_source=rss" target="_blank">Trump to join thousands at memorial for right-wing US activist Charlie Kirk</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-21 15:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/21/charlie-kirk-mourned-as-jimmy-kimmel-supporters-fear-erosion-of-free-speech?traffic_source=rss" target="_blank">Charlie Kirk mourned as Jimmy Kimmel supporters fear erosion of free speech</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-21 14:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c9b/live/cd279bf0-965f-11f0-937e-e53bdd730b8c.jpg" alt="Starmer announces UK recognition of Palestinian state" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce800enrglzo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer announces UK recognition of Palestinian state</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-21 13:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/MTP_Shapiro_CAM_1.MXF_frame_49756-8xcc7l.jpg" alt="Josh Shapiro says he’s battled ‘emotional scars’ since arson attack on his home: Full interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/josh-shapiro-says-he-s-battled-emotional-scars-since-arson-attack-on-his-home-full-interview-248023621750" target="_blank">Josh Shapiro says he’s battled ‘emotional scars’ since arson attack on his home: Full interview</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-21 13:15</span>
             </div>
         </div>
 </div>
@@ -168,9 +165,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/thanh_tngphm_6c0c8c78d/overcoming-the-drawbacks-of-official-flutter-json-serialization-with-jsonentity-b0p" target="_blank">Overcoming the Drawbacks of Official Flutter JSON Serialization with json_entity</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-21 17:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/alimoradidev/ali-moradi-dev-2ha5" target="_blank">Ali Moradi Dev</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-21 16:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/rxi/sj.h" target="_blank">Sj.h: A tiny little JSON parsing library in ~150 lines of C99</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-21 16:43</span>
             </div>
         </div>
 <div class="story">
@@ -200,29 +215,20 @@
                 <span class="time">2025-09-21 13:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fedtti/how-to-get-the-gimp-working-with-macos-tahoe-and-what-happened-b4k" target="_blank">How to Get The GIMP Working With macOS Tahoe (and What Happened)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-21 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/michaelaiglobal/stop-blogging-start-architecting-how-to-build-a-b2b-content-hub-that-generates-leads-2k07" target="_blank">Stop Blogging, Start Architecting: How to Build a B2B Content Hub That Generates Leads</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-21 11:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/james-gunn-superman-lex-luthor-mr-handsome.jpg" alt="James Gunn Wants ‘Man of Tomorrow’ to Show Lex Luthor’s Layers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/james-gunn-wants-man-of-tomorrow-to-show-lex-luthors-layers-2000661860" target="_blank">James Gunn Wants ‘Man of Tomorrow’ to Show Lex Luthor’s Layers</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-21 16:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/asteroid-2024-yr4.jpg" alt="An Asteroid Could Smash Into the Moon in 2032. Here’s Why We Should Destroy It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -268,15 +274,6 @@
                 <span class="time">2025-09-21 11:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/FileJump-2TB-Cloud-Storage.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Bye, bye low storage notifications! Upgrade your cloud storage for only $89 for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/20/bye-bye-low-storage-notifications-upgrade-your-cloud-storage-for-only-89-for-life.html" target="_blank">Bye, bye low storage notifications! Upgrade your cloud storage for only $89 for life</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-20 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -296,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
