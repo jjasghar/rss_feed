@@ -1,38 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-21 03:17:45 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-09-21 04:02:06 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, September 21, 2025 - 03:18 UTC</div>
+    <div class="newspaper-date">Sunday, September 21, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/GettyImages-2233768258_1758414789774_hpMain_4x3t_384.jpg" alt="Trump says he is appointing former defense attorney to lead key prosecutor&#x27;s office" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-nominate-former-attorney-lead-key-prosecutors-office/story?id=125775601" target="_blank">Trump says he is appointing former defense attorney to lead key prosecutor&#x27;s office</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-21 03:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/21/us-says-100000-fee-for-h-1b-visas-will-not-apply-to-existing-holders?traffic_source=rss" target="_blank">US says $100,000 fee for H-1B visas will not apply to existing holders</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-21 03:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +102,20 @@
                 <span class="time">2025-09-20 23:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/20/nx-s1-5548532/newsom-trump-masked-ice-agents" target="_blank">California bans masks meant to hide law enforcement officers&#x27; identities</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-20 22:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/20/nx-s1-5548568/h1b-visa-fee-trump-tech" target="_blank">Trump&#x27;s new $100K fee on H-1B visas will hurt the tech companies trying to woo him</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-20 21:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/782258/amazon-google-microsoft-warn-h-1b-employees-return-to-the-us" target="_blank">Amazon, Google, and Microsoft warn employees to rush back to the US</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-20 20:13</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,15 +159,6 @@
                 <span class="title"><a href="https://www.wired.com/gallery/best-hybrid-mattress/" target="_blank">The Best Hybrid Mattresses for Couples, Back Pain, and More (2025)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-09-20 14:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/782245/iphone-air-jerryrigeverything-durability-test" target="_blank">The wafer-thin iPhone Air is surprisingly strong</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-20 14:36</span>
             </div>
         </div>
 </div>
@@ -298,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 03:18 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
