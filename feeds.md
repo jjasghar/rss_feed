@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-21 22:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-21 23:01:46 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Sunday, September 21, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, September 21, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/VANCE-4ozezx.jpg" alt="Vance says Kirk did not suffer ‘the worst fate’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/shorts/vance-says-kirk-did-not-suffer-the-worst-fate-248033349814" target="_blank">Vance says Kirk did not suffer ‘the worst fate’</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-21 22:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/hegsethvertthumb2-di0lny.jpg" alt="Pete Hegseth: Charlie Kirk died ‘speaking the truth’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -91,20 +98,20 @@
                 <span class="time">2025-09-21 18:14</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/charlie-kirk-memorial-01-abc-jt-250920_1758392780545_hpMain_4x3t_384.jpg" alt="LIVE:  Charlie Kirk memorial service underway in Arizona: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Charlie Kirk memorial service underway in Arizona: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-21 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/21/vcs-are-still-hiring-mbas-but-firms-are-starting-to-need-other-experience-more/" target="_blank">VCs are still hiring MBAs, but firms are starting to need other experience more</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-21 22:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -150,20 +157,29 @@
                 <span class="time">2025-09-21 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/report/782289/trumps-h-1b-visa-fee-isnt-about-immigration-its-about-fealty" target="_blank">Trump&amp;#8217;s H-1B visa fee isn&amp;#8217;t just about immigration, it&amp;#8217;s about fealty</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-21 14:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5h1qngd1cqic7wbjdepc.jpg" alt="Desto: A Web Dashboard for Long-Running Background Processes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kalfasyan/desto-a-web-dashboard-for-long-running-background-processes-4lf2" target="_blank">Desto: A Web Dashboard for Long-Running Background Processes</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-21 22:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-rc7" target="_blank">Linux 6.17-rc7 Released: Linux 6.17 Stable Expected Next Week</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-21 22:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fifjs82btfktiy8z315ya.png" alt="Resourcing Plan: Aligning People and Resources for Project Success" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/thanh_tngphm_6c0c8c78d/overcoming-the-drawbacks-of-official-flutter-json-serialization-with-jsonentity-b0p" target="_blank">Overcoming the Drawbacks of Official Flutter JSON Serialization with json_entity</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-21 17:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/alimoradidev/ali-moradi-dev-2ha5" target="_blank">Ali Moradi Dev</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-21 16:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/rxi/sj.h" target="_blank">Sj.h: A tiny little JSON parsing library in ~150 lines of C99</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-21 16:43</span>
             </div>
         </div>
 </div>
@@ -296,8 +294,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
