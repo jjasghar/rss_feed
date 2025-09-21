@@ -1,27 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-21 02:29:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-21 03:17:45 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 2 new posts out of 18 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, September 21, 2025 - 02:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Sunday, September 21, 2025 - 03:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -37,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/21/russia-ukraine-war-list-of-key-events-day-1305?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,305</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-21 03:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,15 +100,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/20/nx-s1-5548568/h1b-visa-fee-trump-tech" target="_blank">Trump&#x27;s new $100K fee on H-1B visas will hurt the tech companies trying to woo him</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-20 21:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c9b/live/cd279bf0-965f-11f0-937e-e53bdd730b8c.jpg" alt="Starmer set to announce UK recognition of Palestinian state on Sunday" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce800enrglzo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer set to announce UK recognition of Palestinian state on Sunday</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-20 21:30</span>
             </div>
         </div>
 </div>
@@ -156,12 +167,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="Most developers still think of AI as “just a code generator.” But the real power lies in using AI to optimise entire workflows, from debugging to documentation." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jaideepparashar/most-developers-still-think-of-ai-as-just-a-code-generator-but-the-real-power-lies-in-using-ai-3ba" target="_blank">Most developers still think of AI as “just a code generator.” But the real power lies in using AI to optimise entire workflows, from debugging to documentation.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-21 03:02</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jacklehamster/la-fin-des-reves-original-song-ingredient-16c5" target="_blank">La fin des reves (Original song ingredient)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-21 01:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-PCI-sysfs-serial-num" target="_blank">Linux 6.18 To Make It Easier Parsing PCI Device Serial Numbers</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-21 00:59</span>
             </div>
         </div>
 <div class="story">
@@ -189,24 +218,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Git-Weighs-Mandatory-Rust" target="_blank">Git Developers Debate Making Rust Mandatory</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-20 18:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://jasonspielman.com/notebooklm" target="_blank">Designing NotebookLM</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-20 17:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fihi7kw5wgwovqmmkpvc6.png" alt="AlloyDB Omni: PostgreSQL Optimized for Hybrid and Multicloud Environments" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/johnbulla/alloydb-omni-postgresql-optimized-for-hybrid-and-multicloud-environments-4991" target="_blank">AlloyDB Omni: PostgreSQL Optimized for Hybrid and Multicloud Environments</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-20 16:56</span>
             </div>
         </div>
 </div>
@@ -287,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 02:29 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 03:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
