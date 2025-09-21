@@ -1,39 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-21 15:01:41 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-21 16:01:46 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, September 21, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, September 21, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b9a/live/3fcba430-9700-11f0-90f2-5f87cb020b24.jpg" alt="Starmer confirms formal UK recognition of Palestinian state" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce800enrglzo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer confirms formal UK recognition of Palestinian state</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-21 15:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/21/trump-join-thousands-memorial-right-wing-us-activist-charlie-kirk?traffic_source=rss" target="_blank">Trump to join thousands at memorial for right-wing US activist Charlie Kirk</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-21 15:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +101,29 @@
                 <span class="time">2025-09-21 10:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/21/nx-s1-5549086/trump-nominates-white-house-aide-top-us-prosecutor-probing-letitia-james" target="_blank">Trump nominates White House aide to be top US prosecutor for office probing Letitia James</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-21 10:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/21/nx-s1-5549084/uk-recognize-palestinian-state-opposition-us" target="_blank">UK set to recognize Palestinian state despite opposition from the US</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-21 09:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/21/techcrunch-mobility-the-two-robotaxi-battlegrounds-that-matter/" target="_blank">TechCrunch Mobility: The two robotaxi battlegrounds that matter</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-21 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/782197/amazon-prime-ftc-consumer-protection-trial" target="_blank">A jury will decide if Amazon illegally tricked people into paying for Prime</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-21 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,29 +160,20 @@
                 <span class="time">2025-09-21 13:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68266fa1f47362e13129e192/master/pass/The%206%20Best%20Bamboo%20Sheets%20for%20Silky-Soft%20Sleep%20(Update).png" alt="Best Bamboo Sheets (2025): WIRED&#x27;s Brand-New Top Pick" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-bamboo-sheets/" target="_blank">Best Bamboo Sheets (2025): WIRED&#x27;s Brand-New Top Pick</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-21 10:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/782258/amazon-google-microsoft-warn-h-1b-employees-return-to-the-us" target="_blank">Amazon, Google, and Microsoft warn employees to rush back to the US</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-20 20:13</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2betgb5mi4t0ec02o2bq.png" alt="Building Smarter Project Models: How We Handle Complex Cashflow Calculations in Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/abdul_shamim/building-smarter-project-models-how-we-handle-complex-cashflow-calculations-in-code-2nmg" target="_blank">Building Smarter Project Models: How We Handle Complex Cashflow Calculations in Code</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-21 15:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq5lo30z2szok38e2lpny.jpg" alt="Beyond Git: Features Every Young Professional Should Know in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -174,6 +181,15 @@
                 <span class="title"><a href="https://dev.to/devnotes/beyond-git-features-every-young-professional-should-know-in-2025-efb" target="_blank">Beyond Git: Features Every Young Professional Should Know in 2025</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-21 14:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/PSP-Encryption-Linux-6.18" target="_blank">Linux Ready To Upstream Support For Google&#x27;s PSP Encryption For TCP Connections</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-21 13:04</span>
             </div>
         </div>
 <div class="story">
@@ -203,24 +219,6 @@
                 <span class="time">2025-09-21 10:56</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Multi-Kernel-Patches" target="_blank">Multi-Kernel Architecture Proposed For The Linux Kernel</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-21 10:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jajera/enable-bash-style-history-search-and-suggestions-in-powershell-2d52" target="_blank">Enable Bash-Style History Search and Suggestions in PowerShell</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-21 08:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -233,6 +231,15 @@
                 <span class="title"><a href="https://gizmodo.com/an-asteroid-could-smash-into-the-moon-in-2032-heres-why-we-should-destroy-it-2000661550" target="_blank">An Asteroid Could Smash Into the Moon in 2032. Here’s Why We Should Destroy It</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-21 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/airpods-pro-3.jpg" alt="Amazon Is Going All In, Selling the New AirPods Pro 3 Cheaper Than Apple" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-is-going-all-in-selling-the-new-airpods-pro-3-cheaper-than-apple-2000627489" target="_blank">Amazon Is Going All In, Selling the New AirPods Pro 3 Cheaper Than Apple</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-21 13:45</span>
             </div>
         </div>
 <div class="story">
@@ -271,36 +278,13 @@
                 <span class="time">2025-09-20 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/boy-iron-box.jpg" alt="Netflix and Guillermo del Toro Team on ‘Boy in the Iron Box’ Film" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/netflix-and-guillermo-del-toro-team-on-boy-in-the-iron-box-film-2000661844" target="_blank">Netflix and Guillermo del Toro Team on ‘Boy in the Iron Box’ Film</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-20 20:00</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1758140081-20250920.png" alt="Saturday Morning Breakfast Cereal - Nuke" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/nuke" target="_blank">Saturday Morning Breakfast Cereal - Nuke</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-09-20 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 269 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
