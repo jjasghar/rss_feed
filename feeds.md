@@ -1,35 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-09-21 11:01:28 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-09-21 12:02:27 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Sunday, September 21, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Sunday, September 21, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c9b/live/cd279bf0-965f-11f0-937e-e53bdd730b8c.jpg" alt="Starmer to announce UK recognition of Palestinian state" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ce800enrglzo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer to announce UK recognition of Palestinian state</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-21 10:58</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,15 +103,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/9/21/live-israel-kills-14-palestinians-in-gaza-since-dawn?traffic_source=rss" target="_blank">LIVE: Israel kills 14 Palestinians in Gaza since dawn</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-21 06:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c9b/live/cd279bf0-965f-11f0-937e-e53bdd730b8c.jpg" alt="Starmer set to announce UK recognition of Palestinian state" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce800enrglzo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer set to announce UK recognition of Palestinian state</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-21 06:12</span>
             </div>
         </div>
 </div>
@@ -166,6 +172,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/michaelaiglobal/stop-blogging-start-architecting-how-to-build-a-b2b-content-hub-that-generates-leads-2k07" target="_blank">Stop Blogging, Start Architecting: How to Build a B2B Content Hub That Generates Leads</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-21 11:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Linux-Multi-Kernel-Patches" target="_blank">Multi-Kernel Architecture Proposed For The Linux Kernel</a></span>
                 <span class="feed">Phoronix</span>
@@ -208,20 +223,29 @@
                 <span class="time">2025-09-21 03:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.ifixit.com/News/113171/iphone-air-teardown" target="_blank">iFixit iPhone Air teardown</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-21 03:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/super-mario-galaxy-1-and-2-switch-2.jpg" alt="With ‘Super Mario Galaxy,’ the Switch 2 Feels More Like the Wii Than Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/with-super-mario-galaxy-the-switch-2-feels-more-like-the-wii-than-ever-2000661489" target="_blank">With ‘Super Mario Galaxy,’ the Switch 2 Feels More Like the Wii Than Ever</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-21 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/lego-harrypotter-castle.jpg" alt="LEGO Is Offloading the Harry Potter Hogwarts Castle for Early Prime Day, Now Selling at a Steal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/lego-is-offloading-the-harry-potter-hogwarts-castle-for-early-prime-day-now-selling-at-a-steal-2000627467" target="_blank">LEGO Is Offloading the Harry Potter Hogwarts Castle for Early Prime Day, Now Selling at a Steal</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-21 11:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/FileJump-2TB-Cloud-Storage.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Bye, bye low storage notifications! Upgrade your cloud storage for only $89 for life" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -258,24 +282,6 @@
                 <span class="time">2025-09-20 18:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Imagiyo-AI-Image-Generator.jpg?fit=1260%2C946&amp;quality=60&amp;ssl=1" alt="Get lifetime access to an AI art generator for just $49" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/20/get-lifetime-access-to-an-ai-art-generator-for-just-49.html" target="_blank">Get lifetime access to an AI art generator for just $49</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-20 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/trump-droopy-face-stroke-like.jpg" alt="TrumpRx: White House Considering Trump-Branded Prescription Drug Website" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/white-house-trump-prescription-drug-website-2000661678" target="_blank">TrumpRx: White House Considering Trump-Branded Prescription Drug Website</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-20 14:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -295,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 73 | 📡 Total Sources: 41 | 📸 With Images: 273 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 71 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
