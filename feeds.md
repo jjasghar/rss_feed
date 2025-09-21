@@ -1,31 +1,44 @@
-<!-- Processing 54 RSS feeds at 2025-09-21 20:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-21 21:01:31 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 21 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 35 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, September 21, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, September 21, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +54,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/tm-vert-luna-kbro0s.jpg" alt="Rep. Luna of Florida compares Kirk to JFK and MLK Jr." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/shorts/rep-luna-of-florida-compares-kirk-to-jfk-and-mlk-jr-248033861797" target="_blank">Rep. Luna of Florida compares Kirk to JFK and MLK Jr.</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-21 20:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/21/trump-says-lachlan-murdoch-part-of-proposed-tiktok-deal?traffic_source=rss" target="_blank">Trump says Lachlan Murdoch part of proposed TikTok deal</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-21 20:03</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,29 +108,20 @@
                 <span class="time">2025-09-21 17:55</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/21/kenya-issues-arrest-warrant-agnes-wanjiru-uk-must-rule-on-extradition" target="_blank">Kenya’s arrest warrant is milestone in Agnes Wanjiru case but lengthy UK process awaits</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-09-21 17:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/21/kenya-issues-arrest-warrant-agnes-wanjiru-uk-must-rule-on-extradition" target="_blank">Kenya issues arrest warrant over death of Agnes Wanjiru but UK must rule on extradition</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-09-21 17:39</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/782366/foldable-details-iphone-air-ifixit-teardown" target="_blank">The foldable iPhone might look like two iPhone Airs stuck together</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-21 20:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,20 +167,20 @@
                 <span class="time">2025-09-21 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/21/6-days-left-last-chance-for-regular-bird-pricing/" target="_blank">6 days left: Last chance for Regular Bird savings for TechCrunch Disrupt 2025 passes</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-21 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjtsb169u437ig8s73bp9.png" alt="Big O Notation: Examples" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/talaamm/big-o-notation-examples-4ej" target="_blank">Big O Notation: Examples</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-21 20:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -204,20 +226,20 @@
                 <span class="time">2025-09-21 15:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq5lo30z2szok38e2lpny.jpg" alt="Beyond Git: Features Every Young Professional Should Know in 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devnotes/beyond-git-features-every-young-professional-should-know-in-2025-efb" target="_blank">Beyond Git: Features Every Young Professional Should Know in 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-21 14:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2023/02/095e738dd3c65bc27b597b6986623740.jpg" alt="Trump Hints at the Murdochs Joining the TikTok Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trump-hints-at-the-murdochs-joining-the-tiktok-deal-2000661964" target="_blank">Trump Hints at the Murdochs Joining the TikTok Deal</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-21 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/woman-at-doctors-office.jpg" alt="AI Medical Tools Provide Worse Treatment for Women and Underrepresented Groups" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -237,6 +259,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/BitMar-Streaming-Content-Finder-1.jpg?fit=1200%2C901&amp;quality=60&amp;ssl=1" alt="Discover free content for life with this $15 platform" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/21/discover-free-content-for-life-with-this-15-platform.html" target="_blank">Discover free content for life with this $15 platform</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-21 15:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/asteroid-2024-yr4.jpg" alt="An Asteroid Could Smash Into the Moon in 2032. Here’s Why We Should Destroy It" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -252,24 +283,6 @@
                 <span class="title"><a href="https://kotaku.com/amazon-is-going-all-in-selling-the-new-airpods-pro-3-cheaper-than-apple-2000627489" target="_blank">Amazon Is Going All In, Selling the New AirPods Pro 3 Cheaper Than Apple</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-09-21 13:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Star-Wars-Outlaws-Switch-2-1.jpg" alt="The Switch 2’s Game Ports Have Reached Their High-Water Mark" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-wars-outlaws-switch-2-review-2000659483" target="_blank">The Switch 2’s Game Ports Have Reached Their High-Water Mark</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-21 13:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/super-mario-galaxy-1-and-2-switch-2.jpg" alt="With ‘Super Mario Galaxy,’ the Switch 2 Feels More Like the Wii Than Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/with-super-mario-galaxy-the-switch-2-feels-more-like-the-wii-than-ever-2000661489" target="_blank">With ‘Super Mario Galaxy,’ the Switch 2 Feels More Like the Wii Than Ever</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-21 12:00</span>
             </div>
         </div>
 </div>
@@ -291,8 +304,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
