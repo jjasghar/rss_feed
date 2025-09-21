@@ -1,37 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-21 16:01:46 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-21 17:01:33 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, September 21, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, September 21, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/21/germany-scrambles-jets-after-russia-military-aircraft-flies-over-baltic-sea?traffic_source=rss" target="_blank">Germany scrambles jets after Russia military aircraft flies over Baltic Sea</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-21 15:56</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b9a/live/3fcba430-9700-11f0-90f2-5f87cb020b24.jpg" alt="Starmer confirms formal UK recognition of Palestinian state" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,21 +92,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/MTP_Shapiro_CAM_1.MXF_frame_49756-8xcc7l.jpg" alt="Josh Shapiro says he’s battled ‘emotional scars’ since arson attack on his home: Full interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/9/21/us-congress-struggles-to-regulate-tech-companies?traffic_source=rss" target="_blank">US congress struggles to “regulate tech companies”</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-21 12:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c9b/live/cd279bf0-965f-11f0-937e-e53bdd730b8c.jpg" alt="Starmer to announce UK recognition of Palestinian state" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ce800enrglzo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer to announce UK recognition of Palestinian state</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-21 10:58</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/josh-shapiro-says-he-s-battled-emotional-scars-since-arson-attack-on-his-home-full-interview-248023621750" target="_blank">Josh Shapiro says he’s battled ‘emotional scars’ since arson attack on his home: Full interview</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-21 13:15</span>
             </div>
         </div>
 </div>
@@ -106,6 +105,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/782288/montblanc-is-getting-into-the-digital-notepad-game" target="_blank">Montblanc is getting into the digital notepad game</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-21 16:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -151,20 +159,20 @@
                 <span class="time">2025-09-21 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68ce42aec6b4aa718ec26a09/master/pass/The%20Best%20Mushroom%20Gummies%20That%20Make%20Wellness%20Taste%20Like%20Candy.png" alt="The Best Mushroom Gummies on the Market, Lab-Approved (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-mushroom-gummies/" target="_blank">The Best Mushroom Gummies on the Market, Lab-Approved (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-21 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/alimoradidev/ali-moradi-dev-2ha5" target="_blank">Ali Moradi Dev</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-21 16:54</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2betgb5mi4t0ec02o2bq.png" alt="Building Smarter Project Models: How We Handle Complex Cashflow Calculations in Code" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +216,6 @@
                 <span class="title"><a href="https://dev.to/michaelaiglobal/stop-blogging-start-architecting-how-to-build-a-b2b-content-hub-that-generates-leads-2k07" target="_blank">Stop Blogging, Start Architecting: How to Build a B2B Content Hub That Generates Leads</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-21 11:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://press.uchicago.edu/Misc/Chicago/511928.html" target="_blank">They Thought They Were Free (1955)</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-21 10:56</span>
             </div>
         </div>
 </div>
@@ -280,11 +279,25 @@
         </div>
 </div>
 </div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1758236416-20250921.png" alt="Saturday Morning Breakfast Cereal - Holy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/holy" target="_blank">Saturday Morning Breakfast Cereal - Holy</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-09-21 15:20</span>
+            </div>
+        </div>
+</div>
+</div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 68 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 72 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
