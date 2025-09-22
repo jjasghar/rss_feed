@@ -1,41 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-22 10:02:09 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-22 11:01:48 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 32 feeds processed -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Monday, September 22, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, September 22, 2025 - 11:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/22/does-uss-communications-agency-have-power-to-regulate-kimmels-speech?traffic_source=rss" target="_blank">Does US’s communications agency have power to regulate Kimmel’s speech?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-22 10:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/22/nx-s1-5549984/talks-north-korea-denuclearization" target="_blank">North Korea&#x27;s Kim Jong Un ready to talk if U.S. drops denuclearization demand</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-22 10:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-unga-2019-20250921-rt-jh_1758486076927_hpMain_4x3t_384.jpg" alt="Trump heads to UN as future of Palestinian state and Gaza likely to dominate" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-heads-general-assembly-future-palestine-gaza-dominate/story?id=125790695" target="_blank">Trump heads to UN as future of Palestinian state and Gaza likely to dominate</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-22 09:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,38 +102,29 @@
                 <span class="time">2025-09-22 08:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db03/live/1d62c830-977b-11f0-84c8-99de564f0440.jpg" alt="UK warns Israel not to retaliate against Palestinian statehood push" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1wggrdn9dno?at_medium=RSS&at_campaign=rss" target="_blank">UK warns Israel not to retaliate against Palestinian statehood push</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-22 07:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/22/g-s1-89449/silent-hill-f-review-konami-horror-triumph" target="_blank">Silent Hill f surprises as one of the boldest and best horror games ever</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-22 07:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/true-crime-reports/2025/9/22/kenyas-wildlife-murder-mystery-true-crime-reports?traffic_source=rss" target="_blank">Kenya’s Wildlife Murder Mystery | True Crime Reports</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-22 05:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/22/commonwealth-fusion-systems-books-a-1b-power-deal-for-its-future-fusion-reactor/" target="_blank">Commonwealth Fusion Systems books a $1B+ power deal for its future fusion reactor</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-22 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/682fba5f57556e17fa714325/master/pass/These%20Are%20the%20Best%20Sheets%20to%20Catch%20Some%20Z%E2%80%99s_.png" alt="Best Sheets for Every Bed and Budget (2025): Cotton, Linen, Bamboo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/best-bedsheets/" target="_blank">Best Sheets for Every Bed and Budget (2025): Cotton, Linen, Bamboo</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-22 10:38</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,29 +161,20 @@
                 <span class="time">2025-09-22 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/21/vcs-are-still-hiring-mbas-but-firms-are-starting-to-need-other-experience-more/" target="_blank">VCs are still hiring MBAs, but firms are starting to need other experience more</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-21 22:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/782366/foldable-details-iphone-air-ifixit-teardown" target="_blank">The foldable iPhone might look like two iPhone Airs stuck together</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-21 20:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hielotubo_tec/el-panel-de-control-de-la-maquina-de-hielo-tubular-tiene-muchas-funciones-2nc0" target="_blank">¿El panel de control de la máquina de hielo tubular tiene muchas funciones?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-22 10:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/09/architect-certification-program/en/headerimage/architect-certification-program-1758262948995.jpg" alt="InfoQ Expands Architect Certification with Five-Week Online Cohort Program" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -190,6 +196,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://hostvix.com/linkedin-will-soon-train-ai-models-with-data-from-european-users/" target="_blank">LinkedIn will soon train AI models with data from European users</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-22 09:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/jyoti_eb2834cf419b8c283b3/beyond-the-brand-name-what-we-really-mean-when-we-talk-about-laser-printers-2pk7" target="_blank">Beyond the Brand Name: What We Really Mean When We Talk About Laser Printers</a></span>
                 <span class="feed">DEV Community</span>
@@ -205,29 +220,20 @@
                 <span class="time">2025-09-22 06:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.usenix.org/system/files/usenixsecurity25-motallebighomi.pdf" target="_blank">Privacy and Security Risks in the eSIM Ecosystem [pdf]</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-22 04:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/spring-news-roundup-sep15-2025/en/headerimage/java-istock-image-01-1758459617744.jpg" alt="Spring News Roundup: Third Milestone Releases of Boot, Security, GraphQL, Integration, Modulith" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/spring-news-roundup-sep15-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Spring News Roundup: Third Milestone Releases of Boot, Security, GraphQL, Integration, Modulith</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-22 02:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/hbyz6k.png?fit=794%2C714&amp;quality=55&amp;ssl=1" alt="40-year-old arcade game OutRun ported to 27-year-old Game Boy Color" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/22/40-year-old-arcade-game-outrun-ported-to-27-year-old-game-boy-color.html" target="_blank">40-year-old arcade game OutRun ported to 27-year-old Game Boy Color</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-22 10:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/MAIN-3.jpg" alt="Silent Hill f: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,15 +279,6 @@
                 <span class="time">2025-09-21 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/james-gunn-superman-lex-luthor-mr-handsome.jpg" alt="James Gunn Wants ‘Man of Tomorrow’ to Show Lex Luthor’s Layers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/james-gunn-wants-man-of-tomorrow-to-show-lex-luthors-layers-2000661860" target="_blank">James Gunn Wants ‘Man of Tomorrow’ to Show Lex Luthor’s Layers</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-21 16:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -310,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 11:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
