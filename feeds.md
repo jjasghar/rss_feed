@@ -1,28 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-22 01:29:19 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-22 02:29:48 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 20 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, September 22, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Monday, September 22, 2025 - 02:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,12 +49,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/22/north-koreas-kim-says-open-to-us-talks-if-denuclearisation-demands-dropped?traffic_source=rss" target="_blank">North Korea’s Kim says open to US talks if denuclearisation demands dropped</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-22 02:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/kirk-28-gty-gmh-250921_1758480002604_hpMain_4x3t_384.jpg" alt="Key takeaways from Charlie Kirk&#x27;s memorial service" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/Politics/key-takeaways-charlie-kirks-memorial-service/story?id=125802466" target="_blank">Key takeaways from Charlie Kirk&#x27;s memorial service</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-22 01:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/21/nx-s1-5549416/erika-kirk-speech-charlie-memorial-trump-robinson" target="_blank">Erika Kirk says she forgives the man accused of killing her husband</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-22 01:14</span>
             </div>
         </div>
 <div class="story">
@@ -72,24 +100,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/live-updates/charlie-kirk-memorial-updates-tens-thousands-mourners-expected/?id=125781004" target="_blank">Charlie Kirk memorial updates: &#x27;I forgive him,&#x27; Erika Kirk says of alleged shooter</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-21 23:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/VANCE-4ozezx.jpg" alt="Vance says Kirk did not suffer ‘the worst fate’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/shorts/vance-says-kirk-did-not-suffer-the-worst-fate-248033349814" target="_blank">Vance says Kirk did not suffer ‘the worst fate’</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-21 22:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/hegsethvertthumb2-di0lny.jpg" alt="Pete Hegseth: Charlie Kirk died ‘speaking the truth’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/shorts/pete-hegseth-charlie-kirk-died-speaking-the-truth-248032837989" target="_blank">Pete Hegseth: Charlie Kirk died ‘speaking the truth’</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-21 21:41</span>
             </div>
         </div>
 </div>
@@ -157,6 +167,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmwbb8wkfn9blazgf4nkm.png" alt="Enforce Module Imports in FSD (using eslint-plugin-import)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/vavilov2212/enforce-module-imports-in-fsd-using-eslint-plugin-import-2d72" target="_blank">Enforce Module Imports in FSD (using eslint-plugin-import)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-22 02:21</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5h1qngd1cqic7wbjdepc.jpg" alt="Desto: A Web Dashboard for Long-Running Background Processes" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -199,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/matrixswarm/matrixos-v010-the-swarm-gets-its-operating-system-4ffk" target="_blank">MatrixOS v0.1.0: The Swarm Gets Its Operating System</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-21 19:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/thanh_tngphm_6c0c8c78d/overcoming-the-drawbacks-of-official-flutter-json-serialization-with-jsonentity-b0p" target="_blank">Overcoming the Drawbacks of Official Flutter JSON Serialization with json_entity</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-21 17:47</span>
             </div>
         </div>
 </div>
@@ -288,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 02:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
