@@ -1,39 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-22 15:02:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-22 16:01:42 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, September 22, 2025 - 15:02 UTC</div>
+    <div class="newspaper-date">Monday, September 22, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/22/us-targets-brazilian-justices-wife-with-sanctions-will-revoke-more-visas?traffic_source=rss" target="_blank">US targets Brazilian justice’s wife with sanctions; will revoke more visas</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-22 15:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-5-ap-gmh-250921_1758464196426_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump to make &#x27;historic&#x27; autism announcement" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,30 +82,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-alaa-abd-el-fattah_7028623.jpg?20250922154849" alt="Jailed British-Egyptian activist pardoned by Egypt&#x27;s president" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/british-egyptian-activist-alaa-abd-el-fattah-pardoned-13436268" target="_blank">Jailed British-Egyptian activist pardoned by Egypt&#x27;s president</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-22 12:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb56/live/e9a18490-9780-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Trump hails Charlie Kirk as martyr to thousands at memorial service" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/ckgee0x9p40o?at_medium=RSS&at_campaign=rss" target="_blank">Trump hails Charlie Kirk as martyr to thousands at memorial service</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-22 11:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/22/g-s1-89908/up-first-newsletter-charlie-kirk-memorial-pam-bondi-trump-palestinian-state" target="_blank">Trump speaks at Kirk memorial. And, several world leaders recognize Palestinian state</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-22 11:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758539333883_tdy_news_7a_chesky_kirk_memorial_250922_1920x1080-40tylk.jpg" alt="At Memorial, Charlie Kirk’s Widow Says She Forgives Accused Killer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/mourners-gather-to-bid-farewell-to-charlie-kirk-248062021699" target="_blank">At Memorial, Charlie Kirk’s Widow Says She Forgives Accused Killer</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-22 11:08</span>
             </div>
         </div>
 </div>
@@ -170,6 +166,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/RPM-6.0-Released" target="_blank">RPM 6.0 Released With OpenPGP Improvements &amp; Enforces Signature Checking By Default</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-22 15:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.cloudflare.com/cloudflare-2025-annual-founders-letter/" target="_blank">Cloudflare: A New Internet Business Model</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-22 15:14</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors" target="_blank">Dear GitHub: no YAML anchors, please</a></span>
                 <span class="feed">Hacker News</span>
@@ -203,24 +217,6 @@
                 <span class="time">2025-09-22 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/charles_koffler_bcabc582b/adapter-pattern-in-clprolf-from-enumeration-to-iterator-46kj" target="_blank">Adapter Pattern in Clprolf: From Enumeration to Iterator</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-22 13:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/TernFS-File-System-Open-Source" target="_blank">A Major Trading Firm Has Open-Sourced The Latest Linux File-System: TernFS</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-22 12:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/starship-HLS.jpg" alt="SpaceX’s Starship Lunar Lander Could Be ‘Years Late,’ NASA Safety Panel Warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/spacexs-starship-lunar-lander-could-be-years-late-nasa-safety-panel-warns-2000662122" target="_blank">SpaceX’s Starship Lunar Lander Could Be ‘Years Late,’ NASA Safety Panel Warns</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-22 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/Anker-MagSafe-Charger-Compatible-MagGo-3-in-1-Charging-Station.jpg" alt="Anker MagGo 3-in-1 Charging Station Hits All-Time Low, Charge AirPods Pro 3, iPhone 17, and Apple Watches at Once" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/anker-maggo-3-in-1-charging-station-hits-all-time-low-charge-airpods-pro-3-iphone-17-and-apple-watches-at-once-2000627300" target="_blank">Anker MagGo 3-in-1 Charging Station Hits All-Time Low, Charge AirPods Pro 3, iPhone 17, and Apple Watches at Once</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-22 15:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/cmfmtxeqh4sda07o5ju4t6kcf.jpg" alt="Fortnite Reveals Daft Punk Event, Bluntly States The Duo Is Not Getting Back Together" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -276,24 +290,6 @@
                 <span class="time">2025-09-22 12:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/jpg-2.jpg?fit=1080%2C783&amp;quality=60&amp;ssl=1" alt="Footage debunks claim that Starbucks worker wrote &quot;Loser&quot; on Charlie Kirk order" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/22/footage-debunks-claim-that-starbucks-worker-wrote-loser-on-charlie-kirk-order.html" target="_blank">Footage debunks claim that Starbucks worker wrote &quot;Loser&quot; on Charlie Kirk order</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-22 11:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/hbyz6k.png?fit=794%2C714&amp;quality=55&amp;ssl=1" alt="40-year-old arcade game OutRun ported to 27-year-old Game Boy Color" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/22/40-year-old-arcade-game-outrun-ported-to-27-year-old-game-boy-color.html" target="_blank">40-year-old arcade game OutRun ported to 27-year-old Game Boy Color</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-22 10:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -308,22 +304,13 @@
                 <span class="time">2025-09-22 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1758236416-20250921.png" alt="Saturday Morning Breakfast Cereal - Holy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/holy" target="_blank">Saturday Morning Breakfast Cereal - Holy</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-09-21 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
