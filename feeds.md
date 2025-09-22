@@ -1,41 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-22 20:01:41 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-09-22 21:01:36 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 9 new posts out of 31 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 13 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, September 22, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, September 22, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +48,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/22/nx-s1-5550330/jimmy-kimmel-back-suspended-disney-trump" target="_blank">Jimmy Kimmel will be back on air on Tuesday, Disney says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-22 20:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758571044945_now_daily_b_kreutz_kimmel_return_250922_1920x1080-ft4j1k.jpg" alt="Disney announces Jimmy Kimmel&#x27;s late-night show will return to ABC airwaves" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/disney-announces-jimmy-kimmel-s-late-night-show-will-return-to-abc-airwaves-248102981550" target="_blank">Disney announces Jimmy Kimmel&#x27;s late-night show will return to ABC airwaves</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-22 19:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Trump speaks on administration&#x27;s autism findings: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Trump speaks on administration&#x27;s autism findings: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-22 19:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,38 +102,29 @@
                 <span class="time">2025-09-22 18:13</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/22/nx-s1-5550033/fall-leaves-peak-map-2025" target="_blank">Climate change is delaying peak fall foliage. Here&#x27;s what to expect this year</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-22 18:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb0a/live/dbb203b0-97ca-11f0-a0d1-0b63643409eb.jpg" alt="Clashes break out as Italians strike demanding action over Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c1jz8rdypw4o?at_medium=RSS&at_campaign=rss" target="_blank">Clashes break out as Italians strike demanding action over Gaza</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-22 17:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7083/live/48788640-97ad-11f0-a98f-a5aede2eafbc.jpg" alt="Sarah Ferguson dropped from multiple charities over Epstein email" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cddmr6v0jpzo?at_medium=RSS&at_campaign=rss" target="_blank">Sarah Ferguson dropped from multiple charities over Epstein email</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-22 16:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/22/facebook-is-getting-an-ai-dating-assistant/" target="_blank">Facebook is getting an AI dating assistant</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-22 20:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/782993/steam-blockblasters-crypto-scam-malware" target="_blank">Steam game removed after cryptostealer takes over $150K</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-22 20:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,29 +161,29 @@
                 <span class="time">2025-09-22 18:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68cc48361c8be691cd113d04/master/pass/Uncanny-Valley-Story-Roundup-2234086021.jpg" alt="WIRED Roundup: The Right Embraces Cancel Culture" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-the-right-embraces-cancel-culture/" target="_blank">WIRED Roundup: The Right Embraces Cancel Culture</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-22 17:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2220744156-500x500.jpg" alt="Three crashes in the first day? Tesla’s robotaxi test in Austin." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/09/teslas-robotaxi-test-three-crashes-in-only-7000-miles/" target="_blank">Three crashes in the first day? Tesla’s robotaxi test in Austin.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-22 16:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F921482%2F984d8bfb-b086-4ab6-b8f2-69ae9f7325cc.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/batunpc/-21j4" target="_blank">[Boost]</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-22 20:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18650933&w=600" alt="AI Infrastructure for Agents and LLMs: Options, Tools, and Optimization" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-infrastructure-agents-llms-tools-optimization" target="_blank">AI Infrastructure for Agents and LLMs: Options, Tools, and Optimization</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-22 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/09/gpt-5-codex/en/headerimage/GettyImages-832282452-1758520834924.jpeg" alt="OpenAI Releases GPT-5-Codex Optimized for Complex Code Refactoring and Code Reviews" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -205,24 +220,6 @@
                 <span class="time">2025-09-22 17:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/raspberry-pi-m2-hat-compact.jpg?resize=406%2C232&amp;ssl=1" alt="Raspberry Pi’s New M.2 HAT+ Compact is an SSD Space Saver" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/raspberry-pi-cheap-and-compact-ssd-hat" target="_blank">Raspberry Pi’s New M.2 HAT+ Compact is an SSD Space Saver</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-22 17:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18638250&w=600" alt="How to Build Secure Knowledge Base Integrations for AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/building-secure-knowledge-base-integrations-ai" target="_blank">How to Build Secure Knowledge Base Integrations for AI Agents</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-22 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -242,6 +239,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/11/GettyImages-2154701385.jpg" alt="AI Experts Urgently Call on Governments to Think About Maybe Doing Something" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/ai-experts-urgently-call-on-governments-to-think-about-maybe-doing-something-2000662325" target="_blank">AI Experts Urgently Call on Governments to Think About Maybe Doing Something</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-22 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/61eb48dca6ab0.jpg?fit=1600%2C959&amp;quality=60&amp;ssl=1" alt="Firearms expert reacts to the guns of Metal Gear Solid 3 (mostly with horror)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/22/firearms-expert-reacts-to-the-guns-of-metal-gear-solid-3-mostly-with-horror.html" target="_blank">Firearms expert reacts to the guns of Metal Gear Solid 3 (mostly with horror)</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-22 20:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JWXSQX0KG9KBKARRSGFA13YP/hero-image.jpg" alt="How to Watch Pornhub Even If It&#x27;s Blocked In Your State" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/how-to-watch-pornhub-even-if-its-blocked-in-your-state?utm_medium=RSS" target="_blank">How to Watch Pornhub Even If It&#x27;s Blocked In Your State</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-22 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/jkimmel.jpg" alt="Jimmy Kimmel Live! Is Back Following Disney Boycott" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,38 +293,20 @@
                 <span class="time">2025-09-22 18:57</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Apple-Iphone-17-Series-Air-47.jpg" alt="Why the iPhone Air and iPhone 17 Pros Are Scratching Alarmingly Fast" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/iphone-17-pro-scratching-easily-2000662168" target="_blank">Why the iPhone Air and iPhone 17 Pros Are Scratching Alarmingly Fast</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-22 18:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/GSG99RfmbU7tW50E.jpg" alt="Nobody Told Me One Of The Biggest Games On The Planet Is Super Horny" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/love-and-deepspace-zayne-edge-of-continuum-sex-scene-2000627623" target="_blank">Nobody Told Me One Of The Biggest Games On The Planet Is Super Horny</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-22 17:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/pope-a-duncan.jpg?fit=1200%2C870&amp;quality=60&amp;ssl=1" alt="College presidents&#x27; names reveal historical power structures" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/22/college-presidents-names-reveal-historical-power-structures.html" target="_blank">College presidents&#x27; names reveal historical power structures</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-22 17:18</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/09/22/new-games-i-m-playing" target="_blank">New Games I&#x27;m Playing</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-09-22 19:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1758236452-20250922.png" alt="Saturday Morning Breakfast Cereal - Treat" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -324,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
