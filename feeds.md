@@ -1,37 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-09-22 07:01:53 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-22 08:02:32 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Monday, September 22, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, September 22, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db03/live/1d62c830-977b-11f0-84c8-99de564f0440.jpg" alt="UK warns Israel not to retaliate against Palestinian statehood push" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1wggrdn9dno?at_medium=RSS&at_campaign=rss" target="_blank">UK warns Israel not to retaliate against Palestinian statehood push</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-22 07:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/22/g-s1-89449/silent-hill-f-review-konami-horror-triumph" target="_blank">Silent Hill f surprises as one of the boldest and best horror games ever</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-22 07:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -83,29 +95,20 @@
                 <span class="time">2025-09-22 01:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/21/nx-s1-5549416/erika-kirk-speech-charlie-memorial-trump-robinson" target="_blank">Erika Kirk says she forgives the man accused of killing her husband</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-22 01:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b17f/live/f8941430-974f-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Trump hails Charlie Kirk as &#x27;American hero&#x27; as thousands fill memorial service" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckgee0x9p40o?at_medium=RSS&at_campaign=rss" target="_blank">Trump hails Charlie Kirk as &#x27;American hero&#x27; as thousands fill memorial service</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-22 01:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/782012/silent-hill-f-review-ps5-xbox-steam" target="_blank">Silent Hill F has two killer ingredients: mystery and rage</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-22 07:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68cc38742f579b2151ce2616/master/pass/jaguar-hack-sec-1953409218.jpg" alt="A Cyberattack on Jaguar Land Rover Is Causing a Supply Chain Disaster" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,15 +152,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/782366/foldable-details-iphone-air-ifixit-teardown" target="_blank">The foldable iPhone might look like two iPhone Airs stuck together</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-21 20:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/21/white-house-offers-more-details-about-potential-tiktok-deal/" target="_blank">Trump says Lachlan and Rupert Murdoch might invest in TikTok deal</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-21 19:43</span>
             </div>
         </div>
 </div>
@@ -284,6 +278,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/09/22/borderline" target="_blank">Borderline</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-09-22 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1758236416-20250921.png" alt="Saturday Morning Breakfast Cereal - Holy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -297,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
