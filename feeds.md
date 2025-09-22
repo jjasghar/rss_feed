@@ -1,38 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-09-22 22:01:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-22 23:01:39 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, September 22, 2025 - 22:01 UTC</div>
+    <div class="newspaper-date">Monday, September 22, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +51,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/22/copenhagen-airport-shut-after-sighting-of-unidentified-drones?traffic_source=rss" target="_blank">Copenhagen airport shut after sighting of ‘unidentified drones’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-22 22:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/donald-8-gty-gmh-250922_1758574959017_hpMain_4x3t_384.jpg" alt="Trump admin links Tylenol use in pregnancy to increased risk of autism" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/US/trump-admin-links-tylenol-pregnancy-increased-risk-autism/story?id=125802080" target="_blank">Trump admin links Tylenol use in pregnancy to increased risk of autism</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-22 21:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758576778025_now_brk_trump_acetaminophen_250922_1920x1080-hmmafk.jpg" alt="Doctor, medical reporter fact-check Trump announcement on acetaminophen and autism" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/doctor-medical-reporter-fact-check-trump-announcement-on-acetaminophen-and-autism-248106053874" target="_blank">Doctor, medical reporter fact-check Trump announcement on acetaminophen and autism</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-22 21:33</span>
             </div>
         </div>
 <div class="story">
@@ -82,24 +102,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/now/video/disney-announces-jimmy-kimmel-s-late-night-show-will-return-to-abc-airwaves-248102981550" target="_blank">Disney announces Jimmy Kimmel&#x27;s late-night show will return to ABC airwaves</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-09-22 19:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Trump speaks on administration&#x27;s autism findings: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Trump speaks on administration&#x27;s autism findings: ABC News Live</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-22 19:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/22/nx-s1-5550307/supreme-court-ftc-firing" target="_blank">Supreme Court allows Trump to fire -- for now -- remaining Democrat on FTC</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-22 19:49</span>
             </div>
         </div>
 </div>
@@ -167,6 +169,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/01/ubuntu-pro-software-updater.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Aims to Fix Annoying Update Focus Stealing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/ubuntu-25-10-update-manager-focus-bug-fix" target="_blank">Ubuntu 25.10 Aims to Fix Annoying Update Focus Stealing</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-22 22:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F01muib501983pcfgjpsw.png" alt="AI benchmarks, explain like i&#x27;m five" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -211,15 +222,6 @@
                 <span class="time">2025-09-22 18:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/gartner-positions-github-as-a-leader-in-the-2025-magic-quadrant-for-ai-code-assistants-for-the-second-year-in-a-row/" target="_blank">Gartner positions GitHub as a Leader in the 2025 Magic Quadrant for AI Code Assistants for the second year in a row</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-09-22 18:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,12 +242,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/silent-night-deadly-night-review.jpg" alt="The ‘Silent Night, Deadly Night’ Remake Doesn’t Ring in the Holiday Cheer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/silent-night-deadly-night-2025-review-remake-2000662061" target="_blank">The ‘Silent Night, Deadly Night’ Remake Doesn’t Ring in the Holiday Cheer</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-22 22:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/cricketjumping.jpg" alt="Borderlands 4′s Super Jump Glitch Is Wild And Won’t Be Fixed…For Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
                 <span class="title"><a href="https://kotaku.com/borderlands-4s-super-jump-bug-cricket-jumping-legendary-gun-gearbox-patch-pc-2000627659" target="_blank">Borderlands 4′s Super Jump Glitch Is Wild And Won’t Be Fixed…For Now</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-09-22 21:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K49TX8MZE2445K0S9TE99N7B/hero-image.png" alt="This Onn 10.1&quot; Android 14 Tablet Is on Sale for Just $80 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/onn-101-android-tablet-stacksocial-sale?utm_medium=RSS" target="_blank">This Onn 10.1&quot; Android 14 Tablet Is on Sale for Just $80 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-22 21:00</span>
             </div>
         </div>
 <div class="story">
@@ -273,24 +293,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/how-to-watch-pornhub-even-if-its-blocked-in-your-state?utm_medium=RSS" target="_blank">How to Watch Pornhub Even If It&#x27;s Blocked In Your State</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-22 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/jkimmel.jpg" alt="Jimmy Kimmel Live! Is Back Following Disney Boycott" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/disney-announces-jimmy-kimmel-return-tuesday-boycott-back-abc-not-canceled-2000627662" target="_blank">Jimmy Kimmel Live! Is Back Following Disney Boycott</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-22 19:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01J0KH73FARMPATK73Z5335B2G/hero-image.jpg" alt="How to Sign Up for ‘Invite-Only’ Deals During October Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/how-to-sign-up-for-prime-day-2025-invite-only-deals?utm_medium=RSS" target="_blank">How to Sign Up for ‘Invite-Only’ Deals During October Prime Day</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-22 19:00</span>
             </div>
         </div>
 </div>
@@ -339,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 40 | 📸 With Images: 265 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
