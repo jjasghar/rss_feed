@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-22 17:01:33 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-22 18:02:29 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Monday, September 22, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Monday, September 22, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb0a/live/dbb203b0-97ca-11f0-a0d1-0b63643409eb.jpg" alt="Clashes break out as Italians strike demanding action over Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1jz8rdypw4o?at_medium=RSS&at_campaign=rss" target="_blank">Clashes break out as Italians strike demanding action over Gaza</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-22 17:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7083/live/48788640-97ad-11f0-a98f-a5aede2eafbc.jpg" alt="Sarah Ferguson dropped from multiple charities over Epstein email" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -68,6 +73,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/22/pakistan-vs-sri-lanka-asia-cup-match-time-super-fours-table-teams?traffic_source=rss" target="_blank">Pakistan vs Sri Lanka – Asia Cup: Match time, Super Fours table, teams</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-22 16:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/22/us-targets-brazilian-justices-wife-with-sanctions-will-revoke-more-visas?traffic_source=rss" target="_blank">US targets Brazilian justice’s wife with sanctions; will revoke more visas</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-22 15:49</span>
@@ -82,29 +96,20 @@
                 <span class="time">2025-09-22 14:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/uk-news/2025/sep/22/disabled-nigerian-anthony-olubunmi-george-wins-appeal-deportation" target="_blank">Disabled Nigerian man living in UK for 38 years wins appeal against deportation</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-09-22 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/22/hardline-lawmakers-demand-nuclear-bomb-as-iran-braces-for-un-sanctions?traffic_source=rss" target="_blank">Hardline lawmakers demand nuclear bomb as Iran braces for UN sanctions</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-22 13:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68cc48361c8be691cd113d04/master/pass/Uncanny-Valley-Story-Roundup-2234086021.jpg" alt="WIRED Roundup: The Right Embraces Cancel Culture" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/uncanny-valley-podcast-wired-roundup-the-right-embraces-cancel-culture/" target="_blank">WIRED Roundup: The Right Embraces Cancel Culture</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-22 17:14</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2220744156-500x500.jpg" alt="Three crashes in the first day? Tesla’s robotaxi test in Austin." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -150,20 +155,38 @@
                 <span class="time">2025-09-22 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d0b6f3881e3229d0ad68d4/master/pass/What%20Type%20of%20Cat%20Litter%20Should%20You%20Use_.png" alt="The Best Cat Litter Depends on Your Cat and Type of Litter Box" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/what-type-of-cat-litter-should-you-use/" target="_blank">The Best Cat Litter Depends on Your Cat and Type of Litter Box</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-22 12:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kathryngrayson/progress-team-update-kendoreact-challenge-and-nuclia-trial-issues-3540" target="_blank">Progress Team Update: KendoReact Challenge and Nuclia Trial Issues</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-22 17:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/raspberry-pi-m2-hat-compact.jpg?resize=406%2C232&amp;ssl=1" alt="Raspberry Pi’s New M.2 HAT+ Compact is an SSD Space Saver" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/raspberry-pi-cheap-and-compact-ssd-hat" target="_blank">Raspberry Pi’s New M.2 HAT+ Compact is an SSD Space Saver</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-22 17:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18638250&w=600" alt="How to Build Secure Knowledge Base Integrations for AI Agents" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/building-secure-knowledge-base-integrations-ai" target="_blank">How to Build Secure Knowledge Base Integrations for AI Agents</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-22 17:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -174,48 +197,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://openai.com/index/openai-nvidia-systems-partnership/" target="_blank">OpenAI and Nvidia announce partnership to deploy 10GW of Nvidia systems</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-22 16:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18638234&w=600" alt="Integrating AI Into Test Automation Frameworks With the ChatGPT API" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/ai-test-automation-frameworks-chatgpt-api" target="_blank">Integrating AI Into Test Automation Frameworks With the ChatGPT API</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-09-22 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/RPM-6.0-Released" target="_blank">RPM 6.0 Released With OpenPGP Improvements &amp; Enforces Signature Checking By Default</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-22 15:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.cloudflare.com/cloudflare-2025-annual-founders-letter/" target="_blank">Cloudflare: A New Internet Business Model</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-22 15:14</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors" target="_blank">Dear GitHub: no YAML anchors, please</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-22 14:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/amd-rocm-7-strix-halo" target="_blank">AMD Ryzen AI Max+ &quot;Strix Halo&quot; Performance With ROCm 7.0</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-22 14:30</span>
             </div>
         </div>
 </div>
@@ -237,6 +233,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/GSG99RfmbU7tW50E.jpg" alt="Nobody Told Me One Of The Biggest Games On The Planet Is Super Horny" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/love-and-deepspace-zayne-edge-of-continuum-sex-scene-2000627623" target="_blank">Nobody Told Me One Of The Biggest Games On The Planet Is Super Horny</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-22 17:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/pope-a-duncan.jpg?fit=1200%2C870&amp;quality=60&amp;ssl=1" alt="College presidents&#x27; names reveal historical power structures" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/22/college-presidents-names-reveal-historical-power-structures.html" target="_blank">College presidents&#x27; names reveal historical power structures</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-22 17:18</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/rain.jpg" alt="One My Favorite Games Of 2025 Is Being Ruined By Super Rain" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,24 +287,6 @@
                 <span class="time">2025-09-22 15:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/john-oliver.jpg?fit=1200%2C691&amp;quality=60&amp;ssl=1" alt="&quot;Make me&quot; — Oliver challenges media to resist government censorship" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/22/make-me-oliver-challenges-media-to-resist-government-censorship.html" target="_blank">&quot;Make me&quot; — Oliver challenges media to resist government censorship</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-22 15:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/cmfmtxeqh4sda07o5ju4t6kcf.jpg" alt="Fortnite Reveals Daft Punk Event, Bluntly States The Duo Is Not Getting Back Together" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/fortnite-reveals-daft-punk-event-no-new-music-getting-back-together-lego-dates-2000627563" target="_blank">Fortnite Reveals Daft Punk Event, Bluntly States The Duo Is Not Getting Back Together</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-22 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
