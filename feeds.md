@@ -1,31 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-09-22 08:02:32 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-22 09:02:18 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 2 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, September 22, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, September 22, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/22/more-than-200-arrested-after-anticorruption-protests-in-philippines?traffic_source=rss" target="_blank">More than 200 arrested after anticorruption protests in Philippines</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-22 08:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db03/live/1d62c830-977b-11f0-84c8-99de564f0440.jpg" alt="UK warns Israel not to retaliate against Palestinian statehood push" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,15 +93,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/22/north-koreas-kim-says-open-to-us-talks-if-denuclearisation-demands-dropped?traffic_source=rss" target="_blank">North Korea’s Kim says open to US talks if denuclearisation demands dropped</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-22 02:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/kirk-28-gty-gmh-250921_1758480002604_hpMain_4x3t_384.jpg" alt="Key takeaways from Charlie Kirk&#x27;s memorial service" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/key-takeaways-charlie-kirks-memorial-service/story?id=125802466" target="_blank">Key takeaways from Charlie Kirk&#x27;s memorial service</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-22 01:15</span>
             </div>
         </div>
 </div>
@@ -163,6 +163,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jyoti_eb2834cf419b8c283b3/beyond-the-brand-name-what-we-really-mean-when-we-talk-about-laser-printers-2pk7" target="_blank">Beyond the Brand Name: What We Really Mean When We Talk About Laser Printers</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-22 08:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/wycliffealphus/100-days-of-devops-day-50-3dpk" target="_blank">100 Days of DevOps: Day 50</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-22 06:51</span>
@@ -202,15 +211,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/pinta-3-1-beta-available-for-testing" target="_blank">Pinta 3.1 Beta Adds New Features, Effects &amp; Options</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-09-21 22:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5h1qngd1cqic7wbjdepc.jpg" alt="Desto: A Web Dashboard for Long-Running Background Processes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kalfasyan/desto-a-web-dashboard-for-long-running-background-processes-4lf2" target="_blank">Desto: A Web Dashboard for Long-Running Background Processes</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-21 22:54</span>
             </div>
         </div>
 </div>
@@ -300,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
