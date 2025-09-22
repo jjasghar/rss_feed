@@ -1,38 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-22 11:01:48 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-09-22 12:02:44 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Monday, September 22, 2025 - 11:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Monday, September 22, 2025 - 12:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/22/g-s1-89908/up-first-newsletter-charlie-kirk-memorial-pam-bondi-trump-palestinian-state" target="_blank">Trump speaks at Kirk memorial. And, several world leaders recognize Palestinian state</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-22 11:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +97,29 @@
                 <span class="time">2025-09-22 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/22/more-than-200-arrested-after-anticorruption-protests-in-philippines?traffic_source=rss" target="_blank">More than 200 arrested after anticorruption protests in Philippines</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-22 08:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68d0b6f3881e3229d0ad68d4/master/pass/What%20Type%20of%20Cat%20Litter%20Should%20You%20Use_.png" alt="The Best Cat Litter Depends on Your Cat and Type of Litter Box" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/what-type-of-cat-litter-should-you-use/" target="_blank">The Best Cat Litter Depends on Your Cat and Type of Litter Box</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-22 12:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/771798/fall-desk-upgrades" target="_blank">The best fall desk upgrades</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-22 12:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +156,20 @@
                 <span class="time">2025-09-22 06:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/21/powered-by-indias-small-businesses-uk-fintech-tide-becomes-a-tpg-backed-unicorn/" target="_blank">Powered by India’s small businesses, UK fintech Tide becomes a TPG-backed unicorn</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-22 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" alt="Canon Promo Codes: 10% Off | September 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/canon-promo-code/" target="_blank">Canon Promo Codes: 10% Off | September 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-22 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/configuring-polybar-linux/" target="_blank">How I Configure Polybar to Customize My Linux Desktop</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-09-22 11:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -209,15 +213,6 @@
                 <span class="title"><a href="https://dev.to/jyoti_eb2834cf419b8c283b3/beyond-the-brand-name-what-we-really-mean-when-we-talk-about-laser-printers-2pk7" target="_blank">Beyond the Brand Name: What We Really Mean When We Talk About Laser Printers</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-22 08:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/wycliffealphus/100-days-of-devops-day-50-3dpk" target="_blank">100 Days of DevOps: Day 50</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-22 06:51</span>
             </div>
         </div>
 </div>
@@ -307,8 +302,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 92 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 12:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
