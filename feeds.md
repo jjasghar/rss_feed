@@ -1,32 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-22 18:02:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-22 19:01:34 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 24 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Monday, September 22, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Monday, September 22, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/22/global-reactions-to-palestinian-state-recognition?traffic_source=rss" target="_blank">Global reactions to Palestinian state recognition</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-22 18:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/22/nx-s1-5550033/fall-leaves-peak-map-2025" target="_blank">Climate change is delaying peak fall foliage. Here&#x27;s what to expect this year</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-22 18:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb0a/live/dbb203b0-97ca-11f0-a0d1-0b63643409eb.jpg" alt="Clashes break out as Italians strike demanding action over Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -78,29 +102,38 @@
                 <span class="time">2025-09-22 16:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/22/us-targets-brazilian-justices-wife-with-sanctions-will-revoke-more-visas?traffic_source=rss" target="_blank">US targets Brazilian justice’s wife with sanctions; will revoke more visas</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-22 15:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-5-ap-gmh-250921_1758464196426_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump to make &#x27;historic&#x27; autism announcement" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=125807330" target="_blank">Trump admin live updates: Trump to make &#x27;historic&#x27; autism announcement</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-22 14:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/22/elad-gil-one-of-techs-sharpest-minds-on-early-bets-breakout-growth-and-whats-coming-next-at-techcrunch-disrupt-2025/" target="_blank">Inside the mind of Elad Gil: Early-stage investing and next-gen innovation at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-22 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/782893/meta-facebook-dating-ai-chatbot-meet-cute-swipe-fatigue" target="_blank">Facebook Dating tries using AI to end ‘swipe fatigue’</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-22 18:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2233024483-500x500.jpg" alt="Anti-vaccine groups melt down over reports RFK Jr. to link autism to Tylenol" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/09/anti-vaccine-groups-melt-down-over-reports-rfk-jr-to-link-autism-to-tylenol/" target="_blank">Anti-vaccine groups melt down over reports RFK Jr. to link autism to Tylenol</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-22 18:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68cc48361c8be691cd113d04/master/pass/Uncanny-Valley-Story-Roundup-2234086021.jpg" alt="WIRED Roundup: The Right Embraces Cancel Culture" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -128,38 +161,20 @@
                 <span class="time">2025-09-22 14:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2236547758-500x500.jpg" alt="F1 in Azerbaijan: This sport is my red flag" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/cars/2025/09/f1-in-azerbaijan-this-sport-is-my-red-flag/" target="_blank">F1 in Azerbaijan: This sport is my red flag</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-22 14:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/781331/hank-green-sam-reich-dropout-collegehumor-game-changer" target="_blank">Dropout’s Sam Reich on business, comedy, and keeping the internet weird</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-22 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/22/5-days-left-to-save-up-to-668-on-your-techcrunch-disrupt-2025-pass-dont-pay-more-for-the-same-seat/" target="_blank">5 days left to save up to $668 on your TechCrunch Disrupt 2025 pass</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-22 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/gartner-positions-github-as-a-leader-in-the-2025-magic-quadrant-for-ai-code-assistants-for-the-second-year-in-a-row/" target="_blank">Gartner positions GitHub as a Leader in the 2025 Magic Quadrant for AI Code Assistants for the second year in a row</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-09-22 18:24</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +220,6 @@
                 <span class="time">2025-09-22 16:10</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18638234&w=600" alt="Integrating AI Into Test Automation Frameworks With the ChatGPT API" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-test-automation-frameworks-chatgpt-api" target="_blank">Integrating AI Into Test Automation Frameworks With the ChatGPT API</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-22 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/3_2db679a1-c884-4bf3-8a21-31a11b.jpg" alt="Someone Please Stop This Flood Of Horrifying ‘Sexy’ AI Christmas Ornament Ads On TikTok" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/tiktok-grinch-christmas-ornament-disney-belle-mickey-2000627636" target="_blank">Someone Please Stop This Flood Of Horrifying ‘Sexy’ AI Christmas Ornament Ads On TikTok</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-22 18:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Apple-Iphone-17-Series-Air-47.jpg" alt="Why the iPhone Air and iPhone 17 Pros Are Scratching Alarmingly Fast" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/iphone-17-pro-scratching-easily-2000662168" target="_blank">Why the iPhone Air and iPhone 17 Pros Are Scratching Alarmingly Fast</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-22 18:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/GSG99RfmbU7tW50E.jpg" alt="Nobody Told Me One Of The Biggest Games On The Planet Is Super Horny" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +293,6 @@
                 <span class="time">2025-09-22 16:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/starship-HLS.jpg" alt="SpaceX’s Starship Lunar Lander Could Be ‘Years Late,’ NASA Safety Panel Warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/spacexs-starship-lunar-lander-could-be-years-late-nasa-safety-panel-warns-2000662122" target="_blank">SpaceX’s Starship Lunar Lander Could Be ‘Years Late,’ NASA Safety Panel Warns</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-22 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/Anker-MagSafe-Charger-Compatible-MagGo-3-in-1-Charging-Station.jpg" alt="Anker MagGo 3-in-1 Charging Station Hits All-Time Low, Charge AirPods Pro 3, iPhone 17, and Apple Watches at Once" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/anker-maggo-3-in-1-charging-station-hits-all-time-low-charge-airpods-pro-3-iphone-17-and-apple-watches-at-once-2000627300" target="_blank">Anker MagGo 3-in-1 Charging Station Hits All-Time Low, Charge AirPods Pro 3, iPhone 17, and Apple Watches at Once</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-22 15:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 110 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
