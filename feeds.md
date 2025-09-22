@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-21 23:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-22 00:04:52 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 1 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Sunday, September 21, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Monday, September 22, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-32-rt-gmh-250921_1758496691576_hpMain_4x3t_384.jpg" alt="Charlie Kirk memorial updates: &#x27;I forgive him,&#x27; Erika Kirk says of alleged shooter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/live-updates/charlie-kirk-memorial-updates-tens-thousands-mourners-expected/?id=125781004" target="_blank">Charlie Kirk memorial updates: &#x27;I forgive him,&#x27; Erika Kirk says of alleged shooter</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-21 23:58</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/VANCE-4ozezx.jpg" alt="Vance says Kirk did not suffer ‘the worst fate’" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,15 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/21/india-beat-pakistan-by-six-wickets-in-asia-cup-super-fours?traffic_source=rss" target="_blank">India beat Pakistan by six wickets in Asia Cup Super Fours</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-21 19:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/21/arsenal-snatch-1-1-draw-with-manchester-city-with-late-martinelli-goal?traffic_source=rss" target="_blank">Arsenal snatch 1-1 draw with Manchester City with late Martinelli goal</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-21 18:14</span>
             </div>
         </div>
 </div>
@@ -294,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 41 | 📸 With Images: 264 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
