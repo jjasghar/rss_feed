@@ -1,31 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-09-22 09:02:18 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-22 10:02:09 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, September 22, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Monday, September 22, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2025/9/22/i-love-life-the-man-who-has-scheduled-his-death-so-he-can-enjoy-living?traffic_source=rss" target="_blank">‘I love life’: The man who has scheduled his death so he can enjoy living</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-22 09:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/22/nx-s1-5549402/charlie-kirk-evangelical-christian-worship-martyr" target="_blank">The evangelical Christian faith on display at Kirk&#x27;s memorial shaped his politics</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-22 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,24 +103,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/true-crime-reports/2025/9/22/kenyas-wildlife-murder-mystery-true-crime-reports?traffic_source=rss" target="_blank">Kenya’s Wildlife Murder Mystery | True Crime Reports</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-22 05:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/22/trumps-pentagondemandsmedia-agree-not-to-reveal-unauthorised-material?traffic_source=rss" target="_blank">Trump’s Pentagon demands media agree not to reveal ‘unauthorised’ material</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-22 03:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/22/north-koreas-kim-says-open-to-us-talks-if-denuclearisation-demands-dropped?traffic_source=rss" target="_blank">North Korea’s Kim says open to US talks if denuclearisation demands dropped</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-22 02:07</span>
             </div>
         </div>
 </div>
@@ -160,6 +170,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/09/architect-certification-program/en/headerimage/architect-certification-program-1758262948995.jpg" alt="InfoQ Expands Architect Certification with Five-Week Online Cohort Program" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/architect-certification-program/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">InfoQ Expands Architect Certification with Five-Week Online Cohort Program</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-22 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Raspberry-Pi-M2-HAT-Compact" target="_blank">Raspberry Pi Releases M.2 HAT+ Compact For $15</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-22 09:52</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -193,24 +221,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/09/spring-news-roundup-sep15-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Spring News Roundup: Third Milestone Releases of Boot, Security, GraphQL, Integration, Modulith</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-09-22 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmwbb8wkfn9blazgf4nkm.png" alt="Enforce Module Imports in FSD (using eslint-plugin-import)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/vavilov2212/enforce-module-imports-in-fsd-using-eslint-plugin-import-2d72" target="_blank">Enforce Module Imports in FSD (using eslint-plugin-import)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-22 02:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/pinta-3.1-beta.jpg?resize=406%2C232&amp;ssl=1" alt="Pinta 3.1 Beta Adds New Features, Effects &amp; Options" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/pinta-3-1-beta-available-for-testing" target="_blank">Pinta 3.1 Beta Adds New Features, Effects &amp; Options</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-21 22:57</span>
             </div>
         </div>
 </div>
@@ -300,8 +310,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 86 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 89 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
