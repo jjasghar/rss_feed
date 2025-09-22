@@ -1,38 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-09-22 19:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-22 20:01:41 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 9 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, September 22, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Monday, September 22, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/22/nx-s1-5550307/supreme-court-ftc-firing" target="_blank">Supreme Court allows Trump to fire -- for now -- remaining Democrat on FTC</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-22 19:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/22/france-recognises-palestinian-state-ahead-of-the-unga-meeting?traffic_source=rss" target="_blank">France recognises Palestinian state ahead of the UNGA meeting</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-22 19:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,29 +105,20 @@
                 <span class="time">2025-09-22 16:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/22/nx-s1-5550152/tiktok-deal-joint-venture" target="_blank">Deal for TikTok creates U.S. joint venture, and government won&#x27;t have a stake</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-22 16:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/22/pakistan-vs-sri-lanka-asia-cup-match-time-super-fours-table-teams?traffic_source=rss" target="_blank">Pakistan vs Sri Lanka – Asia Cup: Match time, Super Fours table, teams</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-22 16:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/22/from-idea-to-first-check-raising-pre-seed-and-seed-capital-at-techcrunch-disrupt-2025/" target="_blank">What Early-Stage Investors Really Look for in Founders at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-22 19:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +164,20 @@
                 <span class="time">2025-09-22 16:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d10cb8881e3229d0ad68d6/master/pass/GettyImages-1266429167.jpg" alt="$3,800 Flights and Aborted Takeoffs: How Trump’s H-1B Announcement Panicked Tech Workers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/dollar3800-flights-and-aborted-takeoffs-how-trumps-h-1b-announcement-panicked-tech-workers/" target="_blank">$3,800 Flights and Aborted Takeoffs: How Trump’s H-1B Announcement Panicked Tech Workers</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-22 14:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/09/gpt-5-codex/en/headerimage/GettyImages-832282452-1758520834924.jpeg" alt="OpenAI Releases GPT-5-Codex Optimized for Complex Code Refactoring and Code Reviews" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/gpt-5-codex/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI Releases GPT-5-Codex Optimized for Complex Code Refactoring and Code Reviews</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-22 18:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -185,6 +197,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/QwenLM/Qwen3-Omni" target="_blank">Qwen3-Omni: Native Omni AI model for text, image and video</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-22 17:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/raspberry-pi-m2-hat-compact.jpg?resize=406%2C232&amp;ssl=1" alt="Raspberry Pi’s New M.2 HAT+ Compact is an SSD Space Saver" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -200,24 +221,6 @@
                 <span class="title"><a href="https://dzone.com/articles/building-secure-knowledge-base-integrations-ai" target="_blank">How to Build Secure Knowledge Base Integrations for AI Agents</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-09-22 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/open-source/whats-next-for-git-20-years-in-the-community-is-still-pushing-forward/" target="_blank">What’s next for Git? 20 years in, the community is still pushing forward</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-09-22 16:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://openai.com/index/openai-nvidia-systems-partnership/" target="_blank">OpenAI and Nvidia announce partnership to deploy 10GW of Nvidia systems</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-22 16:10</span>
             </div>
         </div>
 </div>
@@ -239,6 +242,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/jkimmel.jpg" alt="Jimmy Kimmel Live! Is Back Following Disney Boycott" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/disney-announces-jimmy-kimmel-return-tuesday-boycott-back-abc-not-canceled-2000627662" target="_blank">Jimmy Kimmel Live! Is Back Following Disney Boycott</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-22 19:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01J0KH73FARMPATK73Z5335B2G/hero-image.jpg" alt="How to Sign Up for ‘Invite-Only’ Deals During October Prime Day" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/how-to-sign-up-for-prime-day-2025-invite-only-deals?utm_medium=RSS" target="_blank">How to Sign Up for ‘Invite-Only’ Deals During October Prime Day</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-22 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/3_2db679a1-c884-4bf3-8a21-31a11b.jpg" alt="Someone Please Stop This Flood Of Horrifying ‘Sexy’ AI Christmas Ornament Ads On TikTok" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -275,24 +296,6 @@
                 <span class="time">2025-09-22 17:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/rain.jpg" alt="One My Favorite Games Of 2025 Is Being Ruined By Super Rain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/dying-light-the-beast-indoor-rain-weather-bug-fix-techland-pc-steam-2000627597" target="_blank">One My Favorite Games Of 2025 Is Being Ruined By Super Rain</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-22 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/07/Predator-Badlands-backpack.jpg" alt="‘Predator: Badlands’ Wants to be a Relationship Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/predator-badlands-dan-trachtenberg-relationship-movie-2000662159" target="_blank">‘Predator: Badlands’ Wants to be a Relationship Story</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-22 16:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -321,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 116 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 121 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
