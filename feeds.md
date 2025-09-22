@@ -1,29 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-22 04:02:35 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2025-09-22 05:01:36 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 20 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 1 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Monday, September 22, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, September 22, 2025 - 05:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/22/trumps-pentagondemandsmedia-agree-not-to-reveal-unauthorised-material?traffic_source=rss" target="_blank">Trump’s Pentagon demands media agree not to reveal ‘unauthorised’ material</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-22 03:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,15 +95,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/22/russia-ukraine-war-list-of-key-events-day-1306?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,306</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-22 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-32-rt-gmh-250921_1758496691576_hpMain_4x3t_384.jpg" alt="Charlie Kirk memorial updates: &#x27;I forgive him,&#x27; Erika Kirk says of alleged shooter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/live-updates/charlie-kirk-memorial-updates-tens-thousands-mourners-expected/?id=125781004" target="_blank">Charlie Kirk memorial updates: &#x27;I forgive him,&#x27; Erika Kirk says of alleged shooter</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-21 23:58</span>
             </div>
         </div>
 </div>
@@ -289,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 05:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
