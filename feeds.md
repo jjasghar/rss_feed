@@ -1,36 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-22 14:02:10 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-22 15:02:26 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, September 22, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Monday, September 22, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-5-ap-gmh-250921_1758464196426_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Trump to make &#x27;historic&#x27; autism announcement" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=125807330" target="_blank">Trump admin live updates: Trump to make &#x27;historic&#x27; autism announcement</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-22 14:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/uk-news/2025/sep/22/disabled-nigerian-anthony-olubunmi-george-wins-appeal-deportation" target="_blank">Disabled Nigerian man living in UK for 38 years wins appeal against deportation</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-09-22 14:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,29 +103,29 @@
                 <span class="time">2025-09-22 11:08</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/22/does-uss-communications-agency-have-power-to-regulate-kimmels-speech?traffic_source=rss" target="_blank">Does US’s communications agency have power to regulate Kimmel’s speech?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-22 10:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/22/mass-grave-reveals-scale-of-unlawful-killings-by-egyptian-army-in-sinai-say-campaigners" target="_blank">Mass grave reveals scale of unlawful killings by Egyptian army in Sinai, say campaigners</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-09-22 10:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68d10cb8881e3229d0ad68d6/master/pass/GettyImages-1266429167.jpg" alt="$3,800 Flights and Aborted Takeoffs: How Trump’s H-1B Announcement Panicked Tech Workers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/dollar3800-flights-and-aborted-takeoffs-how-trumps-h-1b-announcement-panicked-tech-workers/" target="_blank">$3,800 Flights and Aborted Takeoffs: How Trump’s H-1B Announcement Panicked Tech Workers</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-22 14:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2236547758-500x500.jpg" alt="F1 in Azerbaijan: This sport is my red flag" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/09/f1-in-azerbaijan-this-sport-is-my-red-flag/" target="_blank">F1 in Azerbaijan: This sport is my red flag</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-22 14:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,29 +162,38 @@
                 <span class="time">2025-09-22 12:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/22/commonwealth-fusion-systems-books-a-1b-power-deal-for-its-future-fusion-reactor/" target="_blank">Commonwealth Fusion Systems books a $1B+ power deal for its future fusion reactor</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-22 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/682fba5f57556e17fa714325/master/pass/These%20Are%20the%20Best%20Sheets%20to%20Catch%20Some%20Z%E2%80%99s_.png" alt="Best Sheets for Every Bed and Budget (2025): Cotton, Linen, Bamboo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/best-bedsheets/" target="_blank">Best Sheets for Every Bed and Budget (2025): Cotton, Linen, Bamboo</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-22 10:38</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.yossarian.net/2025/09/22/dear-github-no-yaml-anchors" target="_blank">Dear GitHub: no YAML anchors, please</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-22 14:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/amd-rocm-7-strix-halo" target="_blank">AMD Ryzen AI Max+ &quot;Strix Halo&quot; Performance With ROCm 7.0</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-22 14:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/09/datadog-monocle-timeseries-db/en/headerimage/generatedHeaderImage-1757805321585.jpg" alt="Datadog Launches Monocle, a Unified Rust-Powered Real-Time Metrics Engine" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/datadog-monocle-timeseries-db/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Datadog Launches Monocle, a Unified Rust-Powered Real-Time Metrics Engine</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-22 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18637239&w=600" alt="Stop Reactive Network Troubleshooting: Monitor These 5 Metrics to Prevent Downtime" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -191,33 +221,6 @@
                 <span class="time">2025-09-22 12:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/replit-agent-3/en/headerimage/generatedHeaderImage-1758376374612.jpg" alt="Replit Introduces Agent 3 for Extended Autonomous Coding and Automation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/replit-agent-3/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Replit Introduces Agent 3 for Extended Autonomous Coding and Automation</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-22 11:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/configuring-polybar-linux/" target="_blank">How I Configure Polybar to Customize My Linux Desktop</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-09-22 11:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hielotubo_tec/el-panel-de-control-de-la-maquina-de-hielo-tubular-tiene-muchas-funciones-2nc0" target="_blank">¿El panel de control de la máquina de hielo tubular tiene muchas funciones?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-22 10:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +240,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/cmfmtxeqh4sda07o5ju4t6kcf.jpg" alt="Fortnite Reveals Daft Punk Event, Bluntly States The Duo Is Not Getting Back Together" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/fortnite-reveals-daft-punk-event-no-new-music-getting-back-together-lego-dates-2000627563" target="_blank">Fortnite Reveals Daft Punk Event, Bluntly States The Duo Is Not Getting Back Together</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-22 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K5HZDG95W9Q3BMC7M56TYD4A/hero-image.png" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: Who Is D4vd?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -282,15 +294,6 @@
                 <span class="time">2025-09-22 10:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/MAIN-3.jpg" alt="Silent Hill f: The Kotaku Review" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/silent-hill-f-review-horror-konami-hinako-ryukishi07-2000627505" target="_blank">Silent Hill f: The Kotaku Review</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-22 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 100 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 104 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
