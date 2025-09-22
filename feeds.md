@@ -1,33 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-22 12:02:44 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-09-22 13:09:29 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Monday, September 22, 2025 - 12:03 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Monday, September 22, 2025 - 13:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb56/live/e9a18490-9780-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Trump hails Charlie Kirk as martyr to thousands at memorial service" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckgee0x9p40o?at_medium=RSS&at_campaign=rss" target="_blank">Trump hails Charlie Kirk as martyr to thousands at memorial service</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-22 11:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -64,6 +77,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/22/mass-grave-reveals-scale-of-unlawful-killings-by-egyptian-army-in-sinai-say-campaigners" target="_blank">Mass grave reveals scale of unlawful killings by Egyptian army in Sinai, say campaigners</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-09-22 10:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/09/22/nx-s1-5549984/talks-north-korea-denuclearization" target="_blank">North Korea&#x27;s Kim Jong Un ready to talk if U.S. drops denuclearization demand</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -77,24 +99,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/trump-heads-general-assembly-future-palestine-gaza-dominate/story?id=125790695" target="_blank">Trump heads to UN as future of Palestinian state and Gaza likely to dominate</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-22 09:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2025/9/22/i-love-life-the-man-who-has-scheduled-his-death-so-he-can-enjoy-living?traffic_source=rss" target="_blank">‘I love life’: The man who has scheduled his death so he can enjoy living</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-22 09:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/22/nx-s1-5549402/charlie-kirk-evangelical-christian-worship-martyr" target="_blank">The evangelical Christian faith on display at Kirk&#x27;s memorial shaped his politics</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-22 09:00</span>
             </div>
         </div>
 </div>
@@ -162,6 +166,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/09/replit-agent-3/en/headerimage/generatedHeaderImage-1758376374612.jpg" alt="Replit Introduces Agent 3 for Extended Autonomous Coding and Automation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/replit-agent-3/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Replit Introduces Agent 3 for Extended Autonomous Coding and Automation</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-22 11:45</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
@@ -177,6 +190,15 @@
                 <span class="title"><a href="https://dev.to/hielotubo_tec/el-panel-de-control-de-la-maquina-de-hielo-tubular-tiene-muchas-funciones-2nc0" target="_blank">¿El panel de control de la máquina de hielo tubular tiene muchas funciones?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-22 10:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.oaic.gov.au/news/media-centre/18-kmarts-use-of-facial-recognition-to-tackle-refund-fraud-unlawful,-privacy-commissioner-finds" target="_blank">Kmart&#x27;s use of facial recognition to tackle refund fraud unlawful</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-22 10:20</span>
             </div>
         </div>
 <div class="story">
@@ -197,22 +219,18 @@
                 <span class="time">2025-09-22 09:52</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://hostvix.com/linkedin-will-soon-train-ai-models-with-data-from-european-users/" target="_blank">LinkedIn will soon train AI models with data from European users</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-22 09:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jyoti_eb2834cf419b8c283b3/beyond-the-brand-name-what-we-really-mean-when-we-talk-about-laser-printers-2pk7" target="_blank">Beyond the Brand Name: What We Really Mean When We Talk About Laser Printers</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-22 08:49</span>
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/details-about-chinese-surveillance-and-propaganda-companies.html" target="_blank">Details About Chinese Surveillance and Propaganda Companies</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-09-22 11:03</span>
             </div>
         </div>
 </div>
@@ -220,6 +238,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K1Z04R754A6NZ21TN2NZ5KSF/hero-image.png" alt="This Samsung 4K OLED TV Is at Its Lowest Price Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/samsung-65-inch-s90d-4k-oled-tv-sale?utm_medium=RSS" target="_blank">This Samsung 4K OLED TV Is at Its Lowest Price Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-22 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Main-1920x1280-1.jpg" alt="The Winners of the 2025 Gizmodo Science Fair" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-winners-of-the-2025-gizmodo-science-fair-2000652743" target="_blank">The Winners of the 2025 Gizmodo Science Fair</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-22 12:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/jpg-2.jpg?fit=1080%2C783&amp;quality=60&amp;ssl=1" alt="Footage debunks claim that Starbucks worker wrote &quot;Loser&quot; on Charlie Kirk order" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/22/footage-debunks-claim-that-starbucks-worker-wrote-loser-on-charlie-kirk-order.html" target="_blank">Footage debunks claim that Starbucks worker wrote &quot;Loser&quot; on Charlie Kirk order</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-22 11:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/hbyz6k.png?fit=794%2C714&amp;quality=55&amp;ssl=1" alt="40-year-old arcade game OutRun ported to 27-year-old Game Boy Color" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -245,33 +290,6 @@
                 <span class="title"><a href="https://kotaku.com/amazon-wants-you-to-ditch-your-old-laptop-and-upgrade-to-the-new-macbook-air-at-a-record-low-2000627500" target="_blank">Amazon Wants You to Ditch Your Old Laptop and Upgrade to the New MacBook Air at a Record Low</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-09-21 21:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Apple-MacBook-Air-13.3-3.jpg?fit=1200%2C901&amp;quality=60&amp;ssl=1" alt="Snag a MacBook Air for under $200 while supplies last" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/21/snag-a-macbook-air-for-under-200-while-supplies-last.html" target="_blank">Snag a MacBook Air for under $200 while supplies last</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-21 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2023/02/095e738dd3c65bc27b597b6986623740.jpg" alt="Trump Hints at the Murdochs Joining the TikTok Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trump-hints-at-the-murdochs-joining-the-tiktok-deal-2000661964" target="_blank">Trump Hints at the Murdochs Joining the TikTok Deal</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-21 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/woman-at-doctors-office.jpg" alt="AI Medical Tools Provide Worse Treatment for Women and Underrepresented Groups" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ai-medical-tools-provide-worse-treatment-for-women-and-underrepresented-groups-2000661945" target="_blank">AI Medical Tools Provide Worse Treatment for Women and Underrepresented Groups</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-21 19:00</span>
             </div>
         </div>
 </div>
@@ -302,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 94 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 12:03 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 13:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
