@@ -1,38 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-22 02:29:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-22 03:17:16 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Monday, September 22, 2025 - 02:30 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Monday, September 22, 2025 - 03:17 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -167,12 +166,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/09/spring-news-roundup-sep15-2025/en/headerimage/java-istock-image-01-1758459617744.jpg" alt="Spring News Roundup: Third Milestone Releases of Boot, Security, GraphQL, Integration, Modulith" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/spring-news-roundup-sep15-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Spring News Roundup: Third Milestone Releases of Boot, Security, GraphQL, Integration, Modulith</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-22 02:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmwbb8wkfn9blazgf4nkm.png" alt="Enforce Module Imports in FSD (using eslint-plugin-import)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/vavilov2212/enforce-module-imports-in-fsd-using-eslint-plugin-import-2d72" target="_blank">Enforce Module Imports in FSD (using eslint-plugin-import)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-22 02:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/pinta-3.1-beta.jpg?resize=406%2C232&amp;ssl=1" alt="Pinta 3.1 Beta Adds New Features, Effects &amp; Options" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/pinta-3-1-beta-available-for-testing" target="_blank">Pinta 3.1 Beta Adds New Features, Effects &amp; Options</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-21 22:57</span>
             </div>
         </div>
 <div class="story">
@@ -200,24 +217,6 @@
                 <span class="title"><a href="https://dev.to/writegenic/resourcing-plan-aligning-people-and-resources-for-project-success-1k9e" target="_blank">Resourcing Plan: Aligning People and Resources for Project Success</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-21 21:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjtsb169u437ig8s73bp9.png" alt="Big O Notation: Examples" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/talaamm/big-o-notation-examples-4ej" target="_blank">Big O Notation: Examples</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-21 20:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/matrixswarm/matrixos-v010-the-swarm-gets-its-operating-system-4ffk" target="_blank">MatrixOS v0.1.0: The Swarm Gets Its Operating System</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-21 19:56</span>
             </div>
         </div>
 </div>
@@ -298,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 02:30 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 03:17 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
