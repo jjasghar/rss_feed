@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-22 16:01:42 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-22 17:01:33 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 27 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Monday, September 22, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Monday, September 22, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7083/live/48788640-97ad-11f0-a98f-a5aede2eafbc.jpg" alt="Sarah Ferguson dropped from multiple charities over Epstein email" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cddmr6v0jpzo?at_medium=RSS&at_campaign=rss" target="_blank">Sarah Ferguson dropped from multiple charities over Epstein email</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-22 16:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/22/nx-s1-5550152/tiktok-deal-joint-venture" target="_blank">Deal for TikTok creates U.S. joint venture, and government won&#x27;t have a stake</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-22 16:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +100,20 @@
                 <span class="time">2025-09-22 13:34</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-alaa-abd-el-fattah_7028623.jpg?20250922154849" alt="Jailed British-Egyptian activist pardoned by Egypt&#x27;s president" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/british-egyptian-activist-alaa-abd-el-fattah-pardoned-13436268" target="_blank">Jailed British-Egyptian activist pardoned by Egypt&#x27;s president</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-22 12:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb56/live/e9a18490-9780-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Trump hails Charlie Kirk as martyr to thousands at memorial service" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ckgee0x9p40o?at_medium=RSS&at_campaign=rss" target="_blank">Trump hails Charlie Kirk as martyr to thousands at memorial service</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-22 11:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2220744156-500x500.jpg" alt="Three crashes in the first day? Tesla’s robotaxi test in Austin." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/cars/2025/09/teslas-robotaxi-test-three-crashes-in-only-7000-miles/" target="_blank">Three crashes in the first day? Tesla’s robotaxi test in Austin.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-22 16:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68d10cb8881e3229d0ad68d6/master/pass/GettyImages-1266429167.jpg" alt="$3,800 Flights and Aborted Takeoffs: How Trump’s H-1B Announcement Panicked Tech Workers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +159,29 @@
                 <span class="time">2025-09-22 12:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/771798/fall-desk-upgrades" target="_blank">The best fall desk upgrades</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-22 12:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/whats-next-for-git-20-years-in-the-community-is-still-pushing-forward/" target="_blank">What’s next for Git? 20 years in, the community is still pushing forward</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-09-22 16:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18638234&w=600" alt="Integrating AI Into Test Automation Frameworks With the ChatGPT API" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-test-automation-frameworks-chatgpt-api" target="_blank">Integrating AI Into Test Automation Frameworks With the ChatGPT API</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-22 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,24 +218,6 @@
                 <span class="time">2025-09-22 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/datadog-monocle-timeseries-db/en/headerimage/generatedHeaderImage-1757805321585.jpg" alt="Datadog Launches Monocle, a Unified Rust-Powered Real-Time Metrics Engine" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/datadog-monocle-timeseries-db/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Datadog Launches Monocle, a Unified Rust-Powered Real-Time Metrics Engine</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-22 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18637239&w=600" alt="Stop Reactive Network Troubleshooting: Monitor These 5 Metrics to Prevent Downtime" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/stop-reactive-network-troubleshooting" target="_blank">Stop Reactive Network Troubleshooting: Monitor These 5 Metrics to Prevent Downtime</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-22 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -237,6 +238,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/rain.jpg" alt="One My Favorite Games Of 2025 Is Being Ruined By Super Rain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/dying-light-the-beast-indoor-rain-weather-bug-fix-techland-pc-steam-2000627597" target="_blank">One My Favorite Games Of 2025 Is Being Ruined By Super Rain</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-22 16:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/07/Predator-Badlands-backpack.jpg" alt="‘Predator: Badlands’ Wants to be a Relationship Story" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/predator-badlands-dan-trachtenberg-relationship-movie-2000662159" target="_blank">‘Predator: Badlands’ Wants to be a Relationship Story</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-22 16:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/starship-HLS.jpg" alt="SpaceX’s Starship Lunar Lander Could Be ‘Years Late,’ NASA Safety Panel Warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -255,6 +274,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/john-oliver.jpg?fit=1200%2C691&amp;quality=60&amp;ssl=1" alt="&quot;Make me&quot; — Oliver challenges media to resist government censorship" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/22/make-me-oliver-challenges-media-to-resist-government-censorship.html" target="_blank">&quot;Make me&quot; — Oliver challenges media to resist government censorship</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-22 15:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/cmfmtxeqh4sda07o5ju4t6kcf.jpg" alt="Fortnite Reveals Daft Punk Event, Bluntly States The Duo Is Not Getting Back Together" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -263,38 +291,20 @@
                 <span class="time">2025-09-22 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K5HZDG95W9Q3BMC7M56TYD4A/hero-image.png" alt="The Out-of-Touch Adults&#x27; Guide to Kid Culture: Who Is D4vd?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/entertainment/current-trends-explained-d4vd?utm_medium=RSS" target="_blank">The Out-of-Touch Adults&#x27; Guide to Kid Culture: Who Is D4vd?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-22 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K1Z04R754A6NZ21TN2NZ5KSF/hero-image.png" alt="This Samsung 4K OLED TV Is at Its Lowest Price Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/samsung-65-inch-s90d-4k-oled-tv-sale?utm_medium=RSS" target="_blank">This Samsung 4K OLED TV Is at Its Lowest Price Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-22 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Main-1920x1280-1.jpg" alt="The Winners of the 2025 Gizmodo Science Fair" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-winners-of-the-2025-gizmodo-science-fair-2000652743" target="_blank">The Winners of the 2025 Gizmodo Science Fair</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-22 12:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1758236452-20250922.png" alt="Saturday Morning Breakfast Cereal - Treat" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/treat-2" target="_blank">Saturday Morning Breakfast Cereal - Treat</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-09-22 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -309,8 +319,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 102 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 107 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
