@@ -1,33 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-09-22 00:04:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-22 01:29:19 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Monday, September 22, 2025 - 00:05 UTC</div>
+    <div class="newspaper-date">Monday, September 22, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +38,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/kirk-28-gty-gmh-250921_1758480002604_hpMain_4x3t_384.jpg" alt="Key takeaways from Charlie Kirk&#x27;s memorial service" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/key-takeaways-charlie-kirks-memorial-service/story?id=125802466" target="_blank">Key takeaways from Charlie Kirk&#x27;s memorial service</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-22 01:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b17f/live/f8941430-974f-11f0-9cf6-cbf3e73ce2b9.jpg" alt="Trump hails Charlie Kirk as &#x27;American hero&#x27; as thousands fill memorial service" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ckgee0x9p40o?at_medium=RSS&at_campaign=rss" target="_blank">Trump hails Charlie Kirk as &#x27;American hero&#x27; as thousands fill memorial service</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-22 01:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/22/russia-ukraine-war-list-of-key-events-day-1306?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,306</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-22 00:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-trump-32-rt-gmh-250921_1758496691576_hpMain_4x3t_384.jpg" alt="Charlie Kirk memorial updates: &#x27;I forgive him,&#x27; Erika Kirk says of alleged shooter" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -68,33 +90,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/shorts/pete-hegseth-charlie-kirk-died-speaking-the-truth-248032837989" target="_blank">Pete Hegseth: Charlie Kirk died ‘speaking the truth’</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-09-21 21:41</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/tm-vert-luna-kbro0s.jpg" alt="Rep. Luna of Florida compares Kirk to JFK and MLK Jr." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/shorts/rep-luna-of-florida-compares-kirk-to-jfk-and-mlk-jr-248033861797" target="_blank">Rep. Luna of Florida compares Kirk to JFK and MLK Jr.</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-21 20:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/21/trump-says-lachlan-murdoch-part-of-proposed-tiktok-deal?traffic_source=rss" target="_blank">Trump says Lachlan Murdoch part of proposed TikTok deal</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-21 20:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/21/india-beat-pakistan-by-six-wickets-in-asia-cup-super-fours?traffic_source=rss" target="_blank">India beat Pakistan by six wickets in Asia Cup Super Fours</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-21 19:42</span>
             </div>
         </div>
 </div>
@@ -221,6 +216,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/macbook-air-2025-apple.jpg" alt="Amazon Wants You to Ditch Your Old Laptop and Upgrade to the New MacBook Air at a Record Low" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-wants-you-to-ditch-your-old-laptop-and-upgrade-to-the-new-macbook-air-at-a-record-low-2000627500" target="_blank">Amazon Wants You to Ditch Your Old Laptop and Upgrade to the New MacBook Air at a Record Low</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-21 21:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2023/02/095e738dd3c65bc27b597b6986623740.jpg" alt="Trump Hints at the Murdochs Joining the TikTok Deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -265,15 +269,6 @@
                 <span class="time">2025-09-21 14:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/airpods-pro-3.jpg" alt="Amazon Is Going All In, Selling the New AirPods Pro 3 Cheaper Than Apple" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazon-is-going-all-in-selling-the-new-airpods-pro-3-cheaper-than-apple-2000627489" target="_blank">Amazon Is Going All In, Selling the New AirPods Pro 3 Cheaper Than Apple</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-21 13:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -293,8 +288,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
