@@ -1,28 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-23 12:02:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-23 13:08:47 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 20 feeds processed -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, September 23, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Tuesday, September 23, 2025 - 13:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/23/trumps-h-1b-visa-fee-hike-which-countries-could-benefit?traffic_source=rss" target="_blank">Trump’s H-1B visa fee hike: Which countries could benefit?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-23 12:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758625720057_tdy_news_7a_haake_trump_general_assembly_250923_1920x1080-3pi3lx.jpg" alt="Trump to Address UNGA to Emphasize ‘America First Worldview’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-in-nyc-to-address-united-nations-general-assembly-248140869938" target="_blank">Trump to Address UNGA to Emphasize ‘America First Worldview’</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-23 11:08</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,29 +97,38 @@
                 <span class="time">2025-09-23 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/23/rescue-efforts-as-super-typhoon-hits-philippines-displacing-thousands?traffic_source=rss" target="_blank">Rescue efforts as super typhoon hits Philippines, displacing thousands</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-23 08:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/9/23/live-israel-intensifies-gaza-attacks-trump-to-meet-arab-muslim-leaders?traffic_source=rss" target="_blank">LIVE: Israel intensifies Gaza attacks, Trump to meet Arab, Muslim leaders</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-23 06:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/6878257d08a39480606bbdb5/master/pass/The%20Best%20MagSafe%20Wallets.png" alt="10 Best MagSafe Wallets (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-magsafe-wallets/" target="_blank">10 Best MagSafe Wallets (2025), Tested and Reviewed</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-23 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/782619/gopro-fluid-pro-ai-tracking-stabilized-gimbal-action-camera-hero-smartphone" target="_blank">GoPro’s new gimbal works with action cameras, point-and-shoots, and smartphones</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-23 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/23/google-revamps-its-play-store-with-ai-features-and-more/" target="_blank">Google revamps its Play Store with AI features and more</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-23 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -124,38 +156,29 @@
                 <span class="time">2025-09-23 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68472c41ba6b2eb46def4f69/master/pass/Best%20Organic%20Sheets%20for%20Your%20Non-Toxic%20Bedroom_.png" alt="WIRED Tested the Best Organic Sheets (2025): Coyuchi, The Citizenry" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-organic-sheets/" target="_blank">WIRED Tested the Best Organic Sheets (2025): Coyuchi, The Citizenry</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-23 10:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/23/sila-opens-u-s-factory-to-make-silicon-anodes-for-energy-dense-ev-batteries/" target="_blank">Sila opens U.S. factory to make silicon anodes for energy dense EV batteries</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-23 09:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68c1ffa94257ba2adaf9de18/master/pass/GettyImages-1236550486.jpg" alt="Nick Fuentes’ Plan to Conquer America" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nick-fuentes-plan-to-conquer-america/" target="_blank">Nick Fuentes’ Plan to Conquer America</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-23 09:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://github.com/lark-parser/lark/releases/tag/1.3.0" target="_blank">Lark 1.3.0 - Introduces text-slices, Earley fix, and various small improvements</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-09-23 12:11</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/ic-leaders/en/mediumimage/tina-wright-medium-1757404453132.jpg" alt="Presentation: What Keeps Me Up at Night – Existential Questions for IC Leaders" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/ic-leaders/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: What Keeps Me Up at Night – Existential Questions for IC Leaders</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-23 12:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,24 +213,6 @@
                 <span class="title"><a href="https://go-review.googlesource.com/c/go/+/674077" target="_blank">Go has added Valgrind support</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-09-23 09:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/leonardkachi/acid-vs-base-the-ultimate-showdown-for-database-reliability-500c" target="_blank">ACID vs. BASE: The Ultimate Showdown for Database Reliability</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-23 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmvybno4i589z2bouh7jt.png" alt="Kiro: Primeras impresiones y configuración de MCPs" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aws-espanol/kiro-primeras-impresiones-y-configuracion-de-mcps-4nfc" target="_blank">Kiro: Primeras impresiones y configuración de MCPs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-23 07:48</span>
             </div>
         </div>
 </div>
@@ -320,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 259 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 40 | 📸 With Images: 260 |
+        🔄 Last Updated: 13:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
