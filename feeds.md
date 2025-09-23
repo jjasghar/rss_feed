@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-23 22:01:36 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-23 23:01:44 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Generated 7 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Tuesday, September 23, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, September 23, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +56,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/23/in-major-shift-trump-says-ukraine-can-win-back-all-territory-from-russia?traffic_source=rss" target="_blank">In major shift, Trump says Ukraine can win back all territory from Russia</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-23 21:33</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/23/nx-s1-5539314/want-a-seat-at-this-synagogue-for-the-high-holidays-you-have-to-register-to-vote-fir" target="_blank">Want a seat at this synagogue for the High Holidays? You have to register to vote first</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-23 21:08</span>
             </div>
         </div>
 <div class="story">
@@ -90,15 +103,6 @@
                 <span class="time">2025-09-23 19:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250923-trump-zelenskyy-ch-1-3c0d07.jpg" alt="Trump says he now thinks Ukraine can win back all of its territory taken by Russia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/white-house/major-shift-trump-says-ukraine-can-win-back-land-from-russia-rcna233287" target="_blank">Trump says he now thinks Ukraine can win back all of its territory taken by Russia</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-23 19:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -108,9 +112,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/784277/borderlands-4-nintendo-switch-2-delay" target="_blank">The Switch 2 version of Borderlands 4 has been delayed</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-23 22:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/column/784033/charlie-kirk-memorial-jimmy-kimmel-fcc-regulator" target="_blank">Inside Charlie Kirk’s megachurch memorial service</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-23 21:58</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68d188016a137b6bafa2cb69/master/pass/stargate-abilene-biz-REUTERS-2025-04-23T233426Z_587730377_RC2Q3EAWGCKF_RTRMADP_3_USA-TRUMP-STARGATE.jpg" alt="OpenAI Teams Up With Oracle and SoftBank to Build 5 New Stargate Data Centers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/openai-oracle-softbank-data-center-stargate-us/" target="_blank">OpenAI Teams Up With Oracle and SoftBank to Build 5 New Stargate Data Centers</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-23 21:00</span>
             </div>
         </div>
 <div class="story">
@@ -140,29 +162,20 @@
                 <span class="time">2025-09-23 19:49</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/23/how-googles-dev-tools-manager-makes-ai-coding-work/" target="_blank">How Google’s dev tools manager makes AI coding work</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-23 18:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d2c24fbcb92585aca08113/master/pass/sim-swat-sec-502291434.jpg" alt="‘SIM Farms’ Are a Spam Plague. A Giant One in New York Threatened US Infrastructure, Feds Say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/sim-farm-new-york-threatened-us-infrastructure-feds-say/" target="_blank">‘SIM Farms’ Are a Spam Plague. A Giant One in New York Threatened US Infrastructure, Feds Say</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-23 18:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/moyrith/would-love-your-feedback-on-my-portfolio-bj7" target="_blank">Would love your feedback on my Portfolio 😊</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-23 22:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -208,15 +221,6 @@
                 <span class="time">2025-09-23 18:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://walzr.com/sf-parking/" target="_blank">Find SF parking cops</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-23 18:06</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +240,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Nothing-Ear-3-13-1.jpg" alt="Nothing Ear 3 Review: Super Sounding Wireless Earbuds, Not-So-Super Mic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/nothing-ear-3-review-super-sounding-wireless-earbuds-not-so-super-mic-2000662177" target="_blank">Nothing Ear 3 Review: Super Sounding Wireless Earbuds, Not-So-Super Mic</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-23 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/lego-star-wars-ahsoka-tano.jpg" alt="LEGO Is Going Nuts Over the 4.8-Rated Star Wars Ahsoka Tano’s Shuttle, Now Selling for Pennies" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/lego-is-going-nuts-over-the-4-8-rated-star-wars-ahsoka-tanos-shuttle-now-selling-for-pennies-2000628045" target="_blank">LEGO Is Going Nuts Over the 4.8-Rated Star Wars Ahsoka Tano’s Shuttle, Now Selling for Pennies</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-23 22:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/the-mandalorian-and-grogu-rotta.jpg" alt="A Brief History of Swole Hutts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +294,6 @@
                 <span class="time">2025-09-23 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/steamfpssale.jpg" alt="A Whole Bunch Of Awesome Shooters Are Cheap Right Now On Steam" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/boomer-shooter-dusk-mycopunk-demos-sale-event-boomstock-2025-pc-2000627990" target="_blank">A Whole Bunch Of Awesome Shooters Are Cheap Right Now On Steam</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-23 18:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/AH-cover-main.jpg" alt="Discover Agatha Harkness’ Secrets in This Magical New Marvel Tome" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/grimoire-of-agatha-harkness-preview-marvel-doctor-strange-scarlet-witch-2000662743" target="_blank">Discover Agatha Harkness’ Secrets in This Magical New Marvel Tome</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-23 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -319,7 +323,7 @@
 <div class="newspaper-footer">
     <div class="stats">
         📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 22:01 UTC
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
