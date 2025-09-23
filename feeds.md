@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-23 09:01:49 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-09-23 10:02:01 UTC -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, September 23, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Tuesday, September 23, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/23/trumps-tylenol-announcement-what-causes-autism-and-is-cuba-autism-free?traffic_source=rss" target="_blank">Trump’s Tylenol announcement: What causes autism – and is Cuba autism free?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-23 09:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250923-palestine-2-rs-0bbb75.jpg" alt="Trump to address U.N. as divisions with allies deepen over Palestinian statehood, trade" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-address-un-divisions-allies-deepen-palestinian-statehood-trade-rcna233026" target="_blank">Trump to address U.N. as divisions with allies deepen over Palestinian statehood, trade</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-23 09:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +96,29 @@
                 <span class="time">2025-09-23 04:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/23/pakistan-floods-spark-cholera-fears-amid-other-rising-health-risks?traffic_source=rss" target="_blank">Pakistan floods spark cholera fears amid other rising health risks</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-23 01:59</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8617/live/879fa280-9835-11f0-928c-71dbb8619e94.jpg" alt="Trump to address UN General Assembly after France recognises Palestinian state" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd9ykqw22zlo?at_medium=RSS&at_campaign=rss" target="_blank">Trump to address UN General Assembly after France recognises Palestinian state</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-23 01:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/23/sila-opens-u-s-factory-to-make-silicon-anodes-for-energy-dense-ev-batteries/" target="_blank">Sila opens U.S. factory to make silicon anodes for energy dense EV batteries</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-23 09:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68c1ffa94257ba2adaf9de18/master/pass/GettyImages-1236550486.jpg" alt="Nick Fuentes’ Plan to Conquer America" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nick-fuentes-plan-to-conquer-america/" target="_blank">Nick Fuentes’ Plan to Conquer America</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-23 09:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68d1e224d4f5f78f3b59aa43/master/pass/iPhone%2017%20SOURCE%20Julian%20Chokkattu.jpg" alt="Apple iPhone 17 Review: Close to Perfect" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -139,29 +155,20 @@
                 <span class="time">2025-09-23 05:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/782945/palworld-palfarm-farming-spinoff" target="_blank">Palworld is getting a farming spinoff</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-23 01:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/f9_landing_1-500x500.jpg" alt="US intel officials “concerned” China will soon master reusable launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/09/us-intel-officials-cite-reusable-launch-as-difference-maker-with-china/" target="_blank">US intel officials “concerned” China will soon master reusable launch</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-22 23:11</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/muhabbat_dev/a-developers-guide-to-cloud-computing-5511" target="_blank">A Developer&#x27;s Guide to Cloud Computing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-23 09:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/farhan_khan_41ec7ff11ac1d/consensus-in-distributed-databases-1j7n" target="_blank">Consensus in Distributed Databases</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-23 03:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="http://edwardpackard.com/wp-content/uploads/2025/09/Nine-Things-I-Learned-in-Ninety-Years.pdf" target="_blank">Nine Things I Learned in Ninety Years</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-23 03:03</span>
             </div>
         </div>
 </div>
@@ -326,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
