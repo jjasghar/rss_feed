@@ -1,37 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-23 15:01:46 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-09-23 16:02:34 UTC -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 28 feeds processed -->
+<!-- Generated 13 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Tuesday, September 23, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Tuesday, September 23, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/23/nx-s1-5550952/mamdani-endorsement-harris-hochul-democrats" target="_blank">Former VP Harris endorses Mamdani for NYC Mayor as some Democrats stay silent</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-23 15:48</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/23/donald-trump-attacks-united-nations-during-unga-speech?traffic_source=rss" target="_blank">Donald Trump attacks United Nations during UNGA speech</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-23 15:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758638012846_nbc_spec_tdy_trump_blasts_un_250923_1920x1080-nraj1h.jpg" alt="Trump blasts U.N. response to global conflicts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/trump-blasts-u-n-response-to-global-conflicts-248156229668" target="_blank">Trump blasts U.N. response to global conflicts</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-23 14:33</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,38 +99,47 @@
                 <span class="time">2025-09-23 13:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/23/nato-warns-russia-of-airspace-violations-will-defend-self-deter-threats?traffic_source=rss" target="_blank">NATO warns Russia of airspace violations, will defend self, deter threats</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-23 13:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/23/trumps-h-1b-visa-fee-hike-which-countries-could-benefit?traffic_source=rss" target="_blank">Trump’s H-1B visa fee hike: Which countries could benefit?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-23 12:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c19f/live/b5953180-9873-11f0-928c-71dbb8619e94.png" alt="Epping hotel asylum seeker jailed for 12 months over sex assaults that sparked protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cp8j5vp7413o?at_medium=RSS&at_campaign=rss" target="_blank">Epping hotel asylum seeker jailed for 12 months over sex assaults that sparked protests</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-23 12:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/783549/baby-steps-review-ps5-steam" target="_blank">Baby Steps hits on the hell and hilarity of hiking</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-23 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-1287663546-500x500.jpg" alt="Broadcom’s prohibitive VMware prices create a learning “barrier,” IT pro says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/information-technology/2025/09/broadcoms-prohibitive-vmware-prices-create-a-learning-barrier-it-pro-says/" target="_blank">Broadcom’s prohibitive VMware prices create a learning “barrier,” IT pro says</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-23 15:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/23/techcrunch-disrupt-2025-what-ai-means-for-who-gets-hired-next/" target="_blank">Mercor’s Brendan Foody breaks down AI’s impact on hiring at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-23 15:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68d265bac88a12de56c870e5/master/pass/092325_CBP-FBI.jpg" alt="DHS Has Been Collecting US Citizens’ DNA for Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/dhs-has-been-collecting-us-citizens-dna-for-years/" target="_blank">DHS Has Been Collecting US Citizens’ DNA for Years</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-23 15:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -124,47 +158,20 @@
                 <span class="time">2025-09-23 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/783590/bang-olufsen-beo-grace-earbuds-pricing-availability" target="_blank">Bang &amp;#038; Olufsen&amp;#8217;s new earbuds will cost you more than the latest iPhone</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-23 13:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6878257d08a39480606bbdb5/master/pass/The%20Best%20MagSafe%20Wallets.png" alt="10 Best MagSafe Wallets (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-magsafe-wallets/" target="_blank">10 Best MagSafe Wallets (2025), Tested and Reviewed</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-23 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/782619/gopro-fluid-pro-ai-tracking-stabilized-gimbal-action-camera-hero-smartphone" target="_blank">GoPro’s new gimbal works with action cameras, point-and-shoots, and smartphones</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-23 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/23/google-revamps-its-play-store-with-ai-features-and-more/" target="_blank">Google revamps its Play Store with AI features and more</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-23 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://news.ycombinator.com/item?id=45347914" target="_blank">Launch HN: Strata (YC X25) – One MCP server for AI to handle thousands of tools</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-23 14:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18639345&w=600" alt="Testing Automation Antipatterns: When Good Practices Become Your Worst Enemy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -186,6 +193,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/a-step-by-step-guide-to-modernizing-java-projects-with-github-copilot-agent-mode/" target="_blank">A step-by-step guide to modernizing Java projects with GitHub Copilot agent mode</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-09-23 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-staff-snake"></span>
                 <span class="title"><a href="https://github.com/lark-parser/lark/releases/tag/1.3.0" target="_blank">Lark 1.3.0 - Introduces text-slices, Earley fix, and various small improvements</a></span>
                 <span class="feed">Lobsters: python - Python programming</span>
@@ -199,24 +215,6 @@
                 <span class="title"><a href="https://www.infoq.com/presentations/ic-leaders/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: What Keeps Me Up at Night – Existential Questions for IC Leaders</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-09-23 12:05</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/music_youtube/kexp-rosali-rewind-live-on-kexp-33hb" target="_blank">KEXP: Rosali - Rewind (Live on KEXP)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-23 12:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/m0h3n/wlyn-tjrbhm-dr-skht-ykh-mrkhtplys-gym-b-nextjs-w-fastapi-47ci" target="_blank">اولین تجربه‌م در ساخت یک مارکت‌پلیس گیم با Next.js و FastAPI</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-23 10:52</span>
             </div>
         </div>
 </div>
@@ -239,6 +237,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="Take two Tylenol, hope Trump goes away in the morning" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/23/take-two-tylenol-hope-trump-goes-away-in-the-morning.html" target="_blank">Take two Tylenol, hope Trump goes away in the morning</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-23 15:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/cotton-field-drought.jpg" alt="Scientists Predict Extreme Global Water Shortages by 2100" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -257,6 +264,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2GKH7MBHMHJV4H8B1TRBCF/hero-image.jpg" alt="The &#x27;Leitner System&#x27; Is a Better Way to Study With Flashcards" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/leitner-system-flashcard-studying?utm_medium=RSS" target="_blank">The &#x27;Leitner System&#x27; Is a Better Way to Study With Flashcards</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-23 14:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/01/at-sea.jpeg?fit=1500%2C1001&amp;quality=60&amp;ssl=1" alt="Adrift is a calming website where you release anonymous thoughts as paper boats" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -272,24 +288,6 @@
                 <span class="title"><a href="https://kotaku.com/hideo-kojima-od-trailer-horror-2000627883" target="_blank">Hideo Kojima Finally Reveals OD Footage, And It’s Utterly Terrifying</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-09-23 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Bluey-Ludo-Studio-1.jpg" alt="How to Watch ‘Bluey’ Without a Streaming Service" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/how-to-watch-bluey-without-streaming-dvds-digital-libraries-2000662316" target="_blank">How to Watch ‘Bluey’ Without a Streaming Service</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-22 23:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/silent-night-deadly-night-review.jpg" alt="The ‘Silent Night, Deadly Night’ Remake Doesn’t Ring in the Holiday Cheer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/silent-night-deadly-night-2025-review-remake-2000662061" target="_blank">The ‘Silent Night, Deadly Night’ Remake Doesn’t Ring in the Holiday Cheer</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-22 22:45</span>
             </div>
         </div>
 </div>
@@ -315,22 +313,13 @@
                 <span class="time">2025-09-22 19:03</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1758236452-20250922.png" alt="Saturday Morning Breakfast Cereal - Treat" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/treat-2" target="_blank">Saturday Morning Breakfast Cereal - Treat</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-09-22 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 261 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 262 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
