@@ -1,33 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-09-23 20:01:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-23 21:01:44 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 11 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Tuesday, September 23, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, September 23, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/23/nx-s1-5551269/trump-ukraine-territory" target="_blank">Trump, in major shift, suggests Ukraine can win back territory long held by Russia</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-23 20:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3794/live/982fd820-98aa-11f0-928c-71dbb8619e94.jpg" alt="Kyiv can win all of Ukraine back from Russia, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c07vm35rryeo?at_medium=RSS&at_campaign=rss" target="_blank">Kyiv can win all of Ukraine back from Russia, Trump says</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-23 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/9/23/what-are-the-risks-of-a-global-digital-divide-in-ai?traffic_source=rss" target="_blank">What are the risks of a global digital divide in AI?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-23 20:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/routh-1-ap-er-250911_1757623097433_hpMain_4x3t_384.jpg" alt="Ryan Routh found guilty of trying to kill Trump, escorted from court after outburst" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,38 +104,29 @@
                 <span class="time">2025-09-23 18:54</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/23/g-s1-90068/world-health-officials-reject-trumps-claims-that-tylenol-is-linked-to-autism" target="_blank">World health officials reject Trump&#x27;s claims that Tylenol is linked to autism</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-23 18:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/un-17-ap-gmh-250923_1758637195180_hpMain_4x3t_384.jpg" alt="&#x27;Your countries are going to hell&#x27;: Trump bashes UN, world leaders in speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-address-united-nations-general-assembly/story?id=125827572" target="_blank">&#x27;Your countries are going to hell&#x27;: Trump bashes UN, world leaders in speech</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-23 16:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/23/nx-s1-5550952/mamdani-endorsement-harris-hochul-democrats" target="_blank">Former VP Harris endorses Mamdani for NYC Mayor as some Democrats stay silent</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-23 15:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/23/scott-wiener-on-his-fight-to-make-big-tech-disclose-ais-dangers/" target="_blank">Scott Wiener on his fight to make Big Tech disclose AI’s dangers</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-23 20:21</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/06/youtube-500x500.jpg" alt="YouTube will restore channels banned for COVID and election misinformation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/youtube-will-restore-channels-banned-for-covid-and-election-misinformation/" target="_blank">YouTube will restore channels banned for COVID and election misinformation</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-23 20:04</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/brendan-carr-concordia-500x500-1758655749.jpg" alt="FCC chairman unconvincingly claims he never threatened ABC station licenses" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,24 +163,6 @@
                 <span class="time">2025-09-23 17:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/shark1-500x500-1758565451.jpg" alt="Scientists catch a shark threesome on camera" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/09/scientists-catch-a-shark-threesome-on-camera/" target="_blank">Scientists catch a shark threesome on camera</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-23 17:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/783562/google-photos-conversational-voice-edits-android" target="_blank">Google Photos expands conversational editing to more Android phones</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-23 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -171,12 +178,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18653290&w=600" alt="LLMs at the Edge: Decentralized Power and Control" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/lms-edge-decentralized-power-control" target="_blank">LLMs at the Edge: Decentralized Power and Control</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-23 19:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/yorgie7/react-scheduler-fiber-architecture-explained-time-slicing-concurrent-rendering-wip-management-3knh" target="_blank">React Scheduler &amp; Fiber Architecture Explained: Time Slicing, Concurrent Rendering &amp; WIP Management 🚀</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-23 18:47</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://walzr.com/sf-parking/" target="_blank">Find SF parking cops</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-23 18:06</span>
             </div>
         </div>
 <div class="story">
@@ -195,24 +220,6 @@
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built" target="_blank">How Claude Code is built</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
                 <span class="time">2025-09-23 16:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://blog.pypi.org/posts/2025-09-23-plenty-of-phish-in-the-sea/" target="_blank">Phishing attacks with new domains likely to continue</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-09-23 16:41</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-Parker-Proposal" target="_blank">Bytedance Proposes &quot;Parker&quot; For Linux: Multiple Kernels Running Simultaneously</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-23 16:11</span>
             </div>
         </div>
 </div>
@@ -234,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/donald-trump-jeffrey-epstein-holding-hands-statue-on-the-v0-rg22z0hx5xqf1.webp?fit=1080%2C810&amp;quality=55&amp;ssl=1" alt="Donald Trump and Jeffrey Epstein&#x27;s great friendship immortalized on the National Mall" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/23/donald-trump-and-jeffrey-epsteins-great-friendship-immortalized-on-the-national-mall.html" target="_blank">Donald Trump and Jeffrey Epstein&#x27;s great friendship immortalized on the National Mall</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-23 20:44</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/Game-Collector.jpg" alt="This Player Just Won Steam After Buying More Games Than Anyone Else Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/steam-achievement-badge-leaderboard-collector-2000628009" target="_blank">This Player Just Won Steam After Buying More Games Than Anyone Else Ever</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-23 20:43</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01HF2H192HSMHRTW526NY400E4/hero-image.jpg" alt="This Is the ‘Right’ Temperature for Turning on Your Heat This Fall" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,29 +295,20 @@
                 <span class="time">2025-09-23 17:44</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/it-welcome-to-derry-trailer-pennywise.jpg" alt="The New ‘Welcome to Derry’ Trailer Welcomes You to Hell on Earth" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/it-welcome-to-derry-trailer-hbo-max-pennywise-2000662745" target="_blank">The New ‘Welcome to Derry’ Trailer Welcomes You to Hell on Earth</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-23 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Screenshot-2025-09-22-224803.webp?fit=963%2C551&amp;quality=55&amp;ssl=1" alt="Poop spray lands teaching assistant in it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/23/poop-spray-lands-teaching-assistant-in-it.html" target="_blank">Poop spray lands teaching assistant in it</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-23 16:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1758567650-20250923.png" alt="Saturday Morning Breakfast Cereal - Periclinal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/periclinal" target="_blank">Saturday Morning Breakfast Cereal - Periclinal</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-09-23 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5658.png" alt="comics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -307,8 +323,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
