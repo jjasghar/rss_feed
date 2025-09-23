@@ -1,36 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-23 02:25:56 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-23 03:12:20 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Tuesday, September 23, 2025 - 02:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, September 23, 2025 - 03:12 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -115,6 +114,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/f9_landing_1-500x500.jpg" alt="US intel officials “concerned” China will soon master reusable launch" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/09/us-intel-officials-cite-reusable-launch-as-difference-maker-with-china/" target="_blank">US intel officials “concerned” China will soon master reusable launch</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-22 23:11</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
@@ -150,20 +158,47 @@
                 <span class="time">2025-09-22 19:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/22/elad-gil-one-of-techs-sharpest-minds-on-early-bets-breakout-growth-and-whats-coming-next-at-techcrunch-disrupt-2025/" target="_blank">Inside the mind of Elad Gil: Early-stage investing and next-gen innovation at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-22 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://blog.matthewbrunelle.com/podcasts-you-altered-the-deal-so-i-will-alter-your-app/" target="_blank">Pocket Casts, You Altered the Deal, So I Will Alter Your App</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-23 02:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/boyte_conwa_60f60127bd416/top-3-pillars-of-a-trustworthy-ai-governance-framework-for-2025-210" target="_blank">Top 3 Pillars of a Trustworthy AI Governance Framework for 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-23 02:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/09/java-news-roundup-sep15-2025/en/headerimage/java-istock-image-01-1758569320260.jpg" alt="Java News Roundup: JDK 25, GraalVM for JDK 25, OpenJDK JEPs, LangChain4j, JBang, Gradle" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/java-news-roundup-sep15-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: JDK 25, GraalVM for JDK 25, OpenJDK JEPs, LangChain4j, JBang, Gradle</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-23 02:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/12/obs.jpg?resize=406%2C232&amp;ssl=1" alt="OBS Studio 32.0 Brings New Plugin Manager, NVIDIA RTX Effects" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/obs-studio-32-0-release-brings-new-plugin-manager-nvidia-rtx-effects" target="_blank">OBS Studio 32.0 Brings New Plugin Manager, NVIDIA RTX Effects</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-23 02:17</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/12/obs.jpg?resize=406%2C232&amp;ssl=1" alt="OBS Studio 32.0 Release Brings New Plugin Manager, NVIDIA RTX Effects" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -180,42 +215,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/OBS-Studio-32.0" target="_blank">OBS Studio 32.0 Released With Plugin Manager, NVIDIA RTX Improvements</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-23 00:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/01/ubuntu-pro-software-updater.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Will Fix Update Manager’s Focus Stealing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/ubuntu-25-10-update-manager-focus-bug-fix" target="_blank">Ubuntu 25.10 Will Fix Update Manager’s Focus Stealing</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-22 22:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/01/ubuntu-pro-software-updater.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Aims to Fix Annoying Update Focus Stealing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/ubuntu-25-10-update-manager-focus-bug-fix" target="_blank">Ubuntu 25.10 Aims to Fix Annoying Update Focus Stealing</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-22 22:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F01muib501983pcfgjpsw.png" alt="AI benchmarks, explain like i&#x27;m five" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/koha/ai-benchmarks-explain-like-im-five-5dno" target="_blank">AI benchmarks, explain like i&#x27;m five</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-22 21:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNU-Coreutils-9.8" target="_blank">GNU Coreutils 9.8 Released With New Features</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-22 21:38</span>
             </div>
         </div>
 </div>
@@ -346,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 267 |
-        🔄 Last Updated: 02:26 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 265 |
+        🔄 Last Updated: 03:12 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
