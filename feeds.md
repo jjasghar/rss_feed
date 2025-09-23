@@ -1,40 +1,26 @@
-<!-- Processing 54 RSS feeds at 2025-09-22 23:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-23 00:04:24 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Generated 3 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, September 22, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Tuesday, September 23, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +36,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/22/at-unsc-meeting-west-and-russia-clash-over-nato-airspace-violations?traffic_source=rss" target="_blank">At UNSC meeting, West and Russia clash over NATO airspace violations</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-22 23:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,30 +73,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7923/live/825e3bb0-97f9-11f0-928c-71dbb8619e94.jpg" alt="France formally recognises Palestinian state" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd9ykqw22zlo?at_medium=RSS&at_campaign=rss" target="_blank">France formally recognises Palestinian state</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-22 21:15</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/22/brazils-eduardo-bolsonaro-charged-in-case-linked-to-fathers-coup-attempt?traffic_source=rss" target="_blank">Brazil’s Eduardo Bolsonaro charged in case linked to father’s coup attempt</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-22 21:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/22/nx-s1-5550330/jimmy-kimmel-back-suspended-disney-trump" target="_blank">Jimmy Kimmel will be back on air on Tuesday, Disney says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-22 20:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758571044945_now_daily_b_kreutz_kimmel_return_250922_1920x1080-ft4j1k.jpg" alt="Disney announces Jimmy Kimmel&#x27;s late-night show will return to ABC airwaves" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/disney-announces-jimmy-kimmel-s-late-night-show-will-return-to-abc-airwaves-248102981550" target="_blank">Disney announces Jimmy Kimmel&#x27;s late-night show will return to ABC airwaves</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-22 19:58</span>
             </div>
         </div>
 </div>
@@ -242,6 +228,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Bluey-Ludo-Studio-1.jpg" alt="How to Watch ‘Bluey’ Without a Streaming Service" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/how-to-watch-bluey-without-streaming-dvds-digital-libraries-2000662316" target="_blank">How to Watch ‘Bluey’ Without a Streaming Service</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-22 23:45</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/silent-night-deadly-night-review.jpg" alt="The ‘Silent Night, Deadly Night’ Remake Doesn’t Ring in the Holiday Cheer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -284,15 +279,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/22/firearms-expert-reacts-to-the-guns-of-metal-gear-solid-3-mostly-with-horror.html" target="_blank">Firearms expert reacts to the guns of Metal Gear Solid 3 (mostly with horror)</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-22 20:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JWXSQX0KG9KBKARRSGFA13YP/hero-image.jpg" alt="How to Watch Pornhub Even If It&#x27;s Blocked In Your State" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/how-to-watch-pornhub-even-if-its-blocked-in-your-state?utm_medium=RSS" target="_blank">How to Watch Pornhub Even If It&#x27;s Blocked In Your State</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-22 20:00</span>
             </div>
         </div>
 </div>
@@ -341,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
