@@ -1,36 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-23 01:29:04 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-23 02:25:56 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, September 23, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Tuesday, September 23, 2025 - 02:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/23/pakistan-floods-spark-cholera-fears-amid-other-rising-health-risks?traffic_source=rss" target="_blank">Pakistan floods spark cholera fears amid other rising health risks</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-23 01:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://e3.365dm.com/25/09/1920x1080/skynews-benjamin-netanyahu_7021331.jpg?20250915131512" alt="Israel is increasingly ostracised - and no matter how strong its army, it&#x27;s not a good place to be" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -74,30 +83,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758581652052_nn_ath_trump_acetaminophen_pregnant_women_250922_1920x1080-3xwtb0.jpg" alt="Trump links acetaminophen use in pregnancy to autism, without clear evidence" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-links-acetaminophen-use-in-pregnancy-to-autism-without-clear-evidence-248115269607" target="_blank">Trump links acetaminophen use in pregnancy to autism, without clear evidence</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-22 22:54</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/22/copenhagen-airport-shut-after-sighting-of-unidentified-drones?traffic_source=rss" target="_blank">Copenhagen airport shut after sighting of ‘unidentified drones’</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-22 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-8-gty-gmh-250922_1758574959017_hpMain_4x3t_384.jpg" alt="Trump admin links Tylenol use in pregnancy to increased risk of autism" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/trump-admin-links-tylenol-pregnancy-increased-risk-autism/story?id=125802080" target="_blank">Trump admin links Tylenol use in pregnancy to increased risk of autism</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-22 21:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758576778025_now_brk_trump_acetaminophen_250922_1920x1080-hmmafk.jpg" alt="Doctor, medical reporter fact-check Trump announcement on acetaminophen and autism" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/doctor-medical-reporter-fact-check-trump-announcement-on-acetaminophen-and-autism-248106053874" target="_blank">Doctor, medical reporter fact-check Trump announcement on acetaminophen and autism</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-22 21:33</span>
             </div>
         </div>
 </div>
@@ -112,6 +112,15 @@
                 <span class="title"><a href="https://www.theverge.com/news/782945/palworld-palfarm-farming-spinoff" target="_blank">Palworld is getting a farming spinoff</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-23 01:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/22/mirror-founder-brynn-putnam-to-unveil-her-gaming-hardware-startup-at-techcrunch-disrupt-2025/" target="_blank">Mirror founder Brynn Putnam to unveil her gaming hardware startup at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-22 22:38</span>
             </div>
         </div>
 <div class="story">
@@ -150,20 +159,29 @@
                 <span class="time">2025-09-22 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/782893/meta-facebook-dating-ai-chatbot-meet-cute-swipe-fatigue" target="_blank">Facebook Dating tries using AI to end ‘swipe fatigue’</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-22 18:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/12/obs.jpg?resize=406%2C232&amp;ssl=1" alt="OBS Studio 32.0 Release Brings New Plugin Manager, NVIDIA RTX Effects" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/obs-studio-32-0-release-brings-new-plugin-manager-nvidia-rtx-effects" target="_blank">OBS Studio 32.0 Release Brings New Plugin Manager, NVIDIA RTX Effects</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-23 02:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/OBS-Studio-32.0" target="_blank">OBS Studio 32.0 Released With Plugin Manager, NVIDIA RTX Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-23 00:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/01/ubuntu-pro-software-updater.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Will Fix Update Manager’s Focus Stealing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,24 +216,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/GNU-Coreutils-9.8" target="_blank">GNU Coreutils 9.8 Released With New Features</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-22 21:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F921482%2F984d8bfb-b086-4ab6-b8f2-69ae9f7325cc.png" alt="[Boost]" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/batunpc/-21j4" target="_blank">[Boost]</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-22 20:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18650933&w=600" alt="AI Infrastructure for Agents and LLMs: Options, Tools, and Optimization" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-infrastructure-agents-llms-tools-optimization" target="_blank">AI Infrastructure for Agents and LLMs: Options, Tools, and Optimization</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-22 19:00</span>
             </div>
         </div>
 </div>
@@ -346,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 267 |
+        🔄 Last Updated: 02:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
