@@ -1,35 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-23 16:02:34 UTC -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing 54 RSS feeds at 2025-09-23 17:01:46 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 13 new posts out of 27 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 13 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Tuesday, September 23, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, September 23, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/un-17-ap-gmh-250923_1758637195180_hpMain_4x3t_384.jpg" alt="&#x27;Your countries are going to hell&#x27;: Trump bashes UN, world leaders in speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-address-united-nations-general-assembly/story?id=125827572" target="_blank">&#x27;Your countries are going to hell&#x27;: Trump bashes UN, world leaders in speech</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-23 16:55</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +103,47 @@
                 <span class="time">2025-09-23 14:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/23/west-africans-deported-by-the-us-were-denied-their-rights-says-lawyer" target="_blank">West Africans deported by the US were denied their rights, says lawyer</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-09-23 13:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/783562/google-photos-conversational-voice-edits-android" target="_blank">Google Photos expands conversational editing to more Android phones</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-23 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/20250917165715_1-500x500.jpg" alt="Baby Steps is the most gloriously frustrating game I’ve ever struggled through" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2025/09/baby-steps-is-the-most-gloriously-frustrating-game-ive-ever-struggled-through/" target="_blank">Baby Steps is the most gloriously frustrating game I’ve ever struggled through</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-23 16:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/23/telo-raises-20-million-to-build-tiny-electric-trucks-for-cities/" target="_blank">Telo raises $20 million to build tiny electric trucks for cities</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-23 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68d2ce70a8e62baa797607fe/master/pass/business_model_behavior_quantum_investing.jpg" alt="Why One VC Thinks Quantum Is a Bigger Unlock Than AGI" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/alexa-von-tobel-quantum-venture-capital/" target="_blank">Why One VC Thinks Quantum Is a Bigger Unlock Than AGI</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-23 16:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -122,47 +162,38 @@
                 <span class="time">2025-09-23 15:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/23/techcrunch-disrupt-2025-what-ai-means-for-who-gets-hired-next/" target="_blank">Mercor’s Brendan Foody breaks down AI’s impact on hiring at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-23 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d265bac88a12de56c870e5/master/pass/092325_CBP-FBI.jpg" alt="DHS Has Been Collecting US Citizens’ DNA for Years" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/dhs-has-been-collecting-us-citizens-dna-for-years/" target="_blank">DHS Has Been Collecting US Citizens’ DNA for Years</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-23 15:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/23/vinod-khosla-on-ai-moonshots-and-building-enduring-startups-all-at-techcrunch-disrupt-2025/" target="_blank">Vinod Khosla on AI, moonshots, and building enduring startups — all at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-23 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/23/techcrunch-disrupt-2025-ticket-rates-increase-after-just-4-days/" target="_blank">TechCrunch Disrupt 2025 ticket rates increase after just 4 days</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-23 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/2a5466bf-c111-44ab-9184-01555a44d5f8_420x300.png" alt="How Claude Code is built" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built" target="_blank">How Claude Code is built</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-09-23 16:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://blog.pypi.org/posts/2025-09-23-plenty-of-phish-in-the-sea/" target="_blank">Phishing attacks with new domains likely to continue</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-09-23 16:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-Parker-Proposal" target="_blank">Bytedance Proposes &quot;Parker&quot; For Linux: Multiple Kernels Running Simultaneously</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-23 16:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -190,33 +221,6 @@
                 <span class="time">2025-09-23 13:46</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/ai-and-ml/github-copilot/a-step-by-step-guide-to-modernizing-java-projects-with-github-copilot-agent-mode/" target="_blank">A step-by-step guide to modernizing Java projects with GitHub Copilot agent mode</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-09-23 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://github.com/lark-parser/lark/releases/tag/1.3.0" target="_blank">Lark 1.3.0 - Introduces text-slices, Earley fix, and various small improvements</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-09-23 12:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/ic-leaders/en/mediumimage/tina-wright-medium-1757404453132.jpg" alt="Presentation: What Keeps Me Up at Night – Existential Questions for IC Leaders" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/ic-leaders/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: What Keeps Me Up at Night – Existential Questions for IC Leaders</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-23 12:05</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +240,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/it-welcome-to-derry-trailer-pennywise.jpg" alt="The New ‘Welcome to Derry’ Trailer Welcomes You to Hell on Earth" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/it-welcome-to-derry-trailer-hbo-max-pennywise-2000662745" target="_blank">The New ‘Welcome to Derry’ Trailer Welcomes You to Hell on Earth</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-23 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Screenshot-2025-09-22-224803.webp?fit=963%2C551&amp;quality=55&amp;ssl=1" alt="Poop spray lands teaching assistant in it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/23/poop-spray-lands-teaching-assistant-in-it.html" target="_blank">Poop spray lands teaching assistant in it</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-23 16:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K5VFNRWXWVMBDB7MNS9A4FX1/hero-image.png" alt="I Added the Fitbod Strength-Training App to My Cardio Routine, and I Love It" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/fitbod-strength-training-app-review?utm_medium=RSS" target="_blank">I Added the Fitbod Strength-Training App to My Cardio Routine, and I Love It</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-23 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="Take two Tylenol, hope Trump goes away in the morning" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -261,33 +292,6 @@
                 <span class="title"><a href="https://kotaku.com/playstation-state-of-play-date-time-where-to-watch-2000627924" target="_blank">PlayStation Announces Mercifully Short State Of Play For Tomorrow</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-09-23 14:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2GKH7MBHMHJV4H8B1TRBCF/hero-image.jpg" alt="The &#x27;Leitner System&#x27; Is a Better Way to Study With Flashcards" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/leitner-system-flashcard-studying?utm_medium=RSS" target="_blank">The &#x27;Leitner System&#x27; Is a Better Way to Study With Flashcards</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-23 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/01/at-sea.jpeg?fit=1500%2C1001&amp;quality=60&amp;ssl=1" alt="Adrift is a calming website where you release anonymous thoughts as paper boats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/23/adrift-is-a-calming-website-where-you-release-anonymous-thoughts-as-paper-boats.html" target="_blank">Adrift is a calming website where you release anonymous thoughts as paper boats</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-23 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/od1.jpg" alt="Hideo Kojima Finally Reveals OD Footage, And It’s Utterly Terrifying" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/hideo-kojima-od-trailer-horror-2000627883" target="_blank">Hideo Kojima Finally Reveals OD Footage, And It’s Utterly Terrifying</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-23 12:00</span>
             </div>
         </div>
 </div>
@@ -318,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 262 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
