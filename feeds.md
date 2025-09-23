@@ -1,26 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-23 00:04:24 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-09-23 01:29:04 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 18 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Tuesday, September 23, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Tuesday, September 23, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -36,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-benjamin-netanyahu_7021331.jpg?20250915131512" alt="Israel is increasingly ostracised - and no matter how strong its army, it&#x27;s not a good place to be" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/israel-is-increasingly-ostracised-and-no-matter-how-strong-its-army-its-not-a-good-place-to-be-13436492" target="_blank">Israel is increasingly ostracised - and no matter how strong its army, it&#x27;s not a good place to be</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-23 01:10</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/23/tearful-dembele-beats-yamal-to-ballon-dor-while-bonmati-achieves-hattrick?traffic_source=rss" target="_blank">Tearful Dembele beats Yamal to Ballon d’Or, as Bonmati achieves hat-trick</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-23 00:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,29 +100,20 @@
                 <span class="time">2025-09-22 21:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7923/live/825e3bb0-97f9-11f0-928c-71dbb8619e94.jpg" alt="France formally recognises Palestinian state" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cd9ykqw22zlo?at_medium=RSS&at_campaign=rss" target="_blank">France formally recognises Palestinian state</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-22 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/22/brazils-eduardo-bolsonaro-charged-in-case-linked-to-fathers-coup-attempt?traffic_source=rss" target="_blank">Brazil’s Eduardo Bolsonaro charged in case linked to father’s coup attempt</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-22 21:03</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/782945/palworld-palfarm-farming-spinoff" target="_blank">Palworld is getting a farming spinoff</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-23 01:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,20 +159,20 @@
                 <span class="time">2025-09-22 18:59</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2233024483-500x500.jpg" alt="Anti-vaccine groups melt down over reports RFK Jr. to link autism to Tylenol" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/09/anti-vaccine-groups-melt-down-over-reports-rfk-jr-to-link-autism-to-tylenol/" target="_blank">Anti-vaccine groups melt down over reports RFK Jr. to link autism to Tylenol</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-22 18:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/01/ubuntu-pro-software-updater.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Will Fix Update Manager’s Focus Stealing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/ubuntu-25-10-update-manager-focus-bug-fix" target="_blank">Ubuntu 25.10 Will Fix Update Manager’s Focus Stealing</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-22 22:49</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/01/ubuntu-pro-software-updater.jpg?resize=406%2C232&amp;ssl=1" alt="Ubuntu 25.10 Aims to Fix Annoying Update Focus Stealing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -197,15 +216,6 @@
                 <span class="title"><a href="https://dzone.com/articles/ai-infrastructure-agents-llms-tools-optimization" target="_blank">AI Infrastructure for Agents and LLMs: Options, Tools, and Optimization</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-09-22 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/gpt-5-codex/en/headerimage/GettyImages-832282452-1758520834924.jpeg" alt="OpenAI Releases GPT-5-Codex Optimized for Complex Code Refactoring and Code Reviews" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/gpt-5-codex/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">OpenAI Releases GPT-5-Codex Optimized for Complex Code Refactoring and Code Reviews</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-22 18:46</span>
             </div>
         </div>
 </div>
@@ -287,6 +297,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5658.png" alt="comics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5658" target="_blank">comics</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-09-23 01:06</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -327,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 130 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
