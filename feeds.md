@@ -1,29 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-23 14:01:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-23 15:01:46 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Generated 9 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, September 23, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Tuesday, September 23, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +47,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/23/ugandan-president-museveni-in-power-since-1986-to-seek-another-term?traffic_source=rss" target="_blank">Ugandan President Museveni, in power since 1986, to seek another term</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-23 14:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/23/nx-s1-5542367/india-us-trump-tariffs-shrimp-exports" target="_blank">Americans are crazy for shrimp. Much of it came from India — until now</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-23 14:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,24 +101,6 @@
                 <span class="time">2025-09-23 12:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758625720057_tdy_news_7a_haake_trump_general_assembly_250923_1920x1080-3pi3lx.jpg" alt="Trump to Address UNGA to Emphasize ‘America First Worldview’" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-in-nyc-to-address-united-nations-general-assembly-248140869938" target="_blank">Trump to Address UNGA to Emphasize ‘America First Worldview’</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-23 11:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/9/23/live-pakistan-vs-sri-lanka-asia-cup-2025-super-fours-match-commentary-stream-score?traffic_source=rss" target="_blank">LIVE: Pakistan vs Sri Lanka – Asia Cup 2025 Super Fours match</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-23 10:34</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -102,9 +110,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/23/vinod-khosla-on-ai-moonshots-and-building-enduring-startups-all-at-techcrunch-disrupt-2025/" target="_blank">Vinod Khosla on AI, moonshots, and building enduring startups — all at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-23 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/09/23/techcrunch-disrupt-2025-ticket-rates-increase-after-just-4-days/" target="_blank">TechCrunch Disrupt 2025 ticket rates increase after just 4 days</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-09-23 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/783590/bang-olufsen-beo-grace-earbuds-pricing-availability" target="_blank">Bang &amp;#038; Olufsen&amp;#8217;s new earbuds will cost you more than the latest iPhone</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-23 13:40</span>
             </div>
         </div>
 <div class="story">
@@ -134,29 +160,29 @@
                 <span class="time">2025-09-23 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/781652/smart-light-matter-philips-hue-apple-home" target="_blank">Fall into smarter lighting</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-23 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/23/goodnotes-collaborative-docs-and-ai-assitant-to-cater-to-professional-users/" target="_blank">Goodnotes collaborative docs and AI assitant to cater to professional users</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-23 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18639345&w=600" alt="Testing Automation Antipatterns: When Good Practices Become Your Worst Enemy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/testing-automation-antipatterns" target="_blank">Testing Automation Antipatterns: When Good Practices Become Your Worst Enemy</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-23 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/bcachefs-617-dkms" target="_blank">Running The Bcachefs DKMS Modules On Ubuntu Linux</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-23 13:46</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -193,24 +219,6 @@
                 <span class="time">2025-09-23 10:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/muhabbat_dev/a-developers-guide-to-cloud-computing-5511" target="_blank">A Developer&#x27;s Guide to Cloud Computing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-23 09:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://go-review.googlesource.com/c/go/+/674077" target="_blank">Go has added Valgrind support</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-23 09:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,6 +238,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/cotton-field-drought.jpg" alt="Scientists Predict Extreme Global Water Shortages by 2100" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/scientists-predict-extreme-global-water-shortages-by-2100-2000662375" target="_blank">Scientists Predict Extreme Global Water Shortages by 2100</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-23 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/5pr59gqrwUbnXoTnDznk34-1200-80.jpg" alt="PlayStation Announces Mercifully Short State Of Play For Tomorrow" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/playstation-state-of-play-date-time-where-to-watch-2000627924" target="_blank">PlayStation Announces Mercifully Short State Of Play For Tomorrow</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-23 14:36</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/01/at-sea.jpeg?fit=1500%2C1001&amp;quality=60&amp;ssl=1" alt="Adrift is a calming website where you release anonymous thoughts as paper boats" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,24 +290,6 @@
                 <span class="title"><a href="https://gizmodo.com/silent-night-deadly-night-2025-review-remake-2000662061" target="_blank">The ‘Silent Night, Deadly Night’ Remake Doesn’t Ring in the Holiday Cheer</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-22 22:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/cricketjumping.jpg" alt="Borderlands 4′s Super Jump Glitch Is Wild And Won’t Be Fixed…For Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/borderlands-4s-super-jump-bug-cricket-jumping-legendary-gun-gearbox-patch-pc-2000627659" target="_blank">Borderlands 4′s Super Jump Glitch Is Wild And Won’t Be Fixed…For Now</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-22 21:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K49TX8MZE2445K0S9TE99N7B/hero-image.png" alt="This Onn 10.1&quot; Android 14 Tablet Is on Sale for Just $80 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/onn-101-android-tablet-stacksocial-sale?utm_medium=RSS" target="_blank">This Onn 10.1&quot; Android 14 Tablet Is on Sale for Just $80 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-22 21:00</span>
             </div>
         </div>
 </div>
@@ -321,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 40 | 📸 With Images: 261 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 41 | 📸 With Images: 261 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
