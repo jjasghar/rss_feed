@@ -1,33 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-09-23 13:08:47 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-09-23 14:01:45 UTC -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, September 23, 2025 - 13:08 UTC</div>
+    <div class="newspaper-date">Tuesday, September 23, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,10 +42,37 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/23/west-africans-deported-by-the-us-were-denied-their-rights-says-lawyer" target="_blank">West Africans deported by the US were denied their rights, says lawyer</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-09-23 13:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/23/nato-warns-russia-of-airspace-violations-will-defend-self-deter-threats?traffic_source=rss" target="_blank">NATO warns Russia of airspace violations, will defend self, deter threats</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-23 13:27</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/23/trumps-h-1b-visa-fee-hike-which-countries-could-benefit?traffic_source=rss" target="_blank">Trump’s H-1B visa fee hike: Which countries could benefit?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-23 12:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c19f/live/b5953180-9873-11f0-928c-71dbb8619e94.png" alt="Epping hotel asylum seeker jailed for 12 months over sex assaults that sparked protests" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cp8j5vp7413o?at_medium=RSS&at_campaign=rss" target="_blank">Epping hotel asylum seeker jailed for 12 months over sex assaults that sparked protests</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-23 12:05</span>
             </div>
         </div>
 <div class="story">
@@ -70,38 +93,20 @@
                 <span class="time">2025-09-23 10:34</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/23/trumps-tylenol-announcement-what-causes-autism-and-is-cuba-autism-free?traffic_source=rss" target="_blank">Trump’s Tylenol announcement: What causes autism – and is Cuba autism free?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-23 09:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-29-gty-gmh-250921_1758496163442_hpMain_4x3t_384.jpg" alt="Trump to address United Nations General Assembly" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/trump-address-united-nations-general-assembly/story?id=125827572" target="_blank">Trump to address United Nations General Assembly</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-23 09:12</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250923-palestine-2-rs-0bbb75.jpg" alt="Trump to address U.N. as divisions with allies deepen over Palestinian statehood, trade" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/trump-address-un-divisions-allies-deepen-palestinian-statehood-trade-rcna233026" target="_blank">Trump to address U.N. as divisions with allies deepen over Palestinian statehood, trade</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-23 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/23/techcrunch-disrupt-2025-ticket-rates-increase-after-just-4-days/" target="_blank">TechCrunch Disrupt 2025 ticket rates increase after just 4 days</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-23 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/6878257d08a39480606bbdb5/master/pass/The%20Best%20MagSafe%20Wallets.png" alt="10 Best MagSafe Wallets (2025), Tested and Reviewed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -144,15 +149,6 @@
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/09/23/goodnotes-collaborative-docs-and-ai-assitant-to-cater-to-professional-users/" target="_blank">Goodnotes collaborative docs and AI assitant to cater to professional users</a></span>
                 <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-23 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/782765/uber-prepaid-pass-bundle-discount-route" target="_blank">Uber launches prepaid passes for frequent routes</a></span>
-                <span class="feed">The Verge</span>
                 <span class="time">2025-09-23 11:00</span>
             </div>
         </div>
@@ -235,6 +231,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/01/at-sea.jpeg?fit=1500%2C1001&amp;quality=60&amp;ssl=1" alt="Adrift is a calming website where you release anonymous thoughts as paper boats" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/23/adrift-is-a-calming-website-where-you-release-anonymous-thoughts-as-paper-boats.html" target="_blank">Adrift is a calming website where you release anonymous thoughts as paper boats</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-23 13:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/od1.jpg" alt="Hideo Kojima Finally Reveals OD Footage, And It’s Utterly Terrifying" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -279,15 +284,6 @@
                 <span class="time">2025-09-22 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2024/11/GettyImages-2154701385.jpg" alt="AI Experts Urgently Call on Governments to Think About Maybe Doing Something" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/ai-experts-urgently-call-on-governments-to-think-about-maybe-doing-something-2000662325" target="_blank">AI Experts Urgently Call on Governments to Think About Maybe Doing Something</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-22 20:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 134 | 📡 Total Sources: 40 | 📸 With Images: 260 |
-        🔄 Last Updated: 13:08 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 40 | 📸 With Images: 261 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
