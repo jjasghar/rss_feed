@@ -1,33 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-23 19:01:35 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-09-23 20:01:43 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Generated 6 new posts out of 25 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 6 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Tuesday, September 23, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Tuesday, September 23, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/routh-1-ap-er-250911_1757623097433_hpMain_4x3t_384.jpg" alt="Ryan Routh found guilty of trying to kill Trump, escorted from court after outburst" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/closing-arguments-set-trial-ryan-routh-accused-kill/story?id=125833927" target="_blank">Ryan Routh found guilty of trying to kill Trump, escorted from court after outburst</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-23 19:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250923-trump-zelenskyy-ch-1-3c0d07.jpg" alt="Trump says he now thinks Ukraine can win back all of its territory taken by Russia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/white-house/major-shift-trump-says-ukraine-can-win-back-land-from-russia-rcna233287" target="_blank">Trump says he now thinks Ukraine can win back all of its territory taken by Russia</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-23 19:32</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Ryan Routh guilty on all counts of trying to assassinate Trump: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -79,29 +97,29 @@
                 <span class="time">2025-09-23 15:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/23/donald-trump-attacks-united-nations-during-unga-speech?traffic_source=rss" target="_blank">Donald Trump attacks United Nations during UNGA speech</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-23 15:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758638012846_nbc_spec_tdy_trump_blasts_un_250923_1920x1080-nraj1h.jpg" alt="Trump blasts U.N. response to global conflicts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/trump-blasts-u-n-response-to-global-conflicts-248156229668" target="_blank">Trump blasts U.N. response to global conflicts</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-23 14:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/brendan-carr-concordia-500x500-1758655749.jpg" alt="FCC chairman unconvincingly claims he never threatened ABC station licenses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/fcc-chairman-unconvincingly-claims-he-never-threatened-abc-station-licenses/" target="_blank">FCC chairman unconvincingly claims he never threatened ABC station licenses</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-23 19:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/23/how-googles-dev-tools-manager-makes-ai-coding-work/" target="_blank">How Google’s dev tools manager makes AI coding work</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-23 18:28</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68d2c24fbcb92585aca08113/master/pass/sim-swat-sec-502291434.jpg" alt="‘SIM Farms’ Are a Spam Plague. A Giant One in New York Threatened US Infrastructure, Feds Say" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -138,29 +156,20 @@
                 <span class="time">2025-09-23 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/20250917165715_1-500x500.jpg" alt="Baby Steps is the most gloriously frustrating game I’ve ever struggled through" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2025/09/baby-steps-is-the-most-gloriously-frustrating-game-ive-ever-struggled-through/" target="_blank">Baby Steps is the most gloriously frustrating game I’ve ever struggled through</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-23 16:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/23/telo-raises-20-million-to-build-tiny-electric-trucks-for-cities/" target="_blank">Telo raises $20 million to build tiny electric trucks for cities</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-23 16:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yorgie7/is-react-really-single-page-understanding-routing-multiple-pages-in-spas-4d10" target="_blank">🌐 Is React Really Single Page? Understanding Routing &amp; Multiple Pages in SPAs</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-23 19:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -206,15 +215,6 @@
                 <span class="time">2025-09-23 16:11</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://news.ycombinator.com/item?id=45347914" target="_blank">Launch HN: Strata (YC X25) – One MCP server for AI to handle thousands of tools</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-23 14:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2H192HSMHRTW526NY400E4/hero-image.jpg" alt="This Is the ‘Right’ Temperature for Turning on Your Heat This Fall" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/what-temperature-to-turn-on-heat-in-fall?utm_medium=RSS" target="_blank">This Is the ‘Right’ Temperature for Turning on Your Heat This Fall</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-23 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/steamfpssale.jpg" alt="A Whole Bunch Of Awesome Shooters Are Cheap Right Now On Steam" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +288,6 @@
                 <span class="time">2025-09-23 16:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K5VFNRWXWVMBDB7MNS9A4FX1/hero-image.png" alt="I Added the Fitbod Strength-Training App to My Cardio Routine, and I Love It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/fitbod-strength-training-app-review?utm_medium=RSS" target="_blank">I Added the Fitbod Strength-Training App to My Cardio Routine, and I Love It</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-23 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -302,22 +302,13 @@
                 <span class="time">2025-09-23 01:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/09/22/new-games-i-m-playing" target="_blank">New Games I&#x27;m Playing</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-09-22 19:03</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
