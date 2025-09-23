@@ -1,38 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-23 05:02:09 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-23 06:02:56 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, September 23, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, September 23, 2025 - 06:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/23/nx-s1-5550852/trump-restore-grant-funding-ucla" target="_blank">Judge orders Trump administration to restore $500 million in grant funding to UCLA</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-23 05:23</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +96,29 @@
                 <span class="time">2025-09-23 00:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/22/at-unsc-meeting-west-and-russia-clash-over-nato-airspace-violations?traffic_source=rss" target="_blank">At UNSC meeting, West and Russia clash over NATO airspace violations</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-22 23:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/783409/od-kojima-xbox-game-trailer" target="_blank">A first look at Kojima’s OD Xbox game</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-23 05:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/22/after-india-openai-launches-its-affordable-chatgpt-go-plan-in-indonesia/" target="_blank">After India, OpenAI launches its affordable ChatGPT Go plan in Indonesia</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-23 05:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" alt="Chewy Promo Codes: $20 Off | September 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -143,29 +155,20 @@
                 <span class="time">2025-09-22 22:38</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/22/facebook-is-getting-an-ai-dating-assistant/" target="_blank">Facebook is getting an AI dating assistant</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-22 20:27</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/782993/steam-blockblasters-crypto-scam-malware" target="_blank">Steam game removed after cryptostealer takes over $150K</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-22 20:23</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnnqm1f006nzfwhne9u2y.png" alt="Top 5 Domain and IP Intelligence Tools in OSINT" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/stark_zhuang_df5076f35c68/top-5-domain-and-ip-intelligence-tools-in-osint-2a73" target="_blank">Top 5 Domain and IP Intelligence Tools in OSINT</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-23 05:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +210,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-ubuntu"></span>
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/obs-studio-32-0-release-brings-new-plugin-manager-nvidia-rtx-effects" target="_blank">OBS Studio 32.0 Brings New Plugin Manager, NVIDIA RTX Effects</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-23 02:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/12/obs.jpg?resize=406%2C232&amp;ssl=1" alt="OBS Studio 32.0 Release Brings New Plugin Manager, NVIDIA RTX Effects" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/obs-studio-32-0-release-brings-new-plugin-manager-nvidia-rtx-effects" target="_blank">OBS Studio 32.0 Release Brings New Plugin Manager, NVIDIA RTX Effects</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-09-23 02:17</span>
             </div>
@@ -339,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 06:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
