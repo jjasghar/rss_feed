@@ -1,31 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-23 18:02:17 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-23 19:01:35 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 23 feeds processed -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Tuesday, September 23, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Tuesday, September 23, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/abcnewsl2-abc-ml-250107_1736267930623_hpMain_4x3t_384.jpg" alt="LIVE:  Ryan Routh guilty on all counts of trying to assassinate Trump: ABC News Live" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Live/video/abcnews-live-41463246" target="_blank">LIVE:  Ryan Routh guilty on all counts of trying to assassinate Trump: ABC News Live</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-23 18:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/23/g-s1-90068/world-health-officials-reject-trumps-claims-that-tylenol-is-linked-to-autism" target="_blank">World health officials reject Trump&#x27;s claims that Tylenol is linked to autism</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-23 18:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/un-17-ap-gmh-250923_1758637195180_hpMain_4x3t_384.jpg" alt="&#x27;Your countries are going to hell&#x27;: Trump bashes UN, world leaders in speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,29 +97,20 @@
                 <span class="time">2025-09-23 14:33</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/23/ugandan-president-museveni-in-power-since-1986-to-seek-another-term?traffic_source=rss" target="_blank">Ugandan President Museveni, in power since 1986, to seek another term</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-23 14:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/23/nx-s1-5542367/india-us-trump-tariffs-shrimp-exports" target="_blank">Americans are crazy for shrimp. Much of it came from India — until now</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-23 14:10</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68d2c24fbcb92585aca08113/master/pass/sim-swat-sec-502291434.jpg" alt="‘SIM Farms’ Are a Spam Plague. A Giant One in New York Threatened US Infrastructure, Feds Say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/sim-farm-new-york-threatened-us-infrastructure-feds-say/" target="_blank">‘SIM Farms’ Are a Spam Plague. A Giant One in New York Threatened US Infrastructure, Feds Say</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-23 18:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -107,6 +118,15 @@
                 <span class="title"><a href="https://www.theverge.com/23691498/best-garmin-smartwatch-fitness-tracker-wearables" target="_blank">The best Garmin watches for training and everyday life</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-23 17:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/shark1-500x500-1758565451.jpg" alt="Scientists catch a shark threesome on camera" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/09/scientists-catch-a-shark-threesome-on-camera/" target="_blank">Scientists catch a shark threesome on camera</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-23 17:15</span>
             </div>
         </div>
 <div class="story">
@@ -136,29 +156,20 @@
                 <span class="time">2025-09-23 16:55</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d2ce70a8e62baa797607fe/master/pass/business_model_behavior_quantum_investing.jpg" alt="Why One VC Thinks Quantum Is a Bigger Unlock Than AGI" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/alexa-von-tobel-quantum-venture-capital/" target="_blank">Why One VC Thinks Quantum Is a Bigger Unlock Than AGI</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-23 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/783549/baby-steps-review-ps5-steam" target="_blank">Baby Steps hits on the hell and hilarity of hiking</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-23 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/yorgie7/react-scheduler-fiber-architecture-explained-time-slicing-concurrent-rendering-wip-management-3knh" target="_blank">React Scheduler &amp; Fiber Architecture Explained: Time Slicing, Concurrent Rendering &amp; WIP Management 🚀</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-23 18:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18639410&w=600" alt="From Requirements to Results: Anchoring Agile With Traceability" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -204,15 +215,6 @@
                 <span class="time">2025-09-23 14:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18639345&w=600" alt="Testing Automation Antipatterns: When Good Practices Become Your Worst Enemy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/testing-automation-antipatterns" target="_blank">Testing Automation Antipatterns: When Good Practices Become Your Worst Enemy</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-23 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +234,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/steamfpssale.jpg" alt="A Whole Bunch Of Awesome Shooters Are Cheap Right Now On Steam" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/boomer-shooter-dusk-mycopunk-demos-sale-event-boomstock-2025-pc-2000627990" target="_blank">A Whole Bunch Of Awesome Shooters Are Cheap Right Now On Steam</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-23 18:23</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/AH-cover-main.jpg" alt="Discover Agatha Harkness’ Secrets in This Magical New Marvel Tome" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +288,6 @@
                 <span class="time">2025-09-23 16:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/trump-epstein.jpg?fit=1200%2C828&amp;quality=60&amp;ssl=1" alt="Take two Tylenol, hope Trump goes away in the morning" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/23/take-two-tylenol-hope-trump-goes-away-in-the-morning.html" target="_blank">Take two Tylenol, hope Trump goes away in the morning</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-23 15:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
