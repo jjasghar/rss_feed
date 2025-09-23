@@ -1,32 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-23 06:02:56 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-23 07:01:48 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, September 23, 2025 - 06:03 UTC</div>
+    <div class="newspaper-date">Tuesday, September 23, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/liveblog/2025/9/23/live-israel-intensifies-gaza-attacks-trump-to-meet-arab-muslim-leaders?traffic_source=rss" target="_blank">LIVE: Israel intensifies Gaza attacks, Trump to meet Arab, Muslim leaders</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-23 06:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,30 +86,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8617/live/879fa280-9835-11f0-928c-71dbb8619e94.jpg" alt="Trump to address UN General Assembly after France recognises Palestinian state" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cd9ykqw22zlo?at_medium=RSS&at_campaign=rss" target="_blank">Trump to address UN General Assembly after France recognises Palestinian state</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-23 01:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/25/09/1920x1080/skynews-benjamin-netanyahu_7021331.jpg?20250915131512" alt="No matter how strong Israel&#x27;s military, this isn&#x27;t a good place for this small country to be" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
                 <span class="title"><a href="https://news.sky.com/story/israel-is-increasingly-ostracised-and-no-matter-how-strong-its-army-its-not-a-good-place-to-be-13436492" target="_blank">No matter how strong Israel&#x27;s military, this isn&#x27;t a good place for this small country to be</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-09-23 01:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-benjamin-netanyahu_7021331.jpg?20250915131512" alt="Israel is increasingly ostracised - and no matter how strong its army, it&#x27;s not a good place to be" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/israel-is-increasingly-ostracised-and-no-matter-how-strong-its-army-its-not-a-good-place-to-be-13436492" target="_blank">Israel is increasingly ostracised - and no matter how strong its army, it&#x27;s not a good place to be</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-23 01:10</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/23/tearful-dembele-beats-yamal-to-ballon-dor-while-bonmati-achieves-hattrick?traffic_source=rss" target="_blank">Tearful Dembele beats Yamal to Ballon d’Or, as Bonmati achieves hat-trick</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-23 00:42</span>
             </div>
         </div>
 </div>
@@ -161,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/09/23/democratizing-your-data-access-with-ai-agents/" target="_blank">Democratizing your data access with AI agents</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-09-23 07:40</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnnqm1f006nzfwhne9u2y.png" alt="Top 5 Domain and IP Intelligence Tools in OSINT" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,15 +219,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/09/java-news-roundup-sep15-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Java News Roundup: JDK 25, GraalVM for JDK 25, OpenJDK JEPs, LangChain4j, JBang, Gradle</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-09-23 02:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2024/12/obs.jpg?resize=406%2C232&amp;ssl=1" alt="OBS Studio 32.0 Brings New Plugin Manager, NVIDIA RTX Effects" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/obs-studio-32-0-release-brings-new-plugin-manager-nvidia-rtx-effects" target="_blank">OBS Studio 32.0 Brings New Plugin Manager, NVIDIA RTX Effects</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-23 02:17</span>
             </div>
         </div>
 </div>
@@ -319,22 +326,13 @@
                 <span class="time">2025-09-22 15:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/09/22/borderline" target="_blank">Borderline</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-09-22 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 06:03 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
