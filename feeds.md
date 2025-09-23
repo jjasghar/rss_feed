@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-23 10:02:01 UTC -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing 54 RSS feeds at 2025-09-23 11:01:24 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: Linux.com -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 7 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Tuesday, September 23, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, September 23, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,9 +46,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/9/23/live-pakistan-vs-sri-lanka-asia-cup-2025-super-fours-match-commentary-stream-score?traffic_source=rss" target="_blank">LIVE: Pakistan vs Sri Lanka – Asia Cup 2025 Super Fours match</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-23 10:34</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/23/trumps-tylenol-announcement-what-causes-autism-and-is-cuba-autism-free?traffic_source=rss" target="_blank">Trump’s Tylenol announcement: What causes autism – and is Cuba autism free?</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-23 09:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-trump-29-gty-gmh-250921_1758496163442_hpMain_4x3t_384.jpg" alt="Trump to address United Nations General Assembly" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/trump-address-united-nations-general-assembly/story?id=125827572" target="_blank">Trump to address United Nations General Assembly</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-23 09:12</span>
             </div>
         </div>
 <div class="story">
@@ -78,29 +96,29 @@
                 <span class="time">2025-09-23 06:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/23/nx-s1-5550852/trump-restore-grant-funding-ucla" target="_blank">Judge orders Trump administration to restore $500 million in grant funding to UCLA</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-23 05:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/23/new-zealand-woman-guilty-of-murdering-2-children-hiding-bodies-in-luggage?traffic_source=rss" target="_blank">New Zealand woman guilty of murdering 2 children, hiding bodies in luggage</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-23 04:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/782765/uber-prepaid-pass-bundle-discount-route" target="_blank">Uber launches prepaid passes for frequent routes</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-23 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68472c41ba6b2eb46def4f69/master/pass/Best%20Organic%20Sheets%20for%20Your%20Non-Toxic%20Bedroom_.png" alt="WIRED Tested the Best Organic Sheets (2025): Coyuchi, The Citizenry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-organic-sheets/" target="_blank">WIRED Tested the Best Organic Sheets (2025): Coyuchi, The Citizenry</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-23 10:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -137,29 +155,20 @@
                 <span class="time">2025-09-23 05:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/22/after-india-openai-launches-its-affordable-chatgpt-go-plan-in-indonesia/" target="_blank">After India, OpenAI launches its affordable ChatGPT Go plan in Indonesia</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-23 05:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" alt="Chewy Promo Codes: $20 Off | September 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/chewy-promo-code/" target="_blank">Chewy Promo Codes: $20 Off | September 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-23 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/m0h3n/wlyn-tjrbhm-dr-skht-ykh-mrkhtplys-gym-b-nextjs-w-fastapi-47ci" target="_blank">اولین تجربه‌م در ساخت یک مارکت‌پلیس گیم با Next.js و FastAPI</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-23 10:52</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/stark_zhuang_df5076f35c68/top-5-domain-and-ip-intelligence-tools-in-osint-2a73" target="_blank">Top 5 Domain and IP Intelligence Tools in OSINT</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-23 05:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/farhan_khan_41ec7ff11ac1d/consensus-in-distributed-databases-1j7n" target="_blank">Consensus in Distributed Databases</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-23 03:46</span>
             </div>
         </div>
 </div>
@@ -324,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
