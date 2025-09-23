@@ -1,32 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-09-23 11:01:24 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-23 12:02:34 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Tuesday, September 23, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Tuesday, September 23, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -105,6 +101,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/781652/smart-light-matter-philips-hue-apple-home" target="_blank">Fall into smarter lighting</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-23 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/23/goodnotes-collaborative-docs-and-ai-assitant-to-cater-to-professional-users/" target="_blank">Goodnotes collaborative docs and AI assitant to cater to professional users</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-23 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/782765/uber-prepaid-pass-bundle-discount-route" target="_blank">Uber launches prepaid passes for frequent routes</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-23 11:00</span>
@@ -137,29 +151,20 @@
                 <span class="time">2025-09-23 09:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d1e224d4f5f78f3b59aa43/master/pass/iPhone%2017%20SOURCE%20Julian%20Chokkattu.jpg" alt="Apple iPhone 17 Review: Close to Perfect" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/apple-iphone-17/" target="_blank">Apple iPhone 17 Review: Close to Perfect</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-23 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/783409/od-kojima-xbox-game-trailer" target="_blank">A first look at Kojima’s OD Xbox game</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-23 05:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/music_youtube/kexp-rosali-rewind-live-on-kexp-33hb" target="_blank">KEXP: Rosali - Rewind (Live on KEXP)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-23 12:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -181,6 +186,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://go-review.googlesource.com/c/go/+/674077" target="_blank">Go has added Valgrind support</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-23 09:26</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/leonardkachi/acid-vs-base-the-ultimate-showdown-for-database-reliability-500c" target="_blank">ACID vs. BASE: The Ultimate Showdown for Database Reliability</a></span>
                 <span class="feed">DEV Community</span>
@@ -196,24 +210,6 @@
                 <span class="time">2025-09-23 07:48</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/09/23/democratizing-your-data-access-with-ai-agents/" target="_blank">Democratizing your data access with AI agents</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-09-23 07:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnnqm1f006nzfwhne9u2y.png" alt="Top 5 Domain and IP Intelligence Tools in OSINT" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/stark_zhuang_df5076f35c68/top-5-domain-and-ip-intelligence-tools-in-osint-2a73" target="_blank">Top 5 Domain and IP Intelligence Tools in OSINT</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-23 05:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -223,9 +219,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/details-about-chinese-surveillance-and-propaganda-companies.html" target="_blank">Details About Chinese Surveillance and Propaganda Companies</a></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/apples-new-memory-integrity-enforcement.html" target="_blank">Apple’s New Memory Integrity Enforcement</a></span>
                 <span class="feed">Schneier on Security</span>
-                <span class="time">2025-09-22 11:03</span>
+                <span class="time">2025-09-23 11:07</span>
             </div>
         </div>
 </div>
@@ -233,6 +229,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/od1.jpg" alt="Hideo Kojima Finally Reveals OD Footage, And It’s Utterly Terrifying" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/hideo-kojima-od-trailer-horror-2000627883" target="_blank">Hideo Kojima Finally Reveals OD Footage, And It’s Utterly Terrifying</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-23 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Bluey-Ludo-Studio-1.jpg" alt="How to Watch ‘Bluey’ Without a Streaming Service" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +283,6 @@
                 <span class="time">2025-09-22 20:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/61eb48dca6ab0.jpg?fit=1600%2C959&amp;quality=60&amp;ssl=1" alt="Firearms expert reacts to the guns of Metal Gear Solid 3 (mostly with horror)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/22/firearms-expert-reacts-to-the-guns-of-metal-gear-solid-3-mostly-with-horror.html" target="_blank">Firearms expert reacts to the guns of Metal Gear Solid 3 (mostly with horror)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-22 20:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 259 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
