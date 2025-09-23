@@ -1,29 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-23 04:02:24 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-23 05:02:09 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Garfield -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 1 new posts out of 20 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Tuesday, September 23, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Tuesday, September 23, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,9 +52,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/23/new-zealand-woman-guilty-of-murdering-2-children-hiding-bodies-in-luggage?traffic_source=rss" target="_blank">New Zealand woman guilty of murdering 2 children, hiding bodies in luggage</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-23 04:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/23/pakistan-floods-spark-cholera-fears-amid-other-rising-health-risks?traffic_source=rss" target="_blank">Pakistan floods spark cholera fears amid other rising health risks</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-23 01:59</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-benjamin-netanyahu_7021331.jpg?20250915131512" alt="No matter how strong Israel&#x27;s military, this isn&#x27;t a good place for this small country to be" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/israel-is-increasingly-ostracised-and-no-matter-how-strong-its-army-its-not-a-good-place-to-be-13436492" target="_blank">No matter how strong Israel&#x27;s military, this isn&#x27;t a good place for this small country to be</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-23 01:10</span>
             </div>
         </div>
 <div class="story">
@@ -75,29 +102,20 @@
                 <span class="time">2025-09-22 23:23</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758581652052_nn_ath_trump_acetaminophen_pregnant_women_250922_1920x1080-3xwtb0.jpg" alt="Trump links acetaminophen use in pregnancy to autism, without clear evidence" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-links-acetaminophen-use-in-pregnancy-to-autism-without-clear-evidence-248115269607" target="_blank">Trump links acetaminophen use in pregnancy to autism, without clear evidence</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-22 22:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/22/copenhagen-airport-shut-after-sighting-of-unidentified-drones?traffic_source=rss" target="_blank">Copenhagen airport shut after sighting of ‘unidentified drones’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-22 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" alt="Chewy Promo Codes: $20 Off | September 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/chewy-promo-code/" target="_blank">Chewy Promo Codes: $20 Off | September 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-23 05:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,15 +159,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/782993/steam-blockblasters-crypto-scam-malware" target="_blank">Steam game removed after cryptostealer takes over $150K</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-22 20:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/22/from-idea-to-first-check-raising-pre-seed-and-seed-capital-at-techcrunch-disrupt-2025/" target="_blank">What Early-Stage Investors Really Look for in Founders at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-22 19:15</span>
             </div>
         </div>
 </div>
@@ -330,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 265 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
