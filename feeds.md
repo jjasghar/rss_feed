@@ -1,31 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-24 04:02:10 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-24 05:02:19 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 22 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, September 24, 2025 - 04:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, September 24, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/9/24/trump-administration-rehires-laid-off-employees-after-cost-cutting-blitz?traffic_source=rss" target="_blank">Trump administration rehires laid-off employees after cost-cutting blitz</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-24 03:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-typhoon-ragasa-hong-kong_7029993.jpg?20250924043132" alt="China and Hong Kong brace for super typhoon after 14 killed in Taiwan - with 129 missing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/china-and-hong-kong-brace-for-super-typhoon-after-14-killed-in-taiwan-with-124-missing-13437050" target="_blank">China and Hong Kong brace for super typhoon after 14 killed in Taiwan - with 129 missing</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-24 03:11</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/donald-14-gty-gmh-250922_1758576106723_hpMain_4x3t_384.jpg" alt="Fact-checking President Donald Trump&#x27;s claims about autism" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -75,24 +97,6 @@
                 <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=125807330" target="_blank">Trump admin live updates: In major shift, Trump says Ukraine can win back seized land</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-23 23:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/23/israel-escalates-bombardment-as-tanks-push-deep-into-gaza-city?traffic_source=rss" target="_blank">Israel escalates bombardment as tanks push deep into Gaza City</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-23 23:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758669040243_nn_lkr_jimmy_kimmel_return_250923_1920x1080-dqojbm.jpg" alt="Jimmy Kimmel set to return to late night tonight" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/jimmy-kimmel-set-to-return-to-late-night-tonight-248194629904" target="_blank">Jimmy Kimmel set to return to late night tonight</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-23 23:10</span>
             </div>
         </div>
 </div>
@@ -163,6 +167,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mahmoudabbasi/analyzing-solid-principles-in-an-epsilon-greedy-recommender-java-21lm" target="_blank">🧠 Analyzing SOLID Principles in an Epsilon-Greedy Recommender (Java)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-24 04:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://ubuntu.com//blog/mythbusting-the-scope-of-livepatch-protection" target="_blank">Mythbusting the scope of Livepatch protection</a></span>
+                <span class="feed">Ubuntu blog</span>
+                <span class="time">2025-09-24 03:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/rmendoza/one-click-deployments-2-aws-eks-fargate-cluster-with-applications-using-terraform-16bk" target="_blank">One-Click Deployments #2: AWS EKS Fargate Cluster Using Terraform</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-24 03:05</span>
@@ -195,24 +217,6 @@
                 <span class="time">2025-09-24 00:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/SquashFS-Faster-Sparse-Copy" target="_blank">SquashFS Optimization Achieves 15,277x Performance In Developer Benchmark</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-24 00:23</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/harpreet_singh_c4ea4af253/implementing-caching-in-net-core-web-api-4d6l" target="_blank">Implementing Caching in .NET Core Web API</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-23 23:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -232,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Data-Shredder-Stick-Secure-Data-Wiping-Tool-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Wipe your old PC clean and keep your data safe for just $60" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/23/wipe-your-old-pc-clean-and-keep-your-data-safe-for-just-60.html" target="_blank">Wipe your old PC clean and keep your data safe for just $60</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-24 00:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/Borderlands-4.jpg" alt="Borderlands 4 Delayed Indefinitely On Switch 2 Just 10 Days From Release" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +290,6 @@
                 <span class="time">2025-09-23 21:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/donald-trump-jeffrey-epstein-holding-hands-statue-on-the-v0-rg22z0hx5xqf1.webp?fit=1080%2C810&amp;quality=55&amp;ssl=1" alt="Donald Trump and Jeffrey Epstein&#x27;s great friendship immortalized on the National Mall" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/23/donald-trump-and-jeffrey-epsteins-great-friendship-immortalized-on-the-national-mall.html" target="_blank">Donald Trump and Jeffrey Epstein&#x27;s great friendship immortalized on the National Mall</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-23 20:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -314,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 04:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
