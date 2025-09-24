@@ -1,36 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-24 10:01:56 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-24 11:01:40 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 27 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, September 24, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Wednesday, September 24, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb66/live/720acc90-9927-11f0-858a-a904eacbef23.jpg" alt="Howling winds and sheets of rain: In the eye of a typhoon in China" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cq8edyey1llo?at_medium=RSS&at_campaign=rss" target="_blank">Howling winds and sheets of rain: In the eye of a typhoon in China</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-24 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c61/live/c007b100-9923-11f0-af62-91486a511a31.jpg" alt="Urgent review ordered into asylum seeker taxi costs after BBC investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,15 +100,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/24/nx-s1-5527104/off-year-elections-consolidate-new-york" target="_blank">New York City may move its mayoral elections to even years. It&#x27;d be part of a trend</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-24 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/24/g-s1-90281/typhoon-ragasa-batters-hong-kong-and-southern-china" target="_blank">Typhoon Ragasa batters Hong Kong and southern China</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-24 08:57</span>
             </div>
         </div>
 </div>
@@ -165,12 +167,39 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/podcasts/ai-ml-data-engineering-trends-2025/en/smallimage/Podcast-AI-ML-Data-Engineering-Trends-Report-thumbnail-1757938876018.jpg" alt="Podcast: AI, ML, and Data Engineering InfoQ Trends Report 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/podcasts/ai-ml-data-engineering-trends-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: AI, ML, and Data Engineering InfoQ Trends Report 2025</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-24 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzjvyic4t5gq78l9pba16.png" alt="Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/robbin_murithi_f75005db58/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-1796" target="_blank">Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-24 10:47</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/naresh_gupta_xoriant/what-is-data-modernization-and-why-is-it-critical-for-enterprises-3bjf" target="_blank">What is data modernization and why is it critical for enterprises?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-24 08:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://cybersect.substack.com/p/that-secret-service-sim-farm-story" target="_blank">That Secret Service SIM farm story is bogus</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-24 08:24</span>
             </div>
         </div>
 <div class="story">
@@ -189,33 +218,6 @@
                 <span class="title"><a href="https://dev.to/daniil-qa/shadow-dom-in-test-automation-a-practical-guide-with-cypress-39o0" target="_blank">🥷 Shadow DOM in Test Automation: A Practical Guide with Cypress</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-24 05:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mahmoudabbasi/analyzing-solid-principles-in-an-epsilon-greedy-recommender-java-21lm" target="_blank">🧠 Analyzing SOLID Principles in an Epsilon-Greedy Recommender (Java)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-24 04:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://zubanls.com/" target="_blank">ZubanLS: A Mypy-compatible Python Language Server built in Rust</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-09-24 03:38</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/mythbusting-the-scope-of-livepatch-protection" target="_blank">Mythbusting the scope of Livepatch protection</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-09-24 03:12</span>
             </div>
         </div>
 </div>
@@ -328,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 260 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
