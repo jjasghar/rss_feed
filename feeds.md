@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-24 17:01:39 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-24 18:02:28 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 12 new posts out of 30 feeds processed -->
+<!-- Generated 5 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Wednesday, September 24, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Wednesday, September 24, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/9/24/lithium-americas-stock-surges-amid-possible-us-government-stake?traffic_source=rss" target="_blank">Lithium Americas’ stock surges amid possible US government stake</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-24 17:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/ice-shooting-4-rt-gmh-250924_1758729233971_hpMain_4x3t_384.jpg" alt="Sniper opens fire on Dallas ICE facility, killing 2 detainees, wounding 1: DHS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/multiple-people-shot-dallas-ice-field-office-source/story?id=125887376" target="_blank">Sniper opens fire on Dallas ICE facility, killing 2 detainees, wounding 1: DHS</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-24 17:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/ice-shooting-4-rt-gmh-250924_1758729233971_hpMain_4x3t_384.jpg" alt="3 detainees shot, 1 fatally, at Dallas ICE facility; FBI says shooting was targeted" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -86,29 +97,20 @@
                 <span class="time">2025-09-24 15:06</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/dallas-ice-6-ht-gmh-250924_1758719587102_hpMain_4x3t_384.jpg" alt="Multiple fatalities in apparent sniper attack at Dallas ICE facility: Acting director" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/multiple-people-shot-dallas-ice-field-office-source/story?id=125887376" target="_blank">Multiple fatalities in apparent sniper attack at Dallas ICE facility: Acting director</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-24 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/24/three-wounded-in-shooting-at-us-immigration-facility-in-dallas-texas?traffic_source=rss" target="_blank">Three wounded in shooting at US immigration facility in Dallas, Texas</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-24 13:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/784652/volvo-erev-hybrid-factory-range-us" target="_blank">Volvo’s next-gen hyrbids will be American-made EREVs</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-24 17:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2236379853-500x500.jpg" alt="Anti-vaccine allies cheer as Trump claims shots have “too much liquid”" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -154,20 +156,20 @@
                 <span class="time">2025-09-24 14:22</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/685ab0fbecbfc34a8f85ebcc/master/pass/MagSafe%20Chargers%20Reviewer%20Collage_Source_Amazon.png" alt="17 Best MagSafe Wireless Chargers (2025): Power Banks, Stands, Pads, and Travel Chargers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-magsafe-wireless-chargers/" target="_blank">17 Best MagSafe Wireless Chargers (2025): Power Banks, Stands, Pads, and Travel Chargers</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-24 13:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/MALIBAL-Made-In-US-Laptops" target="_blank">Linux Laptop Vendor MALIBAL Attempting To Pursue Made-In-USA Laptops</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-24 17:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -196,30 +198,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/social-impact/using-ai-to-map-hope-for-refugees-with-unhcr-the-un-refugee-agency/" target="_blank">Using AI to map hope for refugees with UNHCR, the UN Refugee Agency</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-09-24 16:12</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18644009&w=600" alt="Using TanStack Query for Scalable React Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
                 <span class="title"><a href="https://dzone.com/articles/tanstack-query-scalable-react-apps" target="_blank">Using TanStack Query for Scalable React Applications</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-09-24 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/usama_dev/mastering-javascript-arrays-from-basics-to-modern-es6-218a" target="_blank">🏆 Mastering JavaScript Arrays — From Basics to Modern ES6+</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-24 14:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/presentations/saas-mistakes/en/mediumimage/jon-topper-medium-1756893579416.jpg" alt="Presentation: Things SaaS Builders Keep Getting Wrong" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/presentations/saas-mistakes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Things SaaS Builders Keep Getting Wrong</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-24 14:28</span>
             </div>
         </div>
 </div>
@@ -350,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
