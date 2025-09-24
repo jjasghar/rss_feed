@@ -1,41 +1,27 @@
-<!-- Processing 54 RSS feeds at 2025-09-24 00:04:34 UTC -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-09-24 01:29:15 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 33 feeds processed -->
+<!-- Generated 5 new posts out of 19 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, September 24, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Wednesday, September 24, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +37,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/24/colombia-blasts-genocidal-israel-and-allies-over-gaza-atrocities?traffic_source=rss" target="_blank">Colombia blasts genocidal Israel and allies over Gaza atrocities</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-24 00:31</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/un-55-rt-gmh-250923_1758650066108_hpMain_4x3t_384.jpg" alt="Trump admin live updates: In major shift, Trump says Ukraine can win back seized land" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -70,6 +65,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758668461319_nn_gha_Trump_UN_250923_1920x1080-3jiw4s.jpg" alt="Trump signals shift on Ukraine after blunt speech criticizing the U.N." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-signals-shift-on-ukraine-after-blunt-speech-criticizing-the-u-n-248194117752" target="_blank">Trump signals shift on Ukraine after blunt speech criticizing the U.N.</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-23 23:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18ce/live/0d271e70-93d5-11f0-bab6-4787ef35d8ed.jpg" alt="More young people say rising bills now stopping them moving out" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -85,24 +89,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/23/in-major-shift-trump-says-ukraine-can-win-back-all-territory-from-russia?traffic_source=rss" target="_blank">In major shift, Trump says Ukraine can win back all territory from Russia</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-23 21:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/23/nx-s1-5539314/want-a-seat-at-this-synagogue-for-the-high-holidays-you-have-to-register-to-vote-fir" target="_blank">Want a seat at this synagogue for the High Holidays? You have to register to vote first</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-23 21:08</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/23/nx-s1-5551269/trump-ukraine-territory" target="_blank">Trump, in major shift, suggests Ukraine can win back territory long held by Russia</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-23 20:57</span>
             </div>
         </div>
 </div>
@@ -170,6 +156,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="Code reviews are no longer just about human bandwidth. Think of AI not as replacing peer reviews, but as a first-pass reviewer that saves time and raises quality." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jaideepparashar/code-reviews-are-no-longer-just-about-human-bandwidth-think-of-ai-not-as-replacing-peer-1gn6" target="_blank">Code reviews are no longer just about human bandwidth. Think of AI not as replacing peer reviews, but as a first-pass reviewer that saves time and raises quality.</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-24 01:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/SquashFS-Faster-Sparse-Copy" target="_blank">SquashFS Optimization Achieves 15,277x Performance In Developer Benchmark</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-24 00:23</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -203,24 +207,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Haptic-Touchpad-Linux-6.18" target="_blank">Haptic Touchpad Support Expected For Linux 6.18</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-23 21:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yorgie7/is-react-really-single-page-understanding-routing-multiple-pages-in-spas-4d10" target="_blank">🌐 Is React Really Single Page? Understanding Routing &amp; Multiple Pages in SPAs</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-23 19:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18653290&w=600" alt="LLMs at the Edge: Decentralized Power and Control" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/lms-edge-decentralized-power-control" target="_blank">LLMs at the Edge: Decentralized Power and Control</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-23 19:00</span>
             </div>
         </div>
 </div>
@@ -302,6 +288,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5664.png" alt="The Metehmorphosis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5664" target="_blank">The Metehmorphosis</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-09-24 00:58</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://www.smbc-comics.com/comics/1758567650-20250923.png" alt="Saturday Morning Breakfast Cereal - Periclinal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-smile"></span>
@@ -310,22 +305,13 @@
                 <span class="time">2025-09-23 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5658.png" alt="comics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5658" target="_blank">comics</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-09-23 01:06</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
