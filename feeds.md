@@ -1,35 +1,46 @@
-<!-- Processing 54 RSS feeds at 2025-09-24 08:02:10 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-09-24 09:01:44 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 27 feeds processed -->
+<!-- Generated 5 new posts out of 36 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, September 24, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, September 24, 2025 - 09:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +56,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/un-59-rt-gmh-250923_1758650765830_hpMain_4x3t_384.jpg" alt="Zelenskyy praises &#x27;well-informed&#x27; Trump after president&#x27;s Russia war pivot" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/zelenskyy-praises-informed-trump-after-presidents-russia-war/story?id=125882498" target="_blank">Zelenskyy praises &#x27;well-informed&#x27; Trump after president&#x27;s Russia war pivot</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-24 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/24/g-s1-90281/typhoon-ragasa-batters-hong-kong-and-southern-china" target="_blank">Typhoon Ragasa batters Hong Kong and southern China</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-24 08:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/24/which-teams-can-still-qualify-for-the-asia-cup-2025-final-and-how?traffic_source=rss" target="_blank">Which teams can still qualify for the Asia Cup 2025 final, and how?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-24 08:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -70,33 +108,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/23/nx-s1-5551334/camp-mystic-plans-to-reopen-in-texas-next-summer-a-year-after-floods-killed-27" target="_blank">Camp Mystic plans to reopen in Texas next summer, a year after floods killed 27</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-24 03:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/9/24/trump-administration-rehires-laid-off-employees-after-cost-cutting-blitz?traffic_source=rss" target="_blank">Trump administration rehires laid-off employees after cost-cutting blitz</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-24 03:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-typhoon-ragasa-hong-kong_7029993.jpg?20250924043132" alt="China and Hong Kong brace for super typhoon after 14 killed in Taiwan - with 152 missing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/china-and-hong-kong-brace-for-super-typhoon-after-14-killed-in-taiwan-with-124-missing-13437050" target="_blank">China and Hong Kong brace for super typhoon after 14 killed in Taiwan - with 152 missing</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-24 03:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-typhoon-ragasa-hong-kong_7029993.jpg?20250924043132" alt="China and Hong Kong brace for super typhoon after 14 killed in Taiwan - with 129 missing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/china-and-hong-kong-brace-for-super-typhoon-after-14-killed-in-taiwan-with-124-missing-13437050" target="_blank">China and Hong Kong brace for super typhoon after 14 killed in Taiwan - with 129 missing</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-24 03:11</span>
             </div>
         </div>
 </div>
@@ -167,6 +178,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/naresh_gupta_xoriant/what-is-data-modernization-and-why-is-it-critical-for-enterprises-3bjf" target="_blank">What is data modernization and why is it critical for enterprises?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-24 08:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/hardik_b2d8f0bca/building-the-ultimate-smart-home-apis-every-interior-designer-and-developer-should-know-371p" target="_blank">Building the Ultimate Smart Home: APIs Every Interior Designer (and Developer) Should Know</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-24 06:52</span>
@@ -206,15 +226,6 @@
                 <span class="title"><a href="https://ubuntu.com//blog/mythbusting-the-scope-of-livepatch-protection" target="_blank">Mythbusting the scope of Livepatch protection</a></span>
                 <span class="feed">Ubuntu blog</span>
                 <span class="time">2025-09-24 03:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/rmendoza/one-click-deployments-2-aws-eks-fargate-cluster-with-applications-using-terraform-16bk" target="_blank">One-Click Deployments #2: AWS EKS Fargate Cluster Using Terraform</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-24 03:05</span>
             </div>
         </div>
 </div>
@@ -296,6 +307,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/09/24/deluxe-apartment-in-the-sky" target="_blank">Deluxe Apartment In The Sky</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-09-24 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5664.png" alt="The Metehmorphosis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -318,8 +338,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 09:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
