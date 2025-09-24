@@ -1,11 +1,8 @@
-<!-- Processing 54 RSS feeds at 2025-09-24 09:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-24 10:01:56 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
@@ -13,34 +10,27 @@
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 36 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 8 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, September 24, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, September 24, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -57,6 +47,33 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c61/live/c007b100-9923-11f0-af62-91486a511a31.jpg" alt="Urgent review ordered into asylum seeker taxi costs after BBC investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2j3regpdno?at_medium=RSS&at_campaign=rss" target="_blank">Urgent review ordered into asylum seeker taxi costs after BBC investigation</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-24 09:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/24/statue-of-donald-trump-and-jeffrey-epstein-appears-in-us-capital?traffic_source=rss" target="_blank">Statue of Donald Trump and Jeffrey Epstein appears in US capital</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-24 09:39</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/un-59-rt-gmh-250923_1758650765830_hpMain_4x3t_384.jpg" alt="Kremlin says Russia is not a &#x27;paper tiger&#x27; after Trump criticism" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/International/zelenskyy-praises-informed-trump-after-presidents-russia-war/story?id=125882498" target="_blank">Kremlin says Russia is not a &#x27;paper tiger&#x27; after Trump criticism</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-24 09:16</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/un-59-rt-gmh-250923_1758650765830_hpMain_4x3t_384.jpg" alt="Zelenskyy praises &#x27;well-informed&#x27; Trump after president&#x27;s Russia war pivot" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -69,45 +86,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/24/nx-s1-5527104/off-year-elections-consolidate-new-york" target="_blank">New York City may move its mayoral elections to even years. It&#x27;d be part of a trend</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-24 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/09/24/g-s1-90281/typhoon-ragasa-batters-hong-kong-and-southern-china" target="_blank">Typhoon Ragasa batters Hong Kong and southern China</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-24 08:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/24/which-teams-can-still-qualify-for-the-asia-cup-2025-final-and-how?traffic_source=rss" target="_blank">Which teams can still qualify for the Asia Cup 2025 final, and how?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-24 08:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/24/nx-s1-5551277/jimmy-kimmel-live-abc-back-on-air-glen-powell-fcc-trump" target="_blank">&#x27;We have to speak out,&#x27; Jimmy Kimmel says in his late night return</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-24 06:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/24/youre-destroying-your-countries-key-moments-from-trumps-un-speech?traffic_source=rss" target="_blank">‘You’re destroying your countries’: Key moments from Trump’s UN speech</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-24 04:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/23/nx-s1-5551334/camp-mystic-plans-to-reopen-in-texas-next-summer-a-year-after-floods-killed-27" target="_blank">Camp Mystic plans to reopen in Texas next summer, a year after floods killed 27</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-24 03:48</span>
             </div>
         </div>
 </div>
@@ -115,6 +105,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/24/how-al-gore-used-ai-to-track-660m-polluters/" target="_blank">How Al Gore used AI to track 660M polluters</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-24 10:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68d1555234df2cece57a6ec7/master/pass/1801579906" alt="The World’s Oceans Are Hurtling Toward Breaking Point" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/human-impact-on-oceans-to-double-by-2050-study/" target="_blank">The World’s Oceans Are Hurtling Toward Breaking Point</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-24 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68d30fb549292aa8a4480975/master/pass/Logitech's%20Solar-Powered%20Keyboard%20Is%20Back,%20and%20It's%20Still%20Pretty%20Basic.png" alt="Logitech Signature Solar Slim+ K980 Keyboard Review: See the Light" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,24 +157,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/784277/borderlands-4-nintendo-switch-2-delay" target="_blank">The Switch 2 version of Borderlands 4 has been delayed</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-23 22:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/derry1-500x500.jpg" alt="Pennywise gets an origin story in Welcome to Derry trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/culture/2025/09/pennywise-gets-an-origin-story-in-welcome-to-derry-trailer/" target="_blank">Pennywise gets an origin story in Welcome to Derry trailer</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-23 22:34</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/23/openai-is-building-five-new-stargate-data-centers-with-oracle-and-softbank/" target="_blank">OpenAI is building five new Stargate data centers with Oracle and SoftBank</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-23 22:24</span>
             </div>
         </div>
 </div>
@@ -248,6 +238,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/MARRIE1-1920x1362-1.jpg" alt="Dive Into the Most Breathtaking Ocean Photos of the Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/dive-into-the-most-breathtaking-ocean-photos-of-the-year-2000662785" target="_blank">Dive Into the Most Breathtaking Ocean Photos of the Year</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-24 09:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Data-Shredder-Stick-Secure-Data-Wiping-Tool-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Wipe your old PC clean and keep your data safe for just $60" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -292,15 +291,6 @@
                 <span class="time">2025-09-23 22:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/the-mandalorian-and-grogu-rotta.jpg" alt="A Brief History of Swole Hutts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/star-wars-mandalorian-and-grogu-swole-hutt-explained-2000662859" target="_blank">A Brief History of Swole Hutts</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-23 21:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -338,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 256 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 260 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
