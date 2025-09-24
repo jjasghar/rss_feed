@@ -1,30 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-24 19:01:40 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-24 20:01:50 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 8 new posts out of 22 feeds processed -->
+<!-- Generated 6 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, September 24, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Wednesday, September 24, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -102,6 +107,42 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/24/neon-the-no-2-social-app-on-the-apple-app-store-pays-users-to-record-their-phone-calls-and-sells-data-to-ai-firms/" target="_blank">Neon, the No. 2 social app on the Apple App Store, pays users to record their phone calls and sells data to AI firms</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-24 19:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/jimmy-kimmel-return-500x500-1758739137.jpg" alt="Jimmy Kimmel returns, calls FCC chairman an embarrassment to Republicans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/jimmy-kimmel-returns-calls-fcc-chairman-an-embarrassment-to-republicans/" target="_blank">Jimmy Kimmel returns, calls FCC chairman an embarrassment to Republicans</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-24 19:47</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68d429476d63275f85480657/master/pass/Save%20over%20$200%20on%20Our%20Favorite%20Budget%20GPU.png" alt="Save $50 on Our Favorite Budget Graphics Card" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/nvidia-gpu-deal-september-2025/" target="_blank">Save $50 on Our Favorite Budget Graphics Card</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-24 19:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/635839/best-foldable-phone" target="_blank">The best foldable phone you can buy</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-24 19:12</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/784872/meta-lab-pop-up-shops-smart-glasses-ai-ray-ban-display" target="_blank">Meta is opening pop-up shops to show off its smart glasses with a display</a></span>
                 <span class="feed">The Verge</span>
@@ -115,42 +156,6 @@
                 <span class="title"><a href="https://www.wired.com/story/this-ai-powered-robot-keeps-going-even-if-you-attack-it-with-a-chainsaw/" target="_blank">This AI-Powered Robot Keeps Going Even if You Attack It With a Chainsaw</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-09-24 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/784652/volvo-erev-hybrid-factory-range-us" target="_blank">Volvo’s next-gen hyrbids will be American-made EREVs</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-24 17:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2236379853-500x500.jpg" alt="Anti-vaccine allies cheer as Trump claims shots have “too much liquid”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/09/trump-pacifies-anti-vaccine-allies-by-trashing-shots-alongside-tylenol/" target="_blank">Anti-vaccine allies cheer as Trump claims shots have “too much liquid”</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-24 16:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2209939477-500x500.jpg" alt="Taiwan starts weaponizing chip access after US urged it to, expert says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/pacifying-us-taiwan-weaponizes-chip-access-targeting-south-africa-first/" target="_blank">Taiwan starts weaponizing chip access after US urged it to, expert says</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-24 15:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d375bc2fbb960e6856c278/master/pass/The%206%20Best%20Backpacking%20Stoves.png" alt="Best Backpacking Stove (2025): MSR, Jetboil, Firebox" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-backpacking-stoves/" target="_blank">Best Backpacking Stove (2025): MSR, Jetboil, Firebox</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-24 15:30</span>
             </div>
         </div>
 </div>
@@ -250,6 +255,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K5YFSGN3H3MXEVR0DZ6JCAVX/hero-image.jpg" alt="Apple Might Open Up iPhones to Third-Party Smartwatches" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/apple-might-support-third-party-smartwatches?utm_medium=RSS" target="_blank">Apple Might Open Up iPhones to Third-Party Smartwatches</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-24 19:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K5W4MGBMDHW3NWFEJXTPS1DP/hero-image.png" alt="I Tested Three of the Biggest AI Image Generators, and One Came Out on Top (Barely)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -283,15 +297,6 @@
                 <span class="title"><a href="https://kotaku.com/annapurna-showcase-tgs-trailers-zelda-kpop-ai-puzzle-2000628182" target="_blank">The Publisher Behind The Award-Winning Stray Just Revealed Three Cool New Games</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-09-24 16:51</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/7_July_HURRICANE-Helene.jpg" alt="Trump’s Hurricane Helene Fund Raised Millions. Good Luck Finding the Receipts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/trumps-hurricane-helene-fund-raised-millions-good-luck-finding-the-receipts-2000663218" target="_blank">Trump’s Hurricane Helene Fund Raised Millions. Good Luck Finding the Receipts</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-24 16:35</span>
             </div>
         </div>
 </div>
@@ -340,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
