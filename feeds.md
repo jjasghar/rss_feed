@@ -1,36 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-24 21:01:58 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-24 22:01:40 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 28 feeds processed -->
+<!-- Generated 9 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Wednesday, September 24, 2025 - 21:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, September 24, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/ice-shooting-4-rt-gmh-250924_1758729233971_hpMain_4x3t_384.jpg" alt="Sniper opens fire on Dallas ICE facility, killing 1 detainee, wounding 2: DHS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/multiple-people-shot-dallas-ice-field-office-source/story?id=125887376" target="_blank">Sniper opens fire on Dallas ICE facility, killing 1 detainee, wounding 2: DHS</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-24 21:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-kaja-kallas-european-commission_7030825.jpg?20250924213346" alt="&#x27;Great regret&#x27; some European nations buying Russian oil and gas, says top EU official" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/donald-trump-is-right-that-european-nations-should-stop-buying-russian-energy-says-top-eu-official-13437532" target="_blank">&#x27;Great regret&#x27; some European nations buying Russian oil and gas, says top EU official</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-24 21:18</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,30 +88,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c21b/live/26839050-995d-11f0-928c-71dbb8619e94.jpg" alt="Russia will expand aggression beyond Ukraine if not stopped, Zelensky warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/9/24/lithium-americas-stock-surges-amid-possible-us-government-stake?traffic_source=rss" target="_blank">Lithium Americas’ stock surges amid possible US government stake</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-24 17:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/ice-shooting-4-rt-gmh-250924_1758729233971_hpMain_4x3t_384.jpg" alt="Sniper opens fire on Dallas ICE facility, killing 2 detainees, wounding 1: DHS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/multiple-people-shot-dallas-ice-field-office-source/story?id=125887376" target="_blank">Sniper opens fire on Dallas ICE facility, killing 2 detainees, wounding 1: DHS</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-24 17:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/ice-shooting-4-rt-gmh-250924_1758729233971_hpMain_4x3t_384.jpg" alt="3 detainees shot, 1 fatally, at Dallas ICE facility; FBI says shooting was targeted" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/multiple-people-shot-dallas-ice-field-office-source/story?id=125887376" target="_blank">3 detainees shot, 1 fatally, at Dallas ICE facility; FBI says shooting was targeted</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-24 16:35</span>
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c5yg921rjrko?at_medium=RSS&at_campaign=rss" target="_blank">Russia will expand aggression beyond Ukraine if not stopped, Zelensky warns</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-24 18:22</span>
             </div>
         </div>
 </div>
@@ -105,6 +101,33 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/video/chipirons-big-idea-rethinking-mri-access-not-replacing-old-machines/" target="_blank">Chipiron’s big idea: rethinking MRI access, not replacing old machines</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-24 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/784997/qualcomm-snapdragon-8-elite-gen-5" target="_blank">Qualcomm announces the Snapdragon 8 Elite Gen 5</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-24 21:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/686c39e6b5b31a31913f4a83/master/pass/Best%20Robot%20Vaccuums.png" alt="9 Best Robot Vacuums (2025): Tested and Reviewed in Real Homes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-robot-vacuums/" target="_blank">9 Best Robot Vacuums (2025): Tested and Reviewed in Real Homes</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-24 21:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -132,38 +155,20 @@
                 <span class="time">2025-09-24 19:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/jimmy-kimmel-return-500x500-1758739137.jpg" alt="Jimmy Kimmel returns, calls FCC chairman an embarrassment to Republicans" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/jimmy-kimmel-returns-calls-fcc-chairman-an-embarrassment-to-republicans/" target="_blank">Jimmy Kimmel returns, calls FCC chairman an embarrassment to Republicans</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-24 19:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d429476d63275f85480657/master/pass/Save%20over%20$200%20on%20Our%20Favorite%20Budget%20GPU.png" alt="Save $50 on Our Favorite Budget Graphics Card" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/nvidia-gpu-deal-september-2025/" target="_blank">Save $50 on Our Favorite Budget Graphics Card</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-24 19:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/635839/best-foldable-phone" target="_blank">The best foldable phone you can buy</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-24 19:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Qualcomm-X2-Elite-Announced" target="_blank">Qualcomm Announces X2 Elite SoCs - Up To 18 Cores &amp; Up To 5.0GHz Boost Frequency</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-24 21:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -207,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/aaronksaunders/chatgpt-mobile-app-tutorial-vue-convex-capacitor-step-by-step-16kd" target="_blank">ChatGPT Mobile App Tutorial: Vue, Convex &amp; Capacitor (Step-by-Step)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-24 16:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://mathstodon.xyz/@tao/115259943398316677" target="_blank">Terence Tao: The role of small organizations in society has shrunk significantly</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-24 16:32</span>
             </div>
         </div>
 </div>
@@ -355,8 +351,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 21:02 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
