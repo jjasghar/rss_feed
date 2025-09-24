@@ -1,38 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-09-24 14:01:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-24 15:01:49 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 8 new posts out of 29 feeds processed -->
+<!-- Processing: Martin Fowler -->
+<!-- Generated 6 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Wednesday, September 24, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Wednesday, September 24, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -108,6 +98,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/783718/hades-ii-2-1-0-update-review-pc-nintendo-switch" target="_blank">Hades II&amp;#8217;s big 1.0 update has me obsessed all over again</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-24 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/dnacrime-500x500.jpg" alt="The DHS has been quietly harvesting DNA from Americans for years" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/the-dhs-has-been-quietly-harvesting-dna-from-americans-for-years/" target="_blank">The DHS has been quietly harvesting DNA from Americans for years</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-24 14:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/685ab0fbecbfc34a8f85ebcc/master/pass/MagSafe%20Chargers%20Reviewer%20Collage_Source_Amazon.png" alt="17 Best MagSafe Wireless Chargers (2025): Power Banks, Stands, Pads, and Travel Chargers" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -143,29 +151,38 @@
                 <span class="time">2025-09-24 11:15</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/24/how-al-gore-used-ai-to-track-660m-polluters/" target="_blank">How Al Gore used AI to track 660M polluters</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-24 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d1555234df2cece57a6ec7/master/pass/1801579906" alt="The World’s Oceans Are Hurtling Toward Breaking Point" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/human-impact-on-oceans-to-double-by-2050-study/" target="_blank">The World’s Oceans Are Hurtling Toward Breaking Point</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-24 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/usama_dev/mastering-javascript-arrays-from-basics-to-modern-es6-218a" target="_blank">🏆 Mastering JavaScript Arrays — From Basics to Modern ES6+</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-24 14:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/intel-xeon-6-granite-rapids-amx" target="_blank">The Massive AI Performance Benefit With AMX On Intel Xeon 6 &quot;Granite Rapids&quot;</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-24 14:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://labs.quansight.org/blog/free-threaded-gc-3-14" target="_blank">Unlocking Performance in Python&#x27;s Free-Threaded Future: GC Optimizations</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-09-24 13:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18643995&w=600" alt="Why I Ditched Redis for Cloudflare Durable Objects in My Rate Limiter" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -191,33 +208,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/09/gitpod-ona/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Gitpod Rebrands to Ona, Aiming to Become the AI-Powered Center of Software Development</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-09-24 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/podcasts/ai-ml-data-engineering-trends-2025/en/smallimage/Podcast-AI-ML-Data-Engineering-Trends-Report-thumbnail-1757938876018.jpg" alt="Podcast: AI, ML, and Data Engineering InfoQ Trends Report 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/podcasts/ai-ml-data-engineering-trends-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: AI, ML, and Data Engineering InfoQ Trends Report 2025</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-24 11:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzjvyic4t5gq78l9pba16.png" alt="Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/robbin_murithi_f75005db58/apache-kafka-deep-dive-core-concepts-data-engineering-applications-and-real-world-production-1796" target="_blank">Apache Kafka Deep Dive: Core Concepts, Data Engineering Applications, and Real-World Production Practices</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-24 10:47</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/naresh_gupta_xoriant/what-is-data-modernization-and-why-is-it-critical-for-enterprises-3bjf" target="_blank">What is data modernization and why is it critical for enterprises?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-24 08:51</span>
             </div>
         </div>
 </div>
@@ -339,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
