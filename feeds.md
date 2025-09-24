@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-24 06:02:31 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-09-24 07:02:02 UTC -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Wednesday, September 24, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Wednesday, September 24, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/24/nx-s1-5551277/jimmy-kimmel-live-abc-back-on-air-glen-powell-fcc-trump" target="_blank">&#x27;We have to speak out,&#x27; Jimmy Kimmel says in his late night return</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-24 06:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -73,30 +82,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-typhoon-ragasa-hong-kong_7029993.jpg?20250924043132" alt="China and Hong Kong brace for super typhoon after 14 killed in Taiwan - with 152 missing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/china-and-hong-kong-brace-for-super-typhoon-after-14-killed-in-taiwan-with-124-missing-13437050" target="_blank">China and Hong Kong brace for super typhoon after 14 killed in Taiwan - with 152 missing</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-24 03:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://e3.365dm.com/25/09/1920x1080/skynews-typhoon-ragasa-hong-kong_7029993.jpg?20250924043132" alt="China and Hong Kong brace for super typhoon after 14 killed in Taiwan - with 129 missing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-satellite"></span>
                 <span class="title"><a href="https://news.sky.com/story/china-and-hong-kong-brace-for-super-typhoon-after-14-killed-in-taiwan-with-124-missing-13437050" target="_blank">China and Hong Kong brace for super typhoon after 14 killed in Taiwan - with 129 missing</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-09-24 03:11</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-14-gty-gmh-250922_1758576106723_hpMain_4x3t_384.jpg" alt="Fact-checking President Donald Trump&#x27;s claims about autism" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Health/fact-checking-president-donald-trumps-claims-autism/story?id=125838403" target="_blank">Fact-checking President Donald Trump&#x27;s claims about autism</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-24 01:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fef5/live/628ea1d0-986c-11f0-af62-91486a511a31.jpg" alt="NHS trust repays £5m over maternity failings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/czrp1282grvo?at_medium=RSS&at_campaign=rss" target="_blank">NHS trust repays £5m over maternity failings</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-24 00:42</span>
             </div>
         </div>
 </div>
@@ -167,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hardik_b2d8f0bca/building-the-ultimate-smart-home-apis-every-interior-designer-and-developer-should-know-371p" target="_blank">Building the Ultimate Smart Home: APIs Every Interior Designer (and Developer) Should Know</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-24 06:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/daniil-qa/shadow-dom-in-test-automation-a-practical-guide-with-cypress-39o0" target="_blank">🥷 Shadow DOM in Test Automation: A Practical Guide with Cypress</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-24 05:56</span>
@@ -206,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/rmendoza/one-click-deployments-2-aws-eks-fargate-cluster-with-applications-using-terraform-16bk" target="_blank">One-Click Deployments #2: AWS EKS Fargate Cluster Using Terraform</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-24 03:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="Code reviews are no longer just about human bandwidth. Think of AI not as replacing peer reviews, but as a first-pass reviewer that saves time and raises quality." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jaideepparashar/code-reviews-are-no-longer-just-about-human-bandwidth-think-of-ai-not-as-replacing-peer-1gn6" target="_blank">Code reviews are no longer just about human bandwidth. Think of AI not as replacing peer reviews, but as a first-pass reviewer that saves time and raises quality.</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-24 01:24</span>
             </div>
         </div>
 </div>
@@ -318,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 256 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
