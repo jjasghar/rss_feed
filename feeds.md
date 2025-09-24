@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-24 11:01:40 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-24 12:02:55 UTC -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, September 24, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Wednesday, September 24, 2025 - 12:03 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/24/super-typhoon-ragasa-leaves-destruction-in-taiwan-hong-kong-china?traffic_source=rss" target="_blank">Super Typhoon Ragasa leaves destruction in Taiwan, Hong Kong, China</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-24 11:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb66/live/720acc90-9927-11f0-858a-a904eacbef23.jpg" alt="Howling winds and sheets of rain: In the eye of a typhoon in China" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,20 +98,29 @@
                 <span class="time">2025-09-24 09:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/24/nx-s1-5527104/off-year-elections-consolidate-new-york" target="_blank">New York City may move its mayoral elections to even years. It&#x27;d be part of a trend</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-24 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/784442/bluesky-seems-to-be-having-trouble" target="_blank">Bluesky seems to be having trouble</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-24 11:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/24/googles-cheaper-ai-plus-plan-is-now-available-in-over-40-countries/" target="_blank">Google’s cheaper AI Plus plan is now available in over 40 countries</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-24 11:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -141,24 +155,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/784324/apple-iphone-17-pro-ifixit-teardown-scratch" target="_blank">iFixit zooms in on reports of an iPhone 17 Pro scratch problem</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-24 02:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d30d115c9ba286fd0ce961/master/pass/Find-My-Parking-Cops-1298805388.jpg" alt="For One Glorious Morning, a Website Saved San Francisco From Parking Tickets" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/san-francisco-find-my-parking-cops/" target="_blank">For One Glorious Morning, a Website Saved San Francisco From Parking Tickets</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-24 00:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/784277/borderlands-4-nintendo-switch-2-delay" target="_blank">The Switch 2 version of Borderlands 4 has been delayed</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-23 22:46</span>
             </div>
         </div>
 </div>
@@ -228,10 +224,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/apples-new-memory-integrity-enforcement.html" target="_blank">Apple’s New Memory Integrity Enforcement</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-09-23 11:07</span>
+                <span class="fa fa-fw fa-shield-halved"></span>
+                <span class="title"><a href="https://krebsonsecurity.com/2025/09/feds-tie-scattered-spider-duo-to-115m-in-ransoms/" target="_blank">Feds Tie ‘Scattered Spider’ Duo to $115M in Ransoms</a></span>
+                <span class="feed">Krebs on Security</span>
+                <span class="time">2025-09-24 11:48</span>
             </div>
         </div>
 </div>
@@ -330,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 12:03 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
