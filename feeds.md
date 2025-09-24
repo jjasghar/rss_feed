@@ -1,35 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-24 05:02:19 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-24 06:02:31 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Wednesday, September 24, 2025 - 05:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Wednesday, September 24, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/24/youre-destroying-your-countries-key-moments-from-trumps-un-speech?traffic_source=rss" target="_blank">‘You’re destroying your countries’: Key moments from Trump’s UN speech</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-24 04:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/23/nx-s1-5551334/camp-mystic-plans-to-reopen-in-texas-next-summer-a-year-after-floods-killed-27" target="_blank">Camp Mystic plans to reopen in Texas next summer, a year after floods killed 27</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-24 03:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,24 +97,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/czrp1282grvo?at_medium=RSS&at_campaign=rss" target="_blank">NHS trust repays £5m over maternity failings</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-24 00:42</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/24/colombia-blasts-genocidal-israel-and-allies-over-gaza-atrocities?traffic_source=rss" target="_blank">Colombia blasts genocidal Israel and allies over Gaza atrocities</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-24 00:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/un-55-rt-gmh-250923_1758650066108_hpMain_4x3t_384.jpg" alt="Trump admin live updates: In major shift, Trump says Ukraine can win back seized land" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=125807330" target="_blank">Trump admin live updates: In major shift, Trump says Ukraine can win back seized land</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-23 23:24</span>
             </div>
         </div>
 </div>
@@ -167,9 +167,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/daniil-qa/shadow-dom-in-test-automation-a-practical-guide-with-cypress-39o0" target="_blank">🥷 Shadow DOM in Test Automation: A Practical Guide with Cypress</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-24 05:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/mahmoudabbasi/analyzing-solid-principles-in-an-epsilon-greedy-recommender-java-21lm" target="_blank">🧠 Analyzing SOLID Principles in an Epsilon-Greedy Recommender (Java)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-24 04:53</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://zubanls.com/" target="_blank">ZubanLS: A Mypy-compatible Python Language Server built in Rust</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-09-24 03:38</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +215,6 @@
                 <span class="title"><a href="https://dev.to/jaideepparashar/code-reviews-are-no-longer-just-about-human-bandwidth-think-of-ai-not-as-replacing-peer-1gn6" target="_blank">Code reviews are no longer just about human bandwidth. Think of AI not as replacing peer reviews, but as a first-pass reviewer that saves time and raises quality.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-24 01:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/05/elementary-os.jpg?resize=406%2C232&amp;ssl=1" alt="elementary OS 8.0.2 Released with Linux 6.14 Kernel" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/elementary-os-8-0-2-released" target="_blank">elementary OS 8.0.2 Released with Linux 6.14 Kernel</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-24 01:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://larian.com/support/faqs/steam-deck-native-version_121" target="_blank">Baldur&#x27;s Gate 3 Steam Deck – Native Version</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-24 00:26</span>
             </div>
         </div>
 </div>
@@ -318,8 +318,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 259 |
-        🔄 Last Updated: 05:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
