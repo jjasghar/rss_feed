@@ -1,34 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-24 12:02:55 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-09-24 13:09:02 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Wednesday, September 24, 2025 - 12:03 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Wednesday, September 24, 2025 - 13:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +45,24 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/dallas-ice-ht-gmh-250924_1758717363454_hpMain_4x3t_384.jpg" alt="At least 3 hurt in shooting at Dallas ICE facility: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/multiple-people-shot-dallas-ice-field-office-source/story?id=125887376" target="_blank">At least 3 hurt in shooting at Dallas ICE facility: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-24 13:04</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7bf/live/4b4fc860-993d-11f0-928c-71dbb8619e94.jpg" alt="Typhoon Ragasa makes landfall in China after 17 killed in Taiwan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/clyd580lx3mo?at_medium=RSS&at_campaign=rss" target="_blank">Typhoon Ragasa makes landfall in China after 17 killed in Taiwan</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-24 12:19</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -54,48 +72,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-gaza-israel_7030346.jpg?20250924132444" alt="Israel kills 22 people including nine children in &#x27;horrific massacre&#x27; in Gaza, Palestinian officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/israel-kills-22-people-including-9-children-in-horrific-massacre-in-gaza-palestinian-officials-say-13437228" target="_blank">Israel kills 22 people including nine children in &#x27;horrific massacre&#x27; in Gaza, Palestinian officials say</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-24 11:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758712200109_tdy_news_7a_kreutz_jimmy_kimmel_250924_1920x1080-knlw5x.jpg" alt="Jimmy Kimmel Makes Emotional Return After Suspension" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/jimmy-kimmel-returns-with-emotional-message-on-free-speech-248224325755" target="_blank">Jimmy Kimmel Makes Emotional Return After Suspension</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-24 11:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb66/live/720acc90-9927-11f0-858a-a904eacbef23.jpg" alt="Howling winds and sheets of rain: In the eye of a typhoon in China" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-earth-americas"></span>
                 <span class="title"><a href="https://www.bbc.com/news/articles/cq8edyey1llo?at_medium=RSS&at_campaign=rss" target="_blank">Howling winds and sheets of rain: In the eye of a typhoon in China</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-24 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c61/live/c007b100-9923-11f0-af62-91486a511a31.jpg" alt="Urgent review ordered into asylum seeker taxi costs after BBC investigation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2j3regpdno?at_medium=RSS&at_campaign=rss" target="_blank">Urgent review ordered into asylum seeker taxi costs after BBC investigation</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-24 09:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/24/statue-of-donald-trump-and-jeffrey-epstein-appears-in-us-capital?traffic_source=rss" target="_blank">Statue of Donald Trump and Jeffrey Epstein appears in US capital</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-24 09:39</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/un-59-rt-gmh-250923_1758650765830_hpMain_4x3t_384.jpg" alt="Kremlin says Russia is not a &#x27;paper tiger&#x27; after Trump criticism" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/zelenskyy-praises-informed-trump-after-presidents-russia-war/story?id=125882498" target="_blank">Kremlin says Russia is not a &#x27;paper tiger&#x27; after Trump criticism</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-24 09:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/un-59-rt-gmh-250923_1758650765830_hpMain_4x3t_384.jpg" alt="Zelenskyy praises &#x27;well-informed&#x27; Trump after president&#x27;s Russia war pivot" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/International/zelenskyy-praises-informed-trump-after-presidents-russia-war/story?id=125882498" target="_blank">Zelenskyy praises &#x27;well-informed&#x27; Trump after president&#x27;s Russia war pivot</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-24 09:00</span>
             </div>
         </div>
 </div>
@@ -119,6 +119,15 @@
                 <span class="title"><a href="https://techcrunch.com/2025/09/24/googles-cheaper-ai-plus-plan-is-now-available-in-over-40-countries/" target="_blank">Google’s cheaper AI Plus plan is now available in over 40 countries</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-09-24 11:22</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1299483011-500x500.jpg" alt="Supermicro server motherboards can be infected with unremovable malware" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/security/2025/09/supermicro-server-motherboards-can-be-infected-with-unremovable-malware/" target="_blank">Supermicro server motherboards can be infected with unremovable malware</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-24 11:15</span>
             </div>
         </div>
 <div class="story">
@@ -148,20 +157,20 @@
                 <span class="time">2025-09-24 07:01</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/784324/apple-iphone-17-pro-ifixit-teardown-scratch" target="_blank">iFixit zooms in on reports of an iPhone 17 Pro scratch problem</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-24 02:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/09/gitpod-ona/en/headerimage/generatedHeaderImage-1758115039833.jpg" alt="Gitpod Rebrands to Ona, Aiming to Become the AI-Powered Center of Software Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/gitpod-ona/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Gitpod Rebrands to Ona, Aiming to Become the AI-Powered Center of Software Development</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-24 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/podcasts/ai-ml-data-engineering-trends-2025/en/smallimage/Podcast-AI-ML-Data-Engineering-Trends-Report-thumbnail-1757938876018.jpg" alt="Podcast: AI, ML, and Data Engineering InfoQ Trends Report 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +216,6 @@
                 <span class="time">2025-09-24 06:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/daniil-qa/shadow-dom-in-test-automation-a-practical-guide-with-cypress-39o0" target="_blank">🥷 Shadow DOM in Test Automation: A Practical Guide with Cypress</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-24 05:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -230,11 +230,38 @@
                 <span class="time">2025-09-24 11:48</span>
             </div>
         </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/us-disrupts-massive-cell-phone-array-in-new-york.html" target="_blank">US Disrupts Massive Cell Phone Array in New York</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-09-24 11:09</span>
+            </div>
+        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/marvel-zombies-reviewhed.jpg" alt="‘Marvel Zombies’ Has Plenty of Blood, but No Heart" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/marvel-zombies-review-disney-plus-2000661996" target="_blank">‘Marvel Zombies’ Has Plenty of Blood, but No Heart</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-24 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K5W1XXKT1FFTA3Q4MH1HEMP7/hero-image.png" alt="My Favorite Sports Recovery Gadgets (That Aren&#x27;t Just Massage Guns)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/best-sports-recovery-gadgets-that-arent-massage-guns?utm_medium=RSS" target="_blank">My Favorite Sports Recovery Gadgets (That Aren&#x27;t Just Massage Guns)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-24 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/MARRIE1-1920x1362-1.jpg" alt="Dive Into the Most Breathtaking Ocean Photos of the Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +296,6 @@
                 <span class="title"><a href="https://gizmodo.com/nothing-ear-3-review-super-sounding-wireless-earbuds-not-so-super-mic-2000662177" target="_blank">Nothing Ear 3 Review: Super Sounding Wireless Earbuds, Not-So-Super Mic</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-23 23:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/11/kimmel.jpg?fit=1594%2C1000&amp;quality=60&amp;ssl=1" alt="Jimmy Kimmel&#x27;s comeback reveals cracks in Trump&#x27;s authoritarian tactics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/23/jimmy-kimmels-comeback-reveals-cracks-in-trumps-authoritarian-tactics.html" target="_blank">Jimmy Kimmel&#x27;s comeback reveals cracks in Trump&#x27;s authoritarian tactics</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-23 22:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/lego-star-wars-ahsoka-tano.jpg" alt="LEGO Is Going Nuts Over the 4.8-Rated Star Wars Ahsoka Tano’s Shuttle, Now Selling for Pennies" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/lego-is-going-nuts-over-the-4-8-rated-star-wars-ahsoka-tanos-shuttle-now-selling-for-pennies-2000628045" target="_blank">LEGO Is Going Nuts Over the 4.8-Rated Star Wars Ahsoka Tano’s Shuttle, Now Selling for Pennies</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-23 22:11</span>
             </div>
         </div>
 </div>
@@ -326,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 12:03 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 13:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
