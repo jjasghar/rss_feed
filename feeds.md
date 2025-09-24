@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-09-24 16:01:58 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-24 17:01:39 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 30 feeds processed -->
+<!-- Generated 12 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Wednesday, September 24, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Wednesday, September 24, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,12 +51,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/ice-shooting-4-rt-gmh-250924_1758729233971_hpMain_4x3t_384.jpg" alt="3 detainees shot, 1 fatally, at Dallas ICE facility; FBI says shooting was targeted" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/multiple-people-shot-dallas-ice-field-office-source/story?id=125887376" target="_blank">3 detainees shot, 1 fatally, at Dallas ICE facility; FBI says shooting was targeted</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-24 16:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/24/nx-s1-5552132/examining-kimmels-brief-suspension-and-trumps-threats-to-free-speech" target="_blank">Examining Kimmel&#x27;s brief suspension and Trump&#x27;s threats to free speech</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-24 16:24</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/24/russia-iran-sign-nuclear-power-plants-deal-as-sanctions-loom?traffic_source=rss" target="_blank">Russia, Iran sign nuclear power plants deal as sanctions loom</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-24 15:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f31e/live/80326710-9922-11f0-9a4d-cda90a899290.jpg" alt="Israeli forces near Gaza City centre as Hamas reportedly prepares for street-to-street fighting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4gk9dreldxo?at_medium=RSS&at_campaign=rss" target="_blank">Israeli forces near Gaza City centre as Hamas reportedly prepares for street-to-street fighting</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-24 15:06</span>
             </div>
         </div>
 <div class="story">
@@ -76,38 +104,20 @@
                 <span class="time">2025-09-24 13:40</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/dallas-ice-ht-gmh-250924_1758717363454_hpMain_4x3t_384.jpg" alt="At least 3 hurt in shooting at Dallas ICE facility: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/multiple-people-shot-dallas-ice-field-office-source/story?id=125887376" target="_blank">At least 3 hurt in shooting at Dallas ICE facility: Sources</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-24 13:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7bf/live/4b4fc860-993d-11f0-928c-71dbb8619e94.jpg" alt="Typhoon Ragasa makes landfall in China after 17 killed in Taiwan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/clyd580lx3mo?at_medium=RSS&at_campaign=rss" target="_blank">Typhoon Ragasa makes landfall in China after 17 killed in Taiwan</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-24 12:19</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/24/super-typhoon-ragasa-leaves-destruction-in-taiwan-hong-kong-china?traffic_source=rss" target="_blank">Super Typhoon Ragasa leaves destruction in Taiwan, Hong Kong, China</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-24 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2236379853-500x500.jpg" alt="Anti-vaccine allies cheer as Trump claims shots have “too much liquid”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/09/trump-pacifies-anti-vaccine-allies-by-trashing-shots-alongside-tylenol/" target="_blank">Anti-vaccine allies cheer as Trump claims shots have “too much liquid”</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-24 16:25</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2209939477-500x500.jpg" alt="Taiwan starts weaponizing chip access after US urged it to, expert says" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -153,20 +163,38 @@
                 <span class="time">2025-09-24 13:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/784442/bluesky-seems-to-be-having-trouble" target="_blank">Bluesky seems to be having trouble</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-24 11:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aaronksaunders/chatgpt-mobile-app-tutorial-vue-convex-capacitor-step-by-step-16kd" target="_blank">ChatGPT Mobile App Tutorial: Vue, Convex &amp; Capacitor (Step-by-Step)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-24 16:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://mathstodon.xyz/@tao/115259943398316677" target="_blank">Terence Tao: The role of small organizations in society has shrunk significantly</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-24 16:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/high-growth-startups-uber-and-cloudkitchens" target="_blank">High-growth startups: Uber and CloudKitchens with Charles-Axel Dein</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-09-24 16:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18644009&w=600" alt="Using TanStack Query for Scalable React Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -192,33 +220,6 @@
                 <span class="title"><a href="https://www.infoq.com/presentations/saas-mistakes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Things SaaS Builders Keep Getting Wrong</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-09-24 14:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/review/intel-xeon-6-granite-rapids-amx" target="_blank">The Massive AI Performance Benefit With AMX On Intel Xeon 6 &quot;Granite Rapids&quot;</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-24 14:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-stack-overflow"></span>
-                <span class="title"><a href="https://stackoverflow.blog/2025/09/24/the-history-and-future-of-software-development-part-1/" target="_blank">The history and future of software development (part 1)</a></span>
-                <span class="feed">Stack Overflow Blog</span>
-                <span class="time">2025-09-24 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://labs.quansight.org/blog/free-threaded-gc-3-14" target="_blank">Unlocking Performance in Python&#x27;s Free-Threaded Future: GC Optimizations</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-09-24 13:53</span>
             </div>
         </div>
 </div>
@@ -250,6 +251,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Carney-1.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="PM Carney says Canada refuses to be dictated by American social media posts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/24/pm-carney-says-canada-refuses-to-be-dictated-by-american-social-media-posts.html" target="_blank">PM Carney says Canada refuses to be dictated by American social media posts</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-24 16:53</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/maxresdefault.jpg" alt="The Publisher Behind The Award-Winning Stray Just Revealed Three Cool New Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/annapurna-showcase-tgs-trailers-zelda-kpop-ai-puzzle-2000628182" target="_blank">The Publisher Behind The Award-Winning Stray Just Revealed Three Cool New Games</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-24 16:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/7_July_HURRICANE-Helene.jpg" alt="Trump’s Hurricane Helene Fund Raised Millions. Good Luck Finding the Receipts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/trumps-hurricane-helene-fund-raised-millions-good-luck-finding-the-receipts-2000663218" target="_blank">Trump’s Hurricane Helene Fund Raised Millions. Good Luck Finding the Receipts</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-24 16:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K5Y6Y99VW4VSVS2RCY4TWR99/hero-image.png" alt="My Favorite Amazon Deal of the Day: The 2nd Generation AirPods Pro" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/my-favorite-amazon-deal-of-the-day-renewed-2nd-generation-airpods-pro?utm_medium=RSS" target="_blank">My Favorite Amazon Deal of the Day: The 2nd Generation AirPods Pro</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-24 16:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K5Y33D2QGA7JX4ZPDZYDDKN4/hero-image.png" alt="Peloton Has Great Pilates Classes (but They&#x27;re Hidden)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -267,47 +304,20 @@
                 <span class="time">2025-09-24 13:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2GKZAP39TFZ2HHNMHBJVB0/hero-image.jpg" alt="The Best Deals on Apple TV+, Hulu, and Other Streaming Services Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/best-streaming-deals?utm_medium=RSS" target="_blank">The Best Deals on Apple TV+, Hulu, and Other Streaming Services Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-24 13:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/marvel-zombies-reviewhed.jpg" alt="‘Marvel Zombies’ Has Plenty of Blood, but No Heart" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/marvel-zombies-review-disney-plus-2000661996" target="_blank">‘Marvel Zombies’ Has Plenty of Blood, but No Heart</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-24 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K5W1XXKT1FFTA3Q4MH1HEMP7/hero-image.png" alt="My Favorite Sports Recovery Gadgets (That Aren&#x27;t Just Massage Guns)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/best-sports-recovery-gadgets-that-arent-massage-guns?utm_medium=RSS" target="_blank">My Favorite Sports Recovery Gadgets (That Aren&#x27;t Just Massage Guns)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-24 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/MARRIE1-1920x1362-1.jpg" alt="Dive Into the Most Breathtaking Ocean Photos of the Year" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/dive-into-the-most-breathtaking-ocean-photos-of-the-year-2000662785" target="_blank">Dive Into the Most Breathtaking Ocean Photos of the Year</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-24 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/hope-someone-notices/" target="_blank">Hope Someone Notices</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2025-09-24 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1758677591-20250924.png" alt="Saturday Morning Breakfast Cereal - Toy" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -340,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
