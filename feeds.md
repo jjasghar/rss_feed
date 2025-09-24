@@ -1,35 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-24 20:01:50 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-24 21:01:58 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 6 new posts out of 26 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 10 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Wednesday, September 24, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Wednesday, September 24, 2025 - 21:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/24/former-president-peter-mutharika-defeats-incumbent-in-malawi-presidential-election" target="_blank">Former president Peter Mutharika defeats incumbent in Malawi presidential election</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-09-24 20:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/24/sharma-hits-75-as-india-beat-bangladesh-to-reach-asia-cup-final?traffic_source=rss" target="_blank">Sharma hits 75 as India beat Bangladesh to reach Asia Cup final</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-24 20:37</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -81,29 +100,29 @@
                 <span class="time">2025-09-24 16:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/24/nx-s1-5552132/examining-kimmels-brief-suspension-and-trumps-threats-to-free-speech" target="_blank">Examining Kimmel&#x27;s brief suspension and Trump&#x27;s threats to free speech</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-24 16:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/24/russia-iran-sign-nuclear-power-plants-deal-as-sanctions-loom?traffic_source=rss" target="_blank">Russia, Iran sign nuclear power plants deal as sanctions loom</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-24 15:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/785110/valve-steam-redesigned-store-menu-personalized-recommendations" target="_blank">Steam’s redesigned store menu will help you find your next game</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-24 20:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae-500x425.jpg" alt="“Screwworm is dangerously close”: Flesh-eating parasites just 70 miles from US" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/09/flesh-eating-parasite-just-70-miles-from-us-check-pets-texas-officials-say/" target="_blank">“Screwworm is dangerously close”: Flesh-eating parasites just 70 miles from US</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-24 20:45</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -140,29 +159,29 @@
                 <span class="time">2025-09-24 19:12</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/784872/meta-lab-pop-up-shops-smart-glasses-ai-ray-ban-display" target="_blank">Meta is opening pop-up shops to show off its smart glasses with a display</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-24 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d30cffc168663520a7b446/master/pass/AI-Lab-Robots-Adapt-After-Chainsaaw-Their-Legs-Business.jpg" alt="This AI-Powered Robot Keeps Going Even if You Attack It With a Chainsaw" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/this-ai-powered-robot-keeps-going-even-if-you-attack-it-with-a-chainsaw/" target="_blank">This AI-Powered Robot Keeps Going Even if You Attack It With a Chainsaw</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-24 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/drcarlosruizviquez/boosting-cybersecurity-effectiveness-with-ai-the-power-of-43jo" target="_blank">**Boosting Cybersecurity Effectiveness with AI: The Power of</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-24 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/product-news/copilot-new-embedding-model-vs-code/" target="_blank">GitHub Copilot gets smarter at finding your code: Inside our new embedding model</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-09-24 20:24</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18653239&w=600" alt="Death by a Thousand YAMLs: Surviving Kubernetes Tool Sprawl" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,24 +218,6 @@
                 <span class="time">2025-09-24 16:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/high-growth-startups-uber-and-cloudkitchens" target="_blank">High-growth startups: Uber and CloudKitchens with Charles-Axel Dein</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-09-24 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/open-source/social-impact/using-ai-to-map-hope-for-refugees-with-unhcr-the-un-refugee-agency/" target="_blank">Using AI to map hope for refugees with UNHCR, the UN Refugee Agency</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-09-24 16:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +246,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/08/VS-YouTube-CallofDutyBlackOps7WorldPremiereTrailergamescomOpeningNightLive2025-227.jpg" alt="Call Of Duty‘s Large Amount Of Last-Gen Players Aren’t Holding Back Black Ops 7" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/call-of-duty-last-gen-player-count-ps4-not-holding-black-ops-7-back-2000628253" target="_blank">Call Of Duty‘s Large Amount Of Last-Gen Players Aren’t Holding Back Black Ops 7</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-24 20:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JD046Y6Y98TMRNEVP17XXDH8/hero-image.png" alt="How to Speak With a Real Person at Target Customer Service" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/how-to-speak-with-a-real-person-at-target-customer-service?utm_medium=RSS" target="_blank">How to Speak With a Real Person at Target Customer Service</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-24 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/VHSHalloween-2.jpg" alt="The Final ‘V/H/S/Halloween’ Trailer Promises Grimy Tricks and Gory Treats" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -281,24 +300,6 @@
                 <span class="time">2025-09-24 17:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Carney-1.jpg?fit=1080%2C612&amp;quality=60&amp;ssl=1" alt="PM Carney says Canada refuses to be dictated by American social media posts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/24/pm-carney-says-canada-refuses-to-be-dictated-by-american-social-media-posts.html" target="_blank">PM Carney says Canada refuses to be dictated by American social media posts</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-24 16:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/maxresdefault.jpg" alt="The Publisher Behind The Award-Winning Stray Just Revealed Three Cool New Games" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/annapurna-showcase-tgs-trailers-zelda-kpop-ai-puzzle-2000628182" target="_blank">The Publisher Behind The Award-Winning Stray Just Revealed Three Cool New Games</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-24 16:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -332,6 +333,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/fantastic_four.png" alt="Fantastic Four" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3146/" target="_blank">Fantastic Four</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-09-24 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5664.png" alt="The Metehmorphosis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -345,8 +355,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 139 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 21:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
