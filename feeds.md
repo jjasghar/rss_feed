@@ -1,34 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-24 13:09:02 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-24 14:01:45 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: DZone -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Generated 8 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Wednesday, September 24, 2025 - 13:09 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Wednesday, September 24, 2025 - 14:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/dallas-ice-6-ht-gmh-250924_1758719587102_hpMain_4x3t_384.jpg" alt="Multiple fatalities in apparent sniper attack at Dallas ICE facility: Acting director" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/multiple-people-shot-dallas-ice-field-office-source/story?id=125887376" target="_blank">Multiple fatalities in apparent sniper attack at Dallas ICE facility: Acting director</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-24 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/24/three-wounded-in-shooting-at-us-immigration-facility-in-dallas-texas?traffic_source=rss" target="_blank">Three wounded in shooting at US immigration facility in Dallas, Texas</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-24 13:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/dallas-ice-ht-gmh-250924_1758717363454_hpMain_4x3t_384.jpg" alt="At least 3 hurt in shooting at Dallas ICE facility: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -80,29 +102,20 @@
                 <span class="time">2025-09-24 11:17</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758712200109_tdy_news_7a_kreutz_jimmy_kimmel_250924_1920x1080-knlw5x.jpg" alt="Jimmy Kimmel Makes Emotional Return After Suspension" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/jimmy-kimmel-returns-with-emotional-message-on-free-speech-248224325755" target="_blank">Jimmy Kimmel Makes Emotional Return After Suspension</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-24 11:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb66/live/720acc90-9927-11f0-858a-a904eacbef23.jpg" alt="Howling winds and sheets of rain: In the eye of a typhoon in China" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq8edyey1llo?at_medium=RSS&at_campaign=rss" target="_blank">Howling winds and sheets of rain: In the eye of a typhoon in China</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-24 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/685ab0fbecbfc34a8f85ebcc/master/pass/MagSafe%20Chargers%20Reviewer%20Collage_Source_Amazon.png" alt="17 Best MagSafe Wireless Chargers (2025): Power Banks, Stands, Pads, and Travel Chargers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-magsafe-wireless-chargers/" target="_blank">17 Best MagSafe Wireless Chargers (2025): Power Banks, Stands, Pads, and Travel Chargers</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-24 13:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +161,29 @@
                 <span class="time">2025-09-24 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d30fb549292aa8a4480975/master/pass/Logitech's%20Solar-Powered%20Keyboard%20Is%20Back,%20and%20It's%20Still%20Pretty%20Basic.png" alt="Logitech Signature Solar Slim+ K980 Keyboard Review: See the Light" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/logitech-signature-solar-slim-k980-keyboard/" target="_blank">Logitech Signature Solar Slim+ K980 Keyboard Review: See the Light</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-24 07:01</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18643995&w=600" alt="Why I Ditched Redis for Cloudflare Durable Objects in My Rate Limiter" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/why-ditch-redis-for-cloudflare-durable-objects" target="_blank">Why I Ditched Redis for Cloudflare Durable Objects in My Rate Limiter</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-24 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.travelandtourworld.com/news/article/american-joins-delta-southwest-united-and-other-us-airlines-push-to-strip-away-travelers-rights-and-add-more-fees-by-rolling-back-key-protections-in-new-deregulation-move/" target="_blank">US Airlines Push to Strip Away Travelers&#x27; Rights by Rolling Back Key Protections</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-24 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/09/gitpod-ona/en/headerimage/generatedHeaderImage-1758115039833.jpg" alt="Gitpod Rebrands to Ona, Aiming to Become the AI-Powered Center of Software Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -198,24 +220,6 @@
                 <span class="time">2025-09-24 08:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://cybersect.substack.com/p/that-secret-service-sim-farm-story" target="_blank">That Secret Service SIM farm story is bogus</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-24 08:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hardik_b2d8f0bca/building-the-ultimate-smart-home-apis-every-interior-designer-and-developer-should-know-371p" target="_blank">Building the Ultimate Smart Home: APIs Every Interior Designer (and Developer) Should Know</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-24 06:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -244,6 +248,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2024/10/youtube-on-a-phone-e1740147209205.jpg" alt="YouTube Gives the Right Wing What it Wants, Says Biden Admin ‘Pressed’ it to Remove Content" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/youtube-gives-the-right-wing-what-it-wants-says-biden-admin-pressed-it-to-remove-content-2000662910" target="_blank">YouTube Gives the Right Wing What it Wants, Says Biden Admin ‘Pressed’ it to Remove Content</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-24 13:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2GKZAP39TFZ2HHNMHBJVB0/hero-image.jpg" alt="The Best Deals on Apple TV+, Hulu, and Other Streaming Services Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/best-streaming-deals?utm_medium=RSS" target="_blank">The Best Deals on Apple TV+, Hulu, and Other Streaming Services Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-24 13:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/marvel-zombies-reviewhed.jpg" alt="‘Marvel Zombies’ Has Plenty of Blood, but No Heart" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,24 +300,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/23/wipe-your-old-pc-clean-and-keep-your-data-safe-for-just-60.html" target="_blank">Wipe your old PC clean and keep your data safe for just $60</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-24 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/Borderlands-4.jpg" alt="Borderlands 4 Delayed Indefinitely On Switch 2 Just 10 Days From Release" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/borderlands-4-switch-2-delay-cross-save-performance-2000628055" target="_blank">Borderlands 4 Delayed Indefinitely On Switch 2 Just 10 Days From Release</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-23 23:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Nothing-Ear-3-13-1.jpg" alt="Nothing Ear 3 Review: Super Sounding Wireless Earbuds, Not-So-Super Mic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/nothing-ear-3-review-super-sounding-wireless-earbuds-not-so-super-mic-2000662177" target="_blank">Nothing Ear 3 Review: Super Sounding Wireless Earbuds, Not-So-Super Mic</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-23 23:00</span>
             </div>
         </div>
 </div>
@@ -335,8 +339,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 13:09 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 136 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 14:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
