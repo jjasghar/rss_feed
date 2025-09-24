@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-24 02:26:35 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-09-24 03:13:12 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 24 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, September 24, 2025 - 02:26 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Wednesday, September 24, 2025 - 03:13 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -131,6 +133,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/23/openai-is-building-five-new-stargate-data-centers-with-oracle-and-softbank/" target="_blank">OpenAI is building five new Stargate data centers with Oracle and SoftBank</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-23 22:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/column/784033/charlie-kirk-memorial-jimmy-kimmel-fcc-regulator" target="_blank">Inside Charlie Kirk’s megachurch memorial service</a></span>
                 <span class="feed">The Verge</span>
@@ -146,20 +157,20 @@
                 <span class="time">2025-09-23 21:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/23/scott-wiener-on-his-fight-to-make-big-tech-disclose-ais-dangers/" target="_blank">Scott Wiener on his fight to make Big Tech disclose AI’s dangers</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-23 20:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/rmendoza/one-click-deployments-2-aws-eks-fargate-cluster-with-applications-using-terraform-16bk" target="_blank">One-Click Deployments #2: AWS EKS Fargate Cluster Using Terraform</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-24 03:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F3391551%2Fb884abd7-f906-4094-afe5-256359f658f3.jpeg" alt="Code reviews are no longer just about human bandwidth. Think of AI not as replacing peer reviews, but as a first-pass reviewer that saves time and raises quality." class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -203,15 +214,6 @@
                 <span class="title"><a href="https://dev.to/harpreet_singh_c4ea4af253/implementing-caching-in-net-core-web-api-4d6l" target="_blank">Implementing Caching in .NET Core Web API</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-23 23:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/moyrith/would-love-your-feedback-on-my-portfolio-bj7" target="_blank">Would love your feedback on my Portfolio 😊</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-23 22:57</span>
             </div>
         </div>
 </div>
@@ -315,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 02:26 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 257 |
+        🔄 Last Updated: 03:13 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
