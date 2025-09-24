@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-09-24 03:13:12 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-24 04:02:10 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: The Verge -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 4 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Wednesday, September 24, 2025 - 03:13 UTC</div>
+    <div class="newspaper-date">Wednesday, September 24, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/donald-14-gty-gmh-250922_1758576106723_hpMain_4x3t_384.jpg" alt="Fact-checking President Donald Trump&#x27;s claims about autism" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Health/fact-checking-president-donald-trumps-claims-autism/story?id=125838403" target="_blank">Fact-checking President Donald Trump&#x27;s claims about autism</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-24 01:55</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fef5/live/628ea1d0-986c-11f0-af62-91486a511a31.jpg" alt="NHS trust repays £5m over maternity failings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/czrp1282grvo?at_medium=RSS&at_campaign=rss" target="_blank">NHS trust repays £5m over maternity failings</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-24 00:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -72,30 +87,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758668461319_nn_gha_Trump_UN_250923_1920x1080-3jiw4s.jpg" alt="Trump signals shift on Ukraine after blunt speech criticizing the U.N." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758669040243_nn_lkr_jimmy_kimmel_return_250923_1920x1080-dqojbm.jpg" alt="Jimmy Kimmel set to return to late night tonight" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/trump-signals-shift-on-ukraine-after-blunt-speech-criticizing-the-u-n-248194117752" target="_blank">Trump signals shift on Ukraine after blunt speech criticizing the U.N.</a></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/jimmy-kimmel-set-to-return-to-late-night-tonight-248194629904" target="_blank">Jimmy Kimmel set to return to late night tonight</a></span>
                 <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-23 23:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18ce/live/0d271e70-93d5-11f0-bab6-4787ef35d8ed.jpg" alt="More young people say rising bills now stopping them moving out" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cq65m95gqdjo?at_medium=RSS&at_campaign=rss" target="_blank">More young people say rising bills now stopping them moving out</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-23 23:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/23/in-major-shift-trump-says-ukraine-can-win-back-all-territory-from-russia?traffic_source=rss" target="_blank">In major shift, Trump says Ukraine can win back all territory from Russia</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-23 21:33</span>
+                <span class="time">2025-09-23 23:10</span>
             </div>
         </div>
 </div>
@@ -110,6 +107,15 @@
                 <span class="title"><a href="https://www.theverge.com/news/784324/apple-iphone-17-pro-ifixit-teardown-scratch" target="_blank">iFixit zooms in on reports of an iPhone 17 Pro scratch problem</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-24 02:19</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68d30d115c9ba286fd0ce961/master/pass/Find-My-Parking-Cops-1298805388.jpg" alt="For One Glorious Morning, a Website Saved San Francisco From Parking Tickets" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/san-francisco-find-my-parking-cops/" target="_blank">For One Glorious Morning, a Website Saved San Francisco From Parking Tickets</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-24 00:43</span>
             </div>
         </div>
 <div class="story">
@@ -146,15 +152,6 @@
                 <span class="title"><a href="https://www.theverge.com/column/784033/charlie-kirk-memorial-jimmy-kimmel-fcc-regulator" target="_blank">Inside Charlie Kirk’s megachurch memorial service</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-23 21:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d188016a137b6bafa2cb69/master/pass/stargate-abilene-biz-REUTERS-2025-04-23T233426Z_587730377_RC2Q3EAWGCKF_RTRMADP_3_USA-TRUMP-STARGATE.jpg" alt="OpenAI Teams Up With Oracle and SoftBank to Build 5 New Stargate Data Centers" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/openai-oracle-softbank-data-center-stargate-us/" target="_blank">OpenAI Teams Up With Oracle and SoftBank to Build 5 New Stargate Data Centers</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-23 21:00</span>
             </div>
         </div>
 </div>
@@ -317,8 +314,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 257 |
-        🔄 Last Updated: 03:13 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
