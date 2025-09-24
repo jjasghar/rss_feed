@@ -1,27 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-24 01:29:15 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-24 02:26:35 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Hacker News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 19 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Wednesday, September 24, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Wednesday, September 24, 2025 - 02:26 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -100,9 +105,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/784324/apple-iphone-17-pro-ifixit-teardown-scratch" target="_blank">iFixit zooms in on reports of an iPhone 17 Pro scratch problem</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-24 02:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/784277/borderlands-4-nintendo-switch-2-delay" target="_blank">The Switch 2 version of Borderlands 4 has been delayed</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-23 22:46</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/derry1-500x500.jpg" alt="Pennywise gets an origin story in Welcome to Derry trailer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/culture/2025/09/pennywise-gets-an-origin-story-in-welcome-to-derry-trailer/" target="_blank">Pennywise gets an origin story in Welcome to Derry trailer</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-23 22:34</span>
             </div>
         </div>
 <div class="story">
@@ -132,24 +155,6 @@
                 <span class="time">2025-09-23 20:21</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2024/06/youtube-500x500.jpg" alt="YouTube will restore channels banned for COVID and election misinformation" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/youtube-will-restore-channels-banned-for-covid-and-election-misinformation/" target="_blank">YouTube will restore channels banned for COVID and election misinformation</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-23 20:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/brendan-carr-concordia-500x500-1758655749.jpg" alt="FCC chairman unconvincingly claims he never threatened ABC station licenses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/fcc-chairman-unconvincingly-claims-he-never-threatened-abc-station-licenses/" target="_blank">FCC chairman unconvincingly claims he never threatened ABC station licenses</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-23 19:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -162,6 +167,24 @@
                 <span class="title"><a href="https://dev.to/jaideepparashar/code-reviews-are-no-longer-just-about-human-bandwidth-think-of-ai-not-as-replacing-peer-1gn6" target="_blank">Code reviews are no longer just about human bandwidth. Think of AI not as replacing peer reviews, but as a first-pass reviewer that saves time and raises quality.</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-24 01:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/05/elementary-os.jpg?resize=406%2C232&amp;ssl=1" alt="elementary OS 8.0.2 Released with Linux 6.14 Kernel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/elementary-os-8-0-2-released" target="_blank">elementary OS 8.0.2 Released with Linux 6.14 Kernel</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-24 01:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://larian.com/support/faqs/steam-deck-native-version_121" target="_blank">Baldur&#x27;s Gate 3 Steam Deck – Native Version</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-24 00:26</span>
             </div>
         </div>
 <div class="story">
@@ -189,24 +212,6 @@
                 <span class="title"><a href="https://dev.to/moyrith/would-love-your-feedback-on-my-portfolio-bj7" target="_blank">Would love your feedback on my Portfolio 😊</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-23 22:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/david_clarke_75b673b4a1ff/how-i-built-my-first-web-tool-as-a-developer-and-what-i-learned-along-the-way-4dok" target="_blank">How I Built My First Web Tool as a Developer (and What I Learned Along the Way)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-23 21:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Haptic-Touchpad-Linux-6.18" target="_blank">Haptic Touchpad Support Expected For Linux 6.18</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-23 21:48</span>
             </div>
         </div>
 </div>
@@ -310,8 +315,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 02:26 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
