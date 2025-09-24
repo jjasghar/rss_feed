@@ -1,28 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-24 15:01:49 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-24 16:01:58 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Generated 6 new posts out of 20 feeds processed -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 11 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Wednesday, September 24, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Wednesday, September 24, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -38,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/24/russia-iran-sign-nuclear-power-plants-deal-as-sanctions-loom?traffic_source=rss" target="_blank">Russia, Iran sign nuclear power plants deal as sanctions loom</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-24 15:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/dallas-ice-6-ht-gmh-250924_1758719587102_hpMain_4x3t_384.jpg" alt="Multiple fatalities in apparent sniper attack at Dallas ICE facility: Acting director" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -83,20 +103,29 @@
                 <span class="time">2025-09-24 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-gaza-israel_7030346.jpg?20250924132444" alt="Israel kills 22 people including nine children in &#x27;horrific massacre&#x27; in Gaza, Palestinian officials say" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/israel-kills-22-people-including-9-children-in-horrific-massacre-in-gaza-palestinian-officials-say-13437228" target="_blank">Israel kills 22 people including nine children in &#x27;horrific massacre&#x27; in Gaza, Palestinian officials say</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-24 11:17</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2209939477-500x500.jpg" alt="Taiwan starts weaponizing chip access after US urged it to, expert says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/pacifying-us-taiwan-weaponizes-chip-access-targeting-south-africa-first/" target="_blank">Taiwan starts weaponizing chip access after US urged it to, expert says</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-24 15:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68d375bc2fbb960e6856c278/master/pass/The%206%20Best%20Backpacking%20Stoves.png" alt="Best Backpacking Stove (2025): MSR, Jetboil, Firebox" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-backpacking-stoves/" target="_blank">Best Backpacking Stove (2025): MSR, Jetboil, Firebox</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-24 15:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -133,29 +162,20 @@
                 <span class="time">2025-09-24 11:42</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/24/googles-cheaper-ai-plus-plan-is-now-available-in-over-40-countries/" target="_blank">Google’s cheaper AI Plus plan is now available in over 40 countries</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-24 11:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1299483011-500x500.jpg" alt="Supermicro server motherboards can be infected with unremovable malware" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/security/2025/09/supermicro-server-motherboards-can-be-infected-with-unremovable-malware/" target="_blank">Supermicro server motherboards can be infected with unremovable malware</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-24 11:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18644009&w=600" alt="Using TanStack Query for Scalable React Applications" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/tanstack-query-scalable-react-apps" target="_blank">Using TanStack Query for Scalable React Applications</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-24 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -163,6 +183,15 @@
                 <span class="title"><a href="https://dev.to/usama_dev/mastering-javascript-arrays-from-basics-to-modern-es6-218a" target="_blank">🏆 Mastering JavaScript Arrays — From Basics to Modern ES6+</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-24 14:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/presentations/saas-mistakes/en/mediumimage/jon-topper-medium-1756893579416.jpg" alt="Presentation: Things SaaS Builders Keep Getting Wrong" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/presentations/saas-mistakes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Presentation: Things SaaS Builders Keep Getting Wrong</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-24 14:28</span>
             </div>
         </div>
 <div class="story">
@@ -177,37 +206,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://labs.quansight.org/blog/free-threaded-gc-3-14" target="_blank">Unlocking Performance in Python&#x27;s Free-Threaded Future: GC Optimizations</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-09-24 13:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18643995&w=600" alt="Why I Ditched Redis for Cloudflare Durable Objects in My Rate Limiter" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/why-ditch-redis-for-cloudflare-durable-objects" target="_blank">Why I Ditched Redis for Cloudflare Durable Objects in My Rate Limiter</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-24 13:00</span>
+                <span class="fa fa-fw fa-stack-overflow"></span>
+                <span class="title"><a href="https://stackoverflow.blog/2025/09/24/the-history-and-future-of-software-development-part-1/" target="_blank">The history and future of software development (part 1)</a></span>
+                <span class="feed">Stack Overflow Blog</span>
+                <span class="time">2025-09-24 14:00</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.travelandtourworld.com/news/article/american-joins-delta-southwest-united-and-other-us-airlines-push-to-strip-away-travelers-rights-and-add-more-fees-by-rolling-back-key-protections-in-new-deregulation-move/" target="_blank">US Airlines Push to Strip Away Travelers&#x27; Rights by Rolling Back Key Protections</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-24 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/gitpod-ona/en/headerimage/generatedHeaderImage-1758115039833.jpg" alt="Gitpod Rebrands to Ona, Aiming to Become the AI-Powered Center of Software Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/gitpod-ona/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Gitpod Rebrands to Ona, Aiming to Become the AI-Powered Center of Software Development</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-24 12:00</span>
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://labs.quansight.org/blog/free-threaded-gc-3-14" target="_blank">Unlocking Performance in Python&#x27;s Free-Threaded Future: GC Optimizations</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-09-24 13:53</span>
             </div>
         </div>
 </div>
@@ -238,6 +249,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K5Y33D2QGA7JX4ZPDZYDDKN4/hero-image.png" alt="Peloton Has Great Pilates Classes (but They&#x27;re Hidden)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/pelotons-hidden-pilates-classes?utm_medium=RSS" target="_blank">Peloton Has Great Pilates Classes (but They&#x27;re Hidden)</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-24 15:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2024/10/youtube-on-a-phone-e1740147209205.jpg" alt="YouTube Gives the Right Wing What it Wants, Says Biden Admin ‘Pressed’ it to Remove Content" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -283,20 +303,20 @@
                 <span class="time">2025-09-24 09:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Data-Shredder-Stick-Secure-Data-Wiping-Tool-for-Windows.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Wipe your old PC clean and keep your data safe for just $60" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/23/wipe-your-old-pc-clean-and-keep-your-data-safe-for-just-60.html" target="_blank">Wipe your old PC clean and keep your data safe for just $60</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-24 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1758677591-20250924.png" alt="Saturday Morning Breakfast Cereal - Toy" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/toy" target="_blank">Saturday Morning Breakfast Cereal - Toy</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-09-24 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -315,22 +335,13 @@
                 <span class="time">2025-09-24 00:58</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1758567650-20250923.png" alt="Saturday Morning Breakfast Cereal - Periclinal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/periclinal" target="_blank">Saturday Morning Breakfast Cereal - Periclinal</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-09-23 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
