@@ -1,39 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-09-23 23:01:44 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-09-24 00:04:34 UTC -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 30 feeds processed -->
+<!-- Generated 7 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Tuesday, September 23, 2025 - 23:02 UTC</div>
+    <div class="newspaper-date">Wednesday, September 24, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +51,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/un-55-rt-gmh-250923_1758650066108_hpMain_4x3t_384.jpg" alt="Trump admin live updates: In major shift, Trump says Ukraine can win back seized land" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=125807330" target="_blank">Trump admin live updates: In major shift, Trump says Ukraine can win back seized land</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-23 23:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/23/israel-escalates-bombardment-as-tanks-push-deep-into-gaza-city?traffic_source=rss" target="_blank">Israel escalates bombardment as tanks push deep into Gaza City</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-23 23:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18ce/live/0d271e70-93d5-11f0-bab6-4787ef35d8ed.jpg" alt="More young people say rising bills now stopping them moving out" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cq65m95gqdjo?at_medium=RSS&at_campaign=rss" target="_blank">More young people say rising bills now stopping them moving out</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-23 23:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,33 +103,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/23/nx-s1-5551269/trump-ukraine-territory" target="_blank">Trump, in major shift, suggests Ukraine can win back territory long held by Russia</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-23 20:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3794/live/982fd820-98aa-11f0-928c-71dbb8619e94.jpg" alt="Kyiv can win all of Ukraine back from Russia, Trump says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c07vm35rryeo?at_medium=RSS&at_campaign=rss" target="_blank">Kyiv can win all of Ukraine back from Russia, Trump says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-23 20:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/9/23/what-are-the-risks-of-a-global-digital-divide-in-ai?traffic_source=rss" target="_blank">What are the risks of a global digital divide in AI?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-23 20:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/routh-1-ap-er-250911_1757623097433_hpMain_4x3t_384.jpg" alt="Ryan Routh found guilty of trying to kill Trump, escorted from court after outburst" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/closing-arguments-set-trial-ryan-routh-accused-kill/story?id=125833927" target="_blank">Ryan Routh found guilty of trying to kill Trump, escorted from court after outburst</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-23 19:53</span>
             </div>
         </div>
 </div>
@@ -171,6 +173,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/harpreet_singh_c4ea4af253/implementing-caching-in-net-core-web-api-4d6l" target="_blank">Implementing Caching in .NET Core Web API</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-23 23:35</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/moyrith/would-love-your-feedback-on-my-portfolio-bj7" target="_blank">Would love your feedback on my Portfolio 😊</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-23 22:57</span>
@@ -212,15 +223,6 @@
                 <span class="time">2025-09-23 19:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/yorgie7/react-scheduler-fiber-architecture-explained-time-slicing-concurrent-rendering-wip-management-3knh" target="_blank">React Scheduler &amp; Fiber Architecture Explained: Time Slicing, Concurrent Rendering &amp; WIP Management 🚀</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-23 18:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,12 +243,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/Borderlands-4.jpg" alt="Borderlands 4 Delayed Indefinitely On Switch 2 Just 10 Days From Release" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/borderlands-4-switch-2-delay-cross-save-performance-2000628055" target="_blank">Borderlands 4 Delayed Indefinitely On Switch 2 Just 10 Days From Release</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-23 23:07</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Nothing-Ear-3-13-1.jpg" alt="Nothing Ear 3 Review: Super Sounding Wireless Earbuds, Not-So-Super Mic" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/nothing-ear-3-review-super-sounding-wireless-earbuds-not-so-super-mic-2000662177" target="_blank">Nothing Ear 3 Review: Super Sounding Wireless Earbuds, Not-So-Super Mic</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-23 23:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2024/11/kimmel.jpg?fit=1594%2C1000&amp;quality=60&amp;ssl=1" alt="Jimmy Kimmel&#x27;s comeback reveals cracks in Trump&#x27;s authoritarian tactics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/23/jimmy-kimmels-comeback-reveals-cracks-in-trumps-authoritarian-tactics.html" target="_blank">Jimmy Kimmel&#x27;s comeback reveals cracks in Trump&#x27;s authoritarian tactics</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-23 22:22</span>
             </div>
         </div>
 <div class="story">
@@ -274,24 +294,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/23/donald-trump-and-jeffrey-epsteins-great-friendship-immortalized-on-the-national-mall.html" target="_blank">Donald Trump and Jeffrey Epstein&#x27;s great friendship immortalized on the National Mall</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-23 20:44</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/Game-Collector.jpg" alt="This Player Just Won Steam After Buying More Games Than Anyone Else Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/steam-achievement-badge-leaderboard-collector-2000628009" target="_blank">This Player Just Won Steam After Buying More Games Than Anyone Else Ever</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-23 20:43</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2H192HSMHRTW526NY400E4/hero-image.jpg" alt="This Is the ‘Right’ Temperature for Turning on Your Heat This Fall" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/what-temperature-to-turn-on-heat-in-fall?utm_medium=RSS" target="_blank">This Is the ‘Right’ Temperature for Turning on Your Heat This Fall</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-23 19:00</span>
             </div>
         </div>
 </div>
@@ -322,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 258 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 258 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
