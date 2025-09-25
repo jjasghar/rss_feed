@@ -1,34 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-25 07:02:26 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-25 08:02:34 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Thursday, September 25, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Thursday, September 25, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/25/taiwan-lowers-typhoon-ragasa-death-toll-to-14-china-starts-cleanup?traffic_source=rss" target="_blank">Taiwan lowers Typhoon Ragasa death toll to 14; China starts cleanup</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-25 07:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -74,28 +85,19 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/25/ukraine-syria-restore-diplomatic-ties-after-breakdown-during-assad-regime?traffic_source=rss" target="_blank">Ukraine, Syria restore diplomatic ties after breakdown during Assad regime</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-25 00:42</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/ice-shooting-3-rt-gmh-250924_1758729232913_hpMain_4x3t_384.jpg" alt="What we know about Dallas ICE sniper suspect" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/dallas-ice-sniper-suspect/story?id=125909069" target="_blank">What we know about Dallas ICE sniper suspect</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-25 00:24</span>
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/24/nx-s1-5552789/trump-government-shutdown-plan-memo" target="_blank">White House threatens layoffs -- not furloughs -- if the government shuts down</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-25 03:28</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/24/g-s1-90401/syrian-president-ahmad-al-sharaa-united-nations-general-assembly" target="_blank">For the first time in nearly 6 decades, a Syrian president steps up to speak at the U.N.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-24 23:42</span>
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/25/ukraine-syria-restore-diplomatic-ties-after-breakdown-during-assad-regime?traffic_source=rss" target="_blank">Ukraine, Syria restore diplomatic ties after breakdown during Assad regime</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-25 00:42</span>
             </div>
         </div>
 </div>
@@ -166,9 +168,36 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/anshuman_816f8012be0c9b6c/how-to-create-histograms-in-r-a-comprehensive-guide-3hb0" target="_blank">How to Create Histograms in R: A Comprehensive Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-25 07:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/adamanq/beam-in-plain-english-2n1o" target="_blank">BEAM: In Plain English</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-25 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/review/raspberry-pi-500-plus" target="_blank">Raspberry Pi 500+ Benchmarks: Mechanical Keyboard Computer, 16GB RAM &amp; NVMe SSD</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-25 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://t0mpr1c3.github.io/knotty/index.html" target="_blank">Knotty: A domain-specific language for knitting patterns</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-25 06:13</span>
             </div>
         </div>
 <div class="story">
@@ -187,33 +216,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/09/netflix-muse/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Netflix Powers Audience Insights at Trillion-Row Scale</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-09-25 06:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/newsletter/foss-weekly-25-39/" target="_blank">FOSS Weekly #25.39: Kill Switch Phones, LMDE 7, Zorin OS 18 Beta, Polybar, Apt History and More Linux Stuff</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-09-25 04:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lingodotdev/ai-coding-anti-patterns-6-things-to-avoid-for-better-ai-coding-f3e" target="_blank">AI coding anti-patterns: 6 things to avoid for better AI coding</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-25 03:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/sadiul_hakim/a-process-killer-cli-project-using-java-process-api-2idi" target="_blank">A Process killer CLI project using Java Process API</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-25 02:19</span>
             </div>
         </div>
 </div>
@@ -344,8 +346,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
