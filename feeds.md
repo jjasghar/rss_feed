@@ -1,40 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-09-25 16:02:12 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-25 17:01:43 UTC -->
 <!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 31 feeds processed -->
+<!-- Generated 13 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Thursday, September 25, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Thursday, September 25, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +52,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/25/nx-s1-5553272/trump-escalator-united-nations-investigation" target="_blank">Trump is accusing the U.N. of &#x27;sabotage.&#x27; The U.N. says Trump&#x27;s team is to blame</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-25 16:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/centre-stage/2025/9/25/mozambique-at-50-a-conversation-with-president-chapo?traffic_source=rss" target="_blank">Mozambique at 50: A conversation with President Chapo</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-25 16:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/ice-shooting-8-ap-gmh-250924_1758737133418_hpMain_4x3t_384.jpg" alt="Dallas ICE shooting latest: FBI releases note allegedly left behind by sniper" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/ice-facilities-higher-alert-after-deadly-dallas-shooting/story?id=125918125" target="_blank">Dallas ICE shooting latest: FBI releases note allegedly left behind by sniper</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-25 16:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db37/live/93606c10-9a26-11f0-b7a7-6962c574e78f.png" alt="Starmer to announce plans for digital ID scheme" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,38 +106,29 @@
                 <span class="time">2025-09-25 15:47</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/25/g-s1-90435/tylenol-autism-health" target="_blank">VIDEO: Trump and scientists disagree on Tylenol and autism. Who do Americans believe?</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-25 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/09/25/nx-s1-5552751/autism-leucovorin-folinic-acid-folate-vitamin-reality-check" target="_blank">Leucovorin for autism? Many scientists — and parents — are skeptical</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-25 13:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/25/nelson-mandelas-grandson-reads-story-of-palestinian-mother-in-gaza?traffic_source=rss" target="_blank">Nelson Mandela’s grandson reads story of Palestinian mother in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-25 12:43</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/25/openai-launches-chatgpt-pulse-to-proactively-write-you-morning-briefs/" target="_blank">OpenAI launches ChatGPT Pulse to proactively write you morning briefs</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-25 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/IMG_3399-500x500.jpeg" alt="Apple iPhone 17 review: Sometimes boring is best" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/review-apples-injects-just-the-right-amount-of-pro-into-the-regular-iphone-17/" target="_blank">Apple iPhone 17 review: Sometimes boring is best</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-25 16:10</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -145,29 +165,38 @@
                 <span class="time">2025-09-25 14:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2219431127-500x500.jpg" alt="Reviewing iOS 26 for power users: Reminders, Preview, and more" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/reviewing-ios-26-for-power-users-reminders-preview-and-more/" target="_blank">Reviewing iOS 26 for power users: Reminders, Preview, and more</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-25 14:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/686466f75387ebe0264fb50c/master/pass/The%20Best%20MagSafe%20Accessories%20for%20Your%20New%20iPhone.png" alt="25 Best MagSafe Accessories (2025): Qi2 Chargers, Magnetic Wallets, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-magsafe-accessories/" target="_blank">25 Best MagSafe Accessories (2025): Qi2 Chargers, Magnetic Wallets, and More</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-25 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://metalhearf.fr/posts/chatcontrol-wants-your-private-messages/" target="_blank">ChatControl: EU wants to scan all private messages, even in encrypted apps</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-25 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18643819&w=600" alt="AI-Powered Triathlon Coaching: Building a Modern Training Assistant With Claude and Garmin" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-powered-triathlon-coaching-claude-garmin" target="_blank">AI-Powered Triathlon Coaching: Building a Modern Training Assistant With Claude and Garmin</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-25 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-RAID-Linear-Atomic" target="_blank">Linux 6.18 Linear RAID &quot;md-linear&quot; To Support Atomic Writes</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-25 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl1pie3oav9et8ym1naqc.png" alt="Letting AI Build My App&#x27;s Auto Updates (and Fixing the Pitfalls)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -195,33 +224,6 @@
                 <span class="time">2025-09-25 14:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/PostgreSQL-18-Released" target="_blank">PostgreSQL 18.0 Released With Async I/O, Performance Improvements</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-25 13:57</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/raspberry-pi-500-plus-mechanical-rgb.jpg?resize=406%2C232&amp;ssl=1" alt="Meet the Coolest (and Most Expensive) Raspberry Pi Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/raspberry-pi-500-mechanical-keyboard-pc" target="_blank">Meet the Coolest (and Most Expensive) Raspberry Pi Yet</a></span>
-                <span class="feed">OMG! Ubuntu</span>
-                <span class="time">2025-09-25 13:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/microsoft-extends-dotnet-sts/en/headerimage/twitter_card+%281%29-1758799890622.jpg" alt="Microsoft Extends Support Period for .NET Standard Term Support (STS)  Releases from 18 to 24 Months" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/microsoft-extends-dotnet-sts/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Extends Support Period for .NET Standard Term Support (STS)  Releases from 18 to 24 Months</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-25 12:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -241,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Ryan-Walters-smirking-at-a-public-hearing.-.jpg?fit=1080%2C610&amp;quality=60&amp;ssl=1" alt="Ryan Walters resigns as Oklahoma&#x27;s schools chief" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/25/ryan-walters-resigns-as-oklahomas-schools-chief.html" target="_blank">Ryan Walters resigns as Oklahoma&#x27;s schools chief</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-25 16:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/bullets-e1758815533886.jpeg?fit=600%2C400&amp;quality=60&amp;ssl=1" alt="Friends of ICE sniper: he lived on 4chan irony, not politics" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -286,20 +297,20 @@
                 <span class="time">2025-09-25 10:53</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/01/shutterstock_1916128447-scaled.jpg?fit=2560%2C1656&amp;quality=60&amp;ssl=1" alt="Misophonia trigger sounds are usually from humans, not animals–but context and perception play huge roles, too" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/24/misophonia-trigger-sounds-are-usually-from-humans-not-animals-but-context-and-perception-play-huge-roles-too.html" target="_blank">Misophonia trigger sounds are usually from humans, not animals–but context and perception play huge roles, too</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-25 05:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1758817442-20250925.png" alt="Saturday Morning Breakfast Cereal - XX" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/xx" target="_blank">Saturday Morning Breakfast Cereal - XX</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-09-25 15:20</span>
+            </div>
+        </div>
 <div class="story">
             <img src="http://www.questionablecontent.net/comics/5665.png" alt="Careful Who You Talk To" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -323,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
