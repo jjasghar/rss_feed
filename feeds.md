@@ -1,33 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-25 03:14:48 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-25 04:02:21 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Thursday, September 25, 2025 - 03:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, September 25, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +49,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2944/live/e50810d0-99a5-11f0-92db-77261a15b9d2.jpg" alt="Colombia&#x27;s president calls US attacks on alleged drug boats &#x27;act of tyranny&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy8rjp178mno?at_medium=RSS&at_campaign=rss" target="_blank">Colombia&#x27;s president calls US attacks on alleged drug boats &#x27;act of tyranny&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-25 04:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/economy/2025/9/25/indonesias-thrifty-window-shoppers-cast-doubt-on-economic-success-story?traffic_source=rss" target="_blank">Indonesia’s thrifty window shoppers cast doubt on economic success story</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-25 03:49</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,24 +101,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c62nv0xx32go?at_medium=RSS&at_campaign=rss" target="_blank">Government considers financial support for JLR suppliers</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-24 23:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758755170289_nn_pth_ICE_Dallas_250924_1920x1080-gf7htr.jpg" alt="‘Anti-ICE’ message found on bullets after deadly shooting at Dallas ICE facility" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/-anti-ice-message-found-on-bullets-after-deadly-shooting-at-dallas-ice-facility-248284229924" target="_blank">‘Anti-ICE’ message found on bullets after deadly shooting at Dallas ICE facility</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-24 23:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/ice-shooting-4-rt-gmh-250924_1758729233971_hpMain_4x3t_384.jpg" alt="Sniper opens fire on Dallas ICE facility, killing 1 detainee, wounding 2: DHS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/multiple-people-shot-dallas-ice-field-office-source/story?id=125887376" target="_blank">Sniper opens fire on Dallas ICE facility, killing 1 detainee, wounding 2: DHS</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-24 21:49</span>
             </div>
         </div>
 </div>
@@ -165,6 +171,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lingodotdev/ai-coding-anti-patterns-6-things-to-avoid-for-better-ai-coding-f3e" target="_blank">AI coding anti-patterns: 6 things to avoid for better AI coding</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-25 03:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/sadiul_hakim/a-process-killer-cli-project-using-java-process-api-2idi" target="_blank">A Process killer CLI project using Java Process API</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-25 02:19</span>
@@ -191,28 +206,19 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://helium.computer/" target="_blank">Helium Browser</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-24 22:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Qualcomm-X2-Elite-Announced" target="_blank">Qualcomm Announces X2 Elite SoCs - Up To 18 Cores &amp; Up To 5.0GHz Boost Frequency</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-24 21:35</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/drcarlosruizviquez/boosting-cybersecurity-effectiveness-with-ai-the-power-of-43jo" target="_blank">**Boosting Cybersecurity Effectiveness with AI: The Power of</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-24 20:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/product-news/copilot-new-embedding-model-vs-code/" target="_blank">GitHub Copilot gets smarter at finding your code: Inside our new embedding model</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-09-24 20:24</span>
             </div>
         </div>
 </div>
@@ -347,22 +353,13 @@
                 <span class="time">2025-09-24 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/fantastic_four.png" alt="Fantastic Four" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3146/" target="_blank">Fantastic Four</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-09-24 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 03:14 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
