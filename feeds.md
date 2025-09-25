@@ -1,34 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-09-25 15:01:58 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-25 16:02:12 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: WIRED -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, September 25, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Thursday, September 25, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +50,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db37/live/93606c10-9a26-11f0-b7a7-6962c574e78f.png" alt="Starmer to announce plans for digital ID scheme" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c4g54g6vgpdo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer to announce plans for digital ID scheme</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-25 15:58</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/25/nx-s1-5553386/starbucks-closes-stores-cuts-900-jobs" target="_blank">Starbucks is closing more stores and laying off 900 workers</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-25 15:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/25/israeli-strikes-pound-yemens-capital-as-houthi-leader-decries-gaza-war?traffic_source=rss" target="_blank">Israeli strikes pound Yemen’s capital as Houthi leader decries Gaza war</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-25 15:47</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,38 +104,29 @@
                 <span class="time">2025-09-25 12:43</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/25/nicolas-sarkozy-found-guilty-of-criminal-conspiracy-in-libya-trial" target="_blank">Nicolas Sarkozy given five-year prison sentence after Libya trial</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-09-25 12:14</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758798795589_tdy_news_7a_nobles_gov_shutdown_250925_1920x1080-spzpn0.jpg" alt="Trump Threatens Mass Firings if Government Shuts Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.today.com/video/trump-threatens-mass-firings-if-government-shuts-down-248313413711" target="_blank">Trump Threatens Mass Firings if Government Shuts Down</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-25 11:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/25/g-s1-90431/up-first-newsletter-ice-shooting-texas-unga-ukraine-aca-government-shutdown" target="_blank">Dallas ICE shooting updates. And, Trump threatens layoffs amid looming shutdown.</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-25 10:55</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/785193/google-deepmind-gemini-ai-robotics-web-search" target="_blank">Google DeepMind’s new AI models can search the web to help robots complete tasks</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-25 16:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/25/love-lies-and-algorithms-is-ai-really-helping-us-find-the-one/" target="_blank">Love, lies, and algorithms: Is AI really helping us find ‘the one’? Live at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-25 15:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -131,30 +155,12 @@
             </div>
         </div>
 <div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/podcast/784865/ai-safety-military-defense-openai-anthropic-ethics" target="_blank">How AI safety took a backseat to military money</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-25 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d4d39bf831ba27b0048ddd/master/pass/Should%20You%20Buy%20a%20Chromebook%20or%20a%20Windows%20Laptop_.png" alt="Chromebooks vs. PC: The Differences Between Chrome OS and Windows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media.wired.com/photos/686466f75387ebe0264fb50c/master/pass/The%20Best%20MagSafe%20Accessories%20for%20Your%20New%20iPhone.png" alt="25 Best MagSafe Accessories (2025): Qi2 Chargers, Magnetic Wallets, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/chromebooks-vs-windows-laptops/" target="_blank">Chromebooks vs. PC: The Differences Between Chrome OS and Windows</a></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-magsafe-accessories/" target="_blank">25 Best MagSafe Accessories (2025): Qi2 Chargers, Magnetic Wallets, and More</a></span>
                 <span class="feed">WIRED</span>
-                <span class="time">2025-09-25 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/785552/jimmy-kimmel-returns-record-viewership-figures" target="_blank">Jimmy Kimmel returns bigger than ever</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-25 11:45</span>
+                <span class="time">2025-09-25 14:00</span>
             </div>
         </div>
 </div>
@@ -162,6 +168,24 @@
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl1pie3oav9et8ym1naqc.png" alt="Letting AI Build My App&#x27;s Auto Updates (and Fixing the Pitfalls)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/louis7/letting-ai-build-my-apps-auto-updates-and-fixing-the-pitfalls-4pke" target="_blank">Letting AI Build My App&#x27;s Auto Updates (and Fixing the Pitfalls)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-25 15:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18643815&w=600" alt="The Design System Team: Goals, Pains, and Successes" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/design-system-team" target="_blank">The Design System Team: Goals, Pains, and Successes</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-25 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -172,48 +196,30 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/PostgreSQL-18-Released" target="_blank">PostgreSQL 18.0 Released With Async I/O, Performance Improvements</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-25 13:57</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/raspberry-pi-500-plus-mechanical-rgb.jpg?resize=406%2C232&amp;ssl=1" alt="Meet the Coolest (and Most Expensive) Raspberry Pi Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/raspberry-pi-500-mechanical-keyboard-pc" target="_blank">Meet the Coolest (and Most Expensive) Raspberry Pi Yet</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-25 13:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/09/microsoft-extends-dotnet-sts/en/headerimage/twitter_card+%281%29-1758799890622.jpg" alt="Microsoft Extends Support Period for .NET Standard Term Support (STS)  Releases from 18 to 24 Months" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
                 <span class="title"><a href="https://www.infoq.com/news/2025/09/microsoft-extends-dotnet-sts/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Extends Support Period for .NET Standard Term Support (STS)  Releases from 18 to 24 Months</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-09-25 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Intel-Less-Cost-VMSCAPE" target="_blank">Intel Posts New Linux Patches To Reduce Overhead Of VMSCAPE Mitigation</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-25 12:07</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18642789&w=600" alt="Is Anyone There? Listening to Your Users Through Conversational AI Observability" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/conversational-ai-observability-user-feedback" target="_blank">Is Anyone There? Listening to Your Users Through Conversational AI Observability</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-25 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/senior-role-software-development/en/headerimage/generatedHeaderImage-1758539599017.jpg" alt="Growing Your Career towards Senior Roles in Software Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/senior-role-software-development/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Growing Your Career towards Senior Roles in Software Development</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-25 11:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18642765&w=600" alt="Lessons Learned From Building Production-Scale Data Conversion Pipelines" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/production-scale-data-conversion-pipelines" target="_blank">Lessons Learned From Building Production-Scale Data Conversion Pipelines</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-25 11:00</span>
             </div>
         </div>
 </div>
@@ -235,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/bullets-e1758815533886.jpeg?fit=600%2C400&amp;quality=60&amp;ssl=1" alt="Friends of ICE sniper: he lived on 4chan irony, not politics" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/25/friends-of-ice-sniper-he-lived-on-4chan-irony-not-politics.html" target="_blank">Friends of ICE sniper: he lived on 4chan irony, not politics</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-25 15:52</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2023/06/4b1fc4c2df74bfac346230a21592d2ef-1024x574.jpg" alt="Dogecoin Has Made It to Wall Street" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/dogecoin-has-made-it-to-wall-street-2000663698" target="_blank">Dogecoin Has Made It to Wall Street</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-25 15:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01HF2GFGFAR94B5GZJ005YP57Z/hero-image.jpg" alt="How to Harness the &#x27;Primacy Effect&#x27; to Remember Information Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -271,24 +295,6 @@
                 <span class="time">2025-09-25 05:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/C-200_Angled_on_White.jpeg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Company claims this vibrating knife makes cutting &quot;easier&quot; — but does it?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/24/company-claims-this-vibrating-knife-makes-cutting-easier-but-does-it.html" target="_blank">Company claims this vibrating knife makes cutting &quot;easier&quot; — but does it?</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-25 00:04</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Borderlands-4-review_jpg_75.jpg?fit=1200%2C720&amp;quality=60&amp;ssl=1" alt="Borderlands 4&#x27;s Switch 2 version delayed indefinitely, surprising no one" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/24/borderlands-4s-switch-2-version-delayed-indefinitely-surprising-no-one.html" target="_blank">Borderlands 4&#x27;s Switch 2 version delayed indefinitely, surprising no one</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-24 23:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -312,31 +318,13 @@
                 <span class="time">2025-09-24 23:31</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-pencil"></span>
-                <span class="title"><a href="https://poorlydrawnlines.com/comic/hope-someone-notices/" target="_blank">Hope Someone Notices</a></span>
-                <span class="feed">Poorly Drawn Lines</span>
-                <span class="time">2025-09-24 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1758677591-20250924.png" alt="Saturday Morning Breakfast Cereal - Toy" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/toy" target="_blank">Saturday Morning Breakfast Cereal - Toy</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-09-24 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
