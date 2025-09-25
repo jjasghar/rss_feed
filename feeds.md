@@ -1,33 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-09-25 22:01:37 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-25 23:02:04 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 24 feeds processed -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Thursday, September 25, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Thursday, September 25, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/25/eu-chief-slams-russian-aggression-that-threatens-every?traffic_source=rss" target="_blank">EU chief slams Russian aggression that ‘threatens every nation’</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-25 22:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +93,20 @@
                 <span class="time">2025-09-25 19:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/25/pakistan-beat-bangladesh-by-11-runs-to-meet-india-in-asia-cup-2025-final?traffic_source=rss" target="_blank">Pakistan beat Bangladesh by 11 runs to meet India in Asia Cup 2025 final</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-25 19:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/02/delete-doge-scaled-500x500-1740426654.jpg" alt="Senate staff probes DOGE, finds locked doors and windows covered with trash bags" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/senate-staff-probes-doge-finds-locked-doors-and-windows-covered-with-trash-bags/" target="_blank">Senate staff probes DOGE, finds locked doors and windows covered with trash bags</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-25 22:19</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/10/dcart1-500x500.jpeg" alt="Sierra’s Dream Chaser is starting to resemble a nightmare" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -109,6 +114,15 @@
                 <span class="title"><a href="https://arstechnica.com/space/2025/09/sierras-dream-chaser-is-starting-to-resemble-a-nightmare/" target="_blank">Sierra’s Dream Chaser is starting to resemble a nightmare</a></span>
                 <span class="feed">Ars Technica</span>
                 <span class="time">2025-09-25 22:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68d5af32c6e5bd391ecac57a/master/pass/Amazon-May-Owe-You-Money-Gear-2234419194.jpg" alt="Amazon Might Owe You $51. Here’s How to Find Out if You’re Eligible" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/amazon-might-owe-you-find-out-if-youre-eligible/" target="_blank">Amazon Might Owe You $51. Here’s How to Find Out if You’re Eligible</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-25 21:32</span>
             </div>
         </div>
 <div class="story">
@@ -136,24 +150,6 @@
                 <span class="title"><a href="https://www.wired.com/story/amazon-ftc-settlement-prime-dark-patterns/" target="_blank">Amazon Will Pay $2.5 Billion to Settle FTC Suit That Alleged ‘Dark Patterns’ in Prime Sign-Ups</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-09-25 20:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/25/microsoft-cuts-cloud-services-to-israeli-military-unit-over-palestinian-surveillance/" target="_blank">Microsoft cuts cloud services to Israeli military unit over Palestinian surveillance</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-25 19:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d590386b236df317b4c181/master/pass/IMG_4776.jpg" alt="WIRED’s Politics Issue Cover Is in a City Near You" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/wired-politics-cover-search/" target="_blank">WIRED’s Politics Issue Cover Is in a City Near You</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-25 19:15</span>
             </div>
         </div>
 </div>
@@ -235,6 +231,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/bezos.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s FTC makes Bezos pay billions despite his desperate bootlicking" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/25/trumps-ftc-makes-bezos-pay-billions-despite-his-desperate-bootlicking.html" target="_blank">Trump&#x27;s FTC makes Bezos pay billions despite his desperate bootlicking</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-25 22:13</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6194S3JWFN0ATTBNCSCNW6P/hero-image.jpg" alt="Try This Setting to Improve Your Battery Life in iOS 26" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/try-the-adaptive-power-setting-to-improve-battery-life-in-ios-26?utm_medium=RSS" target="_blank">Try This Setting to Improve Your Battery Life in iOS 26</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-25 21:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/Doug.jpg" alt="Bowser Leaves Nintendo" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/bowser-leaves-nintendo-of-america-2000628868" target="_blank">Bowser Leaves Nintendo</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-25 21:13</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/starship-spacex-flight10-1280x853.jpg" alt="SpaceX Wants to Fly Its Gigantic Starship Directly Over Florida" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -259,33 +282,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/beats-studio-buds-amazon-deal?utm_medium=RSS" target="_blank">These Beats Studio Buds Are Under $80 Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-25 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Invest-94L-and-TS-Humberto-1280x853.jpg" alt="Forecasters Are Monitoring a Wacky Storm Situation in the Atlantic" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/forecasters-are-monitoring-a-wacky-storm-situation-in-the-atlantic-2000663829" target="_blank">Forecasters Are Monitoring a Wacky Storm Situation in the Atlantic</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-25 19:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/hp-laptop-16-inch.jpg" alt="Amazon Cuts Its Profit on This HP Laptop (1TB, Windows 11 Pro, Office), Now HP’s Clear Best Seller" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazon-cuts-its-profit-on-this-hp-laptop-1tb-windows-11-pro-office-now-hps-clear-best-seller-2000628760" target="_blank">Amazon Cuts Its Profit on This HP Laptop (1TB, Windows 11 Pro, Office), Now HP’s Clear Best Seller</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-25 18:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/pulse-elevate-1280x853.jpg" alt="PlayStation’s New Portable Gaming Speakers Could Be Really Good, If They Don’t Cost a Fortune" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/playstations-new-portable-gaming-speakers-could-be-really-good-if-they-dont-cost-a-fortune-2000663778" target="_blank">PlayStation’s New Portable Gaming Speakers Could Be Really Good, If They Don’t Cost a Fortune</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-25 18:15</span>
             </div>
         </div>
 </div>
@@ -334,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 270 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
