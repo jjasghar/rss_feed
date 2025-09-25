@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-25 02:27:30 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-09-25 03:14:48 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 26 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, September 25, 2025 - 02:27 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Thursday, September 25, 2025 - 03:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -113,6 +112,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/24/y-combinator-launches-early-decision-for-students-who-want-to-graduate-first-build-later/" target="_blank">Y Combinator launches ‘Early Decision’ for students who want to graduate first, build later</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-24 22:36</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/news-092425b-lg-500x500.jpg" alt="The crew of Artemis II will fly on Integrity during mission to the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-cog"></span>
@@ -146,15 +154,6 @@
                 <span class="title"><a href="https://www.wired.com/gallery/best-robot-vacuums/" target="_blank">9 Best Robot Vacuums (2025): Tested and Reviewed in Real Homes</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-09-24 21:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/785110/valve-steam-redesigned-store-menu-personalized-recommendations" target="_blank">Steam’s redesigned store menu will help you find your next game</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-24 20:51</span>
             </div>
         </div>
 </div>
@@ -245,6 +244,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/C-200_Angled_on_White.jpeg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Company claims this vibrating knife makes cutting &quot;easier&quot; — but does it?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/24/company-claims-this-vibrating-knife-makes-cutting-easier-but-does-it.html" target="_blank">Company claims this vibrating knife makes cutting &quot;easier&quot; — but does it?</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-25 00:04</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Borderlands-4-review_jpg_75.jpg?fit=1200%2C720&amp;quality=60&amp;ssl=1" alt="Borderlands 4&#x27;s Switch 2 version delayed indefinitely, surprising no one" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -287,15 +295,6 @@
                 <span class="title"><a href="https://kotaku.com/call-of-duty-last-gen-player-count-ps4-not-holding-black-ops-7-back-2000628253" target="_blank">Call Of Duty‘s Large Amount Of Last-Gen Players Aren’t Holding Back Black Ops 7</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-09-24 20:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01JD046Y6Y98TMRNEVP17XXDH8/hero-image.png" alt="How to Speak With a Real Person at Target Customer Service" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/how-to-speak-with-a-real-person-at-target-customer-service?utm_medium=RSS" target="_blank">How to Speak With a Real Person at Target Customer Service</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-24 20:30</span>
             </div>
         </div>
 </div>
@@ -362,8 +361,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 02:27 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 03:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
