@@ -1,40 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-25 19:01:29 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-25 20:01:57 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 7 new posts out of 31 feeds processed -->
+<!-- Generated 7 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Thursday, September 25, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, September 25, 2025 - 20:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/25/pakistan-beat-bangladesh-by-11-runs-to-meet-india-in-asia-cup-2025-final?traffic_source=rss" target="_blank">Pakistan beat Bangladesh by 11 runs to meet India in Asia Cup 2025 final</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-25 19:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,20 +98,29 @@
                 <span class="time">2025-09-25 16:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db37/live/93606c10-9a26-11f0-b7a7-6962c574e78f.png" alt="Starmer to announce plans for digital ID scheme" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c4g54g6vgpdo?at_medium=RSS&at_campaign=rss" target="_blank">Starmer to announce plans for digital ID scheme</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-25 15:58</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/25/microsoft-cuts-cloud-services-to-israeli-military-unit-over-palestinian-surveillance/" target="_blank">Microsoft cuts cloud services to Israeli military unit over Palestinian surveillance</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-25 19:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68d590386b236df317b4c181/master/pass/IMG_4776.jpg" alt="WIRED’s Politics Issue Cover Is in a City Near You" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/wired-politics-cover-search/" target="_blank">WIRED’s Politics Issue Cover Is in a City Near You</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-25 19:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2234956387-500x500.jpg" alt="Study: Planned budget cuts would hurt drug development badly" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,29 +157,20 @@
                 <span class="time">2025-09-25 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/25/love-lies-and-algorithms-is-ai-really-helping-us-find-the-one/" target="_blank">Love, lies, and algorithms: Is AI really helping us find ‘the one’? Live at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-25 15:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/25/what-top-vcs-want-from-ai-founders-inside-the-investor-lens-with-jon-mcneill-aileen-lee-and-steve-jang-at-techcrunch-disrupt-2025/" target="_blank">What top VCs want from AI founders: Inside the investor lens with Jon McNeill, Aileen Lee, and Steve Jang at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-25 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18657219&w=600" alt="Implementing Vector Search in Databricks" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/implementing-vector-search-in-databricks" target="_blank">Implementing Vector Search in Databricks</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-25 19:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -189,6 +192,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/" target="_blank">Improved Gemini 2.5 Flash and Flash-Lite</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-25 17:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-github"></span>
                 <span class="title"><a href="https://github.blog/open-source/maintainers/building-beyond-the-browser-keeley-hammond-on-electron-open-source-and-the-future-of-maintainership/" target="_blank">Building beyond the browser: Keeley Hammond on Electron, open source, and the future of maintainership</a></span>
                 <span class="feed">The GitHub Blog</span>
@@ -202,24 +214,6 @@
                 <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-147-sudden-changes-to-the" target="_blank">The Pulse #147: sudden changes to the H-1B program</a></span>
                 <span class="feed">The Pragmatic Engineer</span>
                 <span class="time">2025-09-25 17:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://metalhearf.fr/posts/chatcontrol-wants-your-private-messages/" target="_blank">ChatControl: EU wants to scan all private messages, even in encrypted apps</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-25 16:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18643819&w=600" alt="AI-Powered Triathlon Coaching: Building a Modern Training Assistant With Claude and Garmin" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-powered-triathlon-coaching-claude-garmin" target="_blank">AI-Powered Triathlon Coaching: Building a Modern Training Assistant With Claude and Garmin</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-25 16:00</span>
             </div>
         </div>
 </div>
@@ -241,6 +235,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Invest-94L-and-TS-Humberto-1280x853.jpg" alt="Forecasters Are Monitoring a Wacky Storm Situation in the Atlantic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/forecasters-are-monitoring-a-wacky-storm-situation-in-the-atlantic-2000663829" target="_blank">Forecasters Are Monitoring a Wacky Storm Situation in the Atlantic</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-25 19:45</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/hp-laptop-16-inch.jpg" alt="Amazon Cuts Its Profit on This HP Laptop (1TB, Windows 11 Pro, Office), Now HP’s Clear Best Seller" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +287,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/25/friends-of-ice-sniper-he-lived-on-4chan-irony-not-politics.html" target="_blank">Friends of ICE sniper: he lived on 4chan irony, not politics</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-25 15:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2023/06/4b1fc4c2df74bfac346230a21592d2ef-1024x574.jpg" alt="Dogecoin Has Made It to Wall Street" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/dogecoin-has-made-it-to-wall-street-2000663698" target="_blank">Dogecoin Has Made It to Wall Street</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-25 15:40</span>
             </div>
         </div>
 </div>
@@ -341,8 +335,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 20:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
