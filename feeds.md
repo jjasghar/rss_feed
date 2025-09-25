@@ -1,32 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-09-24 22:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-25 01:29:22 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 9 new posts out of 23 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 12 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Wednesday, September 24, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Thursday, September 25, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +51,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/25/ukraine-syria-restore-diplomatic-ties-after-breakdown-during-assad-regime?traffic_source=rss" target="_blank">Ukraine, Syria restore diplomatic ties after breakdown during Assad regime</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-25 00:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/24/g-s1-90401/syrian-president-ahmad-al-sharaa-united-nations-general-assembly" target="_blank">For the first time in nearly 6 decades, a Syrian president steps up to speak at the U.N.</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-24 23:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758755170289_nn_pth_ICE_Dallas_250924_1920x1080-gf7htr.jpg" alt="‘Anti-ICE’ message found on bullets after deadly shooting at Dallas ICE facility" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/nightly-news/video/-anti-ice-message-found-on-bullets-after-deadly-shooting-at-dallas-ice-facility-248284229924" target="_blank">‘Anti-ICE’ message found on bullets after deadly shooting at Dallas ICE facility</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-24 23:06</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/ice-shooting-4-rt-gmh-250924_1758729233971_hpMain_4x3t_384.jpg" alt="Sniper opens fire on Dallas ICE facility, killing 1 detainee, wounding 2: DHS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -61,39 +97,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-copenhagen-airport_7028910.jpg?20250922213743" alt="Second airport in Denmark forced to close this week after drones spotted" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/24/former-president-peter-mutharika-defeats-incumbent-in-malawi-presidential-election" target="_blank">Former president Peter Mutharika defeats incumbent in Malawi presidential election</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-09-24 20:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/24/sharma-hits-75-as-india-beat-bangladesh-to-reach-asia-cup-final?traffic_source=rss" target="_blank">Sharma hits 75 as India beat Bangladesh to reach Asia Cup final</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-24 20:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/24/estonia-calls-russian-jets-violating-its-airspace-a-hostile-act?traffic_source=rss" target="_blank">Estonia calls Russian jets violating its airspace a ‘hostile act’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-24 18:28</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c21b/live/26839050-995d-11f0-928c-71dbb8619e94.jpg" alt="Russia will expand aggression beyond Ukraine if not stopped, Zelensky warns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c5yg921rjrko?at_medium=RSS&at_campaign=rss" target="_blank">Russia will expand aggression beyond Ukraine if not stopped, Zelensky warns</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-24 18:22</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/aalborg-airport-in-denmark-forced-to-close-after-drones-spotted-police-say-13437595" target="_blank">Second airport in Denmark forced to close this week after drones spotted</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-24 21:08</span>
             </div>
         </div>
 </div>
@@ -101,6 +110,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/news-092425b-lg-500x500.jpg" alt="The crew of Artemis II will fly on Integrity during mission to the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/09/introducing-integrity-artemis-ii-astronauts-name-their-orion-ride-to-the-moon/" target="_blank">The crew of Artemis II will fly on Integrity during mission to the Moon</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-24 22:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,20 +164,20 @@
                 <span class="time">2025-09-24 20:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/24/neon-the-no-2-social-app-on-the-apple-app-store-pays-users-to-record-their-phone-calls-and-sells-data-to-ai-firms/" target="_blank">Neon, the No. 2 social app on the Apple App Store, pays users to record their phone calls and sells data to AI firms</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-24 19:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/SUSE-NVIDIA-CUDA-Official" target="_blank">SUSE Announces Better Support For NVIDIA CUDA</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-25 00:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -205,15 +223,6 @@
                 <span class="time">2025-09-24 17:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aaronksaunders/chatgpt-mobile-app-tutorial-vue-convex-capacitor-step-by-step-16kd" target="_blank">ChatGPT Mobile App Tutorial: Vue, Convex &amp; Capacitor (Step-by-Step)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-24 16:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +252,33 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Borderlands-4-review_jpg_75.jpg?fit=1200%2C720&amp;quality=60&amp;ssl=1" alt="Borderlands 4&#x27;s Switch 2 version delayed indefinitely, surprising no one" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/24/borderlands-4s-switch-2-version-delayed-indefinitely-surprising-no-one.html" target="_blank">Borderlands 4&#x27;s Switch 2 version delayed indefinitely, surprising no one</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-24 23:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/steamboat-willie-public-domain.jpg" alt="Disney Is Getting Sued Over Just How Much Mickey Mouse Counts as Public Domain" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/disney-steamboat-willie-lawsuit-public-domain-mickey-mouse-2000663467" target="_blank">Disney Is Getting Sued Over Just How Much Mickey Mouse Counts as Public Domain</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-24 23:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K5YNNQ10DDZ11323ZC061X37/hero-image.jpg" alt="Here&#x27;s Everything New in iOS 26.1" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/everything-new-in-ios-261?utm_medium=RSS" target="_blank">Here&#x27;s Everything New in iOS 26.1</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-24 21:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/08/VS-YouTube-CallofDutyBlackOps7WorldPremiereTrailergamescomOpeningNightLive2025-227.jpg" alt="Call Of Duty‘s Large Amount Of Last-Gen Players Aren’t Holding Back Black Ops 7" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -269,38 +305,29 @@
                 <span class="time">2025-09-24 19:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K5YFSGN3H3MXEVR0DZ6JCAVX/hero-image.jpg" alt="Apple Might Open Up iPhones to Third-Party Smartwatches" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/apple-might-support-third-party-smartwatches?utm_medium=RSS" target="_blank">Apple Might Open Up iPhones to Third-Party Smartwatches</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-24 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K5W4MGBMDHW3NWFEJXTPS1DP/hero-image.png" alt="I Tested Three of the Biggest AI Image Generators, and One Came Out on Top (Barely)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/which-ai-image-generators-is-better-chatgpt-gemini-or-meta-ai?utm_medium=RSS" target="_blank">I Tested Three of the Biggest AI Image Generators, and One Came Out on Top (Barely)</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-24 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/abundance.jpg?fit=1650%2C1028&amp;quality=60&amp;ssl=1" alt="Of the few Democratic voters who know about the &quot;Abundance&quot; agenda, only a third support it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/24/of-the-few-democratic-voters-who-know-about-the-abundance-agenda-only-a-third-support-it.html" target="_blank">Of the few Democratic voters who know about the &quot;Abundance&quot; agenda, only a third support it</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-24 17:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="http://www.questionablecontent.net/comics/5665.png" alt="Careful Who You Talk To" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5665" target="_blank">Careful Who You Talk To</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-09-25 00:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/09/24/deluxe-apartment-in-the-sky" target="_blank">Deluxe Apartment In The Sky</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-09-24 23:31</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -337,22 +364,13 @@
                 <span class="time">2025-09-24 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5664.png" alt="The Metehmorphosis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5664" target="_blank">The Metehmorphosis</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-09-24 00:58</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 140 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
