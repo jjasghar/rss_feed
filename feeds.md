@@ -1,41 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-09-25 05:01:41 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-25 06:02:35 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Dilbert -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 32 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Thursday, September 25, 2025 - 05:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Thursday, September 25, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +101,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" alt="Groupon Promo Codes: 50% Off in September 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/groupon-promo-code/" target="_blank">Groupon Promo Codes: 50% Off in September 2025</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-25 05:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/68d4aaf3753686376c763888/master/pass/Meta-Poaches-High-Ranking-OpenAI-Researcher-Business-2235448475.jpg" alt="Meta Poaches OpenAI Scientist to Help Lead AI Lab" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -155,20 +154,29 @@
                 <span class="time">2025-09-24 22:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/video/chipirons-big-idea-rethinking-mri-access-not-replacing-old-machines/" target="_blank">Chipiron’s big idea: rethinking MRI access, not replacing old machines</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-24 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/gamespot-ananta-gameplay-trailer-2kjf" target="_blank">GameSpot: Ananta | Gameplay Trailer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-25 06:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/09/netflix-muse/en/headerimage/generatedHeaderImage-1758671931842.jpg" alt="How Netflix Powers Audience Insights at Trillion-Row Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/netflix-muse/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Netflix Powers Audience Insights at Trillion-Row Scale</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-25 06:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,24 +211,6 @@
                 <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/desktop-weather-widget-ubuntu" target="_blank">This GNOME Weather Widget Puts Forecasts Directly on Your Desktop</a></span>
                 <span class="feed">OMG! Ubuntu</span>
                 <span class="time">2025-09-24 22:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://helium.computer/" target="_blank">Helium Browser</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-24 22:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Qualcomm-X2-Elite-Announced" target="_blank">Qualcomm Announces X2 Elite SoCs - Up To 18 Cores &amp; Up To 5.0GHz Boost Frequency</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-24 21:35</span>
             </div>
         </div>
 </div>
@@ -360,8 +350,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 31 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 05:01 UTC
+        📊 Displayed: 31 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
