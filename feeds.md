@@ -1,35 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-09-25 18:01:59 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-25 19:01:29 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 7 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 7 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Thursday, September 25, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Thursday, September 25, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/25/prison-riot-in-ecuador-kills-at-least-17-people?traffic_source=rss" target="_blank">Prison riot in Ecuador kills at least 17 people</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-25 18:19</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +104,20 @@
                 <span class="time">2025-09-25 15:58</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/25/nx-s1-5553386/starbucks-closes-stores-cuts-900-jobs" target="_blank">Starbucks is closing more stores and laying off 900 workers</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-25 15:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2234956387-500x500.jpg" alt="Study: Planned budget cuts would hurt drug development badly" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/09/study-planned-budget-cuts-would-hurt-drug-development-badly/" target="_blank">Study: Planned budget cuts would hurt drug development badly</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-25 18:34</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,20 +163,29 @@
                 <span class="time">2025-09-25 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/785693/xiaomi-17-pro-max-china-launch-specs-price-second-screen" target="_blank">Xiaomi 17 series arrives with secondary screens and enormous batteries</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-25 14:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/edson_morales_dd47d779a67/date-de-domingo-3a0d" target="_blank">Date de Domingo</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-25 18:43</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/09/google-differential-privacy-llm/en/headerimage/gemma-3n-architecture-1758820807365.jpeg" alt="Google Introduces VaultGemma: An Experimental Differentially Private LLM" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/google-differential-privacy-llm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Introduces VaultGemma: An Experimental Differentially Private LLM</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-25 18:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -199,24 +222,6 @@
                 <span class="time">2025-09-25 16:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-RAID-Linear-Atomic" target="_blank">Linux 6.18 Linear RAID &quot;md-linear&quot; To Support Atomic Writes</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-25 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl1pie3oav9et8ym1naqc.png" alt="Letting AI Build My App&#x27;s Auto Updates (and Fixing the Pitfalls)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/louis7/letting-ai-build-my-apps-auto-updates-and-fixing-the-pitfalls-4pke" target="_blank">Letting AI Build My App&#x27;s Auto Updates (and Fixing the Pitfalls)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-25 15:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -236,6 +241,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/hp-laptop-16-inch.jpg" alt="Amazon Cuts Its Profit on This HP Laptop (1TB, Windows 11 Pro, Office), Now HP’s Clear Best Seller" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/amazon-cuts-its-profit-on-this-hp-laptop-1tb-windows-11-pro-office-now-hps-clear-best-seller-2000628760" target="_blank">Amazon Cuts Its Profit on This HP Laptop (1TB, Windows 11 Pro, Office), Now HP’s Clear Best Seller</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-25 18:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/pulse-elevate-1280x853.jpg" alt="PlayStation’s New Portable Gaming Speakers Could Be Really Good, If They Don’t Cost a Fortune" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/playstations-new-portable-gaming-speakers-could-be-really-good-if-they-dont-cost-a-fortune-2000663778" target="_blank">PlayStation’s New Portable Gaming Speakers Could Be Really Good, If They Don’t Cost a Fortune</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-25 18:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://lifehacker.com/imagery/articles/01JD2S451XG1SC2B87GGRHZ1MW/hero-image.png" alt="How to Speak With a Real Person at Best Buy Customer Service" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,24 +293,6 @@
                 <span class="title"><a href="https://gizmodo.com/dogecoin-has-made-it-to-wall-street-2000663698" target="_blank">Dogecoin Has Made It to Wall Street</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-25 15:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01HF2GFGFAR94B5GZJ005YP57Z/hero-image.jpg" alt="How to Harness the &#x27;Primacy Effect&#x27; to Remember Information Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/how-the-primacy-effect-can-help-you-remember-informat-1850432109?utm_medium=RSS" target="_blank">How to Harness the &#x27;Primacy Effect&#x27; to Remember Information Better</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-25 12:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2023/01/1dc6923c384afd18fda43a99e153a907-1024x576.jpg" alt="Deutsche Bank Notices That a Needle Is Getting Dangerously Close to the AI Bubble" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/deutsche-bank-notices-that-a-needle-is-getting-dangerously-close-to-the-ai-bubble-2000663370" target="_blank">Deutsche Bank Notices That a Needle Is Getting Dangerously Close to the AI Bubble</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-25 11:00</span>
             </div>
         </div>
 </div>
@@ -336,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
