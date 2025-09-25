@@ -1,34 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-25 12:02:40 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
+<!-- Processing 54 RSS feeds at 2025-09-25 13:09:48 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: WIRED -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 26 feeds processed -->
+<!-- Generated 9 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Thursday, September 25, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, September 25, 2025 - 13:09 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,42 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/sections/shots-health-news/2025/09/25/nx-s1-5552751/autism-leucovorin-folinic-acid-folate-vitamin-reality-check" target="_blank">Leucovorin for autism? Many scientists — and parents — are skeptical</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-25 13:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/25/nelson-mandelas-grandson-reads-story-of-palestinian-mother-in-gaza?traffic_source=rss" target="_blank">Nelson Mandela’s grandson reads story of Palestinian mother in Gaza</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-25 12:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/25/nicolas-sarkozy-found-guilty-of-criminal-conspiracy-in-libya-trial" target="_blank">Nicolas Sarkozy given five-year prison sentence after Libya trial</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-09-25 12:14</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758798795589_tdy_news_7a_nobles_gov_shutdown_250925_1920x1080-spzpn0.jpg" alt="Trump Threatens Mass Firings if Government Shuts Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.today.com/video/trump-threatens-mass-firings-if-government-shuts-down-248313413711" target="_blank">Trump Threatens Mass Firings if Government Shuts Down</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-25 11:13</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/09/25/g-s1-90431/up-first-newsletter-ice-shooting-texas-unga-ukraine-aca-government-shutdown" target="_blank">Dallas ICE shooting updates. And, Trump threatens layoffs amid looming shutdown.</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-25 10:55</span>
@@ -62,47 +99,20 @@
                 <span class="time">2025-09-25 09:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/25/nx-s1-5553244/denmark-drones-airports" target="_blank">Danish officials believe drone flyovers at 4 airports meant to sow fear</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-25 09:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/ice-shooting-8-ap-gmh-250924_1758737133418_hpMain_4x3t_384.jpg" alt="ICE facilities on higher alert after deadly Dallas shooting, director says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/ice-facilities-higher-alert-after-deadly-dallas-shooting/story?id=125918125" target="_blank">ICE facilities on higher alert after deadly Dallas shooting, director says</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-25 09:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/25/taiwan-lowers-typhoon-ragasa-death-toll-to-14-china-starts-cleanup?traffic_source=rss" target="_blank">Taiwan lowers Typhoon Ragasa death toll to 14; China starts cleanup</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-25 07:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96f9/live/d254ab40-996b-11f0-97f5-bd38218a3641.jpg" alt="&#x27;Film me all you want&#x27; - teenage girls with no fear of police torment one High Street" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c0q751vlxw1o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Film me all you want&#x27; - teenage girls with no fear of police torment one High Street</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-25 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68d4d39bf831ba27b0048ddd/master/pass/Should%20You%20Buy%20a%20Chromebook%20or%20a%20Windows%20Laptop_.png" alt="Chromebooks vs. PC: The Differences Between Chrome OS and Windows" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/chromebooks-vs-windows-laptops/" target="_blank">Chromebooks vs. PC: The Differences Between Chrome OS and Windows</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-25 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +158,38 @@
                 <span class="time">2025-09-25 05:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" alt="Groupon Promo Codes: 50% Off in September 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/groupon-promo-code/" target="_blank">Groupon Promo Codes: 50% Off in September 2025</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-25 05:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/09/microsoft-extends-dotnet-sts/en/headerimage/twitter_card+%281%29-1758799890622.jpg" alt="Microsoft Extends Support Period for .NET Standard Term Support (STS)  Releases from 18 to 24 Months" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/microsoft-extends-dotnet-sts/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Microsoft Extends Support Period for .NET Standard Term Support (STS)  Releases from 18 to 24 Months</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-25 12:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Less-Cost-VMSCAPE" target="_blank">Intel Posts New Linux Patches To Reduce Overhead Of VMSCAPE Mitigation</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-25 12:07</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18642789&w=600" alt="Is Anyone There? Listening to Your Users Through Conversational AI Observability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/conversational-ai-observability-user-feedback" target="_blank">Is Anyone There? Listening to Your Users Through Conversational AI Observability</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-25 12:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/09/senior-role-software-development/en/headerimage/generatedHeaderImage-1758539599017.jpg" alt="Growing Your Career towards Senior Roles in Software Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -189,38 +217,20 @@
                 <span class="time">2025-09-25 11:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Wild-Linker" target="_blank">Wild: A Very Fast Linker Written In Rust, Aims To Outperform Mold Linker</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-25 10:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/aws-cdk-refactor-safe-iac/en/headerimage/generatedHeaderImage-1758615247135.jpg" alt="AWS CDK Refactor Feature: Safe Infrastructure as Code Renaming" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/aws-cdk-refactor-safe-iac/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">AWS CDK Refactor Feature: Safe Infrastructure as Code Renaming</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-25 10:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Qualcomm-X2-Elite-Linux-8EG5" target="_blank">Qualcomm Begins Posting Linux Patches For Snapdragon X2 Elite, 8 Elite Gen 5 SoCs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-25 09:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01HF2GFGFAR94B5GZJ005YP57Z/hero-image.jpg" alt="How to Harness the &#x27;Primacy Effect&#x27; to Remember Information Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/how-the-primacy-effect-can-help-you-remember-informat-1850432109?utm_medium=RSS" target="_blank">How to Harness the &#x27;Primacy Effect&#x27; to Remember Information Better</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-25 12:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2023/01/1dc6923c384afd18fda43a99e153a907-1024x576.jpg" alt="Deutsche Bank Notices That a Needle Is Getting Dangerously Close to the AI Bubble" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -264,15 +274,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/24/borderlands-4s-switch-2-version-delayed-indefinitely-surprising-no-one.html" target="_blank">Borderlands 4&#x27;s Switch 2 version delayed indefinitely, surprising no one</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-24 23:48</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/steamboat-willie-public-domain.jpg" alt="Disney Is Getting Sued Over Just How Much Mickey Mouse Counts as Public Domain" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/disney-steamboat-willie-lawsuit-public-domain-mickey-mouse-2000663467" target="_blank">Disney Is Getting Sued Over Just How Much Mickey Mouse Counts as Public Domain</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-24 23:45</span>
             </div>
         </div>
 </div>
@@ -321,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 13:09 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
