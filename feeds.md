@@ -1,41 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-25 01:29:22 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-09-25 02:27:30 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 12 new posts out of 32 feeds processed -->
+<!-- Generated 9 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, September 25, 2025 - 01:29 UTC</div>
+    <div class="newspaper-date">Thursday, September 25, 2025 - 02:27 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -61,12 +54,30 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/ice-shooting-3-rt-gmh-250924_1758729232913_hpMain_4x3t_384.jpg" alt="What we know about Dallas ICE sniper suspect" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/dallas-ice-sniper-suspect/story?id=125909069" target="_blank">What we know about Dallas ICE sniper suspect</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-25 00:24</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/09/24/g-s1-90401/syrian-president-ahmad-al-sharaa-united-nations-general-assembly" target="_blank">For the first time in nearly 6 decades, a Syrian president steps up to speak at the U.N.</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-24 23:42</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86f4/live/0fa11a10-99b2-11f0-8ba8-03c56d5ecc75.jpg" alt="Government considers financial support for JLR suppliers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c62nv0xx32go?at_medium=RSS&at_campaign=rss" target="_blank">Government considers financial support for JLR suppliers</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-24 23:20</span>
             </div>
         </div>
 <div class="story">
@@ -87,29 +98,20 @@
                 <span class="time">2025-09-24 21:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-kaja-kallas-european-commission_7030825.jpg?20250924213346" alt="&#x27;Great regret&#x27; some European nations buying Russian oil and gas, says top EU official" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/donald-trump-is-right-that-european-nations-should-stop-buying-russian-energy-says-top-eu-official-13437532" target="_blank">&#x27;Great regret&#x27; some European nations buying Russian oil and gas, says top EU official</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-24 21:18</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-copenhagen-airport_7028910.jpg?20250922213743" alt="Second airport in Denmark forced to close this week after drones spotted" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/aalborg-airport-in-denmark-forced-to-close-after-drones-spotted-police-say-13437595" target="_blank">Second airport in Denmark forced to close this week after drones spotted</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-24 21:08</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/785456/google-just-asked-the-supreme-court-to-save-it-from-the-epic-ruling" target="_blank">Google just asked the Supreme Court to save it from the Epic ruling</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-25 00:53</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/news-092425b-lg-500x500.jpg" alt="The crew of Artemis II will fly on Integrity during mission to the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -155,15 +157,6 @@
                 <span class="time">2025-09-24 20:51</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae-500x425.jpg" alt="“Screwworm is dangerously close”: Flesh-eating parasites just 70 miles from US" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/09/flesh-eating-parasite-just-70-miles-from-us-check-pets-texas-officials-say/" target="_blank">“Screwworm is dangerously close”: Flesh-eating parasites just 70 miles from US</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-24 20:45</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -172,10 +165,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/sadiul_hakim/a-process-killer-cli-project-using-java-process-api-2idi" target="_blank">A Process killer CLI project using Java Process API</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-25 02:19</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/SUSE-NVIDIA-CUDA-Official" target="_blank">SUSE Announces Better Support For NVIDIA CUDA</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-25 00:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/weather-widget.jpg?resize=406%2C232&amp;ssl=1" alt="This GNOME Weather Widget Puts Forecasts Directly on Your Desktop" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/desktop-weather-widget-ubuntu" target="_blank">This GNOME Weather Widget Puts Forecasts Directly on Your Desktop</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-24 22:54</span>
             </div>
         </div>
 <div class="story">
@@ -203,24 +214,6 @@
                 <span class="title"><a href="https://github.blog/news-insights/product-news/copilot-new-embedding-model-vs-code/" target="_blank">GitHub Copilot gets smarter at finding your code: Inside our new embedding model</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2025-09-24 20:24</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18653239&w=600" alt="Death by a Thousand YAMLs: Surviving Kubernetes Tool Sprawl" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/kubernetes-tool-sprawl-yaml" target="_blank">Death by a Thousand YAMLs: Surviving Kubernetes Tool Sprawl</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-24 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/MALIBAL-Made-In-US-Laptops" target="_blank">Linux Laptop Vendor MALIBAL Attempting To Pursue Made-In-USA Laptops</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-24 17:05</span>
             </div>
         </div>
 </div>
@@ -270,6 +263,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/Dxremake.jpg" alt="Elon Musk’s Favorite Game Is Getting Remastered  25 Years Later" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/elon-musks-favorite-game-is-getting-remastered-25-years-later-2000628283" target="_blank">Elon Musk’s Favorite Game Is Getting Remastered  25 Years Later</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-24 22:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K5YNNQ10DDZ11323ZC061X37/hero-image.jpg" alt="Here&#x27;s Everything New in iOS 26.1" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -294,15 +296,6 @@
                 <span class="title"><a href="https://lifehacker.com/money/how-to-speak-with-a-real-person-at-target-customer-service?utm_medium=RSS" target="_blank">How to Speak With a Real Person at Target Customer Service</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-24 20:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/VHSHalloween-2.jpg" alt="The Final ‘V/H/S/Halloween’ Trailer Promises Grimy Tricks and Gory Treats" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/the-final-v-h-s-halloween-trailer-promises-grimy-tricks-and-gory-treats-2000662979" target="_blank">The Final ‘V/H/S/Halloween’ Trailer Promises Grimy Tricks and Gory Treats</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-24 19:00</span>
             </div>
         </div>
 </div>
@@ -369,8 +362,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 32 | 📅 Last 24h: 126 | 📡 Total Sources: 41 | 📸 With Images: 266 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 32 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 02:27 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
