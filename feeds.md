@@ -1,42 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-25 17:01:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-25 18:01:59 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 32 feeds processed -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Thursday, September 25, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Thursday, September 25, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/25/nx-s1-5553470/latest-updates-dallas-ice-shooting" target="_blank">What we know about the Dallas ICE facility shooting</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-25 17:17</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -95,15 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/25/nx-s1-5553386/starbucks-closes-stores-cuts-900-jobs" target="_blank">Starbucks is closing more stores and laying off 900 workers</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-25 15:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/25/israeli-strikes-pound-yemens-capital-as-houthi-leader-decries-gaza-war?traffic_source=rss" target="_blank">Israeli strikes pound Yemen’s capital as Houthi leader decries Gaza war</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-25 15:47</span>
             </div>
         </div>
 </div>
@@ -173,6 +166,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/open-source/maintainers/building-beyond-the-browser-keeley-hammond-on-electron-open-source-and-the-future-of-maintainership/" target="_blank">Building beyond the browser: Keeley Hammond on Electron, open source, and the future of maintainership</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-09-25 17:05</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://substack-post-media.s3.amazonaws.com/public/images/a5dda6c7-53a5-47b1-bc09-6eff350f445e_420x300.png" alt="The Pulse #147: sudden changes to the H-1B program" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-wrench"></span>
+                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-147-sudden-changes-to-the" target="_blank">The Pulse #147: sudden changes to the H-1B program</a></span>
+                <span class="feed">The Pragmatic Engineer</span>
+                <span class="time">2025-09-25 17:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://metalhearf.fr/posts/chatcontrol-wants-your-private-messages/" target="_blank">ChatControl: EU wants to scan all private messages, even in encrypted apps</a></span>
                 <span class="feed">Hacker News</span>
@@ -206,24 +217,6 @@
                 <span class="time">2025-09-25 15:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18643815&w=600" alt="The Design System Team: Goals, Pains, and Successes" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/design-system-team" target="_blank">The Design System Team: Goals, Pains, and Successes</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-25 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-avatar-fire-and-ash-official-trailer-2-2025-sam-worthington-zoe-saldana-sigourney-2af0" target="_blank">IGN: Avatar: Fire and Ash - Official Trailer #2 (2025) Sam Worthington, Zoe Saldaña, Sigourney Weaver</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-25 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -243,6 +236,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01JD2S451XG1SC2B87GGRHZ1MW/hero-image.png" alt="How to Speak With a Real Person at Best Buy Customer Service" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/how-to-speak-with-a-best-buy-customer-service-representative?utm_medium=RSS" target="_blank">How to Speak With a Real Person at Best Buy Customer Service</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-25 17:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Ryan-Walters-smirking-at-a-public-hearing.-.jpg?fit=1080%2C610&amp;quality=60&amp;ssl=1" alt="Ryan Walters resigns as Oklahoma&#x27;s schools chief" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -288,20 +290,20 @@
                 <span class="time">2025-09-25 11:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/fh6.jpg" alt="Forza Horizon 6′s Location Officially Revealed, Hours After Microsoft Accidentally Leaked It" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/forza-horizon-6-location-microsoft-tokyo-game-show-2000628658" target="_blank">Forza Horizon 6′s Location Officially Revealed, Hours After Microsoft Accidentally Leaked It</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-25 10:53</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-pencil"></span>
+                <span class="title"><a href="https://poorlydrawnlines.com/comic/paranormal-investigators/" target="_blank">Paranormal Investigators</a></span>
+                <span class="feed">Poorly Drawn Lines</span>
+                <span class="time">2025-09-25 16:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://www.smbc-comics.com/comics/1758817442-20250925.png" alt="Saturday Morning Breakfast Cereal - XX" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -334,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 130 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
