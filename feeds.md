@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-25 11:01:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-25 12:02:40 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 7 new posts out of 28 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Thursday, September 25, 2025 - 11:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, September 25, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +107,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/785552/jimmy-kimmel-returns-record-viewership-figures" target="_blank">Jimmy Kimmel returns bigger than ever</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-25 11:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2223136363-500x500.jpg" alt="DeepMind’s robotic ballet: An AI for coordinating manufacturing robots" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/09/deepminds-robotic-ballet-an-ai-for-coordinating-manufacturing-robots/" target="_blank">DeepMind’s robotic ballet: An AI for coordinating manufacturing robots</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-25 11:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/transportation/784953/uber-eats-fresh-day-grocery-discount-price" target="_blank">Uber Eats is offering grocery discounts to combat ‘veggie-flation’</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-25 11:00</span>
@@ -141,29 +157,29 @@
                 <span class="time">2025-09-25 05:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d4aaf3753686376c763888/master/pass/Meta-Poaches-High-Ranking-OpenAI-Researcher-Business-2235448475.jpg" alt="Meta Poaches OpenAI Scientist to Help Lead AI Lab" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/meta-poaches-openai-researcher-yang-song/" target="_blank">Meta Poaches OpenAI Scientist to Help Lead AI Lab</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-25 04:26</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/784711/honor-magic-8-pro-design-snapdragon-8-elite-gen-5-ai-button-first-look-exclusive" target="_blank">Honor’s Magic 8 Pro is getting a new AI button</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-25 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/09/senior-role-software-development/en/headerimage/generatedHeaderImage-1758539599017.jpg" alt="Growing Your Career towards Senior Roles in Software Development" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/senior-role-software-development/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Growing Your Career towards Senior Roles in Software Development</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-25 11:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18642765&w=600" alt="Lessons Learned From Building Production-Scale Data Conversion Pipelines" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/production-scale-data-conversion-pipelines" target="_blank">Lessons Learned From Building Production-Scale Data Conversion Pipelines</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-25 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%215OcN%21%2Cw_1456%2Cc_limit%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F127ea4d8-e096-4f97-88be-4668d03b8fc8_100x100.png" alt="When the Music Stops" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -171,6 +187,15 @@
                 <span class="title"><a href="https://dev.to/rawveg/when-the-music-stops-4bf0" target="_blank">When the Music Stops</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-25 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Wild-Linker" target="_blank">Wild: A Very Fast Linker Written In Rust, Aims To Outperform Mold Linker</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-25 10:33</span>
             </div>
         </div>
 <div class="story">
@@ -189,56 +214,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Qualcomm-X2-Elite-Linux-8EG5" target="_blank">Qualcomm Begins Posting Linux Patches For Snapdragon X2 Elite, 8 Elite Gen 5 SoCs</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-25 09:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp1c3vhkwnl6gra4n8c8q.png" alt="Translation KPIs for Translation Management Success" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/colinreed/translation-kpis-for-translation-management-success-511a" target="_blank">Translation KPIs for Translation Management Success</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-25 09:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://wordsrightman.beehiiv.com/p/rto-wtaf" target="_blank">RTO: WTAF</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-25 08:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/anshuman_816f8012be0c9b6c/how-to-create-histograms-in-r-a-comprehensive-guide-3hb0" target="_blank">How to Create Histograms in R: A Comprehensive Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-25 07:51</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield-halved"></span>
-                <span class="title"><a href="https://krebsonsecurity.com/2025/09/feds-tie-scattered-spider-duo-to-115m-in-ransoms/" target="_blank">Feds Tie ‘Scattered Spider’ Duo to $115M in Ransoms</a></span>
-                <span class="feed">Krebs on Security</span>
-                <span class="time">2025-09-24 11:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/us-disrupts-massive-cell-phone-array-in-new-york.html" target="_blank">US Disrupts Massive Cell Phone Array in New York</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-09-24 11:09</span>
             </div>
         </div>
 </div>
@@ -346,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 135 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 11:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
