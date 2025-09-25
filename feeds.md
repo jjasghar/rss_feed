@@ -1,31 +1,43 @@
-<!-- Processing 54 RSS feeds at 2025-09-25 09:01:45 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-25 10:02:04 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Error processing https://www.questionablecontent.net/QCRSS.xml: The read operation timed out -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 23 feeds processed -->
+<!-- Generated 8 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Thursday, September 25, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Thursday, September 25, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +54,33 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b352/live/d1a4b990-99d6-11f0-92db-77261a15b9d2.jpg" alt="Denmark says &#x27;professional actor&#x27; behind drone incursions over its airports" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c7401vk4lgzo?at_medium=RSS&at_campaign=rss" target="_blank">Denmark says &#x27;professional actor&#x27; behind drone incursions over its airports</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-25 09:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/25/nx-s1-5553244/denmark-drones-airports" target="_blank">Danish officials believe drone flyovers at 4 airports meant to sow fear</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-25 09:23</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/ice-shooting-8-ap-gmh-250924_1758737133418_hpMain_4x3t_384.jpg" alt="ICE facilities on higher alert after deadly Dallas shooting, director says" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/ice-facilities-higher-alert-after-deadly-dallas-shooting/story?id=125918125" target="_blank">ICE facilities on higher alert after deadly Dallas shooting, director says</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-25 09:12</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
@@ -51,48 +90,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96f9/live/d254ab40-996b-11f0-97f5-bd38218a3641.jpg" alt="&#x27;Film me all you want&#x27; - teenage girls with no fear of police torment one High Street" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c0q751vlxw1o?at_medium=RSS&at_campaign=rss" target="_blank">&#x27;Film me all you want&#x27; - teenage girls with no fear of police torment one High Street</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-25 05:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/economy/2025/9/25/underwhelming-chinas-new-climate-target-falls-far-short-experts-say?traffic_source=rss" target="_blank">‘Underwhelming’: China’s new climate target falls far short, experts say</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-25 04:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2944/live/e50810d0-99a5-11f0-92db-77261a15b9d2.jpg" alt="Colombia&#x27;s president calls US attacks on alleged drug boats &#x27;act of tyranny&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy8rjp178mno?at_medium=RSS&at_campaign=rss" target="_blank">Colombia&#x27;s president calls US attacks on alleged drug boats &#x27;act of tyranny&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-25 04:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/economy/2025/9/25/indonesias-thrifty-window-shoppers-cast-doubt-on-economic-success-story?traffic_source=rss" target="_blank">Indonesia’s thrifty window shoppers cast doubt on economic success story</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-25 03:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/24/nx-s1-5552789/trump-government-shutdown-plan-memo" target="_blank">White House threatens layoffs -- not furloughs -- if the government shuts down</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-25 03:28</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/25/ukraine-syria-restore-diplomatic-ties-after-breakdown-during-assad-regime?traffic_source=rss" target="_blank">Ukraine, Syria restore diplomatic ties after breakdown during Assad regime</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-25 00:42</span>
             </div>
         </div>
 </div>
@@ -162,6 +174,33 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Qualcomm-X2-Elite-Linux-8EG5" target="_blank">Qualcomm Begins Posting Linux Patches For Snapdragon X2 Elite, 8 Elite Gen 5 SoCs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-25 09:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp1c3vhkwnl6gra4n8c8q.png" alt="Translation KPIs for Translation Management Success" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/colinreed/translation-kpis-for-translation-management-success-511a" target="_blank">Translation KPIs for Translation Management Success</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-25 09:50</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://wordsrightman.beehiiv.com/p/rto-wtaf" target="_blank">RTO: WTAF</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-25 08:56</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/anshuman_816f8012be0c9b6c/how-to-create-histograms-in-r-a-comprehensive-guide-3hb0" target="_blank">How to Create Histograms in R: A Comprehensive Guide</a></span>
                 <span class="feed">DEV Community</span>
@@ -184,33 +223,6 @@
                 <span class="title"><a href="https://www.phoronix.com/review/raspberry-pi-500-plus" target="_blank">Raspberry Pi 500+ Benchmarks: Mechanical Keyboard Computer, 16GB RAM &amp; NVMe SSD</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-25 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://t0mpr1c3.github.io/knotty/index.html" target="_blank">Knotty: A domain-specific language for knitting patterns</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-25 06:13</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/gamespot-ananta-gameplay-trailer-2kjf" target="_blank">GameSpot: Ananta | Gameplay Trailer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-25 06:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/netflix-muse/en/headerimage/generatedHeaderImage-1758671931842.jpg" alt="How Netflix Powers Audience Insights at Trillion-Row Scale" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/netflix-muse/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">How Netflix Powers Audience Insights at Trillion-Row Scale</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-25 06:00</span>
             </div>
         </div>
 </div>
@@ -341,8 +353,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
