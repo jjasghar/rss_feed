@@ -1,36 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-09-25 08:02:34 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-09-25 09:01:45 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Thursday, September 25, 2025 - 08:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Thursday, September 25, 2025 - 09:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -106,6 +101,24 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/785486/forza-horizon-6-japan-xbox-release-date" target="_blank">Forza Horizon 6 is set in Japan and arrives in 2026</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-25 08:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/24/smartphone-maker-nothing-to-spin-off-its-affordable-cmf-brand/" target="_blank">Smartphone maker Nothing to spin off its affordable CMF brand</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-25 05:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" alt="Groupon Promo Codes: 50% Off in September 2025" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -139,24 +152,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/785456/google-just-asked-the-supreme-court-to-save-it-from-the-epic-ruling" target="_blank">Google just asked the Supreme Court to save it from the Epic ruling</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-25 00:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/24/y-combinator-launches-early-decision-for-students-who-want-to-graduate-first-build-later/" target="_blank">Y Combinator launches ‘Early Decision’ for students who want to graduate first, build later</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-24 22:36</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/news-092425b-lg-500x500.jpg" alt="The crew of Artemis II will fly on Integrity during mission to the Moon" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/09/introducing-integrity-artemis-ii-astronauts-name-their-orion-ride-to-the-moon/" target="_blank">The crew of Artemis II will fly on Integrity during mission to the Moon</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-24 22:35</span>
             </div>
         </div>
 </div>
@@ -247,6 +242,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/01/shutterstock_1916128447-scaled.jpg?fit=2560%2C1656&amp;quality=60&amp;ssl=1" alt="Misophonia trigger sounds are usually from humans, not animals–but context and perception play huge roles, too" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/24/misophonia-trigger-sounds-are-usually-from-humans-not-animals-but-context-and-perception-play-huge-roles-too.html" target="_blank">Misophonia trigger sounds are usually from humans, not animals–but context and perception play huge roles, too</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-25 05:32</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/C-200_Angled_on_White.jpeg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Company claims this vibrating knife makes cutting &quot;easier&quot; — but does it?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -289,15 +293,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/everything-new-in-ios-261?utm_medium=RSS" target="_blank">Here&#x27;s Everything New in iOS 26.1</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-24 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/08/VS-YouTube-CallofDutyBlackOps7WorldPremiereTrailergamescomOpeningNightLive2025-227.jpg" alt="Call Of Duty‘s Large Amount Of Last-Gen Players Aren’t Holding Back Black Ops 7" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/call-of-duty-last-gen-player-count-ps4-not-holding-black-ops-7-back-2000628253" target="_blank">Call Of Duty‘s Large Amount Of Last-Gen Players Aren’t Holding Back Black Ops 7</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-24 20:35</span>
             </div>
         </div>
 </div>
@@ -346,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 08:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 09:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
