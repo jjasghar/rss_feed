@@ -1,34 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-25 20:01:57 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-25 21:01:33 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Generated 7 new posts out of 25 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Thursday, September 25, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Thursday, September 25, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +43,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250924-trump-tiktok-gk-f1f2e8.jpg" alt="Trump signs executive order facilitating TikTok deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/tech/tech-news/trump-signs-executive-order-tiktok-deal-know-rcna233518" target="_blank">Trump signs executive order facilitating TikTok deal</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-25 20:42</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/25/nx-s1-5552793/dallas-ice-shooting-immigration-appointments-canceled" target="_blank">24 hours after shooting, migrants show up to ICE Dallas facility fearful of missing their appointments</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-25 19:40</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -80,29 +97,20 @@
                 <span class="time">2025-09-25 16:39</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/centre-stage/2025/9/25/mozambique-at-50-a-conversation-with-president-chapo?traffic_source=rss" target="_blank">Mozambique at 50: A conversation with President Chapo</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-25 16:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/ice-shooting-8-ap-gmh-250924_1758737133418_hpMain_4x3t_384.jpg" alt="Dallas ICE shooting latest: FBI releases note allegedly left behind by sniper" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/ice-facilities-higher-alert-after-deadly-dallas-shooting/story?id=125918125" target="_blank">Dallas ICE shooting latest: FBI releases note allegedly left behind by sniper</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-25 16:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68d569fb76743967bd8569ca/master/pass/FTC-Amazon-Prime-Settlement-Business-2213559465.jpg" alt="Amazon Will Pay $2.5 Billion to Settle FTC Suit That Alleged ‘Dark Patterns’ in Prime Sign-Ups" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/amazon-ftc-settlement-prime-dark-patterns/" target="_blank">Amazon Will Pay $2.5 Billion to Settle FTC Suit That Alleged ‘Dark Patterns’ in Prime Sign-Ups</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-25 20:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -148,20 +156,20 @@
                 <span class="time">2025-09-25 16:10</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/785193/google-deepmind-gemini-ai-robotics-web-search" target="_blank">Google DeepMind’s new AI models can search the web to help robots complete tasks</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-25 16:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Servo-This-Month-Aug-2025" target="_blank">Servo Engine Lands Support For Rendering Inline SVG Elements, More Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-25 19:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18657219&w=600" alt="Implementing Vector Search in Databricks" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -207,15 +215,6 @@
                 <span class="time">2025-09-25 17:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://substack-post-media.s3.amazonaws.com/public/images/a5dda6c7-53a5-47b1-bc09-6eff350f445e_420x300.png" alt="The Pulse #147: sudden changes to the H-1B program" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-wrench"></span>
-                <span class="title"><a href="https://newsletter.pragmaticengineer.com/p/the-pulse-147-sudden-changes-to-the" target="_blank">The Pulse #147: sudden changes to the H-1B program</a></span>
-                <span class="feed">The Pragmatic Engineer</span>
-                <span class="time">2025-09-25 17:04</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -235,6 +234,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/ray-ban-display-hero-1280x853.jpg" alt="If You’re Dying to Try Meta’s New Smart Glasses With a Display, Now’s Your Chance" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/meta-ray-ban-display-demo-pop-up-locations-store-opening-dates-and-time-2000663365" target="_blank">If You’re Dying to Try Meta’s New Smart Glasses With a Display, Now’s Your Chance</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-25 20:50</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K614WGM02G2FBGQP0DTQJFAT/hero-image.png" alt="These Beats Studio Buds Are Under $80 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/beats-studio-buds-amazon-deal?utm_medium=RSS" target="_blank">These Beats Studio Buds Are Under $80 Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-25 20:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Invest-94L-and-TS-Humberto-1280x853.jpg" alt="Forecasters Are Monitoring a Wacky Storm Situation in the Atlantic" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -269,24 +286,6 @@
                 <span class="title"><a href="https://lifehacker.com/money/how-to-speak-with-a-best-buy-customer-service-representative?utm_medium=RSS" target="_blank">How to Speak With a Real Person at Best Buy Customer Service</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-25 17:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/07/Ryan-Walters-smirking-at-a-public-hearing.-.jpg?fit=1080%2C610&amp;quality=60&amp;ssl=1" alt="Ryan Walters resigns as Oklahoma&#x27;s schools chief" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/25/ryan-walters-resigns-as-oklahomas-schools-chief.html" target="_blank">Ryan Walters resigns as Oklahoma&#x27;s schools chief</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-25 16:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/bullets-e1758815533886.jpeg?fit=600%2C400&amp;quality=60&amp;ssl=1" alt="Friends of ICE sniper: he lived on 4chan irony, not politics" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/25/friends-of-ice-sniper-he-lived-on-4chan-irony-not-politics.html" target="_blank">Friends of ICE sniper: he lived on 4chan irony, not politics</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-25 15:52</span>
             </div>
         </div>
 </div>
@@ -335,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
