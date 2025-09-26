@@ -1,42 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-26 19:01:29 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-26 20:01:49 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 15 new posts out of 34 feeds processed -->
+<!-- Generated 6 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, September 26, 2025 - 19:01 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, September 26, 2025 - 20:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/26/u-n-security-council-rejects-last-ditch-effort-to-delay-iran-sanctions?traffic_source=rss" target="_blank">U.N. Security Council rejects last-ditch effort to delay Iran sanctions</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-26 19:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/trump-comey-gty-jef-250926_1758907299024_hpMain_4x3t_384.jpg" alt="Looking back at the near decade of turmoil between Trump, Comey" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -97,20 +96,20 @@
                 <span class="time">2025-09-26 15:24</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/26/g-s1-90655/netanyahu-un-address-gaza-war-defiance" target="_blank">At U.N., amid jeers and cheers, Netanyahu says Israel &#x27;must finish the job&#x27; in Gaza</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-26 14:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/786558/ring-battery-doorbell-plus-october-prime-day-deals-sale" target="_blank">One of our favorite video doorbells is 47 percent off in the run-up to Prime Day</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-26 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -156,20 +155,20 @@
                 <span class="time">2025-09-26 17:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/policy/786511/h-1b-skilled-worker-visa-policy-chaos" target="_blank">Trump’s new H-1B policy caused short-term panic — and will cause long-term chaos</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-26 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18662922&w=600" alt="Federated Learning: Training Models Without Sharing Raw Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/federated-learning-training-models-without-sharing" target="_blank">Federated Learning: Training Models Without Sharing Raw Data</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-26 19:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zgmnbtmvl2ylww7691i.png" alt="Introduction to CI/CD" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -192,6 +191,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/apple/ml-simplefold" target="_blank">SimpleFold: Folding proteins is simpler than you think</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-26 18:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://github.com/apple/ml-simplefold" target="_blank">SimpleFold: Folding Proteins Is Simpler Than You Think</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-09-26 18:01</span>
@@ -204,24 +212,6 @@
                 <span class="title"><a href="https://dzone.com/articles/open-source-networking-era" target="_blank">Networking’s Open Source Era Is Just Getting Started</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-09-26 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnud4l3xxidvfojn5057k.png" alt="Unlocking Visual AWS Infrastructure Design with AWS Infrastructure Composer" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/taiwoadeleke12/unlocking-visual-aws-infrastructure-design-with-aws-infrastructure-composer-3nah" target="_blank">Unlocking Visual AWS Infrastructure Design with AWS Infrastructure Composer</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-26 17:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/news-insights/policy-news-and-insights/how-github-protects-developers-from-copyright-enforcement-overreach/" target="_blank">How GitHub protects developers from copyright enforcement overreach</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-09-26 17:06</span>
             </div>
         </div>
 </div>
@@ -244,12 +234,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/06/5f30f6520a2357580ab7de42390ff804.jpg" alt="Nine Digimon Games Worth Going Back To After Time Stranger" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/best-digimon-game-cyber-sleuth-world-survive-next-order-2000629304" target="_blank">Nine Digimon Games Worth Going Back To After Time Stranger</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-26 19:49</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/08/Insta360-Antigravity-A1-drone-10-1280x853.jpg" alt="Retail Stores May Soon Use Drones to Chase Thieves" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/flock-safety-retail-theft-drones-2000664310" target="_blank">Retail Stores May Soon Use Drones to Chase Thieves</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-26 18:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K5F7N5XKBQGNY16DS58RSS06/hero-image.jpg" alt="The Complicated Ethics (and Laws) of Smart Glasses" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/smart-glasses-ethics-and-laws?utm_medium=RSS" target="_blank">The Complicated Ethics (and Laws) of Smart Glasses</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-26 18:30</span>
             </div>
         </div>
 <div class="story">
@@ -277,24 +285,6 @@
                 <span class="title"><a href="https://kotaku.com/vandal-hearts-2-gradius-sword-suikoden-ps1-demo-disc-save-file-2000629247" target="_blank">The 26-Year-Old Mystery Behind A Cult-Classic SRPG’s Gradius Sword Has Finally Been Solved</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-09-26 16:56</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K63AGM7JFFFVVNS6PM3XDXMQ/hero-image.png" alt="Is &#x27;Backwards Running&#x27; a Worthwhile Fitness Trend for Runners?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/health/is-backwards-running-trend-worth-it?utm_medium=RSS" target="_blank">Is &#x27;Backwards Running&#x27; a Worthwhile Fitness Trend for Runners?</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-26 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Apple-Iphone-17-Series-Air-25-1280x853.jpg" alt="Neon, an App That Pays to Record Your Phone Calls Hit #2 on the App Store, Taken Down Over Security Flaw" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/neon-app-call-recording-security-risk-2000664183" target="_blank">Neon, an App That Pays to Record Your Phone Calls Hit #2 on the App Store, Taken Down Over Security Flaw</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-26 15:50</span>
             </div>
         </div>
 </div>
@@ -334,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 272 |
-        🔄 Last Updated: 19:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 273 |
+        🔄 Last Updated: 20:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
