@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-26 17:01:55 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-26 18:01:39 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 29 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 8 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, September 26, 2025 - 17:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Friday, September 26, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,6 +111,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/786540/dji-loses-chinese-military-company-lawsuit-dod" target="_blank">Pentagon can call DJI a Chinese Military Company, court rules</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-26 17:29</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68d6c5dd8831e318b5a37fda/master/pass/billionaire-communities.jpg" alt="Tech Billionaires Already Captured the White House. They Still Want to Be Kings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/tech-billionaires-communities/" target="_blank">Tech Billionaires Already Captured the White House. They Still Want to Be Kings</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-26 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/policy/786511/h-1b-skilled-worker-visa-policy-chaos" target="_blank">Trump’s new H-1B policy caused short-term panic — and will cause long-term chaos</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-26 17:00</span>
@@ -142,29 +161,38 @@
                 <span class="time">2025-09-26 15:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/26/the-trump-admin-is-going-after-semiconductor-imports/" target="_blank">The Trump admin is going after semiconductor imports</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-26 14:40</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/786346/optimizer-wearables-fitness-tracking-health-anxiety-paranoia" target="_blank">I’ve got a bone to pick with ‘getting credit’ from your fitness tracker</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-26 14:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnud4l3xxidvfojn5057k.png" alt="Unlocking Visual AWS Infrastructure Design with AWS Infrastructure Composer" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/taiwoadeleke12/unlocking-visual-aws-infrastructure-design-with-aws-infrastructure-composer-3nah" target="_blank">Unlocking Visual AWS Infrastructure Design with AWS Infrastructure Composer</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-26 17:54</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-github"></span>
+                <span class="title"><a href="https://github.blog/news-insights/policy-news-and-insights/how-github-protects-developers-from-copyright-enforcement-overreach/" target="_blank">How GitHub protects developers from copyright enforcement overreach</a></span>
+                <span class="feed">The GitHub Blog</span>
+                <span class="time">2025-09-26 17:06</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18659272&w=600" alt="LLM-First Vibe Coding" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/llm-first-vibe-coding" target="_blank">LLM-First Vibe Coding</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-26 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18659267&w=600" alt="Why One-Week Sprints Make Vibe Coding Work Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -186,37 +214,10 @@
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Vulkan-1.4.328" target="_blank">Vulkan 1.4.328 Published With Copy Memory Indirect Extension</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-26 15:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://runnercode.com/blog/context-is-the-bottleneck-for-coding-agents-now" target="_blank">Context is the bottleneck for coding agents now</a></span>
+                <span class="title"><a href="https://max-inden.de/post/fast-udp-io-in-firefox/" target="_blank">Fast UDP I/O for Firefox in Rust</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2025-09-26 15:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/security/vulnerability-research/kicking-off-cybersecurity-awareness-month-2025-researcher-spotlights-and-enhanced-incentives/" target="_blank">Kicking off Cybersecurity Awareness Month 2025: Researcher Spotlights and Enhanced Incentives</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-09-26 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Features-Reminder" target="_blank">Linux 6.17 Gets Ready For Release With Intel Panther Lake &amp; More Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-26 14:51</span>
+                <span class="time">2025-09-26 15:14</span>
             </div>
         </div>
 </div>
@@ -238,6 +239,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/amodex.jpg?fit=1016%2C1500&amp;quality=60&amp;ssl=1" alt="Remove ink stains with Amodex" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/26/remove-ink-stains-with-amodex.html" target="_blank">Remove ink stains with Amodex</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-26 17:35</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01J03XDC2A0HZTS5ZSFV585KY3/hero-image.png" alt="Four Reasons Not to Use ‘Buy Now, Pay Later’ for Your Prime Day Purchases" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/dont-use-buy-now-pay-later-prime-day-2025?utm_medium=RSS" target="_blank">Four Reasons Not to Use ‘Buy Now, Pay Later’ for Your Prime Day Purchases</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-26 17:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/brightrpg.jpg" alt="The 26-Year-Old Mystery Behind A Cult-Classic SRPG’s Gradius Sword Has Finally Been Solved" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,24 +291,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/26/starbucks-stormtrooper-has-a-grande-sized-grievance-video.html" target="_blank">Starbucks stormtrooper has a grande-sized grievance (video)</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-26 15:16</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/gun-e1758897976384.jpeg?fit=600%2C400&amp;quality=60&amp;ssl=1" alt="ICE officer pulls gun on bystanders in Maryland as man pleads &quot;I am American&quot; (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/26/ice-officer-pulls-gun-on-bystanders-in-maryland-as-man-pleads-i-am-american-video.html" target="_blank">ICE officer pulls gun on bystanders in Maryland as man pleads &quot;I am American&quot; (video)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-26 14:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Apple-Iphone-17-Series-Air-34-1280x853.jpg" alt="Don’t Count on the iPhone Air 2 Getting an Ultrawide Camera" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/iphone-air-2-ultrawide-lens-2000664109" target="_blank">Don’t Count on the iPhone Air 2 Getting an Ultrawide Camera</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-26 14:45</span>
             </div>
         </div>
 </div>
@@ -329,8 +330,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 17:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
