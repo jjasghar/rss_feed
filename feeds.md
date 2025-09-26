@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-26 21:01:35 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-26 22:01:43 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
+<!-- Processing: InfoQ -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 10 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Friday, September 26, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Friday, September 26, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/26/us-supreme-court-sides-with-trump-on-freezing-4bn-in-foreign-aid?traffic_source=rss" target="_blank">US Supreme Court sides with Trump on freezing $4bn in foreign aid</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-26 21:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,21 +91,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-elon-musk-x-tesla_7032542.jpg?20250926214813" alt="Elon Musk and Prince Andrew named in latest Epstein files release" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/26/world-must-deny-israel-tools-of-genocide-says-growing-alliance-of-activist-states" target="_blank">World must deny Israel ‘tools of genocide’, says growing alliance of activist states</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-09-26 17:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f87e/live/39823af0-9af0-11f0-b741-177e3e2c2fc7.jpg" alt="Netanyahu attacks Palestinian recognition as dozens walk out of UN speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cderxxylpzdo?at_medium=RSS&at_campaign=rss" target="_blank">Netanyahu attacks Palestinian recognition as dozens walk out of UN speech</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-26 16:41</span>
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/elon-musk-and-prince-andrew-named-in-latest-epstein-files-release-13438742" target="_blank">Elon Musk and Prince Andrew named in latest Epstein files release</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-26 18:25</span>
             </div>
         </div>
 </div>
@@ -101,6 +104,33 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/2509-lg-easytv-1-500x500-1758917141.jpg" alt="LG’s $1,800 TV for seniors makes misguided assumptions" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/lgs-1800-tv-for-seniors-comes-with-an-upcharge-and-ai-button/" target="_blank">LG’s $1,800 TV for seniors makes misguided assumptions</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-26 21:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/786837/microsoft-photos-ai-auto-categorize-test" target="_blank">Microsoft Photos will soon auto-categorize your pictures</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-26 21:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68d6f512a10e9fa625d46eac/master/pass/Review-%20Apple%20AirPods%20Pro%203.png" alt="Apple AirPods Pro 3 Review: Still The Best for iOS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/apple-airpods-pro-3/" target="_blank">Apple AirPods Pro 3 Review: Still The Best for iOS</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-26 20:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -126,33 +156,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/786483/how-to-find-lego-game-boy-costco-sams-club-on-sale-early" target="_blank">Costco is already selling piles of Lego Game Boys cheaper than the Lego company</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-26 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2014/11/13717624625_c584569b9b_k-500x500.jpg" alt="Ebola outbreak in DR Congo rages, with 61% death rate and funding running dry" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/health/2025/09/ebola-outbreak-in-dr-congo-rages-with-61-death-rate-and-funding-running-dry/" target="_blank">Ebola outbreak in DR Congo rages, with 61% death rate and funding running dry</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-26 18:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/26/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/" target="_blank">As people look for ways to make new friends, here are the apps promising to help</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-26 18:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/786540/dji-loses-chinese-military-company-lawsuit-dod" target="_blank">Pentagon can call DJI a Chinese Military Company, court rules</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-26 17:29</span>
             </div>
         </div>
 </div>
@@ -223,6 +226,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/friday-squid-blogging-jigging-for-squid.html" target="_blank">Friday Squid Blogging: Jigging for Squid</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-09-26 21:03</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/digital-threat-modeling-under-authoritarianism.html" target="_blank">Digital Threat Modeling Under Authoritarianism</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2025-09-26 11:04</span>
@@ -233,6 +245,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Curiosity-Stream-Standard-Plan-1.png?fit=2250%2C1500&amp;quality=55&amp;ssl=1" alt="Personal growth, business smarts, and health hacks in 15 minutes or less with Headway for $47.99" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/26/personal-growth-business-smarts-and-health-hacks-in-15-minutes-or-less-with-headway-for-47-99.html" target="_blank">Personal growth, business smarts, and health hacks in 15 minutes or less with Headway for $47.99</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-26 21:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/mainoption3.jpg" alt="11 Things I Wish I Knew Before Playing Silent Hill f" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -278,15 +299,6 @@
                 <span class="time">2025-09-26 17:35</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01J03XDC2A0HZTS5ZSFV585KY3/hero-image.png" alt="Four Reasons Not to Use ‘Buy Now, Pay Later’ for Your Prime Day Purchases" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/money/dont-use-buy-now-pay-later-prime-day-2025?utm_medium=RSS" target="_blank">Four Reasons Not to Use ‘Buy Now, Pay Later’ for Your Prime Day Purchases</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-26 17:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -311,6 +323,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://imgs.xkcd.com/comics/hiking.png" alt="Hiking" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-laugh"></span>
+                <span class="title"><a href="https://xkcd.com/3147/" target="_blank">Hiking</a></span>
+                <span class="feed">xkcd.com</span>
+                <span class="time">2025-09-26 04:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5666.png" alt="Neighborly" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -324,8 +345,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 273 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
