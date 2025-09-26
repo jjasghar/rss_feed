@@ -1,34 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-26 09:02:00 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-26 10:01:43 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Generated 3 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, September 26, 2025 - 09:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, September 26, 2025 - 10:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +42,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/26/g-s1-90432/harris-trump-musk-kimmel-tylenol-baseball-news-quiz" target="_blank">There was no rapture this week, so the quiz returns. Can you score a perfect 11?</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-26 09:01</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb5f/live/89c583d0-9a66-11f0-97f5-bd38218a3641.jpg" alt="Starmer says Labour had &#x27;shied away&#x27; from concerns over illegal immigration" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -89,20 +96,20 @@
                 <span class="time">2025-09-26 02:30</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/26/un-chief-top-diplomats-plead-for-support-for-unrwa-amid-gaza-crisis?traffic_source=rss" target="_blank">UN chief, top diplomats plead for support for UNRWA amid Gaza crisis</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-26 01:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68d57348bcf9d3a4141a7cbd/master/pass/eyedrops-sci-1356354404.jpg" alt="Could These Eye Drops End the Need for Reading Glasses?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/could-these-eye-drops-end-the-need-for-reading-glasses/" target="_blank">Could These Eye Drops End the Need for Reading Glasses?</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-26 09:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" alt="Target Promo Codes and Deals: Up to 50% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -148,15 +155,6 @@
                 <span class="time">2025-09-25 23:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/02/delete-doge-scaled-500x500-1740426654.jpg" alt="Senate staff probes DOGE, finds locked doors and windows covered with trash bags" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/senate-staff-probes-doge-finds-locked-doors-and-windows-covered-with-trash-bags/" target="_blank">Senate staff probes DOGE, finds locked doors and windows covered with trash bags</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-25 22:19</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -178,6 +176,15 @@
                 <span class="title"><a href="https://dev.to/og_wunderkind/how-to-make-your-mongoose-models-smarter-and-your-code-cleaner-with-setters-getters-and-more-22ag" target="_blank">How to Make Your Mongoose Models Smarter and Your Code Cleaner with Setters, Getters, and More</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-26 08:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://vazgriz.com/762/f-16-flight-sim-in-unity-3d/" target="_blank">Translating a Fortran F-16 Simulator to Unity3D</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-26 07:06</span>
             </div>
         </div>
 <div class="story">
@@ -205,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/devteam/what-was-your-win-this-week-43a" target="_blank">What was your win this week!?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-26 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/" target="_blank">Flock Reinstalls Cameras Without City Approval After Unlawful Govt Access</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-26 03:51</span>
             </div>
         </div>
 </div>
@@ -335,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 09:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 10:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
