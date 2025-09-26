@@ -1,32 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-26 20:01:49 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-09-26 21:01:35 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Hacker News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 24 feeds processed -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, September 26, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Friday, September 26, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,10 +45,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/26/nx-s1-5554497/national-guard-memphis-tennessee-bill-lee" target="_blank">An influx of federal agents will arrive in Memphis next week, governor says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-26 20:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/26/u-n-security-council-rejects-last-ditch-effort-to-delay-iran-sanctions?traffic_source=rss" target="_blank">U.N. Security Council rejects last-ditch effort to delay Iran sanctions</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-26 19:27</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/US/doanld-trump-8-epa-gmh-250926_1758900063960_hpMain_4x3t_384.jpg" alt="With Comey, Brennan, Soros, Trump steps up his retribution campaign" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/comey-brennan-soros-trump-steps-retribution-campaign/story?id=125972721" target="_blank">With Comey, Brennan, Soros, Trump steps up his retribution campaign</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-26 19:03</span>
             </div>
         </div>
 <div class="story">
@@ -78,29 +96,20 @@
                 <span class="time">2025-09-26 16:41</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/chris-murphy-gty-jef-250926_1758896320067_hpMain_4x3t_384.jpg" alt="&#x27;Constitutional crisis&#x27;: Dems hit Trump admin, DOJ over James Comey indictment" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/constitutional-crisis-democrats-hit-trump-administration-doj-james/story?id=125962402" target="_blank">&#x27;Constitutional crisis&#x27;: Dems hit Trump admin, DOJ over James Comey indictment</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-26 16:33</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/26/netanyahu-tells-un-that-israel-must-finish-job-in-gaza?traffic_source=rss" target="_blank">Netanyahu tells UN that Israel must ‘finish job’ in Gaza</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-26 15:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/26/discover-how-developer-tools-are-shifting-fast-with-lauri-moore-and-david-cramer-at-techcrunch-disrupt-2025/" target="_blank">Vibe coding: Hype or new reality? Only at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-26 20:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,15 +153,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/786540/dji-loses-chinese-military-company-lawsuit-dod" target="_blank">Pentagon can call DJI a Chinese Military Company, court rules</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-26 17:29</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d6c5dd8831e318b5a37fda/master/pass/billionaire-communities.jpg" alt="Tech Billionaires Already Captured the White House. They Still Want to Be Kings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/tech-billionaires-communities/" target="_blank">Tech Billionaires Already Captured the White House. They Still Want to Be Kings</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-26 17:00</span>
             </div>
         </div>
 </div>
@@ -234,6 +234,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/mainoption3.jpg" alt="11 Things I Wish I Knew Before Playing Silent Hill f" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/silent-hill-f-combat-omamori-sanity-stamina-2000629306" target="_blank">11 Things I Wish I Knew Before Playing Silent Hill f</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-26 20:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://kotaku.com/app/uploads/2025/06/5f30f6520a2357580ab7de42390ff804.jpg" alt="Nine Digimon Games Worth Going Back To After Time Stranger" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-gamepad"></span>
@@ -278,15 +287,6 @@
                 <span class="time">2025-09-26 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/brightrpg.jpg" alt="The 26-Year-Old Mystery Behind A Cult-Classic SRPG’s Gradius Sword Has Finally Been Solved" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/vandal-hearts-2-gradius-sword-suikoden-ps1-demo-disc-save-file-2000629247" target="_blank">The 26-Year-Old Mystery Behind A Cult-Classic SRPG’s Gradius Sword Has Finally Been Solved</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-26 16:56</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -324,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 41 | 📸 With Images: 273 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 137 | 📡 Total Sources: 41 | 📸 With Images: 273 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
