@@ -1,32 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-26 00:04:30 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-26 01:28:58 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 24 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Kotaku -->
+<!-- Generated 7 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Friday, September 26, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, September 26, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +44,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/comey-3-gty-er-250924_1758745535081_hpMain_4x3t_384.jpg" alt="Former FBI Director James Comey posts video after indictment: &#x27;I am innocent&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/former-fbi-director-james-comey-posts-video-after/story?id=125950284" target="_blank">Former FBI Director James Comey posts video after indictment: &#x27;I am innocent&#x27;</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-26 01:08</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758842746924_nbc_spec_jarrett_comey_next_250925_1920x1080-sn66oa.jpg" alt="What&#x27;s next for James Comey after his indictment?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/what-s-next-for-james-comey-after-his-indictment-248371269855" target="_blank">What&#x27;s next for James Comey after his indictment?</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-25 23:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -76,24 +96,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/25/nx-s1-5553517/tiktok-deal-trump-executive-order" target="_blank">Trump advances TikTok deal with new executive order</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-25 21:47</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/donald-trump-35-gty-gmh-250925_1758832918848_hpMain_4x3t_384.jpg" alt="Trump announces deal to put TikTok under control of US investors" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Business/trump-announces-deal-hand-tiktok-us-investors/story?id=125924104" target="_blank">Trump announces deal to put TikTok under control of US investors</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-25 21:01</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250924-trump-tiktok-gk-f1f2e8.jpg" alt="Trump signs executive order facilitating TikTok deal" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/tech/tech-news/trump-signs-executive-order-tiktok-deal-know-rcna233518" target="_blank">Trump signs executive order facilitating TikTok deal</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-25 20:42</span>
             </div>
         </div>
 </div>
@@ -161,6 +163,24 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F19x34aqy79ehikmwad7q.png" alt="Stop Writing Boilerplate Code: Let AI Do It for You" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/jaideepparashar/stop-writing-boilerplate-code-let-ai-do-it-for-you-24aj" target="_blank">Stop Writing Boilerplate Code: Let AI Do It for You</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-26 01:04</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMD-GAIA-GenAI-Linux-Support" target="_blank">AMD&#x27;s GAIA For GenAI Adds Linux Support: Using Vulkan For GPUs, No NPUs Yet</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-26 00:26</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -194,24 +214,6 @@
                 <span class="title"><a href="https://dzone.com/articles/implementing-vector-search-in-databricks" target="_blank">Implementing Vector Search in Databricks</a></span>
                 <span class="feed">DZone.com Feed</span>
                 <span class="time">2025-09-25 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/edson_morales_dd47d779a67/date-de-domingo-3a0d" target="_blank">Date de Domingo</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-25 18:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-staff-snake"></span>
-                <span class="title"><a href="https://rebels.cs.uwaterloo.ca/papers/tse2021_khan.pdf" target="_blank">An Empirical Study of Type-Related Defects in Python Projects</a></span>
-                <span class="feed">Lobsters: python - Python programming</span>
-                <span class="time">2025-09-25 18:33</span>
             </div>
         </div>
 </div>
@@ -293,6 +295,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="http://www.questionablecontent.net/comics/5666.png" alt="Neighborly" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-music"></span>
+                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5666" target="_blank">Neighborly</a></span>
+                <span class="feed">QC RSS</span>
+                <span class="time">2025-09-26 00:59</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-pencil"></span>
@@ -310,22 +321,13 @@
                 <span class="time">2025-09-25 15:20</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5665.png" alt="Careful Who You Talk To" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5665" target="_blank">Careful Who You Talk To</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-09-25 00:40</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
