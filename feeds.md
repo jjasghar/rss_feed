@@ -1,36 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-26 06:02:24 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-09-26 07:01:47 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
-    <div class="newspaper-date">Friday, September 26, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Friday, September 26, 2025 - 07:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,6 +44,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb5f/live/89c583d0-9a66-11f0-97f5-bd38218a3641.jpg" alt="Starmer says Labour had &#x27;shied away&#x27; from concerns over illegal immigration" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn832y43ql5o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer says Labour had &#x27;shied away&#x27; from concerns over illegal immigration</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-26 06:38</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/26/us-to-fight-efforts-to-ban-israels-football-team-from-world-cup-2026?traffic_source=rss" target="_blank">US to fight efforts to ban Israel’s football team from World Cup 2026</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-26 06:31</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/267c/live/beb29810-9a72-11f0-85fc-9b9ff658e449.jpg" alt="Former FBI director James Comey indicted on two charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cy50ggv35zpo?at_medium=RSS&at_campaign=rss" target="_blank">Former FBI director James Comey indicted on two charges</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-26 06:05</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -71,33 +96,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/26/un-chief-top-diplomats-plead-for-support-for-unrwa-amid-gaza-crisis?traffic_source=rss" target="_blank">UN chief, top diplomats plead for support for UNRWA amid Gaza crisis</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-26 01:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/comey-3-gty-er-250924_1758745535081_hpMain_4x3t_384.jpg" alt="Former FBI Director James Comey posts video after indictment: &#x27;I am innocent&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/former-fbi-director-james-comey-posts-video-after/story?id=125950284" target="_blank">Former FBI Director James Comey posts video after indictment: &#x27;I am innocent&#x27;</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-26 01:08</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758842746924_nbc_spec_jarrett_comey_next_250925_1920x1080-sn66oa.jpg" alt="What&#x27;s next for James Comey after his indictment?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/what-s-next-for-james-comey-after-his-indictment-248371269855" target="_blank">What&#x27;s next for James Comey after his indictment?</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-25 23:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/25/us-defence-secretary-summons-military-leaders-to-virginia-mystery-meeting?traffic_source=rss" target="_blank">US defence secretary summons military leaders to Virginia mystery meeting</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-25 23:17</span>
             </div>
         </div>
 </div>
@@ -168,6 +166,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/olymahmud/day-5-selinux-100-days-of-devops-l4p" target="_blank">Day-5: SELinux | 100 Days of DevOps</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-26 06:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/dipti_moryani_9137d0a2e44/designing-all-device-compatible-tableau-dashboards-a-complete-guide-5g6h" target="_blank">Designing All-Device Compatible Tableau Dashboards: A Complete Guide</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-26 05:52</span>
@@ -186,6 +193,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://evanstonroundtable.com/2025/09/24/flock-safety-reinstalls-evanston-cameras/" target="_blank">Flock Reinstalls Cameras Without City Approval After Unlawful Govt Access</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-26 03:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://www.joewintergreen.com/my-deus-ex-lipsyncing-fix-mod-making-of/" target="_blank">My Deus Ex lipsyncing fix mod</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-09-26 03:45</span>
@@ -198,24 +214,6 @@
                 <span class="title"><a href="https://dev.to/__adab353d48e057eb1a1e7/tired-of-slow-uploads-transfer-files-instantly-over-lan-with-this-simple-tool-1ikd" target="_blank">Tired of Slow Uploads? Transfer Files Instantly Over LAN with This Simple Tool</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-26 03:10</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F19x34aqy79ehikmwad7q.png" alt="Stop Writing Boilerplate Code: Let AI Do It for You" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jaideepparashar/stop-writing-boilerplate-code-let-ai-do-it-for-you-24aj" target="_blank">Stop Writing Boilerplate Code: Let AI Do It for You</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-26 01:04</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMD-GAIA-GenAI-Linux-Support" target="_blank">AMD&#x27;s GAIA For GenAI Adds Linux Support: Using Vulkan For GPUs, No NPUs Yet</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-26 00:26</span>
             </div>
         </div>
 </div>
@@ -328,8 +326,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 07:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
