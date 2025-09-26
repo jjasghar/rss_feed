@@ -1,35 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-09-26 11:01:38 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-26 12:02:38 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 7 new posts out of 27 feeds processed -->
+<!-- Generated 4 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Friday, September 26, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, September 26, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +39,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/26/g-s1-90641/up-first-newsletter-james-comey-indictment-pete-hegseth-pentagon-tiktok" target="_blank">Ex-FBI Director Comey has been indicted. And, Hegseth summons military leaders</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-26 11:12</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +93,29 @@
                 <span class="time">2025-09-26 06:05</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/26/nx-s1-5554173/la-county-response-fires" target="_blank">LA County response to deadly fires slowed by lack of resources, report says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-26 05:46</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68d5f3b898bc3d5a3edd27ec/master/pass/What%20Are%20the%20Rules%20for%20Power%20Banks%20on%20Flights_.png" alt="Can I Take Power Banks on Flights? We Explain the Rules (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/rules-for-power-banks-on-flights/" target="_blank">Can I Take Power Banks on Flights? We Explain the Rules (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-26 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-504677809-500x500.jpg" alt="Fiji’s ants might be the canary in the coal mine for the insect apocalypse" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/09/fijis-ants-might-be-the-canary-in-the-coal-mine-for-the-insect-apocalypse/" target="_blank">Fiji’s ants might be the canary in the coal mine for the insect apocalypse</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-26 11:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68d57348bcf9d3a4141a7cbd/master/pass/eyedrops-sci-1356354404.jpg" alt="Could These Eye Drops End the Need for Reading Glasses?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -140,29 +152,20 @@
                 <span class="time">2025-09-26 00:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/784286/xbox-handheld-ally-x-price-preorder" target="_blank">Microsoft and Asus open Xbox Ally preorders — the X costs $999</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-26 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/25/inside-the-box-aaron-levie-on-reinvention-at-techcrunch-disrupt-2025/" target="_blank">Aaron Levie on building for the long game in enterprise software at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-25 23:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18650947&w=600" alt="AI Transformation Déjà Vu" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/ai-transformation-deja-vu" target="_blank">AI Transformation Déjà Vu</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-26 11:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/09/kubernetes-1-34/en/headerimage/generatedHeaderImage-1758846817237.jpg" alt="Kubernetes 1.34 Released with KYAML, Traffic Routing Controls, and Improved Observability" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -206,29 +209,6 @@
                 <span class="title"><a href="https://dev.to/og_wunderkind/how-to-make-your-mongoose-models-smarter-and-your-code-cleaner-with-setters-getters-and-more-22ag" target="_blank">How to Make Your Mongoose Models Smarter and Your Code Cleaner with Setters, Getters, and More</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-26 08:46</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://vazgriz.com/762/f-16-flight-sim-in-unity-3d/" target="_blank">Translating a Fortran F-16 Simulator to Unity3D</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-26 07:06</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/malicious-looking-url-creation-service.html" target="_blank">Malicious-Looking URL Creation Service</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-09-25 11:02</span>
             </div>
         </div>
 </div>
@@ -336,8 +316,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
