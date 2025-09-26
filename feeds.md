@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-26 02:26:58 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-26 03:13:52 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 2 new posts out of 28 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, September 26, 2025 - 02:27 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, September 26, 2025 - 03:14 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb5f/live/89c583d0-9a66-11f0-97f5-bd38218a3641.jpg" alt="Starmer says Labour shied away from illegal immigration concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn832y43ql5o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer says Labour shied away from illegal immigration concerns</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-26 02:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -87,18 +98,9 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/25/nx-s1-5552690/james-comey-indicted" target="_blank">FBI Director James Comey indicted on criminal charges stemming from 2020 testimony</a></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/25/nx-s1-5552690/james-comey-indicted" target="_blank">Ex-FBI Director James Comey indicted on criminal charges stemming from 2020 testimony</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-25 23:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/25/eu-chief-slams-russian-aggression-that-threatens-every?traffic_source=rss" target="_blank">EU chief slams Russian aggression that ‘threatens every nation’</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-25 22:51</span>
             </div>
         </div>
 </div>
@@ -166,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/__adab353d48e057eb1a1e7/tired-of-slow-uploads-transfer-files-instantly-over-lan-with-this-simple-tool-1ikd" target="_blank">Tired of Slow Uploads? Transfer Files Instantly Over LAN with This Simple Tool</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-26 03:10</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F19x34aqy79ehikmwad7q.png" alt="Stop Writing Boilerplate Code: Let AI Do It for You" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -208,15 +219,6 @@
                 <span class="title"><a href="https://bobbiec.github.io/bluesky-alt-text.html" target="_blank">Bluesky Alt Text Stream</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-09-25 23:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Servo-This-Month-Aug-2025" target="_blank">Servo Engine Lands Support For Rendering Inline SVG Elements, More Performance</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-25 19:57</span>
             </div>
         </div>
 </div>
@@ -329,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 02:27 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 03:14 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
