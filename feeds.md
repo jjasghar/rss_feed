@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-26 16:01:50 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-26 17:01:55 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 13 new posts out of 27 feeds processed -->
+<!-- Generated 9 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Friday, September 26, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Friday, September 26, 2025 - 17:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -46,12 +48,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f87e/live/39823af0-9af0-11f0-b741-177e3e2c2fc7.jpg" alt="Netanyahu attacks Palestinian recognition as dozens walk out of UN speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cderxxylpzdo?at_medium=RSS&at_campaign=rss" target="_blank">Netanyahu attacks Palestinian recognition as dozens walk out of UN speech</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-26 16:41</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/chris-murphy-gty-jef-250926_1758896320067_hpMain_4x3t_384.jpg" alt="&#x27;Constitutional crisis&#x27;: Dems hit Trump admin, DOJ over James Comey indictment" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/constitutional-crisis-democrats-hit-trump-administration-doj-james/story?id=125962402" target="_blank">&#x27;Constitutional crisis&#x27;: Dems hit Trump admin, DOJ over James Comey indictment</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-26 16:33</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/26/netanyahu-tells-un-that-israel-must-finish-job-in-gaza?traffic_source=rss" target="_blank">Netanyahu tells UN that Israel must ‘finish job’ in Gaza</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-26 15:24</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/26/g-s1-90655/netanyahu-un-address-gaza-war-defiance" target="_blank">At U.N., amid jeers and cheers, Netanyahu says Israel &#x27;must finish the job&#x27; in Gaza</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-26 14:24</span>
             </div>
         </div>
 <div class="story">
@@ -64,39 +93,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758894578521_now_brk_unga_people_leaving_250926_1920x1080-j4n4nw.jpg" alt="Delegates leave the room as Netanyahu address United Nations" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758894578521_now_brk_unga_people_leaving_250926_1920x1080-j4n4nw.jpg" alt="Delegates leave the room as Netanyahu addresses United Nations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/delegates-leave-the-room-as-netanyahu-address-united-nations-248415301775" target="_blank">Delegates leave the room as Netanyahu address United Nations</a></span>
+                <span class="title"><a href="https://www.nbcnews.com/now/video/delegates-leave-the-room-as-netanyahu-address-united-nations-248415301775" target="_blank">Delegates leave the room as Netanyahu addresses United Nations</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-09-26 13:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/26/nx-s1-5553429/jimmy-kimmel-reflects-on-his-comic-roots-and-how-he-broke-into-late-night" target="_blank">Jimmy Kimmel reflects on his comic roots and how he broke into late night</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-26 13:48</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/26/iran-and-russia-sign-25bn-nuclear-plant-deal?traffic_source=rss" target="_blank">Iran and Russia sign $25bn nuclear plant deal</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-26 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/centre-stage/2025/9/26/mozambique-500-years-of-struggle?traffic_source=rss" target="_blank">Mozambique: 500 years of struggle</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-26 12:21</span>
             </div>
         </div>
 </div>
@@ -104,6 +106,24 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/policy/786511/h-1b-skilled-worker-visa-policy-chaos" target="_blank">Trump’s new H-1B policy caused short-term panic — and will cause long-term chaos</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-26 17:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2237018670-500x500.jpg" alt="Trump says TikTok should be tweaked to become “100% MAGA”" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/trump-says-tiktok-should-be-tweaked-to-become-100-maga/" target="_blank">Trump says TikTok should be tweaked to become “100% MAGA”</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-26 16:25</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,24 +158,6 @@
                 <span class="title"><a href="https://www.theverge.com/column/786346/optimizer-wearables-fitness-tracking-health-anxiety-paranoia" target="_blank">I’ve got a bone to pick with ‘getting credit’ from your fitness tracker</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-26 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/26/last-day-to-save-668-on-techcrunch-disrupt-2025-tickets/" target="_blank">Today is the last day to save up to $668 on TechCrunch Disrupt 2025 tickets</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-26 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/6849bd25bf7204ccbda22354/master/pass/The%20Best%202-in-1%20Laptops%20to%20Flip%20Between%20Work%20and%20Play.png" alt="11 Best 2-in-1 Laptops (2025), WIRED-Approved and Tested" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-2-in-1-laptops/" target="_blank">11 Best 2-in-1 Laptops (2025), WIRED-Approved and Tested</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-26 13:30</span>
             </div>
         </div>
 </div>
@@ -237,6 +239,24 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/brightrpg.jpg" alt="The 26-Year-Old Mystery Behind A Cult-Classic SRPG’s Gradius Sword Has Finally Been Solved" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/vandal-hearts-2-gradius-sword-suikoden-ps1-demo-disc-save-file-2000629247" target="_blank">The 26-Year-Old Mystery Behind A Cult-Classic SRPG’s Gradius Sword Has Finally Been Solved</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-26 16:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K63AGM7JFFFVVNS6PM3XDXMQ/hero-image.png" alt="Is &#x27;Backwards Running&#x27; a Worthwhile Fitness Trend for Runners?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/health/is-backwards-running-trend-worth-it?utm_medium=RSS" target="_blank">Is &#x27;Backwards Running&#x27; a Worthwhile Fitness Trend for Runners?</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-26 16:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Apple-Iphone-17-Series-Air-25-1280x853.jpg" alt="Neon, an App That Pays to Record Your Phone Calls Hit #2 on the App Store, Taken Down Over Security Flaw" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -272,29 +292,20 @@
                 <span class="time">2025-09-26 14:45</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K6319ED1J081GPMN7HDSFSWT/hero-image.png" alt="This Eufy Robot Vacuum/Mop Is Nearly 50% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/eufy-robot-vacuum-plus-mop-omni-c20-deal?utm_medium=RSS" target="_blank">This Eufy Robot Vacuum/Mop Is Nearly 50% Off Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-26 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/KingstonSSD.jpg" alt="Amazon Clears Out 4.8-Star Kingston SSD in All Capacities at Record Low, Cheaper Than Samsung or Crucial" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/amazon-clears-out-4-8-star-kingston-ssd-in-all-capacities-at-record-low-cheaper-than-samsung-or-crucial-2000628887" target="_blank">Amazon Clears Out 4.8-Star Kingston SSD in All Capacities at Record Low, Cheaper Than Samsung or Crucial</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-26 13:15</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1758680234-20250926.png" alt="Saturday Morning Breakfast Cereal - Tap Tap" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/tap-tap" target="_blank">Saturday Morning Breakfast Cereal - Tap Tap</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-09-26 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -318,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 17:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
