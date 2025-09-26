@@ -1,39 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-09-26 03:13:52 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-26 04:02:14 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, September 26, 2025 - 03:14 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, September 26, 2025 - 04:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -109,6 +111,15 @@
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/25/thousands-of-indian-bank-transfer-records-found-online/" target="_blank">Thousands of Indian bank transfer records found online</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-26 03:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media.wired.com/photos/68d5b27a23cd21f041c06ba4/master/pass/Xiaomi%2017%20Pro%20and%20Pro%20Max%203%20SOURCE%20Simon%20Hill.png" alt="Xiaomi 17 Pro and 17 Pro Max: Specs, Release Date, Price, Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-bolt"></span>
@@ -153,20 +164,20 @@
                 <span class="time">2025-09-25 22:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d5af32c6e5bd391ecac57a/master/pass/Amazon-May-Owe-You-Money-Gear-2234419194.jpg" alt="Amazon Might Owe You $51. Here’s How to Find Out if You’re Eligible" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/amazon-might-owe-you-find-out-if-youre-eligible/" target="_blank">Amazon Might Owe You $51. Here’s How to Find Out if You’re Eligible</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-25 21:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Far5p68krvs299o024j24.gif" alt="What was your win this week!?" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/devteam/what-was-your-win-this-week-43a" target="_blank">What was your win this week!?</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-26 04:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +223,6 @@
                 <span class="time">2025-09-26 00:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://bobbiec.github.io/bluesky-alt-text.html" target="_blank">Bluesky Alt Text Stream</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-25 23:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +242,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2016/07/RTX2K7E6.jpg?fit=1500%2C1121&amp;quality=60&amp;ssl=1" alt="Former FBI Director James Comey indicted to please Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/25/former-fbi-director-james-comey-indicted-to-please-trump.html" target="_blank">Former FBI Director James Comey indicted to please Trump</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-26 00:13</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/bezos.jpg?fit=1200%2C800&amp;quality=60&amp;ssl=1" alt="Trump&#x27;s FTC makes Bezos pay billions despite his desperate bootlicking" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -285,15 +296,6 @@
                 <span class="time">2025-09-25 20:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K614WGM02G2FBGQP0DTQJFAT/hero-image.png" alt="These Beats Studio Buds Are Under $80 Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/beats-studio-buds-amazon-deal?utm_medium=RSS" target="_blank">These Beats Studio Buds Are Under $80 Right Now</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-25 20:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -331,8 +333,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 133 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 03:14 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 131 | 📡 Total Sources: 42 | 📸 With Images: 267 |
+        🔄 Last Updated: 04:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
