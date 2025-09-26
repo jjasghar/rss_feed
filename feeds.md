@@ -1,29 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-09-26 12:02:38 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-09-26 13:08:34 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Generated 4 new posts out of 20 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 23 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Friday, September 26, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Friday, September 26, 2025 - 13:08 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +41,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/centre-stage/2025/9/26/mozambique-500-years-of-struggle?traffic_source=rss" target="_blank">Mozambique: 500 years of struggle</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-26 12:21</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -82,15 +93,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/26/us-to-fight-efforts-to-ban-israels-football-team-from-world-cup-2026?traffic_source=rss" target="_blank">US to fight efforts to ban Israel’s football team from World Cup 2026</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-26 06:31</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/267c/live/beb29810-9a72-11f0-85fc-9b9ff658e449.jpg" alt="Former FBI director James Comey indicted on two charges" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cy50ggv35zpo?at_medium=RSS&at_campaign=rss" target="_blank">Former FBI director James Comey indicted on two charges</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-26 06:05</span>
             </div>
         </div>
 </div>
@@ -158,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/COSMIC-BETA.jpg?resize=406%2C232&amp;ssl=1" alt="Pop!_OS 24.04 with COSMIC is Now in Beta" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/pop_os-24-04-with-cosmic-is-now-in-beta" target="_blank">Pop!_OS 24.04 with COSMIC is Now in Beta</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-26 13:06</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18650947&w=600" alt="AI Transformation Déjà Vu" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-newspaper"></span>
@@ -188,27 +199,32 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://system76.com/pop/pop-beta/" target="_blank">Pop OS is getting beta</a></span>
+                <span class="title"><a href="https://little-book-of.github.io/linear-algebra/books/en-US/lab.html" target="_blank">Show HN: The Little Notebook for Learning Linear Algebra with Python</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2025-09-26 09:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://res.infoq.com/podcasts/blameless-culture-transforms-engineering-teams/en/smallimage/engineering-culture-podcast-thumbnail-1758539995149.jpg" alt="Podcast: How Blameless Culture Transforms Engineering Teams" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/podcasts/blameless-culture-transforms-engineering-teams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Podcast: How Blameless Culture Transforms Engineering Teams</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-26 09:00</span>
+                <span class="time">2025-09-26 09:46</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/og_wunderkind/how-to-make-your-mongoose-models-smarter-and-your-code-cleaner-with-setters-getters-and-more-22ag" target="_blank">How to Make Your Mongoose Models Smarter and Your Code Cleaner with Setters, Getters, and More</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-26 08:46</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://system76.com/pop/pop-beta/" target="_blank">Pop OS is getting beta</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-26 09:20</span>
+            </div>
+        </div>
+</div>
+</div>
+<div class="news-section security-news" id="security">
+<h2 class="section-header">🔒 Security</h2>
+<div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-lock"></span>
+                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/digital-threat-modeling-under-authoritarianism.html" target="_blank">Digital Threat Modeling Under Authoritarianism</a></span>
+                <span class="feed">Schneier on Security</span>
+                <span class="time">2025-09-26 11:04</span>
             </div>
         </div>
 </div>
@@ -316,8 +332,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 122 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 13:08 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
