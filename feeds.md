@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-26 05:01:48 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-26 06:02:24 UTC -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
-<!-- Generated 0 new posts out of 25 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, September 26, 2025 - 05:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nest Network</h1>
+    <div class="newspaper-date">Friday, September 26, 2025 - 06:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/26/nx-s1-5554173/la-county-response-fires" target="_blank">LA County response to deadly fires slowed by lack of resources, report says</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-26 05:46</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb5f/live/89c583d0-9a66-11f0-97f5-bd38218a3641.jpg" alt="Starmer says Labour shied away from illegal immigration concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -88,20 +100,20 @@
                 <span class="time">2025-09-25 23:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/25/nx-s1-5552690/james-comey-indicted" target="_blank">Ex-FBI Director James Comey indicted on criminal charges stemming from 2020 testimony</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-25 23:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" alt="Target Promo Codes and Deals: Up to 50% Off" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/target-promo-code/" target="_blank">Target Promo Codes and Deals: Up to 50% Off</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-26 05:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +159,20 @@
                 <span class="time">2025-09-25 22:19</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2023/10/dcart1-500x500.jpeg" alt="Sierra’s Dream Chaser is starting to resemble a nightmare" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/space/2025/09/sierras-dream-chaser-is-starting-to-resemble-a-nightmare/" target="_blank">Sierra’s Dream Chaser is starting to resemble a nightmare</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-25 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/dipti_moryani_9137d0a2e44/designing-all-device-compatible-tableau-dashboards-a-complete-guide-5g6h" target="_blank">Designing All-Device Compatible Tableau Dashboards: A Complete Guide</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-26 05:52</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Far5p68krvs299o024j24.gif" alt="What was your win this week!?" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -168,6 +180,15 @@
                 <span class="title"><a href="https://dev.to/devteam/what-was-your-win-this-week-43a" target="_blank">What was your win this week!?</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-26 04:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.joewintergreen.com/my-deus-ex-lipsyncing-fix-mod-making-of/" target="_blank">My Deus Ex lipsyncing fix mod</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-26 03:45</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +218,6 @@
                 <span class="time">2025-09-26 00:26</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/gg_news/ign-digimon-beatbreak-official-final-trailer-english-subtitles-30hc" target="_blank">IGN: Digimon Beatbreak - Official Final Trailer (English Subtitles)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-26 00:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-hat-cowboy"></span>
-                <span class="title"><a href="https://www.redhat.com/en/blog/friday-five-september-26-2025-red-hat" target="_blank">Friday Five — September 26, 2025</a></span>
-                <span class="feed">Red Hat Blog</span>
-                <span class="time">2025-09-26 00:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +237,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Asus-ROG-Xbox-Ally-X-hands-on-4-1280x853.jpg" alt="We Finally Know How Much the Xbox Handheld Will Cost" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/asus-rog-xbox-ally-x-price-2000663808" target="_blank">We Finally Know How Much the Xbox Handheld Will Cost</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-26 00:39</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2016/07/RTX2K7E6.jpg?fit=1500%2C1121&amp;quality=60&amp;ssl=1" alt="Former FBI Director James Comey indicted to please Trump" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,15 +291,6 @@
                 <span class="time">2025-09-25 21:05</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/ray-ban-display-hero-1280x853.jpg" alt="If You’re Dying to Try Meta’s New Smart Glasses With a Display, Now’s Your Chance" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/meta-ray-ban-display-demo-pop-up-locations-store-opening-dates-and-time-2000663365" target="_blank">If You’re Dying to Try Meta’s New Smart Glasses With a Display, Now’s Your Chance</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-25 20:50</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -325,8 +328,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 126 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 05:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 06:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
