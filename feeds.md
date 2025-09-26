@@ -1,29 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-25 23:02:04 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-09-26 00:04:30 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Generated 8 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Thursday, September 25, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Friday, September 26, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/25/us-defence-secretary-summons-military-leaders-to-virginia-mystery-meeting?traffic_source=rss" target="_blank">US defence secretary summons military leaders to Virginia mystery meeting</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-25 23:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/25/nx-s1-5552690/james-comey-indicted" target="_blank">FBI Director James Comey indicted on criminal charges stemming from 2020 testimony</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-25 23:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -75,29 +96,38 @@
                 <span class="time">2025-09-25 20:42</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-saudi-arabia-faisal-bin-farhan-al-saud_7031741.jpg?20250925213614" alt="Trump &#x27;very, very committed&#x27; to ending Gaza war, says Saudi foreign minister" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/donald-trump-very-very-committed-to-ending-gaza-war-says-saudi-foreign-minister-13438223" target="_blank">Trump &#x27;very, very committed&#x27; to ending Gaza war, says Saudi foreign minister</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-25 20:02</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/25/nx-s1-5552793/dallas-ice-shooting-immigration-appointments-canceled" target="_blank">24 hours after shooting, migrants show up to ICE Dallas facility fearful of missing their appointments</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-25 19:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68d5b27a23cd21f041c06ba4/master/pass/Xiaomi%2017%20Pro%20and%20Pro%20Max%203%20SOURCE%20Simon%20Hill.png" alt="Xiaomi 17 Pro and 17 Pro Max: Specs, Release Date, Price, Features" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/xiaomi-17-pro-max-hands-on/" target="_blank">Xiaomi 17 Pro and 17 Pro Max: Specs, Release Date, Price, Features</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-26 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/784286/xbox-handheld-ally-x-price-preorder" target="_blank">Microsoft and Asus open Xbox Ally preorders — the X costs $999</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-26 00:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/25/inside-the-box-aaron-levie-on-reinvention-at-techcrunch-disrupt-2025/" target="_blank">Aaron Levie on building for the long game in enterprise software at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-25 23:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/02/delete-doge-scaled-500x500-1740426654.jpg" alt="Senate staff probes DOGE, finds locked doors and windows covered with trash bags" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -125,38 +155,29 @@
                 <span class="time">2025-09-25 21:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d5af32c6e5bd391ecac57a/master/pass/Amazon-May-Owe-You-Money-Gear-2234419194.jpg" alt="Amazon Might Owe You $51. Here&#x27;s How to Find Out if You&#x27;re Eligible" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/amazon-might-owe-you-find-out-if-youre-eligible/" target="_blank">Amazon Might Owe You $51. Here&#x27;s How to Find Out if You&#x27;re Eligible</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-25 21:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/786068/nintendo-of-america-president-doug-bowser-retirement" target="_blank">Nintendo of America boss Doug Bowser is retiring</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-25 21:21</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d569fb76743967bd8569ca/master/pass/FTC-Amazon-Prime-Settlement-Business-2213559465.jpg" alt="Amazon Will Pay $2.5 Billion to Settle FTC Suit That Alleged ‘Dark Patterns’ in Prime Sign-Ups" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/amazon-ftc-settlement-prime-dark-patterns/" target="_blank">Amazon Will Pay $2.5 Billion to Settle FTC Suit That Alleged ‘Dark Patterns’ in Prime Sign-Ups</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-25 20:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/ign-digimon-beatbreak-official-final-trailer-english-subtitles-30hc" target="_blank">IGN: Digimon Beatbreak - Official Final Trailer (English Subtitles)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-26 00:02</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://bobbiec.github.io/bluesky-alt-text.html" target="_blank">Bluesky Alt Text Stream</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-25 23:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -185,30 +206,12 @@
             </div>
         </div>
 <div class="story">
-            <img src="https://res.infoq.com/news/2025/09/google-differential-privacy-llm/en/headerimage/gemma-3n-architecture-1758820807365.jpeg" alt="Google Introduces VaultGemma: An Experimental Differentially Private LLM" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/google-differential-privacy-llm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Introduces VaultGemma: An Experimental Differentially Private LLM</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-25 18:00</span>
-            </div>
-        </div>
-<div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://developers.googleblog.com/en/continuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release/" target="_blank">Improved Gemini 2.5 Flash and Flash-Lite</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-25 17:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-github"></span>
-                <span class="title"><a href="https://github.blog/open-source/maintainers/building-beyond-the-browser-keeley-hammond-on-electron-open-source-and-the-future-of-maintainership/" target="_blank">Building beyond the browser: Keeley Hammond on Electron, open source, and the future of maintainership</a></span>
-                <span class="feed">The GitHub Blog</span>
-                <span class="time">2025-09-25 17:05</span>
+                <span class="fa fa-fw fa-staff-snake"></span>
+                <span class="title"><a href="https://rebels.cs.uwaterloo.ca/papers/tse2021_khan.pdf" target="_blank">An Empirical Study of Type-Related Defects in Python Projects</a></span>
+                <span class="feed">Lobsters: python - Python programming</span>
+                <span class="time">2025-09-25 18:33</span>
             </div>
         </div>
 </div>
@@ -316,22 +319,13 @@
                 <span class="time">2025-09-25 00:40</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/09/24/deluxe-apartment-in-the-sky" target="_blank">Deluxe Apartment In The Sky</a></span>
-                <span class="feed">Penny Arcade</span>
-                <span class="time">2025-09-24 23:31</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 270 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
