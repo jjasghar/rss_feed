@@ -1,38 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-09-26 18:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-26 19:01:29 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 8 new posts out of 30 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 15 new posts out of 34 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
-    <div class="newspaper-date">Friday, September 26, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">📰 The News Nest</h1>
+    <div class="newspaper-date">Friday, September 26, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/trump-comey-gty-jef-250926_1758907299024_hpMain_4x3t_384.jpg" alt="Looking back at the near decade of turmoil between Trump, Comey" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/back-decade-turmoil-trump-comey/story?id=125970714" target="_blank">Looking back at the near decade of turmoil between Trump, Comey</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-26 18:28</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/26/world-must-deny-israel-tools-of-genocide-says-growing-alliance-of-activist-states" target="_blank">World must deny Israel ‘tools of genocide’, says growing alliance of activist states</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-09-26 17:37</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f87e/live/39823af0-9af0-11f0-b741-177e3e2c2fc7.jpg" alt="Netanyahu attacks Palestinian recognition as dozens walk out of UN speech" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,29 +106,38 @@
                 <span class="time">2025-09-26 14:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/un-1-rt-gmh-250926_1758892239654_hpMain_4x3t_384.jpg" alt="Delegates walk out as Netanyahu speaks at the United Nations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/netanyahu-set-give-contentious-speech-united-nations/story?id=125937350" target="_blank">Delegates walk out as Netanyahu speaks at the United Nations</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-26 13:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1758894578521_now_brk_unga_people_leaving_250926_1920x1080-j4n4nw.jpg" alt="Delegates leave the room as Netanyahu addresses United Nations" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/now/video/delegates-leave-the-room-as-netanyahu-address-united-nations-248415301775" target="_blank">Delegates leave the room as Netanyahu addresses United Nations</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-26 13:49</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/786483/how-to-find-lego-game-boy-costco-sams-club-on-sale-early" target="_blank">Costco is already selling piles of Lego Game Boys cheaper than the Lego company</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-26 19:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2014/11/13717624625_c584569b9b_k-500x500.jpg" alt="Ebola outbreak in DR Congo rages, with 61% death rate and funding running dry" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/health/2025/09/ebola-outbreak-in-dr-congo-rages-with-61-death-rate-and-funding-running-dry/" target="_blank">Ebola outbreak in DR Congo rages, with 61% death rate and funding running dry</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-26 18:25</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/26/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/" target="_blank">As people look for ways to make new friends, here are the apps promising to help</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-26 18:02</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -134,38 +165,47 @@
                 <span class="time">2025-09-26 17:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2237018670-500x500.jpg" alt="Trump says TikTok should be tweaked to become “100% MAGA”" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/tech-policy/2025/09/trump-says-tiktok-should-be-tweaked-to-become-100-maga/" target="_blank">Trump says TikTok should be tweaked to become “100% MAGA”</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-26 16:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/26/thousands-of-indian-bank-transfer-records-found-online/" target="_blank">Thousands of Indian bank transfer records found spilling online after security lapse</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-26 15:50</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d603d0c7389b674191945e/master/pass/What%20Is%20Your%20Tent%20or%20Rain%20Jacket%20Made%20From_%20Here%E2%80%99s%20What%20to%20Know%20About%20Dyneema,%20Silnylon,%20and%20Silpoly.png" alt="What Is Your Tent or Rain Jacket Made From? (2025): Dyneema, Silpoly, X-Pac" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/outdoor-gear-fabric-explainer/" target="_blank">What Is Your Tent or Rain Jacket Made From? (2025): Dyneema, Silpoly, X-Pac</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-26 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2zgmnbtmvl2ylww7691i.png" alt="Introduction to CI/CD" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/locnguyenpv/introduction-to-cicd-2nfg" target="_blank">Introduction to CI/CD</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-26 18:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-25.10-RISC-V-QEMU" target="_blank">Ubuntu 25.10&#x27;s Only Supported RISC-V Platform: QEMU Virtualization</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-26 18:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/apple/ml-simplefold" target="_blank">SimpleFold: Folding Proteins Is Simpler Than You Think</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-26 18:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18659631&w=600" alt="Networking’s Open Source Era Is Just Getting Started" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-newspaper"></span>
+                <span class="title"><a href="https://dzone.com/articles/open-source-networking-era" target="_blank">Networking’s Open Source Era Is Just Getting Started</a></span>
+                <span class="feed">DZone.com Feed</span>
+                <span class="time">2025-09-26 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnud4l3xxidvfojn5057k.png" alt="Unlocking Visual AWS Infrastructure Design with AWS Infrastructure Composer" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -182,42 +222,6 @@
                 <span class="title"><a href="https://github.blog/news-insights/policy-news-and-insights/how-github-protects-developers-from-copyright-enforcement-overreach/" target="_blank">How GitHub protects developers from copyright enforcement overreach</a></span>
                 <span class="feed">The GitHub Blog</span>
                 <span class="time">2025-09-26 17:06</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18659272&w=600" alt="LLM-First Vibe Coding" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/llm-first-vibe-coding" target="_blank">LLM-First Vibe Coding</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-26 17:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18659267&w=600" alt="Why One-Week Sprints Make Vibe Coding Work Better" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/one-week-sprints-vibe-coding" target="_blank">Why One-Week Sprints Make Vibe Coding Work Better</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-26 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F05fjg24dhiqei9y5n5mz.png" alt="Install and use Microsoft AI Shell" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/techielass/install-and-use-microsoft-ai-shell-4c28" target="_blank">Install and use Microsoft AI Shell</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-26 15:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://max-inden.de/post/fast-udp-io-in-firefox/" target="_blank">Fast UDP I/O for Firefox in Rust</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-26 15:14</span>
             </div>
         </div>
 </div>
@@ -239,6 +243,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/08/Insta360-Antigravity-A1-drone-10-1280x853.jpg" alt="Retail Stores May Soon Use Drones to Chase Thieves" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/flock-safety-retail-theft-drones-2000664310" target="_blank">Retail Stores May Soon Use Drones to Chase Thieves</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-26 18:35</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/amodex.jpg?fit=1016%2C1500&amp;quality=60&amp;ssl=1" alt="Remove ink stains with Amodex" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -284,15 +297,6 @@
                 <span class="time">2025-09-26 15:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2022/11/starbucks-e1758899729825.jpg?fit=600%2C397&amp;quality=60&amp;ssl=1" alt="Starbucks stormtrooper has a grande-sized grievance (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/26/starbucks-stormtrooper-has-a-grande-sized-grievance-video.html" target="_blank">Starbucks stormtrooper has a grande-sized grievance (video)</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-26 15:16</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -330,8 +334,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 132 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 138 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
