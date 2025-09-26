@@ -1,39 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-09-26 14:02:00 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-26 15:01:36 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
-<!-- Processing: Dev.to -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 16 new posts out of 30 feeds processed -->
+<!-- Generated 7 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The News Nest</h1>
-    <div class="newspaper-date">Friday, September 26, 2025 - 14:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Friday, September 26, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -111,6 +102,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/26/the-trump-admin-is-going-after-semiconductor-imports/" target="_blank">The Trump admin is going after semiconductor imports</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-26 14:40</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/column/786346/optimizer-wearables-fitness-tracking-health-anxiety-paranoia" target="_blank">I’ve got a bone to pick with ‘getting credit’ from your fitness tracker</a></span>
                 <span class="feed">The Verge</span>
@@ -153,20 +153,20 @@
                 <span class="time">2025-09-26 11:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d57348bcf9d3a4141a7cbd/master/pass/eyedrops-sci-1356354404.jpg" alt="Could These Eye Drops End the Need for Reading Glasses?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/could-these-eye-drops-end-the-need-for-reading-glasses/" target="_blank">Could These Eye Drops End the Need for Reading Glasses?</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-26 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Features-Reminder" target="_blank">Linux 6.17 Gets Ready For Release With Intel Panther Lake &amp; More Performance</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-26 14:51</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +212,6 @@
                 <span class="time">2025-09-26 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18650947&w=600" alt="AI Transformation Déjà Vu" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/ai-transformation-deja-vu" target="_blank">AI Transformation Déjà Vu</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-26 11:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +231,33 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/04/gun-e1758897976384.jpeg?fit=600%2C400&amp;quality=60&amp;ssl=1" alt="ICE officer pulls gun on bystanders in Maryland as man pleads &quot;I am American&quot; (video)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/26/ice-officer-pulls-gun-on-bystanders-in-maryland-as-man-pleads-i-am-american-video.html" target="_blank">ICE officer pulls gun on bystanders in Maryland as man pleads &quot;I am American&quot; (video)</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-26 14:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Apple-Iphone-17-Series-Air-34-1280x853.jpg" alt="Don’t Count on the iPhone Air 2 Getting an Ultrawide Camera" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/iphone-air-2-ultrawide-lens-2000664109" target="_blank">Don’t Count on the iPhone Air 2 Getting an Ultrawide Camera</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-26 14:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6319ED1J081GPMN7HDSFSWT/hero-image.png" alt="This Eufy Robot Vacuum/Mop Is Nearly 50% Off Right Now" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/eufy-robot-vacuum-plus-mop-omni-c20-deal?utm_medium=RSS" target="_blank">This Eufy Robot Vacuum/Mop Is Nearly 50% Off Right Now</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-26 14:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/KingstonSSD.jpg" alt="Amazon Clears Out 4.8-Star Kingston SSD in All Capacities at Record Low, Cheaper Than Samsung or Crucial" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -265,33 +283,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/blink-mini-2-indoor-outdoor-camera-deal?utm_medium=RSS" target="_blank">The Latest Blink Indoor/Outdoor Camera Is 50% Off Right Now</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-26 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/allyx.jpg" alt="Xbox’s Handheld Finally Has A Price, And It Costs More Than An Xbox" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-handheld-rog-ally-x-price-preorder-2000629161" target="_blank">Xbox’s Handheld Finally Has A Price, And It Costs More Than An Xbox</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-26 10:45</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/golfcart-1280x853.jpg" alt="Kids Are Getting Hurt by Golf Carts More Than Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/kids-are-getting-hurt-by-golf-carts-more-than-ever-2000663552" target="_blank">Kids Are Getting Hurt by Golf Carts More Than Ever</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-26 07:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Asus-ROG-Xbox-Ally-X-hands-on-4-1280x853.jpg" alt="We Finally Know How Much the Xbox Handheld Will Cost" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/asus-rog-xbox-ally-x-price-2000663808" target="_blank">We Finally Know How Much the Xbox Handheld Will Cost</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-26 00:39</span>
             </div>
         </div>
 </div>
@@ -340,8 +331,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 14:02 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
