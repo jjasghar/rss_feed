@@ -1,32 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-26 10:01:43 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-26 11:01:38 UTC -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 7 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Friday, September 26, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Friday, September 26, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +45,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/quotable/2025/9/26/west-bank-annexation-could-unite-europe-against-netanyahu?traffic_source=rss" target="_blank">West Bank annexation could “unite Europe” against Netanyahu</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-26 10:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +97,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/26/nx-s1-5554173/la-county-response-fires" target="_blank">LA County response to deadly fires slowed by lack of resources, report says</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-26 05:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb5f/live/89c583d0-9a66-11f0-97f5-bd38218a3641.jpg" alt="Starmer says Labour shied away from illegal immigration concerns" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn832y43ql5o?at_medium=RSS&at_campaign=rss" target="_blank">Starmer says Labour shied away from illegal immigration concerns</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-26 02:30</span>
             </div>
         </div>
 </div>
@@ -161,6 +164,33 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/09/kubernetes-1-34/en/headerimage/generatedHeaderImage-1758846817237.jpg" alt="Kubernetes 1.34 Released with KYAML, Traffic Routing Controls, and Improved Observability" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/kubernetes-1-34/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Kubernetes 1.34 Released with KYAML, Traffic Routing Controls, and Improved Observability</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-26 11:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Intel-Habana-Labs-6.18-Return" target="_blank">Intel Returns To Working On The Habana Labs AI Accelerator Linux Driver</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-26 10:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://system76.com/pop/pop-beta/" target="_blank">Pop OS is getting beta</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-26 09:20</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/podcasts/blameless-culture-transforms-engineering-teams/en/smallimage/engineering-culture-podcast-thumbnail-1758539995149.jpg" alt="Podcast: How Blameless Culture Transforms Engineering Teams" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -187,33 +217,6 @@
                 <span class="time">2025-09-26 07:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/olymahmud/day-5-selinux-100-days-of-devops-l4p" target="_blank">Day-5: SELinux | 100 Days of DevOps</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-26 06:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/dipti_moryani_9137d0a2e44/designing-all-device-compatible-tableau-dashboards-a-complete-guide-5g6h" target="_blank">Designing All-Device Compatible Tableau Dashboards: A Complete Guide</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-26 05:52</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Far5p68krvs299o024j24.gif" alt="What was your win this week!?" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/devteam/what-was-your-win-this-week-43a" target="_blank">What was your win this week!?</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-26 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -233,6 +236,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/allyx.jpg" alt="Xbox’s Handheld Finally Has A Price, And It Costs More Than An Xbox" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/xbox-handheld-rog-ally-x-price-preorder-2000629161" target="_blank">Xbox’s Handheld Finally Has A Price, And It Costs More Than An Xbox</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-26 10:45</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/golfcart-1280x853.jpg" alt="Kids Are Getting Hurt by Golf Carts More Than Ever" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/kids-are-getting-hurt-by-golf-carts-more-than-ever-2000663552" target="_blank">Kids Are Getting Hurt by Golf Carts More Than Ever</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-26 07:05</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Asus-ROG-Xbox-Ally-X-hands-on-4-1280x853.jpg" alt="We Finally Know How Much the Xbox Handheld Will Cost" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -267,24 +288,6 @@
                 <span class="title"><a href="https://lifehacker.com/tech/try-the-adaptive-power-setting-to-improve-battery-life-in-ios-26?utm_medium=RSS" target="_blank">Try This Setting to Improve Your Battery Life in iOS 26</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-25 21:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/Doug.jpg" alt="Bowser Leaves Nintendo" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/bowser-leaves-nintendo-of-america-2000628868" target="_blank">Bowser Leaves Nintendo</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-25 21:13</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/starship-spacex-flight10-1280x853.jpg" alt="SpaceX Wants to Fly Its Gigantic Starship Directly Over Florida" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/spacex-wants-to-fly-its-gigantic-starship-directly-over-florida-2000663730" target="_blank">SpaceX Wants to Fly Its Gigantic Starship Directly Over Florida</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-25 21:05</span>
             </div>
         </div>
 </div>
@@ -333,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
