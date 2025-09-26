@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-26 22:01:43 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-26 23:01:47 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 10 new posts out of 27 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Friday, September 26, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Friday, September 26, 2025 - 23:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/26/g-s1-90790/assata-shakur-joanne-chesimard-dies" target="_blank">Assata Shakur, a fugitive Black militant sought by the U.S. since 1979, dies in Cuba</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-26 22:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +101,20 @@
                 <span class="time">2025-09-26 18:28</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-elon-musk-x-tesla_7032542.jpg?20250926214813" alt="Elon Musk and Prince Andrew named in latest Epstein files release" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/elon-musk-and-prince-andrew-named-in-latest-epstein-files-release-13438742" target="_blank">Elon Musk and Prince Andrew named in latest Epstein files release</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-26 18:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/786885/trump-calls-for-firing-microsoft-lisa-monaco" target="_blank">Trump’s new target: Microsoft head of global affairs Lisa Monaco</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-26 22:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/2509-lg-easytv-1-500x500-1758917141.jpg" alt="LG’s $1,800 TV for seniors makes misguided assumptions" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -149,20 +160,20 @@
                 <span class="time">2025-09-26 20:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/786483/how-to-find-lego-game-boy-costco-sams-club-on-sale-early" target="_blank">Costco is already selling piles of Lego Game Boys cheaper than the Lego company</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-26 19:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fugi4drjyevhfwwggyxiq.png" alt="Observabilidade em aplicações móveis" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/wps13/observabilidade-em-aplicacoes-moveis-2bfi" target="_blank">Observabilidade em aplicações móveis</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-26 22:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18662922&w=600" alt="Federated Learning: Training Models Without Sharing Raw Data" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -208,15 +219,6 @@
                 <span class="time">2025-09-26 18:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18659631&w=600" alt="Networking’s Open Source Era Is Just Getting Started" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/open-source-networking-era" target="_blank">Networking’s Open Source Era Is Just Getting Started</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-26 18:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -245,6 +247,24 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Tron-Lightcycle-Run-ARES-2-io9-Gizmodo-1280x853.jpg" alt="The Best Disney Park Ride Overlays, and Where to Find Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/best-disney-park-overlays-hyperspace-mountain-haunted-mansion-holiday-2000663980" target="_blank">The Best Disney Park Ride Overlays, and Where to Find Them</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-26 22:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/kirkmtg.jpg" alt="Star Trek, Avengers, And More: All 7 Newly Revealed Magic: The Gathering Sets Coming In 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/magic-gathering-mtg-star-trek-marvel-avengers-2026-sets-2000629313" target="_blank">Star Trek, Avengers, And More: All 7 Newly Revealed Magic: The Gathering Sets Coming In 2026</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-26 22:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Curiosity-Stream-Standard-Plan-1.png?fit=2250%2C1500&amp;quality=55&amp;ssl=1" alt="Personal growth, business smarts, and health hacks in 15 minutes or less with Headway for $47.99" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -279,24 +299,6 @@
                 <span class="title"><a href="https://gizmodo.com/flock-safety-retail-theft-drones-2000664310" target="_blank">Retail Stores May Soon Use Drones to Chase Thieves</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-26 18:35</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K5F7N5XKBQGNY16DS58RSS06/hero-image.jpg" alt="The Complicated Ethics (and Laws) of Smart Glasses" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/smart-glasses-ethics-and-laws?utm_medium=RSS" target="_blank">The Complicated Ethics (and Laws) of Smart Glasses</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-26 18:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/amodex.jpg?fit=1016%2C1500&amp;quality=60&amp;ssl=1" alt="Remove ink stains with Amodex" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/26/remove-ink-stains-with-amodex.html" target="_blank">Remove ink stains with Amodex</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-26 17:35</span>
             </div>
         </div>
 </div>
@@ -345,8 +347,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 23:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
