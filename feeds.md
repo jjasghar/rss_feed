@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-27 11:01:39 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-27 12:02:23 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: It's FOSS -->
+<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 4 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Saturday, September 27, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
+    <div class="newspaper-date">Saturday, September 27, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,10 +52,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/9/27/live-atletico-madrid-vs-real-madrid-la-liga?traffic_source=rss" target="_blank">LIVE: Atletico Madrid vs Real Madrid – La Liga</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-27 11:20</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/09/27/nx-s1-5477628/rocky-horror-picture-show-50-shadowcasts-fans" target="_blank">&#x27;Rocky Horror&#x27; is 50! We propose a toast. (You know what to do)</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-27 10:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9fb/live/b3e81c80-9b8e-11f0-bdeb-9de9348d5d1d.jpg" alt="Two women die during failed Channel crossing attempt" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cx2jg20pdm0o?at_medium=RSS&at_campaign=rss" target="_blank">Two women die during failed Channel crossing attempt</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-27 09:54</span>
             </div>
         </div>
 <div class="story">
@@ -83,29 +103,20 @@
                 <span class="time">2025-09-27 08:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/27/us-actress-jennifer-lawrence-calls-out-gaza-genocide?traffic_source=rss" target="_blank">US actress Jennifer Lawrence calls out Gaza genocide</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-27 06:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/27/turkiye-group-of-athletes-call-on-fifa-uefa-to-ban-israels-football-team?traffic_source=rss" target="_blank">Turkiye, group of athletes call on FIFA, UEFA to ban Israel’s football team</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-27 04:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68d74ac56072a4adaa90928b/master/pass/The%20Best%20Stand%20Mixers%20for%20Cakes,%20Cookies,%20and%20All%20the%20Carbs.png" alt="Our 10 Favorite Stand Mixers for Making Year-Round Treats (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-stand-mixer/" target="_blank">Our 10 Favorite Stand Mixers for Making Year-Round Treats (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-27 11:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68d740188430b495f958fdb1/master/pass/iPhone%20Air%20teardown%20SOURCE%20iFixit.png" alt="Gear News of the Week: The iPhone Air Is Surprisingly Repairable, and Gemini Comes to Google TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -151,20 +162,20 @@
                 <span class="time">2025-09-26 23:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/786885/trump-calls-for-firing-microsoft-lisa-monaco" target="_blank">Trump’s new target: Microsoft head of global affairs Lisa Monaco</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-26 22:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/arthurdev_amoserdev/curiosidade-sobre-o-miniwebsocket-3bf9" target="_blank">💡 Curiosidade sobre o MiniWebSocket</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-27 11:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/09/aspire-95-release/en/headerimage/twitter_card+%2861%29-1758913532637.jpg" alt=".NET Aspire 9.5 Released: New CLI Update Command, Dashboard AI Visualizer, and Expanded Integrations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -210,15 +221,6 @@
                 <span class="time">2025-09-27 00:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fugi4drjyevhfwwggyxiq.png" alt="Observabilidade em aplicações móveis" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/wps13/observabilidade-em-aplicacoes-moveis-2bfi" target="_blank">Observabilidade em aplicações móveis</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-26 22:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -231,15 +233,6 @@
                 <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/friday-squid-blogging-jigging-for-squid.html" target="_blank">Friday Squid Blogging: Jigging for Squid</a></span>
                 <span class="feed">Schneier on Security</span>
                 <span class="time">2025-09-26 21:03</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/digital-threat-modeling-under-authoritarianism.html" target="_blank">Digital Threat Modeling Under Authoritarianism</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-09-26 11:04</span>
             </div>
         </div>
 </div>
@@ -329,8 +322,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
