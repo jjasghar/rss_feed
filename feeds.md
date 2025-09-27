@@ -1,38 +1,34 @@
-<!-- Processing 54 RSS feeds at 2025-09-27 18:01:37 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-27 19:01:36 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
-    <div class="newspaper-date">Saturday, September 27, 2025 - 18:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Saturday, September 27, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +44,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/27/nx-s1-5555373/fbi-agents-fired-2020-george-floyd-protest-knee" target="_blank">FBI agents fired, including some shown kneeling during 2020 protests</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-27 18:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a64/live/b9338580-9bb6-11f0-852e-075d0572b37f.jpg" alt="Trump authorises &#x27;full force&#x27; as Portland becomes latest city to see troops deployed" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,20 +98,20 @@
                 <span class="time">2025-09-27 15:12</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4260/live/801478a0-9bb0-11f0-928c-71dbb8619e94.jpg" alt="PM takes aim at &#x27;toxic&#x27; Reform as he arrives for Labour conference" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn0xzdgyx0do?at_medium=RSS&at_campaign=rss" target="_blank">PM takes aim at &#x27;toxic&#x27; Reform as he arrives for Labour conference</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-27 14:21</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/27/ai-startup-friend-spent-more-than-1m-on-all-those-subway-ads/" target="_blank">AI startup Friend spent more than $1M on all those subway ads</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-27 17:22</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -152,20 +157,20 @@
                 <span class="time">2025-09-27 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d74ac56072a4adaa90928b/master/pass/The%20Best%20Stand%20Mixers%20for%20Cakes,%20Cookies,%20and%20All%20the%20Carbs.png" alt="Our 10 Favorite Stand Mixers for Making Year-Round Treats (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-stand-mixer/" target="_blank">Our 10 Favorite Stand Mixers for Making Year-Round Treats (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-27 11:33</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aliibrahim123/neocomp-new-framework-with-a-new-paradigm-1b6f" target="_blank">NeoComp: new framework with a new paradigm</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-27 18:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +216,6 @@
                 <span class="time">2025-09-27 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/mysql-ai-oracle/en/headerimage/generatedHeaderImage-1758544739676.jpg" alt="MySQL AI Introduced for Enterprise Edition" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/mysql-ai-oracle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">MySQL AI Introduced for Enterprise Edition</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-27 12:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,12 +236,30 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/06/Batman-Brave-and-Bold-1280x853.jpg" alt="James Gunn Talks Batman and ‘Brave &amp; the Bold’ Status" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/james-gunn-talks-batman-and-brave-the-bold-status-2000664692" target="_blank">James Gunn Talks Batman and ‘Brave &amp; the Bold’ Status</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-27 18:50</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/black-knight-tartakovsky-1280x853.jpg" alt="Genndy Tartakovsky Wants Help Getting His ‘Black Knight’ Film Made" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
                 <span class="title"><a href="https://gizmodo.com/genndy-tartakovsky-wants-help-getting-his-black-knight-film-made-2000664378" target="_blank">Genndy Tartakovsky Wants Help Getting His ‘Black Knight’ Film Made</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-27 16:25</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/The-Ultimate-Microsoft-Office-Professional-2021-for-Windows-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This Microsoft bundle makes your PC the boss (without bossy fees) for a one-time $55" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/27/this-microsoft-bundle-makes-your-pc-the-boss-without-bossy-fees-for-a-one-time-55.html" target="_blank">This Microsoft bundle makes your PC the boss (without bossy fees) for a one-time $55</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-27 15:00</span>
             </div>
         </div>
 <div class="story">
@@ -273,24 +287,6 @@
                 <span class="title"><a href="https://gizmodo.com/best-disney-park-overlays-hyperspace-mountain-haunted-mansion-holiday-2000663980" target="_blank">The Best Disney Park Ride Overlays, and Where to Find Them</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-26 22:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/kirkmtg.jpg" alt="Star Trek, Avengers, And More: All 7 Newly Revealed Magic: The Gathering Sets Coming In 2026" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/magic-gathering-mtg-star-trek-marvel-avengers-2026-sets-2000629313" target="_blank">Star Trek, Avengers, And More: All 7 Newly Revealed Magic: The Gathering Sets Coming In 2026</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-26 22:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/01/tortoise-e1758921053726.jpeg?fit=600%2C400&amp;quality=60&amp;ssl=1" alt="Here&#x27;s a bonanza of animal ASMR videos, including my favorite of all time!" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/26/heres-a-bonanza-of-animal-asmr-videos-including-my-favorite-of-all-time.html" target="_blank">Here&#x27;s a bonanza of animal ASMR videos, including my favorite of all time!</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-26 21:11</span>
             </div>
         </div>
 </div>
@@ -321,8 +317,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 18:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
