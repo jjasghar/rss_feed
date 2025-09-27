@@ -1,36 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-09-27 01:28:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-27 02:23:51 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 27 feeds processed -->
+<!-- Processing: Kotaku -->
+<!-- Generated 3 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Saturday, September 27, 2025 - 01:28 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
+    <div class="newspaper-date">Saturday, September 27, 2025 - 02:24 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -58,6 +64,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/27/russia-ukraine-war-list-of-key-events-day-1311?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,311</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-27 00:36</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/26/nx-s1-5554825/supreme-court-trump-foreign-aid-pocket-rescission" target="_blank">Supreme Court allows Trump to withhold $4 billion in foreign aid</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-26 23:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/09/26/g-s1-90790/assata-shakur-joanne-chesimard-dies" target="_blank">Assata Shakur, a fugitive Black militant sought by the U.S. since 1979, dies in Cuba</a></span>
                 <span class="feed">NPR Topics: News</span>
@@ -80,24 +104,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/26/us-supreme-court-sides-with-trump-on-freezing-4bn-in-foreign-aid?traffic_source=rss" target="_blank">US Supreme Court sides with Trump on freezing $4bn in foreign aid</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-26 21:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/26/nx-s1-5554497/national-guard-memphis-tennessee-bill-lee" target="_blank">An influx of federal agents will arrive in Memphis next week, governor says</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-26 20:37</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/26/u-n-security-council-rejects-last-ditch-effort-to-delay-iran-sanctions?traffic_source=rss" target="_blank">U.N. Security Council rejects last-ditch effort to delay Iran sanctions</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-26 19:27</span>
             </div>
         </div>
 </div>
@@ -167,6 +173,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-ni8" target="_blank">Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-27 02:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/GNOME-AdwSidebar" target="_blank">GNOME&#x27;s libadwaita Introduces Adaptive Sidebar Widget</a></span>
                 <span class="feed">Phoronix</span>
@@ -207,15 +222,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-25.10-RISC-V-QEMU" target="_blank">Ubuntu 25.10&#x27;s Only Supported RISC-V Platform: QEMU Virtualization</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-26 18:20</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/apple/ml-simplefold" target="_blank">SimpleFold: Folding proteins is simpler than you think</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-26 18:01</span>
             </div>
         </div>
 </div>
@@ -337,8 +343,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 276 |
-        🔄 Last Updated: 01:28 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 275 |
+        🔄 Last Updated: 02:24 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
