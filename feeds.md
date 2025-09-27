@@ -1,37 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-26 23:01:47 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-27 00:04:31 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: The Verge -->
-<!-- Processing: WIRED -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 29 feeds processed -->
+<!-- Generated 5 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Friday, September 26, 2025 - 23:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
+    <div class="newspaper-date">Saturday, September 27, 2025 - 00:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -110,9 +111,27 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/786900/amazon-blink-security-cameras-down-503-403-error" target="_blank">The Blink security camera app is down, but Amazon is working on it</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-26 23:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/786885/trump-calls-for-firing-microsoft-lisa-monaco" target="_blank">Trump’s new target: Microsoft head of global affairs Lisa Monaco</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-26 22:40</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/uk_hedgehog_1-500x500-1758922155.jpg" alt="Can AI detect hedgehogs from space? Maybe if you find brambles first." class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/ai/2025/09/can-ai-detect-hedgehogs-from-space-maybe-if-you-find-brambles-first/" target="_blank">Can AI detect hedgehogs from space? Maybe if you find brambles first.</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-26 22:22</span>
             </div>
         </div>
 <div class="story">
@@ -140,24 +159,6 @@
                 <span class="title"><a href="https://www.wired.com/review/apple-airpods-pro-3/" target="_blank">Apple AirPods Pro 3 Review: Still The Best for iOS</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-09-26 20:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/26/discover-how-developer-tools-are-shifting-fast-with-lauri-moore-and-david-cramer-at-techcrunch-disrupt-2025/" target="_blank">Vibe coding: Hype or new reality? Only at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-26 20:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/786558/ring-battery-doorbell-plus-october-prime-day-deals-sale" target="_blank">One of our favorite video doorbells is 47 percent off in the run-up to Prime Day</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-26 20:00</span>
             </div>
         </div>
 </div>
@@ -248,6 +249,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/superman-lex-luthor-dc-studios-1280x853.jpg" alt="James Gunn Explains Why That ‘Superman’ Cameo on ‘Peacemaker’ Wasn’t Who You Hoped" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/james-gunn-explains-why-that-superman-cameo-on-peacemaker-wasnt-who-you-hoped-2000664567" target="_blank">James Gunn Explains Why That ‘Superman’ Cameo on ‘Peacemaker’ Wasn’t Who You Hoped</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-26 23:31</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Tron-Lightcycle-Run-ARES-2-io9-Gizmodo-1280x853.jpg" alt="The Best Disney Park Ride Overlays, and Where to Find Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -266,6 +276,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K63MN4S69SSPV6ZSWYZQ9MGJ/hero-image.jpg" alt="Safari Is More Private Than Ever in iOS 26" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/tech/safari-privacy-updates-ios-26?utm_medium=RSS" target="_blank">Safari Is More Private Than Ever in iOS 26</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-26 21:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Curiosity-Stream-Standard-Plan-1.png?fit=2250%2C1500&amp;quality=55&amp;ssl=1" alt="Personal growth, business smarts, and health hacks in 15 minutes or less with Headway for $47.99" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -281,24 +300,6 @@
                 <span class="title"><a href="https://kotaku.com/silent-hill-f-combat-omamori-sanity-stamina-2000629306" target="_blank">11 Things I Wish I Knew Before Playing Silent Hill f</a></span>
                 <span class="feed">Kotaku</span>
                 <span class="time">2025-09-26 20:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/06/5f30f6520a2357580ab7de42390ff804.jpg" alt="Nine Digimon Games Worth Going Back To After Time Stranger" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/best-digimon-game-cyber-sleuth-world-survive-next-order-2000629304" target="_blank">Nine Digimon Games Worth Going Back To After Time Stranger</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-26 19:49</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/08/Insta360-Antigravity-A1-drone-10-1280x853.jpg" alt="Retail Stores May Soon Use Drones to Chase Thieves" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/flock-safety-retail-theft-drones-2000664310" target="_blank">Retail Stores May Soon Use Drones to Chase Thieves</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-26 18:35</span>
             </div>
         </div>
 </div>
@@ -347,8 +348,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 23:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 277 |
+        🔄 Last Updated: 00:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
