@@ -1,29 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-09-27 16:01:32 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Girl Genius -->
+<!-- Processing 54 RSS feeds at 2025-09-27 17:01:33 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Generated 6 new posts out of 21 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Error processing https://feeds.boingboing.net/boingboing/iBag: The read operation timed out -->
+<!-- Generated 3 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Saturday, September 27, 2025 - 16:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Saturday, September 27, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -101,6 +102,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/tech/786564/nintendo-switch-2-easysmx-controller-oneplus-watch-3-deal-sale" target="_blank">Switch 2 controllers and the OnePlus Watch 3 top our list of the best deals this week</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-27 16:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-microchip"></span>
                 <span class="title"><a href="https://techcrunch.com/2025/09/27/trump-demands-microsoft-fire-global-affairs-head-lisa-monaco/" target="_blank">Trump demands Microsoft fire global affairs head Lisa Monaco</a></span>
                 <span class="feed">TechCrunch</span>
@@ -141,15 +151,6 @@
                 <span class="title"><a href="https://www.wired.com/gallery/best-stand-mixer/" target="_blank">Our 10 Favorite Stand Mixers for Making Year-Round Treats (2025)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-09-27 11:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2236223734-500x500.jpg" alt="The current war on science, and who’s behind it" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/science/2025/09/who-should-we-blame-for-the-current-war-on-science/" target="_blank">The current war on science, and who’s behind it</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-27 11:30</span>
             </div>
         </div>
 </div>
@@ -231,6 +232,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/black-knight-tartakovsky-1280x853.jpg" alt="Genndy Tartakovsky Wants Help Getting His ‘Black Knight’ Film Made" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/genndy-tartakovsky-wants-help-getting-his-black-knight-film-made-2000664378" target="_blank">Genndy Tartakovsky Wants Help Getting His ‘Black Knight’ Film Made</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-27 16:25</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/new-jersey-dinosaur-1280x853.jpg" alt="New Jersey Theme Park Puts Animatronic Dinosaurs on Facebook Marketplace as It Shuts Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -275,20 +285,20 @@
                 <span class="time">2025-09-26 21:11</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://lifehacker.com/imagery/articles/01K63MN4S69SSPV6ZSWYZQ9MGJ/hero-image.jpg" alt="Safari Is More Private Than Ever in iOS 26" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-life-ring"></span>
-                <span class="title"><a href="https://lifehacker.com/tech/safari-privacy-updates-ios-26?utm_medium=RSS" target="_blank">Safari Is More Private Than Ever in iOS 26</a></span>
-                <span class="feed">Lifehacker</span>
-                <span class="time">2025-09-26 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://www.smbc-comics.com/comics/1758680278-20250927.png" alt="Saturday Morning Breakfast Cereal - Hey" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/hey-4" target="_blank">Saturday Morning Breakfast Cereal - Hey</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-09-27 15:20</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -303,8 +313,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 16:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
