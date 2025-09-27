@@ -1,42 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-09-27 02:23:51 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-27 03:09:48 UTC -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Error processing https://ubuntu.com/blog/feed: The read operation timed out -->
+<!-- Processing: DZone -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 33 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 1 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
     <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, September 27, 2025 - 02:24 UTC</div>
+    <div class="newspaper-date">Saturday, September 27, 2025 - 03:10 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -115,6 +113,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/786900/amazon-blink-security-cameras-down-503-403-error" target="_blank">The Blink security camera app was down, but Amazon rolled out a fix</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-26 23:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/786900/amazon-blink-security-cameras-down-503-403-error" target="_blank">The Blink security camera app is down, but Amazon is working on it</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-26 23:37</span>
@@ -154,15 +161,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/786837/microsoft-photos-ai-auto-categorize-test" target="_blank">Microsoft Photos will soon auto-categorize your pictures</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-26 21:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d6f512a10e9fa625d46eac/master/pass/Review-%20Apple%20AirPods%20Pro%203.png" alt="Apple AirPods Pro 3 Review: Still The Best for iOS" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/apple-airpods-pro-3/" target="_blank">Apple AirPods Pro 3 Review: Still The Best for iOS</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-26 20:25</span>
             </div>
         </div>
 </div>
@@ -343,8 +341,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 275 |
-        🔄 Last Updated: 02:24 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 274 |
+        🔄 Last Updated: 03:10 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
