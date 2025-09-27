@@ -1,40 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-27 03:09:48 UTC -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-09-27 04:01:44 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Error processing https://ubuntu.com/blog/feed: The read operation timed out -->
-<!-- Processing: DZone -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 1 new posts out of 31 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 2 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Daily</h1>
-    <div class="newspaper-date">Saturday, September 27, 2025 - 03:10 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, September 27, 2025 - 04:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +43,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/27/venezuela-foreign-ministry-warns-of-immoral-military-threat-from-us?traffic_source=rss" target="_blank">Venezuela Foreign Ministry warns of ‘immoral military threat’ from US</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-27 02:48</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/Politics/comey-5-gty-er-250924_1758745535144_hpMain_4x3t_384.jpg" alt="Comey charge involves sharing of info about Hillary Clinton-related probe: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -93,15 +95,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/video/iranian-president-masoud-pezeshkian-says-trump-s-current-path-will-set-fire-to-the-middle-east-full-interview-248460869842" target="_blank">Iranian President Masoud Pezeshkian says Trump’s current path will ‘set fire’ to the Middle East: Full interview</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-09-26 22:25</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/26/us-supreme-court-sides-with-trump-on-freezing-4bn-in-foreign-aid?traffic_source=rss" target="_blank">US Supreme Court sides with Trump on freezing $4bn in foreign aid</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-26 21:50</span>
             </div>
         </div>
 </div>
@@ -278,6 +271,15 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/01/tortoise-e1758921053726.jpeg?fit=600%2C400&amp;quality=60&amp;ssl=1" alt="Here&#x27;s a bonanza of animal ASMR videos, including my favorite of all time!" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/26/heres-a-bonanza-of-animal-asmr-videos-including-my-favorite-of-all-time.html" target="_blank">Here&#x27;s a bonanza of animal ASMR videos, including my favorite of all time!</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-26 21:11</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://lifehacker.com/imagery/articles/01K63MN4S69SSPV6ZSWYZQ9MGJ/hero-image.jpg" alt="Safari Is More Private Than Ever in iOS 26" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-life-ring"></span>
@@ -293,15 +295,6 @@
                 <span class="title"><a href="https://boingboing.net/2025/09/26/personal-growth-business-smarts-and-health-hacks-in-15-minutes-or-less-with-headway-for-47-99.html" target="_blank">Personal growth, business smarts, and health hacks in 15 minutes or less with Headway for $47.99</a></span>
                 <span class="feed">Boing Boing</span>
                 <span class="time">2025-09-26 21:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/mainoption3.jpg" alt="11 Things I Wish I Knew Before Playing Silent Hill f" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/silent-hill-f-combat-omamori-sanity-stamina-2000629306" target="_blank">11 Things I Wish I Knew Before Playing Silent Hill f</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-26 20:25</span>
             </div>
         </div>
 </div>
@@ -327,22 +320,13 @@
                 <span class="time">2025-09-26 07:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://imgs.xkcd.com/comics/hiking.png" alt="Hiking" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-laugh"></span>
-                <span class="title"><a href="https://xkcd.com/3147/" target="_blank">Hiking</a></span>
-                <span class="feed">xkcd.com</span>
-                <span class="time">2025-09-26 04:00</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 127 | 📡 Total Sources: 42 | 📸 With Images: 274 |
-        🔄 Last Updated: 03:10 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 273 |
+        🔄 Last Updated: 04:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
