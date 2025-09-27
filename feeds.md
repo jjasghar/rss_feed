@@ -1,32 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-09-27 14:01:22 UTC -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-09-27 15:02:08 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: Sky News World -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Dev.to -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
-<!-- Generated 2 new posts out of 23 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
+<!-- Error processing https://feeds.boingboing.net/boingboing/iBag: The read operation timed out -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, September 27, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Saturday, September 27, 2025 - 15:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +51,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4260/live/801478a0-9bb0-11f0-928c-71dbb8619e94.jpg" alt="PM takes aim at &#x27;toxic&#x27; Reform as he arrives for Labour conference" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn0xzdgyx0do?at_medium=RSS&at_campaign=rss" target="_blank">PM takes aim at &#x27;toxic&#x27; Reform as he arrives for Labour conference</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-27 14:21</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/9/27/the-world-recognises-palestine-yet-it-treats-the-palestinians-as-stateless?traffic_source=rss" target="_blank">The world recognises Palestine, yet it treats the Palestinians as stateless</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-27 13:50</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,29 +105,29 @@
                 <span class="time">2025-09-27 11:20</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/27/nx-s1-5477628/rocky-horror-picture-show-50-shadowcasts-fans" target="_blank">&#x27;Rocky Horror&#x27; is 50! We propose a toast. (You know what to do)</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-27 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9fb/live/b3e81c80-9b8e-11f0-bdeb-9de9348d5d1d.jpg" alt="Two women die during failed Channel crossing attempt" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cx2jg20pdm0o?at_medium=RSS&at_campaign=rss" target="_blank">Two women die during failed Channel crossing attempt</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-27 09:54</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/27/how-south-korea-plans-to-best-openai-google-others-with-homegrown-ai/" target="_blank">How South Korea plans to best OpenAI, Google, others with homegrown AI</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-27 14:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/games/785848/blippo-plus-review-switch-steam" target="_blank">The strangest game of the year is a channel-surfing simulator</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-27 13:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68d74ac56072a4adaa90928b/master/pass/The%20Best%20Stand%20Mixers%20for%20Cakes,%20Cookies,%20and%20All%20the%20Carbs.png" alt="Our 10 Favorite Stand Mixers for Making Year-Round Treats (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -135,24 +162,6 @@
                 <span class="title"><a href="https://www.theverge.com/reviews/786538/raleigh-one-e-bike-review-vanmoof-carlier-ties-taco" target="_blank">Raleigh One e-bike review: redemption tour</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-27 07:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/26/famed-roboticist-says-humanoid-robot-bubble-is-doomed-to-burst/" target="_blank">Famed roboticist says humanoid robot bubble is doomed to burst</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-27 06:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/786900/amazon-blink-security-cameras-down-503-403-error" target="_blank">The Blink security camera app was down, but Amazon rolled out a fix</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-26 23:37</span>
             </div>
         </div>
 </div>
@@ -234,6 +243,15 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/new-jersey-dinosaur-1280x853.jpg" alt="New Jersey Theme Park Puts Animatronic Dinosaurs on Facebook Marketplace as It Shuts Down" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/new-jersey-theme-park-puts-animatronic-dinosaurs-on-facebook-marketplace-as-it-shuts-down-2000664489" target="_blank">New Jersey Theme Park Puts Animatronic Dinosaurs on Facebook Marketplace as It Shuts Down</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-27 14:35</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/superman-lex-luthor-dc-studios-1280x853.jpg" alt="James Gunn Explains Why That ‘Superman’ Cameo on ‘Peacemaker’ Wasn’t Who You Hoped" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-computer"></span>
@@ -278,15 +296,6 @@
                 <span class="time">2025-09-26 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/Curiosity-Stream-Standard-Plan-1.png?fit=2250%2C1500&amp;quality=55&amp;ssl=1" alt="Personal growth, business smarts, and health hacks in 15 minutes or less with Headway for $47.99" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/26/personal-growth-business-smarts-and-health-hacks-in-15-minutes-or-less-with-headway-for-47-99.html" target="_blank">Personal growth, business smarts, and health hacks in 15 minutes or less with Headway for $47.99</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-26 21:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -315,8 +324,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 108 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 266 |
+        🔄 Last Updated: 15:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
