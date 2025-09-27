@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-27 20:01:34 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-27 21:01:31 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 26 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Saturday, September 27, 2025 - 20:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, September 27, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -52,6 +54,15 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/27/at-least-31-dead-over-50-injured-at-indian-actor-politician-vijays-rally?traffic_source=rss" target="_blank">At least 31 dead, over 50 injured at Indian actor-politician Vijay’s rally</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-27 19:22</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/27/nx-s1-5555345/tropical-storm-south-carolina-hurricane" target="_blank">Southeast U.S. braces for heavy rains from a potential tropical storm</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-27 19:02</span>
             </div>
         </div>
 <div class="story">
@@ -82,21 +93,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://s.abcnews.com/images/US/skyline-portland-oregan-rf-gty-mz-07-230402_1680449255914_hpMain_2_4x3t_384.jpg" alt="Trump admin live updates: Trump orders troops to be sent to Portland" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/27/israels-justification-for-gaza-hospital-attack-false-reuters-probe-finds?traffic_source=rss" target="_blank">Israel’s justification for Gaza hospital attack false, Reuters probe finds</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-27 15:17</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250927-donald-trump-mn-1100-5c27bc.jpg" alt="Trump directs defense secretary to deploy troops to Portland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/trump-portland-troops-hegseth-ice-defense-secretary-rcna234082" target="_blank">Trump directs defense secretary to deploy troops to Portland</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-27 15:13</span>
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=125807330" target="_blank">Trump admin live updates: Trump orders troops to be sent to Portland</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-27 16:02</span>
             </div>
         </div>
 </div>
@@ -104,6 +106,15 @@
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/27/beware-coworkers-who-produce-ai-generated-workslop/" target="_blank">Beware coworkers who produce AI-generated ‘workslop’</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-27 19:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,15 +158,6 @@
                 <span class="title"><a href="https://techcrunch.com/2025/09/27/how-south-korea-plans-to-best-openai-google-others-with-homegrown-ai/" target="_blank">How South Korea plans to best OpenAI, Google, others with homegrown AI</a></span>
                 <span class="feed">TechCrunch</span>
                 <span class="time">2025-09-27 14:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/games/785848/blippo-plus-review-switch-steam" target="_blank">The strangest game of the year is a channel-surfing simulator</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-27 13:00</span>
             </div>
         </div>
 </div>
@@ -203,18 +205,18 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/francoismichel/ssh3" target="_blank">SSH3: Faster and rich secure shell using HTTP/3</a></span>
+                <span class="title"><a href="https://messenger.abeto.co/" target="_blank">A WebGL game where you deliver messages on a tiny planet</a></span>
                 <span class="feed">Hacker News</span>
-                <span class="time">2025-09-27 14:27</span>
+                <span class="time">2025-09-27 15:17</span>
             </div>
         </div>
 <div class="story">
             
             <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-dumb-and-dumber-in-18-minutes-or-less-4po6" target="_blank">CinemaSins: Everything Wrong With Dumb and Dumber In 18 Minutes Or Less</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-27 14:00</span>
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/francoismichel/ssh3" target="_blank">SSH3: Faster and rich secure shell using HTTP/3</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-27 14:27</span>
             </div>
         </div>
 </div>
@@ -318,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 82 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 20:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
