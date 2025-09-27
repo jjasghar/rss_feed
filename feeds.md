@@ -1,28 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-27 22:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-27 23:01:26 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Garfield -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 20 feeds processed -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Generated 5 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Saturday, September 27, 2025 - 22:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, September 27, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,10 +52,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/27/nx-s1-5554448/comeys-indictment-marks-a-dramatic-escalation-in-trumps-political-retribution-efforts" target="_blank">Comey&#x27;s indictment marks a dramatic escalation in Trump&#x27;s political retribution efforts</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-27 21:15</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/27/trump-orders-deployment-of-troops-to-us-city-of-portland-and-ice-facilities?traffic_source=rss" target="_blank">Trump orders deployment of troops to US city of Portland and ICE facilities</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-27 20:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4260/live/801478a0-9bb0-11f0-928c-71dbb8619e94.jpg" alt="PM takes aim at &#x27;toxic&#x27; Reform as Labour conference gets going" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cn0xzdgyx0do?at_medium=RSS&at_campaign=rss" target="_blank">PM takes aim at &#x27;toxic&#x27; Reform as Labour conference gets going</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-27 20:29</span>
             </div>
         </div>
 <div class="story">
@@ -72,24 +101,6 @@
                 <span class="title"><a href="https://news.sky.com/story/sergei-lavrov-warns-nato-and-eu-countries-over-aggression-towards-russia-13439812" target="_blank">Sergei Lavrov warns NATO and EU countries over &#x27;aggression&#x27; towards Russia</a></span>
                 <span class="feed">World News - Breaking international news and headlines | Sky News</span>
                 <span class="time">2025-09-27 18:51</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/27/nx-s1-5555373/fbi-agents-fired-2020-george-floyd-protest-knee" target="_blank">FBI agents fired, including some shown kneeling during 2020 protests</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-27 18:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a64/live/b9338580-9bb6-11f0-852e-075d0572b37f.jpg" alt="Trump authorises &#x27;full force&#x27; as Portland becomes latest city to see troops deployed" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cddmn6ge6e2o?at_medium=RSS&at_campaign=rss" target="_blank">Trump authorises &#x27;full force&#x27; as Portland becomes latest city to see troops deployed</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-27 17:29</span>
             </div>
         </div>
 </div>
@@ -157,6 +168,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/09/clickhouse-llm-sre-report/en/headerimage/generatedHeaderImage-1759009722588.jpg" alt="Report Finds LLMs Not Yet Ready to Replace SREs in Incident Management" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/clickhouse-llm-sre-report/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Report Finds LLMs Not Yet Ready to Replace SREs in Incident Management</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-27 22:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgvu0eiiu0f7zg5e2fwsw.png" alt="KendoPuzzle - Learn by Playing" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -201,20 +221,20 @@
                 <span class="time">2025-09-27 15:17</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/francoismichel/ssh3" target="_blank">SSH3: Faster and rich secure shell using HTTP/3</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-27 14:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/wwe-drew-mcintyre-1280x853.jpg" alt="WWE’s Drew McIntyre Will Be Henry Cavill’s ‘Highlander’ Brother" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/wwes-drew-mcintyre-will-be-henry-cavills-highlander-brother-2000664407" target="_blank">WWE’s Drew McIntyre Will Be Henry Cavill’s ‘Highlander’ Brother</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-27 20:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/06/Batman-Brave-and-Bold-1280x853.jpg" alt="James Gunn Talks Batman and ‘Brave &amp; the Bold’ Status" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -260,15 +280,6 @@
                 <span class="time">2025-09-26 23:31</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Tron-Lightcycle-Run-ARES-2-io9-Gizmodo-1280x853.jpg" alt="The Best Disney Park Ride Overlays, and Where to Find Them" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/best-disney-park-overlays-hyperspace-mountain-haunted-mansion-holiday-2000663980" target="_blank">The Best Disney Park Ride Overlays, and Where to Find Them</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-26 22:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -297,8 +308,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 22:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
