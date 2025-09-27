@@ -1,35 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-27 10:01:45 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-27 11:01:39 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Boing Boing -->
-<!-- Error processing https://feeds.boingboing.net/boingboing/iBag: The read operation timed out -->
-<!-- Generated 4 new posts out of 26 feeds processed -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 4 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Saturday, September 27, 2025 - 10:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, September 27, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -45,6 +47,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/27/nx-s1-5477628/rocky-horror-picture-show-50-shadowcasts-fans" target="_blank">&#x27;Rocky Horror&#x27; is 50! We propose a toast. (You know what to do)</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-27 10:30</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -90,20 +101,29 @@
                 <span class="time">2025-09-27 04:32</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/27/nx-s1-5554882/as-federal-funds-wane-npr-ruefully-clashes-with-cpb" target="_blank">As federal funds wane, NPR ruefully clashes with CPB</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-27 04:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68d740188430b495f958fdb1/master/pass/iPhone%20Air%20teardown%20SOURCE%20iFixit.png" alt="Gear News of the Week: The iPhone Air Is Surprisingly Repairable, and Gemini Comes to Google TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/gear-news-of-the-week-the-iphone-air-is-surprisingly-repairable-and-gemini-comes-to-google-tv/" target="_blank">Gear News of the Week: The iPhone Air Is Surprisingly Repairable, and Gemini Comes to Google TV</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-27 10:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/reviews/786538/raleigh-one-e-bike-review-vanmoof-carlier-ties-taco" target="_blank">Raleigh One e-bike review: redemption tour</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-27 07:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -138,24 +158,6 @@
                 <span class="title"><a href="https://www.theverge.com/news/786885/trump-calls-for-firing-microsoft-lisa-monaco" target="_blank">Trump’s new target: Microsoft head of global affairs Lisa Monaco</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-26 22:40</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/uk_hedgehog_1-500x500-1758922155.jpg" alt="Can AI detect hedgehogs from space? Maybe if you find brambles first." class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/ai/2025/09/can-ai-detect-hedgehogs-from-space-maybe-if-you-find-brambles-first/" target="_blank">Can AI detect hedgehogs from space? Maybe if you find brambles first.</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-26 22:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/2509-lg-easytv-1-500x500-1758917141.jpg" alt="LG’s $1,800 TV for seniors makes misguided assumptions" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/lgs-1800-tv-for-seniors-comes-with-an-upcharge-and-ai-button/" target="_blank">LG’s $1,800 TV for seniors makes misguided assumptions</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-26 21:46</span>
             </div>
         </div>
 </div>
@@ -327,8 +329,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 119 | 📡 Total Sources: 42 | 📸 With Images: 267 |
-        🔄 Last Updated: 10:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 117 | 📡 Total Sources: 42 | 📸 With Images: 268 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
