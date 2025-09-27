@@ -1,41 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-09-27 15:02:08 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-09-27 16:01:32 UTC -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Hacker News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Error processing https://feeds.boingboing.net/boingboing/iBag: The read operation timed out -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, September 27, 2025 - 15:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
+    <div class="newspaper-date">Saturday, September 27, 2025 - 16:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +39,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/27/israels-justification-for-gaza-hospital-attack-false-reuters-probe-finds?traffic_source=rss" target="_blank">Israel’s justification for Gaza hospital attack false, Reuters probe finds</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-27 15:17</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/27/nx-s1-5555381/trump-sending-troops-portland" target="_blank">Trump says he&#x27;ll send troops to Portland, Ore., to handle &#x27;domestic terrorists&#x27;</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-27 15:12</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4260/live/801478a0-9bb0-11f0-928c-71dbb8619e94.jpg" alt="PM takes aim at &#x27;toxic&#x27; Reform as he arrives for Labour conference" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -87,29 +93,29 @@
                 <span class="time">2025-09-27 12:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/27/denmark-reports-new-drone-sightings-overnight-at-military-sites?traffic_source=rss" target="_blank">Denmark reports new drone sightings overnight at military sites</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-27 12:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/9/27/live-atletico-madrid-vs-real-madrid-la-liga?traffic_source=rss" target="_blank">LIVE: Atletico Madrid vs Real Madrid – La Liga</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-27 11:20</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/27/trump-demands-microsoft-fire-global-affairs-head-lisa-monaco/" target="_blank">Trump demands Microsoft fire global affairs head Lisa Monaco</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-27 15:24</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68d753aa589429b92c5403bf/master/pass/The%20Best%20Body%20Pillows%20for%20Side%20Sleepers.png" alt="The Best Body Pillow, Tested and Reviewed (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-body-pillow/" target="_blank">The Best Body Pillow, Tested and Reviewed (2025)</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-27 14:32</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -146,29 +152,20 @@
                 <span class="time">2025-09-27 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d740188430b495f958fdb1/master/pass/iPhone%20Air%20teardown%20SOURCE%20iFixit.png" alt="Gear News of the Week: The iPhone Air Is Surprisingly Repairable, and Gemini Comes to Google TV" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/gear-news-of-the-week-the-iphone-air-is-surprisingly-repairable-and-gemini-comes-to-google-tv/" target="_blank">Gear News of the Week: The iPhone Air Is Surprisingly Repairable, and Gemini Comes to Google TV</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-27 10:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/reviews/786538/raleigh-one-e-bike-review-vanmoof-carlier-ties-taco" target="_blank">Raleigh One e-bike review: redemption tour</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-27 07:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://github.com/francoismichel/ssh3" target="_blank">SSH3: Faster and rich secure shell using HTTP/3</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-27 14:27</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -212,15 +209,6 @@
                 <span class="title"><a href="https://dev.to/arthurdev_amoserdev/curiosidade-sobre-o-miniwebsocket-3bf9" target="_blank">💡 Curiosidade sobre o MiniWebSocket</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-27 11:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://itsfoss.com/raspberry-pi-3d-printed-case/" target="_blank">13 Amazingly Innovative 3D Printed Cases for Raspberry Pi I Came Across</a></span>
-                <span class="feed">It's FOSS</span>
-                <span class="time">2025-09-27 11:22</span>
             </div>
         </div>
 </div>
@@ -310,22 +298,13 @@
                 <span class="time">2025-09-27 06:04</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1758680234-20250926.png" alt="Saturday Morning Breakfast Cereal - Tap Tap" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/tap-tap" target="_blank">Saturday Morning Breakfast Cereal - Tap Tap</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-09-26 15:20</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 105 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 15:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 16:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
