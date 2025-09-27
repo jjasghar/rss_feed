@@ -1,37 +1,28 @@
-<!-- Processing 54 RSS feeds at 2025-09-27 21:01:31 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-09-27 22:01:39 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: DZone -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 28 feeds processed -->
+<!-- Generated 4 new posts out of 20 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Saturday, September 27, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Saturday, September 27, 2025 - 22:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +42,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/27/trump-orders-deployment-of-troops-to-us-city-of-portland-and-ice-facilities?traffic_source=rss" target="_blank">Trump orders deployment of troops to US city of Portland and ICE facilities</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-27 20:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/27/at-least-31-dead-over-50-injured-at-indian-actor-politician-vijays-rally?traffic_source=rss" target="_blank">At least 31 dead, over 50 injured at Indian actor-politician Vijay’s rally</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-27 19:22</span>
@@ -63,6 +63,15 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/27/nx-s1-5555345/tropical-storm-south-carolina-hurricane" target="_blank">Southeast U.S. braces for heavy rains from a potential tropical storm</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-27 19:02</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-russia-lavrov-putin_7034121.jpg?20250927195425" alt="Sergei Lavrov warns NATO and EU countries over &#x27;aggression&#x27; towards Russia" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-satellite"></span>
+                <span class="title"><a href="https://news.sky.com/story/sergei-lavrov-warns-nato-and-eu-countries-over-aggression-towards-russia-13439812" target="_blank">Sergei Lavrov warns NATO and EU countries over &#x27;aggression&#x27; towards Russia</a></span>
+                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
+                <span class="time">2025-09-27 18:51</span>
             </div>
         </div>
 <div class="story">
@@ -83,29 +92,20 @@
                 <span class="time">2025-09-27 17:29</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/27/fact-check-israeli-prime-minister-netanyahus-speech-at-unga?traffic_source=rss" target="_blank">Fact check: Israeli prime minister Netanyahu’s speech at UNGA</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-27 17:22</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/skyline-portland-oregan-rf-gty-mz-07-230402_1680449255914_hpMain_2_4x3t_384.jpg" alt="Trump admin live updates: Trump orders troops to be sent to Portland" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=125807330" target="_blank">Trump admin live updates: Trump orders troops to be sent to Portland</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-27 16:02</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/68d76c84151542fbb845dd00/master/pass/Review-%20Factor%20Protein%20Plus%20Meals.png" alt="Factor Protein Plus Meals Review (2025): Filling, Not Fattening" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/review/factor-high-protein-meal-delivery/" target="_blank">Factor Protein Plus Meals Review (2025): Filling, Not Fattening</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-27 21:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -149,15 +149,6 @@
                 <span class="title"><a href="https://www.wired.com/gallery/best-body-pillow/" target="_blank">The Best Body Pillow, Tested and Reviewed (2025)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-09-27 14:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/27/how-south-korea-plans-to-best-openai-google-others-with-homegrown-ai/" target="_blank">How South Korea plans to best OpenAI, Google, others with homegrown AI</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-27 14:00</span>
             </div>
         </div>
 </div>
@@ -217,20 +208,6 @@
                 <span class="title"><a href="https://github.com/francoismichel/ssh3" target="_blank">SSH3: Faster and rich secure shell using HTTP/3</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-09-27 14:27</span>
-            </div>
-        </div>
-</div>
-</div>
-<div class="news-section security-news" id="security">
-<h2 class="section-header">🔒 Security</h2>
-<div class="stories-container">
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-lock"></span>
-                <span class="title"><a href="https://www.schneier.com/blog/archives/2025/09/friday-squid-blogging-jigging-for-squid.html" target="_blank">Friday Squid Blogging: Jigging for Squid</a></span>
-                <span class="feed">Schneier on Security</span>
-                <span class="time">2025-09-26 21:03</span>
             </div>
         </div>
 </div>
@@ -320,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 22:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
