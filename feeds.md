@@ -1,30 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-27 17:01:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-27 18:01:37 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Error processing https://feeds.boingboing.net/boingboing/iBag: The read operation timed out -->
-<!-- Generated 3 new posts out of 20 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 6 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Saturday, September 27, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ Feed & Fortune</h1>
+    <div class="newspaper-date">Saturday, September 27, 2025 - 18:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,12 +49,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a64/live/b9338580-9bb6-11f0-852e-075d0572b37f.jpg" alt="Trump authorises &#x27;full force&#x27; as Portland becomes latest city to see troops deployed" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cddmn6ge6e2o?at_medium=RSS&at_campaign=rss" target="_blank">Trump authorises &#x27;full force&#x27; as Portland becomes latest city to see troops deployed</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-27 17:29</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/27/fact-check-israeli-prime-minister-netanyahus-speech-at-unga?traffic_source=rss" target="_blank">Fact check: Israeli prime minister Netanyahu’s speech at UNGA</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-27 17:22</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/27/israels-justification-for-gaza-hospital-attack-false-reuters-probe-finds?traffic_source=rss" target="_blank">Israel’s justification for Gaza hospital attack false, Reuters probe finds</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-27 15:17</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/250927-donald-trump-mn-1100-5c27bc.jpg" alt="Trump directs defense secretary to deploy troops to Portland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/trump-administration/trump-portland-troops-hegseth-ice-defense-secretary-rcna234082" target="_blank">Trump directs defense secretary to deploy troops to Portland</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-27 15:13</span>
             </div>
         </div>
 <div class="story">
@@ -65,33 +100,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/cn0xzdgyx0do?at_medium=RSS&at_campaign=rss" target="_blank">PM takes aim at &#x27;toxic&#x27; Reform as he arrives for Labour conference</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-27 14:21</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/opinions/2025/9/27/the-world-recognises-palestine-yet-it-treats-the-palestinians-as-stateless?traffic_source=rss" target="_blank">The world recognises Palestine, yet it treats the Palestinians as stateless</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-27 13:50</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/27/ice-officer-slams-woman-to-the-ground-at-immigration-court?traffic_source=rss" target="_blank">ICE officer slams woman to the ground at immigration court</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-27 13:05</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b934/live/b23db4f0-9b9b-11f0-92db-77261a15b9d2.jpg" alt="Drones seen over Danish military bases in latest air disruption" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c3rvzdq93yro?at_medium=RSS&at_campaign=rss" target="_blank">Drones seen over Danish military bases in latest air disruption</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-27 12:51</span>
             </div>
         </div>
 </div>
@@ -161,6 +169,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kaustubhyerkade/whats-in-new-kubernetes-v134-of-wind-will-22b0" target="_blank">What&#x27;s in new Kubernetes v1.34 Of Wind &amp; Will</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-27 17:49</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://matduggan.com/greenland-is-a-beautiful-nightmare/" target="_blank">Greenland Is a Beautiful Nightmare</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-27 15:46</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://github.com/francoismichel/ssh3" target="_blank">SSH3: Faster and rich secure shell using HTTP/3</a></span>
                 <span class="feed">Hacker News</span>
@@ -192,24 +218,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/09/mysql-ai-oracle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">MySQL AI Introduced for Enterprise Edition</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-09-27 12:32</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-More-GCN-1.0-SI" target="_blank">Linux Driver Developer At Valve Preps More Patches For Improving AMD GCN 1.0 GPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-27 12:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/arthurdev_amoserdev/curiosidade-sobre-o-miniwebsocket-3bf9" target="_blank">💡 Curiosidade sobre o MiniWebSocket</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-27 11:50</span>
             </div>
         </div>
 </div>
@@ -313,8 +321,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 93 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 90 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 18:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
