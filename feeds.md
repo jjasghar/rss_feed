@@ -1,38 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-27 00:04:31 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-27 01:28:44 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 29 feeds processed -->
+<!-- Generated 4 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Saturday, September 27, 2025 - 00:04 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Saturday, September 27, 2025 - 01:28 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,12 +47,30 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/Politics/comey-5-gty-er-250924_1758745535144_hpMain_4x3t_384.jpg" alt="Comey charge involves sharing of info about Hillary Clinton-related probe: Sources" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/comey-charge-involves-role-sharing-info-hillary-clinton/story?id=125977399" target="_blank">Comey charge involves sharing of info about Hillary Clinton-related probe: Sources</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-27 00:47</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-radio"></span>
                 <span class="title"><a href="https://www.npr.org/2025/09/26/g-s1-90790/assata-shakur-joanne-chesimard-dies" target="_blank">Assata Shakur, a fugitive Black militant sought by the U.S. since 1979, dies in Cuba</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-26 22:26</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/f_full_lamas_iran_intv_250926.00_16_49_05.Still002-81hpt4.jpg" alt="Iranian President Masoud Pezeshkian says Trump’s current path will ‘set fire’ to the Middle East: Full interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/iranian-president-masoud-pezeshkian-says-trump-s-current-path-will-set-fire-to-the-middle-east-full-interview-248460869842" target="_blank">Iranian President Masoud Pezeshkian says Trump’s current path will ‘set fire’ to the Middle East: Full interview</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-26 22:25</span>
             </div>
         </div>
 <div class="story">
@@ -82,24 +98,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/26/u-n-security-council-rejects-last-ditch-effort-to-delay-iran-sanctions?traffic_source=rss" target="_blank">U.N. Security Council rejects last-ditch effort to delay Iran sanctions</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-26 19:27</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/doanld-trump-8-epa-gmh-250926_1758900063960_hpMain_4x3t_384.jpg" alt="With Comey, Brennan, Soros, Trump steps up his retribution campaign" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/comey-brennan-soros-trump-steps-retribution-campaign/story?id=125972721" target="_blank">With Comey, Brennan, Soros, Trump steps up his retribution campaign</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-26 19:03</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/trump-comey-gty-jef-250926_1758907299024_hpMain_4x3t_384.jpg" alt="Looking back at the near decade of turmoil between Trump, Comey" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/back-decade-turmoil-trump-comey/story?id=125970714" target="_blank">Looking back at the near decade of turmoil between Trump, Comey</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-26 18:28</span>
             </div>
         </div>
 </div>
@@ -167,6 +165,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GNOME-AdwSidebar" target="_blank">GNOME&#x27;s libadwaita Introduces Adaptive Sidebar Widget</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-27 00:30</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fugi4drjyevhfwwggyxiq.png" alt="Observabilidade em aplicações móveis" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,15 +214,6 @@
             <div class="story-content">
                 <span class="fa fa-fw fa-y"></span>
                 <span class="title"><a href="https://github.com/apple/ml-simplefold" target="_blank">SimpleFold: Folding proteins is simpler than you think</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-26 18:01</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://github.com/apple/ml-simplefold" target="_blank">SimpleFold: Folding Proteins Is Simpler Than You Think</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-09-26 18:01</span>
             </div>
@@ -334,22 +332,13 @@
                 <span class="time">2025-09-26 04:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="http://www.questionablecontent.net/comics/5666.png" alt="Neighborly" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-music"></span>
-                <span class="title"><a href="http://questionablecontent.net/view.php?comic=5666" target="_blank">Neighborly</a></span>
-                <span class="feed">QC RSS</span>
-                <span class="time">2025-09-26 00:59</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 129 | 📡 Total Sources: 42 | 📸 With Images: 277 |
-        🔄 Last Updated: 00:04 UTC
+        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 42 | 📸 With Images: 276 |
+        🔄 Last Updated: 01:28 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
