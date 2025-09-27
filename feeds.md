@@ -1,39 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-09-27 12:02:23 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-27 13:04:41 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Error processing https://itsfoss.com/rss/: The read operation timed out -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Kotaku -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Morning Brew News</h1>
-    <div class="newspaper-date">Saturday, September 27, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Link Ledger</h1>
+    <div class="newspaper-date">Saturday, September 27, 2025 - 13:04 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +52,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b934/live/b23db4f0-9b9b-11f0-92db-77261a15b9d2.jpg" alt="Drones seen over Danish military bases in latest air disruption" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c3rvzdq93yro?at_medium=RSS&at_campaign=rss" target="_blank">Drones seen over Danish military bases in latest air disruption</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-27 12:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/27/denmark-reports-new-drone-sightings-overnight-at-military-sites?traffic_source=rss" target="_blank">Denmark reports new drone sightings overnight at military sites</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-27 12:11</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -77,30 +98,12 @@
             </div>
         </div>
 <div class="story">
-            
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-04/250429-donald-trump-Scott-Bessent-vl-250p-71b293.jpg" alt="Economic anxiety grows under Trump, creating a new political liability for the GOP" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/27/nx-s1-5546062/state-fairs-history" target="_blank">How the beloved state fair grew from livestock showcases to cornucopias of amusement</a></span>
-                <span class="feed">NPR Topics: News</span>
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/donald-trump/economic-anxiety-trump-democrats-rcna229872" target="_blank">Economic anxiety grows under Trump, creating a new political liability for the GOP</a></span>
+                <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-09-27 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/27/iran-recalls-envoys-to-uk-france-germany-as-un-sanctions-reimposed?traffic_source=rss" target="_blank">Iran recalls envoys to UK, France, Germany as UN sanctions reimposed</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-27 08:31</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/global-development/2025/sep/27/el-fasher-darfur-sudan-rsf-donkey-cart-costs-more-than-a-car" target="_blank">‘A donkey cart out of El Fasher costs more than a new car’: how 500 days under siege is tearing the city apart</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-09-27 08:00</span>
             </div>
         </div>
 </div>
@@ -115,6 +118,15 @@
                 <span class="title"><a href="https://www.wired.com/gallery/best-stand-mixer/" target="_blank">Our 10 Favorite Stand Mixers for Making Year-Round Treats (2025)</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-09-27 11:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2236223734-500x500.jpg" alt="The current war on science, and who’s behind it" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/science/2025/09/who-should-we-blame-for-the-current-war-on-science/" target="_blank">The current war on science, and who’s behind it</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-27 11:30</span>
             </div>
         </div>
 <div class="story">
@@ -153,20 +165,38 @@
                 <span class="time">2025-09-26 23:37</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/786900/amazon-blink-security-cameras-down-503-403-error" target="_blank">The Blink security camera app is down, but Amazon is working on it</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-26 23:37</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F705kh0564wyut815ddmj.png" alt="How to Store Persistent Data Across Workflows Executions in n8n" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/fedtti/how-to-store-persistent-data-across-workflows-executions-in-n8n-1fan" target="_blank">How to Store Persistent Data Across Workflows Executions in n8n</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-27 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/09/mysql-ai-oracle/en/headerimage/generatedHeaderImage-1758544739676.jpg" alt="MySQL AI Introduced for Enterprise Edition" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/mysql-ai-oracle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">MySQL AI Introduced for Enterprise Edition</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-27 12:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/AMDGPU-More-GCN-1.0-SI" target="_blank">Linux Driver Developer At Valve Preps More Patches For Improving AMD GCN 1.0 GPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-27 12:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -177,48 +207,21 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://itsfoss.com/raspberry-pi-3d-printed-case/" target="_blank">13 Amazingly Innovative 3D Printed Cases for Raspberry Pi I Came Across</a></span>
+                <span class="feed">It's FOSS</span>
+                <span class="time">2025-09-27 11:22</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/09/aspire-95-release/en/headerimage/twitter_card+%2861%29-1758913532637.jpg" alt=".NET Aspire 9.5 Released: New CLI Update Command, Dashboard AI Visualizer, and Expanded Integrations" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
                 <span class="title"><a href="https://www.infoq.com/news/2025/09/aspire-95-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">.NET Aspire 9.5 Released: New CLI Update Command, Dashboard AI Visualizer, and Expanded Integrations</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-09-27 09:30</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/member_29cf5563/jupyterlab-kendo-grid-extension-for-pandas-dataframes-57kk" target="_blank">JupyterLab Kendo Grid Extension for Pandas DataFrames</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-27 06:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/preeti_yadav/from-googling-errors-to-solving-them-like-a-pro-my-journey-as-a-developer-3mkh" target="_blank">From Googling Errors to Solving Them Like a Pro</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-27 04:45</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-ni8" target="_blank">Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-27 02:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GNOME-AdwSidebar" target="_blank">GNOME&#x27;s libadwaita Introduces Adaptive Sidebar Widget</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-27 00:30</span>
             </div>
         </div>
 </div>
@@ -322,8 +325,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 27 | 📅 Last 24h: 115 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 118 | 📡 Total Sources: 42 | 📸 With Images: 269 |
+        🔄 Last Updated: 13:04 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
