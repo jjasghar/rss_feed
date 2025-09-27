@@ -1,33 +1,35 @@
-<!-- Processing 54 RSS feeds at 2025-09-27 04:01:44 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-27 05:01:49 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: OMG! Ubuntu -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 26 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
-    <div class="newspaper-date">Saturday, September 27, 2025 - 04:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Saturday, September 27, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +45,33 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/27/turkiye-group-of-athletes-call-on-fifa-uefa-to-ban-israels-football-team?traffic_source=rss" target="_blank">Turkiye, group of athletes call on FIFA, UEFA to ban Israel’s football team</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-27 04:32</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/27/nx-s1-5554882/as-federal-funds-wane-npr-ruefully-clashes-with-cpb" target="_blank">As federal funds wane, NPR ruefully clashes with CPB</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-27 04:32</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/895b/live/3528db00-9b34-11f0-b741-177e3e2c2fc7.jpg" alt="Reeves pushes for EU youth migration scheme ahead of Budget" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c179z10vy28o?at_medium=RSS&at_campaign=rss" target="_blank">Reeves pushes for EU youth migration scheme ahead of Budget</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-27 04:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -68,33 +97,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/27/russia-ukraine-war-list-of-key-events-day-1311?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,311</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-27 00:36</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/26/nx-s1-5554825/supreme-court-trump-foreign-aid-pocket-rescission" target="_blank">Supreme Court allows Trump to withhold $4 billion in foreign aid</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-26 23:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/26/g-s1-90790/assata-shakur-joanne-chesimard-dies" target="_blank">Assata Shakur, a fugitive Black militant sought by the U.S. since 1979, dies in Cuba</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-26 22:26</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/f_full_lamas_iran_intv_250926.00_16_49_05.Still002-81hpt4.jpg" alt="Iranian President Masoud Pezeshkian says Trump’s current path will ‘set fire’ to the Middle East: Full interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/iranian-president-masoud-pezeshkian-says-trump-s-current-path-will-set-fire-to-the-middle-east-full-interview-248460869842" target="_blank">Iranian President Masoud Pezeshkian says Trump’s current path will ‘set fire’ to the Middle East: Full interview</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-26 22:25</span>
             </div>
         </div>
 </div>
@@ -165,6 +167,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/preeti_yadav/from-googling-errors-to-solving-them-like-a-pro-my-journey-as-a-developer-3mkh" target="_blank">From Googling Errors to Solving Them Like a Pro</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-27 04:45</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-back-to-school-night-1012025-ni8" target="_blank">Mix with the Masters: Mixing Night with Ken Lewis - BACK TO SCHOOL NIGHT - 10/1/2025</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-27 02:06</span>
@@ -204,15 +215,6 @@
                 <span class="title"><a href="https://dev.to/locnguyenpv/introduction-to-cicd-2nfg" target="_blank">Introduction to CI/CD</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-26 18:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Ubuntu-25.10-RISC-V-QEMU" target="_blank">Ubuntu 25.10&#x27;s Only Supported RISC-V Platform: QEMU Virtualization</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-26 18:20</span>
             </div>
         </div>
 </div>
@@ -325,8 +327,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 28 | 📅 Last 24h: 124 | 📡 Total Sources: 42 | 📸 With Images: 273 |
-        🔄 Last Updated: 04:01 UTC
+        📊 Displayed: 28 | 📅 Last 24h: 128 | 📡 Total Sources: 42 | 📸 With Images: 272 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
