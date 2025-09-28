@@ -1,37 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-28 12:02:30 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-28 13:05:18 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 3 new posts out of 28 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 5 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
-    <div class="newspaper-date">Sunday, September 28, 2025 - 12:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, September 28, 2025 - 13:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/28/all-eyes-on-gaza-as-germany-sees-largest-pro-palestine-protest-to-date?traffic_source=rss" target="_blank">‘All eyes on Gaza’ as Germany sees largest pro-Palestine protest to date</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-28 12:38</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33b7/live/6b8815d0-9c51-11f0-92db-77261a15b9d2.png" alt="Keir Starmer calls Reform migrant policy &#x27;racist&#x27; and &#x27;immoral&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -92,15 +103,6 @@
                 <span class="time">2025-09-28 07:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f2c/live/f7147c40-9c35-11f0-92db-77261a15b9d2.jpg" alt="Kyiv hit by &#x27;massive&#x27; Russian attack, mayor says" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c75qeqr5905o?at_medium=RSS&at_campaign=rss" target="_blank">Kyiv hit by &#x27;massive&#x27; Russian attack, mayor says</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-28 07:12</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
@@ -122,6 +124,15 @@
                 <span class="title"><a href="https://www.wired.com/story/how-to-install-chromeos-flex/" target="_blank">Keep Your Old Laptop Alive by Installing ChromeOS Flex</a></span>
                 <span class="feed">WIRED</span>
                 <span class="time">2025-09-28 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/moo2-diplomacy-500x500.jpg" alt="30 years later, I’m still obliterating planets in Master of Orion II—and you can, too" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gaming/2025/09/30-years-later-im-still-obliterating-planets-in-master-of-orion-ii-and-you-can-too/" target="_blank">30 years later, I’m still obliterating planets in Master of Orion II—and you can, too</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-28 11:15</span>
             </div>
         </div>
 <div class="story">
@@ -151,20 +162,29 @@
                 <span class="time">2025-09-27 19:36</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/27/ai-startup-friend-spent-more-than-1m-on-all-those-subway-ads/" target="_blank">AI startup Friend spent more than $1M on all those subway ads</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-27 17:22</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/09/goodle-adk-langchain4j/en/headerimage/google-adk-langchain4j-1759062281106.jpeg" alt="Google&#x27;s Agent Development Kit for Java Adds Integration with LangChain4j" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/goodle-adk-langchain4j/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google&#x27;s Agent Development Kit for Java Adds Integration with LangChain4j</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-28 13:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2Fpako%3AeNp9kG9rwjAQxr9KuNdVGlu7Ni8GrmPO4USmY7B1L2Ib27A2KTHZP_G7L6kMUcR7ceTuee5-R7aQy4IBgXUtv_KKKo2mT5lANjZmVSraViidP79lYDOaWe8mg_e9wcUIW-mFrdCCqU-en6oDq44ErX80zw8SE0UmTiDjDjI-C7lxkMcpWirKBRflsegY9_MULXhjaqq5FJdJy45kM5rL4hiUOtCMGUVrNGP6PDB1wClVJUOjCZqINVNM5Owi0y6zQw-m5ZopdEdXiufnBtwn93rXzr9vjE8by0MDPCgVL4BoZZgHDVMNdSVsnTUDXbHGnkXss6DqI4NM7OxMS8WrlM3_mJKmrICsab2xlWkLqtktp_bug8VeyFQqjdBAht0GIFv4BhLipB_EYTKIkhAP_SDw4AdIjPtJjHHgR0kcBgGOdh78dki_H2M_xlc4HvhR6A-jcPcH7DC-Bg" alt="Cloud HPC: How Google Scales High-Performance Computing" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/mrmajed7/cloud-hpc-how-google-scales-high-performance-computing-4922" target="_blank">Cloud HPC: How Google Scales High-Performance Computing</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-28 12:59</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjtol3wny74lnfp4prgq1.png" alt="I Built a Complete Desktop Banking System with Electron and Node.js" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -199,24 +219,6 @@
                 <span class="title"><a href="https://dev.to/taku25/title-how-i-adapted-my-custom-parser-for-the-new-nvim-treesitter-main-branch-57l7" target="_blank">Title: How I Adapted My Custom Parser for the New nvim-treesitter `main` Branch</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-28 04:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-ARM64" target="_blank">ARM64 With Linux 6.18 To Accept Secrets From Firmware &amp; More</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-28 04:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/programadriano/streams-de-dados-processamento-de-informacoes-em-tempo-real-2ccm" target="_blank">Streams de Dados: Processamento de Informações em Tempo Real</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-28 00:44</span>
             </div>
         </div>
 </div>
@@ -297,8 +299,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 12:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 13:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
