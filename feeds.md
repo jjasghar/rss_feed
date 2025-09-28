@@ -1,31 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-09-28 10:01:46 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-28 11:01:35 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Ubuntu Blog -->
+<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 5 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, September 28, 2025 - 10:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, September 28, 2025 - 11:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33b7/live/6b8815d0-9c51-11f0-92db-77261a15b9d2.png" alt="Keir Starmer calls Reform migrant policy &#x27;racist&#x27; and &#x27;immoral&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-flag"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/cj6xdw1dg4zo?at_medium=RSS&at_campaign=rss" target="_blank">Keir Starmer calls Reform migrant policy &#x27;racist&#x27; and &#x27;immoral&#x27;</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-28 10:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e0c/live/0796d830-9c48-11f0-b741-177e3e2c2fc7.jpg" alt="Zelensky condemns &#x27;vile&#x27; Russian strikes lasting 12 hours" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -84,15 +102,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/c75qeqr5905o?at_medium=RSS&at_campaign=rss" target="_blank">Kyiv hit by &#x27;massive&#x27; Russian attack, mayor says</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-28 07:12</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/28/nx-s1-5555871/stampede-political-rally-actor-vijay-india-kills-36" target="_blank">Stampede at a political rally for popular actor Vijay in southern India kills 36, injures 40</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-28 06:39</span>
             </div>
         </div>
 </div>
@@ -160,6 +169,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjtol3wny74lnfp4prgq1.png" alt="I Built a Complete Desktop Banking System with Electron and Node.js" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lazpal/i-built-a-complete-desktop-banking-system-with-electron-and-nodejs-3a6p" target="_blank">I Built a Complete Desktop Banking System with Electron and Node.js</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-28 10:52</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/09/linkerd-cost-savings/en/headerimage/header-1758900675735.jpeg" alt="Imagine Learning Highlights Linkerd’s Role in Cloud-Native Scale and Cost Savings" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -202,15 +220,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-15.0-Alpha-4" target="_blank">FreeBSD 15.0 Alpha 4 Will Now Install pkg From Release Media</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-28 00:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Unvanquished-SDL3-Wayland" target="_blank">Unvanquished Game Ported To SDL3, Working Natively On Wayland</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-27 22:36</span>
             </div>
         </div>
 </div>
@@ -291,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 10:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 11:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
