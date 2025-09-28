@@ -1,38 +1,39 @@
-<!-- Processing 54 RSS feeds at 2025-09-28 16:02:05 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-28 17:01:32 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Penny Arcade -->
+<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Linux.com -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 29 feeds processed -->
+<!-- Generated 9 new posts out of 30 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, September 28, 2025 - 16:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Sunday, September 28, 2025 - 17:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +50,42 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/michigan-church-shooting-hd-bh-250928_1759077051681_hpMain_4x3t_384.jpg" alt="Multiple people shot at Michigan church: Police" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/multiple-people-shot-michigan-church-police/story?id=126015196" target="_blank">Multiple people shot at Michigan church: Police</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-28 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/28/nx-s1-5555970/multiple-people-shot-mormon-church-michigan-shooter-down" target="_blank">Multiple people shot at Mormon church in Michigan and shooter is down, police say</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-28 16:15</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1759075599073_nbc_spec_michigan_church_shooting_250928_1920x1080-ygbk9v.jpg" alt="Special Report: Multiple people injured following Michigan church shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/multiple-people-injured-following-michigan-church-shooting-248536133751" target="_blank">Special Report: Multiple people injured following Michigan church shooting</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-28 16:06</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/features/2025/9/28/after-war-with-israel-how-is-lebanons-hezbollah-regrouping?traffic_source=rss" target="_blank">Analysis: How is Lebanon’s Hezbollah regrouping after war with Israel?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-28 15:23</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/Politics/TW-JEFFRIES-20250928-ABC-JH_1759066989724_hpMain_4x3t_384.jpeg" alt="Jeffries says he’s ‘hopeful’ a government shutdown can be avoided" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
@@ -64,42 +101,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/28/heavy-russian-drone-attack-kills-at-least-four-in-ukraines-capital-kyiv?traffic_source=rss" target="_blank">Heavy Russian drone attack kills at least four in Ukraine’s capital Kyiv</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-28 13:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-shield"></span>
-                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/28/namibia-army-wildfire-etosha-game-reserve" target="_blank">Namibia deploys army to fight wildfire burning third of Etosha game reserve</a></span>
-                <span class="feed">World news | The Guardian</span>
-                <span class="time">2025-09-28 13:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/28/all-eyes-on-gaza-as-germany-sees-largest-pro-palestine-protest-to-date?traffic_source=rss" target="_blank">‘All eyes on Gaza’ as Germany sees largest pro-Palestine protest to date</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-28 12:38</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/mtp_full_thune2_250928_frame_8336-6it9oo.jpg" alt="Leader Thune says government shutdown ‘totally up to the Democrats’: Full interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/leader-thune-says-government-shutdown-totally-up-to-the-democrats-full-interview-248532037723" target="_blank">Leader Thune says government shutdown ‘totally up to the Democrats’: Full interview</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-28 10:58</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/28/nx-s1-5555911/maines-food-pantries-stare-down-volunteer-shortage-while-anticipating-cuts" target="_blank">Maine&#x27;s food pantries stare down volunteer shortage while anticipating cuts</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-28 10:55</span>
             </div>
         </div>
 </div>
@@ -170,6 +171,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/kuldeep_paul/5-best-llm-gateways-for-scaling-ai-applications-in-2025-1jmh" target="_blank">5 Best LLM Gateways for Scaling AI Applications in 2025</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-28 16:59</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap" target="_blank">The AI coding trap</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-28 15:43</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/lucasbrdt268/building-a-webhook-listener-with-nodejs-step-by-step-guide-3ai5" target="_blank">Building a Webhook Listener with Node.js (Step-by-Step Guide)</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-28 15:18</span>
@@ -202,29 +221,20 @@
                 <span class="time">2025-09-28 13:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/goodle-adk-langchain4j/en/headerimage/google-adk-langchain4j-1759062281106.jpeg" alt="Google&#x27;s Agent Development Kit for Java Adds Integration with LangChain4j" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/goodle-adk-langchain4j/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google&#x27;s Agent Development Kit for Java Adds Integration with LangChain4j</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-28 13:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmermaid.ink%2Fimg%2Fpako%3AeNp9kG9rwjAQxr9KuNdVGlu7Ni8GrmPO4USmY7B1L2Ib27A2KTHZP_G7L6kMUcR7ceTuee5-R7aQy4IBgXUtv_KKKo2mT5lANjZmVSraViidP79lYDOaWe8mg_e9wcUIW-mFrdCCqU-en6oDq44ErX80zw8SE0UmTiDjDjI-C7lxkMcpWirKBRflsegY9_MULXhjaqq5FJdJy45kM5rL4hiUOtCMGUVrNGP6PDB1wClVJUOjCZqINVNM5Owi0y6zQw-m5ZopdEdXiufnBtwn93rXzr9vjE8by0MDPCgVL4BoZZgHDVMNdSVsnTUDXbHGnkXss6DqI4NM7OxMS8WrlM3_mJKmrICsab2xlWkLqtktp_bug8VeyFQqjdBAht0GIFv4BhLipB_EYTKIkhAP_SDw4AdIjPtJjHHgR0kcBgGOdh78dki_H2M_xlc4HvhR6A-jcPcH7DC-Bg" alt="Cloud HPC: How Google Scales High-Performance Computing" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/mrmajed7/cloud-hpc-how-google-scales-high-performance-computing-4922" target="_blank">Cloud HPC: How Google Scales High-Performance Computing</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-28 12:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Peacemaker-John-Cena-DC-Studios-1280x853.jpg" alt="‘Fortnite’ Ditches ‘Peacemaker’ Emote After the Show’s Big Reveal" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/fornite-ditches-peacemaker-emote-after-the-shows-big-reveal-2000664740" target="_blank">‘Fortnite’ Ditches ‘Peacemaker’ Emote After the Show’s Big Reveal</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-28 16:33</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/007-goldeneye-1280x853.jpg" alt="‘GoldenEye’ is Coming Back to Theaters Next Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -270,22 +280,13 @@
                 <span class="time">2025-09-27 20:15</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/06/Batman-Brave-and-Bold-1280x853.jpg" alt="James Gunn Talks Batman and ‘Brave &amp; the Bold’ Status" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/james-gunn-talks-batman-and-brave-the-bold-status-2000664692" target="_blank">James Gunn Talks Batman and ‘Brave &amp; the Bold’ Status</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-27 18:50</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 76 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 16:02 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 17:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
