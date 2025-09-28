@@ -1,36 +1,29 @@
-<!-- Processing 54 RSS feeds at 2025-09-28 01:29:26 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing 54 RSS feeds at 2025-09-28 02:30:06 UTC -->
 <!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Sky News World -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Linux.com -->
+<!-- Processing: Red Hat Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 27 feeds processed -->
+<!-- Processing: DZone -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 4 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, September 28, 2025 - 01:29 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Digest</h1>
+    <div class="newspaper-date">Sunday, September 28, 2025 - 02:30 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -47,12 +40,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/doanld-trump-6-gty-gmh-250926_1758899458275_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Gov. says &#x27;no need&#x27; after Trump directs troops to Portland" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/live-updates/trump-admin-live-updates/?id=125807330" target="_blank">Trump admin live updates: Gov. says &#x27;no need&#x27; after Trump directs troops to Portland</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-28 01:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/27/nx-s1-5555462/saudi-comedy-festival-chappelle-hart-maron" target="_blank">Marc Maron, Human Rights Watch and others slam Saudi comedy festival</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-28 01:38</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/28/russia-ukraine-war-list-of-key-events-day-1312?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,312</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-28 00:37</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/09272025-donald-trump-RM-f5dda3.jpg" alt="Trump to meet with top congressional leaders as a government shutdown looms" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/politics/politics-news/trump-top-congressional-leaders-government-shutdown-looms-rcna234137" target="_blank">Trump to meet with top congressional leaders as a government shutdown looms</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-28 00:00</span>
             </div>
         </div>
 <div class="story">
@@ -71,33 +91,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/27/nx-s1-5554448/comeys-indictment-marks-a-dramatic-escalation-in-trumps-political-retribution-efforts" target="_blank">Comey&#x27;s indictment marks a dramatic escalation in Trump&#x27;s political retribution efforts</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-27 21:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/27/trump-orders-deployment-of-troops-to-us-city-of-portland-and-ice-facilities?traffic_source=rss" target="_blank">Trump orders deployment of troops to US city of Portland and ICE facilities</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-27 20:32</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4260/live/801478a0-9bb0-11f0-928c-71dbb8619e94.jpg" alt="PM takes aim at &#x27;toxic&#x27; Reform as Labour conference gets going" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cn0xzdgyx0do?at_medium=RSS&at_campaign=rss" target="_blank">PM takes aim at &#x27;toxic&#x27; Reform as Labour conference gets going</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-27 20:29</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/27/at-least-31-dead-over-50-injured-at-indian-actor-politician-vijays-rally?traffic_source=rss" target="_blank">At least 31 dead, over 50 injured at Indian actor-politician Vijay’s rally</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-27 19:22</span>
             </div>
         </div>
 </div>
@@ -305,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 01:29 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 02:30 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
