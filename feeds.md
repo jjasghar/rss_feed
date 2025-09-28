@@ -1,41 +1,33 @@
-<!-- Processing 54 RSS feeds at 2025-09-28 20:01:51 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-28 21:01:36 UTC -->
 <!-- Processing: Penny Arcade -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: NPR News -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Gizmodo -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Generated 3 new posts out of 25 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Byte Beacon</h1>
-    <div class="newspaper-date">Sunday, September 28, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
+    <div class="newspaper-date">Sunday, September 28, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -81,6 +73,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/28/nx-s1-5555995/ryder-cup-emcee-jeering-fans" target="_blank">Ryder Cup MC steps down over foul-mouthed chant aimed at golfer Rory McIlroy</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-28 18:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/28/new-york-city-mayor-eric-adams-says-he-wont-seek-re-election?traffic_source=rss" target="_blank">New York City Mayor Eric Adams says he won’t seek re-election</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
@@ -96,20 +97,20 @@
                 <span class="time">2025-09-28 17:49</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1759080401790_nbc_spec_michigan_church_fire_suspect_250928_1920x1080-yn5kas.jpg" alt="Michigan suspect &#x27;deliberately set&#x27; fire to church and opened fire during service" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/michigan-suspect-deliberately-set-fire-to-church-and-opened-fire-during-service-248537157666" target="_blank">Michigan suspect &#x27;deliberately set&#x27; fire to church and opened fire during service</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-28 17:26</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/28/dji-loses-lawsuit-over-classification-as-chinese-military-company/" target="_blank">DJI loses lawsuit over classification as Chinese military company</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-28 20:57</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -155,20 +156,20 @@
                 <span class="time">2025-09-28 15:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d6c5f0b32b59c02c042edf/master/pass/Nepal_Youtuber-10.jpg" alt="How a Travel YouTuber Captured Nepal’s Revolution for the World" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-a-travel-youtuber-captured-nepals-revolution-for-the-world/" target="_blank">How a Travel YouTuber Captured Nepal’s Revolution for the World</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-28 14:40</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Bcachefs-DKMS-Announcement" target="_blank">Bcachefs Announces First-Tier Arch &amp; NixOS Support, Post-Experimental Release EOY</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-28 20:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbsrze706jv16iesz9npu.png" alt="Building a Serverless Dungeon Master Agent on AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -212,15 +213,6 @@
                 <span class="title"><a href="https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap" target="_blank">The AI coding trap</a></span>
                 <span class="feed">Hacker News</span>
                 <span class="time">2025-09-28 15:43</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lucasbrdt268/building-a-webhook-listener-with-nodejs-step-by-step-guide-3ai5" target="_blank">Building a Webhook Listener with Node.js (Step-by-Step Guide)</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-28 15:18</span>
             </div>
         </div>
 </div>
@@ -301,8 +293,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 87 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
