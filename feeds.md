@@ -1,41 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-28 15:01:40 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-28 16:02:05 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: NPR News -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Guardian World News -->
 <!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Ars Technica -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
 <!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: GitHub Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Gizmodo -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 32 feeds processed -->
+<!-- Generated 4 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Update Universe</h1>
-    <div class="newspaper-date">Sunday, September 28, 2025 - 15:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, September 28, 2025 - 16:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -72,10 +69,28 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-shield"></span>
+                <span class="title"><a href="https://www.theguardian.com/world/2025/sep/28/namibia-army-wildfire-etosha-game-reserve" target="_blank">Namibia deploys army to fight wildfire burning third of Etosha game reserve</a></span>
+                <span class="feed">World news | The Guardian</span>
+                <span class="time">2025-09-28 13:09</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/28/all-eyes-on-gaza-as-germany-sees-largest-pro-palestine-protest-to-date?traffic_source=rss" target="_blank">‘All eyes on Gaza’ as Germany sees largest pro-Palestine protest to date</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-28 12:38</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/mtp_full_thune2_250928_frame_8336-6it9oo.jpg" alt="Leader Thune says government shutdown ‘totally up to the Democrats’: Full interview" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/meet-the-press/video/leader-thune-says-government-shutdown-totally-up-to-the-democrats-full-interview-248532037723" target="_blank">Leader Thune says government shutdown ‘totally up to the Democrats’: Full interview</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-28 10:58</span>
             </div>
         </div>
 <div class="story">
@@ -85,24 +100,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/28/nx-s1-5555911/maines-food-pantries-stare-down-volunteer-shortage-while-anticipating-cuts" target="_blank">Maine&#x27;s food pantries stare down volunteer shortage while anticipating cuts</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-28 10:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33b7/live/6b8815d0-9c51-11f0-92db-77261a15b9d2.png" alt="Keir Starmer calls Reform migrant policy &#x27;racist&#x27; and &#x27;immoral&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-flag"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/cj6xdw1dg4zo?at_medium=RSS&at_campaign=rss" target="_blank">Keir Starmer calls Reform migrant policy &#x27;racist&#x27; and &#x27;immoral&#x27;</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-28 10:33</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e0c/live/0796d830-9c48-11f0-b741-177e3e2c2fc7.jpg" alt="Zelensky condemns &#x27;vile&#x27; Russian strikes lasting 12 hours" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/c75qeqr5905o?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky condemns &#x27;vile&#x27; Russian strikes lasting 12 hours</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-28 09:51</span>
             </div>
         </div>
 </div>
@@ -170,6 +167,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/lucasbrdt268/building-a-webhook-listener-with-nodejs-step-by-step-guide-3ai5" target="_blank">Building a Webhook Listener with Node.js (Step-by-Step Guide)</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-28 15:18</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxryyybx9i7n6uskriwuz.png" alt="How to Use the CSS aspect-ratio Property for Responsive Layouts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -188,6 +194,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-AMD-CPUs" target="_blank">Linux 6.18 To Deliver Many Notable Features For AMD CPUs</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-28 13:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/09/goodle-adk-langchain4j/en/headerimage/google-adk-langchain4j-1759062281106.jpeg" alt="Google&#x27;s Agent Development Kit for Java Adds Integration with LangChain4j" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
@@ -203,24 +218,6 @@
                 <span class="title"><a href="https://dev.to/mrmajed7/cloud-hpc-how-google-scales-high-performance-computing-4922" target="_blank">Cloud HPC: How Google Scales High-Performance Computing</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-28 12:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://www.julian.ac/blog/2025/09/27/failing-to-understand-the-exponential-again/" target="_blank">Failing to Understand the Exponential, Again</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-28 12:19</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjtol3wny74lnfp4prgq1.png" alt="I Built a Complete Desktop Banking System with Electron and Node.js" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/lazpal/i-built-a-complete-desktop-banking-system-with-electron-and-nodejs-3a6p" target="_blank">I Built a Complete Desktop Banking System with Electron and Node.js</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-28 10:52</span>
             </div>
         </div>
 </div>
@@ -284,25 +281,11 @@
         </div>
 </div>
 </div>
-<div class="news-section webcomics-section" id="webcomics">
-<h2 class="section-header">🎨 Daily Comics</h2>
-<div class="stories-container">
-<div class="story">
-            <img src="https://www.smbc-comics.com/comics/1758680278-20250927.png" alt="Saturday Morning Breakfast Cereal - Hey" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-smile"></span>
-                <span class="title"><a href="https://www.smbc-comics.com/comic/hey-4" target="_blank">Saturday Morning Breakfast Cereal - Hey</a></span>
-                <span class="feed">Saturday Morning Breakfast Cereal</span>
-                <span class="time">2025-09-27 15:20</span>
-            </div>
-        </div>
-</div>
-</div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 41 | 📸 With Images: 264 |
-        🔄 Last Updated: 15:01 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 76 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 16:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
