@@ -1,29 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-28 02:30:06 UTC -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: BBC World News -->
+<!-- Processing 54 RSS feeds at 2025-09-28 03:17:56 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Generated 4 new posts out of 21 feeds processed -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Digest</h1>
-    <div class="newspaper-date">Sunday, September 28, 2025 - 02:30 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Sunday, September 28, 2025 - 03:18 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -39,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/28/thousands-protest-livestreamed-murder-of-2-women-young-girl-in-argentina?traffic_source=rss" target="_blank">Thousands protest livestreamed murder of 2 women, young girl in Argentina</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-28 02:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/27/nx-s1-5555412/george-hardy-tuskegee-airman-obit" target="_blank">George E. Hardy, Tuskegee Airman, dies at 100</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-28 02:29</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/doanld-trump-6-gty-gmh-250926_1758899458275_hpMain_4x3t_384.jpg" alt="Trump admin live updates: Gov. says &#x27;no need&#x27; after Trump directs troops to Portland" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -73,24 +100,6 @@
                 <span class="title"><a href="https://www.nbcnews.com/politics/politics-news/trump-top-congressional-leaders-government-shutdown-looms-rcna234137" target="_blank">Trump to meet with top congressional leaders as a government shutdown looms</a></span>
                 <span class="feed">NBC News Top Stories</span>
                 <span class="time">2025-09-28 00:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/27/nx-s1-5555467/wife-of-immigrant-injured-at-dallas-ice-facility-shooting-speaks-out" target="_blank">&#x27;I want his name to be known:&#x27; Wife of immigrant injured at ICE facility shooting speaks out</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-27 23:06</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/27/nx-s1-5554448/comeys-indictment-marks-a-dramatic-escalation-in-trumps-political-retribution-efforts" target="_blank">Comey&#x27;s indictment marks a dramatic escalation in Trump&#x27;s political retribution efforts</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-27 21:15</span>
             </div>
         </div>
 </div>
@@ -298,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 78 | 📡 Total Sources: 42 | 📸 With Images: 265 |
-        🔄 Last Updated: 02:30 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 03:18 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
