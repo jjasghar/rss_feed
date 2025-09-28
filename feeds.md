@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-09-28 13:05:18 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing 54 RSS feeds at 2025-09-28 14:01:22 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Linux.com -->
+<!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Red Hat Blog -->
-<!-- Processing: GitHub Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
-<!-- Processing: Lifehacker -->
-<!-- Processing: Boing Boing -->
+<!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 5 new posts out of 31 feeds processed -->
+<!-- Generated 6 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
-    <div class="newspaper-date">Sunday, September 28, 2025 - 13:05 UTC</div>
+    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
+    <div class="newspaper-date">Sunday, September 28, 2025 - 14:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -49,6 +50,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://s.abcnews.com/images/Politics/TW-JEFFRIES-20250928-ABC-JH_1759066989724_hpMain_4x3t_384.jpeg" alt="Jeffries says he’s ‘hopeful’ a government shutdown can be avoided" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/Politics/jeffries-hes-hopeful-government-shutdown-avoided/story?id=126011036" target="_blank">Jeffries says he’s ‘hopeful’ a government shutdown can be avoided</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-28 13:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/28/heavy-russian-drone-attack-kills-at-least-four-in-ukraines-capital-kyiv?traffic_source=rss" target="_blank">Heavy Russian drone attack kills at least four in Ukraine’s capital Kyiv</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-28 13:44</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,29 +104,29 @@
                 <span class="time">2025-09-28 09:35</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/2025/9/28/ulberg-dominates-reyes-with-first-round-ko-at-ufc-fight-night-in-perth?traffic_source=rss" target="_blank">Ulberg dominates Reyes with first-round KO at UFC Fight Night in Perth</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-28 08:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/28/russian-fm-vows-decisive-response-if-attacked-by-the-west?traffic_source=rss" target="_blank">Russian FM vows ‘decisive response’ if attacked by the West</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-28 07:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media.wired.com/photos/688421c8d632f582759c6e56/master/pass/The%20Best%20Noise-Canceling%20Headphones.png" alt="Best Noise-Canceling Headphones: Sony, Bose, Apple, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/gallery/best-noise-canceling-headphones/" target="_blank">Best Noise-Canceling Headphones: Sony, Bose, Apple, and More</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-28 13:05</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/televisions/777588/telly-tv-hands-on-ads" target="_blank">I spent three months with Telly, the free TV that&amp;#8217;s always showing ads</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-28 13:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,29 +163,20 @@
                 <span class="time">2025-09-27 21:27</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d76c84151542fbb845dd00/master/pass/Review-%20Factor%20Protein%20Plus%20Meals.png" alt="Factor Protein Plus Meals Review (2025): Filling, Not Fattening" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/review/factor-high-protein-meal-delivery/" target="_blank">Factor Protein Plus Meals Review (2025): Filling, Not Fattening</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-27 21:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/27/beware-coworkers-who-produce-ai-generated-workslop/" target="_blank">Beware coworkers who produce AI-generated ‘workslop’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-27 19:36</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feai0t4v3ilg77uo66604.png" alt="Dev Log #1 — Mirage / Apate: Field Notes from the First Brick" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/hrisheekesh_pv_cc89484f09/dev-log-1-mirage-apate-field-notes-from-the-first-brick-3c91" target="_blank">Dev Log #1 — Mirage / Apate: Field Notes from the First Brick</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-28 13:57</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://res.infoq.com/news/2025/09/goodle-adk-langchain4j/en/headerimage/google-adk-langchain4j-1759062281106.jpeg" alt="Google&#x27;s Agent Development Kit for Java Adds Integration with LangChain4j" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -186,6 +196,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://www.julian.ac/blog/2025/09/27/failing-to-understand-the-exponential-again/" target="_blank">Failing to Understand the Exponential, Again</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-28 12:19</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjtol3wny74lnfp4prgq1.png" alt="I Built a Complete Desktop Banking System with Electron and Node.js" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -201,24 +220,6 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/09/linkerd-cost-savings/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Imagine Learning Highlights Linkerd’s Role in Cloud-Native Scale and Cost Savings</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-09-28 09:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust/" target="_blank">Beyond OpenMP in C++ and Rust: Taskflow, Rayon, Fork Union</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-28 08:53</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/taku25/title-how-i-adapted-my-custom-parser-for-the-new-nvim-treesitter-main-branch-57l7" target="_blank">Title: How I Adapted My Custom Parser for the New nvim-treesitter `main` Branch</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-28 04:57</span>
             </div>
         </div>
 </div>
@@ -299,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 13:05 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 41 | 📸 With Images: 263 |
+        🔄 Last Updated: 14:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
