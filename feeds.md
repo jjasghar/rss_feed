@@ -1,39 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-09-28 17:01:32 UTC -->
-<!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
+<!-- Processing 54 RSS feeds at 2025-09-28 18:02:02 UTC -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: WIRED -->
-<!-- Error processing https://www.wired.com/feed/rss: The read operation timed out -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Dev.to -->
-<!-- Processing: StackOverflow Blog -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
 <!-- Processing: Linux.com -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 30 feeds processed -->
+<!-- Generated 9 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, September 28, 2025 - 17:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
+    <div class="newspaper-date">Sunday, September 28, 2025 - 18:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,12 +51,39 @@
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/fact-check/2025/9/28/the-truth-about-netanyahus-unga-speech?traffic_source=rss" target="_blank">The Truth About Netanyahu’s UNGA Speech</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-28 17:49</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1759080401790_nbc_spec_michigan_church_fire_suspect_250928_1920x1080-yn5kas.jpg" alt="Michigan suspect &#x27;deliberately set&#x27; fire to church and opened fire during service" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/michigan-suspect-deliberately-set-fire-to-church-and-opened-fire-during-service-248537157666" target="_blank">Michigan suspect &#x27;deliberately set&#x27; fire to church and opened fire during service</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-28 17:26</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://s.abcnews.com/images/US/michigan-church-shooting-hd-bh-250928_1759077051681_hpMain_4x3t_384.jpg" alt="Multiple people shot at Michigan church: Police" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-tv"></span>
                 <span class="title"><a href="https://abcnews.go.com/US/multiple-people-shot-michigan-church-police/story?id=126015196" target="_blank">Multiple people shot at Michigan church: Police</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-28 16:55</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/28/nx-s1-5555970/multiple-people-shot-mormon-church-michigan-shooter-down" target="_blank">1 person dead and 9 injured in shooting at Michigan church, police say</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-28 16:15</span>
             </div>
         </div>
 <div class="story">
@@ -76,38 +104,29 @@
                 <span class="time">2025-09-28 16:06</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2025/9/28/after-war-with-israel-how-is-lebanons-hezbollah-regrouping?traffic_source=rss" target="_blank">Analysis: How is Lebanon’s Hezbollah regrouping after war with Israel?</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-28 15:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/Politics/TW-JEFFRIES-20250928-ABC-JH_1759066989724_hpMain_4x3t_384.jpeg" alt="Jeffries says he’s ‘hopeful’ a government shutdown can be avoided" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/Politics/jeffries-hes-hopeful-government-shutdown-avoided/story?id=126011036" target="_blank">Jeffries says he’s ‘hopeful’ a government shutdown can be avoided</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-28 13:55</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/28/heavy-russian-drone-attack-kills-at-least-four-in-ukraines-capital-kyiv?traffic_source=rss" target="_blank">Heavy Russian drone attack kills at least four in Ukraine’s capital Kyiv</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-28 13:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/28/techcrunch-mobility-self-driving-trucks-startup-kodiak-goes-public-and-a-shake-up-at-hyundais-supernal/" target="_blank">TechCrunch Mobility: Self-driving trucks startup Kodiak goes public and a shake-up at Hyundai’s Supernal</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-28 16:01</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68d788ab880360e71157d86c/master/pass/The%20Ultimate%20Quest-%20How%20to%20Choose%20the%20Right%20Gaming%20Laptop.png" alt="How to Choose the Right Gaming Laptop (2025): What You Need to Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-buy-a-gaming-laptop/" target="_blank">How to Choose the Right Gaming Laptop (2025): What You Need to Know</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-28 15:00</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -144,29 +163,29 @@
                 <span class="time">2025-09-28 13:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/column/785975/hollywood-ai-stepback" target="_blank">How generative AI boosters are trying to break into Hollywood</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-28 12:00</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d6cfd64e729ea8b5308ebc/master/pass/chrome-old-laptop-gear-1201955459.jpg" alt="Keep Your Old Laptop Alive by Installing ChromeOS Flex" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-to-install-chromeos-flex/" target="_blank">Keep Your Old Laptop Alive by Installing ChromeOS Flex</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-28 11:30</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/soham0047/how-to-build-recommendations-that-connect-across-movies-music-books-and-art-bmg" target="_blank">How to Build Recommendations That Connect Across Movies, Music, Books, and Art</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-28 17:52</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/GraalVM-Non-Java-Future" target="_blank">Oracle&#x27;s GraalVM To Shift Focus To Non-Java Languages Like Python &amp; JavaScript</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-28 17:07</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -203,24 +222,6 @@
                 <span class="time">2025-09-28 14:47</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feai0t4v3ilg77uo66604.png" alt="Dev Log #1 — Mirage / Apate: Field Notes from the First Brick" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/hrisheekesh_pv_cc89484f09/dev-log-1-mirage-apate-field-notes-from-the-first-brick-3c91" target="_blank">Dev Log #1 — Mirage / Apate: Field Notes from the First Brick</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-28 13:57</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.18-AMD-CPUs" target="_blank">Linux 6.18 To Deliver Many Notable Features For AMD CPUs</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-28 13:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
@@ -233,6 +234,15 @@
                 <span class="title"><a href="https://gizmodo.com/fornite-ditches-peacemaker-emote-after-the-shows-big-reveal-2000664740" target="_blank">‘Fortnite’ Ditches ‘Peacemaker’ Emote After the Show’s Big Reveal</a></span>
                 <span class="feed">Gizmodo</span>
                 <span class="time">2025-09-28 16:33</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2025/09/lego-box-two-pack.jpg" alt="This Huge Box of 1,600 LEGO Bricks Is Selling at a Record Low Price, Black Friday Has Come Early" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/this-huge-box-of-1600-lego-bricks-is-selling-at-a-record-low-price-black-friday-has-come-early-2000629661" target="_blank">This Huge Box of 1,600 LEGO Bricks Is Selling at a Record Low Price, Black Friday Has Come Early</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-28 15:08</span>
             </div>
         </div>
 <div class="story">
@@ -271,22 +281,13 @@
                 <span class="time">2025-09-27 21:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/wwe-drew-mcintyre-1280x853.jpg" alt="WWE’s Drew McIntyre Will Be Henry Cavill’s ‘Highlander’ Brother" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/wwes-drew-mcintyre-will-be-henry-cavills-highlander-brother-2000664407" target="_blank">WWE’s Drew McIntyre Will Be Henry Cavill’s ‘Highlander’ Brother</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-27 20:15</span>
-            </div>
-        </div>
 </div>
 </div>
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 264 |
-        🔄 Last Updated: 17:01 UTC
+        📊 Displayed: 24 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 18:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
