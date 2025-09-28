@@ -1,31 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-28 04:01:39 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-28 05:01:54 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Dinosaur Comics -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Associated Press Breaking -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: The Verge -->
 <!-- Processing: O'Reilly Radar -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Dev.to -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Boing Boing -->
-<!-- Generated 2 new posts out of 22 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 3 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, September 28, 2025 - 04:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, September 28, 2025 - 05:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +48,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/28/nx-s1-5519752/wyoming-town-erects-new-monument-to-violent-anti-immigrant-history" target="_blank">Wyoming town erects new monument to violent, anti-immigrant history</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-28 04:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,15 +100,6 @@
                 <span class="title"><a href="https://www.aljazeera.com/news/2025/9/28/russia-ukraine-war-list-of-key-events-day-1312?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,312</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-28 00:37</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2025-09/09272025-donald-trump-RM-f5dda3.jpg" alt="Trump to meet with top congressional leaders as a government shutdown looms" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/politics/politics-news/trump-top-congressional-leaders-government-shutdown-looms-rcna234137" target="_blank">Trump to meet with top congressional leaders as a government shutdown looms</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-28 00:00</span>
             </div>
         </div>
 </div>
@@ -163,6 +170,15 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/taku25/title-how-i-adapted-my-custom-parser-for-the-new-nvim-treesitter-main-branch-57l7" target="_blank">Title: How I Adapted My Custom Parser for the New nvim-treesitter `main` Branch</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-28 04:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/programadriano/streams-de-dados-processamento-de-informacoes-em-tempo-real-2ccm" target="_blank">Streams de Dados: Processamento de Informações em Tempo Real</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-28 00:44</span>
@@ -202,15 +218,6 @@
                 <span class="title"><a href="https://dev.to/xam/kendopuzzle-learn-by-playing-1on7" target="_blank">KendoPuzzle - Learn by Playing</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-27 19:56</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/aliibrahim123/neocomp-new-framework-with-a-new-paradigm-1b6f" target="_blank">NeoComp: new framework with a new paradigm</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-27 18:54</span>
             </div>
         </div>
 </div>
@@ -300,8 +307,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 266 |
-        🔄 Last Updated: 04:01 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 80 | 📡 Total Sources: 41 | 📸 With Images: 266 |
+        🔄 Last Updated: 05:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
