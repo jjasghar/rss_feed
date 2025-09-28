@@ -1,40 +1,37 @@
-<!-- Processing 54 RSS feeds at 2025-09-28 11:01:35 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-28 12:02:30 UTC -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
-<!-- Processing: Questionable Content -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
 <!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
 <!-- Processing: O'Reilly Radar -->
-<!-- Processing: Slashdot -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: GitLab Blog -->
 <!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
-<!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Gizmodo -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 31 feeds processed -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 3 new posts out of 28 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, September 28, 2025 - 11:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Sunday, September 28, 2025 - 12:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -113,6 +110,24 @@
             
             <div class="story-content">
                 <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/column/785975/hollywood-ai-stepback" target="_blank">How generative AI boosters are trying to break into Hollywood</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-28 12:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68d6cfd64e729ea8b5308ebc/master/pass/chrome-old-laptop-gear-1201955459.jpg" alt="Keep Your Old Laptop Alive by Installing ChromeOS Flex" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-to-install-chromeos-flex/" target="_blank">Keep Your Old Laptop Alive by Installing ChromeOS Flex</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-28 11:30</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
                 <span class="title"><a href="https://www.theverge.com/news/787023/martin-shkreli-sued-for-copying-wu-tang-clan-record" target="_blank">Martin Shkreli can be sued for copying Wu-Tang’s one-of-a-kind record</a></span>
                 <span class="feed">The Verge</span>
                 <span class="time">2025-09-27 21:27</span>
@@ -145,24 +160,6 @@
                 <span class="time">2025-09-27 17:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/tech/786564/nintendo-switch-2-easysmx-controller-oneplus-watch-3-deal-sale" target="_blank">Switch 2 controllers and the OnePlus Watch 3 top our list of the best deals this week</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-27 16:09</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/27/trump-demands-microsoft-fire-global-affairs-head-lisa-monaco/" target="_blank">Trump demands Microsoft fire global affairs head Lisa Monaco</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-27 15:24</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
@@ -184,6 +181,15 @@
                 <span class="title"><a href="https://www.infoq.com/news/2025/09/linkerd-cost-savings/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Imagine Learning Highlights Linkerd’s Role in Cloud-Native Scale and Cost Savings</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-09-28 09:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://ashvardanian.com/posts/beyond-openmp-in-cpp-rust/" target="_blank">Beyond OpenMP in C++ and Rust: Taskflow, Rayon, Fork Union</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-28 08:53</span>
             </div>
         </div>
 <div class="story">
@@ -211,15 +217,6 @@
                 <span class="title"><a href="https://dev.to/programadriano/streams-de-dados-processamento-de-informacoes-em-tempo-real-2ccm" target="_blank">Streams de Dados: Processamento de Informações em Tempo Real</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-28 00:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-15.0-Alpha-4" target="_blank">FreeBSD 15.0 Alpha 4 Will Now Install pkg From Release Media</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-28 00:16</span>
             </div>
         </div>
 </div>
@@ -300,8 +297,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 81 | 📡 Total Sources: 42 | 📸 With Images: 263 |
-        🔄 Last Updated: 11:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 12:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
