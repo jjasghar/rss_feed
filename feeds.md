@@ -1,40 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-09-28 14:01:22 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-28 15:01:40 UTC -->
 <!-- Processing: XKCD -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Garfield -->
 <!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC World News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters Top News -->
 <!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitLab Blog -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: InfoQ -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Kotaku -->
+<!-- Processing: DZone -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 6 new posts out of 31 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 6 new posts out of 32 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Sunday, September 28, 2025 - 14:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, September 28, 2025 - 15:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -78,6 +79,15 @@
             </div>
         </div>
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/28/nx-s1-5555911/maines-food-pantries-stare-down-volunteer-shortage-while-anticipating-cuts" target="_blank">Maine&#x27;s food pantries stare down volunteer shortage while anticipating cuts</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-28 10:55</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33b7/live/6b8815d0-9c51-11f0-92db-77261a15b9d2.png" alt="Keir Starmer calls Reform migrant policy &#x27;racist&#x27; and &#x27;immoral&#x27;" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-flag"></span>
@@ -95,20 +105,29 @@
                 <span class="time">2025-09-28 09:51</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/9/28/live-india-vs-pakistan-2025-asia-cup-final?traffic_source=rss" target="_blank">LIVE: India vs Pakistan – Asia Cup 2025 final</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-28 09:35</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/28/lootlock-protects-kids-from-overspending-on-gaming-and-will-be-presenting-at-techcrunch-disrupt-2025/" target="_blank">Lootlock protects kids from overspending on gaming and will be presenting at TechCrunch Disrupt 2025</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-28 15:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media.wired.com/photos/68d6c5f0b32b59c02c042edf/master/pass/Nepal_Youtuber-10.jpg" alt="How a Travel YouTuber Captured Nepal’s Revolution for the World" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-bolt"></span>
+                <span class="title"><a href="https://www.wired.com/story/how-a-travel-youtuber-captured-nepals-revolution-for-the-world/" target="_blank">How a Travel YouTuber Captured Nepal’s Revolution for the World</a></span>
+                <span class="feed">WIRED</span>
+                <span class="time">2025-09-28 14:40</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/688421c8d632f582759c6e56/master/pass/The%20Best%20Noise-Canceling%20Headphones.png" alt="Best Noise-Canceling Headphones: Sony, Bose, Apple, and More" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -145,29 +164,20 @@
                 <span class="time">2025-09-28 11:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/moo2-diplomacy-500x500.jpg" alt="30 years later, I’m still obliterating planets in Master of Orion II—and you can, too" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gaming/2025/09/30-years-later-im-still-obliterating-planets-in-master-of-orion-ii-and-you-can-too/" target="_blank">30 years later, I’m still obliterating planets in Master of Orion II—and you can, too</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-28 11:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-laptop"></span>
-                <span class="title"><a href="https://www.theverge.com/news/787023/martin-shkreli-sued-for-copying-wu-tang-clan-record" target="_blank">Martin Shkreli can be sued for copying Wu-Tang’s one-of-a-kind record</a></span>
-                <span class="feed">The Verge</span>
-                <span class="time">2025-09-27 21:27</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxryyybx9i7n6uskriwuz.png" alt="How to Use the CSS aspect-ratio Property for Responsive Layouts" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/j3rry320/how-to-use-the-css-aspect-ratio-property-for-responsive-layouts-20pd" target="_blank">How to Use the CSS aspect-ratio Property for Responsive Layouts</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-28 14:47</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feai0t4v3ilg77uo66604.png" alt="Dev Log #1 — Mirage / Apate: Field Notes from the First Brick" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -213,20 +223,20 @@
                 <span class="time">2025-09-28 10:52</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/linkerd-cost-savings/en/headerimage/header-1758900675735.jpeg" alt="Imagine Learning Highlights Linkerd’s Role in Cloud-Native Scale and Cost Savings" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/linkerd-cost-savings/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Imagine Learning Highlights Linkerd’s Role in Cloud-Native Scale and Cost Savings</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-28 09:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/007-goldeneye-1280x853.jpg" alt="‘GoldenEye’ is Coming Back to Theaters Next Week" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/goldeneye-is-coming-back-to-theaters-next-week-2000664731" target="_blank">‘GoldenEye’ is Coming Back to Theaters Next Week</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-28 14:30</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Xiaomi-Buds-5-Pro-XPAN-1-1280x853.jpg" alt="This Wireless Tech Could Fix the Most Annoying Thing About Using Wireless Earbuds at Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,15 +282,6 @@
                 <span class="time">2025-09-27 18:50</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/black-knight-tartakovsky-1280x853.jpg" alt="Genndy Tartakovsky Wants Help Getting His ‘Black Knight’ Film Made" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/genndy-tartakovsky-wants-help-getting-his-black-knight-film-made-2000664378" target="_blank">Genndy Tartakovsky Wants Help Getting His ‘Black Knight’ Film Made</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-27 16:25</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -300,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 41 | 📸 With Images: 263 |
-        🔄 Last Updated: 14:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 79 | 📡 Total Sources: 41 | 📸 With Images: 264 |
+        🔄 Last Updated: 15:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
