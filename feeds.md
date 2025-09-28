@@ -1,33 +1,36 @@
-<!-- Processing 54 RSS feeds at 2025-09-28 00:04:56 UTC -->
-<!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Questionable Content -->
+<!-- Processing 54 RSS feeds at 2025-09-28 01:29:26 UTC -->
+<!-- Processing: XKCD -->
+<!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Cyanide & Happiness -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
-<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
 <!-- Processing: TechCrunch -->
-<!-- Processing: O'Reilly Radar -->
+<!-- Processing: The Verge -->
+<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
+<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
+<!-- Processing: InfoQ -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
 <!-- Processing: Schneier on Security -->
-<!-- Generated 2 new posts out of 25 feeds processed -->
+<!-- Generated 5 new posts out of 27 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, September 28, 2025 - 00:05 UTC</div>
+    <h1 class="newspaper-title">📰 The Update Universe</h1>
+    <div class="newspaper-date">Sunday, September 28, 2025 - 01:29 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +46,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/28/russia-ukraine-war-list-of-key-events-day-1312?traffic_source=rss" target="_blank">Russia-Ukraine war: List of key events, day 1,312</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-28 00:37</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/27/nx-s1-5555467/wife-of-immigrant-injured-at-dallas-ice-facility-shooting-speaks-out" target="_blank">&#x27;I want his name to be known:&#x27; Wife of immigrant injured at ICE facility shooting speaks out</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-27 23:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -79,29 +100,20 @@
                 <span class="time">2025-09-27 19:22</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/27/nx-s1-5555345/tropical-storm-south-carolina-hurricane" target="_blank">Southeast U.S. braces for heavy rains from a potential tropical storm</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-27 19:02</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-russia-lavrov-putin_7034121.jpg?20250927195425" alt="Sergei Lavrov warns NATO and EU countries over &#x27;aggression&#x27; towards Russia" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/sergei-lavrov-warns-nato-and-eu-countries-over-aggression-towards-russia-13439812" target="_blank">Sergei Lavrov warns NATO and EU countries over &#x27;aggression&#x27; towards Russia</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-27 18:51</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/787023/martin-shkreli-sued-for-copying-wu-tang-clan-record" target="_blank">Martin Shkreli can be sued for copying Wu-Tang’s one-of-a-kind record</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-27 21:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media.wired.com/photos/68d76c84151542fbb845dd00/master/pass/Review-%20Factor%20Protein%20Plus%20Meals.png" alt="Factor Protein Plus Meals Review (2025): Filling, Not Fattening" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -147,20 +159,29 @@
                 <span class="time">2025-09-27 15:24</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d753aa589429b92c5403bf/master/pass/The%20Best%20Body%20Pillows%20for%20Side%20Sleepers.png" alt="The Best Body Pillow, Tested and Reviewed (2025)" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/gallery/best-body-pillow/" target="_blank">The Best Body Pillow, Tested and Reviewed (2025)</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-27 14:32</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/programadriano/streams-de-dados-processamento-de-informacoes-em-tempo-real-2ccm" target="_blank">Streams de Dados: Processamento de Informações em Tempo Real</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-28 00:44</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/FreeBSD-15.0-Alpha-4" target="_blank">FreeBSD 15.0 Alpha 4 Will Now Install pkg From Release Media</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-28 00:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -195,24 +216,6 @@
                 <span class="title"><a href="https://dev.to/aliibrahim123/neocomp-new-framework-with-a-new-paradigm-1b6f" target="_blank">NeoComp: new framework with a new paradigm</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-27 18:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kaustubhyerkade/whats-in-new-kubernetes-v134-of-wind-will-22b0" target="_blank">What&#x27;s in new Kubernetes v1.34 Of Wind &amp; Will</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-27 17:49</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://matduggan.com/greenland-is-a-beautiful-nightmare/" target="_blank">Greenland Is a Beautiful Nightmare</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-27 15:46</span>
             </div>
         </div>
 </div>
@@ -302,8 +305,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 74 | 📡 Total Sources: 42 | 📸 With Images: 268 |
-        🔄 Last Updated: 00:05 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 76 | 📡 Total Sources: 42 | 📸 With Images: 265 |
+        🔄 Last Updated: 01:29 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
