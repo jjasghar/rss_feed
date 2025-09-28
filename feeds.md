@@ -1,34 +1,31 @@
-<!-- Processing 54 RSS feeds at 2025-09-28 09:01:36 UTC -->
-<!-- Processing: XKCD -->
+<!-- Processing 54 RSS feeds at 2025-09-28 10:01:46 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Poorly Drawn Lines -->
-<!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: Dinosaur Comics -->
 <!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: CBC News -->
 <!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: ABC News Breaking -->
+<!-- Processing: NBC News Breaking -->
+<!-- Processing: Sky News World -->
+<!-- Processing: TechCrunch -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Hacker News -->
 <!-- Processing: StackOverflow Blog -->
-<!-- Processing: It's FOSS -->
-<!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
-<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
-<!-- Processing: Kotaku -->
-<!-- Generated 1 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 5 new posts out of 22 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Sunday, September 28, 2025 - 09:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Sunday, September 28, 2025 - 10:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -44,6 +41,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e0c/live/0796d830-9c48-11f0-b741-177e3e2c2fc7.jpg" alt="Zelensky condemns &#x27;vile&#x27; Russian strikes lasting 12 hours" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c75qeqr5905o?at_medium=RSS&at_campaign=rss" target="_blank">Zelensky condemns &#x27;vile&#x27; Russian strikes lasting 12 hours</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-28 09:51</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/sports/liveblog/2025/9/28/live-india-vs-pakistan-2025-asia-cup-final?traffic_source=rss" target="_blank">LIVE: India vs Pakistan – Asia Cup 2025 final</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-28 09:35</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -78,24 +93,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/28/nx-s1-5555871/stampede-political-rally-actor-vijay-india-kills-36" target="_blank">Stampede at a political rally for popular actor Vijay in southern India kills 36, injures 40</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-28 06:39</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/28/poland-briefly-closes-airspace-as-nato-increases-presence-in-the-baltic-sea?traffic_source=rss" target="_blank">Poland briefly closes airspace as NATO increases presence in the Baltic Sea</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-28 05:46</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://e3.365dm.com/25/09/1920x1080/skynews-ukraine-underground_7034434.jpg?20250928063705" alt="Russia launches massive attack on Kyiv - as Poland scrambles jets and closes airspace" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-satellite"></span>
-                <span class="title"><a href="https://news.sky.com/story/russia-launches-massive-attack-on-kyiv-as-poland-scrambles-jets-and-closes-airspace-13439999" target="_blank">Russia launches massive attack on Kyiv - as Poland scrambles jets and closes airspace</a></span>
-                <span class="feed">World News - Breaking international news and headlines | Sky News</span>
-                <span class="time">2025-09-28 05:13</span>
             </div>
         </div>
 </div>
@@ -163,6 +160,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/09/linkerd-cost-savings/en/headerimage/header-1758900675735.jpeg" alt="Imagine Learning Highlights Linkerd’s Role in Cloud-Native Scale and Cost Savings" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/linkerd-cost-savings/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Imagine Learning Highlights Linkerd’s Role in Cloud-Native Scale and Cost Savings</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-28 09:00</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -207,20 +213,20 @@
                 <span class="time">2025-09-27 22:36</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://res.infoq.com/news/2025/09/clickhouse-llm-sre-report/en/headerimage/generatedHeaderImage-1759009722588.jpg" alt="Report Finds LLMs Not Yet Ready to Replace SREs in Incident Management" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-info-circle"></span>
-                <span class="title"><a href="https://www.infoq.com/news/2025/09/clickhouse-llm-sre-report/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Report Finds LLMs Not Yet Ready to Replace SREs in Incident Management</a></span>
-                <span class="feed">InfoQ</span>
-                <span class="time">2025-09-27 22:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/Xiaomi-Buds-5-Pro-XPAN-1-1280x853.jpg" alt="This Wireless Tech Could Fix the Most Annoying Thing About Using Wireless Earbuds at Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/this-wireless-tech-could-fix-the-most-annoying-thing-about-using-wireless-earbuds-at-home-2000664306" target="_blank">This Wireless Tech Could Fix the Most Annoying Thing About Using Wireless Earbuds at Home</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-28 10:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2023/03/shutterstock_1727243314-e1759007473771.jpg?fit=768%2C703&amp;quality=60&amp;ssl=1" alt="Trump imagines Portland is &quot;war ravaged&quot; as MAGA Mike refuses to seat an elected congressperson" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -266,15 +272,6 @@
                 <span class="time">2025-09-27 16:25</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/The-Ultimate-Microsoft-Office-Professional-2021-for-Windows-1.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="This Microsoft bundle makes your PC the boss (without bossy fees) for a one-time $55" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/27/this-microsoft-bundle-makes-your-pc-the-boss-without-bossy-fees-for-a-one-time-55.html" target="_blank">This Microsoft bundle makes your PC the boss (without bossy fees) for a one-time $55</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-27 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -294,8 +291,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 77 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 09:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 80 | 📡 Total Sources: 42 | 📸 With Images: 263 |
+        🔄 Last Updated: 10:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
