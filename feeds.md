@@ -1,30 +1,41 @@
-<!-- Processing 54 RSS feeds at 2025-09-28 22:01:47 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-28 23:01:33 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
+<!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
 <!-- Processing: NPR News -->
-<!-- Processing: CBC News -->
-<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: The Verge -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: Lobsters Python -->
 <!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
+<!-- Processing: StackOverflow Blog -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Martin Fowler -->
+<!-- Processing: Coding Horror -->
+<!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 21 feeds processed -->
+<!-- Processing: Schneier on Security -->
+<!-- Generated 4 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
-    <div class="newspaper-date">Sunday, September 28, 2025 - 22:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Info Gazette</h1>
+    <div class="newspaper-date">Sunday, September 28, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -40,6 +51,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/video/inside-story/2025/9/28/whats-the-fallout-from-the-latest-un-sanctions-on-iran?traffic_source=rss" target="_blank">What’s the fallout from the latest UN sanctions on Iran?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-28 22:26</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,20 +105,29 @@
                 <span class="time">2025-09-28 18:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/28/nx-s1-5555995/ryder-cup-emcee-jeering-fans" target="_blank">Ryder Cup MC steps down over foul-mouthed chant aimed at golfer Rory McIlroy</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-28 18:44</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/28/oura-ceo-talks-potential-ipo-and-nonnegotiable-data-privacy/" target="_blank">Oura CEO talks potential IPO and ‘nonnegotiable’ data privacy</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-28 22:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-laptop"></span>
+                <span class="title"><a href="https://www.theverge.com/news/787046/apples-veritas-siri-ai-chatbot" target="_blank">Apple&amp;#8217;s &amp;#8216;Veritas&amp;#8217; chatbot is reportedly an employee-only test of Siri&amp;#8217;s AI upgrades</a></span>
+                <span class="feed">The Verge</span>
+                <span class="time">2025-09-28 21:01</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -135,29 +164,20 @@
                 <span class="time">2025-09-28 16:01</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media.wired.com/photos/68d788ab880360e71157d86c/master/pass/The%20Ultimate%20Quest-%20How%20to%20Choose%20the%20Right%20Gaming%20Laptop.png" alt="How to Choose the Right Gaming Laptop (2025): What You Need to Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-bolt"></span>
-                <span class="title"><a href="https://www.wired.com/story/how-to-buy-a-gaming-laptop/" target="_blank">How to Choose the Right Gaming Laptop (2025): What You Need to Know</a></span>
-                <span class="feed">WIRED</span>
-                <span class="time">2025-09-28 15:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/28/lootlock-protects-kids-from-overspending-on-gaming-and-will-be-presenting-at-techcrunch-disrupt-2025/" target="_blank">Lootlock protects kids from overspending on gaming and will be presenting at TechCrunch Disrupt 2025</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-28 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://i0.wp.com/www.omgubuntu.co.uk/wp-content/uploads/2025/09/kernel-6.17-newspaper-graphic.jpg?resize=406%2C232&amp;ssl=1" alt="Linux Kernel 6.17 Released, This is What’s New" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-ubuntu"></span>
+                <span class="title"><a href="https://www.omgubuntu.co.uk/2025/09/linux-kernel-6-17-new-features" target="_blank">Linux Kernel 6.17 Released, This is What’s New</a></span>
+                <span class="feed">OMG! Ubuntu</span>
+                <span class="time">2025-09-28 22:15</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -201,15 +221,6 @@
                 <span class="title"><a href="https://dev.to/soham0047/how-to-build-recommendations-that-connect-across-movies-music-books-and-art-bmg" target="_blank">How to Build Recommendations That Connect Across Movies, Music, Books, and Art</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-28 17:52</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-linux"></span>
-                <span class="title"><a href="https://www.phoronix.com/news/GraalVM-Non-Java-Future" target="_blank">Oracle&#x27;s GraalVM To Shift Focus To Non-Java Languages Like Python &amp; JavaScript</a></span>
-                <span class="feed">Phoronix</span>
-                <span class="time">2025-09-28 17:07</span>
             </div>
         </div>
 </div>
@@ -290,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
