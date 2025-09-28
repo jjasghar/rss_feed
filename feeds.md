@@ -1,33 +1,30 @@
-<!-- Processing 54 RSS feeds at 2025-09-28 21:01:36 UTC -->
-<!-- Processing: Penny Arcade -->
-<!-- Processing: Cyanide & Happiness -->
+<!-- Processing 54 RSS feeds at 2025-09-28 22:01:47 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Garfield -->
+<!-- Processing: Dilbert -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: BBC Breaking News -->
 <!-- Processing: NPR News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
 <!-- Processing: Reuters World News -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
-<!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
+<!-- Processing: Slashdot -->
 <!-- Processing: Hacker News -->
+<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Ubuntu Blog -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: Kotaku -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 3 new posts out of 25 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 21 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Digital Dispatch</h1>
-    <div class="newspaper-date">Sunday, September 28, 2025 - 21:01 UTC</div>
+    <h1 class="newspaper-title">📰 The Tech Tribune</h1>
+    <div class="newspaper-date">Sunday, September 28, 2025 - 22:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +40,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/28/nx-s1-5556028/stowaway-american-airlines-flight-charlotte" target="_blank">Stowaway found dead in landing gear of American Airlines flight in Charlotte</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-28 21:48</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1759094532628_nbc_spec_2dead_michshoot_250928_1920x1080-rn7e7g.jpg" alt="Michigan church shooting leaves 2 people dead, 8 injured" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/michigan-church-shooting-leaves-at-least-2-dead-multiple-injured-248543813638" target="_blank">Michigan church shooting leaves 2 people dead, 8 injured</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-28 21:22</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://s.abcnews.com/images/US/michigan-church-shooting-hd-bh-250928_1759077051681_hpMain_4x3t_384.jpg" alt="At least 10 shot, 2 fatally, at Michigan church set on fire by the gunman: Police" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -77,24 +92,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/28/nx-s1-5555995/ryder-cup-emcee-jeering-fans" target="_blank">Ryder Cup MC steps down over foul-mouthed chant aimed at golfer Rory McIlroy</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-28 18:44</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/28/new-york-city-mayor-eric-adams-says-he-wont-seek-re-election?traffic_source=rss" target="_blank">New York City Mayor Eric Adams says he won’t seek re-election</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-28 17:54</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/fact-check/2025/9/28/the-truth-about-netanyahus-unga-speech?traffic_source=rss" target="_blank">The Truth About Netanyahu’s UNGA Speech</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-28 17:49</span>
             </div>
         </div>
 </div>
@@ -164,6 +161,24 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/bob_packer_7c9018a4d1a1f1/how-to-choose-the-right-technology-stack-for-mini-casino-game-development-1lb2" target="_blank">How to Choose The Right Technology Stack for Mini Casino Game Development</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-28 21:39</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-y"></span>
+                <span class="title"><a href="https://demian.ferrei.ro/snake/" target="_blank">Play snake in the URL address bar</a></span>
+                <span class="feed">Hacker News</span>
+                <span class="time">2025-09-28 21:08</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-linux"></span>
                 <span class="title"><a href="https://www.phoronix.com/news/Bcachefs-DKMS-Announcement" target="_blank">Bcachefs Announces First-Tier Arch &amp; NixOS Support, Post-Experimental Release EOY</a></span>
                 <span class="feed">Phoronix</span>
@@ -195,24 +210,6 @@
                 <span class="title"><a href="https://www.phoronix.com/news/GraalVM-Non-Java-Future" target="_blank">Oracle&#x27;s GraalVM To Shift Focus To Non-Java Languages Like Python &amp; JavaScript</a></span>
                 <span class="feed">Phoronix</span>
                 <span class="time">2025-09-28 17:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/kuldeep_paul/5-best-llm-gateways-for-scaling-ai-applications-in-2025-1jmh" target="_blank">5 Best LLM Gateways for Scaling AI Applications in 2025</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-28 16:59</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap" target="_blank">The AI coding trap</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-28 15:43</span>
             </div>
         </div>
 </div>
@@ -293,8 +290,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 21:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 84 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 22:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
