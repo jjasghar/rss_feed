@@ -1,40 +1,38 @@
-<!-- Processing 54 RSS feeds at 2025-09-28 18:02:02 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-28 19:01:21 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
 <!-- Processing: Dilbert -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Girl Genius -->
 <!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters World News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: WIRED -->
-<!-- Processing: Slashdot -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters Top News -->
+<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Guardian World News -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Lobsters Python -->
+<!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
+<!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Martin Fowler -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 9 new posts out of 32 feeds processed -->
+<!-- Generated 6 new posts out of 29 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Daily Scoop</h1>
-    <div class="newspaper-date">Sunday, September 28, 2025 - 18:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Info Ink Daily</h1>
+    <div class="newspaper-date">Sunday, September 28, 2025 - 19:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -50,6 +48,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f76b/live/b72b1700-9c95-11f0-928c-71dbb8619e94.jpg" alt="At least one dead and nine injured in shooting at Mormon church in Michigan" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss" target="_blank">At least one dead and nine injured in shooting at Mormon church in Michigan</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-28 18:57</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/28/new-york-city-mayor-eric-adams-says-he-wont-seek-re-election?traffic_source=rss" target="_blank">New York City Mayor Eric Adams says he won’t seek re-election</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-28 17:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -84,24 +100,6 @@
                 <span class="title"><a href="https://www.npr.org/2025/09/28/nx-s1-5555970/multiple-people-shot-mormon-church-michigan-shooter-down" target="_blank">1 person dead and 9 injured in shooting at Michigan church, police say</a></span>
                 <span class="feed">NPR Topics: News</span>
                 <span class="time">2025-09-28 16:15</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/28/nx-s1-5555970/multiple-people-shot-mormon-church-michigan-shooter-down" target="_blank">Multiple people shot at Mormon church in Michigan and shooter is down, police say</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-28 16:15</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1759075599073_nbc_spec_michigan_church_shooting_250928_1920x1080-ygbk9v.jpg" alt="Special Report: Multiple people injured following Michigan church shooting" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-broadcast-tower"></span>
-                <span class="title"><a href="https://www.nbcnews.com/video/multiple-people-injured-following-michigan-church-shooting-248536133751" target="_blank">Special Report: Multiple people injured following Michigan church shooting</a></span>
-                <span class="feed">NBC News Top Stories</span>
-                <span class="time">2025-09-28 16:06</span>
             </div>
         </div>
 </div>
@@ -169,6 +167,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbsrze706jv16iesz9npu.png" alt="Building a Serverless Dungeon Master Agent on AWS" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aws-builders/building-a-serverless-dungeon-master-agent-on-aws-3j7k" target="_blank">Building a Serverless Dungeon Master Agent on AWS</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-28 18:52</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -213,20 +220,20 @@
                 <span class="time">2025-09-28 15:18</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxryyybx9i7n6uskriwuz.png" alt="How to Use the CSS aspect-ratio Property for Responsive Layouts" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/j3rry320/how-to-use-the-css-aspect-ratio-property-for-responsive-layouts-20pd" target="_blank">How to Use the CSS aspect-ratio Property for Responsive Layouts</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-28 14:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/stranger-things-duffers-1280x853.jpg" alt="The ‘Stranger Things’ Brothers Tease Their Paramount Plans" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/the-stranger-things-brothers-tease-their-paramount-plans-2000664734" target="_blank">The ‘Stranger Things’ Brothers Tease Their Paramount Plans</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-28 18:50</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/Peacemaker-John-Cena-DC-Studios-1280x853.jpg" alt="‘Fortnite’ Ditches ‘Peacemaker’ Emote After the Show’s Big Reveal" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -272,13 +279,18 @@
                 <span class="time">2025-09-27 21:12</span>
             </div>
         </div>
+</div>
+</div>
+<div class="news-section webcomics-section" id="webcomics">
+<h2 class="section-header">🎨 Daily Comics</h2>
+<div class="stories-container">
 <div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/DVDneXtCOPY-DVD-Ripper.jpg?fit=2250%2C1500&amp;quality=60&amp;ssl=1" alt="Say RIP to those bulky DVDs with this $30 digitizing ripper software" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <img src="https://www.smbc-comics.com/comics/1758680304-20250928.png" alt="Saturday Morning Breakfast Cereal - Trust" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/27/say-rip-to-those-bulky-dvds-with-this-30-digitizing-ripper-software.html" target="_blank">Say RIP to those bulky DVDs with this $30 digitizing ripper software</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-27 21:00</span>
+                <span class="fa fa-fw fa-smile"></span>
+                <span class="title"><a href="https://www.smbc-comics.com/comic/trust-3" target="_blank">Saturday Morning Breakfast Cereal - Trust</a></span>
+                <span class="feed">Saturday Morning Breakfast Cereal</span>
+                <span class="time">2025-09-28 15:20</span>
             </div>
         </div>
 </div>
@@ -286,8 +298,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 24 | 📅 Last 24h: 83 | 📡 Total Sources: 42 | 📸 With Images: 262 |
-        🔄 Last Updated: 18:02 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 262 |
+        🔄 Last Updated: 19:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
