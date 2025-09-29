@@ -1,32 +1,42 @@
-<!-- Processing 54 RSS feeds at 2025-09-29 07:01:57 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-29 08:02:13 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Penny Arcade -->
 <!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
 <!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: ABC News Breaking -->
-<!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Slashdot -->
+<!-- Processing: Sky News World -->
+<!-- Processing: O'Reilly Radar -->
+<!-- Processing: WIRED -->
+<!-- Processing: Lobsters Python -->
+<!-- Processing: Dev.to -->
+<!-- Processing: Phoronix Linux News -->
+<!-- Processing: It's FOSS -->
 <!-- Processing: DistroWatch -->
+<!-- Processing: Red Hat Blog -->
 <!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: InfoQ -->
+<!-- Processing: GitLab Blog -->
 <!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
 <!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Boing Boing -->
-<!-- Processing: Krebs on Security -->
-<!-- Generated 5 new posts out of 24 feeds processed -->
+<!-- Generated 4 new posts out of 33 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
-    <div class="newspaper-date">Monday, September 29, 2025 - 07:02 UTC</div>
+    <h1 class="newspaper-title">📰 The RSS Reporter</h1>
+    <div class="newspaper-date">Monday, September 29, 2025 - 08:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -42,6 +52,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/gallery/2025/9/29/perus-gen-z-rallies-against-president-boluarte?traffic_source=rss" target="_blank">Peru’s Gen Z rallies against President Boluarte</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-29 07:36</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -85,15 +104,6 @@
                 <span class="title"><a href="https://abcnews.go.com/US/gunman-michigan-lds-church-shooting-veteran-iraq-war/story?id=126025402" target="_blank">Gunman in Michigan LDS church shooting was a veteran of the Iraq War</a></span>
                 <span class="feed">ABC News: Top Stories</span>
                 <span class="time">2025-09-29 03:24</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/features/2025/9/29/cruel-joke-how-indian-h-1b-dreams-are-crash-landing-after-trump-fee-hike?traffic_source=rss" target="_blank">‘Cruel joke’: How Indian H-1B dreams are crash landing after Trump fee hike</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-29 03:16</span>
             </div>
         </div>
 </div>
@@ -161,12 +171,30 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/gg_news/ign-top-9-silent-hill-games-5b1o" target="_blank">IGN: Top 9 Silent Hill Games</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-29 08:02</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://res.infoq.com/news/2025/09/apollo-client-4-released/en/headerimage/header-1758999901400.jpg" alt="Apollo GraphQL Client 4.0 Released with Leaner Bundles and Strengthened TypeScript Safety" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-info-circle"></span>
                 <span class="title"><a href="https://www.infoq.com/news/2025/09/apollo-client-4-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Apollo GraphQL Client 4.0 Released with Leaner Bundles and Strengthened TypeScript Safety</a></span>
                 <span class="feed">InfoQ</span>
                 <span class="time">2025-09-29 07:00</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Rust-Linux-6.18" target="_blank">A Lot Of Rust Code Lining Up For The Linux 6.18 Kernel</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-29 06:00</span>
             </div>
         </div>
 <div class="story">
@@ -194,24 +222,6 @@
                 <span class="title"><a href="https://dev.to/hung____/aws-agent-built-with-strand-agent-framework-and-deployed-to-bedrock-agentcore-3h24" target="_blank">AWS Agent built with Strand Agent framework and deployed to Bedrock Agentcore</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-29 03:53</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7wbjdpbwhi0h494r4eb1.png" alt="📊 Analyzing Manufacturing Downtime: Insights From My Dashboard" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/koinpoin/analyzing-manufacturing-downtime-insights-from-my-dashboard-160c" target="_blank">📊 Analyzing Manufacturing Downtime: Insights From My Dashboard</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-29 03:07</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/jesus_oviedoriquelme_084/mlzc25-05-analisis-exploratorio-de-datos-eda-el-arte-de-descubrir-historias-ocultas-4f7" target="_blank">MLZC25-05. Análisis Exploratorio de Datos (EDA): El Arte de Descubrir Historias Ocultas</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-29 02:11</span>
             </div>
         </div>
 </div>
@@ -279,6 +289,15 @@
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
 <div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/comic/2025/09/29/the-measure-of-man" target="_blank">The Measure Of Man</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-09-29 07:01</span>
+            </div>
+        </div>
+<div class="story">
             <img src="http://www.questionablecontent.net/comics/5667.png" alt="Peer Pressurization" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-music"></span>
@@ -301,8 +320,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 07:02 UTC
+        📊 Displayed: 27 | 📅 Last 24h: 99 | 📡 Total Sources: 42 | 📸 With Images: 259 |
+        🔄 Last Updated: 08:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
