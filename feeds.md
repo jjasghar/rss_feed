@@ -1,41 +1,40 @@
-<!-- Processing 54 RSS feeds at 2025-09-28 23:01:33 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-29 00:04:53 UTC -->
 <!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
-<!-- Processing: Penny Arcade -->
 <!-- Processing: Poorly Drawn Lines -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Top Stories -->
-<!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
-<!-- Processing: NPR News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Dilbert -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: CNN Breaking News -->
+<!-- Processing: BBC World News -->
+<!-- Processing: CBC News -->
+<!-- Error processing https://rss.cbc.ca/lineup/topstories.xml: The read operation timed out -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
-<!-- Processing: Guardian World News -->
 <!-- Processing: TechCrunch -->
 <!-- Processing: The Verge -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: StackOverflow Blog -->
+<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
+<!-- Processing: DistroWatch -->
+<!-- Processing: Linux.com -->
+<!-- Processing: GitHub Blog -->
 <!-- Processing: GitLab Blog -->
-<!-- Processing: InfoQ -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
 <!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Kotaku -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Boing Boing -->
 <!-- Processing: Krebs on Security -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 4 new posts out of 33 feeds processed -->
+<!-- Generated 3 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Info Gazette</h1>
-    <div class="newspaper-date">Sunday, September 28, 2025 - 23:01 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, September 29, 2025 - 00:05 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -51,6 +50,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/mpx/2704722219/2025_09/1759101359727_wnn_abr_deadly_michigan_shooting_250928_1920x1080-nnx2rn.jpg" alt="2 dead, 8 injured in deadly Michigan church attack" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-broadcast-tower"></span>
+                <span class="title"><a href="https://www.nbcnews.com/video/2-dead-8-injured-in-deadly-michigan-church-attack-248545349682" target="_blank">2 dead, 8 injured in deadly Michigan church attack</a></span>
+                <span class="feed">NBC News Top Stories</span>
+                <span class="time">2025-09-28 23:16</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -94,15 +102,6 @@
                 <span class="title"><a href="https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss" target="_blank">At least two dead and several injured in shooting at Mormon church in Michigan</a></span>
                 <span class="feed">BBC News</span>
                 <span class="time">2025-09-28 19:23</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f76b/live/b72b1700-9c95-11f0-928c-71dbb8619e94.jpg" alt="At least one dead and nine injured in shooting at Mormon church in Michigan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss" target="_blank">At least one dead and nine injured in shooting at Mormon church in Michigan</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-28 18:57</span>
             </div>
         </div>
 </div>
@@ -181,6 +180,15 @@
 <div class="story">
             
             <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/Linux-6.17-Released" target="_blank">Linux 6.17 Released: Intel Panther Lake Xe3 Graphics Ready, New Optimizations</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-28 22:01</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
                 <span class="title"><a href="https://dev.to/bob_packer_7c9018a4d1a1f1/how-to-choose-the-right-technology-stack-for-mini-casino-game-development-1lb2" target="_blank">How to Choose The Right Technology Stack for Mini Casino Game Development</a></span>
                 <span class="feed">DEV Community</span>
@@ -214,20 +222,20 @@
                 <span class="time">2025-09-28 18:52</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/soham0047/how-to-build-recommendations-that-connect-across-movies-music-books-and-art-bmg" target="_blank">How to Build Recommendations That Connect Across Movies, Music, Books, and Art</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-28 17:52</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/silent-hill-f-hed-1280x853.jpg" alt="Konami Believes in ‘Silent Hill f’ So Much, It’s Becoming a Novel" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/konami-believes-in-silent-hill-f-so-much-its-becoming-a-novel-2000664819" target="_blank">Konami Believes in ‘Silent Hill f’ So Much, It’s Becoming a Novel</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-28 20:15</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://gizmodo.com/app/uploads/2025/09/stranger-things-duffers-1280x853.jpg" alt="The ‘Stranger Things’ Brothers Tease Their Paramount Plans" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -273,15 +281,6 @@
                 <span class="time">2025-09-28 14:30</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2025/09/Xiaomi-Buds-5-Pro-XPAN-1-1280x853.jpg" alt="This Wireless Tech Could Fix the Most Annoying Thing About Using Wireless Earbuds at Home" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/this-wireless-tech-could-fix-the-most-annoying-thing-about-using-wireless-earbuds-at-home-2000664306" target="_blank">This Wireless Tech Could Fix the Most Annoying Thing About Using Wireless Earbuds at Home</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-28 10:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
@@ -301,8 +300,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 25 | 📅 Last 24h: 85 | 📡 Total Sources: 42 | 📸 With Images: 260 |
-        🔄 Last Updated: 23:01 UTC
+        📊 Displayed: 25 | 📅 Last 24h: 86 | 📡 Total Sources: 42 | 📸 With Images: 261 |
+        🔄 Last Updated: 00:05 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
