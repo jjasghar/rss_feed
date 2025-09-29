@@ -1,33 +1,26 @@
-<!-- Processing 54 RSS feeds at 2025-09-29 22:01:53 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-29 23:01:51 UTC -->
 <!-- Processing: Poorly Drawn Lines -->
+<!-- Processing: Questionable Content -->
+<!-- Processing: Girl Genius -->
+<!-- Processing: Dinosaur Comics -->
+<!-- Processing: CNN Top Stories -->
+<!-- Processing: CNN Breaking News -->
 <!-- Processing: BBC World News -->
-<!-- Processing: Reuters Top News -->
-<!-- Processing: NBC News Breaking -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
+<!-- Processing: Associated Press Breaking -->
 <!-- Processing: Ars Technica -->
-<!-- Processing: O'Reilly Radar -->
-<!-- Processing: WIRED -->
 <!-- Processing: Slashdot -->
 <!-- Processing: Lobsters Python -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Dev.to -->
 <!-- Processing: Phoronix Linux News -->
-<!-- Processing: DistroWatch -->
-<!-- Processing: Linux.com -->
-<!-- Processing: Red Hat Blog -->
-<!-- Processing: Ubuntu Blog -->
 <!-- Processing: GitHub Blog -->
-<!-- Processing: DZone -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: The Pragmatic Engineer -->
-<!-- Processing: Lifehacker -->
+<!-- Processing: GitLab Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
 <!-- Processing: Krebs on Security -->
-<!-- Generated 11 new posts out of 25 feeds processed -->
+<!-- Generated 7 new posts out of 18 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Byte-Sized Bulletin</h1>
-    <div class="newspaper-date">Monday, September 29, 2025 - 22:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ Fresh Feed Times</h1>
+    <div class="newspaper-date">Monday, September 29, 2025 - 23:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -43,6 +36,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/12c4/live/f082f700-9d73-11f0-92db-77261a15b9d2.jpg" alt="Trump and Netanyahu agree new US peace plan for Gaza" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-earth-americas"></span>
+                <span class="title"><a href="https://www.bbc.com/news/articles/c1dq9xwngv2o?at_medium=RSS&at_campaign=rss" target="_blank">Trump and Netanyahu agree new US peace plan for Gaza</a></span>
+                <span class="feed">BBC News</span>
+                <span class="time">2025-09-29 22:06</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -88,20 +90,20 @@
                 <span class="time">2025-09-29 18:57</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/video/newsfeed/2025/9/29/nurse-shot-in-the-head-while-working-at-gazas-nasser-hospital?traffic_source=rss" target="_blank">Nurse shot in the head while working at Gaza’s Nasser Hospital</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-29 17:47</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/09/firefly_explosion-500x500.jpg" alt="Another setback for Firefly Aerospace’s beleaguered rocket program" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/space/2025/09/after-another-fiery-setback-it-seems-fireflys-alpha-rocket-is-still-in-beta/" target="_blank">Another setback for Firefly Aerospace’s beleaguered rocket program</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-29 22:42</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -147,20 +149,20 @@
                 <span class="time">2025-09-29 19:32</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-500x500-1749567268.jpg" alt="F-Droid says Google’s new sideloading restrictions will kill the project" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-cog"></span>
-                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/f-droid-calls-for-regulators-to-stop-googles-crackdown-on-sideloading/" target="_blank">F-Droid says Google’s new sideloading restrictions will kill the project</a></span>
-                <span class="feed">Ars Technica</span>
-                <span class="time">2025-09-29 19:09</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-linux"></span>
+                <span class="title"><a href="https://www.phoronix.com/news/NVK-Vulkan-Red-Hat-NDA-Docs" target="_blank">NVIDIA Has Been Supplying NDA&#x27;ed Docs To Red Hat For Helping NVK Driver</a></span>
+                <span class="feed">Phoronix</span>
+                <span class="time">2025-09-29 22:03</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6fdtpbmdey6rxr7vuzli.png" alt="A Beginner’s Guide to Big Data Analytics with Apache Spark and PySpark" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -168,6 +170,15 @@
                 <span class="title"><a href="https://dev.to/eric_kahindi_cfbfda3bd0f7/a-beginners-guide-to-big-data-analytics-with-apache-spark-and-pyspark-49f3" target="_blank">A Beginner’s Guide to Big Data Analytics with Apache Spark and PySpark</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-29 21:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://res.infoq.com/news/2025/09/google-stax-ai-evaluation/en/headerimage/google-stax-ai-evaluation-1759177492574.jpeg" alt="Google Stax Aims to Make AI Model Evaluation Accessible for Developers" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/google-stax-ai-evaluation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Google Stax Aims to Make AI Model Evaluation Accessible for Developers</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-29 21:00</span>
             </div>
         </div>
 <div class="story">
@@ -197,24 +208,6 @@
                 <span class="time">2025-09-29 20:00</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://dz2cdn1.dzone.com/thumbnail?fid=18668668&w=600" alt="5 Manual Testing Techniques Every Tester Should Know" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-newspaper"></span>
-                <span class="title"><a href="https://dzone.com/articles/manual-testing-techniques" target="_blank">5 Manual Testing Techniques Every Tester Should Know</a></span>
-                <span class="feed">DZone.com Feed</span>
-                <span class="time">2025-09-29 19:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-code"></span>
-                <span class="title"><a href="https://dev.to/fedtti/even-popos-now-uses-rust-for-its-desktop-environment-4ag5" target="_blank">even Pop!_OS now uses Rust for its desktop environment</a></span>
-                <span class="feed">DEV Community</span>
-                <span class="time">2025-09-29 18:48</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -234,6 +227,15 @@
 <div class="news-section lifestyle-news" id="lifestyle">
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
+<div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/star-trek-the-last-starship-idw-uss-sagan-1280x853.jpg" alt="‘The Last Starship’ Picks Up on Two of the Biggest Missed Opportunities in Modern ‘Star Trek’" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/star-trek-the-last-starship-spoilers-burn-jurati-kirk-2000665210" target="_blank">‘The Last Starship’ Picks Up on Two of the Biggest Missed Opportunities in Modern ‘Star Trek’</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-29 22:00</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://kotaku.com/app/uploads/2025/09/dollarsteam.jpg" alt="Steam’s Massive Fall Sale Is Live And Here Are The Best Deals" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -277,15 +279,6 @@
                 <span class="title"><a href="https://lifehacker.com/money/best-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Deals We’ve Found, All in One Place</a></span>
                 <span class="feed">Lifehacker</span>
                 <span class="time">2025-09-29 20:20</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2020/05/zkfhjyhcx0bvdzhehn3c.jpg" alt="18 Years Later, Disney Announces A New Simpsons Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/18-years-later-disney-announces-the-simpsons-movie-2-sequel-fox-teaser-homer-2000629950" target="_blank">18 Years Later, Disney Announces A New Simpsons Movie</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-29 18:53</span>
             </div>
         </div>
 </div>
@@ -343,8 +336,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 30 | 📅 Last 24h: 134 | 📡 Total Sources: 42 | 📸 With Images: 261 |
-        🔄 Last Updated: 22:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 137 | 📡 Total Sources: 42 | 📸 With Images: 264 |
+        🔄 Last Updated: 23:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
