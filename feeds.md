@@ -1,24 +1,22 @@
-<!-- Processing 54 RSS feeds at 2025-09-29 20:02:26 UTC -->
+<!-- Processing 54 RSS feeds at 2025-09-29 21:01:40 UTC -->
+<!-- Processing: XKCD -->
 <!-- Processing: Saturday Morning Breakfast Cereal -->
 <!-- Processing: Penny Arcade -->
 <!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
-<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
 <!-- Processing: Girl Genius -->
-<!-- Processing: CNN Top Stories -->
 <!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
 <!-- Processing: BBC Breaking News -->
-<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Associated Press Breaking -->
+<!-- Processing: Reuters World News -->
 <!-- Processing: ABC News Breaking -->
 <!-- Processing: Sky News World -->
-<!-- Processing: Lobsters Python -->
+<!-- Processing: TechCrunch -->
+<!-- Processing: Ars Technica -->
+<!-- Processing: O'Reilly Radar -->
 <!-- Processing: Hacker News -->
 <!-- Processing: Dev.to -->
-<!-- Processing: Phoronix Linux News -->
 <!-- Processing: It's FOSS -->
 <!-- Processing: OMG! Ubuntu -->
 <!-- Processing: DistroWatch -->
@@ -27,12 +25,15 @@
 <!-- Processing: GitHub Blog -->
 <!-- Processing: DZone -->
 <!-- Processing: Martin Fowler -->
-<!-- Processing: Coding Horror -->
-<!-- Processing: Schneier on Security -->
-<!-- Generated 6 new posts out of 30 feeds processed -->
+<!-- Processing: The Pragmatic Engineer -->
+<!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
+<!-- Processing: Kotaku -->
+<!-- Processing: Boing Boing -->
+<!-- Generated 11 new posts out of 31 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">📰 The Link Ledger</h1>
-    <div class="newspaper-date">Monday, September 29, 2025 - 20:02 UTC</div>
+    <h1 class="newspaper-title">🗞️ News Nugget Herald</h1>
+    <div class="newspaper-date">Monday, September 29, 2025 - 21:01 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -48,6 +49,15 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/29/nx-s1-5534446/hurricane-helene-tennessee-river-clean-up" target="_blank">A year after Helene, a group of raft guides embarks on a river clean-up mission</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-29 20:28</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -93,20 +103,29 @@
                 <span class="time">2025-09-29 17:45</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-radio"></span>
-                <span class="title"><a href="https://www.npr.org/2025/09/29/nx-s1-5554330/cristela-alonzo-upper-classy" target="_blank">Comic Cristela Alonzo grew up in fear of border patrol. ICE has &#x27;brought it all back&#x27;</a></span>
-                <span class="feed">NPR Topics: News</span>
-                <span class="time">2025-09-29 17:42</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section tech-news" id="tech">
 <h2 class="section-header">💻 Technology</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-microchip"></span>
+                <span class="title"><a href="https://techcrunch.com/2025/09/29/deepseek-everything-you-need-to-know-about-the-ai-chatbot-app/" target="_blank">DeepSeek: Everything you need to know about the AI chatbot app</a></span>
+                <span class="feed">TechCrunch</span>
+                <span class="time">2025-09-29 20:56</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-500x500-1749567268.jpg" alt="F-Droid says Google’s new sideloading restrictions will kill the project" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-cog"></span>
+                <span class="title"><a href="https://arstechnica.com/gadgets/2025/09/f-droid-calls-for-regulators-to-stop-googles-crackdown-on-sideloading/" target="_blank">F-Droid says Google’s new sideloading restrictions will kill the project</a></span>
+                <span class="feed">Ars Technica</span>
+                <span class="time">2025-09-29 19:09</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -143,29 +162,20 @@
                 <span class="time">2025-09-29 17:04</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/29/brave-updates-its-ai-powered-search-with-a-detailed-answers-feature/" target="_blank">Brave updates its AI-powered search with a detailed answers feature</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-29 16:00</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-microchip"></span>
-                <span class="title"><a href="https://techcrunch.com/2025/09/29/trumps-energy-department-forbids-staff-from-saying-climate-change-or-green/" target="_blank">Trump’s Energy Department forbids staff from saying ‘climate change’ or ‘green’</a></span>
-                <span class="feed">TechCrunch</span>
-                <span class="time">2025-09-29 15:00</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section dev-news" id="dev">
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-code"></span>
+                <span class="title"><a href="https://dev.to/aaron_rose_0787cc8b4775a0/the-specialized-archives-defaultdict-counter-and-ordereddict-mah" target="_blank">The Specialized Archives: defaultdict, Counter, and OrderedDict</a></span>
+                <span class="feed">DEV Community</span>
+                <span class="time">2025-09-29 20:48</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -211,15 +221,6 @@
                 <span class="time">2025-09-29 18:00</span>
             </div>
         </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-ubuntu"></span>
-                <span class="title"><a href="https://ubuntu.com//blog/fortifying-security-ubuntu-azure-metadata-security-protocol-msp" target="_blank">Fortifying security for Ubuntu on Azure with Metadata Security Protocol (MSP)</a></span>
-                <span class="feed">Ubuntu blog</span>
-                <span class="time">2025-09-29 17:59</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section security-news" id="security">
@@ -240,6 +241,42 @@
 <h2 class="section-header">🎮 Lifestyle & Culture</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://gizmodo.com/app/uploads/2025/09/One-Battle-After-Another-DiCaprio-Del-Toro-1280x853.jpg" alt="Leonardo DiCaprio on the Surprising ‘Star Wars’ Influences in His New Film" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-computer"></span>
+                <span class="title"><a href="https://gizmodo.com/leonardo-dicaprio-star-wars-one-battle-after-another-2000665211" target="_blank">Leonardo DiCaprio on the Surprising ‘Star Wars’ Influences in His New Film</a></span>
+                <span class="feed">Gizmodo</span>
+                <span class="time">2025-09-29 21:00</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/05/3Ca-href3D22https-commons.wikimedia.org-wiki-File-1.jpg?fit=1080%2C722&amp;quality=60&amp;ssl=1" alt="No goggles. Just your eyes. Watch 3D illusions that feel like magic" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-arrow-right"></span>
+                <span class="title"><a href="https://boingboing.net/2025/09/29/no-goggles-just-your-eyes-watch-3d-illusions-that-feel-like-magic.html" target="_blank">No goggles. Just your eyes. Watch 3D illusions that feel like magic</a></span>
+                <span class="feed">Boing Boing</span>
+                <span class="time">2025-09-29 20:51</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg" alt="Lifehacker Deals Live Blog: The Best Deals We’ve Found, All in One Place" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-life-ring"></span>
+                <span class="title"><a href="https://lifehacker.com/money/best-deals-live-blog?utm_medium=RSS" target="_blank">Lifehacker Deals Live Blog: The Best Deals We’ve Found, All in One Place</a></span>
+                <span class="feed">Lifehacker</span>
+                <span class="time">2025-09-29 20:20</span>
+            </div>
+        </div>
+<div class="story">
+            <img src="https://kotaku.com/app/uploads/2020/05/zkfhjyhcx0bvdzhehn3c.jpg" alt="18 Years Later, Disney Announces A New Simpsons Movie" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://kotaku.com/18-years-later-disney-announces-the-simpsons-movie-2-sequel-fox-teaser-homer-2000629950" target="_blank">18 Years Later, Disney Announces A New Simpsons Movie</a></span>
+                <span class="feed">Kotaku</span>
+                <span class="time">2025-09-29 18:53</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/08/shutterstock-ice-agent-e1758731594394.jpg?fit=600%2C419&amp;quality=60&amp;ssl=1" alt="Delivery cyclist easily escapes the brownshirts" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-arrow-right"></span>
@@ -257,47 +294,20 @@
                 <span class="time">2025-09-29 17:33</span>
             </div>
         </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/bf666.jpg" alt="New Battlefield 6 Trailer Is A Direct Attack Against Call Of Duty" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/new-battlefield-6-trailer-direct-attack-against-call-of-duty-celeb-trailer-skins-ea-2000629910" target="_blank">New Battlefield 6 Trailer Is A Direct Attack Against Call Of Duty</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-29 16:54</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://gizmodo.com/app/uploads/2021/06/b99ec51091260bd3fcc9586891cc4514-1024x575.jpg" alt="Electronic Arts Is Going Private in a $55 Billion Jared Kushner–Saudi Takeover" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-computer"></span>
-                <span class="title"><a href="https://gizmodo.com/electronic-arts-is-going-private-in-a-55-billion-jared-kushner-saudi-takeover-2000665009" target="_blank">Electronic Arts Is Going Private in a $55 Billion Jared Kushner–Saudi Takeover</a></span>
-                <span class="feed">Gizmodo</span>
-                <span class="time">2025-09-29 16:30</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://kotaku.com/app/uploads/2025/09/ally-ebay-main.jpg" alt="Scalpers Are Already Trying To Flip The Xbox Ally X For Twice The Price And It’s Not Even Sold Out Yet" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-gamepad"></span>
-                <span class="title"><a href="https://kotaku.com/xbox-rog-ally-x-price-ebay-asus-microsoft-2000629892" target="_blank">Scalpers Are Already Trying To Flip The Xbox Ally X For Twice The Price And It’s Not Even Sold Out Yet</a></span>
-                <span class="feed">Kotaku</span>
-                <span class="time">2025-09-29 15:58</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://i0.wp.com/boingboing.net/wp-content/uploads/2025/09/image-40-e1759160244801.png?fit=600%2C488&amp;quality=55&amp;ssl=1" alt="US media outlets ignore shooter&#x27;s pro-Trump imagery in favor of &quot;snapped neighbor&quot; narratives" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-arrow-right"></span>
-                <span class="title"><a href="https://boingboing.net/2025/09/29/us-media-outlets-ignore-shooters-pro-trump-imagery-in-favor-of-snapped-neighbor-narratives.html" target="_blank">US media outlets ignore shooter&#x27;s pro-Trump imagery in favor of &quot;snapped neighbor&quot; narratives</a></span>
-                <span class="feed">Boing Boing</span>
-                <span class="time">2025-09-29 15:41</span>
-            </div>
-        </div>
 </div>
 </div>
 <div class="news-section webcomics-section" id="webcomics">
 <h2 class="section-header">🎨 Daily Comics</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-gamepad"></span>
+                <span class="title"><a href="https://www.penny-arcade.com/news/post/2025/09/29/the-measure-of-man" target="_blank">The Measure Of Man</a></span>
+                <span class="feed">Penny Arcade</span>
+                <span class="time">2025-09-29 20:54</span>
+            </div>
+        </div>
 <div class="story">
             
             <div class="story-content">
@@ -339,8 +349,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 29 | 📅 Last 24h: 125 | 📡 Total Sources: 40 | 📸 With Images: 262 |
-        🔄 Last Updated: 20:02 UTC
+        📊 Displayed: 30 | 📅 Last 24h: 131 | 📡 Total Sources: 41 | 📸 With Images: 261 |
+        🔄 Last Updated: 21:01 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
