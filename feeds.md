@@ -1,31 +1,32 @@
-<!-- Processing 54 RSS feeds at 2025-09-29 06:02:29 UTC -->
-<!-- Processing: Garfield -->
-<!-- Processing: Dilbert -->
+<!-- Processing 54 RSS feeds at 2025-09-29 07:01:57 UTC -->
+<!-- Processing: Saturday Morning Breakfast Cereal -->
+<!-- Processing: Cyanide & Happiness -->
 <!-- Processing: Questionable Content -->
-<!-- Processing: Dinosaur Comics -->
-<!-- Processing: CNN Breaking News -->
-<!-- Processing: BBC World News -->
+<!-- Processing: Girl Genius -->
 <!-- Processing: BBC Breaking News -->
+<!-- Processing: Al Jazeera Breaking News -->
+<!-- Processing: NPR News -->
 <!-- Processing: Reuters Top News -->
-<!-- Processing: Reuters World News -->
+<!-- Processing: ABC News Breaking -->
 <!-- Processing: NBC News Breaking -->
 <!-- Processing: Guardian World News -->
-<!-- Processing: Sky News World -->
-<!-- Processing: TechCrunch -->
-<!-- Processing: The Verge -->
 <!-- Processing: Slashdot -->
-<!-- Processing: Hacker News -->
-<!-- Processing: Phoronix Linux News -->
-<!-- Processing: OMG! Ubuntu -->
-<!-- Processing: Red Hat Blog -->
+<!-- Processing: DistroWatch -->
 <!-- Processing: Ubuntu Blog -->
+<!-- Processing: GitHub Blog -->
+<!-- Processing: InfoQ -->
+<!-- Processing: DZone -->
+<!-- Processing: Coding Horror -->
 <!-- Processing: The Pragmatic Engineer -->
 <!-- Processing: Lifehacker -->
+<!-- Processing: Gizmodo -->
 <!-- Processing: Kotaku -->
-<!-- Generated 3 new posts out of 23 feeds processed -->
+<!-- Processing: Boing Boing -->
+<!-- Processing: Krebs on Security -->
+<!-- Generated 5 new posts out of 24 feeds processed -->
 <div class="newspaper-header">
-    <h1 class="newspaper-title">🗞️ Feed Forward Times</h1>
-    <div class="newspaper-date">Monday, September 29, 2025 - 06:02 UTC</div>
+    <h1 class="newspaper-title">📰 The Content Chronicle</h1>
+    <div class="newspaper-date">Monday, September 29, 2025 - 07:02 UTC</div>
     <div class="newspaper-subtitle">Your Personal News Aggregator</div>
 </div>
 
@@ -41,6 +42,24 @@
 <div class="news-section breaking-news" id="breaking">
 <h2 class="section-header">🚨 Breaking News</h2>
 <div class="stories-container">
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-radio"></span>
+                <span class="title"><a href="https://www.npr.org/2025/09/29/nx-s1-5556772/latin-superstar-bad-bunny-will-headline-the-2026-super-bowl-halftime-show" target="_blank">Latin superstar Bad Bunny will headline the 2026 Super Bowl halftime show</a></span>
+                <span class="feed">NPR Topics: News</span>
+                <span class="time">2025-09-29 06:41</span>
+            </div>
+        </div>
+<div class="story">
+            
+            <div class="story-content">
+                <span class="fa fa-fw fa-globe"></span>
+                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/29/afghanistans-bagram-airbase-why-is-trump-desperate-to-take-it-back?traffic_source=rss" target="_blank">Afghanistan’s Bagram airbase: Why is Trump desperate to take it back?</a></span>
+                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
+                <span class="time">2025-09-29 06:27</span>
+            </div>
+        </div>
 <div class="story">
             <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fc3/live/79042050-9c47-11f0-82b3-31d97f4e1ffa.jpg" alt="Pro-EU party in Moldova set to win vote mired in claims of Russian interference" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
@@ -60,39 +79,21 @@
             </div>
         </div>
 <div class="story">
+            <img src="https://s.abcnews.com/images/US/michiganone_1759105816705_hpMain_4x3t_384.jpg" alt="Gunman in Michigan LDS church shooting was a veteran of the Iraq War" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-tv"></span>
+                <span class="title"><a href="https://abcnews.go.com/US/gunman-michigan-lds-church-shooting-veteran-iraq-war/story?id=126025402" target="_blank">Gunman in Michigan LDS church shooting was a veteran of the Iraq War</a></span>
+                <span class="feed">ABC News: Top Stories</span>
+                <span class="time">2025-09-29 03:24</span>
+            </div>
+        </div>
+<div class="story">
             
             <div class="story-content">
                 <span class="fa fa-fw fa-globe"></span>
                 <span class="title"><a href="https://www.aljazeera.com/features/2025/9/29/cruel-joke-how-indian-h-1b-dreams-are-crash-landing-after-trump-fee-hike?traffic_source=rss" target="_blank">‘Cruel joke’: How Indian H-1B dreams are crash landing after Trump fee hike</a></span>
                 <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
                 <span class="time">2025-09-29 03:16</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-globe"></span>
-                <span class="title"><a href="https://www.aljazeera.com/news/2025/9/29/china-and-north-korea-agree-to-resist-hegemony-foreign-ministry-says?traffic_source=rss" target="_blank">China and North Korea agree to resist ‘hegemony’, Foreign Ministry says</a></span>
-                <span class="feed">Al Jazeera – Breaking News, World News and Video from Al Jazeera</span>
-                <span class="time">2025-09-29 02:55</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f76b/live/b72b1700-9c95-11f0-928c-71dbb8619e94.jpg" alt="At least four dead and several injured in shooting at Mormon church in Michigan" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-earth-americas"></span>
-                <span class="title"><a href="https://www.bbc.com/news/articles/ceq2vd15glwo?at_medium=RSS&at_campaign=rss" target="_blank">At least four dead and several injured in shooting at Mormon church in Michigan</a></span>
-                <span class="feed">BBC News</span>
-                <span class="time">2025-09-29 01:25</span>
-            </div>
-        </div>
-<div class="story">
-            <img src="https://s.abcnews.com/images/US/michigan-church-shooting-hd-bh-250928_1759077051681_hpMain_4x3t_384.jpg" alt="4 dead, 8 injured in Michigan church shooting and fire set by gunman: Police" class="story-image" loading="lazy" onerror="this.style.display='none'">
-            <div class="story-content">
-                <span class="fa fa-fw fa-tv"></span>
-                <span class="title"><a href="https://abcnews.go.com/US/multiple-people-shot-michigan-church-police/story?id=126015196" target="_blank">4 dead, 8 injured in Michigan church shooting and fire set by gunman: Police</a></span>
-                <span class="feed">ABC News: Top Stories</span>
-                <span class="time">2025-09-29 01:15</span>
             </div>
         </div>
 </div>
@@ -160,6 +161,15 @@
 <h2 class="section-header">🛠️ Development</h2>
 <div class="stories-container">
 <div class="story">
+            <img src="https://res.infoq.com/news/2025/09/apollo-client-4-released/en/headerimage/header-1758999901400.jpg" alt="Apollo GraphQL Client 4.0 Released with Leaner Bundles and Strengthened TypeScript Safety" class="story-image" loading="lazy" onerror="this.style.display='none'">
+            <div class="story-content">
+                <span class="fa fa-fw fa-info-circle"></span>
+                <span class="title"><a href="https://www.infoq.com/news/2025/09/apollo-client-4-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global" target="_blank">Apollo GraphQL Client 4.0 Released with Leaner Bundles and Strengthened TypeScript Safety</a></span>
+                <span class="feed">InfoQ</span>
+                <span class="time">2025-09-29 07:00</span>
+            </div>
+        </div>
+<div class="story">
             <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu9twiru1c7un8ocq7osi.png" alt="From UI to XI: Designing eXperiential Interfaces" class="story-image" loading="lazy" onerror="this.style.display='none'">
             <div class="story-content">
                 <span class="fa fa-fw fa-code"></span>
@@ -202,15 +212,6 @@
                 <span class="title"><a href="https://dev.to/jesus_oviedoriquelme_084/mlzc25-05-analisis-exploratorio-de-datos-eda-el-arte-de-descubrir-historias-ocultas-4f7" target="_blank">MLZC25-05. Análisis Exploratorio de Datos (EDA): El Arte de Descubrir Historias Ocultas</a></span>
                 <span class="feed">DEV Community</span>
                 <span class="time">2025-09-29 02:11</span>
-            </div>
-        </div>
-<div class="story">
-            
-            <div class="story-content">
-                <span class="fa fa-fw fa-y"></span>
-                <span class="title"><a href="https://f-droid.org/2025/09/29/google-developer-registration-decree.html" target="_blank">F-Droid and Google&#x27;s Developer Registration Decree</a></span>
-                <span class="feed">Hacker News</span>
-                <span class="time">2025-09-29 02:10</span>
             </div>
         </div>
 </div>
@@ -300,8 +301,8 @@
 
 <div class="newspaper-footer">
     <div class="stats">
-        📊 Displayed: 26 | 📅 Last 24h: 95 | 📡 Total Sources: 41 | 📸 With Images: 261 |
-        🔄 Last Updated: 06:02 UTC
+        📊 Displayed: 26 | 📅 Last 24h: 98 | 📡 Total Sources: 42 | 📸 With Images: 260 |
+        🔄 Last Updated: 07:02 UTC
     </div>
     <div class="footer-note">
         Showing recent articles (max 6 per section) • Updated every hour • Built with ❤️ using RSS feeds
